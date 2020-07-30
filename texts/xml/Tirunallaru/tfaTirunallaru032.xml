@@ -57,17 +57,16 @@
          
       	<div type="edition" xml:lang="tam">
            
-           <ab>
-           	<lb n="01"/><hi rend="grantha">svasti śrī</hi>
-           </ab>
+      		<ab>
+      			<lb n="01"/><hi rend="grantha">svasti śrī</hi>
+      		</ab>
       		
-      	<p>
-    		
-      		<lb n="1"/>vīramōkaṉ kāṭavarāya<unclear>ṉ</unclear>
-      		<lb n="2"/>Aḻakiya-nampirāṭ<unclear>ṭi</unclear>
+      		<p>      			
+      			<lb n="1"/>vīramōkaṉ kāṭavarāya<unclear>ṉ</unclear>
+      			<lb n="2"/>Aḻakiya-nampirāṭ<unclear>ṭi</unclear>      			    			
+      		</p>
+      		
       		<gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
-
-            </p>
          
       	</div>
          

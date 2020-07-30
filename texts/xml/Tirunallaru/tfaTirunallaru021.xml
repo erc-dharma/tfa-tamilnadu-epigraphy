@@ -5,7 +5,8 @@
 	<teiHeader xml:lang="eng">
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, Mahāmaṇḍapa, south wall, time of Vikramacōḻa, year undetermined</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, Mahāmaṇḍapa, south wall, time of
+					Vikramacōḻa, year undetermined</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -37,7 +38,7 @@
 							California, 94041, USA.</p>
 						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal and Emmanuel Francis.</p>
 						<!-- (c) OK?-->
-						</licence>
+					</licence>
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
@@ -56,12 +57,16 @@
          
       	<div type="edition" xml:lang="tam">
            
-      	<p>
-<lb n="1"/><hi rend="grantha">svasti śrī</hi> t<unclear>i</unclear>r<unclear>i</unclear>puvana-cakka<unclear>ra</unclear>
-<lb n="2" break="no"/>vattikaḷ <hi rend="grantha">śrī</hi>-vikkirama-cō 
-<gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
-            </p>
-         
+      	
+      		<p>
+      			<lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
+      		<p>
+      			t<unclear>i</unclear>r<unclear>i</unclear>puvana-cakka<unclear>ra</unclear>
+      			<lb n="2" break="no"/>vattikaḷ <hi rend="grantha">śrī</hi>-vikkirama-cō
+      		</p>
+      		
+      		<gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
+                     
       	</div>
          
       	<div type="apparatus">

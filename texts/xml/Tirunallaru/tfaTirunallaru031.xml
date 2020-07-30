@@ -57,12 +57,12 @@
          
       	<div type="edition" xml:lang="tam">
            
-      	<p>
-<lb n="1"/><hi rend="grantha"><unclear>svas</unclear>ti śrī</hi> <unclear>vi</unclear>ramō<hi rend="grantha">ha</hi>ṉṉāṉa kāṭava
-<lb break="no" n="2"/><unclear>r</unclear>āyaṉṉ aḻakiya-nampirāṭṭiyēṉ tiruppa
-<gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
-            </p>
-         
+      	
+      		<p><lb n="1"/><hi rend="grantha"><unclear>svas</unclear>ti śrī</hi></p>
+      		<p><unclear>vi</unclear>ramō<hi rend="grantha">ha</hi>ṉṉāṉa kāṭava
+      			<lb break="no" n="2"/><unclear>r</unclear>āyaṉṉ aḻakiya-nampirāṭṭiyēṉ tiruppa</p>
+      		<gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
+                     
       	</div>
          
       	<div type="apparatus">
