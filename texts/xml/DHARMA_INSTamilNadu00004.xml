@@ -87,40 +87,44 @@
 	<hi rend="grantha">svasti śrī</hi>
 </p>
 	
-<lg>
-	
-<l>tiṅ<lb n="2" break="no"/>kaḷ-ēr taru taṉ<unclear>ṟo</unclear><lb n="3" break="no"/>ṅkal veṇkuṭaik kīḻ</l>
-<l><lb n="4" break="no"/>nilamakaḷ nilava malarmakaḷ</l>
-<l><lb n="5" break="no"/>puṇarn=tu <unclear>c</unclear>eṅ<supplied reason="omitted">kō*</supplied>l ōccik karuṅka<lb n="6" break="no"/>li kaṭintu</l>
-<l>tantaiyar tamai<lb n="7" break="no"/>yaṉ tampiyar taṉ ṟiru</l>
-<l>-manta<lb n="8" break="no"/>r eṉṟ’ ivarai maṇimuṭi cūṭṭi<lb n="9" break="no"/>k</l>
-<l>kaṉṉi kāvalar teṉṉavar mū<lb n="10" break="no"/>varuḷ</l>
-
-<lb n="11" break="no"/>
-	
-<lb n="31"/>
-
-<milestone type="pagelike" unit="column" n="B"/>
-		
-<lb n="32"/>
-<lb n="33" break="no"/>
-
-<lb n="58"/>
-
-<milestone type="pagelike" unit="column" n="C"/>
-	
-<lb n="59"/>
-<lb n="60" break="no"/>
-	
-<lb n="78"/>
-
-<milestone type="pagelike" unit="column" n="D"/>
-		
-<lb n="79"/>
-<lb n="80" break="no"/>
-
-<lb n="85" break="no"/>
-</lg>
+    <lg met="āciriyappā" n="1 >
+       <l n="1">
+          tiṅ<lb n="2" break="no"/>kaḷ-ēr taru taṉ<unclear>ṟo</unclear><lb n="3" break="no"/>ṅkal veṇkuṭaik kīḻ</l>
+       <l n="2">
+          <lb n="4" break="no"/>nilamakaḷ nilava malarmakaḷ</l>
+       <l n="3">
+          <lb n="5" break="no"/>puṇarn=tu <unclear>c</unclear>eṅ<supplied reason="omitted">kō*</supplied>l ōccik karuṅka<lb n="6" break="no"/>li kaṭintu</ln>
+          <l n="4">
+             tantaiyar tamai<lb n="7" break="no"/>yaṉ tampiyar taṉ ṟiru</l>
+          <l n="5">
+             -manta<lb n="8" break="no"/>r eṉṟ’ ivarai maṇimuṭi cūṭṭi<lb n="9" break="no"/>k</l>
+          <l n="6">kaṉṉi kāvalar teṉṉavar mū<lb n="10" break="no"/>varuḷ</l>
+          
+          <lb n="11" break="no"/>
+          
+          <lb n="31"/>
+          
+          <milestone type="pagelike" unit="column" n="B"/>
+          
+          <lb n="32"/>
+          <lb n="33" break="no"/>
+          
+          <lb n="58"/>
+          
+          <milestone type="pagelike" unit="column" n="C"/>
+          
+          <lb n="59"/>
+          <lb n="60" break="no"/>
+          
+          <lb n="78"/>
+          
+          <milestone type="pagelike" unit="column" n="D"/>
+          
+          <lb n="79"/>
+          <lb n="80" break="no"/>
+          
+          <lb n="85" break="no"/>
+    </lg>
 
 <p>
 
