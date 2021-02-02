@@ -8,8 +8,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, Mahāmaṇḍapa, south wall, time of
-					Vikramacōḻa, year undetermined</title>
+            <title>Tirunaḷḷāṟu 3, Tarppāraṇyēcuvarar temple, central shrine, south wall, time of
+					of Rājādhirāja, year 30</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -28,7 +28,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">tfaTirunallaru021</idno>
+            <idno type="filename">DHARMA_INSTamilNadu00004</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -72,7 +72,7 @@
       </encodingDesc>
       <revisionDesc>
          <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change status="draft" when="2020-02-21" who="part:emfr">Creation of the file on the
+         <change who="part:emfr" when="2020-02-14" status="draft">Creation of the file on the
 				repository</change>
       </revisionDesc>
    </teiHeader>
@@ -80,76 +80,134 @@
 
 <body>
          
-      	<div type="edition" xml:lang="tam">
-           
-      	
-      		<p>
-      			<lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
-      		<p>
-      			t<unclear>i</unclear>r<unclear>i</unclear>puvana-cakka<unclear>ra</unclear>
-      			<lb n="2" break="no"/>vattikaḷ <hi rend="grantha">śrī</hi>-vikkirama-cō
-      		</p>
+ <div type="edition" xml:lang="tam-Latn">
+        
+<p>
+	<lb n="1"/><milestone type="pagelike" unit="column" n="A"/>
+	<hi rend="grantha">svasti śrī</hi>
+</p>
+	
+<lg>
+	
+<l>tiṅ<lb n="2" break="no"/>kaḷ-ēr taru taṉ<unclear>ṟo</unclear><lb n="3" break="no"/>ṅkal veṇkuṭaik kīḻ</l>
+<l><lb n="4" break="no"/>nilamakaḷ nilava malarmakaḷ</l>
+<l><lb n="5" break="no"/>puṇarn=tu <unclear>c</unclear>eṅ<supplied reason="omitted">kō*</supplied>l ōccik karuṅka<lb n="6" break="no"/>li kaṭintu</l>
+<l>tantaiyar tamai<lb n="7" break="no"/>yaṉ tampiyar taṉ ṟiru</l>
+<l>-manta<lb n="8" break="no"/>r eṉṟ’ ivarai maṇimuṭi cūṭṭi<lb n="9" break="no"/>k</l>
+<l>kaṉṉi kāvalar teṉṉavar mū<lb n="10" break="no"/>varuḷ</l>
+
+<lb n="11" break="no"/>
+	
+<lb n="31"/>
+
+<milestone type="pagelike" unit="column" n="B"/>
+		
+<lb n="32"/>
+<lb n="33" break="no"/>
+
+<lb n="58"/>
+
+<milestone type="pagelike" unit="column" n="C"/>
+	
+<lb n="59"/>
+<lb n="60" break="no"/>
+	
+<lb n="78"/>
+
+<milestone type="pagelike" unit="column" n="D"/>
+		
+<lb n="79"/>
+<lb n="80" break="no"/>
+
+<lb n="85" break="no"/>
+</lg>
+
+<p>
+
+<lb n="86" break="no"/>
+ 	
+<lb n="105"/>
+
+<milestone type="pagelike" unit="column" n="E"/>
+
+<lb n="106"/>
+<lb n="107" break="no"/>
+<lb n="118"/>
+
+</p>
       		
-      		<gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
-                     
-      	</div>
-         
+</div>
+	
       	<div type="apparatus">
            
                <listApp>
                   <app loc="1">
-                  	<lem>t<unclear>i</unclear>r<unclear>i</unclear>puvana-cakka<unclear>ra</unclear></lem>
-                  	<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">tiripuvana-cakkara</rdg>
-                  	<rdg source="bib:Vijayavenugopal2017_01">tiripuvana cakkara</rdg>
+                     <lem/>
+                     <rdg source="bib:AuthorYear_01"/>
                   </app>
                </listApp>         
       	</div>
       	
-      	<div resp="part:vija" type="translation">
-      		<p n="1">
-      			Prosperity! Fortune!
+      	<div type="translation" resp="part:vija">
+      		
+      		<p n="1-87">
+      			Meykkīrtti of Rājādhirāja I Cōḻa.
       		</p>
-      		<p n="1-2">
-      			The emperor of the three worlds, the glorious Vikramacōḻa
-      			<gap reason="lost"/>
+      		
+      		<p n="87-89">
+      			Thirtieth year of Śri-Vijaya-Rajendra-deva ...
+      		</p>
+      		
+      		<p n="89-118">
+      			<!--To be completed-->      		
       		</p>
       		
       	</div>
       	
-      	<div type="commentary"/>
+      	<div type="commentary">
       		
+      		<p>For the different versions of the Meykkīrtti of Rājādhirāja I Cōḻa, see <bibl><ptr target="bib:Cuppiramaṇiyam1983_01"/><citedRange unit="page">39-45</citedRange></bibl>
+      		</p>
+      		
+      	</div>
       	
       	<div type="bibliography">
 	
       	<p>
-First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 470).
-First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 470).
-Re-edited with facsimile in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>. <!--photo instead of facsimile??-->
-This edition revised by G. Vijayavenugopal (2019).
-Reviewing, encoding and critical apparatus by Emmanuel Francis (2020).
+First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 453).
+First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 453).
+Re-edited with facsimile in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>.<!--photo instead of facsimile??-->
+This edition revised by G. Vijayavenugopal.
+Reviewing, encoding and critical apparatus by Emmanuel Francis.
             </p>
            
       		<listBibl type="primary">
       			<bibl>
       				<ptr target="bib:Vijayavenugopal2017_01"/>
-      				<citedRange unit="item">21</citedRange>
-      				<citedRange unit="page">60-61</citedRange>
+      				<citedRange unit="item">3</citedRange>
+      				<citedRange unit="page">18-21</citedRange>
       			</bibl>
       			<bibl>
       				<ptr target="bib:Kuppusamy+al2010_01"/>
-      				<citedRange unit="item">470</citedRange>
-      				<citedRange unit="page">201</citedRange>
+      				<citedRange unit="item">453</citedRange>
+      				<citedRange unit="page">188-189</citedRange>
       			</bibl>
       			<bibl>
       				<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
-      				<citedRange unit="item">470</citedRange>
-      				<citedRange unit="page">426</citedRange>
+      				<citedRange unit="item">453</citedRange>
+      				<citedRange unit="page">394-399</citedRange>
       			</bibl>
-      			
+      		      			
       		</listBibl>
       		
       		<listBibl type="secondary">
-      			<bibl>ARIE 1965-66/449</bibl> <!--to be updated-->
+      			
+      			<bibl>
+      				<ptr target="bib:Cuppiramaṇiyam1983_01"/> 
+      				<citedRange unit="page">39-45</citedRange>
+      			</bibl>
+      			
+      			<bibl>ARIE 1965-66/44</bibl> <!--to be updated-->
       		</listBibl>
       		
         </div>
