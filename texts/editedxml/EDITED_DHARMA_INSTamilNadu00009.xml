@@ -8,30 +8,34 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, central shrine, south wall, time of
-					***, year ***</title>
-            <!--to be updated-->
+            <title>Aracalāpuram, memorial stone for a cock</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
                </persName>
+               <persName ref="part:vagi">
+                  <forename>Valérie</forename>
+                  <surname>Gillet</surname>
+               </persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
-               <persName ref="part:vija">
-                  <forename>G.</forename>
-                  <surname>Vijayavenugopal</surname>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+               <persName ref="part:vagi">
+                  <forename>Valérie</forename>
+                  <surname>Gillet</surname>
                </persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSTamilNadu00000</idno>
-            <!--update!-->
-            <!--update!-->
+            <idno type="filename">DHARMA_INSTamilNadu00009</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -39,8 +43,7 @@
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by G. Vijayavenugopal and Emmanuel Francis.</p>
-                  <!-- (c) OK?-->
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis and Valérie Gillet.</p>
                </licence>
             </availability>
             <date from="2019" to="2025">2019-2025</date>
@@ -87,9 +90,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding
-				template v03</change>
-         <change status="draft" when="2020-02-13" who="part:emfr">Creation of the file on the
+         <change status="draft" when="2021-03-26" who="part:emfr part:vagi">Creation of the file on the
 				repository</change>
       </revisionDesc>
    </teiHeader>
@@ -99,30 +100,32 @@
          
       	<div type="edition" xml:lang="tam">
            
-      	<p>
-<lb n="1"/>
-<lb break="no" n="2"/>
-<lb n="3"/>
-            </p>
+      		<p>
+      			<lb n="1"/>mukaiy<choice><sic>u</sic><corr>ū</corr></choice>ru mēṟ·<unclear>c</unclear><supplied reason="lost">ē</supplied>
+      			<lb break="no" n="2"/>ri<unclear reason="eccentric_ductus">k</unclear>uy āṭi<unclear reason="eccentric_ductus">k= ka</unclear>			      		
+      			<lb n="3" break="no"/>rukiya kōḻi
+      			      			      			
+      		</p>
          
       	</div>
          
       	<div type="apparatus">
            
                <listApp>
-                  <app loc="1"> <!--to be updated-->
-                     <lem><!-- fill in a lemma here --></lem>
-                     <rdg source="bib:AuthorYear_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  <app loc="1">
+                     <lem>°<unclear>c</unclear><supplied reason="lost">ē</supplied>
+      			<lb break="no" n="2"/>ri<unclear reason="eccentric_ductus">k</unclear>uy</lem>
+                     <rdg source="bib:Mahadevan2003_01">°c<supplied reason="lost">ē</supplied>
+      			<lb break="no" n="2"/>ri<unclear reason="eccentric_ductus">k</unclear>uy</rdg>
+                  	<note>The syllable <foreign>ku</foreign> of eccentric ductus  was previously read <foreign>ṭu</foreign>.<!--Update: add reference if available--></note>      		
                   </app>
                </listApp>         
       	</div>
       	
-      	<div resp="part:vija" type="translation">
-      		<p n="1-"> <!--update!-->
-      			Meykkīrtti of Rājādhirāja I Cōḻa. <!--update!-->
-      		</p>
-      		<p n="2-"> <!--update!-->
-      			
+      	<div resp="part:emfr part:vagi" type="translation">
+      		
+      		<p n="1-3">
+      			The cock, which was scarred<note><ptr target="bib:Mahadevan2003_01"/> translates as “was engraved” as he equates <foreign>karukiya</foreign> with <foreign>karukkiya</foreign>.</note> when fighting for the Mēṟcēri<note>That is, the western quarters.</note> of Mukaiyūr.
       		</p>
       		
       	</div>
@@ -132,48 +135,31 @@
       	</div>
       	
       	<div type="bibliography">
-      		<p>
-      			
-      		</p>
-	
+      		
       	<p>
-First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI ***).
-First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI ***).
-Re-edited with facsimile in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>. <!--photo instead of facsimile??-->
-This edition revised by G. Vijayavenugopal.
-Reviewing, encoding and critical apparatus by Emmanuel Francis.
+First edited by Rajavelu 1996 <!--Update-->; re-edited by Rajan 1997 <!--Update-->, Mahadevan 1997 <!--Update-->, Mahadevan 1998<!--Update-->, and <bibl><ptr target="bib:Mahadevan2003_01"/></bibl>; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis and Valérie Gillet (2021) from photographs.
             </p>
            
       		<listBibl type="primary">
-      			<bibl>
-      				<ptr target="bib:Vijayavenugopal2017_01"/>
-      				<citedRange unit="item">No.</citedRange>
-      				<citedRange unit="page">page</citedRange>
+      			<bibl n="IM">
+      				<ptr target="bib:Mahadevan2003_01"/>
+      				<citedRange unit="item">112</citedRange>
+      				<citedRange unit="page">467, 530, 624-626</citedRange>
+      				<citedRange unit="plate">47A</citedRange>
       			</bibl>
-      			<bibl>
-      				<ptr target="bib:Kuppusamy+al2010_01"/>
-      				<citedRange unit="item">No.</citedRange>
-      				<citedRange unit="page">page</citedRange>
-      			</bibl>
-      			<bibl>
-      				<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
-      				<citedRange unit="item">No.</citedRange>
-      				<citedRange unit="page">page</citedRange>
-      			</bibl>
-      			<!--<bibl><!-\-VVG Avanam edition for first edited inscriptions-\-></bibl>-->
-      			
+      			      			
       		</listBibl>
       		
-      		<listBibl type="secondary">
+      		<!--<listBibl type="secondary">
       			
+      			ADD K. RAJAN 2000
       			<bibl>
-      				<ptr target="bib:Cuppiramaṇiyam1983_01"/> 
-      				<citedRange unit="page">39-45</citedRange> <!--update!-->
-      			</bibl>
+      				<ptr target="bib:"/> 
+      				<citedRange unit="page"></citedRange> 
+      			</bibl>     			
       			
-      			<bibl>ARIE 1965-66/43</bibl> <!--to be updated-->
       		
-      		</listBibl>
+      		</listBibl>-->
       		
         </div>
       </body>
