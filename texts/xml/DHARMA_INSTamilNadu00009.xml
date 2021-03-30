@@ -56,11 +56,11 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary><!-- offers the possibility to give a summary of the inscription's content--></summary>
+						<summary>Memorial stone set up in honour of a cock, which fought for the western quarters (<foreign>mēl-cēri</foreign>) of a village. It is not clear whether the stone commemorates the death of the cock when fighting (as for deceased warrior) or its victorious fight.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+							<p>There are characters of eccentric ductus: <foreign>ku</foreign> and <foreign>k=ka</foreign> (line2).</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -110,20 +110,25 @@
       	<div type="apparatus">
            
                <listApp>
-                  <app loc="1">
-                     <lem>°<unclear>c</unclear><supplied reason="lost">ē</supplied>
-      			<lb break="no" n="2"/>ri<unclear reason="eccentric_ductus">k</unclear>uy</lem>
-                     <rdg source="bib:Mahadevan2003_01">°c<supplied reason="lost">ē</supplied>
-      			<lb break="no" n="2"/>ri<unclear reason="eccentric_ductus">k</unclear>uy</rdg>
-                  	<note>The syllable <foreign>ku</foreign> of eccentric ductus  was previously read <foreign>ṭu</foreign>.<!--Update: add reference if available--></note>      		
-                  </app>
+               	
+               	<app loc="1">
+               		<lem>°<unclear>c</unclear><supplied reason="lost">ē</supplied>
+               			<lb break="no" n="2"/>ri<unclear reason="eccentric_ductus">k</unclear>uy</lem>
+               		<rdg source="bib:Makatevan1997_01">°c<supplied reason="lost">e</supplied>
+               			<lb break="no" n="2"/>riṭuy</rdg>
+               		<rdg source="bib:Makatevan1998_01">°c<supplied reason="lost">ē</supplied>
+               			<lb break="no" n="2"/>ri<unclear>k</unclear>ku</rdg>
+               		<rdg source="bib:Mahadevan2003_01">°c<supplied reason="lost">ē</supplied>
+               			<lb break="no" n="2"/>ri<unclear reason="eccentric_ductus">k</unclear>uy</rdg>
+               		<note>The syllable <foreign>ku</foreign> of eccentric ductus was previously read <foreign>ṭu</foreign>.</note>      		
+               	</app>
                </listApp>         
       	</div>
       	
       	<div resp="part:emfr part:vagi" type="translation">
       		
       		<p n="1-3">
-      			The cock, which was scarred<note><ptr target="bib:Mahadevan2003_01"/> translates as "was engraved" as he equates <foreign>karukiya</foreign> with <foreign>karukkiya</foreign>.</note> when fighting for the Mēṟcēri<note>That is, the western quarters.</note> of Mukaiyūr.
+      			The cock, which was scarred<note><!--<bibl><ptr target="bib:Mahadevan2003_01"/></bibl> --><!--display issue for <bibl> within <note>-->translates as "was engraved" as he equates <foreign>karukiya</foreign> with <foreign>karukkiya</foreign>. We suggest that <foreign>karukiya</foreign> is the past form of <foreign>karuku-tal</foreign>.</note> when fighting for the Mēṟcēri<note>That is, the western quarters.</note> of Mukaiyūr.
       		</p>
       		
       	</div>
@@ -135,11 +140,30 @@
       	<div type="bibliography">
       		
       	<p>
-First edited by Rajavelu 1996 <!--Update-->; re-edited by Rajan 1997 <!--Update-->, Mahadevan 1997 <!--Update-->, Mahadevan 1998<!--Update-->, and <bibl><ptr target="bib:Mahadevan2003_01"/></bibl>; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis and Valérie Gillet (2021) from photographs.
+First edited in <bibl><ptr target="bib:Rajavelu1996_01"/></bibl>; re-edited in <bibl><ptr target="bib:Makatevan1997_01"/></bibl>, <bibl><ptr target="bib:Rajan1997_01"/></bibl>, <bibl><ptr target="bib:Makatevan1998_01"/></bibl>,  and <bibl><ptr target="bib:Mahadevan2003_01"/></bibl>; re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis and Valérie Gillet (2021) from photographs (2013).
             </p>
            
       		<listBibl type="primary">
-      			<bibl n="IM">
+      			
+      			<bibl n="SR">
+      				<ptr target="bib:Rajavelu1996_01"/>      				
+      			</bibl>
+      			
+      			<bibl n="IM1997">
+      				<ptr target="bib:Makatevan1997_01"/>
+      				<citedRange unit="page">10-14</citedRange>
+      			</bibl>
+      			
+      			<bibl n="KR1997">
+      				<ptr target="bib:Rajan1997_01"/>
+      				<citedRange unit="page">315-316</citedRange>
+      			</bibl>
+      			
+      			<bibl n="IM1998">
+      				<ptr target="bib:Makatevan1998_01"/>
+      			</bibl>
+      			      			    			
+      			<bibl n="M2003">
       				<ptr target="bib:Mahadevan2003_01"/>
       				<citedRange unit="item">112</citedRange>
       				<citedRange unit="page">467, 530, 624-626</citedRange>
@@ -148,16 +172,14 @@ First edited by Rajavelu 1996 <!--Update-->; re-edited by Rajan 1997 <!--Update-
       			      			
       		</listBibl>
       		
-      		<!--<listBibl type="secondary">
+      		<listBibl type="secondary">
       			
-      			ADD K. RAJAN 2000
-      			<bibl>
-      				<ptr target="bib:"/> 
-      				<citedRange unit="page"></citedRange> 
-      			</bibl>     			
-      			
+      			<bibl n="KR2000">
+      				<ptr target="bib:Rajan2000_01"/>      				
+      				<citedRange unit="page">65</citedRange>
+      			</bibl>	      			
       		
-      		</listBibl>-->
+      		</listBibl>
       		
         </div>
       </body>
