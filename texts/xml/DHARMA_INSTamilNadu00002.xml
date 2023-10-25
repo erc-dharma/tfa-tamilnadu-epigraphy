@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu 1, Tarppāraṇyēcuvarar temple, central shrine, southern base, time
+				<title>Tirunaḷḷāṟu 1, Tarppāraṇyēcuvarar temple, time
 					of Rājādhirāja, year 27</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
@@ -36,14 +36,26 @@
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal and Emmanuel Francis.</p>
-						<!-- (c) OK?-->
+						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal.</p>						
 					</licence>
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary></summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
@@ -68,80 +80,60 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:axja" when="2020-11-03" status="draft"
-				>Updating toward the encoding template v03</change>
-			<change who="part:emfr" when="2020-02-11" status="draft"
-				>Creation of the file on the
-				repository</change>
+			<change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
+			<change who="part:emfr" when="2020-02-11" status="draft">Creation of the file on the repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
       <body>
              	
 <div type="edition" xml:lang="tam-Latn">
-
-<p>		
-<lb n="1"/><milestone type="gridlike" unit="column" n="a"/>
-	<hi rend="grantha">svasti śrī</hi> yāṇṭu Irupattēḻāvatu nāḷ toṇṇūṟiṉāl kō-v<choice><orig>i</orig><reg>ī</reg></choice>ra-pāṇṭiyaṉ talaiyum tēvar
-<milestone type="gridlike" unit="column" n="b"/>
-	kāntaḷūr
-	<gap reason="illegible" unit="character" quantity="3" precision="low"/>
-<milestone type="gridlike" unit="column" n="c"/>
-	<gap reason="illegible" unit="character" quantity="4"/>
-	<hi rend="grantha">ja</hi>kē<hi rend="grantha">sa</hi>ri
-	<gap reason="lost" extent="unknown" unit="character"/>
-
-	<lb n="2"/><milestone type="gridlike" unit="column" n="a"/>
-	yiṉāl Arumoḻitēva-c-caruppētimaṅkalam pū<hi rend="grantha">rvva</hi>-tēcamum kaṅkaiyum kaṭāramum koṇṭaruḷiṇa <unclear>U</unclear>
-<milestone type="gridlike" unit="column" n="b"/>
-	yarkku yāṇṭu 2
-<milestone type="gridlike" unit="column" n="c"/>
-	<gap reason="illegible" unit="character" quantity="5"/>kkutāka
-	<gap reason="lost" extent="unknown" unit="character"/>
-
-	<lb n="3"/><milestone type="gridlike" unit="column" n="a"/>
-	vakaiyālaṉ veḷḷāṉvakai varicaik k<choice><orig>i</orig><reg>ī</reg></choice>ḻ Iṟaikkuṭalāka nilattukkut tavirntu I<choice><orig>ṉ</orig><reg>n</reg></choice>-nila munnāḷ U⌈
-<milestone type="gridlike" unit="column" n="b"/>
-	ṭaiyārai mā<unclear>ṟi</unclear><gap reason="illegible" unit="character" quantity="2"/>
-<milestone type="gridlike" unit="column" n="c"/>
-	<gap reason="lost" extent="unknown" unit="character"/>
-
-
-	<lb n="4"/><milestone type="gridlike" unit="column" n="a"/>
-	variyil iṭat tiruvāy-moḻiṉtaruḷiṉār reṉṟu tirumantira-Ōlai caḷukki-k-kulakāla-mūvēntavēḷāṉ
-<milestone type="gridlike" unit="column" n="b"/>
-	ṉ Eḻutti<unclear>ṉ</unclear><gap reason="lost" unit="character" quantity="2"/>
-<milestone type="gridlike" unit="column" n="c"/>
-	<unclear>mu</unclear> 
-	<gap reason="illegible" extent="unknown" unit="character"/>
-	<unclear>ka kōṉum maturāntaka</unclear>
-	<gap reason="lost" extent="unknown" unit="character"/>
-
-
-	<lb n="5"/><milestone type="gridlike" unit="column" n="a"/>
-	cēkaranallūr kiḻavar Araiyar
-	<gap reason="lost" unit="character" quantity="3"/>
-	yilūraṉ maṇṇai koṇṭa cōḻa mūveṉta
-	<gap reason="lost" unit="character" quantity="5"/>
-	<unclear>ru</unclear>
-<milestone type="gridlike" unit="column" n="b"/>
-	moḻi tē<gap reason="illegible" unit="character" quantity="1"/>va
-	<gap reason="illegible" unit="character" quantity="2"/>
-<milestone type="gridlike" unit="column" n="c"/>
-	Uṭaiyār Aṟivāṉṉāka
-	<gap reason="lost" extent="unknown" unit="character"/>
-		
-
-	<lb n="6"/><milestone type="gridlike" unit="column" n="a"/>
-	ḷārum <hi rend="grantha">kṣa</hi>t<hi rend="grantha">tra</hi>-cikāmaṇi-vaḷa<unclear>nāṭṭu</unclear>
-	<gap reason="lost" unit="character" quantity="20"/>
-<milestone type="gridlike" unit="column" n="b"/>
-	ṉ cōḻamūvē
-	<gap reason="lost" unit="character" quantity="1"/>
-<milestone type="gridlike" unit="column" n="c"/>
-	ṉ ja<hi rend="grantha">ya</hi> 
-	<gap reason="lost" extent="unknown" unit="character"/>
-</p>
+			
+	<ab>
+		<lb n="1"/>
+		<hi rend="grantha">svasti śrī</hi>
+	</ab>
+	
+	<p>
+		yāṇṭu Irupatt' ēḻ-āvatu nāḷ toṇṇūṟiṉāl kō-v<choice><orig>i</orig><reg>ī</reg></choice>ra-pāṇṭiyaṉ talaiyum tēvar
+		kāntaḷūr-<supplied reason="lost">c cālai kalam aṟutta rā</supplied><hi rend="grantha">ja</hi>kē<hi rend="grantha">sa</hi>ri <gap reason="lost" extent="unknown" unit="character"/>
+	</p>
+	<p>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="2"/>
+		yiṉāl Arumoḻitēva-c-caruppēti-maṅkalam pū<hi rend="grantha">rvva</hi>-tēcamum kaṅkaiyum kaṭāramum koṇṭaruḷiṇa <gap reason="lost" extent="unknown" unit="character"/> yarkku yāṇṭu 2		
+		<gap reason="illegible" unit="character" quantity="5"/>kkutāka
+		<gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="3"/>
+		vakaiyālaṉ veḷḷāṉvakai varicaik k<choice><orig>i</orig><reg>ī</reg></choice>ḻ Iṟaikkuṭalāka nilattukkut tavirntu I<choice><orig>ṉ</orig><reg>n</reg></choice>-nila munnāḷ Uṭaiyārai mā<unclear>ṟi</unclear><gap reason="illegible" unit="character" quantity="2"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+				
+		<lb n="4"/>
+		variyil iṭat tiruvāy-moḻiṉtaruḷiṉār reṉṟu tirumantira-Ōlai caḷukki-k-kulakāla-mūvēntavēḷāṉ
+		ṉ Eḻutti<unclear>ṉ</unclear><gap reason="lost" unit="character" quantity="2"/>
+		<unclear>mu</unclear> 
+		<gap reason="illegible" extent="unknown" unit="character"/>
+		<unclear>ka kōṉum maturāntaka</unclear>
+		<gap reason="lost" extent="unknown" unit="character"/>
+				
+		<lb n="5"/>
+		cēkaranallūr kiḻavar Araiyar
+		<gap reason="lost" unit="character" quantity="3"/>
+		yilūraṉ maṇṇai koṇṭa cōḻa mūveṉta
+		<gap reason="lost" unit="character" quantity="5"/>
+		<unclear>ru</unclear>
+		moḻi tē<gap reason="illegible" unit="character" quantity="1"/>va
+		<gap reason="illegible" unit="character" quantity="2"/>
+		Uṭaiyār Aṟivāṉṉāka
+		<gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="6"/>
+		ḷārum <hi rend="grantha">kṣa</hi>t<hi rend="grantha">tra</hi>-cikāmaṇi-vaḷa<unclear>nāṭṭu</unclear>
+		<gap reason="lost" unit="character" quantity="20"/>
+		ṉ cōḻamūvē
+		<gap reason="lost" unit="character" quantity="1"/>
+		ṉ ja<hi rend="grantha">ya</hi> 
+		<gap reason="lost" extent="unknown" unit="character"/>
+	</p>
          		
          </div>
          <div type="apparatus">
@@ -179,13 +171,13 @@
                	</app>
                	
                	<app loc="3">
-               		<lem><milestone type="gridlike" unit="column" n="c"/><gap reason="illegible" unit="character" quantity="3"/></lem>
+               		<lem><gap reason="illegible" unit="character" quantity="3"/></lem>
                		<!--Question to AJ: OK to refer to a gap as a lem?-->
                		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">Iṉnila muṉtiri<unclear>k</unclear>ai</rdg>
                	</app>
                	
                	<app loc="3">
-               		<lem><milestone type="gridlike" unit="column" n="c"/><gap reason="lost" extent="unknown" unit="character"/></lem> 
+               		<lem><gap reason="lost" extent="unknown" unit="character"/></lem> 
                		<!--Question to AJ: OK to refer to a gap as a lem?-->
                		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">mukkāḷe Iraṇṭu mā muntiri</rdg>
                	</app>
@@ -205,35 +197,44 @@
                               </listApp>         
          </div>
       	
-<div type="translation" resp="part:vija">
+<div type="translation" resp="part:emfr">
 <!--update translation-->
 		
-      		<p n="1">Prosperity! Fortune! Twenty seventh year, ninetieth day of the king who took the head of the Pāṇḍya<gap reason="lost"/>Kantaḷūr</p>
-      		<p n="2">Arumoḻitēvaccaruppētimaṅkalam, who graciously took the Eastern country, the Ganges and Kaṭāram</p>
-      		<p n="3"> ? (vakaiyālaṉ) of the category veḷḷāṉvakai kīḻ Iṟaikkuṭalāka nilattukkut tavirntu</p> 
-      		<p n="4">so that it is put in the account, he graciously uttered of his glorious mouth the (officer in charge of) tirumantiravōlai Caḷukki-k-kulakāla</p>
-      		<p n="5">...cēkaranallūr kiḻavar Araiyar ... yilūraṉ Maṇṇai-koṇṭa-cōḻa...</p>
-      		<p n="6">of the Kṣatra-cikāmaṇi-vaḷanāṭu Cōḻa-mūvē...</p> 
-      	      	
+	<p n="1">Prosperity! Fortune!</p>
+	
+	<p n="1">Twenty seventh year, ninetieth day of Rājakesarin, the king <supplied reason="subaudible">who took</supplied> the head of the heroic Pāṇḍya king, who apportionned pots at Kāntaḷūrccālai <gap reason="lost"/></p>
+	
+	<p n="1-6">
+		<gap reason="lost"/>
+		Arumoḻitēvaccaruppētimaṅkalam, who graciously took the Eastern country, the Ganges and Kaṭāram
+		<gap reason="ellipsis"/>
+		Vakaiyālaṉ, of the category veḷḷāṉvakai
+		<gap reason="ellipsis"/>
+		<gap reason="lost"/>
+		so that it is put in the account, he graciously uttered of his glorious mouth the (officer in charge of) <foreign>tirumantiravōlai</foreign> Caḷukki-k-kulakāla
+		<gap reason="ellipsis"/>
+		<gap reason="lost"/>
+		cēkaranallūr kiḻavar Araiyar <gap reason="lost"/>yilūraṉ Maṇṇai-koṇṭa-cōḻa
+		<gap reason="ellipsis"/>
+		<gap reason="lost"/>
+		of the Kṣatra-cikāmaṇi-vaḷanāṭu Cōḻa-mūvē
+		<gap reason="ellipsis"/>
+		<gap reason="lost"/>
+	</p> 
+	
       	</div>
       	
 <div type="commentary">
-<!--Use<lb n="2"/> to indicate correspondence?-->
 	      		
       		<p>
-            	<lb n="2"/> Kaṭāram is a port in Southeast Asia. The phrase "who graciously took the Eastern country, the Ganges and Kaṭāram" is formulaic and found in many cōḻa inscriptions".
+            	<lb n="2"/> Kaṭāram is a port in Southeast Asia. The phrase "who graciously took the Eastern country, the Ganges and Kaṭāram" is formulaic and found in many cōḻa inscriptions.
       		</p>
       			
       	</div>
       	
-      	<div type="bibliography">
-      		<p>
-First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 451).
-First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 451).
-Re-edited with facsimile in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>.
-      	<!--photo instead of facsimile??-->
-This edition revised by G. Vijayavenugopal (2019).
-Reviewing, encoding and critical apparatus by Emmanuel Francis (2020).
+<div type="bibliography">
+	<p>First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 451). First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 451). Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>, with photos.</p>
+	<p>This edition revised by G. Vijayavenugopal (2019). Reviewing, encoding and critical apparatus by Emmanuel Francis (2020).
       		</p>
       		      		
       		<listBibl type="primary">
@@ -267,6 +268,7 @@ Reviewing, encoding and critical apparatus by Emmanuel Francis (2020).
 </TEI>
 <!--Missing pictures for the end of inscription? Only 3 segments. It seems there is/was a 4th one. The pictures do not cover some readings of the previous editions.-->
 <!--
+	Tarppāraṇyēcuvarar temple, central shrine, southern base
 	On three perpendiculary contiguous blocks of the base.
 	Tamil language and script.
 	6 lines. 
