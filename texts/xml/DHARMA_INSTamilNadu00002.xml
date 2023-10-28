@@ -8,8 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu 1, Tarppāraṇyēcuvarar temple, time
-					of Rājādhirāja, year 27</title>
+				<title>Tirunaḷḷāṟu 1, Tarppāraṇyēcuvarar temple, time of Rājādhirāja, year 27</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -101,15 +100,15 @@
 	<p>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		<lb n="2"/>
-		yiṉāl Arumoḻitēva-c-caruppēti-maṅkalam pū<hi rend="grantha">rvva</hi>-tēcamum kaṅkaiyum kaṭāramum koṇṭaruḷiṇa <gap reason="lost" extent="unknown" unit="character"/> yarkku yāṇṭu 2		
+		yiṉāl Arumoḻi-tēva-c-caruppēti-maṅkalam pū<hi rend="grantha">rvva</hi>-tēcamum kaṅkaiyum kaṭāramum koṇṭaruḷiṇa <gap reason="lost" extent="unknown" unit="character"/> yarkku yāṇṭu 2		
 		<gap reason="illegible" unit="character" quantity="5"/>kkutāka
 		<gap reason="lost" extent="unknown" unit="character"/>
 		<lb n="3"/>
-		vakaiyālaṉ veḷḷāṉvakai varicaik k<choice><orig>i</orig><reg>ī</reg></choice>ḻ Iṟaikkuṭalāka nilattukkut tavirntu I<choice><orig>ṉ</orig><reg>n</reg></choice>-nila munnāḷ Uṭaiyārai mā<unclear>ṟi</unclear><gap reason="illegible" unit="character" quantity="2"/>
+		vakaiyālaṉ veḷḷāṉvakai varicai-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ Iṟai-k kuṭal-āka nilattukku-t tavirntu I<choice><orig>ṉ</orig><reg>n</reg></choice>-nila munnāḷ Uṭaiyārai mā<unclear>ṟi</unclear><gap reason="illegible" unit="character" quantity="2"/>
 		<gap reason="lost" extent="unknown" unit="character"/>
 				
 		<lb n="4"/>
-		variyil iṭat tiruvāy-moḻiṉtaruḷiṉār reṉṟu tirumantira-Ōlai caḷukki-k-kulakāla-mūvēntavēḷāṉ
+		variyil iṭa-t tiru-vāy-moḻiṉt-aruḷiṉā<surplus>r</surplus>r eṉṟu tirumantira-Ōlai caḷukki kulakāla-mūvēntavēḷāṉ
 		ṉ Eḻutti<unclear>ṉ</unclear><gap reason="lost" unit="character" quantity="2"/>
 		<unclear>mu</unclear> 
 		<gap reason="illegible" extent="unknown" unit="character"/>
@@ -117,19 +116,19 @@
 		<gap reason="lost" extent="unknown" unit="character"/>
 				
 		<lb n="5"/>
-		cēkaranallūr kiḻavar Araiyar
+		cēkaranallūr kiḻavar Arai<unclear>yar</unclear>
 		<gap reason="lost" unit="character" quantity="3"/>
-		yilūraṉ maṇṇai koṇṭa cōḻa mūveṉta
+		yilūraṉ maṇṇai koṇṭa cōḻa-mūvēn<supplied reason="lost">ta</supplied>
 		<gap reason="lost" unit="character" quantity="5"/>
-		<unclear>ru</unclear>
-		moḻi tē<gap reason="illegible" unit="character" quantity="1"/>va
+		<unclear>ru</unclear>moḻi-tē<gap reason="illegible" unit="character" quantity="1"/>va
 		<gap reason="illegible" unit="character" quantity="2"/>
 		Uṭaiyār Aṟivāṉṉāka
 		<gap reason="lost" extent="unknown" unit="character"/>
+		
 		<lb n="6"/>
 		ḷārum <hi rend="grantha">kṣa</hi>t<hi rend="grantha">tra</hi>-cikāmaṇi-vaḷa<unclear>nāṭṭu</unclear>
 		<gap reason="lost" unit="character" quantity="20"/>
-		ṉ cōḻamūvē
+		ṉ cōḻa-mūvē
 		<gap reason="lost" unit="character" quantity="1"/>
 		ṉ ja<hi rend="grantha">ya</hi> 
 		<gap reason="lost" extent="unknown" unit="character"/>
@@ -202,24 +201,22 @@
 		
 	<p n="1">Prosperity! Fortune!</p>
 	
-	<p n="1">Twenty seventh year, ninetieth day of Rājakesarin, the king <supplied reason="subaudible">who took</supplied> the head of the heroic Pāṇḍya king, who apportionned pots at Kāntaḷūrccālai <gap reason="lost"/></p>
+	<p n="1">Twenty seventh year, ninetieth day of Rājakesarin, the king <supplied reason="subaudible">who took</supplied> the head of the heroic Pāṇḍya king, who apportionned pots at Kāntaḷūrccālai <gap reason="ellipsis"/></p>
 	
 	<p n="1-6">
-		<gap reason="lost"/>
-		Arumoḻitēvaccaruppētimaṅkalam, who graciously took the Eastern country, the Ganges and Kaṭāram
 		<gap reason="ellipsis"/>
-		Vakaiyālaṉ, of the category veḷḷāṉvakai
+		Arumoḻitēvaccaruppētimaṅkalam
+		<gap reason="ellipsis"/>who graciously took the Eastern country, the Ganges and Kaṭāram
 		<gap reason="ellipsis"/>
-		<gap reason="lost"/>
-		so that it is put in the account, he graciously uttered of his glorious mouth the (officer in charge of) <foreign>tirumantiravōlai</foreign> Caḷukki-k-kulakāla
+		Vakaiyālaṉ
 		<gap reason="ellipsis"/>
-		<gap reason="lost"/>
-		cēkaranallūr kiḻavar Araiyar <gap reason="lost"/>yilūraṉ Maṇṇai-koṇṭa-cōḻa
+		of the <foreign>veḷḷāṉvakai</foreign> category <supplied reason="explanation"><foreign>varicai</foreign></supplied> 
 		<gap reason="ellipsis"/>
-		<gap reason="lost"/>
-		of the Kṣatra-cikāmaṇi-vaḷanāṭu Cōḻa-mūvē
+		so that it is put in the account, he graciously uttered of his glorious mouth
+		<gap reason="ellipsis"/> the (officer in charge of) <foreign>tirumantiravōlai</foreign> Caḷukki-k-kulakāla-mūvēntavēḷāṉ
 		<gap reason="ellipsis"/>
-		<gap reason="lost"/>
+		of the Kṣatra-cikāmaṇi-vaḷanāṭu
+		<gap reason="ellipsis"/>
 	</p> 
 	
       	</div>
