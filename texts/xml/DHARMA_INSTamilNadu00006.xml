@@ -81,10 +81,10 @@
          
 <div type="edition" xml:lang="tam-Latn">
                  	
-<p>
-<lb n="1"/>
-<hi rend="grantha">svasti śrī</hi> <g type="symbol" subtype="visarga"/>
-</p> 
+	<ab>
+		<lb n="1"/>
+		<hi rend="grantha">svasti śrī</hi> <g type="symbol" subtype="visarga"/>
+	</ab> 
 
 <lg n="1" met="āciriyappā">
 <l n="1">kaṭal cūḻ<choice><orig>ṉ</orig><reg>n</reg></choice>ta pār-mātarum kalai-mātarum</l>
@@ -199,9 +199,10 @@ patiṉ Oṉṟāvatu <hi rend="grantha">siṅṅa</hi>-nāyaṟṟu pūrvapa<hi
       	</listApp>         
       	</div>
       	
-      	<div resp="part:vija" type="translation">
+      	<div resp="part:emfr" type="translation">
+      		
       		<p n="1">
-      			Meykkīrtti (<foreign>kaṭal cūḻnta</foreign> etc.) of Rājādhirāja I Cōḻa. <!--update!-->
+      			[<foreign>meykkīrtti</foreign> (<foreign>kaṭal cūḻnta</foreign> etc.) of Rājādhirāja I Cōḻa]
       		</p>
       		<p n="1-4"> <!--update!-->
       			
@@ -216,15 +217,19 @@ patiṉ Oṉṟāvatu <hi rend="grantha">siṅṅa</hi>-nāyaṟṟu pūrvapa<hi
 <p>The line (<foreign>aṭi</foreign>) 3 of the <foreign>meykkīrtti</foreign> (<foreign>nāṟkaṭal cūḻ puvi-y ēḻum pāṟ-kaṭal pōṟ-pukaḻ parappa</foreign>) has one more word (<foreign>pō</foreign>ṟ) than in <bibl><ptr target="bib:Cuppiramaṇiyam1983_01"/></bibl>.</p>
       	</div>
       	
-      	<div type="bibliography">
-      	<p>
-First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 475).
-First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 475).
-Re-edited with facsimile in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>. <!--photo instead of facsimile??-->
-This edition revised by G. Vijayavenugopal (2019).
-Reviewing, encoding and critical apparatus by Emmanuel Francis (2020).
-            </p>
+<div type="bibliography">
+      	
+	<p>
+		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 475).
+		First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 475).
+		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>, with photos.		
+	</p>
            
+           <p>
+		This edition revised by G. Vijayavenugopal (2019).
+		Reviewing, encoding, critical apparatus, and translation by Emmanuel Francis (2020).
+	</p>
+	
       		<listBibl type="primary">
       			<bibl n="VVG">
       				<ptr target="bib:Vijayavenugopal2017_01"/>
@@ -251,7 +256,13 @@ Reviewing, encoding and critical apparatus by Emmanuel Francis (2020).
       				<citedRange unit="page">39-45</citedRange> <!--update!-->
       			</bibl>
       			
-      			<bibl>ARIE 1965-66/43</bibl> <!--to be updated-->
+      			<!--UPDATE!
+      			<bibl>
+      				<ptr target="bib:ARIE1965-1966"/>
+      				<citedRange unit="page">87</citedRange>
+      				<citedRange unit="appendix">B/1965-1966</citedRange>
+      				<citedRange unit="item">449</citedRange>
+      			</bibl>-->
       		
       		</listBibl>
       		
@@ -259,7 +270,8 @@ Reviewing, encoding and critical apparatus by Emmanuel Francis (2020).
       </body>
   </text>
 </TEI>
-<!--Inscription incomplet/unfinished. Stops short.-->
+
+<!--Inscription incomplete/unfinished. Stops short.-->
 <!--
 	palaeo:
 	n instead of ṉ quite regularly, before t.

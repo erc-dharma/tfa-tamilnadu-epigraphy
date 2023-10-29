@@ -130,7 +130,7 @@
          		
          </div>
          <div type="apparatus">
-           
+           <!--complete the apparatus-->
                <listApp>
                                               	
                	<app loc="1">
@@ -206,9 +206,17 @@
       	</div>
       	
 <div type="bibliography">
-	<p>First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 451). First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 451). Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>, with photos.</p>
-	<p>This edition revised by G. Vijayavenugopal (2019). Reviewing, encoding, critical apparatus and translation by Emmanuel Francis (2020).
-      		</p>
+	
+	<p>
+		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 451).
+		First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 451).
+		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>, with photos.
+	</p>
+	
+	<p>
+		This edition revised by G. Vijayavenugopal (2019).
+		Reviewing, encoding, critical apparatus and translation by Emmanuel Francis (2020).
+	</p>
       		      		
       		<listBibl type="primary">
       			
@@ -234,12 +242,11 @@
       		<listBibl type="secondary">
       			      			
       			<bibl>
-			<ptr target="bib:ARIE1965-1966"/>
-			<citedRange unit="page">85</citedRange>
-			<citedRange unit="appendix">B/1965-1966</citedRange>
-			<citedRange unit="item">435</citedRange>
-		</bibl>
-      			
+      				<ptr target="bib:ARIE1965-1966"/>
+      				<citedRange unit="page">85</citedRange>
+      				<citedRange unit="appendix">B/1965-1966</citedRange>
+      				<citedRange unit="item">435</citedRange>
+      			</bibl>      			
       			
       		</listBibl>
       		

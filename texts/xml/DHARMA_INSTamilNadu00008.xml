@@ -111,7 +111,7 @@
                </listApp>         
       	</div>
       	
-      	<div resp="part:vija" type="translation">
+      	<div resp="part:emfr" type="translation">
       		<ab n="01">
       			Prosperity! Fortune! 
       		</ab>
@@ -126,16 +126,18 @@
       		
       	
       	
-      	<div type="bibliography">
+<div type="bibliography">
 	
-      	<p>
-First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 32).
-First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 32).
-Re-edited with facsimile in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>. <!--photo instead of facsimile??-->
-This edition revised by G. Vijayavenugopal.
-Reviewing, encoding and critical apparatus by Emmanuel Francis.
-            </p>
-           
+	<p>
+		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 32).
+		First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 32).
+		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>, with photos.
+	</p>
+	<p>
+		This edition revised by G. Vijayavenugopal (2019).
+		Reviewing, encoding, critical apparatus, and translation by Emmanuel Francis (2020).
+	</p>
+	
       		<listBibl type="primary">
       			<bibl n="VVG">
       				<ptr target="bib:Vijayavenugopal2017_01"/>
@@ -156,7 +158,13 @@ Reviewing, encoding and critical apparatus by Emmanuel Francis.
       		</listBibl>
       		
       		<listBibl type="secondary">
-      			<bibl>ARIE 1965-66/457</bibl> <!--to be updated-->
+      			
+      			<bibl>
+      				<ptr target="bib:ARIE1965-1966"/>
+      				<citedRange unit="page">89</citedRange>
+      				<citedRange unit="appendix">B/1965-1966</citedRange>
+      				<citedRange unit="item">457</citedRange>
+      			</bibl>
       		</listBibl>
       		
         </div>

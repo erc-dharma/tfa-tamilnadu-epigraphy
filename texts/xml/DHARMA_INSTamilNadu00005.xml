@@ -79,11 +79,13 @@
 
 <body>
          
-      	<div type="edition" xml:lang="tam">
+      	<div type="edition" xml:lang="tam-Latn">
            
       	
-      		<p>
-      			<lb n="1"/><hi rend="grantha">svasti śrī</hi></p>
+      		<ab>
+      			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
+      		</ab>
+      		
       		<p>
       			t<unclear>i</unclear>r<unclear>i</unclear>puvana-cakka<unclear>ra</unclear>
       			<lb n="2" break="no"/>vattikaḷ <hi rend="grantha">śrī</hi>-vikkirama-cō
@@ -104,10 +106,12 @@
                </listApp>         
       	</div>
       	
-      	<div resp="part:vija" type="translation">
+      	<div resp="part:emfr" type="translation">
+      		
       		<p n="1">
       			Prosperity! Fortune!
       		</p>
+      		
       		<p n="1-2">
       			The emperor of the three worlds, the glorious Vikramacōḻa
       			<gap reason="lost"/>
@@ -118,16 +122,19 @@
       	<div type="commentary"/>
       		
       	
-      	<div type="bibliography">
+<div type="bibliography">
 	
-      	<p>
-First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 470).
-First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 470).
-Re-edited with facsimile in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>. <!--photo instead of facsimile??-->
-This edition revised by G. Vijayavenugopal (2019).
-Reviewing, encoding and critical apparatus by Emmanuel Francis (2020).
-            </p>
-           
+	<p>
+		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 470).
+		First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 470).
+		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>, with photos.
+	</p>
+	
+	<p>
+		This edition revised by G. Vijayavenugopal (2019).
+		Reviewing, encoding, critical apparatus, and translation by Emmanuel Francis (2020).
+	</p>
+	
       		<listBibl type="primary">
       			<bibl n="VVG">
       				<ptr target="bib:Vijayavenugopal2017_01"/>
@@ -148,7 +155,14 @@ Reviewing, encoding and critical apparatus by Emmanuel Francis (2020).
       		</listBibl>
       		
       		<listBibl type="secondary">
-      			<bibl>ARIE 1965-66/449</bibl> <!--to be updated-->
+      			
+      			<bibl>
+      				<ptr target="bib:ARIE1965-1966"/>
+      				<citedRange unit="page">87</citedRange>
+      				<citedRange unit="appendix">B/1965-1966</citedRange>
+      				<citedRange unit="item">449</citedRange>
+      			</bibl>
+      			      			
       		</listBibl>
       		
         </div>
