@@ -8,8 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu 2, Tarppāraṇyēcuvarar temple, central shrine, south wall, time of
-					of Rājādhirāja, year 28</title>
+				<title>Tirunaḷḷāṟu 2, Tarppāraṇyēcuvarar temple, central shrine, south wall, time of Rājādhirāja, year 28</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -36,14 +35,26 @@
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal and Emmanuel Francis.</p>
-						<!-- (c) OK?-->
+						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal.</p>
 					</licence>
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>...</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>Double <foreign>pp</foreign> as a conjunct letter.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
@@ -84,12 +95,14 @@
       	<p>
       		      		
 <lg n="1" met="āciriyappā">
-	<l n="1"><lb n="1"/>tiṅkaḷ-ēr taruta<supplied reason="omitted">ṉ</supplied> ṟoṅkal veṇ-kuṭai k<choice><orig>i</orig><reg>ī</reg></choice>ḻ</l>
+	<l n="1"><lb n="1"/>tiṅkaḷ ēr taru ta<supplied reason="omitted">ṉ</supplied> ṟoṅkal veṇ-kuṭai k<choice><orig>i</orig><reg>ī</reg></choice><unclear>ḻ</unclear></l>
 	<l n="2">nila-makaḷ nilava malar-makaḷ puṇarntu</l>
-	<l n="3">ceṅkō<lb n="2" break="no"/>l ōccik karuṅ-kali kaṭintu</l>
-	<l n="4">maṉṉupallūḻ<unclear>i</unclear>yil teṉ<choice><orig>n</orig><reg>ṉ</reg></choice>avar kulamakaṉ</l>
-	<l n="5">mānāparaṇaṉ poṉ-muṭi Ā<unclear>n</unclear>ā</l>
-	<l n="6"><lb n="3" break="no"/>p parumaṇip pacun-talai porukaḷat tarintu</l> 
+	<l n="3">ceṅ-kō<lb n="2" break="no"/>l ōcci-k karuṅ-kali kaṭintu</l>
+	<l n="4">maṉṉu pa<choice><orig>ll</orig><reg>l</reg></choice> ūḻiy<unclear>i</unclear>l teṉ<choice><orig>n</orig><reg>ṉ</reg></choice>avar kula-makaṉ</l>
+	<l n="5">mā<choice><orig>n</orig><reg>ṉ</reg></choice>āparaṇaṉ poṉ-muṭi Ā<choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice>ā</l>
+	<l n="6"><lb n="3" break="no"/>p= parumaṇi-p= pacun-talai porukaḷat tarintu</l>
+	
+	
 	<l n="7">v<choice><orig>i</orig><reg>ī</reg></choice>ra-kēraḷaṉai yāṉai kiṭuvitt'</l>
 	<l n="8">acaivil cuntarapāṇṭi<unclear>ya</unclear>ṉai<lb n="4" break="no"/>ttikai keṭat</l>	
 	<l n="9">tōllaiyil mullaiyūrt turatti Olkalil</l>

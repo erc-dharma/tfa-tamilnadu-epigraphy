@@ -36,14 +36,26 @@
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal and Emmanuel Francis.</p>
-						<!-- (c) OK?-->
+						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal.</p>
 					</licence>
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p><!-- not to be filled in at this stage --></p>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary></summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p></p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
