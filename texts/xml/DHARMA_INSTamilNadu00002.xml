@@ -29,13 +29,14 @@
 				<pubPlace>Paris</pubPlace>
 				<idno type="filename">DHARMA_INSTamilNadu00002</idno>
 				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
+					<licence
+						target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
 							Licence. To view a copy of the licence, visit
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal.</p>						
+						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal.</p>
 					</licence>
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
@@ -47,7 +48,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary></summary>
+						<summary/>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -79,8 +80,10 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-			<change who="part:emfr" when="2020-02-11" status="draft">Creation of the file on the repository</change>
+			<change who="part:axja" when="2020-11-03" status="draft"
+				>Updating toward the encoding template v03</change>
+			<change who="part:emfr" when="2020-02-11" status="draft"
+				>Creation of the file on the repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -210,7 +213,7 @@
 	<p>
 		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 451).
 		First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 451).
-		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>, with photos.
+		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>, with photo (Tirunaḷḷāṟu 1).
 	</p>
 	
 	<p>
@@ -220,10 +223,10 @@
       		      		
       		<listBibl type="primary">
       			
-      			<bibl n="VVG">
-      				<ptr target="bib:Vijayavenugopal2017_01"/>
-      				<citedRange unit="item">1</citedRange>
-      				<citedRange unit="page">15</citedRange>
+      			<bibl n="K+V">
+      				<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
+      				<citedRange unit="item">451</citedRange>
+      				<citedRange unit="page">392-393</citedRange>
       			</bibl>
       			
       			<bibl n="K">
@@ -231,12 +234,13 @@
       				<citedRange unit="item">451</citedRange>
       				<citedRange unit="page">188</citedRange>
       			</bibl>
-      			<bibl n="K+V">
-      				<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
-      				<citedRange unit="item">451</citedRange>
-      				<citedRange unit="page">392-393</citedRange>
-      			</bibl>
-      		      			     			
+      			
+      			<bibl n="VVG">
+      				<ptr target="bib:Vijayavenugopal2017_01"/>
+      				<citedRange unit="item">1</citedRange>
+      				<citedRange unit="page">14-15</citedRange>      				
+      			</bibl> 
+      			      		      			     			
       		</listBibl>
       		
       		<listBibl type="secondary">
@@ -254,7 +258,6 @@
       </body>
   </text>
 </TEI>
-
 <!--
 	METADATA:
 	
