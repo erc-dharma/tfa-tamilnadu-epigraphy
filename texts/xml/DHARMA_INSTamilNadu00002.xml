@@ -103,8 +103,7 @@
 	<p>
 		<gap reason="lost" extent="unknown" unit="character"/>
 		<lb n="2"/>
-		<milestone type="gridlike" unit="block" n="1"/>
-		yiṉāl Arumoḻi-tēva-c-caruppēti-maṅkalam pū<hi rend="grantha"><unclear>r</unclear>vva</hi>-tēcamum kaṅkaiyum kaṭāramum koṇṭ-aruḷiṇa
+		yiṉāl Arumoḻi-tēva-c-caruppēti-maṅkalam pū<hi rend="grantha"><unclear>r</unclear>vva</hi>-tēcamum kaṅkaiyum kaṭāramum koṇṭ-aruḷiṉa
 		<gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="3"/>
@@ -112,22 +111,20 @@
 		<gap reason="lost" extent="unknown" unit="character"/>
 				
 		<lb n="4"/>
-		variyil iṭa-t tiru-vāy-moḻiṉt-aruḷiṉā<surplus>r</surplus>r eṉṟu tirumantira-Ōlai caḷukki kulakāla-mūvēntavēḷāṉ
+		variyil iṭa-t tiru-vāy-moḻi<choice><orig>ṉ</orig><reg>n</reg></choice>t-aruḷiṉā<surplus>r</surplus>r eṉṟu tirumantira-Ōlai caḷukki-kulakāla-mūvē<choice><orig>ṉ</orig><reg>n</reg></choice>tavēḷāṉ
 		<gap reason="lost" extent="unknown" unit="character"/>
 				
 		<lb n="5"/>
 		cēkaranallūr kiḻavar Arai<unclear>yar</unclear>
 		<gap reason="lost" unit="character" quantity="3" precision="low"/>
-		yilūraṉ maṇṇai koṇṭa cōḻa-mūvēn<supplied reason="lost">tavēḷāṉ</supplied>
-		<gap reason="lost" extent="unknown" unit="character"/>
+		yilūraṉ maṇṇai koṇṭa cōḻa-mūvē<choice><orig>ṉ</orig><reg>n</reg></choice><supplied reason="lost">tavēḷāṉ</supplied> <gap reason="lost" extent="unknown" unit="character"/>
 		
 		<lb n="6"/>
-		<milestone type="gridlike" unit="block" n="1"/>
 		ḷārum <hi rend="grantha">kṣa</hi>t<hi rend="grantha">tra</hi>-cikāmaṇi-vaḷa<unclear>nāṭṭu</unclear>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		ṉ cōḻa-mūvē<supplied reason="lost">tavēḷāṉ</supplied>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		ṉ Aiya
+		<gap reason="lost" quantity="11" unit="character" precision="low"/>
+		<unclear>cōḻa-mūvē</unclear><supplied reason="lost">tavēḷā</supplied>ṉ Aiya
+		<gap reason="lost" quantity="7" unit="character" precision="low"/>
+		ḷar
 		<gap reason="lost" extent="unknown" unit="character"/>
 	</p>
          		
@@ -137,14 +134,22 @@
                <listApp>
                                               	
                	<app loc="1">
-               		<lem>talaiyum</lem>
-               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">talaiyum <seg type="component" subtype="body"/>e</rdg>
+               		<lem>talaiyum <gap reason="lost" extent="unknown" unit="character"/></lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">talaiyum <seg type="component" subtype="body"/>e <gap reason="lost" quantity="12" unit="character"/></rdg>
+               		<!--update to tailaiyum Ce-->
                	</app>
                	
                	<app loc="2">
                		<lem>pū<hi rend="grantha"><unclear>r</unclear>vva</hi>°</lem>
-               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">pūḻu<unclear>va</unclear>°</rdg>               		
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">pūḻu<supplied reason="omitted">va</supplied>°</rdg>              
+               		<rdg source="bib:Vijayavenugopal2017_01">pūḻu<unclear>va</unclear>°</rdg>               		
                	</app>     	
+               	
+               	<app loc="2">
+               		<lem>koṇṭ-aruḷiṉa <gap reason="lost" extent="unknown" unit="character"/></lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">koṇṭ-aruḷi <gap reason="lost" quantity="7" unit="character"/></rdg>              
+               		<rdg source="bib:Vijayavenugopal2017_01">pūḻu<unclear>va</unclear>°</rdg>               		
+               	</app>
                	
                	<app loc="3">
                		<lem>vakaiyālaṉ</lem>
@@ -152,24 +157,57 @@
                	</app>
                	
                	<app loc="3">
+               		<lem>Iṟai-k kuṭal-āka nilattukku-t</lem>
+               		<rdg source="bib:Vijayavenugopal2017_01"/>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">Innāṭṭu paṭa <gap reason="lost" quantity="3" unit="character"/> lattukku-t</rdg>
+               		
+               	</app>
+               	
+               	<app loc="3">
                		<lem>munnāḷ <gap reason="lost" extent="unknown" unit="character"/></lem>               		
-               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">muṉtiri<unclear>k</unclear>ai <gap reason="lost" extent="unknown" unit="character"/></rdg>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">muṉtiri<unclear>k</unclear>ai <gap reason="lost" quantity="5" unit="character"/></rdg>
+               	</app>
+               	               	
+               	<app loc="4">
+               		<lem>caḷukki</lem>     		
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">caḷukkik</rdg>
+               	</app>         	
+               	               	
+               	<app loc="4">
+               		<lem>kulakāla-mūvē<choice><orig>ṉ</orig><reg>n</reg></choice>tavēḷāṉ <gap reason="lost" extent="unknown" unit="character"/></lem>
+               		<rdg source="bib:Vijayavenugopal2017_01"/>               		
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">kulakāla-mūvē<choice><orig>ṉ</orig><reg>n</reg></choice>ta <gap reason="lost" quantity="12" unit="character"/></rdg>
+               	</app>
+               	
+               	<app loc="5">
+               		<lem>Arai<unclear>yar</unclear><gap reason="lost" unit="character" quantity="3" precision="low"/></lem>               		
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">A<seg type="component" subtype="body"/>ai <gap reason="lost" quantity="4" unit="character"/></rdg>
+               		<!--update to tailaiyum Cai-->
+               		<rdg source="bib:Vijayavenugopal2017_01">Araiyar <gap reason="lost" unit="character" quantity="6"/></rdg> 
+               	</app>
+               	
+               	<app loc="5">
+               		<lem>cōḻa-mūvē<choice><orig>ṉ</orig><reg>n</reg></choice><supplied reason="lost">tavēḷāṉ</supplied><gap reason="lost" extent="unknown" unit="character"/></lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">coḻa-mūveṉta<unclear>v</unclear>e<unclear>ḷār</unclear> <gap reason="lost" unit="character" quantity="9"/></rdg>
+               		<rdg source="bib:Vijayavenugopal2017_01">cōḻa-mūveṉta <gap reason="lost" unit="character" quantity="6"/></rdg>
                	</app>
                	
                	<app loc="6">
-               		<lem><hi rend="grantha">kṣa</hi>t<hi rend="grantha">tra</hi>-</lem>
-               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">kuṭi tiru</rdg>
-               		<rdg source="bib:Vijayavenugopal2017_01"><hi rend="grantha">kṣa</hi>ttriya-</rdg>
+               		<lem><hi rend="grantha">kṣa</hi>t<hi rend="grantha">tra</hi>-cikā-vaḷa<unclear>nāṭṭu</unclear></lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">kūṭi tirumaṇi-vaḷa <gap reason="lost" quantity="3" unit="character"/></rdg>
+               		<rdg source="bib:Vijayavenugopal2017_01"><hi rend="grantha">kṣa</hi>ttriya-cikāmaṇi-vaḷanāṭṭu</rdg>
                	</app>
                	
                	<app loc="6">
-               		<lem>ṉ cōḻa-mūvē<supplied reason="lost">tavēḷāṉ</supplied> <gap reason="lost" extent="unknown" unit="character"/></lem>
-               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">Irumaṭi mu <gap reason="lost" extent="unknown" unit="character"/></rdg>
+               		<lem><gap reason="lost" quantity="11" unit="character" precision="low"/><unclear>cōḻa-mūvē</unclear><supplied reason="lost">tavēḷā</supplied>ṉ</lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01"><gap reason="lost" quantity="2" unit="character"/> Irumaṭi mu <gap reason="lost" quantity="3" unit="character"/> ṉ</rdg>
+               		<rdg source="bib:Vijayavenugopal2017_01"><gap reason="lost" quantity="4" unit="character"/> ṉ cōḻa mūvē <gap reason="lost" quantity="6" unit="character"/> ṉ</rdg>
                	</app>               	
                	
                	<app loc="6">
-               		<lem>ṉ Aiya <gap reason="lost" extent="unknown" unit="character"/></lem>
-               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">ṉ Aiya<unclear>ṉ</unclear></rdg>
+               		<lem>Aiya <gap reason="lost" quantity="7" unit="character" precision="low"/> ḷar <gap reason="lost" extent="unknown" unit="character"/></lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">Aiya<unclear>ṉ</unclear> <gap reason="lost" unit="character" quantity="6"/></rdg>
+               		<rdg source="bib:Vijayavenugopal2017_01">Aiya  <gap reason="lost" unit="character" quantity="5"/></rdg>
                	</app>
                	
                </listApp>         
@@ -191,8 +229,9 @@
 		<gap reason="ellipsis"/>
 		of the <foreign>veḷḷāṉvakai</foreign> category <supplied reason="explanation"><foreign>varicai</foreign></supplied> 
 		<gap reason="ellipsis"/>
-		so that it is put in the account <supplied reason="explanation"><foreign>variyil iṭa</foreign></supplied>, he graciously uttered with his glorious mouth
-		<gap reason="ellipsis"/> the <foreign>tirumantiravōlai</foreign>, Caḷukki-k-kulakāla-mūvēntavēḷāṉ
+		the <foreign>tirumantiravōlai</foreign> Caḷukki-kulakāla-mūvēntavēḷāṉ, having said <supplied reason="explanation"><foreign>eṉṟu</foreign></supplied> that, so that it is put in the account <supplied reason="explanation"><foreign>variyil iṭa</foreign></supplied>, he<note>That is, the king.</note> graciously uttered with his glorious mouth
+		<gap reason="ellipsis"/>
+		Cēkaranallūr kiḻavar Arai(yar), <gap reason="lost"/>yilūraṉ Maṇṇai koṇṭa cōḻa-mūvēntavēḷāṉ
 		<gap reason="ellipsis"/>
 		of the Kṣatra-cikāmaṇi-vaḷanāṭu
 		<gap reason="ellipsis"/>
