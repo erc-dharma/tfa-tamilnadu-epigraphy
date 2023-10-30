@@ -90,52 +90,54 @@
 
 <body>
          
-      	<div type="edition" xml:lang="tam-Latn">
-      	<!--add milestones-->
-      	<p>
-      		      		
-<lg n="1" met="āciriyappā">
-	<l n="1"><lb n="1"/>tiṅkaḷ ēr taru ta<supplied reason="omitted">ṉ</supplied> ṟoṅkal veṇ-kuṭai k<choice><orig>i</orig><reg>ī</reg></choice><unclear>ḻ</unclear></l>
-	<l n="2">nila-makaḷ nilava malar-makaḷ puṇarntu</l>
-	<l n="3">ceṅ-kō<lb n="2" break="no"/>l ōcci-k karuṅ-kali kaṭintu</l>
-	<l n="4">maṉṉu pa<choice><orig>ll</orig><reg>l</reg></choice> ūḻiy<unclear>i</unclear>l teṉ<choice><orig>n</orig><reg>ṉ</reg></choice>avar kula-makaṉ</l>
-	<l n="5">mā<choice><orig>n</orig><reg>ṉ</reg></choice>āparaṇaṉ poṉ-muṭi Ā<choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice>ā</l>
-	<l n="6"><lb n="3" break="no"/>p= parumaṇi-p= pacun-talai porukaḷat tarintu</l>
+<div type="edition" xml:lang="tam-Latn">
+      	
+      	      		      		
+	<lg n="1" met="āciriyappā">
+		<l n="1"><lb n="1"/>tiṅkaḷ ēr taru ta<supplied reason="omitted">ṉ</supplied> ṟoṅkal veṇ-kuṭai k<choice><orig>i</orig><reg>ī</reg></choice><unclear>ḻ</unclear></l>
+		<l n="2">nila-makaḷ nilava malar-makaḷ puṇarntu</l>
+		<l n="3">ceṅ-kō<lb n="2" break="no"/>l ōcci-k karuṅ-kali kaṭintu</l>
+		<l n="4">maṉṉu pa<choice><orig>ll</orig><reg>l</reg></choice> ūḻiy<unclear>i</unclear>l teṉ<choice><orig>n</orig><reg>ṉ</reg></choice>avar kula-makaṉ</l>
+		<l n="5">mā<choice><orig>n</orig><reg>ṉ</reg></choice>āparaṇaṉ poṉ-muṭi Ā<choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice>ā</l>
+		<l n="6"><lb n="3" break="no"/>p= parumaṇi-p= pacun-talai porukaḷat tarintu</l>
+		<l n="7">v<choice><orig>i</orig><reg>ī</reg></choice>ra-kēraḷaṉai yāṉai kiṭuvitt'</l>
+		<l n="8">acaivil cuntara-pāṇṭi<unclear>ya</unclear>ṉai<lb n="4" break="no"/>-t tikai keṭa-t</l>	
+		<l n="9">tōllaiyil mullaiyūr-t turatti Olkalil</l>
+		<l n="10">vēṇāṭṭ' ar<choice><orig>ai</orig><reg>a</reg></choice>cai c<choice><sic>ē</sic><corr>ō</corr></choice>ṇāṭṭ' otukki</l>
+		<l n="11">mēvu p<supplied reason="lost">uka</supplied><lb n="5" break="no"/>ḻ Irāmakuṭa muvar keṭa mu<choice><orig>n</orig><reg>ṉ</reg></choice>intu</l>
+		<l n="12">vēlai keḻu kāntaḷūr-c-cālai kalam aṟu<supplied reason="omitted">p</supplied>pitt'</l>
+		<l n="13">ā<hi rend="grantha">ho</hi><unclear>ma</unclear><lb n="6" break="no"/>llaṉu<choice><orig>mm</orig><reg>m</reg></choice> añca-k ketuvu<unclear>m</unclear></l>
+		<l n="14">taṉ ṟāṅkaru paṭaiyāl Āṅkavaṉ cēṉaiyuḷ</l>
+		<l n="15">kaṇṭappayaṉ<unclear>u</unclear><lb n="7" break="no"/>m ka<add place="above">ṅ</add>kāt<choice><sic>i</sic><corr>a</corr></choice>raṉum</l>
+		<l n="16">vaṇ<supplied reason="lost">ṭ</supplied>amaṟ-k kaḷi<supplied reason="omitted">ṟ</supplied>ṟoṭu maṭiya-t tiṇ-ṭiṟal</l>
+		<l n="17">viki<unclear>r</unclear>taral vikkiyum vicaiyātitta<lb n="8" break="no"/>ṉum</l>
+		<l n="18">tarumu<unclear>ra</unclear>ḷ-c c<unclear>ā</unclear>ṅkamaiyyaṉum mutali<choice><orig>n</orig><reg>ṉ</reg></choice>ar</l>
+		<l n="19"><hi rend="grantha">sa</hi>mara- * * ru vott-uṭaiya nimir cuṭar-p</l>
+		<l n="20">po<lb n="9" break="no"/>ṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ōṭ' ayṅkari pu<unclear>ra</unclear>viyoṭum piṭittu</l>
+		<l n="21">taṉṉāṭaiyil <hi rend="grantha">je</hi>yaṅ koṇṭoṉṉār</l>
+		<l n="22">koḷḷippā<lb n="10" break="no"/>kkai Oḷḷe<unclear>r</unclear>i maṭu<unclear>pp</unclear>itt'</l>
+		<l n="23">oru-taṉi taṇṭāl-p <unclear>porru</unclear> tirai <unclear>Uṟtt</unclear><gap reason="illegible" quantity="6" unit="character" precision="low"/></l>
+		<l n="24"><gap reason="illegible" quantity="9" unit="character" precision="low"/><lb n="11" break="no"/>l muṭi Ar<unclear>i</unclear>n=tu </l>
+		<l n="25">muṉṟaṉak=k' uṭain=ta te<supplied reason="omitted">ṟ</supplied>ṟamiḻ <supplied reason="omitted">ma</supplied>ṇṭala</l>
+		<l n="26" enjamb="yes">muḻutu ēḻ-<unclear>kaṭa</unclear><choice><orig>l<unclear>l</unclear></orig><reg>l</reg></choice> ī<unclear>ḻa</unclear>m</l>
+		<l n="27"><supplied reason="lost">pu</supplied><unclear>kka</unclear> Ilaṅkē<supplied reason="lost">ca</supplied><choice><orig>n</orig><reg>ṉ</reg></choice>-ā<lb n="12" break="no"/>kiya vikkirama</l>
+		<l n="28">-pāṇṭiyaṉ parumaṇi muṭi taṭi-t tiṇṭiya</l> 
+		<l n="29">villavar mīṉavar vē <gap reason="lost" quantity="3" unit="character"/> c caḷukkiyar</l>
+		<l n="30">va<supplied reason="omitted">l</supplied>la<lb n="13" break="no"/>var mutal eṉa <supplied reason="lost">vi</supplied>ḷaṅka v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-iru<choice><sic>t</sic><corr>n</corr></choice>ta</l>
+		<l n="31"><hi rend="grantha">je</hi>yaṅ-koṇṭa-cōḻaṉ Uyarnta perum-pukaḻ</l>
+	</lg>
 	
-	
-	<l n="7">v<choice><orig>i</orig><reg>ī</reg></choice>ra-kēraḷaṉai yāṉai kiṭuvitt'</l>
-	<l n="8">acaivil cuntarapāṇṭi<unclear>ya</unclear>ṉai<lb n="4" break="no"/>ttikai keṭat</l>	
-	<l n="9">tōllaiyil mullaiyūrt turatti Olkalil</l>
-	<l n="10">vēṇāṭṭ' ar<choice><orig>ai</orig><reg>a</reg></choice>cai cēṇāṭṭ' otukki</l>
-	<l n="11">mēvu p<unclear>uka</unclear><lb n="5" break="no"/>ḻ Irāmakuṭa mūvar keṭa munintu</l>
-	<l n="12">vēlai keḻu kāntaḷūr-c-cālai kalam aṟuppitt'</l>
-	<l n="13">āho<unclear>ma</unclear><lb n="6" break="no"/>llaṉu<choice><orig>mm</orig><reg>m</reg></choice> añcak ketuvu<unclear>m</unclear></l>
-	<l n="14">taṉ ṟāṅkaru paṭaiyāl Āṅkavaṉ cēṉaiyuḷ</l>
-	<l n="15">kaṇṭappayaṉu<lb n="7" break="no"/>m ka<add place="above">ṅ</add>kātīraṉum</l>
-	<l n="16">vaṇ<unclear>ṭ</unclear>amaṟk kaḷiṟoṭu maṭiyat tiṇṭiṟal</l>
-	<l n="17">vitirtaral vikkiyum vicaiyātitta<lb n="8" break="no"/>ṉum</l>
-	<l n="18">tarumuraḷ-c c<unclear>ā</unclear>ṅkamaiyyaṉum mutalinar</l>
-	<l n="19"><hi rend="grantha">sa</hi>mara-mēru vott-uṭaiya nimircuṭarp</l>
-	<l n="20">po<lb n="9" break="no"/>ṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ōṭ' ayṅkari puraviyoṭum piṭittu</l>
-	<l n="21">taṉṉāṭaiyil <hi rend="grantha">je</hi>yaṅ koṇ ṭoṉṉār</l>
-	<l n="22">koḷḷippā<lb n="10" break="no"/>kkai Oḷḷeri maṭu<unclear>pp</unclear>itt'</l>
-	<l n="23">orutaṉi taṇṭālp <unclear>per</unclear> tirai <unclear>Uṟtt</unclear><gap reason="illegible" extent="unknown" unit="character"/></l>
-	<l n="24"><gap reason="illegible" extent="unknown" unit="character"/><lb n="11" break="no"/>l muṭi Arin=tu </l>
-	<l n="25">muṉṟaṉak=k' uṭainta te<supplied reason="omitted">ṉ</supplied>ṟamiḻ maṇṭala</l>
-	<l n="26" enjamb="yes">muḻutu Eḻkaṭa<choice><orig>ll</orig><reg>l</reg></choice> īḻam</l>
-	<l n="27"><unclear>pu</unclear>kka Ilaṅkēca<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<lb n="12" break="no"/>kiya vikkirama</l>
-	<l n="28">-pāṇṭiyaṉ parumaṇi muṭi taṭit tīṇṭiya</l> 
-	<l n="29">villavar mīṉavar vē<unclear>ḷkula</unclear>c caḷukkiyar</l>
-	<l n="30">valla<lb n="13" break="no"/>var mutaleṉa viḷaṅka v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-iru<unclear>n</unclear>ta</l>
-	<l n="31"><hi rend="grantha">je</hi>yaṅkoṇṭacōḻaṉ Uyar<unclear>n</unclear>ta perum-pukaḻ</l>
-</lg>
-      	kō-rā<hi rend="grantha">ja</hi>kēcari-pa<hi rend="grantha">nma</hi><unclear>r-āṉa</unclear>      	
-      	<lb n="14"/>Uṭaiyār <hi rend="grantha">śrī</hi>rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>tēvaṟku yāṇṭu 20 8-āvatu yā <gap reason="illegible" quantity="3" unit="character"/> tāvatu Uyakkoṇṭār vaḷa<unclear>nāṭṭu</unclear>
-      	<lb n="15"/>muḻaiyū<hi rend="grantha">ru</hi> <hi rend="grantha">brahma</hi>tēyam tirunaḷḷāṟṟu tirunaḷḷāṟuṭaiyār nilamutalum nel mutalum parikalappikkiṉṟa mutalu<gap reason="illegible" quantity="2" unit="character"/>
-    	<lb n="16"/>tirumēni mutalum <gap reason="illegible" quantity="10" unit="character"/> ḷḷi <gap reason="illegible" quantity="10" unit="character"/> yārkaḷ peru<gap reason="illegible" quantity="2" unit="character"/>
-      	<lb n="17" break="no"/>ṭṭāl nelluṅ kācuṅ koṇṭu celuttak kaṭava nimantam tirup pēṟūr kiḻavar Irun kāṭaṉ vaikuntaṉ pakkal <gap reason="illegible" quantity="4" unit="character"/> ko
-      		
-            </p>
+	<p>      	
+		kō-rā<hi rend="grantha">ja</hi>kēcari-pa<hi rend="grantha">nma</hi><unclear>r-āṉa</unclear>      	
+		<lb n="14"/>Uṭaiyār <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>tēvaṟku yāṇṭu <num value="28">2 <g type="numeral">10</g> 8</num> Āvatu
+	</p>
+	<p>
+		yā <gap reason="illegible" quantity="4" unit="character" precision="low"/> t-āvatu Uyakkoṇṭār vaḷa<supplied reason="lost">nāṭṭu</supplied>
+		<lb n="15"/>muḻaiyū<hi rend="grantha">ru</hi> <hi rend="grantha">bra<space/>hma</hi>tēyam tirunaḷḷāṟṟu tirunaḷḷāṟu<supplied reason="omitted">ṭ</supplied>aiyār nila mutalu<supplied reason="lost">m</supplied> nel mutalum parikalappi<unclear>kk</unclear>iṉṟa muta<unclear>lu</unclear><gap reason="illegible" quantity="2" unit="character" precision="low"/>
+		<lb n="16"/>tiru-mēni muta<supplied reason="lost">lum</supplied> <gap reason="illegible" quantity="10" unit="character"/> ḷḷi <gap reason="illegible" quantity="10" unit="character"/> yārkaḷ peru<gap reason="illegible" quantity="2" unit="character"/>
+		<lb n="17" break="no"/>ṭṭāl nelluṅ kācuṅ koṇṭu celuttak kaṭava nimantam tirup pēṟūr kiḻavar Irun kāṭaṉ vaikuntaṉ pakkal <gap reason="illegible" quantity="4" unit="character"/> ko
+	</p>      		
+            
       	</div>
          
 <div type="apparatus">
