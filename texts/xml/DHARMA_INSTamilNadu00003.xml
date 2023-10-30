@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu 2, Tarppāraṇyēcuvarar temple, central shrine, south wall, time of Rājādhirāja, year 28</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, time of Rājādhirāja, year 28</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -129,13 +129,13 @@
 	
 	<p>      	
 		kō-rā<hi rend="grantha">ja</hi>kēcari-pa<hi rend="grantha">nma</hi><unclear>r-āṉa</unclear>      	
-		<lb n="14"/>Uṭaiyār <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>tēvaṟku yāṇṭu <num value="28">2 <g type="numeral">10</g> 8</num> Āvatu
+		<lb n="14"/>Uṭaiyār <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>-tēvaṟku yāṇṭu <num value="28">2 <g type="numeral">10</g> 8</num> Āvatu
 	</p>
 	<p>
 		yā <gap reason="illegible" quantity="4" unit="character" precision="low"/> t-āvatu Uyakkoṇṭār vaḷa<supplied reason="lost">nāṭṭu</supplied>
 		<lb n="15"/>muḻaiyū<hi rend="grantha">ru</hi> <hi rend="grantha">bra<space/>hma</hi>tēyam tirunaḷḷāṟṟu tirunaḷḷāṟu<supplied reason="omitted">ṭ</supplied>aiyār nila mutalu<supplied reason="lost">m</supplied> nel mutalum parikalappi<unclear>kk</unclear>iṉṟa muta<unclear>lu</unclear><gap reason="illegible" quantity="2" unit="character" precision="low"/>
-		<lb n="16"/>tiru-mēni muta<supplied reason="lost">lum</supplied> <gap reason="illegible" quantity="10" unit="character"/> ḷḷi <gap reason="illegible" quantity="10" unit="character"/> yārkaḷ peru<gap reason="illegible" quantity="2" unit="character"/>
-		<lb n="17" break="no"/>ṭṭāl nelluṅ kācuṅ koṇṭu celuttak kaṭava nimantam tirup pēṟūr kiḻavar Irun kāṭaṉ vaikuntaṉ pakkal <gap reason="illegible" quantity="4" unit="character"/> ko
+		<lb n="16"/>tiru-mēni muta<supplied reason="lost">lum</supplied> <gap reason="illegible" quantity="15" unit="character" precision="low"/> ḷḷi <gap reason="illegible" quantity="12" unit="character" precision="low"/> yārkaḷ per<supplied reason="lost">u</supplied><gap reason="illegible" quantity="2" unit="character" precision="low"/>
+		<lb n="17" break="no"/>ṭ=ṭāl nelluṅ kācuṅ koṇṭu celutta kaṭava niman=tam ti<unclear>ru-p</unclear>-pēṟūr k<unclear>i</unclear>ḻava<unclear>r</unclear> Irun kāṭaṉ vaikun<unclear>ta</unclear>ṉ pakkal <unclear>ko</unclear> <gap reason="illegible" quantity="5" unit="character" precision="low"/>
 	</p>      		
             
       	</div>
@@ -189,52 +189,65 @@
                		<rdg source="bib:Vijayavenugopal2017_01">muḻaiyūr-nāṭṭu</rdg>
                	</app>
                	             
+               	<app loc="17">
+               		<lem>celutta</lem>
+               		<rdg source="bib:Vijayavenugopal2017_01">...</rdg>
+               		<note>In the syllable <foreign>ce</foreign> it seems that a <foreign>daṇḍa</foreign> is written between the <foreign>kompu</foreign> and <foreign>c</foreign>.</note>
+               	</app> 
                	             
                </listApp>    
 	
 </div>
       	
-<!--<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
 	
-      		<p>
-      			...
-      		</p>
-      		
-</div>-->
+	<p n="1-13">
+		[<foreign>meykkīrtti</foreign> of Rājādhirāja I Cōḻa]
+	</p>
+	
+	<p n="13-14">
+		28th year of the glorious king Rājadhirāja, the lord, alias the king Rājakesarivarman.
+	</p>
+	
+	<p n="14-17">
+		...
+	</p>
+</div>
       	
 <div type="commentary"/>
-      		
-
-      	
+      		      	
  <div type="bibliography">
       	
  	<p>
-First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI ***).
-First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI ***).
-Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>, with photos.
-      	</p>
+ 		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 452).
+ 		First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 452).
+ 		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>, with photo (Tirunaḷḷāṟu 2).
+ 	</p>
  	
  	<p>
  		This edition revised by G. Vijayavenugopal (2019).
  		Reviewing, encoding, and critical apparatus by Emmanuel Francis (2020).
  	</p>	
 
-      		<listBibl type="primary"><!--primary to be validated in EG-->
-      			<bibl n="VVG">
-      				<ptr target="bib:Vijayavenugopal2017_01"/>
-      				<citedRange unit="item">2</citedRange>
-      				<citedRange unit="page">page</citedRange>
-      			</bibl>
-      			<bibl n="K">
-      				<ptr target="bib:Kuppusamy+al2010_01"/>
-      				<citedRange unit="item">452</citedRange>
-      				<citedRange unit="page">page</citedRange>
-      			</bibl>
+      		<listBibl type="primary">      			
+      			      			
       			<bibl n="K+V">
       				<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
       				<citedRange unit="item">452</citedRange>
-      				<citedRange unit="page">page</citedRange>
+      				<citedRange unit="page">393-394</citedRange>
       			</bibl>
+      			
+      			<bibl n="K">
+      				<ptr target="bib:Kuppusamy+al2010_01"/>
+      				<citedRange unit="item">452</citedRange>
+      				<citedRange unit="page">188</citedRange>
+      			</bibl>
+      			
+      			<bibl n="VVG">
+      				<ptr target="bib:Vijayavenugopal2017_01"/>
+      				<citedRange unit="item">2</citedRange>
+      				<citedRange unit="page">16-17</citedRange>      				
+      			</bibl> 
       			      			
       		</listBibl>
       		
@@ -253,3 +266,7 @@ Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>, with photo
       </body>
   </text>
 </TEI>
+
+<!--
+	central shrine, south wall
+-->
