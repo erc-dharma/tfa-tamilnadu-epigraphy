@@ -8,8 +8,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu 32, Tarppāraṇyēcuvarar temple, Tiyākarājacuvāmi shrine, western
-					base, time of Vīramohaṉ Kāṭavarāyaṉ</title>
+				<title>Tirunaḷḷāṟu 3, Tarppāraṇyēcuvarar temple, central shrine, south wall, time of
+					of Rājādhirāja, year 30</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -28,7 +28,7 @@
 			<publicationStmt>
 				<authority>DHARMA</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00008</idno>
+				<idno type="filename">DHARMA_INSTamilNadu00103</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -36,7 +36,7 @@
 							https://creativecommons.org/licenses/by/4.0/ or send a letter to
 							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal.</p>
+						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal</p>
 					</licence>
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
@@ -48,11 +48,11 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary></summary>
+						<summary/>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p></p>
+							<p/>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -61,8 +61,8 @@
 		<encodingDesc>
 			<projectDesc>
 				<p>The project DHARMA has received funding from the European Research Council (ERC)
-                        under the European Union's Horizon 2020 research and innovation programme (grant
-                        agreement no 809994).</p>
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
 			</projectDesc>
 			<schemaRef type="guide" key="EGDv01"
 				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
@@ -70,19 +70,20 @@
 				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
 					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                            ERC-DHARMA whose data are open to the public.</p>
+						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
 				<prefixDef ident="part" matchPattern="([a-z]+)"
 					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
 			<change who="part:axja" when="2020-11-03" status="draft"
-				>Updating toward the encoding template v03</change>
-			<change status="draft" when="2020-02-21" who="part:emfr"
+				>Updating toward the encoding
+				template v03</change>
+			<change who="part:emfr" when="2020-02-14" status="draft"
 				>Creation of the file on the
 				repository</change>
 		</revisionDesc>
@@ -91,92 +92,148 @@
 
 <body>
          
-      	<div type="edition" xml:lang="tam-Latn">
-           
-      		<ab>
-      			<lb n="01"/><hi rend="grantha">svasti śrī</hi>
-      		</ab>
+ <div type="edition" xml:lang="tam-Latn">
+        
+<p>
+	<lb n="1"/><milestone type="pagelike" unit="column" n="A"/>
+	<hi rend="grantha">svasti śrī</hi>
+</p>
+	
+    <lg met="āciriyappā" n="1">
+       <l n="1">
+          tiṅ<lb n="2" break="no"/>kaḷ-ēr taru taṉ<unclear>ṟo</unclear><lb n="3" break="no"/>ṅkal veṇkuṭaik kīḻ</l>
+       <l n="2">
+          <lb n="4" break="no"/>nilamakaḷ nilava malarmakaḷ</l>
+       <l n="3">
+          <lb n="5" break="no"/>puṇarn=tu <unclear>c</unclear>eṅ<supplied reason="omitted">kō*</supplied>l ōccik karuṅka<lb n="6" break="no"/>li kaṭintu</l>
+          <l n="4">
+             tantaiyar tamai<lb n="7" break="no"/>yaṉ tampiyar taṉ ṟiru</l>
+          <l n="5">
+             -manta<lb n="8" break="no"/>r eṉṟ’ ivarai maṇimuṭi cūṭṭi<lb n="9" break="no"/>k</l>
+          <l n="6">kaṉṉi kāvalar teṉṉavar mū<lb n="10" break="no"/>varuḷ</l>
+          
+          <lb n="11" break="no"/>
+          
+          <lb n="31"/>
+          
+          <milestone type="pagelike" unit="column" n="B"/>
+          
+          <lb n="32"/>
+          <lb n="33" break="no"/>
+          
+          <lb n="58"/>
+          
+          <milestone type="pagelike" unit="column" n="C"/>
+          
+          <lb n="59"/>
+          <lb n="60" break="no"/>
+          
+          <lb n="78"/>
+          
+          <milestone type="pagelike" unit="column" n="D"/>
+          
+          <lb n="79"/>
+          <lb n="80" break="no"/>
+          
+          <lb n="85" break="no"/>
+    </lg>
+
+<p>
+
+<lb n="86" break="no"/>
+ 	
+<lb n="105"/>
+
+<milestone type="pagelike" unit="column" n="E"/>
+
+<lb n="106"/>
+<lb n="107" break="no"/>
+<lb n="118"/>
+
+</p>
       		
-      		<p>      			
-      			<lb n="1"/>vīramōkaṉ kāṭavarāya<unclear>ṉ</unclear>
-      			<lb n="2"/>Aḻakiya-nampirāṭ<unclear>ṭi</unclear>      			    			
-      		</p>
-      		
-      		<gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
-         
-      	</div>
-         
-      	<div type="apparatus">
+</div>
+	
+      	<!--<div type="apparatus">
            
                <listApp>
-               	
-               	<app loc="1">
-               		<lem>kāṭavarāya<unclear>ṉ</unclear></lem>
-               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">kāṭavarāyaṉ</rdg>
-               		<rdg source="bib:Vijayavenugopal2017_01">kāṭavarāyaṉ</rdg>
-               	</app>
-               	<app loc="1">
-               		<lem>nampirāṭ<unclear>ṭi</unclear></lem>
-               		<rdg source="bib:Vijayavenugopal2017_01">nampirāṭṭi</rdg>
-               	</app>
-               	
-               </listApp>         
-      	</div>
+                  <app loc="1">
+                     <lem/>
+                     <rdg source="bib:..."/>
+                  </app>
+               </listApp>      
+      		
+      	</div>-->
       	
-      	<div resp="part:emfr" type="translation">
-      		<ab n="01">
-      			Prosperity! Fortune! 
-      		</ab>
-      		<p n="1-2">
-      			Aḻakiya-Nampirāṭṭi, <supplied reason="explanation">wife of</supplied> Vīramōkaṉ Kāṭavarāyaṉ		
-      			<gap reason="lost"/>
+      	<div type="translation" resp="part:emfr">
+      		
+      		<p n="1-87">
+      			[<foreign>meykkīrtti</foreign> of Rājādhirāja I Cōḻa]
+      		</p>
+      		
+      		<p n="87-89">
+      			Thirtieth year of Śri-Vijaya-Rajendra-deva ...
+      		</p>
+      		
+      		<p n="89-118">
+      			<!--To be completed-->      		
       		</p>
       		
       	</div>
       	
-      	<div type="commentary"/>
+      	<div type="commentary">
       		
-      	
+      		<p>For the different versions of the Meykkīrtti of Rājādhirāja I Cōḻa, see <bibl><ptr target="bib:Cuppiramaṇiyam1983_01"/><citedRange unit="page">39-45</citedRange></bibl>
+      		</p>
+      		
+      	</div>
       	
 <div type="bibliography">
 	
 	<p>
-		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 32).
-		First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 32).
+		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 453).
+		First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 453).
 		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>, with photos.
 	</p>
+	
 	<p>
 		This edition revised by G. Vijayavenugopal (2019).
 		Reviewing, encoding, critical apparatus, and translation by Emmanuel Francis (2020).
-	</p>
+	</p>	
 	
       		<listBibl type="primary">
-      			<bibl n="VVG">
+      			<bibl n="V">
       				<ptr target="bib:Vijayavenugopal2017_01"/>
-      				<citedRange unit="item">32</citedRange>
-      				<citedRange unit="page">87</citedRange>
+      				<citedRange unit="item">3</citedRange>
+      				<citedRange unit="page">18-21</citedRange>
       			</bibl>
-      			<bibl n="K">
+      			<bibl n="K+al">
       				<ptr target="bib:Kuppusamy+al2010_01"/>
-      				<citedRange unit="item">481</citedRange>
-      				<citedRange unit="page">209</citedRange>
+      				<citedRange unit="item">453</citedRange>
+      				<citedRange unit="page">188-189</citedRange>
       			</bibl>
       			<bibl n="K+V">
       				<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
-      				<citedRange unit="item">481</citedRange>
-      				<citedRange unit="page">448</citedRange>
+      				<citedRange unit="item">453</citedRange>
+      				<citedRange unit="page">394-399</citedRange>
       			</bibl>
-      			      			
+      		      			
       		</listBibl>
       		
       		<listBibl type="secondary">
       			
       			<bibl>
-      				<ptr target="bib:ARIE1965-1966"/>
-      				<citedRange unit="page">89</citedRange>
-      				<citedRange unit="appendix">B/1965-1966</citedRange>
-      				<citedRange unit="item">457</citedRange>
+      				<ptr target="bib:Cuppiramaṇiyam1983_01"/> 
+      				<citedRange unit="page">39-45</citedRange>
       			</bibl>
+      			
+      			<bibl>
+      				<ptr target="bib:ARIE1965-1966"/>
+      				<citedRange unit="page">86</citedRange>
+      				<citedRange unit="appendix">B/1965-1966</citedRange>
+      				<citedRange unit="item">444</citedRange>
+      			</bibl>
+      			
       		</listBibl>
       		
         </div>
