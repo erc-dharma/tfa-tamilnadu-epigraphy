@@ -234,7 +234,7 @@ patiṉ Oṉṟāvatu <hi rend="grantha">siṅṅa</hi>-nāyaṟṟu pūrvapa<hi
 	<p>
 		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 475).
 		First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 475).
-		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>, with photos.		
+		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 26), with photos.		
 	</p>
            
            <p>
@@ -243,21 +243,25 @@ patiṉ Oṉṟāvatu <hi rend="grantha">siṅṅa</hi>-nāyaṟṟu pūrvapa<hi
 	</p>
 	
       		<listBibl type="primary">
-      			<bibl n="VVG">
-      				<ptr target="bib:Vijayavenugopal2017_01"/>
-      				<citedRange unit="item">26</citedRange>
-      				<citedRange unit="page">72-73</citedRange>
-      			</bibl>
-      			<bibl n="K">
-      				<ptr target="bib:Kuppusamy+al2010_01"/>
-      				<citedRange unit="item">475</citedRange>
-      				<citedRange unit="page">page</citedRange>
-      			</bibl>
+      			
       			<bibl n="K+V">
       				<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
       				<citedRange unit="item">475</citedRange>
       				<citedRange unit="page">page</citedRange>
       			</bibl>
+      			
+      			<bibl n="K">
+      				<ptr target="bib:Kuppusamy+al2010_01"/>
+      				<citedRange unit="item">475</citedRange>
+      				<citedRange unit="page">page</citedRange>
+      			</bibl>
+      			
+      			<bibl n="VVG">
+      				<ptr target="bib:Vijayavenugopal2017_01"/>
+      				<citedRange unit="item">26</citedRange>
+      				<citedRange unit="page">72-73</citedRange>
+      			</bibl>
+      			
       		      			
       		</listBibl>
       		

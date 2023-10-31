@@ -145,7 +145,7 @@
 	<p>
 		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 480).
 		First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 480).
-		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>, with photos.
+		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 31), with photos.
 	</p>
 	<p>
 		This edition revised by G. Vijayavenugopal (2019).
@@ -153,22 +153,26 @@
 	</p>
            
       		<listBibl type="primary">
-      			<bibl n="VVG">
-      				<ptr target="bib:Vijayavenugopal2017_01"/>
-      				<citedRange unit="item">31</citedRange>
-      				<citedRange unit="page">86</citedRange>
-      			</bibl>
-      			<bibl n="K">
-      				<ptr target="bib:Kuppusamy+al2010_01"/>
-      				<citedRange unit="item">480</citedRange>
-      				<citedRange unit="page">209</citedRange>
-      			</bibl>
+      			
       			<bibl n="K+V">
       				<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
       				<citedRange unit="item">480</citedRange>
       				<citedRange unit="page">447</citedRange>
       			</bibl>
-      			      			
+      			      	
+      			<bibl n="K">
+      				<ptr target="bib:Kuppusamy+al2010_01"/>
+      				<citedRange unit="item">480</citedRange>
+      				<citedRange unit="page">209</citedRange>
+      			</bibl>
+      			
+      			<bibl n="VVG">
+      				<ptr target="bib:Vijayavenugopal2017_01"/>
+      				<citedRange unit="item">31</citedRange>
+      				<citedRange unit="page">86</citedRange>
+      			</bibl>
+      			
+      					
       		</listBibl>
       		
       		<listBibl type="secondary">

@@ -112,7 +112,7 @@
 		<l n="16">vaṇ<supplied reason="lost">ṭ</supplied>amaṟ-k kaḷi<supplied reason="omitted">ṟ</supplied>ṟoṭu maṭiya-t tiṇ-ṭiṟal</l>
 		<l n="17">viki<unclear>r</unclear>taral vikkiyum vicaiyātitta<lb n="8" break="no"/>ṉum</l>
 		<l n="18">tarumu<unclear>ra</unclear>ḷ-c c<unclear>ā</unclear>ṅkamaiyyaṉum mutali<choice><orig>n</orig><reg>ṉ</reg></choice>ar</l>
-		<l n="19"><hi rend="grantha">sa</hi>mara- * * ru vott-uṭaiya nimir cuṭar-p</l>
+		<l n="19"><hi rend="grantha">sa</hi>mara-<gap reason="illegible" quantity="2" unit="character"/>ruvott-uṭaiya nimir cuṭar-p</l>
 		<l n="20">po<lb n="9" break="no"/>ṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ōṭ' ayṅkari pu<unclear>ra</unclear>viyoṭum piṭittu</l>
 		<l n="21">taṉṉāṭaiyil <hi rend="grantha">je</hi>yaṅ koṇṭoṉṉār</l>
 		<l n="22">koḷḷippā<lb n="10" break="no"/>kkai Oḷḷe<unclear>r</unclear>i maṭu<unclear>pp</unclear>itt'</l>
@@ -123,7 +123,7 @@
 		<l n="27"><supplied reason="lost">pu</supplied><unclear>kka</unclear> Ilaṅkē<supplied reason="lost">ca</supplied><choice><orig>n</orig><reg>ṉ</reg></choice>-ā<lb n="12" break="no"/>kiya vikkirama</l>
 		<l n="28">-pāṇṭiyaṉ parumaṇi muṭi taṭi-t tiṇṭiya</l> 
 		<l n="29">villavar mīṉavar vē <gap reason="lost" quantity="3" unit="character"/> c caḷukkiyar</l>
-		<l n="30">va<supplied reason="omitted">l</supplied>la<lb n="13" break="no"/>var mutal eṉa <supplied reason="lost">vi</supplied>ḷaṅka v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-iru<choice><sic>t</sic><corr>n</corr></choice>ta</l>
+		<l n="30">va<supplied reason="omitted">l</supplied>la<lb n="13" break="no"/>var mutal eṉa <unclear>vi</unclear>ḷaṅka v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-iru<choice><sic>t</sic><corr>n</corr></choice>ta</l>
 		<l n="31"><hi rend="grantha">je</hi>yaṅ-koṇṭa-cōḻaṉ Uyarnta perum-pukaḻ</l>
 	</lg>
 	
@@ -133,7 +133,7 @@
 	</p>
 	<p>
 		yā <gap reason="illegible" quantity="4" unit="character" precision="low"/> t-āvatu Uyakkoṇṭār vaḷa<supplied reason="lost">nāṭṭu</supplied>
-		<lb n="15"/>muḻaiyū<hi rend="grantha">ru</hi> <hi rend="grantha">bra<space/>hma</hi>tēyam tirunaḷḷāṟṟu tirunaḷḷāṟu<supplied reason="omitted">ṭ</supplied>aiyār nila mutalu<supplied reason="lost">m</supplied> nel mutalum parikalappi<unclear>kk</unclear>iṉṟa muta<unclear>lu</unclear><gap reason="illegible" quantity="2" unit="character" precision="low"/>
+		<lb n="15"/>muḻaiyū <gap reason="illegible" quantity="1" unit="character"/> <hi rend="grantha">bra<space/>hma</hi>tēyam tirunaḷḷāṟṟu tirunaḷḷāṟ-u<supplied reason="omitted">ṭ</supplied>aiyār nila mutalu<supplied reason="lost">m</supplied> nel mutalum parikalappi<unclear>kk</unclear>iṉṟa muta<unclear>lu</unclear><gap reason="illegible" quantity="2" unit="character" precision="low"/>
 		<lb n="16"/>tiru-mēni muta<supplied reason="lost">lum</supplied> <gap reason="illegible" quantity="15" unit="character" precision="low"/> ḷḷi <gap reason="illegible" quantity="12" unit="character" precision="low"/> yārkaḷ per<supplied reason="lost">u</supplied><gap reason="illegible" quantity="2" unit="character" precision="low"/>
 		<lb n="17" break="no"/>ṭ=ṭāl nelluṅ kācuṅ koṇṭu celutta kaṭava niman=tam ti<unclear>ru-p</unclear>-pēṟūr k<unclear>i</unclear>ḻava<unclear>r</unclear> Irun kāṭaṉ vaikun<unclear>ta</unclear>ṉ pakkal <unclear>ko</unclear> <gap reason="illegible" quantity="5" unit="character" precision="low"/>
 	</p>      		
@@ -174,19 +174,47 @@
                		<rdg source="bib:Vijayavenugopal2017_01">karumuraḷ-c</rdg>
                	</app>
                	
+               	<app loc="8">
+               		<lem><hi rend="grantha">sa</hi>mara-<gap reason="illegible" quantity="2" unit="character"/>ruvott-uṭaiya</lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01"><hi rend="grantha">sa</hi>marap<unclear>e</unclear>ruvottuṭaiya</rdg>
+               		<rdg source="bib:Vijayavenugopal2017_01"><hi rend="grantha">sa</hi>maramēru vottuṭaiya</rdg>
+               		<note><foreign>camara pīruvot tuṭaiya nimicuṭar</foreign> is expected for this <foreign>aṭi</foreign>.</note>
+               	</app>
+               	
                	<app loc="10">
                		<lem>orutaṉi taṇṭālp <unclear>per</unclear> tirai <unclear>Uṟtt</unclear></lem>
                		<rdg source="bib:Vijayavenugopal2017_01">orutaṉi taṇṭāl</rdg>
                	</app>
-               	           
+               	
+               	<app loc="11">
+               		<lem>muḻutu ēḻ-<unclear>kaṭa</unclear><choice><orig>l<unclear>l</unclear></orig><reg>l</reg></choice> ī<unclear>ḻa</unclear>m</lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">muḻuvatu ēḻukaṭal li<unclear>ḻa</unclear>m</rdg>
+               		<rdg source="bib:Vijayavenugopal2017_01">muḻutu eḻkaṭal līḻam</rdg>
+               		<note><foreign>muḻuvatum iḻantu ēḻkaṭal īḻam</foreign> is expected for this <foreign>aṭi</foreign>. A "+" sign is added on top of the <foreign>tu</foreign> of <foreign>muḻutu</foreign>, most probably to mark that a <foreign>cīr</foreign> is here missing in this <foreign>aṭi</foreign>.</note>
+               		<!--update encoding in body/text. how to mark a kākapada without added text?-->
+               	</app>  
+               	
+               	<app loc="12">
+               		<lem>tiṇṭiya</lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">tiṇṭiya</rdg>
+               		<rdg source="bib:Vijayavenugopal2017_01">tīṇṭiya</rdg>
+               	</app> 
+               	              	
+               	<app loc="13">
+               		<lem><unclear>vi</unclear>ḷaṅka</lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01"/>
+               		<note>The letter <foreign>vi</foreign> appear to have been engraved on the perpendicular site of the pilaster, after <foreign>mutal eṉa</foreign>.</note>
+               	</app> 
+               	
+               	
                	<app loc="13">
                		<lem>Uyar<unclear>n</unclear>ta</lem>
                		<rdg source="bib:Vijayavenugopal2017_01">Uyartta</rdg>
                	</app>
                	
                	<app loc="15">
-               		<lem>muḻaiyū<hi rend="grantha">ru</hi></lem>
-               		<rdg source="bib:Vijayavenugopal2017_01">muḻaiyūr-nāṭṭu</rdg>
+               		<lem>muḻaiyū <gap reason="illegible" quantity="1" unit="character"/></lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">muḻaiyūr nāṭṭu</rdg>
                	</app>
                	             
                	<app loc="17">
@@ -210,7 +238,7 @@
 	</p>
 	
 	<p n="14-17">
-		...
+		<gap reason="lost"/>th year, the capital in land, the capital in paddy, the capital in <foreign>parikalam</foreign>, the capital in <foreign>tirumēṉi</foreign> of Tirunaḷḷāṟuṭaiyar at Tirunaḷḷāṟu, a <foreign>brahmadeya</foreign> of Muḻaiyūr in the Uyyakkoṇṭār-vaḷanāṭu <gap reason="illegible"/> with <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> the paddy and the coins <gap reason="ellipsis"/>
 	</p>
 </div>
       	
@@ -221,7 +249,7 @@
  	<p>
  		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 452).
  		First Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 452).
- 		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl>, with photo (Tirunaḷḷāṟu 2).
+ 		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 2), with photo.
  	</p>
  	
  	<p>

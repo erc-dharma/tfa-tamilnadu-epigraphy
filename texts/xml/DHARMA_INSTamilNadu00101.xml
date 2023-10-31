@@ -134,8 +134,7 @@
                                               	
                	<app loc="1">
                		<lem>talaiyum <gap reason="lost" extent="unknown" unit="character"/></lem>
-               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">talaiyum <seg type="component" subtype="body"/>e <gap reason="lost" quantity="12" unit="character"/></rdg>
-               		<!--update to tailaiyum Ce-->
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">talaiyum <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg></rdg>
                	</app>
                	
                	<app loc="2">
@@ -185,8 +184,7 @@
                	
                	<app loc="5">
                		<lem>Arai<unclear>yar</unclear><gap reason="lost" unit="character" quantity="3" precision="low"/></lem>               		
-               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">A<seg type="component" subtype="body"/>ai <gap reason="lost" quantity="4" unit="character"/></rdg>
-               		<!--update to tailaiyum Cai-->
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">A<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg> <gap reason="lost" quantity="4" unit="character"/></rdg>
                		<rdg source="bib:Vijayavenugopal2017_01">Araiyar <gap reason="lost" unit="character" quantity="6"/></rdg> 
                	</app>
                	
