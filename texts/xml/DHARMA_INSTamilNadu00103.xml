@@ -8,8 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu 3, Tarppāraṇyēcuvarar temple, central shrine, south wall, time of
-					of Rājādhirāja, year 30</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, time of Rājādhirāja, year 30</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -80,12 +79,9 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:axja" when="2020-11-03" status="draft"
-				>Updating toward the encoding
+			<change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding
 				template v03</change>
-			<change who="part:emfr" when="2020-02-14" status="draft"
-				>Creation of the file on the
-				repository</change>
+			<change who="part:emfr" when="2020-02-14" status="draft">Creation of the file on the repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -94,76 +90,73 @@
          
  <div type="edition" xml:lang="tam-Latn">
         
-<p>
-	<lb n="1"/><milestone type="pagelike" unit="column" n="A"/>
-	<hi rend="grantha">svasti śrī</hi>
-</p>
+ 	<ab>
+ 		<lb n="1"/><milestone type="pagelike" unit="zone" n="1"/>
+ 		<hi rend="grantha">svasti śrī</hi>
+ 	</ab>
 	
-    <lg met="āciriyappā" n="1">
-       <l n="1">
-          tiṅ<lb n="2" break="no"/>kaḷ-ēr taru taṉ<unclear>ṟo</unclear><lb n="3" break="no"/>ṅkal veṇkuṭaik kīḻ</l>
-       <l n="2">
-          <lb n="4" break="no"/>nilamakaḷ nilava malarmakaḷ</l>
-       <l n="3">
-          <lb n="5" break="no"/>puṇarn=tu <unclear>c</unclear>eṅ<supplied reason="omitted">kō*</supplied>l ōccik karuṅka<lb n="6" break="no"/>li kaṭintu</l>
-          <l n="4">
-             tantaiyar tamai<lb n="7" break="no"/>yaṉ tampiyar taṉ ṟiru</l>
-          <l n="5">
-             -manta<lb n="8" break="no"/>r eṉṟ’ ivarai maṇimuṭi cūṭṭi<lb n="9" break="no"/>k</l>
-          <l n="6">kaṉṉi kāvalar teṉṉavar mū<lb n="10" break="no"/>varuḷ</l>
-          
-          <lb n="11" break="no"/>
-          
-          <lb n="31"/>
-          
-          <milestone type="pagelike" unit="column" n="B"/>
-          
-          <lb n="32"/>
-          <lb n="33" break="no"/>
-          
-          <lb n="58"/>
-          
-          <milestone type="pagelike" unit="column" n="C"/>
-          
-          <lb n="59"/>
-          <lb n="60" break="no"/>
-          
-          <lb n="78"/>
-          
-          <milestone type="pagelike" unit="column" n="D"/>
-          
-          <lb n="79"/>
-          <lb n="80" break="no"/>
-          
-          <lb n="85" break="no"/>
-    </lg>
-
-<p>
-
-<lb n="86" break="no"/>
+ 	<lg met="āciriyappā" n="1">
  	
-<lb n="105"/>
-
-<milestone type="pagelike" unit="column" n="E"/>
-
-<lb n="106"/>
-<lb n="107" break="no"/>
-<lb n="118"/>
-
-</p>
+ 		<l n="1">tiṅ<lb n="2" break="no"/>kaḷ-ēr taru taṉ<unclear reason="eccentric_ductus">ṟo</unclear><lb n="3" break="no"/>ṅkal veṇ-kuṭai-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ</l>
+ 		<l n="2"><lb n="4" break="no"/><unclear>n</unclear>i<unclear>la-ma</unclear>kaḷ nilava ma<unclear>la</unclear>r-<unclear>ma</unclear>ka<unclear>ḷ</unclear></l>
+ 		<l n="3"><lb n="5" break="no"/><unclear>pu</unclear>ṇarn=tu <supplied reason="lost">c</supplied>eṅ<supplied reason="omitted">kō</supplied>l ōcci-k karuṅ-ka<lb n="6" break="no"/>li kaṭintu</l>
+ 		<l n="4">tantaiyar tamai<lb n="7" break="no"/><unclear>ya</unclear>ṉ tampiyar taṉ ṟiru</l>
+ 		<l n="5">m<choice><sic>a</sic><corr>ai</corr></choice>nta<lb n="8" break="no"/>r eṉṟ’ ivarai maṇi-muṭi cūṭṭi<lb n="9" break="no"/>-k</l>
+ 		<l n="6">kaṉṉ<unclear>i</unclear> kāvalar teṉṉavar m<choice><orig>u</orig><reg>ū</reg></choice><lb n="10" break="no"/>varuḷ</l>
+ 		
+ 		<lb n="11" break="no"/>
+ 		
+ 		<lb n="31"/>
+ 		
+ 		<lb n="32"/>
+ 		<milestone type="pagelike" unit="zone" n="2"/>
+ 		
+ 		<lb n="33" break="no"/>
+ 		
+ 		<lb n="58"/>
+ 		
+ 		<lb n="59"/>
+ 		<milestone type="pagelike" unit="zone" n="3"/>
+ 		
+ 		
+ 		<lb n="60" break="no"/>
+ 		
+ 		<lb n="78"/>
+ 		
+ 		<lb n="79"/>
+ 		<milestone type="pagelike" unit="zone" n="4"/>
+ 		
+ 		<lb n="80" break="no"/>
+ 		
+ 		<lb n="85" break="no"/>
+ 	</lg>
+ 	
+ 	<p>
+ 		
+ 		<lb n="86" break="no"/>
+ 		
+ 		<lb n="105"/>
+ 			 		
+ 		<lb n="106"/>
+ 		<milestone type="pagelike" unit="zone" n="5"/>
+ 		<lb n="107"/>
+ 		<lb n="118"/>
+ 		
+ 	</p>
       		
 </div>
 	
-      	<!--<div type="apparatus">
+<!--<div type="apparatus">
            
-               <listApp>
-                  <app loc="1">
-                     <lem/>
-                     <rdg source="bib:..."/>
-                  </app>
-               </listApp>      
-      		
-      	</div>-->
+	<listApp>
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">...</rdg>
+			<rdg source="bib:Vijayavenugopal2017_01">...</rdg>
+		</app> 
+	</listApp>      
+	
+</div>-->
       	
       	<div type="translation" resp="part:emfr">
       		
@@ -172,19 +165,18 @@
       		</p>
       		
       		<p n="87-89">
-      			Thirtieth year of Śri-Vijaya-Rajendra-deva ...
+      			Thirtieth year of the glorious and victorious king Rājendra<note>Rājādhirāja, in fact.</note> ...
       		</p>
       		
       		<p n="89-118">
-      			<!--To be completed-->      		
+      			...      		
       		</p>
       		
       	</div>
       	
       	<div type="commentary">
       		
-      		<p>For the different versions of the Meykkīrtti of Rājādhirāja I Cōḻa, see <bibl><ptr target="bib:Cuppiramaṇiyam1983_01"/><citedRange unit="page">39-45</citedRange></bibl>
-      		</p>
+      		<p>For the different versions of the <foreign>meykkīrtti</foreign> of Rājādhirāja I Cōḻa, see <bibl><ptr target="bib:Cuppiramaṇiyam1983_01"/> </bibl> (pages 39-45).</p>
       		
       	</div>
       	
@@ -243,3 +235,7 @@
       </body>
   </text>
 </TEI>
+
+<!--
+	central shrine, south wall
+-->
