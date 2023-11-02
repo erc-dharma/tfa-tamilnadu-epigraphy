@@ -79,9 +79,11 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding
+			<change who="part:axja" when="2020-11-03" status="draft"
+				>Updating toward the encoding
 				template v03</change>
-			<change who="part:emfr" when="2020-02-14" status="draft">Creation of the file on the repository</change>
+			<change who="part:emfr" when="2020-02-14" status="draft"
+				>Creation of the file on the repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -140,9 +142,25 @@
  		<lb n="106"/>
  		<milestone type="pagelike" unit="zone" n="5"/>
  		<lb n="107"/>
- 		<lb n="118"/>
- 		
  	</p>
+ 	
+ 	<p>
+ 		pūṟvatē<hi rend="grantha">śa</hi>muṅ k <gap reason="lost" quantity="2" unit="character" precision="low"/>
+ 		<lb n="110" break="no"/>ṭ’ aruḷ<unclear>i</unclear>ṉa periya-tēvaṟku yā <gap reason="lost" quantity="1" unit="character" precision="low"/> <unclear>ṭ-u</unclear>
+ 		<lb n="111" break="no"/>ṭaiyāṉ tātaṉ komma<unclear>ṉ</unclear> <gap reason="lost" quantity="1" unit="character" precision="low"/>
+ 		<lb n="112" break="no"/>tukku-p <unclear>pali</unclear>cai cekutal <gap reason="lost" quantity="2" unit="character" precision="low"/>
+ 		<lb n="113" break="no"/>kku O<choice><orig>n</orig><reg>ṉ</reg></choice>ṟum poli-y-ūṭṭ-āka <gap reason="lost" quantity="2" unit="character" precision="low"/>
+ 		<lb n="114"/>kaṭavōm āṉōm <unclear>i</unclear>k-kōyi<supplied reason="lost">l</supplied>
+ 		<lb n="115" break="no"/><hi rend="grantha">brāhma</hi>ṇarōm {finalgomutra}<!--update-->
+ 	</p>
+ 		
+ 	<p>
+ 		Ivarkaḷ <supplied reason="lost">aruḷ</supplied>
+ 		<lb n="116" break="no"/>moḻitēva-vaḷanāṭṭup pu <gap reason="lost" quantity="2" unit="character" precision="low"/>
+ 		<lb n="117"/>veḷḷāḷaṉ kaṇa<choice><sic>v</sic><corr>p</corr></choice>ati kaḷi<supplied reason="lost">ya</supplied>
+ 		<lb n="118" break="no"/><choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> eḻuttu {finalgomutra}<!--update-->
+ 	</p>
+
       		
 </div>
 	
@@ -168,8 +186,16 @@
       			Thirtieth year of the glorious and victorious king Rājendra<note>Rājādhirāja, in fact.</note> ...
       		</p>
       		
-      		<p n="89-118">
+      		<p n="89-109">
       			...      		
+      		</p>   
+      		
+      		<p n="109-115">
+      			We, the Brahmins of this temple have become those who have to ...      		
+      		</p>
+      		
+      		<p n="115-118">
+      			[signature of witness]     		
       		</p>
       		
       	</div>
@@ -235,7 +261,6 @@
       </body>
   </text>
 </TEI>
-
 <!--
 	central shrine, south wall
 -->
