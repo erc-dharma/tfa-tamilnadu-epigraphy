@@ -14,7 +14,7 @@
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
-					</persName>					
+					</persName>
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>...</summary>
+						<summary>Donation / installation of a bronze image of the Lord Aruḷmoḻi Nāyakar by the ascetic Samayanātha.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -118,7 +118,7 @@
 	</p>
 	
 	<p n="1-2">
-		<supplied reason="subaudible">This</supplied> lord Aruḷmoḻi Nāyakar <supplied reason="subaudible">is</supplied> the pious act <supplied reason="explanation"><foreign>dharma</foreign><note>That is, the donation / installation of the bronze image.</note></supplied> of the honourable Samayanātamuṉi.
+		<supplied reason="subaudible">This</supplied> lord Aruḷmoḻi Nāyakar <supplied reason="subaudible">is</supplied> the pious act <supplied reason="explanation"><foreign>dharma</foreign><note>That is, the donation / installation of the bronze image.</note></supplied> of the honourable Samayanātamuṉi<note>That is, Sanskrit Samayanātha.</note>.
 	</p>
 	
          </div>

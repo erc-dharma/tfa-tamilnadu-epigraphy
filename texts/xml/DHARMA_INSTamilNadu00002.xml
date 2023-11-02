@@ -14,7 +14,7 @@
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
-					</persName>					
+					</persName>
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Donor's name.</summary>
+						<summary>Commemoration of a <foreign>tiruppaṇi</foreign> ("glorious temple service") by the ascetic Guṇasāgara, disciple of the master Jinasena of the Sena congregation, in Tirumayilāpuri. It is not clear if the inscribed bronze is the <foreign>tiruppaṇi</foreign> itself (in which case the record is about the donation / installation of this bronze image) or if the <foreign>tiruppaṇi</foreign> was performed in respect of this preexisting bronze image. It is neither clear if Tirumayilāpuri is just the seat of the Sena congregation or also the place of installation of the bronze image.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -85,14 +85,14 @@
           
 <div type="edition" xml:lang="tam-Latn">
              
-	<div type="textpart" subtype="zone" n="1" >
+	<div type="textpart" subtype="zone" n="1">
 		<head xml:lang="eng">Top of pedestal</head>
 		<ab>
 			<lb n="1"/>Ilaṅkāṭu
 		</ab>
 	</div>
 	
-	<div type="textpart" subtype="zone" n="2" >
+	<div type="textpart" subtype="zone" n="2">
 		<head xml:lang="eng">Bottom of pedestal</head>
 	<p>
 		<lb n="1"/>tiru-mayilāpuri cē<choice><orig>n</orig><reg>ṉ</reg></choice>a-caṅkam ci<choice><orig>n</orig><reg>ṉ</reg></choice>a
@@ -118,7 +118,7 @@
           
 <div type="translation" resp="part:emfr">
          	
-         	<div type="textpart" subtype="zone" n="1" >
+         	<div type="textpart" subtype="zone" n="1">
          		
 		<head xml:lang="eng">Top of pedestal</head>
 		<p n="1">
@@ -126,11 +126,11 @@
 		</p>
 	</div>
 	
-	<div type="textpart" subtype="zone" n="2" >
+	<div type="textpart" subtype="zone" n="2">
 		<head xml:lang="eng">Bottom of pedestal</head>
 		
 		<p n="1-3">
-			Glorious service <supplied reason="explanation"><foreign>tiruppaṇi</foreign><note>That is, donation.</note></supplied> of the ascetic Guṇasāgara, disciple of the master Jinasena of the Sena congregation in Tirumayilāpuri.
+			Glorious service <supplied reason="explanation"><foreign>tiruppaṇi</foreign></supplied> of the ascetic Guṇasāgara, disciple of the master Jinasena of the Sena congregation, in Tirumayilāpuri.
 		</p>
 	</div>
              
