@@ -106,42 +106,92 @@
  		<l n="5">m<choice><sic>a</sic><corr>ai</corr></choice>nta<lb n="8" break="no"/>r eṉṟ’ ivarai maṇi-muṭi cūṭṭi<lb n="9" break="no"/>-k</l>
  		<l n="6">kaṉṉ<unclear>i</unclear> kāvalar teṉṉavar m<choice><orig>u</orig><reg>ū</reg></choice><lb n="10" break="no"/>varuḷ</l>
  		
- 		<lb n="11" break="no"/>
- 		
- 		<lb n="31"/>
- 		
- 		<lb n="32"/>
- 		<milestone type="pagelike" unit="zone" n="2"/>
- 		
- 		<lb n="33" break="no"/>
- 		
- 		<lb n="58"/>
- 		
- 		<lb n="59"/>
- 		<milestone type="pagelike" unit="zone" n="3"/>
- 		
- 		
- 		<lb n="60" break="no"/>
- 		
- 		<lb n="78"/>
- 		
- 		<lb n="79"/>
- 		<milestone type="pagelike" unit="zone" n="4"/>
- 		
- 		<lb n="80" break="no"/>
- 		
- 		<lb n="85" break="no"/>
+ 		<l n="7">vāṉakam Oruva<choice><orig>n</orig><reg>ṉ</reg></choice>ukk’ aruḷi<lb n="11" break="no"/>-k kā<choice><orig>n</orig><reg>ṉ</reg></choice>akam</l>
+ 		<l n="8">Iruvarukk’ aḷittu-p <lb n="12"/>porucilai-c cēralaṉ</l>
+ 		<l n="9">vēlai <lb n="13"/>keḻu kāntaḷūr-c-cālai kalam aṟuppitt’</l>
+ 		<l n="10">ilaṅkaiyaṟ <lb n="14"/>karaicaiyum Alaṅkal vallavaṉaiyum</l>
+ 		<l n="11">kaṉṉa <lb n="15"/>kucciyar-k kāvalaṉaiyum poṉṉaṇi</l>
+ 		<l n="12">muṭi-t-talai <lb n="16"/>taṭintu taṉ koṭippaṭai-y ēvi-k</l>
+ 		<l n="13">kaṉṉāṭakar viṭu <lb n="17"/>kaṭakari puraḷa-t</l>
+ 		<l n="14">taṉṉā<unclear>ṭai</unclear>yiṟ ṟamiḻp paraṇi koṇṭo <lb n="18" break="no"/>ṉṉār</l>
+ 		<l n="15">vaccira neṭuvāḷ viccayaṉ veru neḷitt’</l>
+ 		<l n="16">añci<lb n="19" break="no"/>-y ōṭattaṉ vañciyam paṭaiyāl</l>
+ 		<l n="17">āṅkavaṉ <unclear>p</unclear>itāvai mā<lb n="20" break="no"/>tāvoṭuñ catarmali</l>
+ 		<l n="18">vīṅku n<choice><orig>i</orig><reg>ī</reg></choice>r-p pūṇṭ<choice><orig>u</orig><reg>ū</reg></choice>r veñcama-t taka<lb n="21" break="no"/>-p-paṭutt’</l>
+ 		<l n="19">ayaṟpaṭai Ā<hi rend="grantha">ha</hi>vamallaṉ payattoṭum</l>
+ 		<l n="20">vara<lb n="22" break="no"/>viṭum Oṟṟarai v<choice><sic>e</sic><corr>o</corr></choice>ruvara-p piṭippi-t tāṅ kavar mār<choice><sic>v</sic><corr>p</corr></choice>il</l>
+
+ 		<l n="21"><lb n="23"/>...
+ 			
+ 			<lb n="31"/>...
+ 			
+ 			<lb n="32"/>
+ 			<milestone type="pagelike" unit="zone" n="2"/>
+ 			...
+ 			
+ 			<lb n="33" break="no"/>...
+ 			
+ 			<lb n="58"/>...
+ 			
+ 			<lb n="59"/>
+ 			<milestone type="pagelike" unit="zone" n="3"/>
+ 			...
+ 			
+ 			<lb n="60" break="no"/>...
+ 			
+ 			<lb n="78"/>...
+ 			
+ 			<lb n="79"/>
+ 			<milestone type="pagelike" unit="zone" n="4"/>
+ 			...
+ 			<lb n="80" break="no"/>...
+ 			
+ 			<lb n="85" break="no"/>...
+ 		</l>
  	</lg>
  	
+ 	
+ 	
  	<p>
- 		
- 		<lb n="86" break="no"/>
- 		
- 		<lb n="105"/>
- 			 		
+ 		kō-v-irā<hi rend="grantha">ja</hi>
+ 		<lb n="86" break="no"/>k<supplied reason="lost">ē</supplied><hi rend="grantha"><unclear>sa</unclear></hi>ri Enal āki-p pēca Eṇṭi
+ 		<lb n="87" break="no"/><supplied reason="lost">cai-y</supplied> <gap reason="lost" quantity="3" unit="character" precision="low"/> niṟain=ta kīrtti <hi rend="grantha">śrī</hi>-vi
+ 		<lb n="88" break="no"/><hi rend="grantha">jai</hi><supplied reason="omitted">ya</supplied>-<unclear>rā</unclear><hi rend="grantha">j<supplied reason="lost">e</supplied>n<choice><orig>t</orig><reg>d</reg></choice>rade</hi>varkku yāṇṭu
+ 		<lb n="89"/><num value="30">3 <g type="numeral">10</g></num> ~ Āva<supplied reason="lost">tu</supplied>
+ 	</p>
+ 	
+ 	<p>
+ 		Uyya-k-koṇṭār
+ 		<lb n="90" break="no"/>-vaḷanāṭṭu muḻaiyūr-<supplied reason="lost">nāṭ</supplied><unclear>ṭu</unclear> <hi rend="grantha">brahmade</hi>yan tirunaḷḷāṟ-uṭai
+ 		<lb n="91" break="no"/>yār <hi rend="grantha">śi</hi>va<hi rend="grantha">brahma</hi>ṇaṉ kā<hi rend="grantha">śya</hi>paṉ vaikuntaṉ tūvaṭi
+ 		<lb n="92" break="no"/>paṭṭaṉuṅ kā<hi rend="grantha">śya</hi>paṉ <unclear>kaṇa</unclear><supplied reason="lost">pa</supplied>ti vaikuntaṉuṅ kā<hi rend="grantha">śya</hi>pa
+ 		<lb n="93"/>nakka<unclear>ṉ t</unclear>iru-nā<supplied reason="omitted">ra</supplied>ṇa-paṭṭaṉuṅ kā<hi rend="grantha">śya</hi>paṉ tiru-nā<supplied reason="omitted">ra</supplied>ṇaṉ ku
+ 		<lb n="94" break="no"/>ḷuntāṉ paṭṭaṉuṅ kā<hi rend="grantha">śya</hi>paṉ celva-naḷ<supplied reason="lost">ḷāṟu</supplied>-tēva
+ 		<lb n="95" break="no"/>ṉuṅ kā<hi rend="grantha">śya</hi>paṉ <unclear>pa</unclear>ṭṭa-nāraṇaṉuṅ kā<hi rend="grantha">śya</hi>pa nārāyaṇa
+ 		<lb n="96" break="no"/><choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> aru<unclear>ḷ</unclear>moḻ<supplied reason="lost">i</supplied><unclear>yu</unclear>ṅ kautavaṉ <supplied reason="lost">i</supplied>rupattu nālvaṉ
+ 		<lb n="97"/>cemmāṉum kautavaṉ kaṭampaṉ cōm<supplied reason="lost">āciyā</supplied> <gap reason="lost" quantity="3" unit="character" precision="low"/>
+ 		<lb n="98" break="no"/>raiyaṉ nakkaṉ <unclear>m</unclear>ātava-paṭṭaṉum ivv-aṉai<supplied reason="lost">vōm</supplied> <gap reason="lost" quantity="3" unit="character" precision="low"/> <unclear>c</unclear><supplied reason="lost">i</supplied>
+ 		<lb n="99" break="no"/><hi rend="grantha">khā</hi>maṇi-vaḷan<unclear>ā</unclear>ṭṭu muḻaiyūr-nāṭṭu viḻi<unclear>yū</unclear>r <supplied reason="lost">vēḷḷā</supplied>ḷaṉ
+ 		<lb n="100"/>viḻiyūr-uṭaiyāṉ kommaṉ tātaṉ kaiyāl iyāṅ
+ 		<lb n="101" break="no"/>kaḷ koṇṭu <gap reason="lost" quantity="2" unit="character" precision="low"/> Aṉṟāṭu naṟ-kācu <num value="40">4 <g type="numeral">10</g> 5</num>
+ 	</p>
+ 	
+ 	<p> 		
+ 		Ik-kācu nā
+ 		<lb n="102" break="no"/>ṟpatt’ aiñcuṅ koṇṭu kāc’ oṉṟuk<supplied reason="lost">ku</supplied> nellu-k ka
+ 		<lb n="103" break="no"/>lam-āka Āṭṭai vaṭṭam nāṟpatt’ aiṅ <gap reason="lost" quantity="4" unit="character" precision="low"/> lu-p pa	
+ 		<lb n="104" break="no"/>licai polivat’ ākavum
+ 	</p>
+ 	
+ 	<p>
+ 		polin=ta <gap reason="lost" quantity="5" unit="character" precision="low"/> <supplied reason="lost">U</supplied> 		
+ 		<lb n="105" break="no"/>ṭaiyār tiru-naḷḷāṟ-uṭaiyārk=ku-c ci<unclear>ṟu-kālai</unclear> <hi rend="grantha">sa</hi>n=t<supplied reason="lost">i</supplied>yil
  		<lb n="106"/>
  		<milestone type="pagelike" unit="zone" n="5"/>
- 		<lb n="107"/>
+ 		<supplied reason="lost">tiru</supplied>man=tirapōṉakattukk<supplied reason="lost">u</supplied> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>a</seg> A
+ 		<lb n="107" break="no"/>yṅ kaṟi-y-amutu Oṉ <gap reason="lost" quantity="4" unit="character" precision="low"/> <supplied reason="lost">a</supplied>
+ 		<lb n="108" break="no"/>mutu Uriyum Aṭaikkā-y-amu<unclear>tu</unclear> <gap reason="lost" quantity="1" unit="character" precision="low"/>
+ 		<lb n="109" break="no"/>ttum {finalgomutra}<!--update-->
  	</p>
  	
  	<p>
@@ -178,17 +228,25 @@
       	
       	<div type="translation" resp="part:emfr">
       		
-      		<p n="1-87">
+      		<p n="1-85">
       			[<foreign>meykkīrtti</foreign> of Rājādhirāja I Cōḻa]
       		</p>
       		
-      		<p n="87-89">
-      			Thirtieth year of the glorious and victorious king Rājendra<note>Rājādhirāja, in fact.</note> ...
+      		<p n="85-89">
+      			Thirtieth year of the glorious and victorious king Rājendra<note>Rājādhirāja, in fact.</note>, <supplied reason="subaudible">whose</supplied> fame fills the eight directions <gap reason="lost"/> ...
       		</p>
       		
-      		<p n="89-109">
-      			...      		
+      		<p n="89-101">
+      			<supplied reason="subaudible">There are</supplied> 45 fine gold coins, there should be ...      		
       		</p>   
+      		
+      		<p n="101-104">
+      			With these fourty-five gold coins...      		
+      		</p>  
+      		
+      		<p n="104-109">
+      			...      		
+      		</p>  
       		
       		<p n="109-115">
       			We, the Brahmins of this temple have become those who have to ...      		
