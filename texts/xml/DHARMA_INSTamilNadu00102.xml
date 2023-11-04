@@ -124,7 +124,7 @@
 		<l n="28">-pāṇṭiyaṉ parumaṇi muṭi taṭi-t tiṇṭiya</l> 
 		<l n="29">villavar mīṉavar vē <gap reason="lost" quantity="3" unit="character"/> c caḷukkiyar</l>
 		<l n="30">va<supplied reason="omitted">l</supplied>la<lb n="13" break="no"/>var mutal eṉa <unclear>vi</unclear>ḷaṅka v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-iru<choice><sic>t</sic><corr>n</corr></choice>ta</l>
-		<l n="31"><hi rend="grantha">je</hi>yaṅ-koṇṭa-cōḻaṉ Uyarnta perum-pukaḻ</l>
+		<l n="31"><hi rend="grantha">je</hi>yaṅ-koṇṭa-cōḻaṉ Uyar<unclear>n</unclear>ta perum-pukaḻ</l>
 	</lg>
 	
 	<p>      	
@@ -132,16 +132,16 @@
 		<lb n="14"/>Uṭaiyār <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja</hi>-tēvaṟku yāṇṭu <num value="28">2 <g type="numeral">10</g> 8</num> Āvatu
 	</p>
 	<p>
-		yā <gap reason="illegible" quantity="4" unit="character" precision="low"/> t-āvatu Uyakkoṇṭār vaḷa<supplied reason="lost">nāṭṭu</supplied>
-		<lb n="15"/>muḻaiyū <gap reason="illegible" quantity="1" unit="character"/> <hi rend="grantha">bra<space/>hma</hi>tēyam tirunaḷḷāṟṟu tirunaḷḷāṟ-u<supplied reason="omitted">ṭ</supplied>aiyār nila mutalu<supplied reason="lost">m</supplied> nel mutalum parikalappi<unclear>kk</unclear>iṉṟa muta<unclear>lu</unclear><gap reason="illegible" quantity="2" unit="character" precision="low"/>
-		<lb n="16"/>tiru-mēni muta<supplied reason="lost">lum</supplied> <gap reason="illegible" quantity="15" unit="character" precision="low"/> ḷḷi <gap reason="illegible" quantity="12" unit="character" precision="low"/> yārkaḷ per<supplied reason="lost">u</supplied><gap reason="illegible" quantity="2" unit="character" precision="low"/>
+		yā <gap reason="illegible" quantity="4" unit="character" precision="low"/> t-āvatu Uyakkoṇṭār-vaḷa<supplied reason="lost">nāṭṭu</supplied>
+		<lb n="15"/>muḻaiyū<gap reason="illegible" quantity="1" unit="character"/> <hi rend="grantha">bra<space/>hma</hi>tēyam tirunaḷḷāṟṟu tirunaḷḷāṟ-u<supplied reason="omitted">ṭ</supplied>aiyār nila mutalu<supplied reason="lost">m</supplied> nel mutalum parikalappi<unclear>kk</unclear>iṉṟa muta<unclear>lu</unclear><gap reason="illegible" quantity="2" unit="character" precision="low"/>
+		<lb n="16"/>tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>i muta<supplied reason="lost">lum</supplied> <gap reason="illegible" quantity="15" unit="character" precision="low"/> ḷḷi <gap reason="illegible" quantity="12" unit="character" precision="low"/> yārkaḷ per<supplied reason="lost">u</supplied><gap reason="illegible" quantity="2" unit="character" precision="low"/>
 		<lb n="17" break="no"/>ṭ=ṭāl nelluṅ kācuṅ koṇṭu celutta kaṭava niman=tam ti<unclear>ru-p</unclear>-pēṟūr k<unclear>i</unclear>ḻava<unclear>r</unclear> Irun kāṭaṉ vaikun<unclear>ta</unclear>ṉ pakkal <unclear>ko</unclear> <gap reason="illegible" quantity="5" unit="character" precision="low"/>
 	</p>      		
             
       	</div>
          
 <div type="apparatus">
-           
+           <!--complete apparatus-->
                <listApp>
                	               	               	
                	<app loc="4">
@@ -203,18 +203,23 @@
                	<app loc="13">
                		<lem><unclear>vi</unclear>ḷaṅka</lem>
                		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01"/>
-               		<note>The letter <foreign>vi</foreign> appear to have been engraved on the perpendicular site of the pilaster, after <foreign>mutal eṉa</foreign>.</note>
+               		<note>The letter <foreign>vi</foreign> appear to have been engraved on the perpendicular side of the pilaster, after <foreign>mutal eṉa</foreign>.</note>
                	</app> 
                	
-               	
+               	<app loc="13">
+               		<lem>v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-iru<choice><sic>t</sic><corr>n</corr></choice>ta</lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">...</rdg>               		
+               	</app>	
+               	               	
                	<app loc="13">
                		<lem>Uyar<unclear>n</unclear>ta</lem>
                		<rdg source="bib:Vijayavenugopal2017_01">Uyartta</rdg>
                	</app>
                	
                	<app loc="15">
-               		<lem>muḻaiyū <gap reason="illegible" quantity="1" unit="character"/></lem>
+               		<lem>muḻaiyū<gap reason="illegible" quantity="1" unit="character"/></lem>
                		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">muḻaiyūr nāṭṭu</rdg>
+               		<note>The final letter is well preserved but enigmatic.<foreign>muḻaiyūr</foreign>, that is, <foreign>muḻaiyūr-nāṭṭu</foreign> is evidently meant.</note>
                	</app>
                	             
                	<app loc="17">
