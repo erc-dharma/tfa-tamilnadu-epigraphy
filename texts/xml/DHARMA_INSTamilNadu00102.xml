@@ -107,7 +107,7 @@
 		<l n="11">mēvu p<supplied reason="lost">uka</supplied><lb n="5" break="no"/>ḻ Irāmakuṭa muvar keṭa mu<choice><orig>n</orig><reg>ṉ</reg></choice>intu</l>
 		<l n="12">vēlai keḻu kāntaḷūr-c-cālai kalam aṟu<supplied reason="omitted">p</supplied>pitt'</l>
 		<l n="13">ā<hi rend="grantha">ho</hi><unclear>ma</unclear><lb n="6" break="no"/>llaṉu<choice><orig>mm</orig><reg>m</reg></choice> añca-k ketuvu<unclear>m</unclear></l>
-		<l n="14">taṉ ṟāṅkaru paṭaiyāl Āṅkavaṉ cēṉaiyuḷ</l>
+		<l n="14">taṉ ṟāṅkaru<supplied reason="omitted">m</supplied> paṭaiyāl Āṅkavaṉ cēṉaiyuḷ</l>
 		<l n="15">kaṇṭappayaṉ<unclear>u</unclear><lb n="7" break="no"/>m ka<add place="above">ṅ</add>kāt<choice><sic>i</sic><corr>a</corr></choice>raṉum</l>
 		<l n="16">vaṇ<supplied reason="lost">ṭ</supplied>amaṟ-k kaḷi<supplied reason="omitted">ṟ</supplied>ṟoṭu maṭiya-t tiṇ-ṭiṟal</l>
 		<l n="17">viki<unclear>r</unclear>taral vikkiyum vicaiyātitta<lb n="8" break="no"/>ṉum</l>
@@ -146,24 +146,26 @@
                	               	               	
                	<app loc="4">
                		<lem>tōllaiyil</lem>
-               		<rdg source="bib:Vijayavenugopal2017_01">tollaiyil</rdg>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">tollaiyil</rdg>
                	</app>
                	              
                	<app loc="4">
                		<lem>Olkalil</lem>
-               		<rdg source="bib:Vijayavenugopal2017_01">yolkalil</rdg>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">yolkalil</rdg>
                	</app>
                	
                	<app loc="5">
-               		<lem>āho<unclear>ma</unclear>llaṉu<choice><orig>mm</orig><reg>m</reg></choice></lem>
-               		<rdg source="bib:Vijayavenugopal2017_01">āhomallaṉumm</rdg>
+               		<lem>ā<hi rend="grantha">ho</hi><unclear>ma</unclear><lb n="6" break="no"/>llaṉu<choice><orig>mm</orig><reg>m</reg></choice> añca-k</lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">ā<hi rend="grantha">he</hi><lb n="6" break="no"/>mllaṉum mañca-k</rdg>
+               		<rdg source="bib:Vijayavenugopal2017_01">ā<hi rend="grantha">ho</hi><unclear>ma</unclear><lb n="6" break="no"/>llaṉu<choice><orig>mm</orig><reg>m</reg></choice> añca-k</rdg>
                	</app>
                	
                	<app loc="6">
-               		<lem>ṟāṅkaru</lem>
-               		<rdg source="bib:Vijayavenugopal2017_01">ṟāṅkarum</rdg>
+               		<lem>ṟāṅkaru<supplied reason="omitted">m</supplied></lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">ṟāṅkarum</rdg>
                	</app>
                	           
+               	           <!--check from here-->
                	<app loc="7">
                		<lem>vikirtaral</lem>
                		<rdg source="bib:Vijayavenugopal2017_01">vitirtaral</rdg>
