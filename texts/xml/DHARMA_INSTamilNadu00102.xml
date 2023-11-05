@@ -99,7 +99,7 @@
 		<l n="3">ceṅ-kō<lb n="2" break="no"/>l ōcci-k karuṅ-kali kaṭintu</l>
 		<l n="4">maṉṉu pa<choice><orig>ll</orig><reg>l</reg></choice> ūḻiy<unclear>i</unclear>l teṉ<choice><orig>n</orig><reg>ṉ</reg></choice>avar kula-makaṉ</l>
 		<l n="5">mā<choice><orig>n</orig><reg>ṉ</reg></choice>āparaṇaṉ poṉ-muṭi Ā<choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice>ā</l>
-		<l n="6"><lb n="3" break="no"/>p= parumaṇi-p= pacun-talai porukaḷat tarintu</l>
+		<l n="6"><lb n="3" break="no"/>-p= parumaṇi-p= pacun-talai porukaḷa-t tarintu</l>
 		<l n="7">v<choice><orig>i</orig><reg>ī</reg></choice>ra-kēraḷaṉai yāṉai kiṭuvitt'</l>
 		<l n="8">acaivil cuntara-pāṇṭi<unclear>ya</unclear>ṉai<lb n="4" break="no"/>-t tikai keṭa-t</l>	
 		<l n="9">tōllaiyil mullaiyūr-t turatti Olkalil</l>
@@ -119,7 +119,7 @@
 		<l n="23">oru-taṉi taṇṭāl-p <unclear>porru</unclear> tirai <unclear>Uṟtt</unclear><gap reason="illegible" quantity="6" unit="character" precision="low"/></l>
 		<l n="24"><gap reason="illegible" quantity="9" unit="character" precision="low"/><lb n="11" break="no"/>l muṭi Ar<unclear>i</unclear>n=tu </l>
 		<l n="25">muṉṟaṉak=k' uṭain=ta te<supplied reason="omitted">ṟ</supplied>ṟamiḻ <supplied reason="omitted">ma</supplied>ṇṭala</l>
-		<l n="26" enjamb="yes">muḻutu ēḻ-<unclear>kaṭa</unclear><choice><orig>l<unclear>l</unclear></orig><reg>l</reg></choice> ī<unclear>ḻa</unclear>m</l>
+		<l n="26" enjamb="yes">muḻutu Ēḻ-<unclear>kaṭa</unclear><choice><orig>l<unclear>l</unclear></orig><reg>l</reg></choice> ī<unclear>ḻa</unclear>m</l>
 		<l n="27"><supplied reason="lost">pu</supplied><unclear>kka</unclear> Ilaṅkē<supplied reason="lost">ca</supplied><choice><orig>n</orig><reg>ṉ</reg></choice>-ā<lb n="12" break="no"/>kiya vikkirama</l>
 		<l n="28">-pāṇṭiyaṉ parumaṇi muṭi taṭi-t tiṇṭiya</l> 
 		<l n="29">villavar mīṉavar vē <gap reason="lost" quantity="3" unit="character"/> c caḷukkiyar</l>
@@ -133,7 +133,7 @@
 	</p>
 	<p>
 		yā <gap reason="illegible" quantity="4" unit="character" precision="low"/> t-āvatu Uyakkoṇṭār-vaḷa<supplied reason="lost">nāṭṭu</supplied>
-		<lb n="15"/>muḻaiyū<gap reason="illegible" quantity="1" unit="character"/> <hi rend="grantha">bra<space/>hma</hi>tēyam tirunaḷḷāṟṟu tirunaḷḷāṟ-u<supplied reason="omitted">ṭ</supplied>aiyār nila mutalu<supplied reason="lost">m</supplied> nel mutalum parikalappi<unclear>kk</unclear>iṉṟa muta<unclear>lu</unclear><gap reason="illegible" quantity="2" unit="character" precision="low"/>
+		<lb n="15"/>muḻaiyū<gap reason="illegible" quantity="1" unit="character"/> <hi rend="grantha">bra<space/>hma</hi>tēyam tiru-naḷḷāṟṟu tiru-naḷḷāṟ-u<supplied reason="omitted">ṭ</supplied>aiyār nila mutalu<supplied reason="lost">m</supplied> nel mutalum parikalappi<unclear>kk</unclear>iṉṟa muta<unclear>lu</unclear><gap reason="illegible" quantity="2" unit="character" precision="low"/>
 		<lb n="16"/>tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>i muta<supplied reason="lost">lum</supplied> <gap reason="illegible" quantity="15" unit="character" precision="low"/> ḷḷi <gap reason="illegible" quantity="12" unit="character" precision="low"/> yārkaḷ per<supplied reason="lost">u</supplied><gap reason="illegible" quantity="2" unit="character" precision="low"/>
 		<lb n="17" break="no"/>ṭ=ṭāl nelluṅ kācuṅ koṇṭu celutta kaṭava niman=tam ti<unclear>ru-p</unclear>-pēṟūr k<unclear>i</unclear>ḻava<unclear>r</unclear> Irun kāṭaṉ vaikun<unclear>ta</unclear>ṉ pakkal <unclear>ko</unclear> <gap reason="illegible" quantity="5" unit="character" precision="low"/>
 	</p>      		
@@ -189,9 +189,9 @@
                	</app>
                	
                	<app loc="11">
-               		<lem>muḻutu ēḻ-<unclear>kaṭa</unclear><choice><orig>l<unclear>l</unclear></orig><reg>l</reg></choice> ī<unclear>ḻa</unclear>m</lem>
-               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">muḻuvatu ēḻukaṭal li<unclear>ḻa</unclear>m</rdg>
-               		<rdg source="bib:Vijayavenugopal2017_01">muḻutu eḻkaṭal līḻam</rdg>
+               		<lem>muḻutu Ēḻ-<unclear>kaṭa</unclear><choice><orig>l<unclear>l</unclear></orig><reg>l</reg></choice> ī<unclear>ḻa</unclear>m</lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">muḻuvatu Eḻukaṭal li<unclear>ḻa</unclear>m</rdg>
+               		<rdg source="bib:Vijayavenugopal2017_01">muḻutu Eḻkaṭal līḻam</rdg>
                		<note><foreign>muḻuvatum iḻantu ēḻkaṭal īḻam</foreign> is expected for this <foreign>aṭi</foreign>. A "+" sign is added on top of the <foreign>tu</foreign> of <foreign>muḻutu</foreign>, most probably to mark that a <foreign>cīr</foreign> is here missing in this <foreign>aṭi</foreign>.</note>
                		<!--update encoding in body/text. how to mark a kākapada without added text?-->
                	</app>  
