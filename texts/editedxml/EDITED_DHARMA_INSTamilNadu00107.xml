@@ -92,8 +92,7 @@
  <div type="edition" xml:lang="tam-Latn">
         
  	<ab>
- 		<lb n="1"/>
- 		<hi rend="grantha">svasti śrī</hi>
+ 		<lb n="1"/><milestone type="pagelike" unit="zone" n="1"/><hi rend="grantha">svasti śrī</hi>
  	</ab>
  	
  	<lg met="āciriyappā" n="1">
@@ -120,9 +119,9 @@
  		<lb n="10" break="no"/>de</hi>yam kāyākkuṭi-p peruṅ-kuṟi <hi rend="grantha">sabhai</hi>yōm In=ta-v āṇṭai <hi rend="grantha">m<unclear>ē</unclear>
  		<lb n="11" break="no"/>ṣa</hi>-n<unclear>ā</unclear>yaṟṟu Apara-pa<hi rend="grantha">kṣa</hi>ttu <hi rend="grantha">ṣaṣṭi</hi>yum Uttirāṭam peṟṟa puta<unclear>ṉ</unclear>-k<supplied reason="lost">i</supplied>ḻa
  		<lb n="12" break="no"/>mai nāṉṟu nammūr-t tiru-vāy-p-pāṭi Āḻvār kōyililē-y kūṭṭa
- 		<lb n="13" break="no"/>-k kuṟaivaṟa-k kūṭi Iruntu In-nāṭṭu muḻaiyūr-nāṭṭu <hi rend="grantha">brahma
+ 		<lb n="13" break="no"/>-k-kuṟaivaṟa-k kūṭi Iruntu In-nāṭṭu muḻaiyūr-nāṭṭu <hi rend="grantha">brahma
  		<lb n="14" break="no"/>de</hi>yan tiru-naḷḷāṟṟu-t tiru-naḷḷāṟ-uṭaiyār kōyil<unclear>i</unclear>l Ula
- 		<lb n="15" break="no"/>k-uṭaiyā raka-p parivārattu-p peṇṭāṭṭi tēvaṉ puva<choice><orig>n</orig><reg>ṉ</reg></choice>i māṇi
+ 		<lb n="15" break="no"/>k-uṭaiyār aka-p-parivārattu-p peṇṭāṭṭi tēvaṉ puva<choice><orig>n</orig><reg>ṉ</reg></choice>i-māṇi
  		<lb n="16" break="no"/>kkam Eḻun=t-aruḷuvitta <hi rend="grantha">tribhu</hi>vana-<hi rend="grantha">su</hi>n=ta<hi rend="grantha">ra-de</hi>varkku nāṅkaḷ iṟai-y-i
  		<lb n="17" break="no"/>li ceytu kuṭutta nilam āvatu
  	</p>
@@ -133,8 +132,8 @@
  		<lb n="19" break="no"/>va-<hi rend="grantha">krama</hi>vittaṉum Ivan tampi <hi rend="grantha">Īśvara-krama</hi>vittaṉum pakkal vi
  		<lb n="20" break="no"/>ai koṇṭa nilam
  		Ivv-ūr-k kīḻūr-p puḷḷaṭi-vāykkālukku-<supplied reason="lost">t</supplied> te
- 		<lb n="21" break="no"/>ṉ-karai-k kuḷam uṭpaṭa nilam <gap reason="illegible" quantity="2" unit="character"/>
- 		I<choice><orig>n</orig><reg>ṉ</reg></choice>-nilam Araiyē mā<unclear>-k</unclear> <supplied reason="lost">kā</supplied>
+ 		<lb n="21" break="no"/>ṉ-karai-k kuḷam uṭpaṭa nilam <num value="0.5">½</num> <num value="0.0625"><g type="numeral">1/16</g></num>
+ 		I<choice><orig>n</orig><reg>ṉ</reg></choice>-nilam Araiyē mā<unclear>kā</unclear>
  		<lb n="22" break="no"/>ṇikkuṅ 
  		kīḻ-pāṟk’ ellai vaṅki-p-puṟattu-t tiru-v-araṅka-nārāyaṇa
  		<lb n="23" break="no"/>-<hi rend="grantha">krama</hi>vittaṉu makkaḷum nilattuk=ku mēṟkum
@@ -146,14 +145,17 @@
  		vaṭa-pāṟk’ ellai puḷḷa<supplied reason="lost">ṭi</supplied>-vā
  		<lb n="27" break="no"/><unclear>y</unclear>kkālukku-t t<unclear>e</unclear>ṟkum
  		Ivv-icaitta peru-nāṉk’ ellaiyi
- 		<lb n="28" break="no"/>l<surplus>u</surplus> naṭuvu-paṭṭa nilam kuḷam uṭpa<supplied reason="omitted">ṭa</supplied> nilam <gap reason="illegible" quantity="2" unit="character"/> I<choice><orig>n</orig><reg>ṉ</reg></choice>-<unclear>ni</unclear><supplied reason="lost">lam a</supplied><unclear>rai</unclear>-y-ē
- 		<lb n="29"/>mā kāṇiyum ca<hi rend="grantha">n<choice><sic>t</sic><corr>d</corr></choice>rādi</hi>ttaval Iṟai-y-ili ceytu kuṭuttu It-tē
+ 		<lb n="28" break="no"/>l<surplus>u</surplus> naṭuvu-paṭṭa nilam kuḷam uṭpa<supplied reason="omitted">ṭa</supplied> nilam <num value="0.5">½</num> <num value="0.0625"><g type="numeral">1/16</g></num>
+ I<choice><orig>n</orig><reg>ṉ</reg></choice>-<unclear>ni</unclear><supplied reason="lost">lam a</supplied><unclear>rai</unclear>-y-ē
+ 		<lb n="29"/>mākāṇiyum ca<hi rend="grantha">n<choice><sic>t</sic><corr>d</corr></choice>rādi</hi>ttaval Iṟai-y-ili ceytu kuṭuttu It-tē
  		<lb n="30" break="no"/>var paṇṭārattu <hi rend="grantha">sa</hi><hi rend="grantha"><unclear>bhai</unclear></hi><unclear>yō</unclear>ṅ koṇṭa kācu <num value="50">5 <unclear><g type="numeral">10</g></unclear></num>
  Ik-<unclear>kā</unclear><supplied reason="lost">cu</supplied>
- 		<lb n="31"/>Aimpatuṅ koṇṭu I<choice><orig>n</orig><reg>ṉ</reg></choice>-ni<supplied reason="lost">la</supplied>ṅ kuḷam<supplied reason="lost">um</supplied> <gap reason="illegible" quantity="2" unit="character"/> yum ca<hi rend="grantha">n<choice><sic>t</sic><corr>d</corr></choice>rā</hi><supplied reason="lost"><hi rend="grantha">di</hi>t</supplied>tava<supplied reason="omitted">l</supplied>
+ 		<lb n="31"/>Aimpatuṅ koṇṭu I<choice><orig>n</orig><reg>ṉ</reg></choice>-ni<supplied reason="lost">la</supplied>ṅ kuḷam<supplied reason="lost">um</supplied> <num value="0.5"><unclear>½</unclear></num>
+<num value="0.0625"><g type="numeral"><unclear>1/16</unclear></g></num>
+ yum ca<hi rend="grantha">n<choice><sic>t</sic><corr>d</corr></choice>rā</hi><supplied reason="lost"><hi rend="grantha">di</hi>t</supplied>tava<supplied reason="omitted">l</supplied>
  	</p>
  	<p>
- 		<lb n="32"/>Ivv-ūr-k kaṭikai <hi rend="grantha">madhyasta</hi>ṉ <hi rend="grantha">pa
+ 		<lb n="32"/><milestone type="pagelike" unit="zone" n="2"/>Ivv-ūr-k kaṭikai <hi rend="grantha">madhyasta</hi>ṉ <hi rend="grantha">pa
  		<lb n="33" break="no"/>ramēśvara</hi>n bhāskaran-ēṉ eḻut<supplied reason="omitted">tu</supplied>
  		
  	</p>
