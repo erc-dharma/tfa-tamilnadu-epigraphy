@@ -79,7 +79,8 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2023-11-11" status="draft">Creation of the file on the repository</change>
+			<change who="part:emfr" when="2023-11-11" status="draft"
+				>Creation of the file on the repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -89,19 +90,48 @@
  <div type="edition" xml:lang="tam-Latn">
         
  	<ab>
- 		<lb n="1"/>
- 		<hi rend="grantha">svasti śrī</hi>
+ 		<lb n="1"/><milestone type="gridlike" unit="zone" n="1"/>
+ 		<hi rend="grantha"><supplied reason="lost">s</supplied><unclear>v</unclear>asti śrī</hi>
  	</ab>
+ 	
+ 	<lg met="āciriyappā" n="1">
+ 		
+ 		<l n="1">tirum<supplied reason="lost">ātar</supplied> <gap reason="lost"/></l>
+ 		<l n="2"><gap reason="lost"/><milestone type="gridlike" unit="zone" n="2"/><gap reason="lost"/></l>
+ 		<l n="3"><gap reason="lost"/><milestone type="gridlike" unit="zone" n="3"/><gap reason="lost"/></l>
+ 		<l n="4"><supplied reason="lost">irumuṭicōḻa ṉeṉṟum</supplied> p<choice><sic>e</sic><corr>o</corr></choice>rumuraṭ</l>
+ 		<l n="5">ṭa<choice><orig>n</orig><reg>ṉ</reg></choice><supplied reason="lost">tirut tampiyar</supplied> taṉṉ<supplied reason="lost">uḷ <milestone type="gridlike" unit="zone" n="4"/> veṉ</supplied>ṟiko<supplied reason="lost">ḷ</supplied></l>
+ 		<l n="6"><supplied reason="lost">mummuṭic</supplied> <milestone type="gridlike" unit="zone" n="5"/> cōḻaṉai Aṭutiṟal</l>
+ 		<l n="7"><supplied reason="lost">cōḻa-p</supplied>āṇṭiyan eṉṟum kōḻimaṉ</l>
+ 		<l n="8">toṭukaḻal v<choice><orig>i</orig><reg>ī</reg></choice>ra-cōḻaṉaip paṭipuka<unclear>ḻ</unclear><lb n="2"/><milestone type="gridlike" unit="zone" n="1"/>-<supplied reason="lost">k</supplied></l>
+ 		
+ 	</lg>
 	
  	<p>
- 		...
- 		<lb n="2"/>...
- 		<lb n="8"/>...
+ 		kō-p-para<supplied reason="lost">k</supplied>ē<hi rend="grantha">sa</hi>riva<hi rend="grantha"><unclear>nma</unclear></hi>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Uṭaiyār <hi rend="grantha">srī-rā<supplied reason="lost">je</supplied>n<choice><sic><unclear>t</unclear></sic><corr>d</corr></choice><unclear>ra</unclear>-de</hi>varkku yāṇṭu 8 Āvatu
+ 	</p>
+ 	
+ 	<p>
+ 		<hi rend="grantha"><unclear>je</unclear></hi>ya<unclear>ṅ-koṇṭa</unclear><surplus><unclear>ṇa</unclear></surplus>-cōḻa-va<unclear>ḷa</unclear>
+ 		<lb n="9" break="no"/><milestone type="gridlike" unit="zone" n="1"/><supplied reason="lost">āṭṭu m</supplied>uḻaiyūr-nāṭṭu <hi rend="grantha">bra<choice><unclear>n</unclear><unclear>h</unclear></choice>ma</hi>n=tē<supplied reason="lost">yam</supplied> <unclear>ti</unclear>ru-naḷḷāṟṟu tiru-na<supplied reason="omitted">ḷ</supplied>ḷāṟ-u<unclear>ṭ</unclear>aiyār <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg> <gap reason="lost"/>
+ 		<milestone type="gridlike" unit="zone" n="2"/> <gap reason="lost"/>
+ 		<milestone type="gridlike" unit="zone" n="3"/><unclear>k</unclear>ā<hi rend="grantha">śya</hi>paṉ celva-naḷḷāṟu-tē<unclear>vaṉum</unclear> ...
  	</p>
 	
+	<p>
+		...
+	</p>
+ 	
  	<p>
- 		...
- 		<lb n="9"/>...
+ 		Ip-pari
+ 		<lb n="13" break="no"/><milestone type="gridlike" unit="zone" n="1"/>cu kallilum cempilu<supplied reason="omitted">m</supplied> veṭṭi-k koḷḷa-p pe <gap reason="lost"/> t t<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu-k= kuṭut<supplied reason="lost">t</supplied>ōm
+ 		<milestone type="gridlike" unit="zone" n="2"/><hi rend="grantha">śi</hi>va-<hi rend="grantha">brā<choice><unclear>n</unclear><unclear>h</unclear></choice>ma</hi>ṇar<unclear>ō</unclear><milestone type="gridlike" unit="zone" n="3" break="no"/><unclear>m</unclear>
+ 	</p>
+ 	
+ 	<p>
+ 			
+
+ 		
  		<lb n="14"/>...
  	</p>
  	 	 	      		
