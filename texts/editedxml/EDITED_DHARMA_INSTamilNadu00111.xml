@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, time of Rājādhirāja, year 35</title>
+            <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, time of Kulottuṅga I, year 25</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSTamilNadu00106</idno>
+            <idno type="filename">DHARMA_INSTamilNadu00111</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -82,7 +82,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:emfr" when="2023-11-06" status="draft">Creation of the file on the repository</change>
+         <change who="part:emfr" when="2023-11-17" status="draft">Creation of the file on the repository</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -96,35 +96,27 @@
  		<hi rend="grantha">svasti śrī</hi>
  	</ab>
  	
+ 	<lg n="1" met="āciriyappā">
+ 		
+ 		<l n="1">...</l>
+ 		
+ 	</lg>
+	
  	<p>
- 		<hi rend="grantha">śrī</hi>-vi
- 		<lb n="2" break="no"/><hi rend="grantha">jai</hi><supplied reason="omitted">ya</supplied><hi rend="grantha">rājen<choice><sic>t</sic><corr>d</corr></choice>ra-de</hi>varkku yāṇṭu <num value="35">3 <g type="numeral">10</g> 5</num>-Āva
- 		<lb n="3" break="no"/>tu
+ 		...
+ 		<lb n="10" break="no"/>... 		
  	</p>
  	
- 	<p> 		
- 		<hi rend="grantha">rājarāja</hi>-vaḷanāṭṭu marukal-nāṭṭu Iṭaiyā
- 		<lb n="4" break="no"/>ṟṟu-k-kuṭi-p peruṅ-kuṟi <hi rend="grantha">sabhai</hi>yōm <hi rend="grantha">ja</hi>yaṅ
- 		<lb n="5" break="no"/>-koṇṭa-cōḻa-vaḷanāṭṭu muḻaiyūr-nāṭṭu <hi rend="grantha">bra
- 			<lb n="6" break="no"/>hmade</hi>yam tiru-naḷḷā<supplied reason="lost">ṟ</supplied>ṟu tiru-naḷḷāṟ-uṭaiyārk=ku
- 		<lb n="7"/><unclear>m</unclear>āci-t-tirunāḷ<supplied reason="lost">i</supplied>l Āṟā nāḷ <supplied reason="lost">U</supplied>ṭaiyār tiru-c-ciṟṟam
- 		<lb n="8" break="no"/>palam-uṭaiyār Eḻun=taruḷu maṟṟ<unclear>ai</unclear>-y aḻivu-k kuṭal-āka
- 		<lb n="9"/>nāṅkaḷ ca<hi rend="grantha">n<choice><sic>t</sic><corr>d</corr></choice>rādi</hi>ttaval I<unclear>ṟai</unclear>-y-ili ceytu ku
- 		<lb n="10" break="no"/>ṭutta nilam āvatu
+ 	<p>
+ 		...
+ 		<lb n="13" break="no"/>... 		
  	</p>
  	
- 	<p> 		
- 		Eṅkaḷū<supplied reason="lost">r</supplied> <unclear>na</unclear>ṭu<choice><unclear>m</unclear><unclear>p</unclear></choice>pulattu nā
- 		<lb n="11" break="no"/>ṅkaḷ Iṟai-y-ili ceytu kuṭutta nilattuk=ku
- 		<lb n="12" break="no"/>-<unclear>k</unclear> kīḻpāṟk’ ellai nariyuṇikku marutūrārkaḷ ni
- 		<lb n="13" break="no"/><unclear>lattukku</unclear> mēṟk<supplied reason="lost">u</supplied>m teṉ<unclear>pāṟk’ e</unclear>llai In=ta
- 		<lb n="14"/>nariyuṇikkē vaṭakkum mēlpārkk’ ellai Ūr-u
- 		<lb n="15" break="no"/>ṭai <hi rend="grantha">mahā</hi>kāḷi nilattukkuk kiḻakkum vaṭapāṟk’ el
- 		<lb n="16" break="no"/><unclear>lai</unclear> kuppa<choice><orig>n</orig><reg>ṉ</reg></choice> pūvattaṉ matimāṉ kumara<choice><orig>n</orig><reg>ṉ</reg></choice> <supplied reason="lost">ni</supplied>lattukku
- 		<lb n="17"/>teṟkum-āka I<choice><orig>n</orig><reg>ṉ</reg></choice>-nāṉk’ ellai Uḷ-naṭuv<choice><sic>a</sic><corr>u</corr></choice>-paṭṭa
- 		<lb n="18"/>nilan tiruvulakaḷan=ta kōlāl <gap reason="illegible" quantity="3" unit="character"/> Iṉ 		 		
+ 	<p>
+ 		...
+ 		<lb n="33"/>... 		
  	</p>
-      		
+ 	
 </div>
 	
 <div type="apparatus">
@@ -136,15 +128,7 @@
 			<rdg source="bib:Vijayavenugopal2017_01">...</rdg>
 		</app> 
 	</listApp>   -->   
-	
-	
-	<listApp>
-		<app loc="18">
-			<lem><gap reason="illegible" quantity="3" unit="character"/></lem>
-			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">{3 symbols}<!--udpate encoding--></rdg>
-			<rdg source="bib:Vijayavenugopal2017_01">5</rdg>
-		</app> 
-	</listApp>   
+		
 	
 </div>
       	
@@ -153,25 +137,18 @@
       		<p n="1">
       			Prosperity! Fortune!
       		</p>
-	
-      		<p n="1-3">
-      			35th year of the glorious and victorious king Rājendra.      		
-      		</p>
-      		
-      		<p n="3-10">
-      			We, the members of the assembly ..., the land that we have given, after making it tax-free as long as the moon and the sun, ... is <supplied reason="subaudible">as follows</supplied>:    		
-      		 		
+      	      		
+      		<p n="1-9">
+      			[<foreign>meykkīrtti</foreign> of Kulottuṅga I Cōḻa]
       		</p> 
       		
-      		<p n="10-18">
-      			whereas <supplied reason="explanation"><foreign>āka</foreign></supplied>
-      			<l>the eastern boundary ... is to the west of ...,</l>
-      			<l>the southern  boundary ... is to the north of ...,</l>
-      			<l>the western boundary ... is to the west of ...,</l>
-      			<l>the northern boundary ... is to the west of ...,</l>
-      			the land included in these four boundaries <supplied reason="subaudible">is</supplied>, according to the rod <supplied reason="explanation"><foreign>kōl-āl</foreign></supplied> <supplied reason="subaudible">named</supplied> <foreign>tiruvulakaḷanta</foreign><note>“the glorious one which has measure the world."</note> <gap reason="ellipsis"/>
-      		</p>        		
-      		
+      		<p n="9-12">
+      			25th <supplied reason="lost">year</supplied> of ...
+      		</p>     
+      		      		
+      		<p n="12-33">
+      			...
+      		</p>     
       		
       	</div>
       	
@@ -183,42 +160,50 @@
 <div type="bibliography">
 	
 	<p>
-		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 456).
-		First translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 456).
-		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 6), with photo.
+		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 461).
+		First translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 461).
+		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 11), with photos.
 	</p>
 	
 	<p>
 		This edition revised by G. Vijayavenugopal (2019).
 		Review and updates (based on photos by N. Ramaswamy), encoding, critical apparatus and translation by Emmanuel Francis (2020).
- 	</p>	
+ 	</p>
 	
       		<listBibl type="primary">
       			
       			<bibl n="K+V">
       				<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
-      				<citedRange unit="item">456</citedRange>
-      				<citedRange unit="page">403-404</citedRange>
+      				<citedRange unit="item">461</citedRange>
+      				<citedRange unit="page">409-411</citedRange>
       			</bibl>
       			
       			<bibl n="K+al">
       				<ptr target="bib:Kuppusamy+al2010_01"/>
-      				<citedRange unit="item">456</citedRange>
-      				<citedRange unit="page">191</citedRange>
+      				<citedRange unit="item">461</citedRange>
+      				<citedRange unit="page">194-195</citedRange>
       			</bibl>
       			
       			<bibl n="V">
       				<ptr target="bib:Vijayavenugopal2017_01"/>
-      				<citedRange unit="item">6</citedRange>
-      				<citedRange unit="page">26-27</citedRange>
+      				<citedRange unit="item">11</citedRange>
+      				<citedRange unit="page">36-37</citedRange>
       			</bibl>
       		      			
       		</listBibl>
-      		
-      		<!--<listBibl type="secondary">
-      			      			
+	
+	<listBibl type="secondary">
+		
       			
-      		</listBibl>-->
+      			<bibl>
+      				<ptr target="bib:ARIE1965-1966"/>
+      				<citedRange unit="page">89</citedRange>
+      				<citedRange unit="appendix">B/1965-1966</citedRange>
+      				<citedRange unit="item">459</citedRange>
+      			</bibl>
+      			
+      		</listBibl>      		      		
+      		
       		
         </div>
       </body>
