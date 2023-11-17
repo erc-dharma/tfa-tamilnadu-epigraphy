@@ -79,7 +79,8 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2023-11-11" status="draft">Creation of the file on the repository</change>
+			<change who="part:emfr" when="2023-11-11" status="draft"
+				>Creation of the file on the repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -197,7 +198,7 @@
       			<bibl n="V">
       				<ptr target="bib:Vijayavenugopal2017_01"/>
       				<citedRange unit="item">10</citedRange>
-      				<citedRange unit="page">32-33</citedRange>
+      				<citedRange unit="page">34-35</citedRange>
       			</bibl>
       		      			
       		</listBibl>
