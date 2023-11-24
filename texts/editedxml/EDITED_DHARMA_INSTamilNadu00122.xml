@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, time of Vikramacōḻa, year undetermined</title>
+            <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, time of Kulottuṅga II Cōḻa, year 3</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSTamilNadu00121</idno>
+            <idno type="filename">DHARMA_INSTamilNadu00122</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>An originally incomplete or damaged inscription, consisiting in initial blessings and the beginning of the name of the ruling king Vikramacōḻa.</summary>
+                  <summary/>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -82,73 +82,82 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-         <change status="draft" when="2020-02-21" who="part:emfr">Creation of the file on the repository</change>
+         <change status="draft" when="2023-11-24" who="part:emfr">Creation of the file on the repository</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
 
 <body>
          
-      	<div type="edition" xml:lang="tam-Latn">
-           
-      	
-      		<ab>
-      			<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-      		</ab>
-      		
-      		<p>
-      			t<unclear>i</unclear>r<unclear>i</unclear>puva<choice><orig>n</orig><reg>ṉ</reg></choice>a-cakka<unclear>ra</unclear>
-      			<lb n="2" break="no"/><unclear>vat</unclear>tikaḷ <hi rend="grantha">śrī</hi>-vik<unclear>ki</unclear>rama-cō
-      		</p>
-      		
-      		<gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
-                     
-      	</div>
+<div type="edition" xml:lang="tam-Latn">
+                 	
+	<ab>
+		<lb n="1"/><milestone type="pagelike" unit="zone" n="1"/><hi rend="grantha">svasti śrī <unclear>ḥ</unclear></hi>
+	</ab>
+	
+	<lg met="āciriyappā" n="1">
+		
+		<l n="1">puma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>u patumam<lb n="2"/>pūtta-v ēḻ-ulakun</l>
+		<l n="31">...<lb n="26"/><milestone type="pagelike" unit="zone" n="2"/>...</l>
+		
+	</lg>
+	
+	<p>
+		kō
+		<lb n="49" break="no"/><milestone type="pagelike" unit="zone" n="3"/>-v-<supplied reason="lost">i</supplied><hi rend="grantha">rāja</hi>kēca<choice><sic>k</sic><corr>r</corr></choice>i-pa<hi rend="grantha">nma</hi>r-āṉa <hi rend="grantha">tr<supplied reason="lost">i</supplied>
+		bhu</hi>va<choice><orig>n</orig><reg>ṉ</reg></choice>a
+		<lb n="50" break="no"/>-cakkarava<hi rend="grantha"><supplied reason="omitted">r</supplied>tthi</hi>kaḷ ...
+		
+		<lb n="76" break="no"/>m e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu vikkirama-cōma-k-kā<hi rend="grantha">śya</hi>pparāya
+	</p>
+	
+	<gap reason="lost" extent="unknown" unit="line"/>
+	
+	
+</div>
          
-      	<div type="apparatus">
+<!--<div type="apparatus">
            
-               <listApp>
-               	
-                  <app loc="1">
-                  	<lem>t<unclear>i</unclear>r<unclear>i</unclear>puva<choice><orig>n</orig><reg>ṉ</reg></choice>a-cakka<unclear>ra</unclear><lb n="2" break="no"/><unclear>vat</unclear>tikaḷ</lem>
-                  	<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">tiripuvanacakkara<lb n="2" break="no"/>vattikaḷ</rdg>
-                  	<rdg source="bib:Vijayavenugopal2017_01">tiripuvana cakkara <lb n="2"/>vattikaḷ</rdg>
-                  </app>
-               	
-               	<app loc="2">
-                  	<lem><hi rend="grantha">śrī</hi>-vik<unclear>ki</unclear>rama-cō</lem>
-                  	<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01"><hi rend="grantha">śrī</hi>vikkiramaco</rdg>
-                  	<rdg source="bib:Vijayavenugopal2017_01"><hi rend="grantha">śrī</hi> vikkirama co<gap reason="lost" extent="unknown" unit="character"/></rdg>
-               	</app>
-               	
-               </listApp>         
-      	</div>
+	<listApp>
+		
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">...</rdg>
+			<rdg source="bib:Vijayavenugopal2017_01">...</rdg>
+		</app>               	
+		
+	</listApp>         
+</div>-->
       	
-      	<div resp="part:emfr" type="translation">
+<div resp="part:emfr" type="translation">
       		
-      		<p n="1">
-      			Prosperity! Fortune!
-      		</p>
-      		
-      		<p n="1-2">
-      			The emperor of the three worlds, the glorious Vikramacōḻa
-      			<gap reason="lost"/>
-      		</p>
-      		
-      	</div>
+	<p n="1">
+		Prosperity! Fortune!
+	</p>
+	
+	<p n="1-48">
+		[<foreign>meykkīrtti</foreign> of Kulottuṅga II Cōḻa]
+	</p>
+	
+	<p n="48-52">
+		3rd year of ...
+	</p>
+	
+	<p n="53-76">
+		...
+	</p>
+	
+</div>
       	
-      	<div type="commentary">
-      		<p>It is not clear if the inscription was originally left incomplete after the end of line 2 or if one line at least is lost after line 2.</p>
-      	</div>
+      	<div type="commentary"/>
       		
       	
 <div type="bibliography">
 	
 	<p>
-		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 470).
-		First translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 470).
-		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 21), with photo.
+		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 471).
+		First translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 471).
+		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 22), with photo.
 	</p>
 	
 	<p>
@@ -160,20 +169,20 @@
       			
       			<bibl n="K+V">
       				<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
-      				<citedRange unit="item">470</citedRange>
-      				<citedRange unit="page">426</citedRange>
+      				<citedRange unit="item">471</citedRange>
+      				<citedRange unit="page">426-429</citedRange>
       			</bibl>
       			
       			<bibl n="K">
       				<ptr target="bib:Kuppusamy+al2010_01"/>
-      				<citedRange unit="item">470</citedRange>
-      				<citedRange unit="page">201</citedRange>
+      				<citedRange unit="item">471</citedRange>
+      				<citedRange unit="page">201-202</citedRange>
       			</bibl>
       			
       			<bibl n="VVG">
       				<ptr target="bib:Vijayavenugopal2017_01"/>
-      				<citedRange unit="item">21</citedRange>
-      				<citedRange unit="page">60-61</citedRange>
+      				<citedRange unit="item">22</citedRange>
+      				<citedRange unit="page">62-63</citedRange>
       			</bibl>
       			
       		</listBibl>
@@ -181,10 +190,10 @@
       		<listBibl type="secondary">
       			
       			<bibl>
-      				<ptr target="bib:ARIE1965-1966"/>
-      				<citedRange unit="page">87</citedRange>
-      				<citedRange unit="appendix">B/1965-1966</citedRange>
-      				<citedRange unit="item">449</citedRange>
+      				<ptr target="bib:ARIE1968-1969"/>
+      				<citedRange unit="page">33</citedRange>
+      				<citedRange unit="appendix">B/1968-1969</citedRange>
+      				<citedRange unit="item">107</citedRange>
       			</bibl>
       			      			
       		</listBibl>
