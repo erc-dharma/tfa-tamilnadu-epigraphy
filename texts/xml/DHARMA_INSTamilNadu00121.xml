@@ -8,8 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu 21, Tarppāraṇyēcuvarar temple, Mahāmaṇḍapa, south wall, time of
-					Vikramacōḻa, year undetermined</title>
+				<title>Tirunaḷḷāṟu 21, Tarppāraṇyēcuvarar temple, time of Vikramacōḻa, year undetermined</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -48,11 +47,11 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>An originally incomplete or damaged inscription, consisiting in initial blessings and the beginning of the name of the ruling king Vikramacōḻa.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p/>
+							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -80,11 +79,8 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:axja" when="2020-11-03" status="draft"
-				>Updating toward the encoding template v03</change>
-			<change status="draft" when="2020-02-21" who="part:emfr"
-				>Creation of the file on the
-				repository</change>
+			<change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
+			<change status="draft" when="2020-02-21" who="part:emfr">Creation of the file on the repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -99,8 +95,8 @@
       		</ab>
       		
       		<p>
-      			t<unclear>i</unclear>r<unclear>i</unclear>puvana-cakka<unclear>ra</unclear>
-      			<lb n="2" break="no"/>vattikaḷ <hi rend="grantha">śrī</hi>-vikkirama-cō
+      			t<unclear>i</unclear>r<unclear>i</unclear>puva<choice><orig>n</orig><reg>ṉ</reg></choice>a-cakka<unclear>ra</unclear>
+      			<lb n="2" break="no"/><unclear>vat</unclear>tikaḷ <hi rend="grantha">śrī</hi>-vik<unclear>ki</unclear>rama-cō
       		</p>
       		
       		<gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
@@ -110,11 +106,19 @@
       	<div type="apparatus">
            
                <listApp>
+               	
                   <app loc="1">
-                  	<lem>t<unclear>i</unclear>r<unclear>i</unclear>puvana-cakka<unclear>ra</unclear></lem>
-                  	<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">tiripuvana-cakkara</rdg>
-                  	<rdg source="bib:Vijayavenugopal2017_01">tiripuvana cakkara</rdg>
+                  	<lem>t<unclear>i</unclear>r<unclear>i</unclear>puva<choice><orig>n</orig><reg>ṉ</reg></choice>a-cakka<unclear>ra</unclear><lb n="2" break="no"/><unclear>vat</unclear>tikaḷ</lem>
+                  	<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">tiripuvanacakkara<lb n="2" break="no"/>vattikaḷ</rdg>
+                  	<rdg source="bib:Vijayavenugopal2017_01">tiripuvana cakkara <lb n="2"/>vattikaḷ</rdg>
                   </app>
+               	
+               	<app loc="2">
+                  	<lem><hi rend="grantha">śrī</hi>-vik<unclear>ki</unclear>rama-cō</lem>
+                  	<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01"><hi rend="grantha">śrī</hi>vikkiramaco</rdg>
+                  	<rdg source="bib:Vijayavenugopal2017_01"><hi rend="grantha">śrī</hi> vikkirama co<gap reason="lost" extent="unknown" unit="character"/></rdg>
+               	</app>
+               	
                </listApp>         
       	</div>
       	
@@ -131,7 +135,9 @@
       		
       	</div>
       	
-      	<div type="commentary"/>
+      	<div type="commentary">
+      		<p>It is not clear if the inscription was originally left incomplete after the end of line 2 or if one line at least is lost after line 2.</p>
+      	</div>
       		
       	
 <div type="bibliography">
@@ -139,7 +145,7 @@
 	<p>
 		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 470).
 		First translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 470).
-		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 21), with photos.
+		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 21), with photo.
 	</p>
 	
 	<p>
@@ -184,3 +190,7 @@
       </body>
   </text>
 </TEI>
+
+<!--
+	Mahāmaṇḍapa, south wall
+-->
