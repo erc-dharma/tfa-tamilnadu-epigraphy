@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu 21, Tarppāraṇyēcuvarar temple, time of Vikramacōḻa, year undetermined</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, time of Vikramacōḻa, year undetermined</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -79,8 +79,10 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding template v03</change>
-			<change status="draft" when="2020-02-21" who="part:emfr">Creation of the file on the repository</change>
+			<change who="part:axja" when="2020-11-03" status="draft"
+				>Updating toward the encoding template v03</change>
+			<change status="draft" when="2020-02-21" who="part:emfr"
+				>Creation of the file on the repository</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -190,7 +192,6 @@
       </body>
   </text>
 </TEI>
-
 <!--
 	Mahāmaṇḍapa, south wall
 -->
