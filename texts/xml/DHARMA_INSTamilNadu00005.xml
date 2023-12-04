@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Vīṭūr bronze</title>
+				<title>Rājendracōḻīśvaram-uṭaiya-nāyaṉār temple in Cōḻapuram, south wall of ardhamaṇḍapa</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -86,15 +86,19 @@
 <div type="edition" xml:lang="tam-Latn">
              	
 	<ab>
-		<lb n="1"/><!--<milestone type="pagelike" unit="zone" n="1"/>-->
+		
 		<hi rend="grantha">svasti srī</hi>
 	</ab>
 	
 	<p>
-		nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār Aruḷmoḻi-nāya<!--<milestone type="pagelike" unit="zone" n="2"/>-->kar
-		<lb n="2"/><!--<milestone type="pagelike" unit="zone" n="3"/>--><hi rend="grantha">sama</hi>ya-nāta-mu<choice><orig>n</orig><reg>ṉ</reg></choice><unclear>i</unclear>kaḷ <hi rend="grantha">dhammam·</hi> {pcl}<!--update encoding symbol-->		
-	</p>		
-	
+		<lb n="1"/>Kollan-toṉṟi <num value="419"><g type="numeral"> 400</g> <g type="numeral"> 10</g> 9</num> māṇṭu meṭañāyiṟṟu nāñci nāṭṭut tirukkoṭṭāṟ-āṉa mummuṭi-cō
+		<lb n="2" break="no"/>ḻa-nallūr Uṭaiyār <hi rend="grantha">srīrājendra</hi>coḷi<hi rend="grantha">śom</hi> <!--is this the right transliteration?--> Uṭaiya nāyaṉār kōyiyil tirukkaikōṭṭiyil tiruñā
+		<lb n="3" break="no"/>ṉamōtum Āṇṭāṟku Amutu-paṭikku <hi rend="grantha">śrī</hi>-pāṇṭi-maṇṭalattu kuṭanāṭṭu kaṅkaimaṅkalamāṉa maturotaiyappe
+		<lb n="4" break="no"/>runteruvil meṟpāṭi-y uṭaiyāṉ-y uṭaiyāṉ Āṭuvāṉ-āṉa Ālāla-cuntara-p perumāṉ eṉ kaṭutta kuḷamun nilamum āvatu 
+	</p>
+	<p>
+		Āntā<lb n="5" break="no"/>ykuṭi-y-āṉa <hi rend="grantha">rājendra</hi>-cōḻa-nallūr nāṉ vilai koṇṭ-uṭaiya Ālāla-cuntara-ṉerik<unclear>ku</unclear> peru-nāṉk-ellai kiḻellai vaṭak
+	</p>
 </div>
           
 <div type="apparatus">
