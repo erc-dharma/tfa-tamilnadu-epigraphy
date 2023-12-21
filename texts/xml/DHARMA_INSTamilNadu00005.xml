@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Rājendracōḻīśvaram-uṭaiya-nāyaṉār temple in Cōḻapuram, south wall of ardhamaṇḍapa, Kollam year 419</title>
+				<title>Cōḻapuram, Rājendracōḻīśvara temple, Kollam year 419</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:reda">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Provision of land and tank for those who recite <supplied reason="explanation"><foreign>āṇṭār</foreign></supplied> in the sacred hall <supplied reason="explanation"><foreign>tirukkōṭṭi</foreign></supplied> of the temple the following texts: <foreign>Tiruñāṉam</foreign>, <foreign>Tirumuṟai</foreign> and a text whose title begins with <foreign>Tirukka</foreign><gap reason="undefined"></gap>.</summary>
+						<summary>Endowment of a tand and a land for those who recite (<foreign>āṇṭār</foreign>) in the sacred hall (<foreign>tirukkōṭṭi</foreign>) of the temple. The following texts are mentioned: <foreign>Tiruñāṉam</foreign>, <foreign>Tirumuṟai</foreign> and a text, the title of which begins with <foreign>Tirukka</foreign><gap reason="undefined"/>. <bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl> understands that the endowment applies to the reciters of the <foreign>Tiruñāṉam</foreign>, excluding the <foreign>Tirumuṟai</foreign> and the <foreign>Tirukka</foreign><gap reason="undefined"/>.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -85,32 +85,47 @@
           
 <div type="edition" xml:lang="tam-Latn">
              	
-	<ab>
-		
-		<hi rend="grantha">svasti srī</hi>
+	<ab>		
+		<hi rend="grantha">svasti śrī</hi>
 	</ab>
 	
 	<p>
-		<lb n="1"/>Kollan-tōṉṟi <num value="419">4 <g type="numeral">100</g> <g type="numeral">10</g> 9</num> māṇṭu meṭañāyiṟṟu nāñci nāṭṭu-t tirukkoṭṭāṟ-āṉa mummuṭi-cō
-		<lb n="2" break="no"/>ḻa-nallūr Uṭaiyār <hi rend="grantha">srī-rājendra-</hi>coḷ<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvaram</hi> <!--is this the right transliteration?--> Uṭaiya nāyaṉār kōyiyil tirukkaikōṭṭiyil tiruñā
-		<lb n="3" break="no"/>ṉam-ōtum Āṇṭāṟku Amutu-paṭikku <hi rend="grantha">śrī</hi>-pāṇṭi-maṇṭalattu kuṭa-nāṭṭu kaṅkaimaṅkalam-āṉa maturōtaiya-p pe
-		<lb n="4" break="no"/>runteruvil meṟpāṭi-y uṭaiyāṉ-y uṭaiyāṉ Āṭuvāṉ-āṉa Ālāla-cuntara-p perumāṉ eṉ kaṭutta kuḷamun nilamum āvatu 
+		<lb n="1"/>kollan tōṉṟi <num value="419">4 <g type="numeral">100</g> <g type="numeral">10</g> 9</num> m āṇṭu mēṭa-ñāyiṟṟu
+	</p>
+	
+	<p>
+		nāñci-nāṭṭu-t tiru-k-kōṭṭāṟ-āṉa mummuṭi-cō
+		<lb n="2" break="no"/>ḻa-nallūr Uṭaiyār <hi rend="grantha">srī-rājendra-</hi>coḷ<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvaram</hi> Uṭaiya nāyaṉār kōyiyil tiru-k-kaikōṭṭiyil tiruñā
+		<lb n="3" break="no"/>ṉam ōtum Āṇṭāṟku Amutu-paṭikku <hi rend="grantha">śrī</hi>-pāṇṭi-maṇṭalattu kuṭa-nāṭṭu kaṅkai-maṅkalam-āṉa maturōtaiya-p pe
+		<lb n="4" break="no"/>run-teruvil meṟpāṭi-y uṭaiyāṉ-y uṭaiyāṉ Āṭuvāṉ-āṉa Ālāla-cuntara-p-perumāṉ-ēṉ kuṭutta kuḷamun nilamum āvatu 
+	</p>
+	
+	<p>
+		Āntā<lb n="5" break="no"/>ykuṭi-y-āṉa <hi rend="grantha">rājendra</hi>-cōḻa-nallūr nāṉ vilai koṇṭ-uṭaiya Ālāla-cuntaraṉ ērik<unclear>ku</unclear> peru-nāṉk' ellai
 	</p>
 	<p>
-		Āntā<lb n="5" break="no"/>ykuṭi-y-āṉa <hi rend="grantha">rājendra</hi>-cōḻa-nallūr nāṉ vilai koṇṭ-uṭaiya Ālāla-cuntara-ṉerik<unclear>ku</unclear> peru-nāṉk-ellai kiḻ-ellai vaṭak
-		
-		<lb n="6" break="no"/>ku-p pañcantāṅki-viḷaiyil mel-velikku meṟkum teṟku-p pañcanatāṅki-viḷaiyil kiḻ-velikku meṟkum teṉ-ṉ-ellai
-		<lb n="7" break="no"/>-t tēvaṉeri-vayalukku vaṭakkum melllai-p peru-v-eḷaikku<unclear>ḷa</unclear>ttil nīr<unclear>koḷ</unclear>vāy<supplied reason="lost">k</supplied>ku-k kiḻakkum vaṭam-vallai peruvaḻikku teṟkum I
-		<lb n="8" break="no"/>vv-icainta peru-nāṉk-ellaik kuṭapaṭṭa nilamum viḷaiyum In-nāyaṉārkku kaṭamai nikki in-nilattāl vanta tep
-		<lb n="9" break="no"/>peṟpaṭṭatavum Aṉupavittu-k koṇṭu tirumuṟai tirukka<gap reason="lost" quantity="4" unit="character"></gap>kki tiruñāṉam-ōtuvārkku Amutupaṭi taṟpicceṉ meṟpā
-		<lb n="10" break="no"/>ṭi Uṭaiyāṉāṉa Ālāla-cuntara-perumāṉ-eṉ Ippaṭi<unclear>kku ivai</unclear> Ālāla-cuntara-perumāṉ Eḻuttu ippaṭikki<gap unit="character" quantity="5" reason="lost"></gap>
+		k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-ellai vaṭak
+		<lb n="6" break="no"/>ku-p pañcantāṅki-viḷaiyil mēl-vēlikku mēṟkum teṟku-p pañcantāṅki-viḷaiyil k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-vēlikku mēṟkum teṉ-ṉ-ellai
+		<lb n="7" break="no"/>-t tēvaṉ ēri-vayalukku vaṭakkum mēl-ellai-p peru-v-eḷaikku<supplied reason="omitted">ḷa</supplied>ttil nīr<unclear>koḷ</unclear>vāy<supplied reason="omitted">k</supplied>ku-k kiḻakkum vaṭam-vallai peruvaḻikku teṟkum
+	</p>
+	<p>
+		I
+		<lb n="8" break="no"/>vv-icainta peru-nāṉk' ellai-k kuṭapaṭṭa nilamum viḷaiyum In-nāyaṉārkku kaṭamai n<choice><orig>i</orig><reg>ī</reg></choice>kki In-nilattāl vantat' ep
+		<lb n="9" break="no"/>pēṟpaṭṭatatum Aṉupavittu-k koṇṭu tirumuṟai tirukka<gap reason="lost" quantity="4" unit="character"/>kki tiruñāṉam-ōtuvārkku Amutu-paṭi kaṟpicceṉ mēṟpā
+		<lb n="10" break="no"/>ṭi Uṭaiyāṉ-āṉa Ālāla-cuntara-perumāṉ-ēṉ
+	</p>
+	
+	<p>
+		Ip-paṭi<unclear>kku Ivai</unclear> Ālāla-cuntara-perumāṉ Eḻuttu
+	</p>
+	<p>
+		Ip-paṭikki<gap unit="character" quantity="5" reason="lost"/>
 	</p>
 </div>
           
 <div type="apparatus">
             
-           
-	<!--<listApp>
+           	<!--<listApp>
 		
 		<app loc="0">
 			<lem>...</lem>
@@ -121,27 +136,27 @@
 	
 </div>
           
-<div type="translation"> <!--add source-->
+<div type="translation" source="bib:RamanathaAyyar1927_01">
 		
 	<p>
 		Hail! Prosperity! 
 	</p>
 	
 	<p>
-		In the Mēṭa month of the year 419 after the appearance of Kollam, Āṭuvåṉ <hi rend="italic">alias</hi> Ālālacuntara-Perumāṉ of Mēṟppāṭi <supplied reason="subaudible">living</supplied> in Kaṅkaimaṅkalam <hi rend="italic">alias</hi> Madurōdayap-Perunderavu in Kuṭa-nāṭu, a subdivision of Śrī-Pāṇṭi-maṇṭalam, gave for <supplied reason="subaudible">providing</supplied> to the <foreign>āṇṭār</foreign> chanting the Tiruñāṉam in the hall <supplied reason="explanation"><foreign>tirukkōṭṭi</foreign></supplied> of the temple of god Śrī-Rājēndracōḻeśvaram-uṭaiya-Nāyaṉār of Tirukkōṭṭāṟu <hi rend="italic">allias</hi> Mummuṭicōḻanallūr in Nāñji-nāṭu, the following tank and land.
+		In the Mēṭa month of the year 419 after the appearance of Kollam, Āṭuvāṉ <hi rend="italic">alias</hi> Ālālacuntara-Perumāṉ of Mēṟpāṭi <supplied reason="subaudible">living</supplied> in Kaṅkaimaṅkalam <hi rend="italic">alias</hi> Maturōtayap-Perunteruvu in Kuṭa-nāṭu, a subdivision of Śrī-Pāṇṭi-maṇṭalam, gave for <supplied reason="subaudible">providing</supplied> to the <foreign>āṇṭār</foreign> chanting the <hi rend="italic">Tiruñāṉam</hi> in the hall <supplied reason="explanation"><foreign>tirukkōṭṭi</foreign></supplied> of the temple of god Śrī-Rājēndracōḻēśvaramuṭaiya-Nāyaṉār of Tirukkōṭṭāṟu <hi rend="italic">alias</hi> Mummuṭicōḻanallūr in Nāñjci-nāṭu, the following tank and land.
 	</p>
 		<p>
-		The four great boundaries of the <supplied reason="subaudible">tank called</supplied> Ālāla-cuntaraṉ-ēri, which I have purchased in Āntāykkuṭi <hi rend="italic">alias</hi> Rājēndracōḻanallūr are:
-		<l>the western boundary is to the west of the western hedge of <supplied reason="subaudible">the field called</supplied> the northern Pañcatāṅki-viḷai;</l>
+		The four great boundaries of the <supplied reason="subaudible">tank called</supplied> Ālālacuntaraṉ-ēri, which I have purchased in Āntāykkuṭi <hi rend="italic">alias</hi> Rājēndracōḻanallūr are:
+		<l>the western boundary is to the west of the western hedge of <supplied reason="subaudible">the field called</supplied> the northern Pañcatāṅki-viḷai, and to the west of the eastern hedge of the Pañcatāṅki-viḷai;</l>
 		<l>the southern boundary is to the north of the field <supplied reason="subaudible">called</supplied> Tēvanēṟi-vayal;</l>
 		<l>the western boundary is to the east of the sluice of the Peruvēḷaikkuḷam; and </l>
 		<l>the northern boundary is to the south of the road <supplied reason="explanation"><foreign>peruvaḻi</foreign></supplied>. </l>
 			</p>
 			<p>
-			The land and high ground <supplied reason="explanation"><foreign>viḷai</foreign></supplied>comprised within these four great boundaries were exempted from tax, and I Ālāla-cuntara-Perumāḷ of Mēṟpāṭi stipulated that the produced from the land was to be enjoyed and rice was to be provided to those whose chant the <foreign>Tiruñāṉam</foreign>, exclusive of <foreign>Tirumuṟai</foreign> and <foreign>Tirukka</foreign><gap reason="undefined"></gap>.
+			The land and high ground <supplied reason="explanation"><foreign>viḷai</foreign></supplied>comprised within these four great boundaries were exempted from tax, and I, Ālāla-cuntara-Perumāḷ of Mēṟpāṭi stipulated that the produced from the land was to be enjoyed and rice was to be provided to those whose chant the <hi rend="italic">Tiruñāṉam</hi>, exclusive of <foreign>Tirumuṟai</foreign> and <foreign>Tirukka</foreign><gap reason="undefined"/>.
 		</p>
 		<p>
-			This is the writing of Ālāla-cuntara-Perumāḷ. This<gap reason="undefined"></gap>.
+			This is the writing of Ālāla-cuntara-Perumāḷ. This <gap reason="undefined"/>.
 		</p>
 	
          </div>
@@ -151,25 +166,26 @@
           </div>
           
 <div type="bibliography">
-              
+	
 	<p>
-		First edited by <!--<bibl><ptr target="bib:..."/></bibl>-->.
+		First edited <bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl> (TAS 6, no. 14), with English translation.
 	</p>
 	
+	<p>
+		Digitally encoded here for DHARMA (ERC n° 809994) by Renato Davalos (2020), based on <bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl>.
+	</p>
+	
+	<listBibl type="primary">
 		
-
-
-	<!--<listBibl type="primary">
-		
-		<bibl n="...">
-			<ptr target="bib:..."/>
-			<citedRange unit="page">...</citedRange>
-			<citedRange unit="item">...</citedRange>
+		<bibl n="RA">
+			<ptr target="bib:RamanathaAyyar1927_01"/>
+			<citedRange unit="page">22-24</citedRange>
+			<citedRange unit="item">14</citedRange>
 		</bibl>
 		
 	</listBibl>
 	
-	<listBibl type="secondary">
+	<!--<listBibl type="secondary">
 		
 		<bibl/>
 		
@@ -179,3 +195,5 @@
       </body>
   </text>
 </TEI>
+
+<!--south wall of ardhamaṇḍapa-->
