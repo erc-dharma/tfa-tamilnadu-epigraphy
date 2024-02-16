@@ -98,7 +98,10 @@
 	<p>
 		tiripuvaṉa-c-cakkaravattikaḷ maturaiy<unclear>u</unclear>m <choice><orig>i</orig><reg>ī</reg></choice>ḻamuṅ karuvūrum pāṇṭi
 		<lb n="2" break="no"/>yaṉ muṭi-t-talaiyuṅ koṇṭ-aruḷi v<choice><orig>i</orig><reg>ī</reg></choice>ra-A<unclear>p</unclear>i<hi rend="grantha">ṣe</hi>kamum paṇṇi y-aruḷiṉa 
-		<lb n="3"/><hi rend="grantha">śrī</hi>-tiripuvaṉa-v<choice><orig>i</orig><reg>ī</reg></choice>ra-tēvaṟku yāṇṭu muppatt’ oṉṟ-āvatu Uṭaiyār
+		<lb n="3"/><hi rend="grantha">śrī</hi>-tiripuvaṉa-v<choice><orig>i</orig><reg>ī</reg></choice>ra-tēvaṟku yāṇṭu muppatt’ oṉṟ-āvatu
+	</p>
+	
+	<p>Uṭaiyār
 		<lb n="4"/>tiruvoṟṟiyūr-uṭaiya nāyaṉāṟku-c canti-viḷakku Erippataṟku veṇ-ku
 		<lb n="5" break="no"/>ṉṟa-k-kōṭṭattuk kuḷattūril kuḷantai y-āṇṭār maṭa
 		<lb n="6" break="no"/>ttil irukkum peṟṟāṉ makaṉ <gap reason="illegible" quantity="4" unit="character"/> mukattāṉ viṭṭa pacu Oṉṟu
@@ -123,6 +126,14 @@
 <div type="translation" resp="part:emfr">	
 		
 	<p n="1">Prosperity! Fortune!</p>
+	<p n="1-3">Thirthy-first year of the glorious king Tribhuvana Vīra, the emperor of the the three worlds, who graciously ...</p>
+	<p n="3-7">That which <gap reason="lost"/> Mukattāṉ, son of Peṟṟāṉ, who resides in the <foreign>maṭha</foreign> ... gave <supplied reason="explanation"><foreign>viṭṭa</foreign><note>Literally: “left”.</note></supplied> for having a twilight lamp burning for ...: 
+	<list>
+		<item>one bull,</item>
+		<item>one cow,</item>
+		<item>one calf.</item>
+	</list>
+	</p>
 				
 </div>
 			
@@ -133,7 +144,7 @@
 <div type="bibliography">
 				
 	<p>First reported in <bibl><ptr target="bib:ARIE1911-1912"/></bibl> (ARIE/1911-1912/B/1911/366).</p>
-	<p>Edited online in கொங்கு கல்வெட்டு ஆய்வு <!--https://kongukalvettuaayvu.blogspot.com/2020/04/2020.html--> (accessed 2024-02-15). <ref target="https://gallica.bnf.fr/ark:/12148/btv1b104635317/f78">no. 1192</ref></p>
+	<p>Edited online in <ref target="https://kongukalvettuaayvu.blogspot.com/2020/04/2020.html">கொங்கு கல்வெட்டு ஆய்வு</ref>  (accessed 2024-02-15).</p>
 	<p>Re-edited here for DHARMA (ERC n° 809994) by Emmanuel Francis based on photos (2019).</p>
 	
 	<!--<listBibl type="primary">
