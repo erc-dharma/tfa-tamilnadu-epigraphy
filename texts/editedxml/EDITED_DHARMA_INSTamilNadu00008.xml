@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tiruvoṟṟiyūr, Ādhipurīśvara temple, time of Tribhuvana Vīra, year 31</title>
+            <title>Tiruvoṟṟiyūr, Ādhipurīśvara temple, time of Pratāpa Devarāya, Krodhin year</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSTamilNadu00007</idno>
+            <idno type="filename">DHARMA_INSTamilNadu00008</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,12 +47,13 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Donation of a bull, a cow and a calf for burning a twilight lamp.</summary>
+                  <summary>Donation of land revenue on salt pans to the treasure (<foreign>pāṇṭaram</foreign>) of the lord of Tiruvoṟṟiyūr by the villagers of Maṇali.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
                      <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
                      <p>Medial <foreign>i</foreign> and <foreign>ī</foreign> interchangeable.</p>
+                     <p>Spelling <foreign>na</foreign> occasionally used instead of expected <foreign>ṉa</foreign>.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -83,7 +84,7 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:emfr" when="2024-02-16" status="draft">Creation of the file</change>
+         <change who="part:emfr" when="2024-02-17" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
@@ -91,24 +92,26 @@
 			
 <div type="edition" xml:lang="tam-Latn">
 	
-	<ab>
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-	</ab>
-	
 	<p>
-		tiri-puvaṉa-c-cakkaravattikaḷ maturaiy<unclear>u</unclear>m <choice><orig>i</orig><reg>ī</reg></choice>ḻamuṅ karuvūrum pāṇṭi
-		<lb n="2" break="no"/>yaṉ muṭi-t-talaiyuṅ koṇṭ-aruḷi v<choice><orig>i</orig><reg>ī</reg></choice>ra-A<unclear>p</unclear>i<hi rend="grantha">ṣe</hi>kamum paṇṇi y-aruḷiṉa 
-		<lb n="3"/><hi rend="grantha">śrī</hi>-tiri-puvaṉa-v<choice><orig>i</orig><reg>ī</reg></choice>ra-tēvaṟku yāṇṭu muppatt’ oṉṟ-āvatu
+		<lb n="1"/><hi rend="grantha">vīra-śrī-pratāpa-de</hi>va<hi rend="grantha">rā</hi>yaṟkku-c cellā niṉṟa <hi rend="grantha">kro</hi>ti-varu<hi rend="grantha">ṣam· kum·bha</hi>-nāyaṟṟu
+		<lb n="2"/><hi rend="grantha">pūrvva-pakṣa</hi>ttu <hi rend="grantha">paurṇai</hi>y<unclear>(u)</unclear>m caṉikkiḻamaiyum peṟṟa makattu nāḷ 
 	</p>
 	
-	<p>
-		Uṭaiyār
-		<lb n="4"/>tiruvoṟṟiyūr-uṭaiya nāyaṉāṟku-c canti-viḷakku Erippataṟku veṇ-ku
-		<lb n="5" break="no"/>ṉṟa-k-kōṭṭattu-k kuḷattūril kuḷantai-y-āṇṭār maṭa
-		<lb n="6" break="no"/>ttil irukkum peṟṟāṉ makaṉ <gap reason="illegible" quantity="4" unit="character"/> mukattāṉ viṭṭa pacu Oṉṟu
-		<lb n="7"/>nāku Oṉṟu kaṉṟu Oṉṟu
+	<p>		
+		<hi rend="grantha">ja</hi>yaṅ-koṇ
+		<lb n="3" break="no"/>ṭa-cōḻa-maṇṭalattu puḻaṟ-kōṭṭattu nāyiṉār tiruvoṟṟiyūr-Uṭaiya nāyiṉār
+		<lb n="4"/><hi rend="grantha">śrī</hi>-paṇṭārattukku puḻal-nāṭṭil maṇaliyil Ūravarōm kalveṭṭi-k kuṭutta paṭi
 	</p>
-				
+	<p>
+		<lb n="5"/><hi rend="grantha">śrī</hi>-paṇṭāram <unclear>paṭa</unclear>mpakka-nāyaka-p p<unclear>ōḷa</unclear>ttil Ell<unclear>ai</unclear>-k-kallukku mēṟkku Eṅkaḷ El
+		<lb n="6" break="no"/>laiyil Aḷaṅkaṭṭi Uppuppayiṟ ceyyalāna maṭṭu It-taṉaiyum kuṭi n<choice><orig>i</orig><reg>ī</reg></choice>ṅkā-t tēvatā
+		<lb n="7" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>am-Āka Uṭaiyavaṟkku nāṅkaḷ kuṭutta Aḷavukku Inta ellai Uppuppayiṟ-c ceyyalāna maṭṭu It-taṉai
+		<lb n="8" break="no"/>yum tiruccūlattāpaṉam paṇṇi-k koṇṭu Inta Uppuppayiṟ-c ceyitu kuṭi-vāram aḷaṅkaḷukku viṭ
+		<lb n="9" break="no"/> ṭu mēl-vāram mutal-k koṇ<unclear>ṭu</unclear> ṉāyiṉār tiru-māci-t tiru-nāḷ Ēḻān tiru-nāḷ kuṟai vaṟuppa Uḷḷa
+		<lb n="10" break="no"/>tu Eṅkaḷ Upayam Āka cantiṟātittavaraikkum kuṭi n<choice><orig>i</orig><reg>ī</reg></choice>ṅkā tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice>am-āka kalveṭṭi-<choice><sic>t</sic><corr>k</corr></choice> kuṭu
+		<lb n="11" break="no"/>ttōm maṇaliyil Ūravarōm <g type="pcl">.</g>
+	</p>	
+	
 </div>
 
 <!--<div type="apparatus">
@@ -126,15 +129,16 @@
 			
 <div type="translation" resp="part:emfr">	
 		
-	<p n="1">Prosperity! Fortune!</p>
-	<p n="1-3">Thirthy-first year of the glorious king Tribhuvana Vīra, the emperor of the three worlds, who, having graciously taken Maturai, Laṅkā, Karuvūr and the crowned head of the Pāṇḍya, graciously performed the heroic anointment.</p>
-	<p n="3-7">That which <gap reason="lost"/><note>This lacuna bears to the first part of the name of the donor</note> Mukattāṉ, son of Peṟṟāṉ, who resides in the Kuḷantaiyāṇṭār <foreign>maṭha</foreign> in Kuḷattūr in the Veṇkuṉṟakkōṭṭam, gave <supplied reason="explanation"><foreign>viṭṭa</foreign><note>Literally: “left, released”.</note></supplied> for having a twilight lamp burning for the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied>, Lord <supplied reason="explanation"><foreign>nāyaṉāṉ</foreign></supplied> of Tiruvoṟṟiyūr: 
-	<list>
-		<item>one bull,</item>
-		<item>one cow,</item>
-		<item>one calf.</item>
-	</list>
+	<p n="1-2">
+		On the day of <foreign>makam</foreign><note>Sanskrit <foreign>maghā</foreign>, that is the 10th <foreign>nakṣatra</foreign>.</note> which coincides with <supplied reason="explanation"><foreign>peṟṟa</foreign><note>Literally “which got, obtained”.</note></supplied> ... 
 	</p>
+	
+	<p n="2-4">
+		<supplied reason="subaudible">This is</supplied> the manner in which We, the villagers in Maṇali in the Puḻaṟnāṭu, having <supplied reason="subaudible">had</supplied> engraved<note>That is, having commissioned the engraving of an inscription</note>, we made a donation to the glorious treasury of the Lord, Lord of Tiruvoṟṟiyūr, in the Puḻaṟkōṭṭam, in the Jayaṅkoṇṭacōḻamaṇṭalam.
+	</p>
+	
+	<p n="5-11">
+		We, the villagers in Maṇali, having <supplied reason="subaudible">had</supplied> engraved ..., we made a donation. 	</p>
 				
 </div>
 			
@@ -144,7 +148,7 @@
 			
 <div type="bibliography">
 				
-	<p>First reported in <bibl><ptr target="bib:ARIE1911-1912"/></bibl> (ARIE/1911-1912/B/1911/366).</p>
+	<p>First reported in <bibl><ptr target="bib:ARIE1911-1912"/></bibl> (ARIE/1911-1912/B/1911/367).</p>
 	
 	<p>Edited here for DHARMA (ERC n° 809994) by Emmanuel Francis based on photos (2019).</p>
 	
@@ -162,7 +166,7 @@
 			<ptr target="bib:ARIE1911-1912"/>
 			<citedRange unit="page">26</citedRange>
 			<citedRange unit="appendix">B/1911</citedRange>
-			<citedRange unit="item">366</citedRange>
+			<citedRange unit="item">367</citedRange>
 		</bibl>	
 		
 	</listBibl>
