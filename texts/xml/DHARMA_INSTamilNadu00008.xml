@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Tiruvoṟṟiyūr, Ādhipurīśvara temple, time of Pratāpa Devarāya, Krodhin year</title>
+				<respStmt>
+					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu00008</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Donation of land revenue on salt pans to the treasure (<foreign>pāṇṭaram</foreign>) of the lord of Tiruvoṟṟiyūr by the villagers of Maṇali.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+							<p>Medial <foreign>i</foreign> and <foreign>ī</foreign> interchangeable.</p>
+							<p>Spelling <foreign>na</foreign> occasionally used instead of expected <foreign>ṉa</foreign>.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union’s Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2024-02-17" status="draft">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+			
+<div type="edition" xml:lang="tam-Latn">
+	
+	<p>
+		<lb n="1"/><hi rend="grantha">vīra-śrī-pratāpa-de</hi>va<hi rend="grantha">rā</hi>yaṟkku-c cellā niṉṟa <hi rend="grantha">kro</hi>ti-varu<hi rend="grantha">ṣam· kum·bha</hi>-nāyaṟṟu
+		<lb n="2"/><hi rend="grantha">pūrvva-pakṣa</hi>ttu <hi rend="grantha">paurṇai</hi>y<unclear>(u)</unclear>m caṉikkiḻamaiyum peṟṟa makattu nāḷ 
+	</p>
+	
+	<p>		
+		<hi rend="grantha">ja</hi>yaṅ-koṇ
+		<lb n="3" break="no"/>ṭa-cōḻa-maṇṭalattu puḻaṟ-kōṭṭattu nāyiṉār tiruvoṟṟiyūr-Uṭaiya nāyiṉār
+		<lb n="4"/><hi rend="grantha">śrī</hi>-paṇṭārattukku puḻal-nāṭṭil maṇaliyil Ūravarōm kalveṭṭi-k kuṭutta paṭi
+	</p>
+	<p>
+		<lb n="5"/><hi rend="grantha">śrī</hi>-paṇṭāram <unclear>paṭa</unclear>mpakka-nāyaka-p p<unclear>ōḷa</unclear>ttil Ell<unclear>ai</unclear>-k-kallukku mēṟkku Eṅkaḷ El
+		<lb n="6" break="no"/>laiyil Aḷaṅkaṭṭi Uppuppayiṟ ceyyalāna maṭṭu It-taṉaiyum kuṭi n<choice><orig>i</orig><reg>ī</reg></choice>ṅkā-t tēvatā
+		<lb n="7" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>am-Āka Uṭaiyavaṟkku nāṅkaḷ kuṭutta Aḷavukku Inta ellai Uppuppayiṟ-c ceyyalāna maṭṭu It-taṉai
+		<lb n="8" break="no"/>yum tiruccūlattāpaṉam paṇṇi-k koṇṭu Inta Uppuppayiṟ-c ceyitu kuṭi-vāram aḷaṅkaḷukku viṭ
+		<lb n="9" break="no"/> ṭu mēl-vāram mutal-k koṇ<unclear>ṭu</unclear> ṉāyiṉār tiru-māci-t tiru-nāḷ Ēḻān tiru-nāḷ kuṟai vaṟuppa Uḷḷa
+		<lb n="10" break="no"/>tu Eṅkaḷ Upayam Āka cantiṟātittavaraikkum kuṭi n<choice><orig>i</orig><reg>ī</reg></choice>ṅkā tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice>am-āka kalveṭṭi-<choice><sic>t</sic><corr>k</corr></choice> kuṭu
+		<lb n="11" break="no"/>ttōm maṇaliyil Ūravarōm <g type="pcl">.</g>
+	</p>	
+	
+</div>
+
+<!--<div type="apparatus">
+				
+	<listApp>
+		
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:KrishnaSastri1925_01"/>
+		</app>
+		
+	</listApp>
+	
+</div>-->
+			
+<div type="translation" resp="part:emfr">	
+		
+	<p n="1-2">
+		On the day of <foreign>makam</foreign><note>Sanskrit <foreign>maghā</foreign>, that is the 10th <foreign>nakṣatra</foreign>.</note> which coincides with <supplied reason="explanation"><foreign>peṟṟa</foreign><note>Literally "which got, obtained".</note></supplied> ... 
+	</p>
+	
+	<p n="2-4">
+		<supplied reason="subaudible">This is</supplied> the manner in which We, the villagers in Maṇali in the Puḻaṟnāṭu, having <supplied reason="subaudible">had</supplied> engraved<note>That is, having commissioned the engraving of an inscription</note>, we made a donation to the glorious treasury of the Lord, Lord of Tiruvoṟṟiyūr, in the Puḻaṟkōṭṭam, in the Jayaṅkoṇṭacōḻamaṇṭalam.
+	</p>
+	
+	<p n="5-11">
+		We, the villagers in Maṇali, having <supplied reason="subaudible">had</supplied> engraved ..., we made a donation.
+	</p>
+				
+</div>
+			
+<div type="commentary">
+	
+</div>
+			
+<div type="bibliography">
+				
+	<p>First reported in <bibl><ptr target="bib:ARIE1911-1912"/></bibl> (ARIE/1911-1912/B/1911/367).</p>
+	
+	<p>Edited here for DHARMA (ERC n° 809994) by Emmanuel Francis based on photos (2019).</p>
+	
+	<!--<listBibl type="primary">
+		
+		<bibl >
+			<ptr target="bib:"/>
+		</bibl>			
+		
+	</listBibl>           -->
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1911-1912"/>
+			<citedRange unit="page">26</citedRange>
+			<citedRange unit="appendix">B/1911</citedRange>
+			<citedRange unit="item">367</citedRange>
+		</bibl>	
+		
+	</listBibl>
+	
+			</div>
+			
+		</body>
+	</text>
+</TEI>
