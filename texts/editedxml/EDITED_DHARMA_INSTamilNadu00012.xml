@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Donation of land revenue on salt pans to the treasure (<foreign>pāṇṭaram</foreign>) of the lord of Tiruvoṟṟiyūr by the villagers of Maṇali.</summary>
+                  <summary/>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -107,7 +107,7 @@
 <div type="textpart" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 		
 	<p>
-		<lb n="13"/>kacciyun taiñcaiyuṅ koṇṭa ...
+		<lb n="13"/>kacciyun t<choice><sic>ai</sic><corr>a</corr></choice>ñcaiyuṅ koṇṭa ...
 	</p>
 		
 </div>
