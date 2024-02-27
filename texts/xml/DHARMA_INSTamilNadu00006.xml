@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirukaṇṭheśvaram, Tirumūlanātar temple, Jaṭāvarman Sundarapāṇḍya I, year 14</title>
+				<title>Tirukaṇṭheśvaram, Tirumūlanātar temple, time of Jaṭāvarman Sundarapāṇḍya I, year 14</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -172,6 +172,5 @@
       </body>
   </text>
 </TEI>
-
 <!--METADATA:
 On the south wall of the <foreign>ardhamaṇḍapa</foreign> in the temple of Tirumūlanātar at Tirukaṇṭheśvaram, Cuddalore taluk. Year 14 of king Jaṭāvarmaṉ Sundarapāṇḍya I: 1264 CE.-->
