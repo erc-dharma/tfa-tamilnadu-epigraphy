@@ -155,12 +155,16 @@
 		<l n="59">e<supplied reason="lost">l</supplied>lai kāṭṭiv malai nāṭṭuḷḷa</l>
 		<l n="60">cāveṟ ellān taṉi vicumpēṟa</l>
 		<l n="61">māvē ṟiya taṉ varu taṉit talaivarai-k</l>
-		<l n="62">kuṟukalar kulaiya-k <gap reason="lost" quantity="2" unit="character"/> <lb n="17"/> nilaikaṉiṭṭ’ aruḷi tiṟakoḷa</l>
-		<l n="63">viraviṅṅāsaṉan tiriyaviṭ ṭaruḷi</l>
-		<l n="64">poṅkoḷiyār munnirum puyattalaṅkalum</l>
-		<l n="65">viḷaṅkap <gap reason="lost" quantity="5" unit="character"/><lb n="18" break="no"/>-t tiyākavalli</l>
+		<l n="62">kuṟukalar kulaiya-k <gap reason="lost" quantity="2" unit="character"/></l> <!--From std version, it is missing kōṭṭā ṟuṭpaṭa-->
+		<l n="63"><lb n="17"/>nilaikaṉiṭṭ’ aruḷi tiṟakoḷa</l>
+		<l n="64">v<choice><sic>i</sic><corr>ī</corr></choice>raviṅṅā<hi rend="grantha">sa</hi>ṉan tiriyaviṭ ṭaruḷi</l>
+		<l n="65">poṅkoḷi yārmunnirum puya-t talaṅkalum viḷaṅka-p</l> <!--part of the line 81 in standard version-->
+		<l n="66"><gap reason="lost" quantity="5" unit="character"/><lb n="18" break="no"/>-t tiyāka valli pol viramun tiyākamum </l>
+		<l n="67">puvaṉamuḻutu<supplied reason="lost">ṭai</supplied>yāḷikuppa avaṉuṭa<choice><orig>n</orig><reg>ṅ</reg></choice></l>
+		<l n="66">i</l>
 		<l n="66"></l>
-		
+		<l n="66"></l>
+		<l n="66"></l>
 		
 		
 		
@@ -169,7 +173,11 @@
 	<p>
 		<lb n="1"/>              <!--check on photos, if available-->          
 		
-		                                    pol viramun tiyākamum  puvaṉamuḻutu<supplied reason="lost">ṭai</supplied>yāḷikuppa avaṉuṭan kaṅkai viṟṟiruntateṉa maṅkaiyar tilatam Eḻicai vallapi Eḻulakamuṭai<supplied reason="lost">yā</supplied>ḷ vāḻi malar<supplied reason="lost">n</supplied>tiṉi tiruppa vaḻiyum 
+		                                    
+		                                    
+		                                     
+		
+		kaṅkai viṟṟiruntateṉa maṅkaiyar tilatam Eḻicai vallapi Eḻulakamuṭai<supplied reason="lost">yā</supplied>ḷ vāḻi malar<supplied reason="lost">n</supplied>tiṉi tiruppa vaḻiyum 
 		<lb n="19" break="no"/>vāḷōṭum viṟṟiruntaruḷiya kovirā<hi rend="grantha">ja</hi>kecaripanar-āṉa cakkaravattikaḷ <hi rend="grantha">śrī</hi>kulōttuṅka-<hi rend="grantha">de</hi>varkki yāṇṭu <num value="34">3 <g type="numeral">10</g> 4</num> Āvatu virutarāja payaṅkara<supplied reason="lost">vaḷa</supplied>
 		<lb n="20"/>nāṭṭuk kaṭampaṅkiṭaiyāṉ kūttaṉ veṇkāṭutēvaneṉ kaṅkai koṇṭa cōḻa vaḷanā
 		<lb n="21" break="no"/>ṭṭu vākūr nāṭṭu Aḻakiya cōḻa-c caruppetimaṅkalattu <hi rend="grantha">sabhai</hi> pakkal nāṉ vilai koṇ
