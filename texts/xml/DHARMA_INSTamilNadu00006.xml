@@ -79,7 +79,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2024-01-25" status="draft">Creation of the file</change>
+			<change who="part:reda" when="2024-01-25" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -90,16 +90,48 @@
 	<p>
 		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 	</p>
+	
+	<lg n="1" met="āciriyappā">	    
+		
+		<l n="1">pukaḻ cūḻnta puṇari Akaḻ cūḻnta puviyil</l>
+		<l n="2">ponnēmi Aḷavun taṉ nēmi naṭappa</l>
+		<l n="3">viḷaṅku Aiyamakaḷai Iḷaṅkō-p paṭuvattu</l>
+		<l n="4">cakkarakoṭṭatu vikkiramat toḻilāl</l>
+		<l n="5">putumaṇa<lb n="2" break="no"/>m puṇarntu mutuvarai-y iṭṭa</l>
+		<l n="6">vayirākarattu vāri Ayirmuṉai-k</l>
+		<l n="7">kontaṉa-v araicar tantaḷa miriya</l>
+		<l n="8">vāḷuṟai kaḻittu-t toḷvili kāṭṭi-p</l>
+		<l n="9">po<supplied reason="lost">r</supplied>ppari naṭātti-k kirttiyai niṟutti</l>
+		<l n="10">vaṭaticai vākai cūṭi-t teṉṟicai-t</l>
+		<l n="11">tēmaṭu kamala-p pūmakaḷ pōtumaiyum</l>
+		<l n="12">po<lb n="3" break="no"/>ṉṉi-y āṭai naṉṉila-p pāvai</l>
+		<l n="13">taṉimaiyun tavira vantu punitaṟ</l><!--Acc. to standard version, it starts with puvimakaḷ--> 
+		<l n="14">ṟirumaṇi makuṭa muṟaimaiyiṟ cūṭi-t</l>
+		<l n="15">taṉṉaṭi Iraṇtu<supplied reason="lost">m</supplied>n taṭa muṭi-y āka-t</l>
+		<l n="16">toṉṉila ventara cūṭa muṉṉai</l>
+		<l n="17">maṉuvāṟu peruka-k kaliyāṟu vaṟuppa-c</l>
+		<l n="18">ceṅkōl<lb n="4"/> ticaitōṟum cella veṇkuṭai</l>
+		<l n="19">Irunila vaḷākam veṇkaṇun taṉatu</l>
+		<l n="20">tiruniḻal veṇṇilā-t tikaḻa Orutaṉi</l>
+		<l n="21">ṟivāntarattu-p pūpālar tiṟaiviṭu</l>
+		<l n="21">tanta kalañcori kaṉuṟumuṟai niṟppa vilaṅkiya</l><!--Std. vers: there's an extra tanta-->
+		<l n="21">teṉṉavaṉ karuntalai <lb n="5"/><supplied reason="lost">parun</supplied>talaitti<supplied reason="lost">ṭ</supplied><lb n="6"/><supplied reason="lost">t</supplied>tan</l>
+		<l n="21">po<choice><orig>n</orig><reg>ṉ</reg></choice><lb n="7" break="no"/>ṉaka<supplied reason="lost">r</supplied><unclear>k</unclear> puṟatti<lb n="8" break="no"/>ṭaik kiṭa-p<lb n="9" break="no"/>pa Iṉṉuḷ</l>
+		<l n="21">mēruviṟ puliviṉaiyāṭa vārkaṭaṟ</l>
+		<l n="21">mēruviṟ puliviṉaiyāṭa vārkaṭaṟ</l>
+		<l n="21">mēruviṟ puliviṉaiyāṭa vārkaṭaṟ</l>
+		<l n="21">mēruviṟ puliviṉaiyāṭa vārkaṭaṟ</l>
+		<l n="21">mēruviṟ puliviṉaiyāṭa vārkaṭaṟ</l>
+		<l n="21">mēruviṟ puliviṉaiyāṭa vārkaṭaṟ</l>
+		
+		
+		
+	</lg>
+	
 	<p>
-		<lb n="1"/>pukaḻ cūḻnta puṇari Akaḻ cūḻnta puviyil ponnēmi Aḷavun taṉ nēmi naṭappa viḷaṅku Aiyamakaḷai Iḷaṅko-p paṭuvattu cakkarakoṭṭatu vikkiramat toḻilāl putumaṇa
-		<lb n="2" break="no"/>m puṇarntu mutuvarai-y iṭṭa vayirākarattu vāri Ayirmuṉai-k kontaṉa-v araicar tantaḷa miriya vāḷuṟai kaḻittut toḷvili kāṭṭip po<supplied reason="lost">r</supplied>ppari naṭātti-k kirttiyai niṟutti vaṭaticai vākai cūṭi-t teṉṟicai-t temaṭu kamala-p pūmakaḷ pōtumaiyum po
-		<lb n="3" break="no"/>ṉṉi-y āṭai naṉṉila-p pāvai taṉimaiyun tavira vantu punitaṟṟirumaṇi makuṭa muṟaimaiyiṟ cūṭi-t taṉṉaṭi Iraṇtu<supplied reason="lost">m</supplied>n <!--check on photos, if available--> taṭa muṭi-y āka-t toṉṉila ventara cūṭa muṉṉai maṉuvāṟu peruka-k kaliyāṟu vaṟuppa-c ceṅkōl
-		<lb n="4"/>ticaitōṟum cella veṇkuṭai Irunila vaḷākam veṇkaṇun taṉatu tiruniḻal veṇṇilā-t tikaḻa Orutaṉi meruviṟ puliviṉaiyāṭa vārkaṭaṟ ṟivāntarattu-p pūpālar tiṟaiviṭu tanta kalañc' orikaṉuṟu <!--is this correct? @Manu: check meykkirtti standrad text--> muṟai niṟppa vilaṅkiya teṉṉavaṉ karuntalai
-		<lb n="5"/><supplied reason="lost">parun</supplied>talaitti<supplied reason="lost">ṭ</supplied>
-		<lb n="6"/><supplied reason="lost">t</supplied>tanpon
-		<lb n="7" break="no"/>ṉaka<supplied reason="lost">r</supplied><unclear>k</unclear> puṟatti
-		<lb n="8" break="no"/>ṭaik kiṭap
-		<lb n="9" break="no"/>pa Iṉṉuḷ pi
+		<lb n="1"/>              <!--check on photos, if available-->          
+		
+		 pi
 		<lb n="10" break="no"/>ṟ kulapi ai
 		<lb n="11" break="no"/>ṟa pō<supplied reason="lost">l</supplied> naṟpi<supplied reason="lost">ḻai</supplied> yeṉṉuṅ colletir koṭiṟṟallatu taṉkai villetir koṭā veḻkulattaracar kallatar naṅkili tuṭaṅki maṇalūr namaveṉat tuṅkapattiraiyaḷavuṟṟu veṅkaṉum paṭtaveṅkaṉuṟu viṭṭa taṉmāṉamum kūṟiṉaviramum kiṭappa eṟiṉa malaikaṉu mutu
 		<lb n="12" break="no"/>kuneḷippa Iḻinta natikaṉuñ cuḻaṉṟuṭaintōṭa viḻunta kaṭaluntalai vi<supplied reason="lost">ri</supplied>t talamarak kuṭaticait taṉṉuṉukantu tāṉun tāṉaiyum paṉṉuḷiṭṭamum palapala mutukum payantetir māṟi aiyapperun tiruvum paḻiyukantu kuṭutta pukaḻum celviyum vā<unclear>ḷā</unclear>voṇkaṇ maṭantayariṭṭamu
@@ -123,7 +155,7 @@
 </div>
 
         <!-- <div type="apparatus">
-                               
+                 <unclear>k</unclear>              
          </div>-->
 
 <div type="translation" source="bib:Kuppusamy+al2010_01">
@@ -142,7 +174,7 @@
          </div>
 
         <!-- <div type="commentary">
-         	
+         	line 7<unclear>k</unclear> should be -p- acc. to std. version
          </div>-->
 
 <div type="bibliography">
