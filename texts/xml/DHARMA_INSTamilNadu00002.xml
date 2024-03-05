@@ -85,14 +85,14 @@
           
 <div type="edition" xml:lang="tam-Latn">
              
-	<div type="textpart" subtype="zone" n="1">
+	<div type="textpart" subtype="zone" n="A">
 		<head xml:lang="eng">Top of pedestal</head>
 		<ab>
 			<lb n="1"/>Ilaṅkāṭu
 		</ab>
 	</div>
 	
-	<div type="textpart" subtype="zone" n="2">
+	<div type="textpart" subtype="zone" n="B">
 		<head xml:lang="eng">Bottom of pedestal</head>
 	<p>
 		<lb n="1"/>tiru-mayilāpuri cē<choice><orig>n</orig><reg>ṉ</reg></choice>a-caṅkam ci<choice><orig>n</orig><reg>ṉ</reg></choice>a
