@@ -92,7 +92,8 @@
  <div type="edition" xml:lang="tam-Latn">
         
  	<ab>
- 		<lb n="1"/><milestone type="pagelike" unit="zone" n="1"/><hi rend="grantha">svasti śrī</hi>
+ 		<milestone type="pagelike" unit="zone" n="1"/>
+ 		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
  	</ab>
  	
  	<lg met="āciriyappā" n="1">
@@ -155,9 +156,9 @@
  yum ca<hi rend="grantha">n<choice><sic>t</sic><corr>d</corr></choice>rā</hi><supplied reason="lost"><hi rend="grantha">di</hi>t</supplied>tava<supplied reason="omitted">l</supplied>
  	</p>
  	<p>
- 		<lb n="32"/><milestone type="pagelike" unit="zone" n="2"/>Ivv-ūr-k kaṭikai <hi rend="grantha">madhyasta</hi>ṉ <hi rend="grantha">pa
- 		<lb n="33" break="no"/>ramēśvara</hi>n bhāskaran-ēṉ eḻut<supplied reason="omitted">tu</supplied>
- 		
+ 		<milestone type="pagelike" unit="zone" n="2"/>
+ 		<lb n="32"/>Ivv-ūr-k kaṭikai <hi rend="grantha">madhyasta</hi>ṉ <hi rend="grantha">pa
+ 		<lb n="33" break="no"/>ramēśvara</hi>n bhāskaran-ēṉ eḻut<supplied reason="omitted">tu</supplied> 		
  	</p>
  	      		
 </div>
