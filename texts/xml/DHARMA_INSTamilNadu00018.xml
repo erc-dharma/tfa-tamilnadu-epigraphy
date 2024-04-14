@@ -83,25 +83,24 @@
 			<change who="part:emfr" when="2023-12-01">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
-	<text xml:space="preserve">
-        
-      <body>
+	
+<text xml:space="preserve">
+<body>
           
-      	<div type="edition" xml:lang="tam-Latn">
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
       		
-      		<ab>		
-      			<supplied reason="lost"><hi rend="grantha"><unclear>svasti śrī</unclear></hi></supplied>
-      			
-      		</ab>
-      		
-      		<p>
-      			<lb n="1"/><unclear>maturaiyum Īḻamum karuvūrum pāṇṭiyaṉ muṭittalai</unclear> yuṅkoṇṭu vīrā A<hi rend="grantha">piṣ<supplied reason="omitted">ē</supplied></hi>kamum vijayā A<hi rend="grantha">piṣ<supplied reason="omitted">ē</supplied></hi>kamum paṇṇi Aruḷina <hi rend="grantha">śrī</hi>tirupuvaṉa vīratēvarkku yāṇṭu muppattañc’ āvatu taṉunāyaṟṟu pūvam?pakṣa<unclear>t</unclear>tu nāyaṟṟu kiḻamaiyum <hi rend="grantha">sapta</hi>miyum
-      			<lb n="2"/><gap reason="lost" quantity="3" unit="character"></gap> kōyil Āticaṇṭē<hi rend="grantha">śva</hi>ratēvar tēvarkaṉmikaḷōm Ikkōyil tēvaraṭiyāril Uṭaivaḷ-āṉa nāṟpatteṇṇāyiramāṇikkam Iṉṉāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār kōyilukku tiruvācura nāya<choice><orig>n</orig><reg>ṉ</reg></choice>āraiyum periya tēvaraiyum n<unclear>ācciyāraiyum</unclear> <gap reason="lost" quantity="7" unit="character"></gap> <unclear>I</unclear>
-      			<lb n="3" break="no"/>ṟ<unclear>ai</unclear>yiliyum ceytu tirukkaṟṟaḷi e<gap reason="lost" quantity="10" unit="character"></gap> peṟṟimaiyil Ikkōyil tiruveḻucciyil A<gap reason="lost" quantity="1" unit="character"></gap> kaṭicaṟkka muṟaiyum tiruvēṭṭaiyil muttaṭaiyum tirumārkaḻi tiruvātirai tiru Ampāvai Eḻuppuppāvaiyum <gap reason="lost" quantity="6" unit="character"></gap>
-      			<lb n="4"/><gap reason="lost" quantity="3" unit="character"></gap>vaṟkkatāṟkum Ikkōyil <gap reason="lost" quantity="6" unit="character"></gap> tēvar kaṉmikaḷōm Ivai kōyil kaṇakku muṉṉūṟṟuvappiriyaṉ Eḻuttu Ivai cīkāriyam <gap reason="lost" quantity="1" unit="character"></gap> teṉṉavaṉ mūvēṉtavēḷāṉ Eḻuttu Ivai <hi rend="grantha">śrī</hi>mā<hi rend="grantha">hēśva</hi>ra-k kaṇkāṇi koṇṭāṉ Eḻuttu <gap reason="lost" quantity="3" unit="character"></gap> Ivai tēvakaṉmam muṉṉūṟṟuvapaṭṭaṉ Eḻuttu Ivai pālṟāvāyaṉ Eḻuttu <g type="danda">.</g> Ivai Amu<unclear>taṉ</unclear> campaṉtaṉ Eḻuttu
-      		</p>
-      		
-      		
+	<ab>		
+		<supplied reason="lost"><hi rend="grantha"><unclear>svasti śrī</unclear></hi></supplied>
+		
+	</ab>
+	
+	<p>
+		<lb n="1"/><unclear>maturaiyum Īḻamum karuvūrum pāṇṭiyaṉ muṭittalai</unclear> yuṅkoṇṭu vīrā A<hi rend="grantha">piṣ<supplied reason="omitted">ē</supplied></hi>kamum vijayā A<hi rend="grantha">piṣ<supplied reason="omitted">ē</supplied></hi>kamum paṇṇi Aruḷina <hi rend="grantha">śrī</hi>tirupuvaṉa vīratēvarkku yāṇṭu muppattañc’ āvatu taṉunāyaṟṟu pūvam?pakṣa<unclear>t</unclear>tu nāyaṟṟu kiḻamaiyum <hi rend="grantha">sapta</hi>miyum
+		<lb n="2"/><gap reason="lost" quantity="3" unit="character"></gap> kōyil Āticaṇṭē<hi rend="grantha">śva</hi>ratēvar tēvarkaṉmikaḷōm Ikkōyil tēvaraṭiyāril Uṭaivaḷ-āṉa nāṟpatteṇṇāyiramāṇikkam Iṉṉāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār kōyilukku tiruvācura nāya<choice><orig>n</orig><reg>ṉ</reg></choice>āraiyum periya tēvaraiyum n<unclear>ācciyāraiyum</unclear> <gap reason="lost" quantity="7" unit="character"></gap> <unclear>I</unclear>
+		<lb n="3" break="no"/>ṟ<unclear>ai</unclear>yiliyum ceytu tirukkaṟṟaḷi e<gap reason="lost" quantity="10" unit="character"></gap> peṟṟimaiyil Ikkōyil tiruveḻucciyil A<gap reason="lost" quantity="1" unit="character"></gap> kaṭicaṟkka muṟaiyum tiruvēṭṭaiyil muttaṭaiyum tirumārkaḻi tiruvātirai tiru Ampāvai Eḻuppuppāvaiyum <gap reason="lost" quantity="6" unit="character"></gap>
+		<lb n="4"/><gap reason="lost" quantity="3" unit="character"></gap>vaṟkkatāṟkum Ikkōyil <gap reason="lost" quantity="6" unit="character"></gap> tēvar kaṉmikaḷōm Ivai kōyil kaṇakku muṉṉūṟṟuvappiriyaṉ Eḻuttu Ivai cīkāriyam <gap reason="lost" quantity="1" unit="character"></gap> teṉṉavaṉ mūvēṉtavēḷāṉ Eḻuttu Ivai <hi rend="grantha">śrī</hi>mā<hi rend="grantha">hēśva</hi>ra-k kaṇkāṇi koṇṭāṉ Eḻuttu <gap reason="lost" quantity="3" unit="character"></gap> Ivai tēvakaṉmam muṉṉūṟṟuvapaṭṭaṉ Eḻuttu Ivai pālṟāvāyaṉ Eḻuttu <g type="danda">.</g> Ivai Amu<unclear>taṉ</unclear> campaṉtaṉ Eḻuttu
+	</p>
+	      		
       	</div>
       	
       	<div type="apparatus">
@@ -124,8 +123,6 @@
 	</p>
 	
 	
-		
-	
          </div>
           
           <div type="commentary">
@@ -135,7 +132,7 @@
 <div type="bibliography">
 	
 	<p>
-		First edited <bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl> (TAS 6, no. 14), with English translation.
+		First edited <bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl> (TAS 6, no. 14)<!--@ Renato: incorrect reference-->, with English translation.
 	</p>
 	
 	<p>

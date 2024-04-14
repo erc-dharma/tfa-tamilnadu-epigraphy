@@ -83,9 +83,9 @@
         
       <body>
           
-<div type="edition" xml:lang="tam-Latn">
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
              	
-	<ab>		
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">		
 		<hi rend="grantha">svasti śrī</hi>
 	</ab>
 	
@@ -119,7 +119,7 @@
 		Ip-paṭi<unclear>kku Ivai</unclear> Ālāla-cuntara-perumāṉ Eḻuttu
 	</p>
 	<p>
-		Ip-paṭikki<gap unit="character" quantity="5" reason="lost"/>
+		Ip-paṭikki <gap unit="character" quantity="5" reason="lost"/>
 	</p>
 </div>
           
