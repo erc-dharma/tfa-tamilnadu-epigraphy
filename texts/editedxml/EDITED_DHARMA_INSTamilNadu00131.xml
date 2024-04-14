@@ -91,20 +91,19 @@
    <text xml:space="preserve">
 
 <body>
-         
-      	<div type="edition" xml:lang="tam-Latn">
-           
-      	
-      		<ab>
-      			<lb n="1"/><hi rend="grantha"><unclear>svas</unclear>ti śrī</hi>
-      		</ab>
-      		
-      		<p>
-      			<unclear>vi</unclear>ramō<hi rend="grantha">ha</hi>ṉṉāṉa kāṭava
-      			<lb break="no" n="2"/><unclear>r</unclear>āyaṉṉ aḻakiya-nampirāṭṭiyēṉ tiruppa
-      		</p>
-      		
-      		<gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
+	
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+			
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83213">
+		<lb n="1"/><hi rend="grantha"><unclear>svas</unclear>ti śrī</hi>
+	</ab>
+	
+	<p>
+		<unclear>vi</unclear>ramō<hi rend="grantha">ha</hi>ṉṉāṉa kāṭava
+		<lb break="no" n="2"/><unclear>r</unclear>āyaṉṉ aḻakiya-nampirāṭṭiyēṉ tiruppa
+	</p>
+	
+	<gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
                      
       	</div>
          
