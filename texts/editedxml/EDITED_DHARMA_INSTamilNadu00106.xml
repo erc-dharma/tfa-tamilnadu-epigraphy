@@ -165,10 +165,11 @@
       		
       		<p n="10-18">
       			whereas <supplied reason="explanation"><foreign>āka</foreign></supplied>
-      			<l>the eastern boundary ... is to the west of ...,</l>
-      			<l>the southern  boundary ... is to the north of ...,</l>
-      			<l>the western boundary ... is to the west of ...,</l>
-      			<l>the northern boundary ... is to the west of ...,</l>
+      			<list>
+      				<item>the eastern boundary ... is to the west of ...,</item>
+      				<item>the southern  boundary ... is to the north of ...,</item>
+      				<item>the western boundary ... is to the west of ...,</item>
+      				<item>the northern boundary ... is to the west of ...,</item></list>
       			the land included in these four boundaries <supplied reason="subaudible">is</supplied>, according to the rod <supplied reason="explanation"><foreign>kōl-āl</foreign></supplied> <supplied reason="subaudible">named</supplied> <foreign>tiruvulakaḷanta</foreign><note>“the glorious one which has measure the world."</note> <gap reason="ellipsis"/>
       		</p>        		
       		
