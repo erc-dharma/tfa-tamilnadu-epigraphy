@@ -93,7 +93,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
       		
 	<ab>		
-		<supplied reason="lost"><hi rend="grantha"><unclear>svasti śrī</unclear></hi></supplied>
+		<supplied reason="lost"><hi rend="grantha"><supplied reason="undefined">svasti śrī</supplied></hi></supplied>
 		
 	</ab>
 	
@@ -104,8 +104,8 @@
 	<p>
 		
 		taṉu nāyaṟṟu pū<hi rend="grantha">r</hi>vapa<hi rend="grantha">kṣa</hi><supplied reason="undefined">t</supplied>tu nāyaṟṟu kiḻamaiyum <hi rend="grantha">sapta</hi>miyum
-		<lb n="2"/><gap reason="lost" quantity="3" unit="character"/> kōyil Āticaṇṭē<hi rend="grantha">śva</hi>ra-tēvar tēvarkaṉmikaḷōm Ik-kōyil tēvaraṭiyāril Uṭaiyavaḷ-āṉa nāṟpatt’ eṇṇāyira māṇikkam Iṉ-ṉāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār kōyilukku tiruvācura nāya<choice><orig>n</orig><reg>ṉ</reg></choice>āraiyum periya tēvaraiyum n<unclear>ācciyāraiyum</unclear> <gap reason="lost" quantity="7" unit="character"/> <unclear>I</unclear>
-		<lb n="3" break="no"/>ṟ<unclear>ai</unclear>yiliyum ceytu tirukkaṟṟaḷi e<gap reason="lost" quantity="10" unit="character"/> peṟṟimaiyil Ik-kōyil tiruveḻucciyil A<gap reason="lost" quantity="1" unit="character"/> kaṭicaṟkka muṟaiyum tiruvēṭṭaiyil muttaṭaiyum tirumārkaḻi tiruvātirai tiru Ampāvai Eḻuppu-p pāvaiyum <gap reason="lost" quantity="6" unit="character"/>
+		<lb n="2"/><gap reason="lost" quantity="3" unit="character"/> kōyil Āticaṇṭē<hi rend="grantha">śva</hi>ra-tēvar tēvarkaṉmikaḷōm Ik-kōyil tēvaraṭiyāril Uṭaiyavaḷ-āṉa nāṟpatt’ eṇṇāyira māṇikkam Iṉ-ṉāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār kōyilukku tiruvācura nāya<choice><orig>n</orig><reg>ṉ</reg></choice>āraiyum periya tēvaraiyum n<supplied reason="undefined">ācciyāraiyum</supplied> <gap reason="lost" quantity="7" unit="character"/> <supplied reason="undefined">I</supplied>
+		<lb n="3" break="no"/>ṟ<supplied reason="undefined">ai</supplied>yiliyum ceytu tirukkaṟṟaḷi e<gap reason="lost" quantity="10" unit="character"/> peṟṟimaiyil Ik-kōyil tiruveḻucciyil A<gap reason="lost" quantity="1" unit="character"/> kaṭicaṟkka muṟaiyum tiruvēṭṭaiyil muttaṭaiyum tirumārkaḻi tiruvātirai tiru Ampāvai Eḻuppu-p pāvaiyum <gap reason="lost" quantity="6" unit="character"/>
 		<lb n="4"/><gap reason="lost" quantity="3" unit="character"/>vaṟkkatāṟkum Ik-kōyil <gap reason="lost" quantity="6" unit="character"/> tēvar kaṉmikaḷōm
 	</p>
 	
@@ -130,7 +130,7 @@
 	</p>
 	
 	<p>
-		 Ivai Amu<unclear>taṉ</unclear> campaṉtaṉ Eḻuttu<g type="danda">.</g>
+		 Ivai Amu<supplied reason="undefined">taṉ</supplied> campaṉtaṉ Eḻuttu<g type="danda">.</g>
 	</p>
 	
 </div>
