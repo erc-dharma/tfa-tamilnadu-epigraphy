@@ -51,8 +51,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Grants of privileges given to dancing-girls for performing <foreign>tiruveḻucci</foreign> and singing <foreign>Tiruvempāvai</foreign>
-                  </summary>
+                  <summary>Grants of privileges given to dancing-girls for performing <foreign>tiruveḻucci</foreign> and singing <foreign>Tiruvempāvai</foreign>.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -93,7 +92,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
       		
 	<ab>		
-		<supplied reason="lost"><hi rend="grantha"><supplied reason="undefined">svasti śrī</supplied></hi></supplied>
+		<hi rend="grantha"><supplied reason="undefined">svasti śrī</supplied></hi>
 		
 	</ab>
 	
@@ -135,18 +134,18 @@
 	
 </div>
 	
-	<div type="apparatus">
+	<!--<div type="apparatus">
       		
-      		<!--<listApp>
+      		<!-\-<listApp>
       			
 		<app loc="0">
 			<lem>...</lem>
 			<rdg source="bib:..."></rdg>
 		</app>
 		
-	</listApp>-->
+	</listApp>-\->
 	
-</div>
+</div>-->
           
 <div type="translation" source="bib:Patmavati1979_01">
 		
@@ -157,15 +156,19 @@
 	
          </div>
           
-          <div type="commentary">
+          <!--<div type="commentary">
               
-          </div>
+          </div>-->
           
 <div type="bibliography">
 	
-	<p>
-		First edited <bibl><ptr target="bib:Patmavati1979_01"/></bibl> (NK 134), first translated in <bibl><ptr target="bib:Orr2000_01"/></bibl>
-	</p>
+
+		<p>First reported in <bibl><ptr target="bib:ARIE1910-1911"/></bibl> (ARIE/1910-1911/C/1911/94).</p>
+		
+		<p>First edited in <bibl><ptr target="bib:Patmavati1979_01"/></bibl>  (NK 134).</p>
+		
+		<p>First translated in <bibl><ptr target="bib:Orr2000_01"/></bibl>.</p>
+	
 	
 	<p>
 		Digitally encoded here for DHARMA (ERC n° 809994) by Renato Davalos (2020), based on <bibl><ptr target="bib:Patmavati1979_01"/></bibl>.
@@ -180,11 +183,21 @@
 		
 	</listBibl>
 	
-	<!--<listBibl type="secondary">
+	<listBibl type="secondary">
 		
-		<bibl/>
+		<bibl>
+			<ptr target="bib:ARIE1910-1911"/>
+			<citedRange unit="page">38</citedRange>
+			<citedRange unit="appendix">C/1910-1911</citedRange>
+			<citedRange unit="item">94</citedRange>			
+		</bibl>
 		
-	</listBibl>-->
+		<bibl>
+			<ptr target="bib:Orr2000_01"/>
+			<citedRange unit="page">18-19</citedRange>		
+		</bibl>
+		
+	</listBibl>
 	
 </div>
       </body>
