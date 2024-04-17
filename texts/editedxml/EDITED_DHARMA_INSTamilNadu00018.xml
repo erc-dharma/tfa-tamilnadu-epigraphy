@@ -186,7 +186,7 @@
 
 	<p>Reported in <bibl><ptr target="bib:ARIE1910-1911"/></bibl> (ARIE/1910-1911/C/1911/94).</p>	
 	<p>Edited in <bibl><ptr target="bib:Patmavati1979_01"/></bibl> (NK 134).</p>	
-	<p>Translated in <bibl><ptr target="bib:Orr2000_01"/></bibl>.</p>
+	<p>Translated in <bibl><ptr target="bib:Orr2000_01"/><citedRange unit="page">18-19</citedRange></bibl>.</p>
 	<p>Digitally encoded here for DHARMA (ERC n° 809994) by Renato Davalos (2023), based on <bibl><ptr target="bib:Patmavati1979_01"/></bibl>, and translated by Renato Davalos and Emmanuel Francis (2024).
 	</p>
 	
@@ -209,8 +209,7 @@
 		</bibl>
 		
 		<bibl>
-			<ptr target="bib:Orr2000_01"/>
-			<citedRange unit="page">18-19</citedRange>		
+			<ptr target="bib:Orr2000_01"/>	
 		</bibl>
 		
 	</listBibl>
