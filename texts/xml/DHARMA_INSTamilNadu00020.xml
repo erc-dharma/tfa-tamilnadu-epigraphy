@@ -88,17 +88,80 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
          	
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<milestone n="A" unit="column" type="pagelike"/>
 		<lb n="1"/>svasti śrī
 	</ab>
 	
 	<p>
-		v<choice><orig>i</orig><reg>ī</reg></choice>ra<supplied reason="lost">pā</supplied>
+		v<choice><orig>i</orig><reg>ī</reg></choice>ra-<supplied reason="lost">pā</supplied>
 		<lb n="2" break="no"/>ṇṭiyaṉai-t <unclear>ta</unclear>
 		<lb n="3" break="no"/>lai koṇṭa kō
 		<lb n="4"/>p-parakēcari-pa
 		<lb n="5" break="no"/>ṉmakki yāṇṭu
 		<lb n="6"/>Aint-āvatu
-   </p>
+	</p>
+	
+	<p>
+		<lb n="7"/>cōṉāṭṭu kōmā
+		<lb n="8" break="no"/>-viyāpāri kōli
+		<lb n="9" break="no"/>yakuṭaiyāṉ
+		<lb n="10"/>pārttiva-cēkara
+		<lb n="11" break="no"/>-makaṉ tiru-v-a<unclear>ṭikaḷ-ā</unclear>
+		<lb n="12" break="no"/>kiya piriti-rāma-ceṭṭi
+		<lb n="13"/>pal-kuṉ<unclear>·</unclear>ṟa-k-kōṭṭa
+		<lb n="14" break="no"/>ttu vacukūr-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu
+		<lb n="15"/>kāma-p-pullūr 
+		<lb n="16"/><hi rend="grantha">śrī</hi>-kōyil śrī-kā<unclear>m</unclear>ai
+		<lb n="17" break="no"/>-nakkarkku vaitta<surplus>ṉ</surplus>
+		<lb n="18"/>nan=tā-viḷak=ku
+	</p>
+	<p>		
+		Oru viḷa
+		<lb n="19"/>k=ku can=trādit=ta-val E
+		<lb n="20" break="no"/>rippataṟku vaitta
+		<lb n="21"/><hi rend="grantha">bhūmi</hi> 
+		
+		<list><item>pēr-ēri k<choice><orig>i</orig><reg>ī</reg></choice>ḻ ce
+		<lb n="22" break="no"/>ṉṉāya-p-paḷḷat
+		<lb n="23" break="no"/>tu nāvicaṉ-pulattu
+		<lb n="24" break="no"/>k=ku mēṟkum</item>
+		
+		<item>nāṭṭu
+		<lb n="25"/>ceṭṭi-pulattuk=ku
+		<lb n="26"/>vaṭak=kum mēṟkum</item>
+		
+		<item>nā
+		<lb n="27" break="no"/>ṭṭu ṉāṭṭi-pulattuk=ku
+		<lb n="28"/>kiḻak=kum vaṭak=ku</item>
+		
+		<item>nā<gap reason="illegible" quantity="1" unit="character"/><lb n="29" break="no"/><gap reason="illegible" quantity="1" unit="character"/>ṉ-pulattuk=kum
+		<lb n="30"/><unclear>pā</unclear><gap reason="illegible" quantity="3" unit="character"/>ta-vāykkā
+
+		<milestone n="B" unit="column" break="no" type="pagelike"/>
+		<lb n="31"/>luk=ku teṟkum</item></list>
+	</p>
+	<p>
+		<lb n="32"/>In-naṭuvu-p-pa
+		<lb n="33" break="no"/>ṭa nilam mu-k-kā ṉi	
+		<lb n="34" break="no"/>lamum <hi rend="grantha">sabhai</hi>
+		<lb n="35" break="no"/>yārk=kum Iṟai-<hi rend="grantha"><choice><orig>t</orig><reg>d</reg></choice>ra</hi>
+		<lb n="36" break="no"/>vyamum vilai-<hi rend="grantha"><choice><orig>t</orig><reg>d</reg></choice>ra</hi>
+		<lb n="37" break="no"/>vyamum Aṟa-k= kuṭut
+		<lb n="38" break="no"/>tu can=trātitta
+		<lb n="39" break="no"/>-val non<unclear>t</unclear><supplied reason="lost">ā-vi</supplied>
+		<lb n="40" break="no"/>ḷakku Oṉṟum Eri
+		<lb n="41" break="no"/>ppataṟka vaittē<unclear>ṉ</unclear>
+		<lb n="42"/>piritirāma-c ceṭṭi
+		<lb n="43" break="no"/>y-ēṉ
+	</p>
+	<p>		
+		<unclear>I</unclear>-<hi rend="grantha"><unclear>dha</unclear></hi>mma<unclear>m</unclear>
+		<lb n="44"/><hi rend="grantha">rakṣi</hi>kkum pa
+		<lb n="45" break="no"/><hi rend="grantha"><unclear>n</unclear>māheśva</hi>ra-<hi rend="grantha">śrī</hi>-pā
+		<lb n="46" break="no"/>tam <unclear>E</unclear>ṉ talai <unclear>mēla</unclear>
+		<lb n="47" break="no"/>tu <unclear><g type="gomutraFinal">.</g></unclear>
+
+	</p>
 	
 </div>
 
@@ -119,19 +182,41 @@
 	
 	<p n="1">Prosperity! Fortune!</p>
 	
-	<p n="1-6">Fifth year of ...</p>
+	<p n="1-6">Fifth year of the king Parakesarivarman who took the head the heroic Pāṇḍya.</p>
+	
+	<p n="7-18"><supplied reason="subaudible">There is</supplied> a perpetual lamp that
+		Piritirāma Ceṭṭi, alias Tiruvaṭikaḷ, son of Pārttivacēkaraṉ, magnate in Kōliyakkuṭi, a merchant of Komā<note>That is Kōmal, according to ARIE/1938-1939/B/1938-1939/248.</note> in the Cōṇāṭu<note>The same person is mentionned as donor of a lamp in the temple of Kaliyātitta Viṇṇakar Tēvar in another inscription from Kāppalūr (ARIE/1938-1939/B/1938-1939/267).</note>
+		gave
+		for the glorious Kāmainakkar <supplied reason="subaudible">of</supplied> the glorious temple of Kāmappullūr in the Vacukūrnāṭu, <supplied reason="subaudible">itself</supplied> in the the Palkuṉṟakkōṭṭam.
+	</p>
+      		
+	<p n="18-31">The land given for burning a lamp as long as the moon and the sun <supplied reason="subaudible">is as follows</supplied>:
+		<list>
+			<item>...</item>
+			<item>...</item>
+			<item>...</item>
+			<item>...</item>		
+		</list>
+	</p>
+      		
+	<p n="32-43">The land comprised in these <supplied reason="subaudible">boundaries</supplied>
+	...
+	having given to the members of the assembly provisions for taxes and provisions for sale
+	...,
+	I, Piritirāma Ceṭṭi, I have given
+	...</p>
+      		
+	<p n="43-47">The feet of the Paṉmāheśvaras who protect this pious donation are on my head.</p>
       		
 </div>
       	
-<div type="commentary">      		
+<!--<div type="commentary">      	
 	
-	<p><bibl><ptr target="bib:ARIE1938-1939"/></bibl> appears to as two different inscriptions (ARIE/1938-1939/B/1938-1939/247 on a <quote>pillar in the <foreign>maṇḍapa</foreign> in front of the central shrine</quote> and ARIE/1938-1939/B/1938-1939/248 on <quote>another pillar in the same place</quote>) what is, in fact, a single inscription, spread over two different pillars.</p>
-	
-</div>
+</div>-->
       	
 <div type="bibliography">
 	
-	<p>Reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1938-1939/B/1938-1939/247-248).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1938-1939/B/1938-1939/248).</p>
 	<p>Edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on autopsy and photos (Emmanuel Francis, 2019).</p>
 	
 	<!--<listBibl type="primary">
@@ -144,7 +229,7 @@
 			<ptr target="bib:ARIE1938-1939"/>
 			<citedRange unit="page">35</citedRange>
 			<citedRange unit="appendix">B/1938-1939</citedRange>
-			<citedRange unit="item">247-248</citedRange>
+			<citedRange unit="item">248</citedRange>
 		</bibl>              
       
    </listBibl>
