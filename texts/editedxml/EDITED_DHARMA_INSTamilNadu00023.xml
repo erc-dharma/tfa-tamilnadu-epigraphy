@@ -11,15 +11,15 @@
             <title>Tiruvaṇṇāmalai, Aruṇācaleśvara temple?, Vīrappratāpa śrī-Vīrakṛṣṇadeva Mahārāja, no date given</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
-                  <surname>Francis</surname>
+               <persName ref="part:reda">
+                  <forename>Renato</forename>
+                  <surname>Dávalos</surname>
                </persName>
             </respStmt>
             <respStmt>
                <resp>intellectual authorship of edition</resp>
-               <persName ref="part:emfr">
-                  <forename>Emmanuel</forename>
+               <persName ref="part:reda">
+                  <forename>Renato</forename>
                   <surname>Francis</surname>
                </persName>
             </respStmt>
@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris, CEIAS</pubPlace>
-            <idno type="filename">DHARMA_INSTamilNadu00021</idno>
+            <idno type="filename">DHARMA_INSTamilNadu00023</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,10 +47,11 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Lamp donation.</summary>
+                  <summary>Endowment for Vasanta festival for the performance of various services to sixty dancing girls, ten reciters (<foreign>otuvār</foreign>) of holy hymns (<foreign>tiruppāṭṭu</foreign>), two brahmins for the <foreign>adhyayana</foreign>, among others.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
+                     <p>The transliteration makes no distinction between Tamil and Grantha letters. To be completed with the pictures provided by the EFEO.</p>
                      <p/>
                   </handDesc>
                </physDesc>
@@ -82,37 +83,35 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:emfr" when="2024-04-16" status="draft">Creation of the file</change>
+         <change who="part:reda" when="2024-04-18" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
-      <body>
-
+<body>
+		
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
-         	
+	
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-		<milestone n="A" unit="column" type="pagelike"/>
-		<lb n="1"/>svasti śrī
+		<lb n="1"/><g type="pc"/>śubham as<supplied reason="undefined">tu</supplied> svasti
 	</ab>
 	
 	<p>
-		<lb n="2"/>kaliyācca-vi
-		<lb n="3" break="no"/>ṇṇakarē kā
-		<lb n="4" break="no"/>mai-nakkaṉ kō
-		<lb n="5"/>yi<unclear>ṟ</unclear> pol<unclear>iyā</unclear>  
-		<lb n="6"/><unclear>r</unclear> pu <gap reason="illegible" quantity="3" unit="character" precision="low"/>	<unclear>mpu</unclear>	
-		<lb n="7"/>l <gap reason="illegible" quantity="3" unit="character" precision="low"/>
-		
-		<milestone n="B" unit="column" type="pagelike"/>
-		<lb n="8"/>ṭaippaṉ
-		<lb n="9"/>na<supplied reason="omitted">n</supplied>tā-viḷa
-		<lb n="10" break="no"/>kku vait
-		<lb n="11" break="no"/>t <gap reason="lost" extent="unknown" unit="character"/>
-		<gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
+		śrīmaṉ mahā Irācātirāca Irācaparameśvara mūvarāya-kaṇṭan Ariya Irāyavipāṭa Aṭṭaikku Irāya-maṉōbhayaṅkara pāṣaikkutta-p puvarāyar-kaṇṭa pūrvva-dakṣṇa-paccima-samuttirācura yavarācciya-sttābbhaṉācāriya gajapati-vibhāṭa śrī-vīrappratāpa-śrī-vīra-kiruṣṇatēva-mahārāyar vicaiyanakarattilē iruntu pūrvva-tikku vicai<supplied reason="omitted">ya</supplied> y-āttirai Āka Eḻuntaruḷi Utaiyakiri-turggam mutalē kaikkoṇṭu Irāvuttarāya-mahāpāttiṟattaiyum piṭittu-k-koṇṭu Attaṅki viṉikoṇṭai vellaṅkoṇṭai nākāccunikoṇṭai taṅ<supplied reason="undefined">koṭu</supplied> 
+		<lb n="2"/>ketavāram Itu mutalāṉa kiri-turkkaṅkaḷ sttala-turkkaṅkaḷ Ēkatāṭi Āka kaikkoṇṭu koṇṭavīṭṭu-turkattil mēlē viṭṭu Ālakkai piṭittu Anta-t turkattaiyum kaikkoṇṭu pratāparuttira kecapatirāyar kumārar vīrappattiṟarāyaṉaiyum kumāra-ampīrapāttiṟaṉ kumāraṉ nāraṉ<supplied reason="undefined">har</supplied>itevu Irāccūra malluvakāṉṉaṉ uttaṇṭa-kāṉaṉ caṉṉiyāla kacavā-pāttiraṉ <supplied reason="undefined">pū</supplied>cappāṭi Irācci Irācaṉ śrīnātarācaṉ Ilakṣmi<supplied reason="undefined">ma</supplied><supplied reason="omitted">pa</supplied>ti Irācaṉ paccima-vāla cantira-mahāpāttiraṉ Ivarkaḷ mutalāṉa pāttirar cāvanta<supplied reason="omitted">r</supplied> Āṉa maṉṉiyar
+		<lb n="3"/>kaḷaiyum cīvakkiṟākam āka piṭittu-k-koṇṭu Avarkaḷukku Apaiyatāṉam koṭuttu taraṇikkoṭṭai Amarecurattil tulāpuruṣa-mahātāṉam paṇṇi tirumpi vicaiyanakarattukku Eḻuntaruḷicc<supplied reason="omitted">ā</supplied>mpr<supplied reason="undefined">ā</supplied>jjiyam paṇṇikkoṇṭu piṉṉaiyum kaliṅkatēcam tikkuvicaiyam Āka de<supplied reason="undefined">be</supplied>cavāṭaikku Eḻuntaruḷi koṇṭa-p-paḷḷi-t tuṟkamum kaikkoṇṭu Anta tuṟgattiṉ mēlē Irunta prakarācaṉ-ciraccantira-mahāpāttiraṉ poṭajaṉa-mah<supplied reason="omitted">ā</supplied> pāttiraṉ vicili-kāṉāṉ Ivarkaḷ mutal Āṉavarkaḷaiyum cīvakiṟakam Āka piṭittu apaiyattāṉamum
+		<lb n="4"/>koṭuttu Antakiri Uṇṭānkoṇṭa Uṟuḷakoṇṭa Aruvappaḷḷi callippaḷḷi kantiko<supplied reason="omitted">ṇ</supplied>ṭai kappaluvāyukoṇṭai kampameṭṭu kaṉakakiri caṅkakiri Itu mutal Āṉa teluṅkaraṇaiya-t tuṟkam Ekatāṭi Āka kaikkoṇṭu ciṅkāttiri poṭṭunūṟku Eḻuntaruḷi Aṅkē ceyattampam nāṭṭi makā-tānam ceytu tirumpi 
+	</p>
+	<p>"/&gt;Irācamayēntiravarattukku Eḻuntaruḷi tammuṭa teviyār ciṉṉātevi-ammaṉ tirumalaitēvi-amman Ivarkaḷ kaiyilē makātāṉam paṇṇivittu vica<supplied reason="omitted">iya</supplied>ṉakarattukku Eḻuntaruḷi svasti śrī ceyāpbhyutaiya cālivākaṉa śaka-varuṣam 
+		<lb n="5"/>1438-ṉ mēl cellā niṉṟa tātu-samvatsarattu makara-nāyaṟṟu pūṟuva-pakṣattu tiṟaiyotēciyum comvārattil nāḷ tiruvaṇṇāmalaikku Eḻuntaruḷi Uṭaiyār tiruvaṇṇāmalai Uṭaiya nayiṉāraiyum nācciyār Uṇṇāmulai Ammaiyai<supplied reason="undefined">yu</supplied>m teṇṭan paṇṇi Uṭaiyavaṟku māṇikka patakkam oṉṟu nākāparaṇam oṉṟu poṉṉā mālai vākupuri Uttāriyam piṟavāḷai Intiravimāṉam poṉṉa-k keṇṇtikai veḷḷi-vintikai  tirumañcaṉam Eṭukka veḷḷi-k kuṭam Ittaṉaiyum camaittu tirṟicūlattukku poṉṉum pūci patinoru nilai kōpuram Āyirakkāl maṇṇtapam Itukkum vasantaṉ teṟ<supplied reason="undefined">pai-t tiru</supplied>nālukku ceyvitta tirukkuḷamum Itu
+		<lb n="6" break="no"/>kku taṇṇīr vara takkatāka veṭṭiṉa tirumalaitēvi-ammaṉ-camuttiram Eḻām tirunāḷ maṇṭapam makara-caṅkiṟānti-maṇṭapam viṉāyakan tēr tiruvīti Ittaṉaiyum kaṭṭivittu vāṇavataraiyaṉ kōpuravācal katavu kāl paṭi Uttamacōḻaṉ tiruvācal katavu kāl mēlpaṭi mēl-palakaṇi Uṇṇāmulai nācciyār kōyil caṭṭaipperu perumāḷ kōyilukku mēṟkuvācal katavu katavu kāl veṅkala-p-paṭi vācal katavu katavu kāl tūpi Ittaṉaiyum poṉ-pūci keṟpakiṟakavācal muṉmukapattiṟam kuṟaṭu kaṭṭi mēl kampam niṟuti koṭunkai Iṭṭu mēl poṉpūcivittu maṭappaḷimuṉ veṭṭivitta Ārāamuta kiṇaṟu 
+	</p>
+	<p>
+		<gap quantity="4" unit="character" reason="undefined"/> yavaṟku pañcāmiṟutam Apicēkam nāḷ
+		<lb n="7"/>Oṉṟukku Aruci Aṟukalam nēy paṭi muṉṟu vella<supplied reason="omitted">m</supplied> palam oṉpatum payaṟu pa<supplied reason="undefined">la</supplied>m nālu Uppu paṭi Oṉṟu miḷaku paṭi kāl cantaṉam kaḻañcu muppattu-oṉṟu karpūram kaḻañcarai taṭṭu puḻuku kaḻañcu Arai Inta cantikku viṭṭa tēvaṭiyār pēr Aṟupatu Atukku takka meḷam tirumañcaṉam Eṭuppār pēr pattu tiruppāṭṭu Otuvār pēr pattu Attiyana pirāmaṇar Iraṇṭu pallakku cervaikku Attiyanam Ōtum pēr Iraṇṭu
 	</p>
 	
-</div>
-
+		</div>
+		
 <!--<div type="apparatus">
 	
 	<listApp>
@@ -128,16 +127,10 @@
       	
 <div type="translation" resp="part:emfr">
 	
-	<p n="1">Prosperity! Fortune!</p>
-	
-	<p n="2-11">In the the Kaliyāccaviṇṇakaram<note>That is, the Viṣṇu temple of Kaliyāccaṉ. The temple of Kaliyātitta Viṇṇakar Tēvar is mentionned in another inscription from Kāppalūr (ARIE/1938-1939/B/1938-1939/267)</note>,
-		<gap reason="ellipsis"/> <supplied reason="subaudible">of</supplied> the temple of Kāmainakkaṉ 
-		...
-		<gap reason="lost"/>ppaṉ
-		gave 
-		a perpetual lamp
-		<gap reason="lost"/>
-	</p>
+	<p n="1-4">Let there be auspiciousness! Hail! Śrī-Vīrapratāpa -śrī-Vīra-Kiruṣṇatē-vamahārāyar, who was an illustrious <foreign>mahā-irācātirāca</foreign>, <foreign>irācaparameśvara</foreign>, the enemy of the three kings, who destroyed the enemy kings, who caused fear in the minds of the kings of the eight directions, who punished the kings who disobeyed his orders, who was the ruler over the oceans in the east, the south and the west, who was the preceptor for establishing the kingdom of Yava and the vanquisher of Gajapati, started from Vicaiyanakara on his conquest of the regions in the east. First, he conquered the fort of Utaiyakiri, and then he captured Irāvuttarāyamahāpāttira. Afterwards he captured, at one bound, the hill forts and land forts like those of Attaṅki, Viṉikoṇṭai, Vellaṅkoṇṭai, Nākāccuṉikoṇṭai, Teṅ<supplied reason="undefined">koṭu</supplied>, Kētavāram, and other forts. Then he took the fort atop the hill at Koṇṭa-vīṭu and captured the hill also. Then he captured alive Vīrappattirarāyaṉ, the son of Prātāparuttira Kecapatirāyar, Nāruṉi<supplied reason="undefined">hari</supplied>tēvu, the son of Kumāra-Ampīra-pāttiṟaṉ, Malluva-kāṉaṉ of Rāccūr <supplied reason="explanation">Raichur</supplied>, Uttaṇṭa-kāṉaṉ, Canniyāl Kacavā,pāttiraṉ, Śrīnāta-rācaṉ, the king of the Pūccappāṭi kingdom, Ilakṣmipati Irācaṉ, Paccima-Vālacantira-mahāpāttirahn and other <foreign>cāmantas</foreign> of this category. He gave them protetion from fear. Then he performed the <foreign>tulāpuruṣa-mahātāṉa</foreign> in the temple of Amarēcura at Taraṇikkoṭṭai. He then came back to Vicaiyanakara and ruled. Again he started on the conquest of the Kaliṅga country. On the way he arrived at De(Be?)cavāṭai. Then he took the fort at Koṇṭapaḷḷi and captured alive Prakarācaṉ-Ciraccantira-mahāpāttiraṉ who was in that fort, Pōṭajaṉa-mahāpāttiraṉ, Vicilikkāṉaṉ and others. He gave them protection from fear. Then he catpured at one bound the forts at Antakiri, Uṇṭākoṇṭa, Uṟuḷakoṇṭa, Aruvappaḷḷi, Callippaḷḷi, Kantikoṇṭai, Kappalavāyu-koṇṭai, Kampameṭṭu, Kanakakiri, Caṅkarakiri and others of the Teluṅkaraṇaiya. Then he arrived at Ciṅkāttiri Poṭṭunūṟu where he erected a victory pillar and performed the <foreign>makātāṉa</foreign> <supplied reason="explanation">great gift</supplied>. </p>
+	<p n="4-6">Then he returnred to Irācamayēntiravaram where he caused his queens Ciṉṉātēvi-ammaṉ and Tirumalaitēvi-amman to make the <foreign>makā-tāṉa</foreign>. Afterwards he came back to Vicaiyanakaram. 
+Then on Monday the 13th day in the bright fortnight of the month of Makara of the year Tātu in the expired; victorious and wonderful Cālivāhaṉa Śaka year 1438<note>January 5, 1517</note>, he went to Tiruvaṇṇāmalai where he worshipped the god Tiruvaṇṇāmalai-uṭaiya Nayiṉār and the goddess Uṇṇāmulai nācciyār. Then he caused the following to be made to the god: a necklace made of emerald, a <foreign>nākāparaṇa</foreign>, a garland made of gold, a <foreign>vākapuri</foreign>, an upper cloth, an <foreign>intira-vimānam</foreign> made of coral, a golden <foreign>keṇṭikai</foreign>, a silver <foreign>vintikai</foreign>, and one silver pot for carrying water for bathing. Then he caused the gilding of the trident, the building of the 11-storeyed <foreign>kōpura</foreign> and the 1000-pillared <foreign>maṇṭapa</foreign>, a tank for the floating festival during the period of Vasanta (i.e., summer), in front of the above <foreign>maṇṭapa</foreign>, the digging up of a tank called Tirumalaitēvi-ammaṉ Camuttiram for supplying water to the above tank, the building of the <foreign>maṇṭapa</foreign> for the seventh-day festival, and of the <foreign>maṇṭapa</foreign> for conducting the festival of Makara-caṅkirānti, and the making of a car for Vināyaka land constructing a street. Then he caused the gilding of the door, doorway and the sill of the <foreign>kōpura</foreign> entrance of the enclosure called the Vāṇavataraiyaṉ-tiruvācal; the door, door-jamb, upper sill, upper window of the Uttamacōḻaṉ-tiruvācal; and also door, door-jamb, of the west gate of the Caṭṭaperuperumāḷkōyil in the temple of Uṇṇāmulainācciyār and gilding its sill made of bronze, door, door-jamb and a <foreign>tūpi</foreign>. Then he built the platform in front of the entryway of the <foreign>sanctum sanctorum</foreign>. On it he erected a pillar with cornice which was gilded. Then he dug up a well called Ārā-amuta in front of the kitchen. </p>
+	<p n="6-7">Then he endowed for the purpose of food offering and other services on the occasion of bathing the deity daily with <foreign>pañcāmirutam</foreign> <supplied reason="explanation">a mixture containing five articles</supplied>, six <foreign>kalam</foreign> of rice, three measures of ghee, nine <foreign>palam</foreign> of jaggery, four <foreign>palam</foreign> of green gram, one measure of salt, quarter measure of pepper, 31 <foreign>kalañcu</foreign> of sandal paste, 1 1/2 <foreign>kaḻañcu</foreign> of civet. To attend at the time of this service sixty dancing girls were engaged together with the necessary <foreign>mēḷam</foreign> <supplied reason="explanation">appurtenances</supplied>, ten persons for the purpose of carrying water for the bathing of the deity, ten persons for the recitation of the <foreign>tiruppāṭṭu</foreign> <supplied reason="explanation">i.e., the Dēvāram hymns</supplied>, two brahmins for the <foreign>adhyayana</foreign> <foreign>i.e., reciting the Vēdas</foreign> and two persons for the <foreign>adhyayana</foreign> at the time of the procession of the deity in the palanquin...</p>
       		
 </div>
       	
@@ -147,20 +140,17 @@
       	
 <div type="bibliography">
 	
-	<p>Reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1938-1939/B/1938-1939/249).</p>
-	<p>Edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on autopsy and photos (Emmanuel Francis, 2019).</p>
+	<p>Reported, edited and translated in <bibl><ptr target="bib:Srinivasan+Reiniche1990_01"/></bibl> (unpublished estampages, EO 247-278).</p>
+	<p>Encoded here for DHARMA (ERC n° 809994) by Renato Dávalos (2024).</p>
 	
-	<!--<listBibl type="primary">
-		
-	</listBibl>-->
+
 	
-	<listBibl type="secondary">
+	<listBibl type="primary">
 		
 		<bibl>
-			<ptr target="bib:ARIE1938-1939"/>
-			<citedRange unit="page">36</citedRange>
-			<citedRange unit="appendix">B/1938-1939</citedRange>
-			<citedRange unit="item">249</citedRange>
+			<ptr target="bib:Srinivasan+Reiniche1990_01"/>
+			<citedRange unit="page">482-485</citedRange>
+			<citedRange unit="item">389</citedRange>
 		</bibl>              
       
    </listBibl>
@@ -170,3 +160,4 @@
       </body>
   </text>
 </TEI>
+<!--METADATA Second prākāra, north wall (outside), above. Incomplete. 1517 -->
