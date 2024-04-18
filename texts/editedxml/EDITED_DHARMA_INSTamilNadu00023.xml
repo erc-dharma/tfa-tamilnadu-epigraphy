@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tiruvaṇṇāmalai, Aruṇācaleśvara temple?, Vīrappratāpa śrī-Vīrakṛṣṇadeva Mahārāja, no date given</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris, CEIAS</pubPlace>
+            <idno type="filename">DHARMA_INSTamilNadu00021</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary>Lamp donation.</summary>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p/>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The project DHARMA has received funding from the European Research Council (ERC)
+                        under the European Union’s Horizon 2020 research and innovation programme (grant
+                        agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                            ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:emfr" when="2024-04-16" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+      <body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+         	
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		<milestone n="A" unit="column" type="pagelike"/>
+		<lb n="1"/>svasti śrī
+	</ab>
+	
+	<p>
+		<lb n="2"/>kaliyācca-vi
+		<lb n="3" break="no"/>ṇṇakarē kā
+		<lb n="4" break="no"/>mai-nakkaṉ kō
+		<lb n="5"/>yi<unclear>ṟ</unclear> pol<unclear>iyā</unclear>  
+		<lb n="6"/><unclear>r</unclear> pu <gap reason="illegible" quantity="3" unit="character" precision="low"/>	<unclear>mpu</unclear>	
+		<lb n="7"/>l <gap reason="illegible" quantity="3" unit="character" precision="low"/>
+		
+		<milestone n="B" unit="column" type="pagelike"/>
+		<lb n="8"/>ṭaippaṉ
+		<lb n="9"/>na<supplied reason="omitted">n</supplied>tā-viḷa
+		<lb n="10" break="no"/>kku vait
+		<lb n="11" break="no"/>t <gap reason="lost" extent="unknown" unit="character"/>
+		<gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
+	</p>
+	
+</div>
+
+<!--<div type="apparatus">
+	
+	<listApp>
+		
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:Isvaran2009_01">...</rdg>
+		</app>
+		
+	</listApp>
+      		
+</div>-->
+      	
+<div type="translation" resp="part:emfr">
+	
+	<p n="1">Prosperity! Fortune!</p>
+	
+	<p n="2-11">In the the Kaliyāccaviṇṇakaram<note>That is, the Viṣṇu temple of Kaliyāccaṉ. The temple of Kaliyātitta Viṇṇakar Tēvar is mentionned in another inscription from Kāppalūr (ARIE/1938-1939/B/1938-1939/267)</note>,
+		<gap reason="ellipsis"/> <supplied reason="subaudible">of</supplied> the temple of Kāmainakkaṉ 
+		...
+		<gap reason="lost"/>ppaṉ
+		gave 
+		a perpetual lamp
+		<gap reason="lost"/>
+	</p>
+      		
+</div>
+      	
+<!--<div type="commentary">
+	
+</div>-->
+      	
+<div type="bibliography">
+	
+	<p>Reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1938-1939/B/1938-1939/249).</p>
+	<p>Edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on autopsy and photos (Emmanuel Francis, 2019).</p>
+	
+	<!--<listBibl type="primary">
+		
+	</listBibl>-->
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1938-1939"/>
+			<citedRange unit="page">36</citedRange>
+			<citedRange unit="appendix">B/1938-1939</citedRange>
+			<citedRange unit="item">249</citedRange>
+		</bibl>              
+      
+   </listBibl>
+   
+</div>
+
+      </body>
+  </text>
+</TEI>
