@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Donation of goats for perpetual lamps.</summary>
+                  <summary>Donation of goats for upkeeping a perpetual lamp and of land for a flower garden.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -96,30 +96,42 @@
 	</ab>
 	
 	<lg n="1" met="āciriyappā">
-		<l n="1">tiru maṇṇi vaḷara Iru-nilamaṭan=taiyum</l>
+		<l n="1">tiru maṇṇi vaḷara Iru-nila-maṭan=taiyum</l>
 		<l n="2">pōr-ceya-p pāvai<lb n="2" break="no"/>yum cīr-t-taṉi-c celviyum</l>
 		<l n="3">taṉ perun= tēviyar āki Iṉpuṟa</l>
 		<l n="4">neṭutiṉil Ūḻiyuḷ <lb n="3"/> Iṭa-tuṟai nāṭum</l>
-		<l n="5">uṭarvaṉa vēli-p paṭar vaṉa-vāciyum</l>
+		<l n="5">tuṭarvaṉa vēli-p paṭar vaṉa-vāciyum</l>
 		<l n="6">cuḷḷi-c cūḻ-matiṭ koḷḷi<lb n="4" break="no"/>-p-pākkaiyum</l>
+		<l n="7">...</l>
 		
-		<l n="00"><milestone n="B" unit="column" type="pagelike"/>
+		<l n="65"><milestone n="B" unit="column" type="pagelike"/>
 		<lb n="1=31"/>tēṉa-k= ka<choice><sic>vā</sic><corr>la</corr></choice>rpoḻil mānak=ka vāramun=</l>
-		<l n="00">toṭukaṭaṟ kāvaṟ kaṭumuraṭ kaṭāramu</l>
-		<l n="00">mā<lb n="2=32"/>-p-poru taṇṭāṟ koṇṭa</l>
+		<l n="66">toṭukaṭaṟ kāvaṟ kaṭumuraṭ kaṭāramu</l>
+		<l n="67">mā<lb n="2=32" break="no"/>-p-poru taṇṭāṟ koṇṭa</l>
 		</lg>
 	<p>
 		kō-p-parakēcari-<hi rend="grantha">panma</hi>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Uṭaiyār <hi rend="grantha">śrī-rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi> 
-		<lb n="3=33" break="no"/>-cōḻa-<hi rend="grantha">de</hi>vark=ku yāṇṭu <g type="numeral">10</g> <unclear>āḷ</unclear>-Āvatu
+		<lb n="3=33" break="no"/>-cōḻa-<hi rend="grantha">de</hi>vark=ku yāṇṭu <g type="numeral">10</g> <gap reason="illegible" quantity="2" unit="character"/><!--update-->-Āvatu
 	</p>
 	
 	<p>
 		<hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻa-maṇṭalattu pa
-		<lb n="4=34" break="no"/>ṅkala-nāṭu kāma-p-pullūr-āṉa <hi rend="grantha">rāja</hi>-cūḷāmaṇi-catur<hi rend="grantha">vve</hi>ti-maṅkala
+		<lb n="4=34" break="no"/>ṅkala-nāṭṭu kāma-p-pullūr-āṉa rā<hi rend="grantha">ja</hi>-cūḷāmaṇi-catur<hi rend="grantha">vve</hi>ti-maṅkala
 		<lb n="5=35" break="no"/>ttu Uṭaiyār <hi rend="grantha">śrī</hi>-kayilāyam uṭaiya tiru-k=-kāmai-nak=kar kōyilil <hi rend="grantha">dakṣi</hi>
-		<lb n="6=36" break="no"/>ṇā-m<choice><orig>u</orig><reg>ū</reg></choice>rttikaḷuk=ku <hi rend="grantha">se</hi>nāpati-<hi rend="grantha">rājarāja-brahma</hi>-mā-rāyar kūli-c-cēva
-		<lb n="7=37" break="no"/>kaṉ cēn=taṉ kumaraṉ vaiyyapitta tiru-nan=tā-viḷak=ku Oṉṟuk-ku vaitta
+		<lb n="6=36" break="no"/>ṇā-m<choice><orig>u</orig><reg>ū</reg></choice>rttikaḷuk=ku <hi rend="grantha">se</hi>nāpati-ra<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja-brahma</hi>-mā-rāyar kūli-c-cēva
+		<lb n="7=37" break="no"/>kaṉ cēn=taṉ kumaraṉ vaiyyapitta tiru-nan=tā-viḷak=ku Oṉṟuk=ku vaitta
 		<lb n="8=38"/>Āṭu toṇṇūṟu
+	</p>
+	
+	<p>
+		Ivv-āṭu toṇṇūṟuṅ kai-k=-koṇṭu <hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rā</hi>t=tita
+		<lb n="9=39" break="no"/>-<unclear>vaṟ</unclear> tiru-nan=tā-viḷuk=ku Oṉrum Erippat’ āṉōm
+	</p>
+	<p>		
+		Iv-vūr <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇar
+		<lb n="10=40"/><hi rend="grantha">bhā</hi>rā<hi rend="grantha">dvāja</hi>-nārāyaṇa-p-paṭṭaṇum Ivaṉ ta<supplied reason="omitted">m</supplied>pimārum uḷḷiṭṭa <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇar-ō
+		<lb n="11=41" break="no"/>m Irā<hi rend="grantha">ja</hi>-cūḷāmaṇi-c-caruppēti-maṅkalattu <hi rend="grantha">sa</hi>tī<hi rend="grantha">ha</hi>-y-ōm Eṅkaḷ-ūr
+		<lb n="12=42"/><hi rend="grantha">śrī</hi>-kayilāyam uṭai<unclear>ya</unclear> tiruk=kāmai-nak=kark=ku tiru-nan=ta-vāṉam-āka nilam āvatu
 	</p>
 		
 	
@@ -142,10 +154,16 @@
 	
 	<p n="1">Prosperity! Fortune!</p>
 	
-	<p n="33-34">... year of the glorious Rājendra Cōḻa, the Lord, <hi rend="italic">alias</hi> the king Parakesarivarman,</p>
+	<p n="32-33">... year of the glorious Rājendra Cōḻa, the Lord, <hi rend="italic">alias</hi> the king Parakesarivarman,</p>
 	
 	<p n="2-33">who, ... [<foreign>meykkīrtti</foreign> of Rājendra I Cōḻa].</p>
-      		
+	
+	<p n="33-38">...</p>
+		
+	<p n="38-39">...</p>
+		
+	<p n="39-42">...</p>
+	
 </div>
       	
 <!--<div type="commentary">      		
