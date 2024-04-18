@@ -51,7 +51,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>Tamil <foreign>ra</foreign> and medial <foreign>ā</foreign> distinguished, the former having a more pronounced hook, left-oriented, on top of the vertical stroke.</p>
+                     <p/>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -102,10 +102,17 @@
 		<l n="4">neṭutiṉil Ūḻiyuḷ <lb n="3"/> Iṭa-tuṟai nāṭum</l>
 		<l n="5">tuṭarvaṉa vēli-p paṭar vaṉa-vāciyum</l>
 		<l n="6">cuḷḷi-c cūḻ-matiṭ koḷḷi<lb n="4" break="no"/>-p-pākkaiyum</l>
-		<l n="7">...</l>
+		<l n="8">naṇṇaṟk’ arumuraṇ maṇṇai-k=-kaṭak=kamum</l>		
+		<l n="9">poru-kaṭal īḻa<supplied reason="omitted">t</supplied>t’ araiyar ta<supplied reason="subaudible">m</supplied> muṭiyu<lb n="5" break="no"/>m</l>
+		<l n="10">āṅkavar tēviyar ōṅkeḻil muṭiyu<supplied reason="subaudible">m</supplied></l>
+		<l n="11">muṉṉavar pak=kal teṉṉavar vaitta</l>
+		<l n="12">cun<lb n="6" break="no"/>tara-muṭiyum intiraṉ āramun=</l>
+		<l n="13">teṇṭirai Īḻa-maṇṭala<supplied reason="subaudible">m</supplied> muḻuvatum</l>
+		<l n="14">eṟi-paṭai-k kēraḷar muṟaimaiyiṟ <lb n="7" break="no"/> cūṭuṅ</l>
 		
-		<l n="65"><milestone n="B" unit="column" type="pagelike"/>
-		<lb n="1=31"/>tēṉa-k= ka<choice><sic>vā</sic><corr>la</corr></choice>rpoḻil mānak=ka vāramun=</l>
+		<l n="14-64">...</l>
+		
+		<l n="65"><milestone n="B" unit="column" type="pagelike"/><lb n="1=31"/>tēṉa-k= ka<choice><sic>vā</sic><corr>la</corr></choice>rpoḻil mānak=ka vāramun=</l>
 		<l n="66">toṭukaṭaṟ kāvaṟ kaṭumuraṭ kaṭāramu</l>
 		<l n="67">mā<lb n="2=32" break="no"/>-p-poru taṇṭāṟ koṇṭa</l>
 		</lg>
@@ -142,9 +149,33 @@
 		<lb n="16=46"/>tiru-nan=tavāṉam eṉṟu tiru-nāmañ cārtti-k= kuṭutta kuḻi mu-ṉ-ṉūṟṟu mu-p-pa
 		<lb n="17=47"/>tt-aiñcu-k= kuḻi mu-ṉ-ṉūṟṟu muppatt-aiñcu kuḻiyun= tiru-nan=ta-vāṉam-ā<choice><sic>k=</sic><corr>ka</corr></choice> kuṭu
 		<lb n="18=48"/>ttōm <hi rend="grantha">sa<supplied reason="lost">bhai</supplied></hi>yōm
-
 	</p>
-		
+	
+	<p>
+		<hi rend="grantha">dakṣiṇā</hi>-m<choice><orig>u</orig><reg>ū</reg></choice>rttikaḷuk=ku muṉṟu <hi rend="grantha">sa</hi>n=tiyum <hi rend="grantha">A<unclear>r</unclear>c<unclear>ca</unclear></hi>
+		<lb n="19=49" break="no"/>ṉaik=ku U<unclear>ṭai</unclear> <gap reason="lost" quantity="2" unit="character"/> <unclear>y</unclear>utu nā-ṉāḻi Ariciyāl tiru-v-amurtuṅ kaṟi-y-amut’ oṉṟu ne
+		<lb n="20=50" break="no"/><supplied reason="lost">y</supplied>-amut’ iru <gap reason="lost" quantity="3" unit="character"/> yun= tayir-amut’ uriyum aṭaik=kāy-amut’ iraṇṭum ilai-y-amutu nālu
+		<lb n="21=51" break="no"/>k=ku vaitta-<supplied reason="lost">k kuṭu</supplied>ttō<supplied reason="subaudible">m</supplied>
+	</p>
+	<p>
+		mu-k=-kuṉṟattu <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">j<unclear>ā</unclear></hi>r-vatik=ku mēṟku
+		koṟṟaṉ vā<supplied reason="omitted">y</supplied>	
+		<lb n="22=52" break="no"/><unclear>k=</unclear>kāluk=ku va<supplied reason="lost">ṭa</supplied>k=k<unclear>u</unclear>
+		<gap reason="lost" quantity="2" unit="character"/> kaṇṇāṟṟ’ āṟāñ caturattu cel kā nilaṅkālil kuṭi-p poki
+		<lb n="23=52"/>Iṟai kiṭan=ta nilam <gap reason="lost" quantity="2" unit="character"/> <unclear>k=k’ aṭaiya</unclear> Iraṇṭu mā nīkki mērk’ aṭaiya muṉṟu māvil <unclear>cu</unclear>
+		<lb n="24=53" break="no"/>k<supplied reason="lost">k</supplied>ēṇi-<unclear>t</unclear> tēvaṟk=ku vaṭak=k’ aṭaiya Oru mā nī<unclear>k=k</unclear>i Itaṉ ōṭum aṭaiya nilam Iraṇṭu mā<unclear>vi</unclear>
+		<lb n="25=54" break="no"/>l kuḻi Āyi<unclear>ra</unclear><supplied reason="lost">t</supplied>t’ iru-pattu nālum po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iru-kañlañcum vaittōm <hi rend="grantha">sa<unclear>bhai</unclear></hi>
+		<lb n="26=55" break="no"/>yōm
+	</p>
+	<p>		
+		Iṉ-ṉ<unclear>i</unclear>lamum ip-poṉṉuṅ koṇṭu Iṉ-ṉivan=tam a<hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta
+		<lb n="27=56" break="no"/>-val <hi rend="grantha">sa</hi>mmarta-p-paṭi <unclear>ce</unclear>lutta-k= kaṭavār
+	</p>
+	<p>
+		Iv<unclear>v</unclear>-ūr <hi rend="grantha">śi</hi>va-<hi rend="grantha">brahma</hi>ṇar <hi rend="grantha">bhā</hi>ra<hi rend="grantha">dva</hi>
+		<lb n="28=57" break="no"/><hi rend="grantha">j</hi>a-nārāyaṇa-paṭṭaṉum i<unclear>va</unclear>ṉ tampi periyāṉum ik=-kuṭi <unclear>na</unclear>mpiyum uḷḷi
+		<lb n="29=58" break="no"/>ṭṭār
+		Itu<unclear>kku</unclear> <hi rend="grantha">pan-māheśva</hi>ra-ra<hi rend="grantha">kṣai</hi></p>		
 	
 </div>
 
@@ -175,6 +206,16 @@
 		
 	<p n="39-42">...</p>
 	
+	<p n="42-48">...</p>
+	
+	<p n="48-51">...</p>	
+		
+	<p n="51-55">...</p>	
+		
+	<p n="55-56">...</p>
+		
+	<p n="56-58">...</p>	
+	
 </div>
       	
 <!--<div type="commentary">      		
@@ -190,7 +231,7 @@
 	<listBibl type="primary">
 		
 		<bibl n="I">
-			<ptr target="bib:Isvaran2009_01"/>
+			<ptr target="bib:Isvaran2009_01"/><!--Check readings in this edition for the apparatus-->
 		</bibl>
 	</listBibl>
 	
