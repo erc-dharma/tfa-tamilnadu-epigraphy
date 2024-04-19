@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kāppalūr, stele, time of Parakesarivarman Rājendra Cōḻa, year 16</title>
+				<title>Kāppalūr, pillar, time of Parakesarivarman, year 5</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,11 +47,11 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary>Donation of goats for upkeeping a perpetual lamp and of land for a flower garden.</summary>
+			<summary>Lamp donation. <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (p. 35):<quote>Registers a gift of land for a lamp in the temple of Śrīkāmai-Nakkar by the Aiyāraṉ <hi rend="italic">alias</hi> Nūṟṟeṇmak-Kavaraceṭṭi, son of Māyilaṭṭi, a merchant of Periya-aṅkāṭi at Tañcāvūr.</quote></summary>
 		</msContents>
 		<physDesc>
 			<handDesc>
-				<p>Left-oriented hook at the bottom of the stroke of <foreign>ṇ</foreign>, <foreign>r</foreign>, <foreign>ḷ</foreign>, <foreign>ṇ</foreign>.</p>
+				<p/>
 			</handDesc>
 		</physDesc>
 	</msDesc>
@@ -79,151 +79,17 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:emfr" when="2024-04-17" status="draft">Creation of the file</change>
+			<change who="part:emfr" when="2024-04-19" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
       <body>
 
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
-         	
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
-		<milestone n="A" unit="column" type="pagelike"/>
-		<lb n="1"/>svasti śrī
-	</ab>
-	
-	<lg n="1" met="āciriyappā">
-		<l n="1">tiru maṇṇi vaḷara Iru-nila-maṭan=taiyum</l>
-		<l n="2">pōr-ceya-p pāvai<lb n="2" break="no"/>yum cīr-t-taṉi-c celviyum</l>
-		<l n="3">taṉ perun= tēviyar āki Iṉpuṟa</l>
-		<l n="4">neṭutiṉil Ūḻiyuḷ <lb n="3"/> Iṭa-tuṟai nāṭum</l>
-		<l n="5">tuṭarvaṉa vēli-p paṭar vaṉa-vāciyum</l>
-		<l n="6">cuḷḷi-c cūḻ-matiṭ koḷḷi<lb n="4" break="no"/>-p-pākkaiyum</l>
-		<l n="7">naṇṇaṟk’ arumuraṇ maṇṇai-k=-kaṭak=kamum</l>		
-		<l n="8">poru-kaṭal īḻa<supplied reason="omitted">t</supplied>t’ araiyar ta<supplied reason="subaudible">m</supplied> muṭiyu<lb n="5" break="no"/>m</l>
-		<l n="9">āṅkavar tēviyar ōṅkeḻil muṭiyu<supplied reason="subaudible">m</supplied></l>
-		<l n="10">muṉṉavar pak=kal teṉṉavar vaitta</l>
-		<l n="11">cun<lb n="6" break="no"/>tara-muṭiyum intiraṉ āramun=</l>
-		<l n="12">teṇṭirai Īḻa-maṇṭala<supplied reason="subaudible">m</supplied> muḻuvatum</l>
-		<l n="13">eṟi-paṭai-k kēraḷar muṟaimaiyiṟ <lb n="7"/>cūṭuṅ</l>
-		<l n="14">kulataṉam ākiya palarpukaḻ muṭiyum</l>
-		<l n="15">ceṅkatir mālai<supplied reason="omitted">yu</supplied>ṅ caṅkatir vēlai-t</l>
-		<l n="16">tol peru<lb n="8" break="no"/>ṅkāvaṟ pal-paḻan= tīvum</l>
-		<l n="17">ceruviṟ ciṉavil irupatt’ oru kāl</l>
-		<l n="18">araicu kaḷaikaṭṭa paracu-rāmaṉ</l>
-		<l n="19">mēvaru<lb n="9" break="no"/>ñ cān=timat tīvaraṇ karuti</l>
-		<l n="20">y-iruttiya cem-poṟ ṟiru-t-taku muṭiyum</l>
-		<l n="21">payaṅkoṭu paḻimika <unclear>mu</unclear><lb n="10" break="no"/>yaṅkiyil mutukiṭṭ’</l>
-		<l n="22">oḷittacaya ciṅkaṉ aḷapperum pukaḻoṭum</l>
-		<l n="23">pīṭiyil i<choice><orig>l</orig><reg>r</reg></choice>aṭṭa-pāṭi Ēḻ' a<lb n="11" break="no"/>rai</l>
-		<l n="24">y-ilak=kamum nava-n<choice><sic>a</sic><corr>i</corr></choice>ti=-kula-p peru-malaikaḷum</l>
-		<l n="25">vik=kirama-v<choice><orig>i</orig><reg>ī</reg></choice>rar cak=kara<unclear>k=</unclear>-kōṭṭamu<supplied reason="subaudible">m</supplied></l>
-		<l n="26">mutirpaṭa va<unclear>l</unclear><lb n="12" break="no"/>lai matura-maṇṭalamuṅ</l>
-		<l n="27">kāmiṭai vaḷaiya nāmaṇai-k kōṇa<choice><sic>y</sic><corr>m</corr></choice>um</l>
-		<l n="28">veñciṉ vīrar pañ<lb n="13" break="no"/>ca-p-paḷḷiyum</l>
-		<l n="29">pācaṭai-p paḻaṉa mācuṇi-t-tēcamum</l>
-		<l n="30">ay<choice><sic>ā</sic><corr>ar</corr></choice>vilvaṇ kīrtti yātiñaka ra<lb n="14" break="no"/>v<choice><orig>a</orig><reg>ai</reg></choice>yiṟ</l>
-		<l n="31">can=tiraṉ ṟol-kulatt' intira rataṉai</l>
-		<l n="32">viḷaiya<supplied reason="lost">ma</supplied>r-k= kaḷattu=k= kiḷaiyoṭum piṭi<lb n="15" break="no"/>ttu</l>
-		<l n="33">palataṉa-t toṭuniṟai kula-taṉa-k= kuvaiyuṅ</l>
-		<l n="34">kiṭṭaruñ ceṟimiḷai yoṭṭa viṣai<lb n="16" break="no"/>yamum</l>
-		<l n="35">pūcurar cērnal-k= kōcala-ñāṭun=</l>
-		<l n="36">taṉ<unclear>ma</unclear>-pālaṉai vemmuṉai y-aḻittu</l>
-		<l n="37">va<lb n="17" break="no"/>ṇṭamar cōlai-t taṇṭa puttiyum</l>
-		<l n="38">iraṇa cūraṉai muṟaṇu<choice><sic>k</sic><corr>ṟ</corr></choice>at tāk=ki-t</l>
-		<l n="39">tik-kaṇai kīrtti ta<lb n="18"/>k=kaṇa lāṭamuṅ</l>
-		<l n="40">kōvin=ta cantaṉ māviḻin <unclear>tōṭa</unclear>t</l>
-		<l n="41">taṅkāta cāral vaṅkāḷa tēcamun</l>
-		<l n="42"><lb n="19"/>toṭukaṭaṟ caṅ<supplied reason="omitted">ku</supplied> koṭṭal <hi rend="grantha">mahi</hi>-p<unclear>āla</unclear>ṉai</l>
-		<l n="43">veñcamar vaḷākatt' añcuviyatt-aruḷi ⌈</l>
-		<l n="44"><lb n="20"/>y-oṉtiṟal āṉaiyum peṇṭir pa<unclear>ṇ</unclear>ṭāramum</l>
-		<l n="45">nittila neṭuṅka<unclear>ṭal u</unclear>ttira-lāṭa<lb n="21" break="no"/>mum</l>
-		<l n="46">veṟimalar-t tīrttatt' e<unclear>ṟi</unclear>puṉaṟ kaṅkaiyum</l>
-		<l n="47">Alaikaṭal naṭuvaṟ palakalañ <lb n="22"/>celutti-c</l>
-		<l n="48">caṅkirāma vi<hi rend="grantha">jai</hi>yōttuṅka-pa<hi rend="grantha"><unclear>n</unclear>ma</hi>ṉ</l>
-		<l n="49">ākiya kiṭāratt' araiyaṉai vā<lb n="23" break="no"/>kayam</l>
-		<l n="50">poru-kaṭal kumpa-k= kariyoṭum aka<unclear>ppaṭu</unclear>tt'</l>
-		<l n="51">urimaiyiṟ ak=kiya peru-niti piṟak=ka<lb n="24" break="no"/>mum</l>
-		<l n="52">ārttavaṉ akan<choice><sic>e</sic><corr>a</corr></choice>ka<supplied reason="omitted">r</supplied>p pōrt toḻil vāya<gap reason="illegible" quantity="1" unit="character"/>lil</l>
-		<l n="53">viccātira-tōraṇamu<supplied reason="subaudible">m</supplied> ⌈<lb n="25" break="no"/>m<choice><sic>oy</sic><corr>u</corr></choice>ttoḷiṟ</l>
-		<l n="54">puṉai-maṇi-p putavamuṅ kaṉamaṇi-k= katavum</l>
-		<l n="55">niṟai <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">jai</hi>yamu<lb n="26" break="no"/>n= tuṟai<choice><orig>ñ</orig><reg>n</reg></choice>īr-p paṇṇaiyum</l>
-		<l n="56">vaṉmalai yūreyiṟ ṟoṉmalai yūrum</l>
-		<l n="57">āḻkaṭal akaḻ<lb n="27" break="no"/>cūḻ māyiru ṭiṅkamuṅ</l>
-		<l n="58">kalaṅkā valviṉai y-ilaṅkācōkamuṅ</l>
-		<l n="59">k<choice><sic>o</sic><corr>ā</corr></choice>ppuṟu niṟai <lb n="28"/>puṉal māppa <choice><sic>m</sic><corr>p</corr></choice>āḷamuṅ</l>
-		<l n="60">kāvalam puricai mēv<unclear>ili</unclear>ṉ paṅkamum</l>
-		<l n="61">viḷai<lb n="29" break="no"/>ppan= tūruṭai vaḷaippaṉan= tūruṅ</l>
-		<l n="62">kalaitta-k= kōrpukaḻ-t ta<unclear>l</unclear>ait tak=kō<lb n="30" break="no"/>lamun=</l>
-		<l n="63">tītamar valviṉai mātam<choice><sic>a</sic><corr>ā</corr></choice>-<unclear>li</unclear>ṅkamuṅ</l>
-		<l n="64">kaḻāḷurik=kun tiṟal ilāmuritōr</l>
-		
-		<l n="65"><milestone n="B" unit="column" type="pagelike"/><lb n="1=31"/>tēṉa-k= ka<choice><sic>vā</sic><corr>la</corr></choice>rpoḻil mānak=ka vāramun=</l>
-		<l n="66">toṭukaṭaṟ kāvaṟ kaṭumuraṭ kaṭāramu</l>
-		<l n="67">mā<lb n="2=32" break="no"/>-p-poru taṇṭāṟ koṇṭa</l>
-		</lg>
+<div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215"><!--check script-->
+         			
 	<p>
-		kō-p-parakēcari-<hi rend="grantha">panma</hi>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Uṭaiyār <hi rend="grantha">śrī-rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi> 
-		<lb n="3=33" break="no"/>-cōḻa-<hi rend="grantha">de</hi>vark=ku yāṇṭu <num value="16"><g type="numeral">10</g> 6 </num>-Āvatu
+		[text not available]
 	</p>
-	
-	<p>
-		<hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻa-maṇṭalattu pa
-		<lb n="4=34" break="no"/>ṅkala-nāṭṭu kāma-p-pullūr-āṉa rā<hi rend="grantha">ja</hi>-cūḷāmaṇi-catur<hi rend="grantha">vve</hi>ti-maṅkala
-		<lb n="5=35" break="no"/>ttu Uṭaiyār <hi rend="grantha">śrī</hi>-kayilāyam uṭaiya tiru-k=-kāmai-nak=kar kōyilil <hi rend="grantha">dakṣi</hi>
-		<lb n="6=36" break="no"/>ṇā-m<choice><orig>u</orig><reg>ū</reg></choice>rttikaḷuk=ku <hi rend="grantha">se</hi>nāpati-ra<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja-brahma</hi>-mā-rāyar kūli-c-cēva
-		<lb n="7=37" break="no"/>kaṉ cēn=taṉ kumaraṉ vaiyyapitta tiru-nan=tā-viḷak=ku Oṉṟuk=ku vaitta
-		<lb n="8=38"/>Āṭu toṇṇūṟu
-	</p>
-	
-	<p>
-		Ivv-āṭu toṇṇūṟuṅ kai-k=-koṇṭu <hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rā</hi>t=tita
-		<lb n="9=39" break="no"/>-<unclear>vaṟ</unclear> tiru-nan=tā-viḷuk=ku Oṉrum Erippat' āṉōm		
-		Ivv-ūr <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇar
-		<lb n="10=40"/><hi rend="grantha">bhā</hi>ra<hi rend="grantha">dvāja</hi>-nārāyaṇa-p-paṭṭaṇum Ivaṉ ta<supplied reason="omitted">m</supplied>pimārum uḷḷiṭṭa <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇar-ō
-		<lb n="11=41" break="no"/>m Irā<hi rend="grantha">ja</hi>-cūḷāmaṇi-c-caruppēti-maṅkalattu <hi rend="grantha">sabhai</hi>yōm
-	</p>
-	<p>
-		Eṅkaḷ-ūr
-		<lb n="12=42"/><hi rend="grantha">śrī</hi>-kayilāyam uṭai<unclear>ya</unclear> tiruk=kāmai-nak=kark=ku tiru-nan=ta-vāṉam-āka nilam āvatu
-	</p>
-	
-	<p>
-		nā
-		<lb n="13=43"/>ṅkaḷ kārampicēṭṭu tiru-viyalūr <hi rend="grantha">daśa</hi>piriya-paṭṭaṉ <hi rend="grantha">brāhma</hi>ṇi-kuḷam pirāṭṭi
-		<lb n="14=44" break="no"/><gap reason="illegible" quantity="2" unit="character"/> pak=kalum puḷḷaḷūr tattaya-kiramavittaṉun= tampimāru pak=kalum		
-		<lb n="15=45"/><unclear>vi</unclear>lai koṇṭu <unclear>noykuḷā</unclear>-vaṭṭattil nilam <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻāṉ
-		<lb n="16=46"/>tiru-nan=tavāṉam eṉṟu tiru-nāmañ cārtti-k= kuṭutta kuḻi mu-ṉ-ṉūṟṟu mu-p-pa
-		<lb n="17=47"/>tt-aiñcu-k= kuḻi mu-ṉ-ṉūṟṟu muppatt-aiñcu kuḻiyun= tiru-nan=ta-vāṉam-ā<choice><sic>k=</sic><corr>ka</corr></choice> kuṭu
-		<lb n="18=48"/>ttōm <hi rend="grantha">sa<supplied reason="lost">bhai</supplied></hi>yōm
-	</p>
-	
-	<p>
-		<hi rend="grantha">dakṣiṇā</hi>-m<choice><orig>u</orig><reg>ū</reg></choice>rttikaḷuk=ku muṉṟu <hi rend="grantha">sa</hi>n=tiyum <hi rend="grantha">A<unclear>r</unclear>c<unclear>ca</unclear></hi>
-		<lb n="19=49" break="no"/>ṉaik=ku U<unclear>ṭai</unclear> <gap reason="lost" quantity="2" unit="character"/> <unclear>y</unclear>utu nā-ṉāḻi Ariciyāl tiru-v-amurtuṅ kaṟi-y-amut’ oṉṟu ne
-		<lb n="20=50" break="no"/><supplied reason="lost">y</supplied>-amut’ iru <gap reason="lost" quantity="3" unit="character"/> yun= tayir-amut’ uriyum aṭaik=kāy-amut’ iraṇṭum ilai-y-amutu nālu
-		<lb n="21=51" break="no"/>k=ku vaitta-<supplied reason="lost">k kuṭu</supplied>ttō<supplied reason="subaudible">m</supplied>
-	</p>
-	<p>
-		mu-k=-kuṉṟattu <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">j<unclear>ā</unclear></hi>r-vatik=ku mēṟku
-		koṟṟaṉ vā<supplied reason="omitted">y</supplied>	
-		<lb n="22=52" break="no"/><unclear>k=</unclear>kāluk=ku va<supplied reason="lost">ṭa</supplied>k=k<unclear>u</unclear>
-		<gap reason="lost" quantity="2" unit="character"/> kaṇṇāṟṟ’ āṟāñ caturattu cel kā nilaṅkālil kuṭi-p poki
-		<lb n="23=52"/>Iṟai kiṭan=ta nilam <gap reason="lost" quantity="2" unit="character"/> <unclear>k=k' aṭaiya</unclear> Iraṇṭu mā nīkki mērk’ aṭaiya muṉṟu māvil <unclear>cu</unclear>
-		<lb n="24=53" break="no"/>k<supplied reason="lost">k</supplied>ēṇi-<unclear>t</unclear> tēvaṟk=ku vaṭak=k’ aṭaiya Oru mā nī<unclear>k=k</unclear>i Itaṉ ōṭum aṭaiya nilam Iraṇṭu mā<unclear>vi</unclear>
-		<lb n="25=54" break="no"/>l kuḻi Āyi<unclear>ra</unclear><supplied reason="lost">t</supplied>t’ iru-pattu nālum po<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> iru-kañlañcum vaittōm <hi rend="grantha">sa<unclear>bhai</unclear></hi>
-		<lb n="26=55" break="no"/>yōm
-	</p>
-	<p>		
-		I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice><unclear>i</unclear>lamum ip-poṉṉuṅ koṇṭu I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>ivan=tam a<hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta
-		<lb n="27=56" break="no"/>-val <hi rend="grantha">sa</hi>mmarta-p-paṭi <unclear>ce</unclear>lutta-k= kaṭavār
-		Iv<unclear>v</unclear>-ūr <hi rend="grantha">śi</hi>va-<hi rend="grantha">brahma</hi>ṇar <hi rend="grantha">bhā</hi>ra<hi rend="grantha">dva</hi>
-		<lb n="28=57" break="no"/><hi rend="grantha">j</hi>a-nārāyaṇa-paṭṭaṉum i<unclear>va</unclear>ṉ tampi periyāṉum ik=-kuṭi <unclear>na</unclear>mpiyum uḷḷi
-		<lb n="29=58" break="no"/>ṭṭār
-	</p>
-	<p>
-		Itu<unclear>kku</unclear> <hi rend="grantha">pan-māheśva</hi>ra-ra<hi rend="grantha">kṣai</hi>
-	</p>		
 	
 </div>
 
@@ -240,63 +106,34 @@
       		
 </div>-->
       	
-<div type="translation" resp="part:emfr">
-	
-	<p n="1">Prosperity! Fortune!</p>
-	
-	<p n="32-33">... year of the glorious Rājendra Cōḻa, the Lord, <hi rend="italic">alias</hi> the king Parakesarivarman,</p>
-	
-	<p n="2-33">who, ... [<foreign>meykkīrtti</foreign> of Rājendra I Cōḻa].</p>
-	
-	<p n="33-38"><supplied reason="subaudible">There are</supplied> ninety goats that
-		...
-	gave
-	for one glorious perpetual lamp
-	that
-	...
-	had given
-	for the honourable Dakṣināmūrti <supplied reason="subaudible">deity</supplied>
-	in the temple of the glorious Lord Kāmainakkar, Lord of the glorious Kailāsa, Lord of the Rājacūḷāmaṇicaturvedimaṅgala, <hi rend="italic">alias</hi> Kāmappullūr in the Paṅkalanāṭu, <supplied reason="subaudible">itself a subdivision</supplied> of the Jayaṅkoṇṭacōḻamaṇṭalam.</p>
+<!--<div type="translation" resp="part:emfr">
 		
-	<p n="38-42">With these ninety goats, we have become those who will burn <supplied reason="explanation"><foreign>erippatu</foreign><note>Instead of expected <foreign>erippōm</foreign>.</note></supplied>, as long as the moon and the sun, one glorious perpetual lamp, We the Śivabrāhmaṇas, including the Bhāradvāja Nārāyaṇappaṭṭaṉ, a Śivabrāhmaṇa of this village, and his honourable younger brother, and We, the members of the assembly of Rājacūḷāmaṇicaturvedimaṅgala.</p>
-		
-	<p n="41-42">There is in our village a land as glorious flower garden for the glorious Kāmainakkar, Lord of the glorious Kailāsa.</p>
-	
-	<p n="42-48">We, the members of the assembly, We have given as glorious flower garden
-	...</p>
-	
-	<p n="48-51">We have given
-		...</p>	
-		
-	<p n="51-55">We, the members of the assembly, We have given
-	...</p>	
-		
-	<p n="55-56">With this land and this gold, the Śivabrāhmaṇas of this village, including the Bhāradvāja Nārāyaṇappaṭṭaṉ, a Śivabrāhmaṇa of this village, and his younger brother Periyāṉ, are assigned to have this binding agreement <supplied reason="explanation"><foreign>nivantam</foreign><note>Sanskrit <foreign>nibandha</foreign>.</note></supplied> proceed as long as the moon and the sun.</p>
-		
-	<p n="56-58">This <supplied reason="subaudible">is under</supplied> the protetion of the Paṉmaheśvaras.</p>	
-	
-</div>
+      		
+</div>-->
       	
-<!--<div type="commentary">      		
-	
+<!--<div type="commentary">      	
 	
 </div>-->
       	
 <div type="bibliography">
 	
-	<p>Edited in <bibl><ptr target="bib:Isvaran2009_01"/><citedRange unit="page">68-70</citedRange></bibl>.</p>
-	<p>Edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on autopsy and photos (Emmanuel Francis, 2019).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1938-1939/B/1938-1939/247).</p>	
+	<p>ASI transcript and estampage, if any, yet to be consulted.</p>
 	
-	<listBibl type="primary">
+	<!--<listBibl type="primary">
 		
-		<bibl n="I">
-			<ptr target="bib:Isvaran2009_01"/><!--Check readings in this edition for the apparatus-->
-		</bibl>
-	</listBibl>
-	
-	<!--<listBibl type="secondary">			
-	
 	</listBibl>-->
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1938-1939"/>
+			<citedRange unit="page">35</citedRange>
+			<citedRange unit="appendix">B/1938-1939</citedRange>
+			<citedRange unit="item">247</citedRange>
+		</bibl>              
+      
+   </listBibl>
    
 </div>
 
