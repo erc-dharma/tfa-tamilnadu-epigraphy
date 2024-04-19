@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kāppalūr, no king, no year</title>
+				<title>Kāppalūr, Tirukkāmēśvara, pillar, no king, no year</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -138,9 +138,11 @@
       		
 </div>
       	
-<!--<div type="commentary">
+<div type="commentary">
+	<p>On the bottom square portions of the same two pillars which also bear <ref target="DHARMA_INSTamilNadu00020">INSTamilNadu00020</ref> on their top square and middle octagonal portions.</p>
 	
-</div>-->
+	<p>Thus possibly, even probably, same date as <ref target="DHARMA_INSTamilNadu00020">INSTamilNadu00020</ref>.</p>
+</div>
       	
 <div type="bibliography">
 	

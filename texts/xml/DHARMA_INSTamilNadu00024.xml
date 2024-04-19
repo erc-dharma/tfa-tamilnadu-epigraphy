@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kāppalūr, pillar, time of Parakesarivarman, year 5</title>
+				<title>Kāppalūr, Tirukkāmēśvara, pillar, time of Parakesarivarman, year 5</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -47,7 +47,7 @@
 			<idno/>
 		</msIdentifier>
 		<msContents>
-			<summary>Lamp donation. <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (p. 35):<quote>Registers a gift of land for a lamp in the temple of Śrīkāmai-Nakkar by the Aiyāraṉ <hi rend="italic">alias</hi> Nūṟṟeṇmak-Kavaraceṭṭi, son of Māyilaṭṭi, a merchant of Periya-aṅkāṭi at Tañcāvūr.</quote></summary>
+			<summary>Lamp donation. <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (p. 35): <quote>Registers a gift of land for a lamp in the temple of Śrīkāmai-Nakkar by the Aiyāraṉ <hi rend="italic">alias</hi> Nūṟṟeṇmak-Kavaraceṭṭi, son of Māyilaṭṭi, a merchant of Periya-aṅkāṭi at Tañcāvūr.</quote></summary>
 		</msContents>
 		<physDesc>
 			<handDesc>
