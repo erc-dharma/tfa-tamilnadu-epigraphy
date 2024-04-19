@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kāppalūr, time of Parakesarivarman, year 5</title>
+            <title>Kāppalūr, Tirukkāmēśvara, pillar, time of Parakesarivarman, year 5</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -213,9 +213,11 @@
       		
 </div>
       	
-<!--<div type="commentary">      	
+<div type="commentary">      	
 	
-</div>-->
+	<p>On the top square and middle octagonal portions of the same two pillars which also bear <ref target="DHARMA_INSTamilNadu00021">INSTamilNadu00021</ref> on their bottom square portions.</p>
+			
+</div>
       	
 <div type="bibliography">
 	
