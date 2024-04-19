@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Kāppalūr, stele, time of Parakesarivarman Rājendra Cōḻa, year 10</title>
+				<title>Kāppalūr, stele, time of Parakesarivarman Rājendra Cōḻa, year 16</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:emfr">
@@ -164,7 +164,7 @@
 		</lg>
 	<p>
 		kō-p-parakēcari-<hi rend="grantha">panma</hi>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Uṭaiyār <hi rend="grantha">śrī-rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi> 
-		<lb n="3=33" break="no"/>-cōḻa-<hi rend="grantha">de</hi>vark=ku yāṇṭu <g type="numeral">10</g> <gap reason="illegible" quantity="2" unit="character"/><!--update-->-Āvatu
+		<lb n="3=33" break="no"/>-cōḻa-<hi rend="grantha">de</hi>vark=ku yāṇṭu <num value="16"><g type="numeral">10</g> 6 </num>-Āvatu
 	</p>
 	
 	<p>
