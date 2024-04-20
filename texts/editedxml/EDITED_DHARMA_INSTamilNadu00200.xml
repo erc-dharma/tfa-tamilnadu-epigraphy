@@ -105,7 +105,7 @@
 		<lb n="4"/><gap reason="ellipsis"/>
 		<lb n="5"/><gap reason="ellipsis"/>		
 		<lb n="6"/><gap reason="ellipsis"/>
-		<lb n="7"/><gap reason="ellipsis"/> ceṉmapattiṟikā <g type="pcs"/>
+		<lb n="7"/><gap reason="ellipsis"/> ceṉmapattiṟikā <g type="pcs">.</g>
 	</p>
 	
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
@@ -119,8 +119,8 @@
 	</p>
 	<p>
 		Atikamāṉ tañcāv<choice><orig>u</orig><reg>ū</reg></choice>r <choice><orig>A</orig><reg>Ai</reg></choice>ñ-cāti-pāñc<supplied reason="lost">āḷa</supplied>
-		<lb n="10" break="no"/>t=tĀR Eḻupat=tu ṉālu Ākaraṇat=tārum <gap reason="ellipsis"/> ti<supplied reason="lost">ru-ka</supplied>
-		<lb n="11" break="no"/>ṭavūr Amuṟta-kaṭa-y-īcupara ApiRĀmi Ammaṉ kāla-caṅkĀRA-mūṟ<unclear>t</unclear><supplied reason="lost">t=ti</supplied> <gap reason="lost" quantity="1" unit="character"/>
+		<lb n="10" break="no"/>t=tĀR Eḻupat=tu ṉālu Ākaraṇat=tārum <gap reason="ellipsis"/> ti<supplied reason="lost">ru-k-ka</supplied>
+		<lb n="11" break="no"/>ṭavūr Amuṟta-kaṭa-y-īcupara ApiRĀmi Ammaṉ kāla-caṅkĀRA-m<choice><orig>u</orig><reg>ū</reg></choice>ṟ<supplied reason="lost">t=ti</supplied> <gap reason="lost" quantity="1" unit="character"/>
 		<lb n="12" break="no"/>ṉ atilum taṟmam vēṇum v-eṉṟu
 		
 		Apiḻe-k=-kaṭṭaḷai-tampiRĀṉ Avar <gap reason="lost" quantity="2" unit="character"/>
@@ -188,17 +188,17 @@
 		y-inta taṟuma<surplus>pa</surplus>t=tuk=ku yātām Oru
 		<lb n="34" break="no"/>va<choice><sic>ra</sic><corr>r</corr></choice> Akitam paṇṇiṉa pērkaḷ keṅkai-k=-karaiyilē kāR-Ām-pacu-
 		<lb n="35" break="no"/>vai koṇṇa tōṣat=til pōvāṟkaḷ mātā-pitā-ku[ru]vaiyum
-		<lb n="36" break="no"/>koṇṇa tōṣat=til pōvāṟkaḷ ākavum <g type="pcs"/>		
+		<lb n="36" break="no"/>koṇṇa tōṣat=til pōvāṟkaḷ ākavum <g type="pcs">.</g>		
 	</p>
 	
 	<p>
 		vilai <gap reason="ellipsis"/>
-		<lb n="37"/><gap reason="ellipsis"/> <g type="pcs"/>
+		<lb n="37"/><gap reason="ellipsis"/> <g type="pcs">.</g>
 	</p>
 		
 	<p>
 		Uḷḷūril Arucāla-Uk=ki <gap reason="lost" quantity="2" unit="character"/>
-		<lb n="38"/>/&gt; y-ic-cāla-piḷḷaiyāruk=ku pu <g type="pcs"/>
+		<lb n="38"/>/&gt; y-ic-cāla-piḷḷaiyāruk=ku <g type="paṇam"/> <g type="pcs">.</g>
 	</p>
 	
 </div>
@@ -239,7 +239,7 @@
       		
 	<p n="7">Prosperity! Fortune!</p>      		
 	
-	<p n="7-9">Date 5, Āṭi month, Pārthiva <supplied reason="explanation"><foreign>pāṟtiya</foreign><note>That is, <foreign>pārttiva</foreign>, Sanskrit <foreign>pārthiva</foreign>, the 19th year of Jovian 60-year cycle.</note></supplied> year which was current upon Śālivāhana-Śaka year 1578.</p>      		
+	<p n="7-9">Date 5, Āṭi month, Pārthiva <supplied reason="explanation"><foreign>pāṟtiya</foreign><note>That is, <foreign>pārttiva</foreign>, Sanskrit <foreign>pārthiva</foreign>, the 19th year of Jovian 60-year cycle.</note></supplied> year, which was current upon Śālivāhana-Śaka year 1578.</p>      		
 	
 	<p n="9-17">
 		
@@ -254,20 +254,20 @@
 		the land <supplied reason="subaudible">that has been bought and given is as follows</supplied>:
 		
 		<list>
-			<item>for <supplied reason="subaudible">one plot of</supplied> 100 feet, to the west and east<note>That is, it seems, 100 feet from the western to the eastern boundary of the plot.</note>
+			<item>for <supplied reason="subaudible">one plot of</supplied> 100 feet, to the west to the east<note>That is, it seems, 100 feet from the western to the eastern boundary of the plot.</note>
 		<gap reason="ellipsis"/>
-		<supplied reason="subaudible">by</supplied> 120 feet, to the north and south, the sale-price <supplied reason="subaudible">is</supplied> 36 gold coins;</item>
+		<supplied reason="subaudible">by</supplied> 120 feet, to the north to the south, the sale-price <supplied reason="subaudible">is</supplied> 36 gold coins;</item>
 		
-			<item>for <supplied reason="subaudible">one plot of</supplied> 280 feet, to the west and east
+			<item>for <supplied reason="subaudible">one plot of</supplied> 280 feet, to the west to the east
 				<gap reason="ellipsis"/>
-		<supplied reason="subaudible">by</supplied> 170 feet, to the north and south, the sale-price <supplied reason="subaudible">is</supplied> 28 gold coins,</item>
+		<supplied reason="subaudible">by</supplied> 170 feet, to the north to the south, the sale-price <supplied reason="subaudible">is</supplied> 28 gold coins.</item>
 		</list>	
 	
 	</p>      		
 	
 	<p n="17-19">
-	The artisans of the five castes who reside in Tirukaṭavūr having bought as such <supplied reason="subaudible">this</supplied> land,
-	having built the temple of Akkacālai Piḷḷaiyār <supplied reason="subaudible">with</supplied> a monastery and a hall,
+		The artisans of the five castes who reside in Tirukkaṭavūr having bought as such <supplied reason="subaudible">this</supplied> land,
+		having built the temple of Akkacālai Piḷḷaiyār <supplied reason="subaudible">with</supplied> a monastery <supplied reason="explanation"><foreign>maṭam</foreign></supplied> and a hall <supplied reason="explanation"><foreign>maṇṭakam</foreign></supplied>,
 		a flower-garden has been fully completed for this <supplied reason="subaudible">purpose</supplied>.
 	</p>
       		
@@ -307,7 +307,7 @@
       		
 	<p n="36-37">The price <gap reason="ellipsis"/></p>
       		
-	<p n="37-38">For <gap reason="ellipsis"/> in Uḷḷūr <gap reason="ellipsis"/>, for Piḷḷaiyar of this <foreign>cālai</foreign> <gap reason="ellipsis"/> <supplied reason="explanation"><foreign>pu</foreign><note>An abbreviation, it seems.</note></supplied>.</p>
+	<p n="37-38">For <gap reason="ellipsis"/> in Uḷḷūr <gap reason="ellipsis"/>, for Piḷḷaiyar of this <foreign>cālai</foreign> <supplied reason="subaudible">one</supplied> fanam<note>That is, <foreign>paṇam</foreign>, a gold coin currency, expressed here by a symbol.</note>.</p>
 	
 </div>
 	
@@ -327,7 +327,7 @@
       	
 <div type="bibliography">
 		
-	<p>Edited and translated here for DHARMA (ERC n° 809994) by Emmanuel Francis (2024), based on autopsy and photos (Emmanuel Francis, 2022).</p>
+	<p>Edited and translated here by Emmanuel Francis (2024), based on autopsy and photos (Emmanuel Francis, 2022).</p>
 	
 	<!--<listBibl type="primary"/>		
 		
