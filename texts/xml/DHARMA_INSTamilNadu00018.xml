@@ -90,18 +90,18 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
       		
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">		
-		<lb n="1"/><supplied reason="undefined">svasti śrī</supplied>
+		<lb n="1"/><unclear>svasti śrī</unclear>
 		
 	</ab>
 	
 	<p>
-		<supplied reason="undefined">maturaiyum Īḻamum karuvūrum pāṇṭiyaṉ muṭi-t-talai</supplied>yuṅ koṇṭu vīrā-A<hi rend="grantha">pi</hi><supplied reason="undefined"><hi rend="grantha">ṣe</hi>kamum vi</supplied>jayā-A<hi rend="grantha">piṣ<supplied reason="omitted">e</supplied></hi>kamum paṇṇi-Aruḷi<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">śrī</hi>-tirupu-vaṉa-vīra-tēvarkku yāṇṭu mu-p-patt-añc-āvatu 
+		<unclear>maturaiyum Īḻamum karuvūrum pāṇṭiyaṉ muṭi-t-talai</unclear>yuṅ koṇṭu vīrā-A<hi rend="grantha">pi</hi><hi rend="grantha"><unclear>ṣe</unclear></hi><unclear>kamum vi</unclear>jayā-A<hi rend="grantha">piṣ<supplied reason="omitted">e</supplied></hi>kamum paṇṇi-Aruḷi<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">śrī</hi>-tirupu-vaṉa-vīra-tēvarkku yāṇṭu mu-p-patt-añc-āvatu 
 			
-		taṉu-nāyaṟṟu pū<hi rend="grantha">rva</hi>-pa<hi rend="grantha">kṣa</hi><supplied reason="undefined">t</supplied>tu nāyaṟṟu-kiḻamaiyum <hi rend="grantha">sapta</hi>miyum
+		taṉu-nāyaṟṟu pū<hi rend="grantha">rva</hi>-pa<hi rend="grantha">kṣa</hi><unclear>t</unclear>tu nāyaṟṟu-kiḻamaiyum <hi rend="grantha">sapta</hi>miyum
 	</p>
 	<p>
-		<lb n="2"/><gap reason="lost" quantity="3" unit="character"></gap> kōyil Āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēvar tēvar-kaṉmikaḷōm Ik-kōyil tēvaraṭiyāril Uṭaiyavaḷ-āṉa nāṟ-patt-eṇṇ-āyira-māṇikkam Iṉ-ṉāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār kōyilukku tiru-vācura-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>āraiyum periya tēvaraiyum n<supplied reason="undefined">ācciyāraiyum</supplied> <gap reason="lost" quantity="7" unit="character"></gap> <supplied reason="undefined">I</supplied>
-		<lb n="3" break="no"/>ṟ<supplied reason="undefined">ai</supplied>-y-ili-yum ceytu tiru-k-kaṟṟaḷi <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="9" unit="character"></gap> peṟṟimaiyil 
+		<lb n="2"/><gap reason="lost" quantity="3" unit="character"></gap> kōyil Āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēvar tēvar-kaṉmikaḷōm Ik-kōyil tēvaraṭiyāril Uṭaiyavaḷ-āṉa nāṟ-patt-eṇṇ-āyira-māṇikkam Iṉ-ṉāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār kōyilukku tiru-vācura-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>āraiyum periya tēvaraiyum n<unclear>ācciyāraiyum</unclear> <gap reason="lost" quantity="7" unit="character"></gap> <unclear>I</unclear>
+		<lb n="3" break="no"/>ṟ<unclear>ai</unclear>-y-ili-yum ceytu tiru-k-kaṟṟaḷi <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="9" unit="character"></gap> peṟṟimaiyil 
 		<list>
 			<item>Ik-kōyil tiru-v-eḻucciyil A<gap reason="lost" quantity="1" unit="character"/>kaṭicaṟkak<!--Ask VVG--> muṟaiyum</item>
 			<item>tiru-vēṭṭaiyil muttaṭaiyum</item>
@@ -123,7 +123,7 @@
 		
 		<item>Ivai pālaṟāvāyaṉ Eḻuttu<g type="danda">.</g></item>
 		
-		<item>Ivai Amu<supplied reason="undefined">taṉ</supplied> campaṉtaṉ Eḻuttu<g type="danda">.</g></item>
+		<item>Ivai Amu<unclear>taṉ</unclear> campaṉtaṉ Eḻuttu<g type="danda">.</g></item>
 	</list>
 	</p>
 	
