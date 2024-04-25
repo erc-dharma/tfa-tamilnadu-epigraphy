@@ -108,7 +108,7 @@
 		
 		<lb n="4"/>
 		<milestone n="1" unit="zone"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
+		<supplied reason="lost">m</supplied> <gap reason="lost" extent="unknown" unit="character"/>
 		<milestone n="2" unit="zone"/>
 		<gap reason="illegible" quantity="8" unit="character" precision="low"/>
 		
@@ -156,7 +156,7 @@
 </div>
 			
 <div type="commentary">
-	<p>It is in fact not clear whether these 6 short lines, on the base of the western facade of the <foreign>vimāna</foreign>, should be read in continuity or, if assumed in the present edition, they are each one the end of a line, now lost, on the base of the northern facade of the <foreign>vimāna</foreign>.</p>
+	<p>It is in fact not clear if these 6 short lines, on the base of the western facade of the <foreign>vimāna</foreign>, should be read in continuity one with another or, if assumed in the present edition, they are each one the end of a line, now lost, on the base of the northern facade of the <foreign>vimāna</foreign>.</p>
 </div>
 			
 <div type="bibliography">
