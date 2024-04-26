@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Cellūr bronze</title>
+				<title>Cellūr, bronze of Buddha (standing)</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
@@ -121,22 +121,22 @@
                </listApp>
          </div>
           
-         <div type="translation" resp="part:emfr part:vito">
+<!--<div type="translation" resp="part:emfr part:vito">
              
-         </div>
-          
-          <div type="commentary">
-              <p>ADD comments on language.</p>
-              <p>ADD parallels from other Dhammapada recensions.</p>    
-              <p>ADD other examples of inscribed Dhammapada verses.</p>
-          </div>
+</div>-->
+      	
+<!--<div type="commentary">
+	ADD comments on language.
+	ADD parallels from other Dhammapada recensions.    
+	ADD other examples of inscribed Dhammapada verses.
+</div>-->
           
           <div type="bibliography">
               
-              <p>First edited by <bibl><ptr target="bib:Kannan2015_01"/></bibl>. Edited here by Emmanuel Francis &amp; Vincent Tournier (2020). Thanks to R. Balasubramanian, Curator of Archaeology, Government Museum, Chennai, for providing access to the bronze and allowing photography.<!--Is it the right place for thanks?--></p>
+              <p>First edited by <bibl><ptr target="bib:Kannan2015_01"/></bibl>. Edited here by Emmanuel Francis &amp; Vincent Tournier (2020), based on photos (Emmanuel Francis, 2012). Thanks to R. Balasubramanian, Curator of Archaeology, Government Museum, Chennai, for providing access to the bronze and allowing photography.</p>
               
               <listBibl type="primary">
-                  <bibl n="RK">
+                  <bibl n="K">
                       <ptr target="bib:Kannan2015_01"/>
                       <citedRange unit="page">263-265, 299</citedRange>
                       <citedRange unit="item">20</citedRange>
