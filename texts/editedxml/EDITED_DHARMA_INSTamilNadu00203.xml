@@ -99,27 +99,39 @@
 		kacciyum tañcaiyum koṇ<unclear>ṭa</unclear> <hi rend="grantha"><unclear>śrī</unclear></hi>-<unclear>kaṉṉara-tēvar</unclear>kku <unclear>yāṇṭu nāl-āvatu</unclear>
 	</p>
 	<p>
-		<lb n="2"/>Ām<choice><orig>u</orig><reg>ū</reg></choice>r-k-kōttattu tiru-v-iliccil Ūr-uṭaiya <unclear>tē</unclear>var <hi rend="grantha">su<supplied reason="lost">b</supplied>rahmanya-bha</hi>ṭṭārarkku * * * * *
-		<lb n="3"/>* * * <supplied reason="lost">ṇ</supplied>ṇaliḵai-<supplied reason="lost">p</supplied> pu * * * kuṭiyōm Itēvarku
+		<lb n="2"/>Ām<choice><orig>u</orig><reg>ū</reg></choice>r-k-kōttattu tiru-v-iliccil Ūr-uṭaiya <unclear>tē</unclear>var <hi rend="grantha">su<supplied reason="lost">b</supplied>rahmaṇya-bha</hi>ṭṭārarkku <gap reason="illegible" quantity="5" unit="character"/>
+		<lb n="3"/><gap reason="illegible" quantity="2" unit="character"/> <supplied reason="lost"><choice><unclear>u</unclear><unclear>U</unclear></choice>ṇ</supplied>ṇāliḵai-<supplied reason="lost">p</supplied>-pu<supplied reason="lost">ṟam</supplied> <gap reason="illegible" quantity="13" unit="character" precision="low"/> <unclear>kuṭiyō</unclear>m I<unclear>tē</unclear>varku
 	</p>
 	
 	
 		
 </div>
 
-<!--<div type="apparatus">
+<div type="apparatus">
       		
 	<listApp>
 		
-		<app loc="0">
-			<lem>...</lem>		
-			<rdg source="bib:Rajavelu2008_01">...</rdg>
-			<rdg source="bib:Badhreenath2015_01">...</rdg>
+		<app loc="1">
+			<lem>koṇ<unclear>ṭa</unclear> <hi rend="grantha"><unclear>śrī</unclear></hi>-<unclear>kaṉṉara-tēvar</unclear>kku <unclear>yāṇṭu nāl-āvatu</unclear></lem>		
+			<rdg source="bib:Rajavelu2008_01">konda sri kannara devarkku yantu</rdg>
+			<rdg source="bib:Badhreenath2015_01">koṇṭa kaṉṉara tēvarkku yāṇṭu nāl āvatu</rdg>
+		</app>	
+		
+		<app loc="2">
+			<lem><hi rend="grantha">su<supplied reason="lost">b</supplied>rahmaṇya-bha</hi>ṭṭārarkku <gap reason="illegible" quantity="5" unit="character"/></lem>		
+			<rdg source="bib:Rajavelu2008_01">subrahmanya bhattararkku uvat ti <gap reason="lost" quantity="3" unit="character"/></rdg>
+			<rdg source="bib:Badhreenath2015_01">cupramaṇya paṭṭārar</rdg>
+		</app>	
+		
+		<app loc="3">
+			<lem><gap reason="illegible" quantity="2" unit="character"/> <supplied reason="lost"><choice><unclear>u</unclear><unclear>U</unclear></choice>ṇ</supplied>ṇāliḵai-<supplied reason="lost">p</supplied>pu<supplied reason="lost">ṟam</supplied> <gap reason="illegible" quantity="13" unit="character" precision="low"/> <unclear>kuṭiyō</unclear>m I<unclear>tē</unclear>varku</lem>		
+			<rdg source="bib:Rajavelu2008_01">ruvunnaligaippuramai <gap reason="lost" quantity="3" unit="character"/> kudi <gap reason="lost" quantity="2" unit="character"/> yom i devarku</rdg>
+			<rdg source="bib:Badhreenath2015_01">Uṉṉāḻikaippuṟamāy <gap reason="lost" quantity="11" unit="character"/> Ūruṭaiyōm Ittēvarkku</rdg>
 		</app>	
 		
 	</listApp>
 	
-</div>-->
+</div>
       	
 <div type="translation" resp="part:emfr">
 	
@@ -138,7 +150,7 @@
       	
 <div type="bibliography">
 
-	<p>Edited in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl>, in <ptr target="bib:Badhreenath2015_01"/>.</p>
+	<p>Edited in <bibl><ptr target="bib:Rajavelu2008_01"/></bibl> (p. 181 and fig. 3, p. 179), in <ptr target="bib:Badhreenath2015_01"/>.</p>
 	<p>Edited and translated here by Emmanuel Francis (2024), based on photos (Emmanuel Francis, 2011) and on the previous editions, none of which seems sufficiently reliable, notably for the transliteration of Grantha characters of the original and for the length of lacunas.</p>
 	
 	<listBibl type="primary">		
