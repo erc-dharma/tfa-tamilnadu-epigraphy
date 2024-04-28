@@ -104,7 +104,7 @@
   
 <div type="translation" source="bib:Ramachandran1954_01">
   	
-  	<p n="1-2">The Nāyakar <supplied reason="subaudible">of or gift of or set up by or donated by</supplied> Periya Nācci.<note><ptr target="bib:Ramachandran2005_01"/> comments: <quote>The votive <foreign>stūpa</foreign> is a dedication by the lady Periya Nācci. Nācci means <foreign>nāyakacci</foreign> or a lady of eminence. Periya Nācci means the big or senior or elder or venerable lady.</quote></note></p>			
+  	<p n="1-2">The Nāyakar <supplied reason="subaudible">of or gift of or set up by or donated by</supplied> Periya Nācci.</p>			
 				
 </div>
 <div type="translation" resp="part:emfr">
@@ -113,9 +113,10 @@
  	
  </div>
       	
-<!--<div type="commentary">
-	
-</div>-->
+<div type="commentary">
+	<p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl> comments: <quote>The votive <foreign>stūpa</foreign> is a dedication by the lady Periya Nācci. Nācci means <foreign>nāyakacci</foreign> or a lady of eminence. Periya Nācci means the big or senior or elder or venerable lady.</quote></p>
+	<p>This inscription may be considered a label recording the name of donor. </p>
+</div>
       	
 <div type="bibliography">
               
