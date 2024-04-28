@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Label on a Buddhist bronze.</summary>
+                  <summary>Label on a Buddhist bronze, with donor’s name.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -117,8 +117,7 @@
  </div>
       	
 <div type="commentary">
-	<p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl> comments: <quote>The votive <foreign>stūpa</foreign> is a dedication by the lady Periya Nācci. Nācci means <foreign>nāyakacci</foreign> or a lady of eminence. Periya Nācci means the big or senior or elder or venerable lady.</quote></p>
-	<p>This inscription may be considered a label recording the name of donor. </p>
+	<p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl> comments: <quote>The votive <foreign>stūpa</foreign> is a dedication by the lady Periya Nācci. Nācci means <foreign>nāyakacci</foreign> or a lady of eminence. Periya Nācci means the big or senior or elder or venerable lady.</quote></p>	
 </div>
       	
 <div type="bibliography">
