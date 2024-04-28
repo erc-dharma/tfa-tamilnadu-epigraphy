@@ -85,6 +85,7 @@
           
 <div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
                           
+                          <!--Check Ramachandran 1954, 1965. Not sure about page and plat quotations below-->
 	<p>
 		<lb n="1"/>tiru-Araṅka-nāyakar</p>
 	
@@ -134,6 +135,7 @@
 			<ptr target="bib:Ramachandran2005_01"/>
 			<citedRange unit="page">106</citedRange>
 			<citedRange unit="page">III, no. 2</citedRange>
+			<!--Or is it Plate VI, n° 81: tiruvaraṅkanāyakar; nonetheless same text with a different spelling-->
 		</bibl>
 		
 	</listBibl>	
