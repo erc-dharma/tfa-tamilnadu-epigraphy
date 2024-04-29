@@ -88,7 +88,7 @@
           
 <div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
                           
-                          <!--Check Ramachandran 1954, 1965. Not sure about page and plat quotations below-->
+                          <!--Check Ramachandran 1954, 1965 for page and plate quotation.-->
 	<p>
 		<lb n="1"/>tiru-Araṅka-nāyakar</p>
 	
@@ -107,7 +107,7 @@
   
 <div type="translation" source="bib:Ramachandran1954_01">
   	
-  	<p n="1-2">The Nāyaka <supplied reason="explanation">Buddha</supplied>.</p>			
+  	<p n="1-2">The Nāyaka <supplied reason="explanation">Buddha</supplied>, the lord of Buddhist forum of theological debate.<note>Cf. Madurai <foreign>caṅkappalakai</foreign>.</note></p>			
 				
 </div>
 <div type="translation" resp="part:emfr">
@@ -117,8 +117,7 @@
  </div>
       	
 <div type="commentary">
-	<p>For <ptr target="bib:Ramachandran1954_01"/> the Buddha is here <quote>the lord of Buddhist forum of theological debate (cf. Madurai <foreign>caṅkappalakai</foreign>).</quote> This interpretation appears far-fetched. See MTL, s.v. <foreign>caṅkappalakai</foreign>: <quote>Miraculous seat capable of accommodating only deserving scholars, believed to have been granted by Śiva at Madurai to the Sangam poets.</quote></p>
-	<p>It seems that the Buddha is presented here as a rival of Viṣṇu, known as Raṅganātha, “the Lord of the stage," in his famous temple on the Śrīraṅga island at Trichy.</p>
+	<p><ptr target="bib:Ramachandran1954_01"/>’s suggestion that the Buddha is here <quote>the lord of Buddhist forum of theological debate</quote> with reference to the Maturai <foreign>caṅkappalakai</foreign><note>See MTL, s.v. <foreign>caṅkappalakai</foreign>: <quote>Miraculous seat capable of accommodating only deserving scholars, believed to have been granted by Śiva at Madurai to the Sangam poets.</quote></note> appears far-fetched. It seems that the Buddha is presented here as a rival of Viṣṇu, known as Raṅganātha, “the Lord of the stage," in his famous temple on the Śrīraṅga island at Trichy.</p>
 </div>
       	
 <div type="bibliography">
@@ -131,7 +130,7 @@
 		<bibl n="R1"><!--complex ref-->
 			<ptr target="bib:Ramachandran1954_01"/>
 			<citedRange>TBC</citedRange>
-			<citedRange unit="plate">XIV, no. 2</citedRange>
+			<citedRange unit="plate">XIV, no. 2</citedRange><!--check plate number-->
 		</bibl>
 	
 		

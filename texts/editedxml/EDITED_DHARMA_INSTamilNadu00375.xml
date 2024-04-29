@@ -117,7 +117,7 @@
  </div>
       	
 <div type="commentary">
-	<p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl> comments: <quote>In this votive offering the Buddha is appropriately praised as the Lord of men in the spiritual sense.</quote></p>
+	<p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl> comments thus: <quote>In this votive offering the Buddha is appropriately praised as the Lord of men in the spiritual sense.</quote></p>
 	<p>The terms <foreign>āḷ-uṭaiyāṉ</foreign> / <foreign>āḷ-uṭaiyaṉ</foreign> and <foreign>āḷ-uṭaiya</foreign>, respectively a nominal and a adjectival form, literally mean “who owns/possesses men/servants/devotees”. See MTL, s.v. <foreign>āḷ-uṭaiyāṉ</foreign>: <quote>n. 1. One who has accepted a person as servant; 2. Lord, Supreme Being.</quote> In the present case, it is not clear, but not relevant for the meaning, if we have to read <foreign>āḷ-uṭaiyaṉāyakar</foreign> (<foreign>āḷ-uṭaiyaṉ</foreign> + <foreign>nāyakar</foreign>) or <foreign>āḷ-uṭaiya <choice><orig>ṉ</orig><reg>n</reg></choice>āyakar</foreign>.</p>
 	<p>The poets of the <foreign>Tēvāram</foreign>, Appar, Cuntarar, and Campantar, are respectively known in epigraphical sources as <foreign>āḷ-uṭaiya v-aracu</foreign>, <foreign>āḷ-uṭaiya nampi</foreign>, and <foreign>āḷ-uṭaiya piḷḷaiyār</foreign> / <foreign>āḷ-uṭaiya tēvar</foreign>.</p>
 </div>
@@ -132,14 +132,14 @@
 		<bibl n="R1"><!--complex ref-->
 			<ptr target="bib:Ramachandran1954_01"/>
 			<citedRange>p. 62</citedRange>
-			<citedRange unit="plate">XXVII, no. 75</citedRange>
+			<citedRange unit="plate">XXVII, no. 75</citedRange><!--check plate number-->
 		</bibl>
 	
 		
 		<bibl n="R2"><!--complex ref-->
 			<ptr target="bib:Ramachandran2005_01"/>
 			<citedRange unit="page">74</citedRange>
-			<citedRange unit="page">VI, no. 75</citedRange>
+			<citedRange unit="plate">VI, no. 75</citedRange>
 		</bibl>
 		
 	</listBibl>	
