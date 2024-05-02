@@ -91,16 +91,16 @@
 	<div type="textpart" subtype="zone" n="A">
 		<head xml:lang="eng">Top of pedestal</head>
 		<ab>
-			<lb n="1"/>Ilaṅkāṭu
+			<lb n="A1"/>Ilaṅkāṭu
 		</ab>
 	</div>
 	
 	<div type="textpart" subtype="zone" n="B">
 		<head xml:lang="eng">Bottom of pedestal</head>
 	<p>
-		<lb n="1"/>tiru-mayilāpuri cē<choice><orig>n</orig><reg>ṉ</reg></choice>a-caṅkam ci<choice><orig>n</orig><reg>ṉ</reg></choice>a
-		<lb n="2" break="no"/>cē<choice><orig>n</orig><reg>ṉ</reg></choice>a-Ācāriyar <hi rend="grantha">śiṣyar gu</hi>ṇa<hi rend="grantha">sā
-		<lb n="3" break="no"/>gara-mu</hi><choice><orig>n</orig><reg>ṉ</reg></choice>i <hi rend="grantha">srī</hi>-tiruppaṇi</p>
+		<lb n="B1"/>tiru-mayilāpuri cē<choice><orig>n</orig><reg>ṉ</reg></choice>a-caṅkam ci<choice><orig>n</orig><reg>ṉ</reg></choice>a
+		<lb n="B2" break="no"/>cē<choice><orig>n</orig><reg>ṉ</reg></choice>a-Ācāriyar <hi rend="grantha">śiṣyar gu</hi>ṇa<hi rend="grantha">sā
+		<lb n="B3" break="no"/>gara-mu</hi><choice><orig>n</orig><reg>ṉ</reg></choice>i <hi rend="grantha">srī</hi>-tiruppaṇi</p>
 	</div>
 	
 </div>
