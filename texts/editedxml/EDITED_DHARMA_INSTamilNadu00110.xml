@@ -92,42 +92,41 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 			
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
- 		<lb n="1"/><milestone type="pagelike" unit="zone" n="1"/>
- 		<hi rend="grantha"><supplied reason="lost">s</supplied>vasti śrī</hi>
+ 		<lb n="1"/><milestone unit="zone" n="1"/><hi rend="grantha"><supplied reason="lost">s</supplied>vasti śrī</hi>
  	</ab>
  	
  	<lg n="1" met="āciriyappā">
  		
  		<l n="1">tiruma<choice><orig>n</orig><reg>ṉ</reg></choice>i viḷaṅkum Irukuva ṭa<choice><orig>n</orig><reg>ṉ</reg></choice>aiya ta<choice><orig>n</orig><reg>ṉ</reg></choice></l>
- 		<l n="2">tōḷum <supplied reason="lost">v</supplied><unclear>ā</unclear><supplied reason="lost">ḷum</supplied> <unclear>tu</unclear>ṇai-y e<choice><orig>n</orig><reg>ṉ</reg></choice>a-k karuti-k <milestone type="pagelike" unit="zone" n="2"/> kē<choice><orig>ḻ</orig><reg>ḷ</reg></choice>alar</l>
- 		<l n="3">vañca<milestone type="pagelike" unit="zone" n="3"/>ṉai kaṭantu vayirā<unclear>ka</unclear>rattu-<supplied reason="lost">k</supplied></l>
- 		<l n="4">kuñcara-k kuḻāmpala v(āri ye)ñcalil</l>
+ 		<l n="2">tōḷum <supplied reason="lost">v</supplied><unclear>ā</unclear><supplied reason="lost">ḷum</supplied> <unclear>tu</unclear>ṇai-y e<choice><orig>n</orig><reg>ṉ</reg></choice>a-k karuti-k <milestone unit="zone" n="2"/>kē<choice><orig>ḻ</orig><reg>ḷ</reg></choice>alar</l>
+ 		<l n="3">vañca<milestone unit="zone" n="3"/>ṉai kaṭantu vayirā<unclear>ka</unclear>rattu-<supplied reason="lost">k</supplied></l>
+ 		<l n="4">kuñcara-k kuḻāmpala v<unclear>āri ye</unclear>ñcalil</l>
  		<l n="5">cakkara k<unclear>ō</unclear><supplied reason="lost">ṭṭattu-t tārā varacaṉai-t</supplied></l> 
- 		<l n="6"><unclear>ti</unclear>k=ku nikaḻata<supplied reason="omitted">r</supplied> <unclear>t</unclear>iṟai ko<milestone type="pagelike" unit="zone" n="4"/>ṇtaruḷi</l>
- 		<l n="7">Arukka<choice><orig>n</orig><reg>ṉ</reg></choice>u<milestone type="pagelike" unit="zone" n="5"/><supplied reason="lost">t</supplied>ai<supplied reason="lost">ya</supplied>-t tācaiyil i<unclear>ru</unclear>kkuṅ</l>
+ 		<l n="6"><unclear>ti</unclear>k=ku nikaḻata<supplied reason="omitted">r</supplied> <unclear>t</unclear>iṟai ko<milestone unit="zone" n="4"/>ṇt-aruḷi</l>
+ 		<l n="7">Arukka<choice><orig>n</orig><reg>ṉ</reg></choice>u<milestone unit="zone" n="5"/><supplied reason="lost">t</supplied>ai<supplied reason="lost">ya</supplied>-t tācaiyil i<unclear>ru</unclear>kkuṅ</l>
  		<l n="8">kamalam aṉaiya nila-maka<supplied reason="lost">ḷ ta</supplied>ṉ<unclear>ai</unclear></l>
- 		<l n="9">muṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ī<supplied reason="lost">r-k kuḷi</supplied>tta va<choice><orig>ṉ</orig><reg>n</reg></choice>tāḷ tiru<milestone type="pagelike" unit="zone" n="1"/><lb n="2" break="no"/>-<supplied reason="lost">māl</supplied></l>
+ 		<l n="9">muṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ī<supplied reason="lost">r-k kuḷi</supplied>tta va<choice><orig>ṉ</orig><reg>n</reg></choice>tāḷ tiru<lb n="2" break="no"/><milestone unit="zone" n="1"/>-<supplied reason="lost">māl</supplied></l>
  		<l n="10"><supplied reason="lost">āti</supplied> kēḻal āki Eṭutt’ a<choice><orig>n</orig><reg>ṉ</reg></choice>ṉa</l>
  		<l n="11">yātuñ caliyā vakai yi<choice><orig>n</orig><reg>ṉ</reg></choice>it’ eṭu<supplied reason="lost">ttu</supplied>-t</l>
  		
- 		<l n="12">taṉ kuṭai <supplied reason="lost">ni</supplied><unclear>ḻa</unclear>l i<milestone type="pagelike" unit="zone" n="2"/>ṉpuṟa-v irutti<supplied reason="lost">l</supplied></l>
- 		<l n="13"><milestone type="pagelike" unit="zone" n="3"/><unclear>t</unclear>ikiriyum p<unclear>ul</unclear>i(yun t)i(c)aitoṟu n<choice><sic><unclear>i</unclear></sic><corr>a</corr></choice><unclear>ṭā</unclear>tti-p</l>
+ 		<l n="12">taṉ kuṭai <supplied reason="lost">ni</supplied><unclear>ḻa</unclear>l i<milestone unit="zone" n="2"/>ṉpuṟa-v irutti<supplied reason="lost">l</supplied></l>
+ 		<l n="13"><milestone unit="zone" n="3"/><unclear>t</unclear>ikiriyum p<unclear>ul</unclear>i(yun t)i(c)aitoṟu n<choice><sic><unclear>i</unclear></sic><corr>a</corr></choice><unclear>ṭā</unclear>tti-p</l>
  		<l n="14">pukaḻun taru<unclear>ma</unclear>mum puvito<unclear>ṟ</unclear>um <unclear>ni</unclear><supplied reason="lost">ṟutti</supplied></l>
  		<l n="15"><gap reason="lost" extent="unknown" unit="character"/> <unclear>ka</unclear><supplied reason="lost">ru</supplied>ṉaiy<supplied reason="lost">u</supplied>m</l> 		
- 		<l n="16"><supplied reason="lost">U</supplied>rimaic c<supplied reason="lost">u</supplied><milestone type="pagelike" unit="zone" n="4"/>ṟ<supplied reason="lost">ṟam</supplied>-āka-p piriyā<milestone type="pagelike" unit="zone" n="5"/> ta<supplied reason="lost">rā</supplied>ta<unclear>lam</unclear></l>
+ 		<l n="16"><supplied reason="lost">U</supplied>rimaic c<supplied reason="lost">u</supplied><milestone unit="zone" n="4"/>ṟ<supplied reason="lost">ṟam</supplied>-āka-p piriyā <milestone unit="zone" n="5"/>ta<supplied reason="lost">rā</supplied>ta<unclear>lam</unclear></l>
  		<l n="17">n<unclear>ika</unclear>ḻa <hi rend="grantha">ja</hi>ya<unclear>mu</unclear><supplied reason="lost">m t</supplied>ā<choice><orig>n</orig><reg>ṉ</reg></choice><unclear>um</unclear> vīṟṟ-irun=tu</l> 		
  		<l n="18">kula-maṇi <unclear>ma</unclear>kuṭa muṟai<supplied reason="lost">m</supplied>ai<supplied reason="lost">yil</supplied> cūṭi-t</l>
- 		<l n="19">taṉ<supplied reason="lost">ka</supplied>ḻal <unclear>ta</unclear><lb n="3" break="no"/><milestone type="pagelike" unit="zone" n="1"/>rāt<unclear>i</unclear>par cūṭa-c ceṅkōl</l>
+ 		<l n="19">taṉ<supplied reason="lost">ka</supplied>ḻal <unclear>ta</unclear><lb n="3" break="no"/><milestone unit="zone" n="1"/>rāt<unclear>i</unclear>par cūṭa-c ceṅkōl</l>
  		<l n="20">nāvalam pu<unclear>vi</unclear>to<supplied reason="omitted">ṟu</supplied>m naṭāttiya</l>
  		
  	</lg>
 	
  	<p>
- 		kō-v-i<supplied reason="lost">rā</supplied><hi rend="grantha">ja</hi>kē<hi rend="grantha">sa</hi>ri-varmmar-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a U<milestone type="pagelike" unit="zone" n="2"/>ṭaiyār <hi rend="grantha">śrī</hi>-<supplied reason="lost">rā</supplied><hi rend="grantha"><milestone type="pagelike" unit="zone" n="3"/>jen<choice><sic>t</sic><corr>d</corr></choice>ra</hi>-<gap reason="lost" extent="unknown" unit="character"/>
+ 		kō-v-i<supplied reason="lost">rā</supplied><hi rend="grantha">ja</hi>kē<hi rend="grantha">sa</hi>ri-varmmar-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a U<milestone unit="zone" n="2"/>ṭaiyār <hi rend="grantha">śrī</hi>-<supplied reason="lost">rā</supplied><hi rend="grantha"><milestone unit="zone" n="3"/>jen<choice><sic>t</sic><corr>d</corr></choice>ra</hi>-<gap reason="lost" extent="unknown" unit="character"/>
  	</p>
  	<p>
- 		<supplied reason="lost"><hi rend="grantha">je</hi></supplied>yaṅ-koṇṭa-<unclear>cō</unclear> <gap reason="lost" extent="unknown" unit="character"/> <unclear>ṟu</unclear>-t <milestone type="pagelike" unit="zone" n="4"/> <gap reason="lost" extent="unknown" unit="character"/> <milestone type="pagelike" unit="zone" n="5"/> <gap reason="lost" extent="unknown" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg> <gap reason="lost" extent="unknown" unit="character"/> <unclear>cca</unclear>tu<hi rend="grantha">pa</hi>n <gap reason="lost" extent="unknown" unit="character"/> ḷḷāṟu <gap reason="lost" extent="unknown" unit="character"/> <unclear>muṅ</unclear> k
- 		<lb n="4" break="no"/><milestone type="pagelike" unit="zone" n="1"/><supplied reason="lost">ā</supplied><hi rend="grantha">śya</hi>pa<choice><orig>n</orig><reg>ṉ</reg></choice> <unclear>t</unclear>iru-<unclear>nā</unclear>ḷ<supplied reason="lost">ḷāṟṟ-u</supplied>ṭ<supplied reason="lost">ai</supplied>yāṉuṅ kā<hi rend="grantha"><unclear>śya</unclear></hi><unclear>pa</unclear>-nārāyaṇa<choice><orig>n</orig><reg>ṉ</reg></choice> moḻi <gap reason="lost" quantity="3" unit="character" precision="low"/> <unclear>k</unclear>ā<hi rend="grantha">śya</hi>paṉ pa<unclear>ṭṭa</unclear>-nā<unclear>ra</unclear>ṇa<choice><orig>n</orig><reg>ṉ</reg></choice> <milestone type="pagelike" unit="zone" n="2"/> <gap reason="lost" quantity="4" unit="character" precision="low"/> <milestone type="pagelike" unit="zone" n="3"/> <gap reason="lost" extent="unknown" unit="character"/> <milestone type="pagelike" unit="zone" n="4"/> <gap reason="lost" extent="unknown" unit="character"/> <milestone type="pagelike" unit="zone" n="5"/> <gap reason="lost" extent="unknown" unit="character"/>
+ 		<supplied reason="lost"><hi rend="grantha">je</hi></supplied>yaṅ-koṇṭa-<unclear>cō</unclear> <gap reason="lost" extent="unknown" unit="character"/> <unclear>ṟu</unclear>-t <milestone unit="zone" n="4"/> <gap reason="lost" extent="unknown" unit="character"/> <milestone unit="zone" n="5"/> <gap reason="lost" extent="unknown" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ai</seg> <gap reason="lost" extent="unknown" unit="character"/> <unclear>cca</unclear>tu<hi rend="grantha">pa</hi>n <gap reason="lost" extent="unknown" unit="character"/> ḷḷāṟu <gap reason="lost" extent="unknown" unit="character"/> <unclear>muṅ</unclear> k
+ 		<lb n="4" break="no"/><milestone unit="zone" n="1"/><supplied reason="lost">ā</supplied><hi rend="grantha">śya</hi>pa<choice><orig>n</orig><reg>ṉ</reg></choice> <unclear>t</unclear>iru-<unclear>nā</unclear>ḷ<supplied reason="lost">ḷāṟṟ-u</supplied>ṭ<supplied reason="lost">ai</supplied>yāṉuṅ kā<hi rend="grantha"><unclear>śya</unclear></hi><unclear>pa</unclear>-nārāyaṇa<choice><orig>n</orig><reg>ṉ</reg></choice> moḻi <gap reason="lost" quantity="3" unit="character" precision="low"/> <unclear>k</unclear>ā<hi rend="grantha">śya</hi>paṉ pa<unclear>ṭṭa</unclear>-nā<unclear>ra</unclear>ṇa<choice><orig>n</orig><reg>ṉ</reg></choice> <milestone unit="zone" n="2"/> <gap reason="lost" quantity="4" unit="character" precision="low"/> <milestone unit="zone" n="3"/> <gap reason="lost" extent="unknown" unit="character"/> <milestone unit="zone" n="4"/> <gap reason="lost" extent="unknown" unit="character"/> <milestone unit="zone" n="5"/> <gap reason="lost" extent="unknown" unit="character"/>
  	</p>
  	 	 	      		
 </div>

@@ -94,7 +94,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
 			
 	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
- 		<lb n="1"/><milestone type="pagelike" unit="zone" n="1"/>svasti śrī
+ 		<milestone type="pagelike" unit="zone" n="1"/><lb n="1"/>svasti śrī
  	</ab>
 	
  	<lg met="āciriyappā" n="1">
@@ -132,8 +132,8 @@
  		<l n="28">Uḻuvaiyēṟeḻuti Uyar<hi rend="grantha">ja</hi>ya<hi rend="grantha">sta</hi>m<hi rend="grantha">bha</hi>m</l>
  		<l n="29"><lb n="29"/>Eḻil peṟa <unclear>n</unclear>iṟutti-t taṉ kaḻal paṇin toḻukum</l>
  		<l n="30"><lb n="30"/>Araicar<unclear>ka</unclear>ḷ<unclear>o</unclear>ṭu ceṇṭāṭi-p porupuli</l>
- 		<l n="31">v<choice><orig>i</orig><reg>ī</reg></choice>ra-k-koṭi<lb n="30" break="no"/>yoṭu tiyāka-k-koṭi-y e<unclear>ṭu</unclear>tt’</l>
- 		<l n="32">oṉṉalar kavarnta <lb n="32"/><milestone type="pagelike" unit="zone" n="2"/>toṉ ṉeti-p piṟakkam</l>
+ 		<l n="31">v<choice><orig>i</orig><reg>ī</reg></choice>ra-k-koṭi<lb n="31" break="no"/>yoṭu tiyāka-k-koṭi-y e<unclear>ṭu</unclear>tt’</l>
+ 		<l n="32">oṉṉalar kavarnta <milestone type="pagelike" unit="zone" n="2"/><lb n="32"/>toṉ ṉeti-p piṟakkam</l>
  		<l n="33">Ira<unclear>va</unclear><lb n="33" break="no"/>lar āṉōrkk’ <choice><orig>i</orig><reg>ī</reg></choice>yntu
  			</l>
  		<l n="34">viravali lava<lb n="34" break="no"/>ṉ viṭu taṇattukk’</l>
@@ -157,7 +157,7 @@
  		<l n="50">mu<choice><orig>n</orig><reg>ṉ</reg></choice> pe<supplied reason="lost">ṟi ta</supplied>va<supplied reason="omitted">r</supplied>k=ku <supplied reason="omitted">ku</supplied>ṟai varin to<lb n="55" break="no"/>rutā<choice><orig>n</orig><reg>ṉ</reg></choice></l>
  		<l n="51">cārat <gap reason="lost" quantity="2" unit="character" precision="low"/> Aṟaikaḻal taṉ pu<lb n="56" break="no"/>kaḻ pā<choice><unclear>ta</unclear><unclear>cu</unclear></choice> muṉpa māpiraṭṭaril</l>
  		<l n="52">Oru<lb n="57" break="no"/>vaṉai-p peṇṇuṭai Uṭutti <lb n="58"/>Or<supplied reason="lost">u</supplied>vāṉai</l>
- 		<l n="53">Añcu cikaipaṭa-c ci<lb n="59" break="no"/><milestone type="pagelike" unit="zone" n="3" break="no"/><gap reason="lost" quantity="1" unit="character" precision="low"/> rappittavaṉ <supplied reason="lost">vi</supplied>ṭutta</l>
+ 		<l n="53">Añcu cikaipaṭa-c ci<milestone type="pagelike" unit="zone" n="3" break="no"/><lb n="59" break="no"/><gap reason="lost" quantity="1" unit="character" precision="low"/> rappittavaṉ <supplied reason="lost">vi</supplied>ṭutta</l>
  		<l n="54"><lb n="60"/>pēṟkaṭai taṉṉuṭaṉ <lb n="61"/>pōkki</l>
  		<l n="55">Ā<hi rend="grantha">ha</hi>vamallaṉum <lb n="62"/>Ā<hi rend="grantha">ha</hi>vamalliyum</l>
  		<l n="56">Eṉṟu <lb n="63"/>piyar Iṭuvittu Aṉṟavaṉ <lb n="64"/><supplied reason="lost">viṭu</supplied>tta</l>
@@ -170,7 +170,7 @@
  		<l n="63">Aṅkatu kākka <supplied reason="lost">ni</supplied><lb n="75" break="no"/>ṉṟa pū <gap reason="lost" quantity="2" unit="character" precision="low"/></l>
  		<l n="64"><gap reason="lost" quantity="2" unit="character" precision="low"/> rākuta<lb n="76" break="no"/>ṉ mu<supplied reason="lost">ta</supplied> <gap reason="lost" quantity="5" unit="character" precision="low"/> ḷiṟṟ’</l>
  		<l n="65">a<lb n="77" break="no"/>raicar mu <gap reason="lost" quantity="5" unit="character" precision="low"/> r pariyo<lb n="78" break="no"/>ṭuṅ</l>
- 		<l n="66">kar<supplied reason="lost">iyoṭum paṭṭuka</supplied>-p <lb n="79"/><milestone type="pagelike" unit="zone" n="4"/><gap reason="lost" quantity="3" unit="character" precision="low"/> perunakar</l>
+ 		<l n="66">kar<supplied reason="lost">iyoṭum paṭṭuka</supplied>-p <milestone type="pagelike" unit="zone" n="4"/><lb n="79"/><gap reason="lost" quantity="3" unit="character" precision="low"/> perunakar</l>
  		<l n="67">v<unclear>i</unclear><hi rend="grantha">jai</hi>yarā<hi rend="grantha">ja</hi><unclear>ṉ</unclear> e<lb n="80" break="no"/>ṉṟu</l>
  		<l n="68">vīra-A<hi rend="grantha">bhiṣe</hi>kañ ce<lb n="81" break="no"/>ytu <hi rend="grantha">śrī</hi>-keḻu</l>
  		<l n="69">vi<hi rend="grantha">śva</hi>lōkat<unclear>tu</unclear> <lb n="82"/>viḷaṅku maṉu neṟi niṉṟu</l>
@@ -212,9 +212,8 @@
  	<p>
  		polin=ta <gap reason="lost" quantity="5" unit="character" precision="low"/> <supplied reason="lost">U</supplied> 		
  		<lb n="105" break="no"/>ṭaiyār tiru-naḷḷāṟ-uṭaiyārk=ku-c ci<unclear>ṟu-kālai</unclear> <hi rend="grantha">sa</hi>n=t<supplied reason="lost">i</supplied>yil
- 		<lb n="106"/>
  		<milestone type="pagelike" unit="zone" n="5"/>
- 		<supplied reason="lost">tiru</supplied>man=tirapōṉakattukk<supplied reason="lost">u</supplied> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>a</seg> A
+ 		<lb n="106"/><supplied reason="lost">tiru</supplied>man=tirapōṉakattukk<supplied reason="lost">u</supplied> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>a</seg> A
  		<lb n="107" break="no"/>yṅ kaṟi-y-amutu Oṉ <gap reason="lost" quantity="4" unit="character" precision="low"/> <supplied reason="lost">a</supplied>
  		<lb n="108" break="no"/>mutu Uriyum Aṭaikkā-y-amu<unclear>tu</unclear> <gap reason="lost" quantity="1" unit="character" precision="low"/>
  		<lb n="109" break="no"/>ttum {finalgomutra}<!--update-->
