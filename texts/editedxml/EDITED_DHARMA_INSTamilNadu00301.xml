@@ -109,17 +109,17 @@
   
 <div type="translation" source="bib:Ramachandran1954_01">
   	
-  	<p n="1-2">The Lord who was the greatest of the Buddhas.</p>			
+  	<p n="1">The Lord who was the greatest of the Buddhas.</p>			
 				
 </div>
 <div type="translation" resp="part:emfr">
  	
- 	<p n="1-2">The ultimate Lord who is the Buddha.</p>
+ 	<p n="1">The ultimate Lord who is the Buddha.</p>
  	
  </div>
       	
 <div type="commentary">
-	<p><ptr target="bib:Ramachandran1954_01"/> comments thus: <quote>Here Śākyamuni Buddha’s relative importance to other previous Buddhas such as Dīpaṅkara, etc., is implied.</quote></p>
+	<p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl> comments thus: <quote>Here Śākyamuni Buddha’s relative importance to other previous Buddhas such as Dīpaṅkara, etc., is implied.</quote></p>
 </div>
       	
 <div type="bibliography">
