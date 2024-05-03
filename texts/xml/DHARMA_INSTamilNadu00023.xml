@@ -8,7 +8,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvaṇṇāmalai, Aruṇācaleśvara temple?, Vīrappratāpa śrī-Vīrakṛṣṇadeva Mahārāja, no date given</title>
+				<title>Tiruvaṇṇāmalai, Aruṇācaleśvara temple?, Vīrappratāpa śrī-Vīrakṛṣṇadeva
+					Mahārāja, no date given</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -40,28 +41,33 @@
 				</availability>
 				<date from="2019" to="2025">2019-2025</date>
 			</publicationStmt>
-<sourceDesc>
-	<msDesc>
-		<msIdentifier>
-			<repository>DHARMAbase</repository>
-			<idno/>
-		</msIdentifier>
-		<msContents>
-			<summary>Incomplete. Endowment on the occasion of the Vasanta festival given to sixty dancing girls, ten reciters (<foreign>otuvār</foreign>) of sacred hymns (<foreign>tiruppāṭṭu</foreign>), two brahmins performing <foreign>adhyayana</foreign>, among others.</summary>
-		</msContents>
-		<physDesc>
-			<handDesc>
-				<p>The transliteration makes no distinction between Tamil and Grantha letters. To be completed with the pictures provided by the EFEO.</p><p/>
-			</handDesc>
-		</physDesc>
-	</msDesc>
-</sourceDesc>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Incomplete. Endowment on the occasion of the Vasanta festival given
+							to sixty dancing girls, ten reciters (<foreign>otuvār</foreign>) of
+							sacred hymns (<foreign>tiruppāṭṭu</foreign>), two brahmins performing
+								<foreign>adhyayana</foreign>, among others.</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>The transliteration makes no distinction between Tamil and Grantha
+								letters. To be completed with the pictures provided by the EFEO.</p>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<projectDesc>
 				<p>The project DHARMA has received funding from the European Research Council (ERC)
-                        under the European Union's Horizon 2020 research and innovation programme (grant
-                        agreement no 809994).</p>
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
 			</projectDesc>
 			<schemaRef type="guide" key="EGDv01"
 				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
@@ -69,12 +75,12 @@
 				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
 					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                            ERC-DHARMA whose data are open to the public.</p>
+						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
 				<prefixDef ident="part" matchPattern="([a-z]+)"
 					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
 			</listPrefixDef>
 		</encodingDesc>
@@ -82,7 +88,7 @@
 			<change who="part:reda" when="2024-04-18" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
-<text xml:space="preserve">
+	<text xml:space="preserve">
 <body>
 		
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
@@ -92,7 +98,7 @@
 	</ab>
 	
 	<p>
-		śrīmaṉ mahā Irācātirāca Irācaparameśvara mūvarāya-kaṇṭan Ariya Irāyavipāṭa Aṭṭaikku Irāya-maṉōbhayaṅkara pāṣaikkutta-p puvarāyar-kaṇṭa pūrvva-dakṣṇa-paccima-samuttirācura yavarācciya-sttābbhaṉācāriya gajapati-vibhāṭa śrī-vīrappratāpa-śrī-vīra-kiruṣṇatēva-mahārāyar vicaiyanakarattilē iruntu pūrvva-tikku vicai<supplied reason="omitted">ya</supplied> y-āttirai Āka Eḻuntaruḷi Utaiyakiri-turggam mutalē kaikkoṇṭu Irāvuttarāya-mahāpāttiṟattaiyum piṭittu-k-koṇṭu Attaṅki viṉikoṇṭai vellaṅkoṇṭai nākāccunikoṇṭai taṅ<unclear>koṭu</unclear> 
+		śrīmaṉ-mahā-Irācātirāca-Irācaparameśvara-mūvarāyar kaṇṭaṉ Ariya-Irāya-vipāṭa-Aṭṭatikku Irāya-maṉōbhayaṅkara-pāṣaikku-t ta-p puvarāyar kaṇṭa pūrvva-dakṣiṇa-paccima-samuttirāccura yavarācciya-sttābhaṉācāriya-gajapati-vibhāṭa-śrī-vīrappratāpa-śrī-vīra-kiruṣṇa-tēva-mahārāyar vicaiyanakarattilē Iruntu pūrvva-tikku vicai<supplied reason="omitted">ya</supplied> y-āttirai Āka Eḻuntaruḷi Utaiyakiri-turggam mutalē kaikkoṇṭu Irāvuttarāya-mahāpāttiṟattaiyum piṭittu-k-koṇṭu Attaṅki viṉikoṇṭai vellaṅkoṇṭai nākāccunikoṇṭai taṅ<unclear>koṭu</unclear> 
 		<lb n="2"/>ketavāram Itu mutalāṉa kiri-turkkaṅkaḷ sttala-turkkaṅkaḷ Ēkatāṭi Āka kaikkoṇṭu koṇṭavīṭṭu-turkattil mēlē viṭṭu Ālakkai piṭittu Anta-t turkattaiyum kaikkoṇṭu pratāparuttira kecapatirāyar kumārar vīrappattiṟarāyaṉaiyum kumāra-ampīrapāttiṟaṉ kumāraṉ nāraṉ<unclear>har</unclear>itevu Irāccūra malluvakāṉṉaṉ uttaṇṭa-kāṉaṉ caṉṉiyāla kacavā-pāttiraṉ <unclear>pū</unclear>cappāṭi Irācci Irācaṉ śrīnātarācaṉ Ilakṣmi<unclear>ma</unclear><supplied reason="omitted">pa</supplied>ti Irācaṉ paccima-vāla cantira-mahāpāttiraṉ Ivarkaḷ mutalāṉa pāttirar cāvanta<supplied reason="omitted">r</supplied> Āṉa maṉṉiyar
 		<lb n="3"/>kaḷaiyum cīvakkiṟākam āka piṭittu-k-koṇṭu Avarkaḷukku Apaiyatāṉam koṭuttu taraṇikkoṭṭai Amarecurattil tulāpuruṣa-mahātāṉam paṇṇi tirumpi vicaiyanakarattukku Eḻuntaruḷicc<supplied reason="omitted">ā</supplied>mpr<unclear>ā</unclear>jjiyam paṇṇikkoṇṭu piṉṉaiyum kaliṅkatēcam tikkuvicaiyam Āka de<unclear>be</unclear>cavāṭaikku Eḻuntaruḷi koṇṭa-p-paḷḷi-t tuṟkamum kaikkoṇṭu Anta tuṟgattiṉ mēlē Irunta prakarācaṉ-ciraccantira-mahāpāttiraṉ poṭajaṉa-mah<supplied reason="omitted">ā</supplied> pāttiraṉ vicili-kāṉāṉ Ivarkaḷ mutal Āṉavarkaḷaiyum cīvakiṟakam Āka piṭittu apaiyattāṉamum
 		<lb n="4"/>koṭuttu Antakiri Uṇṭānkoṇṭa Uṟuḷakoṇṭa Aruvappaḷḷi callippaḷḷi kantiko<supplied reason="omitted">ṇ</supplied>ṭai kappaluvāyukoṇṭai kampameṭṭu kaṉakakiri caṅkakiri Itu mutal Āṉa teluṅkaraṇaiya-t tuṟkam Ekatāṭi Āka kaikkoṇṭu ciṅkāttiri poṭṭunūṟku Eḻuntaruḷi Aṅkē ceyattampam nāṭṭi makā-tānam ceytu tirumpi 
@@ -102,7 +108,7 @@
 		<lb n="6" break="no"/>kku taṇṇīr vara takkatāka veṭṭiṉa tirumalaitēvi-ammaṉ-camuttiram Eḻām tirunāḷ maṇṭapam makara-caṅkiṟānti-maṇṭapam viṉāyakan tēr tiruvīti Ittaṉaiyum kaṭṭivittu vāṇavataraiyaṉ kōpuravācal katavu kāl paṭi Uttamacōḻaṉ tiruvācal katavu kāl mēlpaṭi mēl-palakaṇi Uṇṇāmulai nācciyār kōyil caṭṭaipperu perumāḷ kōyilukku mēṟkuvācal katavu katavu kāl veṅkala-p-paṭi vācal katavu katavu kāl tūpi Ittaṉaiyum poṉ-pūci keṟpakiṟakavācal muṉmukapattiṟam kuṟaṭu kaṭṭi mēl kampam niṟuti koṭunkai Iṭṭu mēl poṉpūcivittu maṭappaḷimuṉ veṭṭivitta Ārāamuta kiṇaṟu 
 	</p>
 	<p>
-		<gap quantity="4" unit="character" reason="undefined"></gap> yavaṟku pañcāmiṟutam Apicēkam nāḷ
+		<gap quantity="4" unit="character" reason="undefined"/> yavaṟku pañcāmiṟutam Apicēkam nāḷ
 		<lb n="7"/>Oṉṟukku Aruci Aṟukalam nēy paṭi muṉṟu vella<supplied reason="omitted">m</supplied> palam oṉpatum payaṟu pa<unclear>la</unclear>m nālu Uppu paṭi Oṉṟu miḷaku paṭi kāl cantaṉam kaḻañcu muppattu-oṉṟu karpūram kaḻañcarai taṭṭu puḻuku kaḻañcu Arai Inta cantikku viṭṭa tēvaṭiyār pēr Aṟupatu Atukku takka meḷam tirumañcaṉam Eṭuppār pēr pattu tiruppāṭṭu Otuvār pēr pattu Attiyana pirāmaṇar Iraṇṭu pallakku cervaikku Attiyanam Ōtum pēr Iraṇṭu
 	</p>
 	
