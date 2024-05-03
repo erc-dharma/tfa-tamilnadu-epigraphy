@@ -27,7 +27,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_INSTamilNadu00382</idno>
+            <idno type="filename">DHARMA_INSTamilNadu00321</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -47,7 +47,7 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Label with donor’s name on a Buddhist bronze.</summary>
+                  <summary>Label or donor’s name on a Buddhist bronze.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
@@ -93,7 +93,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
                           
 	<p>
-		<lb n="1"/>naṅkai-piḷḷai <g type="gomutraFinal"/> nāyakar <g type="gomutraFinal"/></p>
+		<lb n="1"/>Āṉantar tēvar</p>
 	
 </div>
           
@@ -110,19 +110,19 @@
   
 <div type="translation" source="bib:Ramachandran1954_01">
   	
-  	<p n="1">The Nāyakar (i.e., Buddha) donated by Naṅkai Piḷḷai.</p>			
+  	<p n="1">The Tēvar <supplied reason="explanation">i.e., Buddha</supplied> donated by Āṉantar <supplied reason="explanation">Ānanda</supplied> / Buddha the blissful.</p>			
 				
 </div>
 <div type="translation" resp="part:emfr">
  	
- 	<p n="1"><supplied reason="subaudible">Of</supplied> Naṅkai Piḷḷai. <supplied reason="subaudible">This is</supplied> the Lord.</p>
+ 	<p n="1">The God <supplied reason="subaudible">of</supplied> Āṉantar / The God, the Blissful One.</p>
  	
  </div>
       	
-<div type="commentary">
-	<p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl> comments thus: <quote>The donor’s name is recorded. The donor’s name is appropriately separated from the term Nāyakar denoting unambiguously the donor’s and donee’s names.</quote></p>
-</div>
-			      	
+<!--<div type="commentary">
+	
+</div>-->
+      	
 <div type="bibliography">
               
 	<p>Edited in <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>, with a facsimile.</p>
@@ -140,7 +140,7 @@
 		<bibl n="R2"><!--complex ref-->
 			<ptr target="bib:Ramachandran2005_01"/>
 			<citedRange unit="page">100</citedRange>
-			<citedRange unit="plate">VI, no. 82</citedRange>
+			<citedRange unit="plate">III, no. 21</citedRange>
 		</bibl>
 		
 	</listBibl>	
