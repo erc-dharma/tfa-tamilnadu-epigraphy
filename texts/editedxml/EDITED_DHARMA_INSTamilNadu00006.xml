@@ -8,7 +8,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tirukaṇṭheśvaram, Tirumūlanātar temple, time of Jaṭāvarman Sundarapāṇḍya I, year 14</title>
+            <title>Tirukaṇṭheśvaram, Tirumūlanātar temple, time of Jaṭāvarman Sundarapāṇḍya I,
+					year 14</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:reda">
@@ -51,7 +52,8 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>The <foreign>repha</foreign> in conjunct is a dot above the letter.</p>
+                     <p>The <foreign>repha</foreign> in conjunct is a dot above the
+								letter.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -165,10 +167,10 @@
 		<l n="65">poṅkoḷi yārmunnirum puya-t talaṅkalum viḷaṅka-p</l> <!--@emfr: part of the line 81 in standard version-->
 		<l n="66"><gap reason="lost" quantity="5" unit="character"/><lb n="18" break="no"/>-t tiyāka valli pol viramun tiyākamum </l>
 		<l n="67">puvaṉam uḻutu<supplied reason="lost">ṭai</supplied>yā ḷikuppa avaṉuṭa<choice><orig>n</orig><reg>ṅ</reg></choice></l>
-		<l n="66">kaṅkaiv<choice><sic>i</sic><corr>ī</corr></choice>ṟ ṟiruntateṉa maṅkaiyar tilatam</l>
-		<l n="66">Eḻicai vallapi Eḻulaka muṭai<supplied reason="lost">yā</supplied>ḷ</l>
-		<l n="66">vāḻi malar<supplied reason="lost">n</supplied>tiṉi tiruppa vaḻiyum</l>
-		<l n="66"><lb n="19" break="no"/>vāḷōṭum viṟṟiruntaruḷiya</l>
+		<l n="68">kaṅkaiv<choice><sic>i</sic><corr>ī</corr></choice>ṟ ṟiruntateṉa maṅkaiyar tilatam</l>
+		<l n="69">Eḻicai vallapi Eḻulaka muṭai<supplied reason="lost">yā</supplied>ḷ</l>
+		<l n="70">vāḻi malar<supplied reason="lost">n</supplied>tiṉi tiruppa vaḻiyum</l>
+		<l n="71"><lb n="19" break="no"/>vāḷōṭum viṟṟiruntaruḷiya</l>
 	</lg>
 	
 	<p>
