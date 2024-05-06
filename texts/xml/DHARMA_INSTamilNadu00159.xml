@@ -94,23 +94,32 @@
 	</ab>
 	
 	<lg n="1" met="āciriyappā">
-		<!--change the supplied lost by gap and evaluate number of missing characters-->
 		<l n="1"><unclear>p</unclear>ū maruv<unclear>i</unclear>ya t<unclear>iru</unclear>-mātum pu<supplied reason="lost">vi-m</supplied>ātum ceya-mātum</l>
-		<l n="2">nā maruv<unclear>iya</unclear> kalai-mātum pukaḻ-mātu<unclear>m</unclear> naya<unclear>ntu</unclear> pu<supplied reason="lost">lka</supplied></l>
-		<l n="3"><supplied reason="lost">Arumaṟai</supplied> <unclear>v</unclear><supplied reason="lost">i</supplied>t<supplied reason="lost">i</supplied>ne<unclear>ṟi Aṉai</unclear>ttu<supplied reason="lost">n taḻaippa</supplied></l>
-		<l n="4"><supplied reason="lost">varumu<lb n="2" break="no"/>ṟai</supplied>Urimaiyāl maṇimuṭi cūṭi-t</l>
-		<l n="5">tiṅkaḷ veṇ-kuṭai-t ticai-k kaḷ<choice><sic>u</sic><corr>i</corr></choice>uṟ’ eṭṭun</l>
+		<l n="2">nā maruv<unclear>iya</unclear> kalai-mātum pukaḻ-mātu<unclear>m</unclear> naya<unclear>ntu</unclear> pu<gap reason="lost" quantity="2" unit="character" precision="low"/></l>
+		<l n="3"><gap reason="lost" quantity="4" unit="character" precision="low"/> <unclear>v</unclear><supplied reason="lost">i</supplied>t<supplied reason="lost">i</supplied>ne<unclear>ṟi Aṉai</unclear>ttu<supplied reason="lost">n</supplied> <gap reason="lost" quantity="4" unit="character" precision="low"/></l>
+		<l n="4"><gap reason="lost" quantity="3" unit="character" precision="low"/> <lb n="2"/><gap reason="lost" quantity="1" unit="character" precision="low"/> Urimaiyāl maṇimuṭi cūṭi-t</l>
+		<l n="5">tiṅkaḷ veṇ-kuṭai-t ticai-k kaḷ<choice><sic>u</sic><corr>i</corr></choice>ṟ’ eṭṭun</l>
 		<l n="6">taṅku taṉikkūṭan tā<choice><orig>n</orig><reg>ṉ</reg></choice>eṉa viḷaṅka</l>
-		<l n="7">karuṅ<unclear>kal</unclear><supplied reason="lost">i</supplied>-p paṭṭiyai-c ceṅ<supplied reason="lost">k</supplied>ō<!--only kompu is visible--><supplied reason="lost">l tuṟappap</supplied></l>
-		<l n="8"><gap reason="lost" extent="unknown" unit="character"/><lb n="3" break="no"/>ruṅ katir āḻi puvi varaittuṭaṉ vara</l>
+		<l n="7">karuṅ<unclear>kal</unclear><supplied reason="lost">i</supplied>-p paṭṭiyai-c ceṅ<supplied reason="lost">k</supplied>ō<!--only kompu is visible--><supplied reason="lost">l</supplied> <gap reason="lost" quantity="5" unit="character" precision="low"/></l>
+		<l n="8"><gap reason="lost" quantity="1" unit="character" precision="low"/><lb n="3" break="no"/>ruṅ katir āḻi puvi va<unclear reason="eccentric_ductus">ḷa</unclear>rttuṭaṉ vara</l>
 		<l n="9"><surplus>vi</surplus>villavar Iraṭṭar m<choice><orig>i</orig><reg>ī</reg></choice>ṉavar ciṅkaḷar</l>
 		<l n="10">pallavar nu<unclear>ta</unclear>likaḷ pā<reg>r</reg>ttivar paṇ<supplied reason="lost">i</supplied>ya</l>
 		<l n="11">Eṇṇaruṅ <supplied reason="lost">ka</supplied>ṟpa maṇṇakam puṇa<supplied reason="omitted">r</supplied>ntu</l>
-		<l n="12"><gap reason="lost" extent="unknown" unit="character"/><lb n="4"/><gap reason="lost" extent="unknown" unit="character"/></l>
-	</lg>	
+		<l n="12"><gap reason="lost" quantity="7" unit="character" precision="low"/><lb n="4" break="no"/>ṅṅ<!--looks like dede-->ā<hi rend="grantha">sa</hi>ṉattu-p</l>
+		<l n="13">puvaṉa-muḻut-uṭaiyāḷoṭum v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-irunt-aruḷiya</l>
+	</lg>
+				
+	<p>
+		kō-p-parakēcari-paṟmar-āṉa tiripuvaṉa-c-cakkarava<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-rē<unclear reason="eccentric_ductus">ja</unclear>-r<unclear>ē</unclear><unclear reason="eccentric_ductus">ja</unclear>-rē<unclear reason="eccentric_ductus">ja</unclear>-deva<reg>r</reg>kku yā<supplied reason="lost">ṇṭu</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+	</p>
 	
 	<p>
-		<lb n="5" break="no"/>...
+		<lb n="5"/><unclear>ti</unclear>ru-naḷḷāṟ-uṭaiyarkku Upaiyam-Āka Uyya-k-koṇṭār-vaḷanāṭṭu kuṟu<unclear>m</unclear>pūr-nāṭṭu-<unclear>k</unclear> kāyākkuṭiyāṉ Utaiya t<unclear>i</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="6" break="no"/>maṅkalattu-k kā<unclear>ra</unclear>mpil ceṭ<unclear>ṭu</unclear> tūṟpil tā<choice><sic>p</sic><corr>m</corr></choice>ōtira-paṭṭaṉ U<supplied reason="lost">p</supplied>aiya<choice><orig>mm</orig><reg>m</reg></choice>-āka tirunaḷḷāṟ-uṭaiyarkku ciṟu-kā<supplied reason="lost">lai</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="7"/><gap reason="lost" quantity="2" unit="character"/> yaruḷa Ic-ceppu vaṭṭakai <hi rend="grantha">sa</hi>ka<hi rend="grantha">sra</hi> <gap reason="illegible" quantity="1" unit="character"/> tārai On<gap reason="illegible" quantity="1" unit="character"/>l Āṭi Aruḷuk<supplied reason="lost">ai</supplied>kku nittam nāḻi-p pā<unclear>l āṭi</unclear> Aru <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="8"/>...
+
+		
 		<lb n="20" break="no"/>...
 	</p>
 	
@@ -135,7 +144,7 @@
       	
 <div type="bibliography">
 	
-	<p>This edition by G. Vijayavenugopal (2019). Reviewing, encoding, critical apparatus, and translation by Emmanuel Francis (2020).</p>
+	<p>This edition by G. Vijayavenugopal (2019). Reviewing, encoding, critical apparatus, and translation by Emmanuel Francis (2024).</p>
 	
 	<!--<listBibl type="primary"/>-->		
 	
