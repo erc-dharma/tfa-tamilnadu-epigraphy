@@ -9,20 +9,20 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, time of Kulottuṅga I, year lost</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:vija">
-						<forename>G.</forename>
-						<surname>Vijayavenugopal</surname>
-					</persName>
-				</respStmt>
+			    <respStmt>
+			        <resp>intellectual authorship of edition</resp>
+			        <persName ref="part:vija">
+			            <forename>G.</forename>
+			            <surname>Vijayavenugopal</surname>
+			        </persName>
+			    </respStmt>
+			    <respStmt>
+			        <resp>EpiDoc encoding</resp>
+			        <persName ref="part:emfr">
+			            <forename>Emmanuel</forename>
+			            <surname>Francis</surname>
+			        </persName>
+			    </respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
