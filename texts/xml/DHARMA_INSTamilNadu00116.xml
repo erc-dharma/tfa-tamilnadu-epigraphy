@@ -106,12 +106,63 @@
  		<lb n="12" break="no"/><unclear>ṟai</unclear>-y-ili ceytu koṭutta cu<unclear>ṅ</unclear>
  		<lb n="13" break="no"/>ka<choice><orig>n</orig><reg>ṉ</reg></choice> tavirtta cōḻa-viḷākattu
  		<lb n="14" break="no"/>kku nilam āvatu
- 		
- 		<milestone n="2" unit="zone" type="pagelike"/>
- 		<lb n="16" break="no"/>...
- 		
- 		<milestone n="3" unit="zone" type="pagelike"/>
- 		<lb n="29"/>...
+ 	</p>
+	<p> 		
+ 		Iv<unclear>v</unclear>-ūr-k k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pi
+		<lb n="15" break="no"/>ṭākai putta-k-kuṭi<supplied reason="lost">yi</supplied>l nā <gap reason="illegible" quantity="1" unit="character"/>
+		
+		<milestone n="2" unit="zone" type="pagelike"/>
+		<lb n="16" break="no"/>paṭṭa ni
+		<lb n="17" break="no"/>lam vē
+		<lb n="18" break="no"/>li
+	</p>
+	<p>
+		In-ni
+		<lb n="19" break="no"/>lam <unclear>v</unclear>ēli
+		<lb n="20" break="no"/>yum I<unclear>ṟai</unclear>
+		<lb n="21" break="no"/>yili cey
+		<lb n="22" break="no"/>tu ko<supplied reason="lost">ṭut</supplied>
+		<lb n="23" break="no"/>tōm
+	</p>
+	<p>
+		<hi rend="grantha">śrī</hi>-ca⌈
+		<lb n="24" break="no"/><hi rend="grantha">ṇḍeśvara</hi>
+		<lb n="25" break="no"/><gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="26"/><gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="27"/><gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="28"/>In-nila<unclear>m</unclear>
+		
+		<milestone n="3" unit="zone" type="pagelike"/>
+		<lb n="29"/>Iṟai-y-ili cey		
+		<lb n="30" break="no"/>tu koṭuttu Iṭā
+		<lb n="31" break="no"/>kaḷūr nāṭuṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> paṭṭa<supplied reason="omitted">r</supplied>
+		<lb n="32"/>pakkal nāṅkaḷ ko
+		<lb n="33" break="no"/>ṇṭa nellu <g type="undefined"/>
+		<lb n="34"/><g type="undefined"/>
+	</p>
+	<p>
+		In-nellu <g type="undefined"/> 
+		<lb n="35" break="no"/><g type="undefined"/> ḷattukkuṅ kala
+		<lb n="36" break="no"/>ttū-p patakk-āka-p po
+		<lb n="37" break="no"/>linta palicai nellu
+		<lb n="38"/>Iru-nūṟṟ’ eṇpati<choice><orig>n</orig><reg>ṉ</reg></choice>
+		<lb n="39"/>kalam
+	</p>
+	<p>
+		In-nell iru-nū
+		<lb n="40" break="no"/>ṟṟ’ eṇpati<choice><orig>n</orig><reg>ṉ</reg></choice> kalamum
+		<lb n="41"/>Ā<hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>ra</hi>tāram Iṟai-y-ili
+		<lb n="42"/>A<choice><orig>n</orig><reg>ṉ</reg></choice>upavitt' in-nāṭu⌈
+		<lb n="43" break="no"/><supplied reason="lost">ṭ</supplied>ai <gap reason="lost" quantity="2" unit="character" precision="low"/> n pa<unclear>ṭṭār</unclear> vā <gap reason="lost" quantity="2" unit="character" precision="low"/>	
+		<lb n="44" break="no"/><gap reason="lost" quantity="12" unit="character" precision="low"/>
+		<lb n="45" break="no"/><gap reason="lost" quantity="12" unit="character" precision="low"/>
+		<lb n="46" break="no"/><gap reason="lost" quantity="12" unit="character" precision="low"/>
+		<lb n="47" break="no"/><gap reason="lost" quantity="12" unit="character" precision="low"/>
+		<lb n="48" break="no"/><gap reason="lost" quantity="10" unit="character" precision="low"/>yum Ā<supplied reason="lost"><hi rend="grantha">ca</hi></supplied>
+		<lb n="49" break="no"/><supplied reason="lost"><hi rend="grantha">n<choice><orig>t</orig><reg>d</reg></choice>ra</hi>tā</supplied>ram <supplied reason="lost">i</supplied><unclear>ṟai</unclear>-y-ili ve
+	</p>
+	<p>
+		<gap reason="lost" extent="unknown" unit="line"/>									
  	</p>
 </div>
 	
@@ -130,7 +181,11 @@
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1-14">
+      			The land 
       			...
+      			that we have given tax-free as land free of assesment for a <foreign>maṭam</foreign>
+      			...
+      			is <supplied reason="subaudible">as follows</supplied>:
       		</p>
       		
       	</div>
@@ -144,13 +199,11 @@
 	<p>Reported in <bibl><ptr target="bib:ARIE1965-1966"/></bibl> (ARIE/1965-1966/B/1965-1966/443).</p>
 	
 	<p>
-		Edited (lines 28ff. only) in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 499); re-edited (44 lines) in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 16), with photos.</p>
-	<p>
-		Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 499).		
+		Edited (lines 28ff. only) in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 499); re-edited (44 lines) in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 16), with photos. Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 499).		
 	</p>
 	
 	<p>
-		This edition by G. Vijayavenugopal (2019). Review and updates (based on photos by N. Ramaswamy), encoding, critical apparatus and translation by Emmanuel Francis (2024).
+		This edition by G. Vijayavenugopal (2019). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016). 
  	</p>
 	
       		<listBibl type="primary">
