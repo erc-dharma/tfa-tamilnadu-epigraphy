@@ -105,27 +105,44 @@
 		<lb n="5" break="no"/>lōttu<supplied reason="lost">ṅka-cōḻa</supplied>d<unclear>e</unclear>vark=ku yāṇṭu <gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	<p>
-		...
+		<supplied reason="lost"><hi rend="grantha">rājarāja</hi>-nārāyaṇa-vaḷa</supplied>
+		<lb n="6" break="no"/>-nāṭṭu <unclear>mu</unclear><supplied reason="lost">ḻaiyūr-n</supplied><unclear>ā</unclear>ṭṭu <hi rend="grantha">brahmade</hi>yam <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">maṅka</supplied>
+		<lb n="7" break="no"/>lattu<supplied reason="lost">-p pe</supplied><unclear>r</unclear>uṅ-kuṟi-p peru-makkaḷōm <unclear>I</unclear> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">tēvata</supplied>
+		<lb n="8" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>am-āka Iṟai-y-ili-y-āka nīrōṭ’ aṭṭi kuṭutta <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="9"/>-<unclear>nā</unclear>ṭṭu vāy-k-kālukku vaṭakkum pāṟkuḷa <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="10"/>na<hi rend="grantha">nda</hi>-vā<choice><orig>n</orig><reg>ṉ</reg></choice>attukku teṟkum nilak kuḻi <num value="670">6 <g type="numeral">100</g> 7 <supplied reason="lost"><g type="numeral">10</g></supplied></num> <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="11" break="no"/>m-āka kuḻi nā<choice><orig>n</orig><reg>ṉ</reg></choice>ūṟu It-tiru-na<hi rend="grantha">nda</hi>-vā<choice><orig>n</orig><reg>ṉ</reg></choice>attuk=ku <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="12" break="no"/>Im cāśvatīkam-āka-k kuḻi <num value="670">6 <g type="numeral">100</g> 7 <g type="numeral">10</g></num>-ñ ce <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="13" break="no"/>ṇiyum <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>aṇḍeśvara-de</hi>var <hi rend="grantha">śrī-hasta</hi>tt<choice><orig>ī</orig><reg>ī</reg></choice><supplied reason="lost">l</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="14" break="no"/>ṇi<choice><orig>n</orig><reg>ṉ</reg></choice>ōm peruṅ-kuṟi-p peru-makkaḷōm <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="15" break="no"/>v<supplied reason="lost">ē</supplied>ḷ<choice><orig>u</orig><reg>ū</reg></choice>r kiḻavaṉ vēḷāṉ <hi rend="grantha">rājarāja</hi>-nārā<supplied reason="lost">yaṇa-vaḷa-nāṭṭu</supplied><gap reason="lost" extent="unknown" unit="character"/>		
 	</p>
 </div>
 	
-<!--<div type="apparatus">
+<div type="apparatus">
            
 	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">...</rdg>
-			<rdg source="bib:Vijayavenugopal2017_01">...</rdg>
+		<app loc="12">
+			<lem><num value="670">6 <g type="numeral">100</g> 7 <g type="numeral">10</g></num>ñ ce</lem>
+			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01"><num value="670">6 <g type="numeral">100</g> 7</num>m Ic ce</rdg>
+		</app> 
+	</listApp>
+	<listApp>
+		<app loc="14">
+			<lem>ṇi<choice><orig>n</orig><reg>ṉ</reg></choice>ōm</lem>
+			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">ttōm</rdg>
+			<note>The lacuna can be restored as <foreign>paṇṇiṉōm</foreign>, "we have ordered."</note>
 		</app> 
 	</listApp>
 	
-</div>-->
+</div>
       	
       	<div type="translation" resp="part:emfr">
       		
       		<p n="1"><supplied reason="lost">Prosperity! Fortune!</supplied></p>
       		<p n="4-5">Umpteenth year of the glorious king Kulottuṅga Cōḻa, <hi rend="italic">alias</hi> the king Rāja<supplied reason="lost">kesarivarman</supplied>,</p>
-      		<p n="2-4">who graciously ... [<foreign>meykkīrtti</foreign> of Kulottuṅga Cōḻa]</p>
+      		<p n="2-4">who graciously ... [<foreign>meykkīrtti</foreign> of Kulottuṅga Cōḻa<note>The extant portions of this <foreign>meykkīrtti</foreign> show shared text with two late Pāṇḍya <foreign>meykkīrtti</foreign>s found in <bibl><ptr target="bib:Cuppiramaniyam1983_01"/></bibl>, one of Śrīvallabha (p. 219) and one of  Vikrama Pāṇḍya (p. 270). There is no <foreign>meykkīrtti</foreign> starting with <foreign>tirumakaḷ cayamakal</foreign> for any Cōḻa king in <bibl><ptr target="bib:Cuppiramaniyam1983_01"/></bibl>.</note>]</p>
+      		<p n="5-15">...</p>
       		
       	</div>
       	
@@ -137,50 +154,50 @@
 	
 	<p>Reported in <bibl><ptr target="bib:ARIE1965-1966"/></bibl> (ARIE/1965-1966/B/1965-1966/446).</p>
 	
-	<p>
-		Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 466); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 17), with photos. Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 466).		
+	<p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 466); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 17), with photos. Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 466).		
 	</p>
 	
-	<p>
-		This edition by G. Vijayavenugopal (2019). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016). 
- 	</p>
+	<p>This edition by G. Vijayavenugopal (2019). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016). 
+	</p>
 	
-      		<listBibl type="primary">
-      			
-      			<bibl n="K+V">
-      				<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
-      				<citedRange unit="item">466</citedRange>
-      				<citedRange unit="page">417-418</citedRange>
-      			</bibl>
-      			
-      			<bibl n="K+al">
-      				<ptr target="bib:Kuppusamy+al2010_01"/>
-      				<citedRange unit="item">466</citedRange>
-      				<citedRange unit="page">198</citedRange>
-      			</bibl>
-      			
-      			<bibl n="V">
-      				<ptr target="bib:Vijayavenugopal2017_01"/>
-      				<citedRange unit="item">17</citedRange>
-      				<citedRange unit="page">50-51</citedRange>
-      			</bibl>
-      		      			
-      		</listBibl>
+	<listBibl type="primary">
+		
+		<bibl n="K+V">
+			<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
+			<citedRange unit="item">466</citedRange>
+			<citedRange unit="page">417-418</citedRange>
+		</bibl>
+		
+		<bibl n="K+al">
+			<ptr target="bib:Kuppusamy+al2010_01"/>
+			<citedRange unit="item">466</citedRange>
+			<citedRange unit="page">198</citedRange>
+		</bibl>
+		
+		<bibl n="V">
+			<ptr target="bib:Vijayavenugopal2017_01"/>
+			<citedRange unit="item">17</citedRange>
+			<citedRange unit="page">50-51</citedRange>
+		</bibl>
+		
+	</listBibl>
 	
 	<listBibl type="secondary">
 		
-      			
-      			<bibl>
-      				<ptr target="bib:ARIE1965-1966"/>
-      				<citedRange unit="page">87</citedRange>
-      				<citedRange unit="appendix">B/1965-1966</citedRange>
-      				<citedRange unit="item">446</citedRange>
-      			</bibl>
-      			
-      		</listBibl>      		      		
-      		
-      		
-        </div>
+		<bibl>
+			<ptr target="bib:ARIE1965-1966"/>
+			<citedRange unit="page">87</citedRange>
+			<citedRange unit="appendix">B/1965-1966</citedRange>
+			<citedRange unit="item">446</citedRange>
+		</bibl>
+		
+		<bibl>
+			<ptr target="bib:Cuppiramaniyam1983_01"/>
+		</bibl>
+		
+	</listBibl>
+	
+</div>
       </body>
   </text>
 </TEI>
