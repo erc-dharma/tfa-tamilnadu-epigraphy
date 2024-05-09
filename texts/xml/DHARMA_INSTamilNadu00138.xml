@@ -136,12 +136,12 @@
 		
 		<app loc="3">
 			<lem>nimantaṅ</lem>
-			<rdg source="bib:Vicayavenukopal2018_01">nivantaṅ</rdg>
+			<rdg source="bib:Vijayavenugopal2017_01 bib:Vicayavenukopal2018_01">nivantaṅ</rdg>
 		</app>
 		
-		<app loc="3">
+		<app loc="9">
 			<lem>Āṭci</lem>
-			<rdg source="bib:Vicayavenukopal2018_01">Āṟaṭci</rdg>
+			<rdg source="bib:Vijayavenugopal2017_01 bib:Vicayavenukopal2018_01">Āṟaṭci</rdg>
 		</app>	
 		
 		
@@ -182,7 +182,7 @@
       	      	
 <div type="bibliography">
 	
-	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 38), with photos, in <bibl><ptr target="bib:Vicayavenukopal2018_01"/></bibl> (Āvaṇam 29.26.3).</p>	
+	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 38), with photos; in <bibl><ptr target="bib:Vicayavenukopal2018_01"/></bibl> (Āvaṇam 29.26.3).</p>	
 	<p>This edition by G. Vijayavenugopal (2019). Reviewing, encoding, critical apparatus, and translation by Emmanuel Francis (2024).</p>
 	
 	

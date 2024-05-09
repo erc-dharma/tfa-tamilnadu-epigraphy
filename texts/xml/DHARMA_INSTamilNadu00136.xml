@@ -116,7 +116,7 @@
 		
 		<app loc="1">
 			<lem><hi rend="grantha">purā</hi>n=ta<hi rend="grantha">ka</hi>°</lem>
-			<rdg source="bib:Vicayavenukopal2018_01">parāntaka°</rdg>
+			<rdg source="bib:Vijayavenugopal2017_01 bib:Vicayavenukopal2018_01">parāntaka°</rdg>
 		</app>               	
 		
 	</listApp>         
@@ -148,7 +148,7 @@
       	      	
 <div type="bibliography">
 	
-	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 36), with photos, in <bibl><ptr target="bib:Vicayavenukopal2018_01"/></bibl> (Āvaṇam 29.26.1).</p>
+	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 36), with photos; in <bibl><ptr target="bib:Vicayavenukopal2018_01"/></bibl> (Āvaṇam 29.26.1).</p>
 	
 	<p>This edition by G. Vijayavenugopal (2019). Reviewing, encoding, critical apparatus, and translation by Emmanuel Francis (2024).</p>
 		
