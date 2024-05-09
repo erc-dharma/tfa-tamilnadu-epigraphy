@@ -141,12 +141,17 @@
       	      	
 <div type="bibliography">
 	
-	<p>Edited in <bibl><ptr target="bib:Vicayavenukopal2018_01"/></bibl> (Āvaṇam 29.26.2).</p>
-	
+	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 37), with photos, in <bibl><ptr target="bib:Vicayavenukopal2018_01"/></bibl> (Āvaṇam 29.26.2).</p>
 	<p>This edition by G. Vijayavenugopal (2019). Reviewing, encoding, critical apparatus, and translation by Emmanuel Francis (2024).</p>
 	
 	
 	<listBibl type="primary">
+		
+		<bibl n="VVG">
+			<ptr target="bib:Vijayavenugopal2017_01"/>
+			<citedRange unit="item">37</citedRange>
+			<citedRange unit="page">96-97</citedRange>
+		</bibl>
 		
 		<bibl n="P">
 			<ptr target="bib:Vicayavenukopal2018_01"/> 
