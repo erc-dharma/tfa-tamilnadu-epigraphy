@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Eleven verses composed by Tiruñāṉa Campantar in praise of the sacred Viḍaivāy are engraved (corresponding to <foreign>tiruppatikam</foreign> 3:126 in the <title>Tēvāram</title> edition.</summary>
+						<summary>A <foreign>patikam</foreign> of eleven verses by Tiruñāṉa Campantar in praise of the sacred Viṭaivāy (Tiruviṭaivācal) is engraved. The hymn is not attested in the compilation of Śaiva hymns known as <title>Tēvāram</title>, although included in the modern edition (3:126).</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -142,17 +142,26 @@
 </div>-->
       	
 <div type="bibliography">
-              
-	<p>Edited and translated here by Emmanuel Francis (2024), based on photos (Emmanuel Francis, 2012). Thanks to R. Balasubramanian, Curator of Archaeology, Government Museum, Chennai, for providing access to the bronze and allowing photography.</p>
+	<p>First reported in <bibl><ptr target="bib:ARIE1917-1918"/></bibl> (ARIE/1917-1918/C/1918/8).</p>
+     <p>First edited in <bibl><ptr target="bib:Aravamuthan1933-1934_01"/></bibl>.</p>         
+	<p>Reedited by Renato Dávalos and Emmanuel Francis (2024), based on previous editions. </p>
 	
 	<!--<listBibl type="primary"/>-->	
 		
-	<listBibl type="secondary">
-		<bibl n="K">
-			<ptr target="bib:Kannan2015_01"/>
-			<citedRange unit="page">260, 292</citedRange>
-			<citedRange unit="item">13</citedRange>
+	<listBibl type="primary">
+		<bibl n="A">
+			<ptr target="bib:Aravamuthan1933-1934_01"/>
+			<citedRange unit="page">266-275; 343-360</citedRange>
 		</bibl>
+	</listBibl>
+	
+	<listBibl type="secondary">
+		<bibl>
+			<ptr target="bib:ARIE1917-1918"/>
+			<citedRange unit="page">89</citedRange>
+			<citedRange unit="item">8</citedRange>
+			<citedRange unit="appendix">C/1918/</citedRange>
+		</bibl> 
 	</listBibl>
 	
 </div>
