@@ -90,18 +90,25 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
 			
+	<p xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<lb n="1"/>svasti śrī
+	</p>
 	<p>
-		
-<lb n="1"/>svasti śrī tiripuvaṉaccakkaravattikaḷ cōṇāṭu koṇṭaruḷiya cun
-<lb n="2"/>tara pāṇṭiya tēvaṟku yāṇṭu 3 vatu tirumalai nāṭṭut tirukkoṭuṅku
-<lb n="3"/>ṉṟattu uṭaiyār tirukkoṭuṅkuṉṟamuṭaiya nāyaṉār śrī kōyili
-<lb n="4"/>l śrī <gap reason="lost" quantity="4" unit="character" precision="low"/> śrī māhēcurarōm śrī maturaiyil (tirunāvukkaracu) tirumaṭattil
-<lb n="5"/>ammai aṟapperuñcelviyār iṉṉāyaṉāṟku vaicca tiru ṉuntā viḷak
-<lb n="6"/>ku ka kku koṇṭu viṭṭa āṭu 50 ivāṭu ampatu cāvā mūvāp pē rāṭāy
-<lb n="7"/>it tiru ṉuntāviḷakku oṉṟum candrātittaval celvatāka kalveṭṭik kuṭuttō
-<lb n="8"/>m ammai aṟapperuñcelviyāṟku śrīuruttira śrīmāhēśvararom itu pa
-<lb n="9"/>ṉ māhēśvara rakṣai<gap reason="lost" quantity="1" unit="character" precision="low"/>
- 		
+		tiri-puvaṉa-c-cakkara-va<reg>r</reg>ttikaḷ cōṇāṭu koṇṭ-aruḷiya cun
+		<lb n="2" break="no"/>tara-pāṇṭiya-tēvaṟku yāṇṭu 3-vatu tiru-malai-nāṭṭu-t tiru-k-koṭuṅ-ku
+		<lb n="3" break="no"/>ṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉār <hi rend="grantha">śrī</hi>-kōyili
+		<lb n="4" break="no"/>l <hi rend="grantha">śrī</hi> <gap reason="lost" quantity="4" unit="character" precision="low"/> <hi rend="grantha">śrī</hi>-māhēcurarōm <hi rend="grantha">śrī</hi>-maturaiyil (tiru-nāvukk-aracu) tiru-maṭattil
+		<lb n="5"/>Ammai Aṟa-p-peruñ-celviyār I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉāṟku vaicca tiru-ṉuntā-viḷak
+		<lb n="6" break="no"/>ku ka kku koṇṭu viṭṭa Āṭu <num value="50">5 10</num>
+	</p>
+	<p>
+		Ivāṭu Ampatu cāvā mūvā-p pēr-āṭāy
+		<lb n="7"/>It-tiru-ṉuntā-viḷakku Oṉṟum candrātittaval celvat' āka kalveṭṭi'k kuṭuttō
+		<lb n="8" break="no"/>m Ammai Aṟa-p-peruñ-celviyāṟku <hi rend="grantha">śrī</hi>-Uruttira-<hi rend="grantha">śrī</hi>-māhēśvararōm
+		</p>
+	<p>
+		Itu pa
+		<lb n="9" break="no"/>ṉmāhēśvara-rakṣai <gap reason="lost" quantity="1" unit="character" precision="low"/> 		
  	</p>
 </div>
 	
@@ -116,13 +123,13 @@
 	
 </div>-->
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
       		<p n="1">
       			...
       		</p>
       		
-</div>
+</div>-->
 	
 <!--<div type="commentary">
       		
@@ -130,37 +137,35 @@
       	
 <div type="bibliography">
 	
-	<p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/230).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/142b).</p>
 	
-	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 1), with photos.</p>
+	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 5), with photos.</p>
 		
 	<p>This edition by G. Vijayavenugopal (2022). Review and updates (based on photos by N. Ramaswamy), encoding, critical apparatus and translation by Emmanuel Francis (2024).
  	</p>
 	
       		<listBibl type="primary">
       			
-      			
+      			<!--+ SII 8.430-->
       			
       			<bibl n="V">
       				<ptr target="bib:Vijayavenugopal2022_01"/>
       				<citedRange unit="item">5</citedRange>
-      				<citedRange unit="page">22-23</citedRange>
+      				<citedRange unit="page">28</citedRange>
       			</bibl>
       		      			
       		</listBibl>
 	
 	<listBibl type="secondary">
 		
-      			
-      			<bibl>
-      				<ptr target="bib:ARIE1923-1924"/>
-      				<citedRange unit="page">62</citedRange>
-      				<citedRange unit="appendix">C/1924</citedRange>
-      				<citedRange unit="item">230</citedRange>
-      			</bibl>
-      			
-      		</listBibl>      		      		
-      		
+		<bibl>
+			<ptr target="bib:ARIE1903-1904"/>
+			<citedRange unit="page">18</citedRange>
+			<citedRange unit="appendix">A/1903</citedRange>
+			<citedRange unit="item">142b</citedRange>
+		</bibl>
+		
+	</listBibl>
       		
         </div>
       </body>
