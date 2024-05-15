@@ -92,13 +92,13 @@
 			
 	<p>
 		
-<lb n="1"/>u ēmūruṭaiyā
-<lb n="2"/>r neṭuvayal peri
-<lb n="3"/>ya kuppāṉ ceṭṭi
-<lb n="4"/>yār makaṉ cevan
-<lb n="5"/>ti ṉāta ceṭṭiyār
-<lb n="6"/>u ivaḷ aṭaik
-<lb n="7"/>kāttāḷ u
+		<lb n="1"/><g type="pcs"/> Ēmūr-uṭaiyā
+		<lb n="2" break="no"/>r neṭu-vayal peri
+		<lb n="3" break="no"/>ya-kuppāṉ ceṭṭi
+		<lb n="4" break="no"/>yār makaṉ cevan
+		<lb n="5" break="no"/>ti-ṉāta-ceṭṭiyār
+		<lb n="6"/><g type="pcs"/>Ivaḷ aṭaik
+		<lb n="7" break="no"/>kāttāḷ <g type="pcs"/>
  		
  	</p>
 </div>
@@ -114,13 +114,13 @@
 	
 </div>-->
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
       		<p n="1">
       			...
       		</p>
       		
-</div>
+</div>-->
 	
 <!--<div type="commentary">
       		
@@ -128,9 +128,7 @@
       	
 <div type="bibliography">
 	
-	<p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/230).</p>
-	
-	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 1), with photos.</p>
+	<p>Reported and edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 73), with photos.</p>
 		
 	<p>This edition by G. Vijayavenugopal (2022). Review and updates (based on photos by N. Ramaswamy), encoding, critical apparatus and translation by Emmanuel Francis (2024).
  	</p>

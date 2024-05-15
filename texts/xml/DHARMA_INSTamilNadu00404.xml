@@ -90,26 +90,40 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
 			
-	<p>
-		
-<lb n="1"/>marāṉa tiripuvaṉa cak <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="2"/>ntara pāṇṭiya teva<gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="3"/>tu mārkaḻi 27 u tiru<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="4"/>kāṭuṅkuṉṟattu u -ai<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="5"/>k kuṉṟamuṭaiya nāya<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="6"/>ārattārom veṇkāṭṭu <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="7"/>ttu cuntaraṉ ceḻiya ta<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="8"/>ṇam paṇṇi kuṭutta <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="9"/>yi nā kōyil puvaṉe <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="10"/>l mel <gap reason="lost" quantity="3" unit="character" precision="low"/> pātti <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="11"/>kku 2kku upaiyamā <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="12"/>vetākavum upayata <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="13"/>niccayitta irācippāra <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="14"/>mai <gap reason="lost" quantity="6" unit="character" precision="low"/> āṉ kuḷa <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="15"/><gap reason="lost" quantity="15" unit="character" precision="low"/> ār <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="16"/><gap reason="lost" quantity="19" unit="character" precision="low"/> tukku<gap reason="lost" quantity="3" unit="character" precision="low"/>
- 		
- 	</p>
+	<p>		
+		<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
+		marāṉa tiri-puvaṉa-ak <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>
+		ntara-pāṇṭiya-tēva<gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
+		tu mārkaḻi 27 <g type="tēti"/> tiru<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>
+		kāṭuṅkuṉṟattu u -ai<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>
+		k kuṉṟam-uṭaiya nāya<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>
+		ārattārōm veṇ-kāṭṭu <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>
+		ttu cuntaraṉ ceḻiya ta<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>
+		ṇam paṇṇi kuṭutta <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="9"/><gap reason="lost" extent="unknown" unit="character"/>
+		yi nā kōyil puvaṉe <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="10"/><gap reason="lost" extent="unknown" unit="character"/>
+		l mēl <gap reason="lost" quantity="3" unit="character" precision="low"/> pātti <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="11"/><gap reason="lost" extent="unknown" unit="character"/>
+		kku 2-kku Upaiyamā <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="12"/><gap reason="lost" extent="unknown" unit="character"/>
+		vetākavum Upayata <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="13"/><gap reason="lost" extent="unknown" unit="character"/>
+		niccayitta Irācippāra <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="14"/><gap reason="lost" extent="unknown" unit="character"/>
+		mai <gap reason="lost" quantity="6" unit="character" precision="low"/> āṉ kuḷa <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="15"/><gap reason="lost" extent="unknown" unit="character"/>
+		<gap reason="lost" quantity="15" unit="character" precision="low"/> ār <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="16"/><gap reason="lost" extent="unknown" unit="character"/>
+		<gap reason="lost" quantity="19" unit="character" precision="low"/> tukku<gap reason="lost" quantity="3" unit="character" precision="low"/>		
+	</p>
 </div>
 	
 <!--<div type="apparatus">
@@ -123,13 +137,13 @@
 	
 </div>-->
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
       		<p n="1">
       			...
       		</p>
       		
-</div>
+</div>-->
 	
 <!--<div type="commentary">
       		
@@ -137,37 +151,33 @@
       	
 <div type="bibliography">
 	
-	<p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/230).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/226).</p>
 	
-	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 1), with photos.</p>
+	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 4), with photos.</p>
 		
 	<p>This edition by G. Vijayavenugopal (2022). Review and updates (based on photos by N. Ramaswamy), encoding, critical apparatus and translation by Emmanuel Francis (2024).
  	</p>
 	
       		<listBibl type="primary">
-      			
-      			
-      			
-      			<bibl n="V">
-      				<ptr target="bib:Vijayavenugopal2022_01"/>
-      				<citedRange unit="item">4</citedRange>
-      				<citedRange unit="page">22-23</citedRange>
-      			</bibl>
-      		      			
-      		</listBibl>
+		
+		<bibl n="V">
+			<ptr target="bib:Vijayavenugopal2022_01"/>
+			<citedRange unit="item">4</citedRange>
+			<citedRange unit="page">27</citedRange>
+		</bibl>
+		
+	</listBibl>
 	
 	<listBibl type="secondary">
 		
-      			
-      			<bibl>
-      				<ptr target="bib:ARIE1923-1924"/>
-      				<citedRange unit="page">62</citedRange>
-      				<citedRange unit="appendix">C/1924</citedRange>
-      				<citedRange unit="item">230</citedRange>
-      			</bibl>
-      			
-      		</listBibl>      		      		
-      		
+		<bibl>
+			<ptr target="bib:ARIE1923-1924"/>
+			<citedRange unit="page">62</citedRange>
+			<citedRange unit="appendix">C/1924</citedRange>
+			<citedRange unit="item">226</citedRange>
+		</bibl>
+		
+	</listBibl>
       		
         </div>
       </body>

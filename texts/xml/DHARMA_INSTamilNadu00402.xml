@@ -133,13 +133,13 @@
 	
 </div>-->
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
       		<p n="1">
       			...
       		</p>
       		
-</div>
+</div-->
 	
 <!--<div type="commentary">
       		
@@ -147,7 +147,7 @@
       	
 <div type="bibliography">
 	
-	<p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/230).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/231).</p>
 	
 	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 2), with photos.</p>
 		
@@ -164,14 +164,13 @@
       		      			
       		</listBibl>
 	
-	<listBibl type="secondary">
-		
+	<listBibl type="secondary">		
       			
       			<bibl>
       				<ptr target="bib:ARIE1923-1924"/>
       				<citedRange unit="page">62</citedRange>
       				<citedRange unit="appendix">C/1924</citedRange>
-      				<citedRange unit="item">230</citedRange>
+      				<citedRange unit="item">231</citedRange>
       			</bibl>
       			
       		</listBibl>      		      		
