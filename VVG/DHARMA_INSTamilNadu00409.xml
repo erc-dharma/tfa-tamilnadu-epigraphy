@@ -98,7 +98,7 @@
 		<lb n="2"/>koṭuṅ-kuṉṟattu Uṭaiyār nalla-maṅkai pākar kōyil pra
 		<lb n="3"/>ti pāta mūla-p-paṭṭ-uṭai pañcācāriya-t tēvakaṉmikaḷukku taṅkaḷ nāyaṉā
 		<lb n="4"/>rkku Āṟkāṭu kiḻāṉ tiruveṇkāṭuṭaiyā nāṉa vāṇādhirāyar kaṭṭiṉa
-		<lb n="5"/>vacantaṉ tirunāḷukku amutupaṭi cāttuppaṭi uḷḷiṭṭu vēṇṭum nitta niman
+		<lb n="5"/>vacantaṉ tirunāḷukku amutupaṭi cāttuppaṭi uḷḷiṭṭu vēṇṭum nitta-niman
 		<lb n="6"/>taṅkaḷukkum nayamap paṟṟil kaṟaiykuṭiyāṉa vāṇarāyanallūr nā
 		<lb n="7"/>ṭṭu maricāti muṉpilāṇṭukaḷum upāti vaṭṭamum ippaṟṟil ko<gap reason="lost" quantity="3" unit="character" precision="low"/>
 		<lb n="8"/>cuvantaraṅkaḷum viṭṭa āṇṭu oṉṟukku ye<gap reason="lost" quantity="2" unit="character" precision="low"/> ttuppotum irāci
@@ -160,29 +160,28 @@
 	
 	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 9), with photos.</p>
 		
-	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).
- 	</p>
+	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
 	
-      		<listBibl type="primary">
-      			
-      			<bibl n="V">
-      				<ptr target="bib:Vijayavenugopal2022_01"/>
-      				<citedRange unit="item">9</citedRange>
-      				<citedRange unit="page">36-37</citedRange>
-      			</bibl>
-      		      			
-      		</listBibl>
+	<listBibl type="primary">
+		
+		<bibl n="V">
+			<ptr target="bib:Vijayavenugopal2022_01"/>
+			<citedRange unit="item">9</citedRange>
+			<citedRange unit="page">36-37</citedRange>
+		</bibl>
+		
+	</listBibl>
 	
 	<listBibl type="secondary">
-      			
-      			<bibl>
-      				<ptr target="bib:ARIE1923-1924"/>
-      				<citedRange unit="page">59</citedRange>
-      				<citedRange unit="appendix">C/1924</citedRange>
-      				<citedRange unit="item">203</citedRange>
-      			</bibl>
-      			
-      		</listBibl>
+		
+		<bibl>
+			<ptr target="bib:ARIE1923-1924"/>
+			<citedRange unit="page">59</citedRange>
+			<citedRange unit="appendix">C/1924</citedRange>
+			<citedRange unit="item">203</citedRange>
+		</bibl>
+		
+	</listBibl>
 	
         </div>
       </body>

@@ -97,7 +97,7 @@
 		tri-(puvaṉa-cakkara-va<reg></reg>tti) kōnēriṉmaikoṇṭāṉ <gap reason="lost" quantity="7" unit="character" precision="low"/>
 		<lb n="2"/><gap reason="lost" quantity="4" unit="character" precision="low"/> nāyaṉār-kōyil tāṉattārkku taṅkaḷ (nāya)ṉārkku tiru-p-pāṭṭōtu <gap reason="lost" quantity="5" unit="character" precision="low"/>
 		<lb n="3"/><gap reason="lost" quantity="4" unit="character" precision="low"/> yāḷ nalla-maṅkai Ēṟi Aruḷa-p paṇṇiṉa nā(cci)yār pōka mātta pūmulaiyār <gap reason="lost" quantity="3" unit="character" precision="low"/>
-		<lb n="4"/><gap reason="lost" quantity="4" unit="character" precision="low"/> ṭṭa nitta nimantaṅkaḷukku Ēṟi paṭai nal(lūr pa)ṟṟil tuvarāpati-nāṭṭu meṉ <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="4"/><gap reason="lost" quantity="4" unit="character" precision="low"/> ṭṭa nitta-nimantaṅkaḷukku Ēṟi paṭai nal(lūr pa)ṟṟil tuvarāpati-nāṭṭu meṉ <gap reason="lost" quantity="4" unit="character" precision="low"/>
 		<lb n="5"/><gap reason="lost" quantity="4" unit="character" precision="low"/> -y-āṉa kuḷattukkum caṉṉanēri Ēmpalukku kuḷan kuḻikkum nāṭṭu-p piṟiya <gap reason="lost" quantity="4" unit="character" precision="low"/>
 		<lb n="6"/><gap reason="lost" quantity="4" unit="character" precision="low"/> Āṟ-āvatu māci-mātam mutal mutal aṭaṅka Iṟai-y-ili-y-āka-t tantu In(ta) v-ūrāl varu
 		<lb n="7"/><gap reason="lost" quantity="5" unit="character" precision="low"/> vaṭai puṉpayir āya vaṟkam kāttikai pa <gap reason="lost" quantity="4" unit="character" precision="low"/> -āṉa paccai nitta paccai-p piḷḷai <gap reason="lost" quantity="3" unit="character" precision="low"/>
@@ -159,27 +159,27 @@
 		
 	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
 	
-      		<listBibl type="primary">
-      			
-      			<bibl n="V">
-      				<ptr target="bib:Vijayavenugopal2022_01"/>
-      				<citedRange unit="item">2</citedRange>
-      				<citedRange unit="page">24-25</citedRange>
-      			</bibl>
-      		      			
-      		</listBibl>
+	<listBibl type="primary">
+		
+		<bibl n="V">
+			<ptr target="bib:Vijayavenugopal2022_01"/>
+			<citedRange unit="item">2</citedRange>
+			<citedRange unit="page">24-25</citedRange>
+		</bibl>
+		
+	</listBibl>
 	
 	<listBibl type="secondary">		
-      			
-      			<bibl>
-      				<ptr target="bib:ARIE1923-1924"/>
-      				<citedRange unit="page">62</citedRange>
-      				<citedRange unit="appendix">C/1924</citedRange>
-      				<citedRange unit="item">231</citedRange>
-      			</bibl>
-      			
-      		</listBibl>
-      		
+		
+		<bibl>
+			<ptr target="bib:ARIE1923-1924"/>
+			<citedRange unit="page">62</citedRange>
+			<citedRange unit="appendix">C/1924</citedRange>
+			<citedRange unit="item">231</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
         </div>
       </body>
   </text>

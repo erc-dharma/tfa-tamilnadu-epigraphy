@@ -98,7 +98,7 @@
 <lb n="4"/>āvatu vaṭa paṟampu nāṭṭup pākkuṭip paṟṟil<gap reason="lost" quantity="4" unit="character" precision="low"/> śrīnārāyaṇa tēvar pākkuṭi <gap reason="lost" quantity="1" unit="character" precision="low"/> ḷāvan pakkal vilaikoṇṭuṭaiya nel viḷai vayalāṉa yōkilum piriyāta nallūru mip pākkuṭip paṟṟil īḻa<gap reason="lost" quantity="4" unit="character" precision="low"/>
 <lb n="5"/>iṭaiyaṉ pērarayaṉ nāyaṉā<gap reason="lost" quantity="3" unit="character" precision="low"/> pakkal vilaikoṇṭuṭaiya putukkuḷamāṉa tēṉiṟ pōla moḻi<gap reason="lost" quantity="1" unit="character" precision="low"/> ṉallūrum vāṇakōvaraiyar ip pākkuṭip paṟṟil atiya maḻakiya nāṭāḻvāṉ pakkal vilai<gap reason="lost" quantity="3" unit="character" precision="low"/>
 <lb n="6"/>ya kollikuṭiyāṉa tiruk koṭuṅkuṉṟa nallūr nāṉkellaik kuṭpaṭṭa nilattu aṭaiñcāṉukku <gap reason="lost" quantity="3" unit="character" precision="low"/> pāṉa nilam nāliloṉṟu nīkki niṉṟa nila mukkūṟum iṉṉāyaṉār(k)ku kuṭinīṅkā<gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="7"/>cūla stāpaṉam paṇṇukayil ivvūr ku<gap reason="lost" quantity="4" unit="character" precision="low"/> nāṉ kellaik kuṭpaṭṭa <gap reason="lost" quantity="4" unit="character" precision="low"/> cay puṉcey natta muḷḷiṭṭa samasta prāpti(yu) maṉupavikkavu maṉupavikkumiṭattu kamuku koḻuntu karumpu vāḻai<gap reason="lost" quantity="3" unit="character" precision="low"/>
+<lb n="7"/>cūla stāpaṉam paṇṇukayil ivvūr ku<gap reason="lost" quantity="4" unit="character" precision="low"/> nāṉk' ellaik kuṭpaṭṭa <gap reason="lost" quantity="4" unit="character" precision="low"/> cay puṉcey natta muḷḷiṭṭa samasta prāpti(yu) maṉupavikkavu maṉupavikkumiṭattu kamuku koḻuntu karumpu vāḻai<gap reason="lost" quantity="3" unit="character" precision="low"/>
 <lb n="8"/><gap reason="lost" quantity="3" unit="character" precision="low"/> ṉ payirkaḷum <gap reason="lost" quantity="3" unit="character" precision="low"/> cey puṉcey<gap reason="lost" quantity="5" unit="character" precision="low"/> ttu koḷḷak kaṭavarkaḷākavum ippaṭi payir cey(tu) koṇṭu kaṭamai iṟukkumiṭattu neṟkaṭamai kācu kaṭamai vāṉpayir puṉ<gap reason="lost" quantity="3" unit="character" precision="low"/>
 <lb n="9"/><gap reason="lost" quantity="3" unit="character" precision="low"/> pācipāṭṭam<gap reason="lost" quantity="3" unit="character" precision="low"/> li pāṭṭam vāca viṉavokam taṟiiṟai cekkiṟai taṭṭoli taṭṭārp pā <gap reason="lost" quantity="3" unit="character" precision="low"/> ṉaccāvil<gap reason="lost" quantity="3" unit="character" precision="low"/> raippa<gap reason="lost" quantity="4" unit="character" precision="low"/> ttiruvā<gap reason="lost" quantity="3" unit="character" precision="low"/>
 <lb n="10"/><gap reason="lost" quantity="3" unit="character" precision="low"/> kārttikaip paccai<gap reason="lost" quantity="4" unit="character" precision="low"/> rāyam poṉ<gap reason="lost" quantity="3" unit="character" precision="low"/> vari ve<gap reason="lost" quantity="4" unit="character" precision="low"/> koḷum viniyōkamum vācal viṉiyōkamum<gap reason="lost" quantity="3" unit="character" precision="low"/> viṉiyōka
@@ -143,32 +143,30 @@
 	
 	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 22), with photos.</p>
 		
-	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).
- 	</p>
+	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
 	
-      		<listBibl type="primary">
-      			
-      			<bibl n="V">
-      				<ptr target="bib:Vijayavenugopal2022_01"/>
-      				<citedRange unit="item">22</citedRange>
-      				<citedRange unit="page">61-62</citedRange>
-      			</bibl>
-      		      			
-      		</listBibl>
+	<listBibl type="primary">
+		
+		<bibl n="V">
+			<ptr target="bib:Vijayavenugopal2022_01"/>
+			<citedRange unit="item">22</citedRange>
+			<citedRange unit="page">61-62</citedRange>
+		</bibl>
+		
+	</listBibl>
 	
 	<listBibl type="secondary">
 		
-      			
-      			<bibl>
-      				<ptr target="bib:ARIE1923-1924"/>
-      				<citedRange unit="page">62</citedRange>
-      				<citedRange unit="appendix">C/1924</citedRange>
-      				<citedRange unit="item">232</citedRange>
-      			</bibl>
-      			
-      		</listBibl>      		      		
-      		
-      		
+		
+		<bibl>
+			<ptr target="bib:ARIE1923-1924"/>
+			<citedRange unit="page">62</citedRange>
+			<citedRange unit="appendix">C/1924</citedRange>
+			<citedRange unit="item">232</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
         </div>
       </body>
   </text>

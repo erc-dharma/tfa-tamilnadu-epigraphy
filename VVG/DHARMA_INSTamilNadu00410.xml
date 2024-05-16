@@ -131,18 +131,17 @@
 	
 	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 10), with photos.</p>
 		
-	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).
- 	</p>
+	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
 	
-      		<listBibl type="primary">
-      			
-      			<bibl n="V">
-      				<ptr target="bib:Vijayavenugopal2022_01"/>
-      				<citedRange unit="item">10</citedRange>
-      				<citedRange unit="page">38</citedRange>
-      			</bibl>
-      		      			
-      		</listBibl>
+	<listBibl type="primary">
+		
+		<bibl n="V">
+			<ptr target="bib:Vijayavenugopal2022_01"/>
+			<citedRange unit="item">10</citedRange>
+			<citedRange unit="page">38</citedRange>
+		</bibl>
+		
+	</listBibl>
 	
 	<listBibl type="secondary">
 		

@@ -143,17 +143,17 @@
 		
 	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
 	
-      		<listBibl type="primary">
-      			
-      			<!--+ SII 8.430-->
-      			
-      			<bibl n="V">
-      				<ptr target="bib:Vijayavenugopal2022_01"/>
-      				<citedRange unit="item">5</citedRange>
-      				<citedRange unit="page">28</citedRange>
-      			</bibl>
-      		      			
-      		</listBibl>
+	<listBibl type="primary">
+		
+		<!--+ SII 8.430-->
+		
+		<bibl n="V">
+			<ptr target="bib:Vijayavenugopal2022_01"/>
+			<citedRange unit="item">5</citedRange>
+			<citedRange unit="page">28</citedRange>
+		</bibl>
+		
+	</listBibl>
 	
 	<listBibl type="secondary">
 		

@@ -133,27 +133,26 @@
 		
 	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
 	
-      		<listBibl type="primary">
-      			
-      			<bibl n="V">
-      				<ptr target="bib:Vijayavenugopal2022_01"/>
-      				<citedRange unit="item">20</citedRange>
-      				<citedRange unit="page">57-58</citedRange>
-      			</bibl>
-      		      			
-      		</listBibl>
+	<listBibl type="primary">
+		
+		<bibl n="V">
+			<ptr target="bib:Vijayavenugopal2022_01"/>
+			<citedRange unit="item">20</citedRange>
+			<citedRange unit="page">57-58</citedRange>
+		</bibl>
+		
+	</listBibl>
 	
 	<listBibl type="secondary">
-      			
-      			<bibl>
-      				<ptr target="bib:ARIE1923-1924"/>
-      				<citedRange unit="page">61</citedRange>
-      				<citedRange unit="appendix">C/1924</citedRange>
-      				<citedRange unit="item">218</citedRange>
-      			</bibl>
-      			
-      		</listBibl>      		      		
-      		
+		
+		<bibl>
+			<ptr target="bib:ARIE1923-1924"/>
+			<citedRange unit="page">61</citedRange>
+			<citedRange unit="appendix">C/1924</citedRange>
+			<citedRange unit="item">218</citedRange>
+		</bibl>
+		
+	</listBibl>
       		
         </div>
       </body>
