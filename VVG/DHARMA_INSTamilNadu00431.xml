@@ -135,25 +135,22 @@
 	
 	<p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/230).</p>
 	
-	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 1), with photos.</p>
+	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 31), with photos.</p>
 		
 	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).
  	</p>
 	
       		<listBibl type="primary">
       			
-      			
-      			
       			<bibl n="V">
       				<ptr target="bib:Vijayavenugopal2022_01"/>
       				<citedRange unit="item">31</citedRange>
-      				<citedRange unit="page">22-23</citedRange>
+      				<citedRange unit="page">79-80</citedRange>
       			</bibl>
       		      			
       		</listBibl>
 	
 	<listBibl type="secondary">
-		
       			
       			<bibl>
       				<ptr target="bib:ARIE1923-1924"/>
@@ -162,8 +159,7 @@
       				<citedRange unit="item">230</citedRange>
       			</bibl>
       			
-      		</listBibl>      		      		
-      		
+      		</listBibl>    
       		
         </div>
       </body>
