@@ -92,50 +92,77 @@
 			
 	<p>		
 		<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
-		marāṉa tiri-puvaṉa-ak <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>
-		ntara-pāṇṭiya-tēva<gap reason="lost" quantity="3" unit="character" precision="low"/>
-		<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
-		tu mārkaḻi 27 <g type="tēti"/> tiru<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		
+		<lb n="2" break="no"/><gap reason="lost" extent="unknown" unit="character"/>
+		marāṉa tiri-puvaṉa-cak
+		
+		<lb n="3" break="no"/><gap reason="lost" extent="unknown" unit="character"/>
+		ntara-pāṇṭiya-tēva
+		
 		<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>
-		kāṭuṅkuṉṟattu u -ai<gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>
-		k kuṉṟam-uṭaiya nāya<gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>
-		ārattārōm veṇ-kāṭṭu <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>
-		ttu cuntaraṉ ceḻiya ta<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		tu mārkaḻi <num value="27">27</num> <g type="tēti"/> tiru
+		
+		<lb n="5" break="no"/><gap reason="lost" extent="unknown" unit="character"/>
+		kāṭuṅ<!--update: koṭu with missing kompu-->-kuṉṟattu U<unclear>ṭ</unclear>ai
+		
+		<lb n="6" break="no"/><gap reason="lost" extent="unknown" unit="character"/>
+		-k kuṉṟam-uṭaiya nāya
+		
+		<lb n="7" break="no"/><gap reason="lost" extent="unknown" unit="character"/>
+		ārattārōm veṇ-kāṭṭu
+		
 		<lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>
-		ṇam paṇṇi kuṭutta <gap reason="lost" quantity="3" unit="character" precision="low"/>
-		<lb n="9"/><gap reason="lost" extent="unknown" unit="character"/>
-		yi nā kōyil puvaṉe <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		ttu cuntaraṉ ceḻiya-ta<unclear>r</unclear>ai
+		
+		<lb n="9" break="no"/><gap reason="lost" extent="unknown" unit="character"/>
+		ṇam paṇṇi kuṭutta <gap reason="lost" quantity="1" unit="character" precision="low"/>
+		
 		<lb n="10"/><gap reason="lost" extent="unknown" unit="character"/>
-		l mēl <gap reason="lost" quantity="3" unit="character" precision="low"/> pātti <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="11"/><gap reason="lost" extent="unknown" unit="character"/>
-		kku 2-kku Upaiyamā <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		yinar-kōyil puvaṉē
+		
+		<lb n="11" break="no"/><gap reason="lost" extent="unknown" unit="character"/>
+		l mēl <gap reason="lost" quantity="3" unit="character" precision="low"/> pātti <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		
 		<lb n="12"/><gap reason="lost" extent="unknown" unit="character"/>
-		vetākavum Upayata <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		kku 2-kku Upaiyam-ā <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		
 		<lb n="13"/><gap reason="lost" extent="unknown" unit="character"/>
-		niccayitta Irācippāra <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		vet' ākavum
+	</p>
+	<p>		
+		Upayata <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		
 		<lb n="14"/><gap reason="lost" extent="unknown" unit="character"/>
-		mai <gap reason="lost" quantity="6" unit="character" precision="low"/> āṉ kuḷa <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		niccayitta Irācippār a <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		
 		<lb n="15"/><gap reason="lost" extent="unknown" unit="character"/>
-		<gap reason="lost" quantity="15" unit="character" precision="low"/> ār <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		mai <gap reason="lost" quantity="6" unit="character" precision="low"/> āṉ kuḷa <gap reason="lost" quantity="1" unit="character" precision="low"/>
+		
 		<lb n="16"/><gap reason="lost" extent="unknown" unit="character"/>
-		<gap reason="lost" quantity="19" unit="character" precision="low"/> tukku<gap reason="lost" quantity="3" unit="character" precision="low"/>		
+		<gap reason="lost" quantity="15" unit="character" precision="low"/> ār <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		
+		<lb n="17"/><gap reason="lost" extent="unknown" unit="character"/>
+		<gap reason="lost" quantity="19" unit="character" precision="low"/> tukku <gap reason="lost" quantity="3" unit="character" precision="low"/>		
 	</p>
 </div>
 	
-<!--<div type="apparatus">
+<div type="apparatus">
            
-	<listApp>
+	<!--<listApp>
 		<app loc="0">
 			<lem>...</lem>
 			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
 		</app> 
+	</listApp>-->
+	
+	<listApp>
+		<app loc="9">
+			<lem>yinar-kōyil</lem>
+			<rdg source="bib:Vijayavenugopal2022_01">yi nā kōyil</rdg>
+		</app> 
 	</listApp>
 	
-</div>-->
+</div>
       	
 <!--<div type="translation" resp="part:emfr">
       		
@@ -155,8 +182,7 @@
 	
 	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 4), with photos.</p>
 		
-	<p>This edition by G. Vijayavenugopal (2022). Review and updates (based on photos by N. Ramaswamy), encoding, critical apparatus and translation by Emmanuel Francis (2024).
- 	</p>
+	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
 	
       		<listBibl type="primary">
 		

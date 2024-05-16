@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pirāṉmalai, X temple, time of X, year X</title>
+				<title>Pirāṉmalai, X temple, time of Kulottuṅga Cōḻa, year 35</title>
 			    <respStmt>
 			        <resp>intellectual authorship of edition</resp>
 			        <persName ref="part:vija">
@@ -91,30 +91,37 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><!--Check @ rendition-->
 			
 	<p xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
-		<lb n="1"/>svasti śrī
+		<lb n="1"/>s<choice><sic>u</sic><corr>v</corr></choice>asti śrī
 	</p>
 	<p>
-		<lb n="2"/>cakkara-va<reg>r</reg>ttikaḷ
-		<lb n="3"/><hi rend="grantha">śrī</hi>-kolōttu
+		<lb n="2"/><supplied reason="lost">ca</supplied>kkara-va<reg>r</reg>ttikaḷ
+		<lb n="3"/><hi rend="grantha">śrī</hi>-k<choice><orig>o</orig><reg>u</reg></choice>lōttu
 		<lb n="4" break="no"/>ṅka-cōḻa-tēvaṟku
-		<lb n="5"/>yāṇṭu 3 10 5-<supplied reason="lost">Ā</supplied>
-		<lb n="6"/>vatu Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>
-		<lb n="7" break="no"/>-pāṇṭi-nāṭṭu <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="8"/><gap reason="lost" quantity="10" unit="character" precision="low"/>
-		<lb n="9"/><gap reason="lost" quantity="10" unit="character" precision="low"/>		
+		<lb n="5"/>yāṇṭu <num value="35">3 <g type="numeral">10</g> 5</num>
+		<lb n="6" break="no"/>-<supplied reason="lost">Ā</supplied>vatu Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>
+		<lb n="7" break="no"/>-<unclear>p</unclear>āṇṭi-nāṭṭu <gap reason="lost" quantity="1" unit="character" precision="low"/>
+		<lb n="8"/><gap reason="lost" quantity="8" unit="character" precision="low"/>
+		<lb n="9"/><gap reason="lost" quantity="8" unit="character" precision="low"/>		
 	</p>
 </div>
 	
-<!--<div type="apparatus">
+<div type="apparatus">
            
 	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+		<app loc="1">
+			<lem>s<choice><sic>u</sic><corr>v</corr></choice>asti</lem>
+			<rdg source="bib:Vijayavenugopal2022_01">svasti</rdg>
 		</app> 
 	</listApp>
 	
-</div>-->
+	<listApp>
+		<app loc="5">
+			<lem><num value="35">3 <g type="numeral">10</g> 5</num><lb n="6" break="no"/>-<supplied reason="lost">Ā</supplied>vatu</lem>
+			<rdg source="bib:Vijayavenugopal2022_01"><num value="35">3 <g type="numeral">10</g> 5</num>-<supplied reason="lost">Ā</supplied><lb n="6" break="no"/>vatu</rdg>
+		</app> 
+	</listApp>	
+	
+</div>
       	
 <!--<div type="translation" resp="part:emfr">
       		
@@ -134,8 +141,7 @@
 	
 	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 3), with photos.</p>
 		
-	<p>This edition by G. Vijayavenugopal (2022). Review and updates (based on photos by N. Ramaswamy), encoding, critical apparatus and translation by Emmanuel Francis (2024).
- 	</p>
+	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
 	
       		<listBibl type="primary">
 		
