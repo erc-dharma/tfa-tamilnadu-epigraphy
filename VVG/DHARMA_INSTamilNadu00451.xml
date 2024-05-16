@@ -90,17 +90,21 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/>svasti 
+	</ab>
 	<p>
-		
-<lb n="1"/>svasti śrī man mahāmaṇṭalīśvaran arirāyavipāṭa[n] pāṣaikkut tap[pu]varāyara kaṇṭaṉ kaṇṭa nāṭu koṇṭu koṇṭa nāṭu kuṭātān pūrva dakṣiṇa paścima uttara catusa mudrādhi pati yī
-<lb n="2"/>ḻamum emmaṇṭalamum koṇṭu geja veṭṭai [ka]ṇṭaruḷiya śrīvīrapratāpa kruṣṇa mahārāya[r] pruthivirājyam paṇṇi yaruḷā niṉṟa śakā[pta]m 1440 ṉ mēl ce
-<lb n="3"/>llāniṉṟa citrabhānu varuṣam aṟpaśi māsam [muta]l tiyati pūrva pakṣattu caitya mum ēkāteciyum siddha yōgamum peṟṟa bhuda vārattu nāḷ accama[ṟi]yātāṉ [a]laivi[lañ]
-<lb n="4"/>cātāṉ karutu maracar ta[ru]kama[la]cantiraṉ mukiliṉkaṭ tiriyum ēval <gap reason="lost" quantity="4" unit="character" precision="low"/> ncaṇṭan puṟṟu marattayum pontukillai eṉṟa perumāṉ āṭṭuk kāṉai vaḻaṅkum peru
-<lb n="5"/>[mā]ḷ vaḷavaṉ <gap reason="lost" quantity="4" unit="character" precision="low"/> [ma]lāṉ pāṭic centamiḻ puṉainta [puṅkavaṉ]<gap reason="lost" quantity="5" unit="character" precision="low"/> koṇṭa perumāḷ aṟantāṅki yaracu ēkap perumāḷ toṇṭaimā[ṉ] puttira[n] poṉṉampala[ṅ]
-<lb n="6"/>[kā]tta toṇṭaimā[ṉ] kṣeṇatayil <gap reason="lost" quantity="4" unit="character" precision="low"/> tun <gap reason="lost" quantity="4" unit="character" precision="low"/> yaṉ tiruk –e[kāṭu]ṅku[ṉṟa]ttu nam <gap reason="lost" quantity="6" unit="character" precision="low"/>
-<lb n="7"/><gap reason="lost" quantity="4" unit="character" precision="low"/> dhamam uṭpaṭṭa vakaikku tirumalai cūḻnta paṟṟil munnāḷ paḻantēvatāṉamāka <gap reason="lost" quantity="4" unit="character" precision="low"/> cellap puravi<gap reason="lost" quantity="6" unit="character" precision="low"/>
- 		
- 	</p>
+		śrīman-mahāmaṇṭalīśvaran arirāya-vipāṭa[n] pāṣaikku-t tap[pu]varāyara kaṇṭaṉ kaṇṭa nāṭu koṇṭu koṇṭa nāṭu kuṭātān pūrva-dakṣiṇa-paścima-Uttara-catu-samudrādhi-pati y-ī
+		<lb n="2" break="no"/>ḻamum Emmaṇṭalamum koṇṭu <hi rend="grantha">geja</hi>-veṭṭai [ka]ṇṭ-aruḷiya śrī-vīrapratāpa-kruṣṇa-mahārāya[r] pruthivi-rājyam paṇṇi-y-aruḷā niṉṟa śakā[pta]m <num value="1440">1440</num> ṉ mēl ce
+		<lb n="3" break="no"/>llā niṉṟa citrabhānu-varuṣam Aṟpaśi-māsam [muta]l tiyati pūrva-pakṣattu caitya mum Ēkāteciyum siddha-yōgamum peṟṟa bhuda-vārattu nāḷ
+	</p>
+	<p>
+		Accama[ṟi]yātāṉ [A]laivi[lañ]
+		<lb n="4"/>cātāṉ karutu maracar ta[ru]kama[la]cantiraṉ mukiliṉkaṭ tiriyum Ēval <gap reason="lost" quantity="4" unit="character" precision="low"/> ncaṇṭan puṟṟu marattayum pontukillai Eṉṟa perumāṉ Āṭṭuk kāṉai vaḻaṅkum peru
+		<lb n="5" break="no"/>[mā]ḷ vaḷavaṉ <gap reason="lost" quantity="4" unit="character" precision="low"/> [ma]lāṉ pāṭi-c centamiḻ puṉainta [puṅkavaṉ] <gap reason="lost" quantity="5" unit="character" precision="low"/> koṇṭa perumāḷ Aṟantāṅki y-aracu Ēka-p-perumāḷ toṇṭaimā[ṉ] puttira[n] poṉṉampala[ṅ]
+		<lb n="6"/>[kā]tta toṇṭaimā[ṉ] <hi rend="grantha">kṣe</hi>ṇatayil <gap reason="lost" quantity="4" unit="character" precision="low"/> tun <gap reason="lost" quantity="4" unit="character" precision="low"/> yaṉ tiruk [ko<!--kompu is clear-->ṭu]ṅ-ku[ṉṟa]ttu nam <gap reason="lost" quantity="6" unit="character" precision="low"/>
+		<lb n="7"/><gap reason="lost" quantity="4" unit="character" precision="low"/> <hi rend="grantha">dha</hi>mam Uṭpaṭṭa vakaikku tiru-malai cūḻnta paṟṟil munnāḷ paḻan-tēvatāṉam-āka <gap reason="lost" quantity="4" unit="character" precision="low"/> cella-p puravi <gap reason="lost" quantity="6" unit="character" precision="low"/>
+	</p>
 </div>
 	
 <!--<div type="apparatus">

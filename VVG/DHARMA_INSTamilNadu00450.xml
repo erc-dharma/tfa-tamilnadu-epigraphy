@@ -11,7 +11,11 @@
 				<title>Pirāṉmalai, X temple, time of X, year X</title>
 			    <respStmt>
 			        <resp>intellectual authorship of edition</resp>
-			        <persName ref="part:vija">
+			    	<persName>
+			    		<forename>K.V.</forename>
+			    		<surname>Subrahmanya Aiyer</surname>
+			    	</persName>
+			    	<persName ref="part:vija">
 			            <forename>G.</forename>
 			            <surname>Vijayavenugopal</surname>
 			        </persName>
@@ -88,28 +92,66 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<l n="1" enjamb="yes"><lb n="1"/>Etat· trailokya-nirmmāṇa</l>
+		<l n="2">-trāṇa-saṃhāra-kāraṇaṃ·</l>
+		<l n="3">śāsanam· cāśvatam· śambho<supplied reason="omitted">ḥ</supplied></l>
+		<l n="4">kaṭhoragiri-vāsina<supplied reason="omitted">ḥ</supplied></l>
+	</lg>
+	
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		svasti 
+	</ab>
+	<ab>		
+		<hi rend="grantha">śakā</hi>t=tam <num value="1500">1500</num> ṉ mēl cellā niṉṟa vipava <g type="varuṣam"/> tai <g type="mācam"/> <num value="15">15</num> <g type="tēti"/>
+	</ab>
 	<p>
+		<lb n="2"/>kiraṇa-puṇṇiya-kālattiṟ rāyar-uṭaiya kāriya-kaṟtar-āna Ēppuli nāyak=karōm tiru-malai-nāṭṭu tiru-k-koṭuṅ-kuṉṟattu nalla-maṅkai pāka-cuvāmikku-t tiru-p-paṇi
+		<lb n="3" break="no"/>-p-puṟam tiru-p-paṇi naṭantu vara tārā pūṟuvam paṇṇi-k koṭutta kiṟāmam cōḻaṉ vaḷa-nāṭu cēnta-mēlūr puravu pēr Ellai y-āvatu 
 		
-<lb n="1"/>edat trailokya nirmmāṇa trāṇa sa0hāra kāraṇa0 ஶாsanam cāsvatam śambho kaṭhoragiri vāsinam || svasti śakāttam 1500 ṉ mel cellāniṉṟa vipava varu tai mī ya 15 u
-<lb n="2"/>kiraṇa puṇṇiya kālattiṟ rāyaruṭaiya kāriya kaṟtarāna ēppuli nāyakkarōm tirumalai nāṭṭu tiruk koṭuṅ kuṉṟattu nalla maṅkai pāka cuvāmikkut tiruppaṇi
-<lb n="3"/>p puṟam tiruppaṇi naṭantu vara tārā pūṟuvam paṇṇik koṭutta kiṟāmam cōḻaṉ vaḷa nāṭu cēnta mēlūr puravu pēr ellai yāvatu kīḻpāṟkellai tiru meññāṉi
-<lb n="4"/>puravu cēnta cevvaikkum civappirāṉ <gap reason="lost" quantity="4" unit="character" precision="low"/> l ēmpalukku mēṟku teṉpāṟ kellai tiruk kōṭṭiyūr puravu cēnta cevvaikkum paramanērikku kīḻ cēnta maṅkalap puravu cē
-<lb n="5"/>nta cevukkum kiṟāma vayalukkum vaṭakku meṟpāṟkellai na<gap reason="lost" quantity="1" unit="character" precision="low"/> karai cēnta cūraikkuṭip puravukku kiḻa<gap reason="lost" quantity="2" unit="character" precision="low"/> vaṭapāṟkellai vikkiṟama nallūrāṉa muṟaiyiṟ puravu cēnta<gap reason="lost" quantity="4" unit="character" precision="low"/> teṟku
-<lb n="6"/>āka icainta peru nāṉk' ellaikk' uḷ-paṭṭa puravi l uṭkiṭai teyvatāyam tirumuḷai nayinār tāṉtōṇi īcura teyva tāyam tirumuḷai em<gap reason="lost" quantity="5" unit="character" precision="low"/> ntam ēmpa
-<lb n="7"/>lum ciṟukumi ḻēmpalum kīḻai yiḷavāttakkuṭi ēmpalum mēlai yiḷavāttakkuṭi ēmpalum āṇṭi ēmpalum kuṟuvaṉēri ēmpalum kumattakkuṭi ēmpalum periya kumiḻi
-<lb n="8"/>ēmpalun taṇṭuṇi ēmpalum taṇṭu tāṉa ēmpalum tampi ēmpalum ākak kuṭikkāṭu ēmpal paṉṉiraṇṭum uṭkiṭai ēmpa<gap reason="lost" quantity="5" unit="character" precision="low"/> m cēnta pu
-<lb n="9"/>ñcai puravum nīkki cokka nārāyaṇap perumāḷ tiruviḷaiyāṭṭam caṭaiya ṉēmpalum kolli kuṭi ēmpalum atuṭaṉ cēnta puñcai puravum nīkki
-<lb n="10"/>maṟ ṟuṇ ṭākiya nilam mēlūr vayalum tiraṇi vayalum nalla maṅkai vayalum karuvili maṅkai vayalum vēṭaṅkuṭi vayalum
-<lb n="11"/>ituṭaṉ cēnta nañcai puñcai māvaṭai maravaṭai nattam cey tiṭal mēṭu kīḻ nōkkiya kiṇaṟum mēl nōkki
-<lb n="12"/>ya maramum nidhi nikṣepaṅkaḷum jala pāṣāṇa viniyōga cuvantiraṅkaḷum maṅkai nāyaka cuvāmi teyva tāyam cantirātitta varaikkum
-<lb n="13"/>tiruppaṇi <gap reason="lost" quantity="5" unit="character" precision="low"/> naṭappittu koḷvarākavum ippaṭi taṉma cātaṉap paṭṭaiyam koṭuttōm maṅkai nāyaka cuvāmikku ēppuli nāyakkarōm ittaṉmam yātā moru
-<lb n="14"/>vaṉ paripālaṉam paṇṇinavarkaḷ ceytāṉ ceytāṉ aṟaṅ kātāṉ pātan tiṟampāmaṟ ceṉṉiyiṉ mēl vaittu inta taṉmattukku akitam paṇṇinavarkaḷ
-<lb n="15"/>keṅkai karaiyilē kārām pacuvaiyum mātā pitāvaiyum koṉṟa tōṣattilē pōvārākavum it taṉmacātaṉap paṭṭaiyam eḻuti kallilum cempilum
-<lb n="16"/>veṭṭiviccik koṭuttōm vāca <gap reason="lost" quantity="4" unit="character" precision="low"/> vaṇa kumarap perumāḷ eḻuttu u
- 		
- 	</p>
+		<list>
+			<item>kīḻ-pāṟk' ellai tiru-meññāṉi
+				<lb n="4"/>puravu cēnta cevvaikkum civa-p-pirāṉ <gap reason="lost" quantity="4" unit="character" precision="low"/> l Ēmpalukku mēṟku</item>
+			
+			<item>teṉ-pāṟk' ellai tiru-k-kōṭṭiyūr puravu cēnta cevvaikkum paramanērikku kīḻ cēnta-maṅkala-p-puravu cē
+			<lb n="5" break="no"/>nta cevukkum kiṟāma-vayalukkum vaṭakku</item>
+			
+			<item>meṟ-pāṟk' ellai na <gap reason="lost" quantity="1" unit="character" precision="low"/> karai cēnta cūrai-k-kuṭi-p-puravukku kiḻa <gap reason="lost" quantity="2" unit="character" precision="low"/></item>
+			
+			<item>vaṭa-pāṟk' ellai vikkiṟama-nallūr-āṉa muṟaiyiṟ puravu cēnta <gap reason="lost" quantity="4" unit="character" precision="low"/> teṟku
+			<lb n="6"/>Āka</item>
+		</list>
+	</p>
+	<p>
+		Icainta peru nāṉk' ellaikk' Uḷ-paṭṭa puravil Uṭkiṭai teyvatāyam tiru-muḷai nayinār tāṉtōṇi Īcura teyva tāyam tiru-muḷai Em <gap reason="lost" quantity="5" unit="character" precision="low"/> ntam Ēmpa
+		<lb n="7" break="no"/>lum ciṟu-kumiḻ ēmpalum kīḻai yiḷavātta-k-kuṭi Ēmpalum mēlai yiḷavātta-k-kuṭi Ēmpalum Āṇṭi Ēmpalum kuṟuvaṉēri Ēmpalum kumatta-k-kuṭi Ēmpalum periya kumiḻi
+		<lb n="8"/>Ēmpalun taṇṭuṇi Ēmpalum taṇṭu tāṉa Ēmpalum tampi Ēmpalum Āka-k kuṭi-k kāṭu Ēmpal paṉṉ-iraṇṭum Ūṭkiṭai Ēmpa <gap reason="lost" quantity="5" unit="character" precision="low"/> m cēnta pu
+		<lb n="9" break="no"/>ñcai puravum nīkki cokka-nārāyaṇa-p-perumāḷ tiru-viḷaiyāṭṭam caṭaiyaṉ ēmpalum kolli kuṭi ēĒmpalum Atuṭaṉ cēnta puñcai puravum nīkki
+		<lb n="10"/>maṟṟ' uṇṭ-ākiya nilam mēlūr vayalum tiraṇi-vayalum nalla-maṅkai-vayalum karuvili-maṅkai-vayalum vēṭaṅkuṭi vayalum
+		<lb n="11"/>Ituṭaṉ cēnta nañcai puñcai māvaṭai maravaṭai nattam cey tiṭal mēṭu kīḻ nōkkiya kiṇaṟum mēl nōkki
+		<lb n="12" break="no"/>ya maramum nidhi ni<hi rend="grantha">kṣe</hi>paṅkaḷum <hi rend="grantha">jala-pāṣā</hi>ṇa-viniyō<hi rend="grantha">ga</hi>-cuvantiraṅkaḷum maṅkai nāyaka-cuvāmi teyva-tāyam can=tirātit=ta varaikkum
+		<lb n="13"/>tiru-p-paṇi <gap reason="lost" quantity="5" unit="character" precision="low"/> naṭappittu koḷvar ākavum
+	</p>
+	<p>
+		Ip-paṭi taṉma-cātaṉa-p-paṭṭaiyam koṭuttōm maṅkai-nāyaka-cuvāmikku Ēppuli nāyakkarōm
+	</p>
+	<p>
+		It-taṉmam yātām oru
+		<lb n="14" break="no"/>vaṉ paripālaṉam paṇṇinavarkaḷ ceytāṉ ceytāṉ Aṟaṅ kātāṉ pātan tiṟampāmaṟ ceṉṉiyiṉ mēl vaittu
+	</p>
+	<p>
+		Inta taṉmattukku Akitam paṇṇinavarkaḷ
+		<lb n="15"/>keṅkai karaiyilē kār-ām-pacuvaiyum mātā-pitāvaiyum koṉṟa tōṣattilē pōvār ākavum
+	</p>
+	<p>
+		It-taṉma-cātaṉa-p-paṭṭaiyam Eḻuti kallilum cempilum
+		<lb n="16"/>veṭṭivicci-k koṭuttōm
+	</p>
+	<p>
+		vāca <gap reason="lost" quantity="4" unit="character" precision="low"/> vaṇa-kumara-p-perumāḷ Eḻuttu <g type="pcl">.</g>		
+	</p>
 </div>
 	
 <!--<div type="apparatus">
@@ -123,29 +165,76 @@
 	
 </div>-->
       	
-<!--<div type="translation" resp="part:emfr">
-      		
-      		<p n="1">
-      			...
-      		</p>
-      		
-</div>-->
+<div type="translation" resp="part:emfr">
 	
-<!--<div type="commentary">
+	<p n="1" rend="stanza">
+		<l>This is an eternal order</l>
+		<l>of Śambhu who resides in Kaṭhogiri</l>
+		<l>and is the cause of creation, preservation,</l>
+		<l>and destruction of the triple world </l>
+	</p>
+	
+	<p n="1">
+		Prosperity!
+	</p>
+	
+	<p n="1">
+		Vipava<note>Sanskrit Vibhava</note> year, Tai month, date 15, which was current upon Śaka year 1500.
+	</p>
+	
+	<p n="2-6">
+		The great boundaries of
+		...
+		which, We, the chiefs
+		...
+		have given
+		...
+		are <supplied reason="subaudible">as follows</supplied>:
+		
+		<list>
+			<item>the western boundary is to the west of ...;</item>
+		
+			<item>the southern boundary is to the north of ...;</item>
+		
+			<item>the western boundary is to the east of ...;</item>
+		
+			<item>the northern boundary is to the south of ...</item>
+		</list>
+	</p>
+	
+	<p n="6-13">...</p>
       		
-</div>-->
+	<p n="13">...</p>
+      		
+	<p n="13-14">...</p>
+      		
+	<p n="14-15">...</p>
+      		
+	<p n="15-16">...</p>
+      		
+	<p n="16">Signature of Vāca<gap reason="lost"/>vaṇa Kumara Perumāḷ</p>
+      		
+</div>
+	
+<div type="commentary">
+      	<p>The line 1 is now almost entirely lost.</p>	
+</div>
       	
 <div type="bibliography">
 	
 	<p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/153).</p>
 	
-	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 50), with photos.</p>
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.441), <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 50), with photos.</p>
 		
-	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
+	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy). Portions now lost or illegible after <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>.</p>
 	
 	<listBibl type="primary">
 		
-		<!--+ SII 8.441-->
+		<bibl n="SII">
+			<ptr target="bib:SubrahmanyaAiyer1937_01"/>
+			<citedRange unit="item">441</citedRange>
+			<citedRange unit="page">231</citedRange>
+		</bibl>
 		
 		<bibl n="V">
 			<ptr target="bib:Vijayavenugopal2022_01"/>
