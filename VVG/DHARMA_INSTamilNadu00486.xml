@@ -127,32 +127,16 @@
       	
 <div type="bibliography">
 	
-	<p>Reported in <bibl><ptr target="bib:ARIE1968-1969"/></bibl> (ARIE/1968-1969/B/1968-1969/228).</p>
-	
-	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 86), with photos.</p>
+	<p>Reported and edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 86), with photos.</p>
 		
-	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).
- 	</p>
+	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
 	
 	<listBibl type="primary">
-		
-		
 		
 		<bibl n="V">
 			<ptr target="bib:Vijayavenugopal2022_01"/>
 			<citedRange unit="item">86</citedRange>
 			<citedRange unit="page">190</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1968-1969"/>
-			<citedRange unit="page">47</citedRange>
-			<citedRange unit="appendix">B/1968-1969</citedRange>
-			<citedRange unit="item">228</citedRange>
 		</bibl>
 		
 	</listBibl>
