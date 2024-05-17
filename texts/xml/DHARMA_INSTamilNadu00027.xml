@@ -97,12 +97,18 @@
 	</ab>
 	
 		<lg n="1" met="kaṭṭaḷaikkalittuṟai">
-			<l n="1">ulakam maṭantai nutal uṟantaippati y-an-nutaṟku-t</l>
+			<l n="1">Ulakam maṭantai nutal uṟantaippati y-an-nutaṟku-t</l>
 			<l n="2">tilakam paramaṉamaruñ cirāmalai yammalaivā</l>
 			<l n="3">y-alakiṉ ṉiṟainta katirmaṇi pāyalai kaṭaṉmēl</l>
 			<l n="4">vilakunatiyām poṉṉi paraṉ kaḻuttiṟ koṇṭa veḷvaṭamē</l>
 		</lg>
 
+	<lg n="2">
+		<l n="1"><lb n="2"/>vaṭa kayilāyamun teṉpāṉ malaiyapporuppum eṉṉun</l>
+		<l n="2">taṭavarai tām itaṉ ṟaṉmaiya v-āvatu tām uṇarntuṅ</l>
+		<l n="3">kaṭavarai mēkamuḻakkuñ cirāmalai kaṇṭa kaṇ</l>
+		<l n="4">muṭavarai y-eṉṟē maṟucāṉṟ’ eṇṇi moḻikiṉṟatē</l>
+	</lg>
 	
 	
          </div>
@@ -138,6 +144,20 @@
 			<lem>paraṉ kaḻuttiṟ</lem>
 			reading by RE puṟaṅkaḻuttiṟ-\->
 		</app>-->
+		
+		<app loc="2">
+			<lem>teṉpāṉ</lem><!--supported by RE-->
+			<rdg source="bib:KrishnaSastri1923_01"> teṉmāṉ</rdg><!--supported also by RI CM TK KM-->
+		</app>
+		<app loc="2">
+			<lem>yeṉṟē</lem>
+			<rdg source="bib:KrishnaSastri1923_01">yo<supplied reason="undefined">kku</supplied></rdg><!--supported also by RI CM TK KM; other reading okkum by RE-->
+		</app>
+		<app loc="2">
+			<lem>maṟucāṉṟeṇṇi</lem>
+			<rdg source="bib:KrishnaSastri1923_01"><supplied reason="undefined">maṟucāṉ</supplied>ṟeṇṇi</rdg><!--supported also by RI CM TK KM; other reading itukāṇ eṉṟeṉṉai by RE-->
+		</app>
+		
 	</listApp>
 </div>
           
@@ -148,9 +168,11 @@
  		<l>the place Uṟantai <supplied reason="explanation"><foreign>uṟantaippati</foreign></supplied> is her forehead <supplied reason="explanation"><foreign>nutal</foreign></supplied>;</l>
  		<l>the circular mark <supplied reason="explanation"><foreign>tilakam</foreign></supplied> on that forehead <supplied reason="explanation"><foreign>annutal+ku</foreign></supplied> is Cirāmalai, desired <supplied reason="explanation"><foreign>amarum</foreign></supplied> by Lord <supplied reason="subaudible">Śiva</supplied> <supplied reason="explanation"><foreign>paramaṉ</foreign></supplied>;</l>
  		<l>in that mountain <supplied reason="explanation"><foreign>ammalaivāy</foreign></supplied>, the river <supplied reason="explanation"><foreign>nati⁓ām</foreign></supplied> Kāviri <supplied reason="explanation"><foreign>poṉṉi</foreign></supplied> spreading waves <supplied reason="explanation"><foreign>pāy-alai</foreign></supplied>, <supplied reason="subaudible">carrying</supplied> countless <supplied reason="explanation"><foreign>alaku il</foreign></supplied>, numerous/well-formed <supplied reason="explanation"><foreign>niṟainta</foreign></supplied> shining gems <supplied reason="explanation"><foreign>katir-maṇi</foreign></supplied>, moving away <supplied reason="explanation"><foreign>vilaku</foreign></supplied> towards the sea <supplied reason="explanation"><foreign>kaṭalmēl</foreign></supplied>, is the white necklace <supplied reason="explanation"><foreign>veḷvaṭam</foreign></supplied> that the Lord <supplied reason="explanation"><foreign>paraṉ</foreign></supplied> has <supplied reason="explanation"><foreign>koṇṭa</foreign></supplied> on His neck <supplied reason="explanation"><foreign>kaḻuttu-il</foreign></supplied>. </l>
+ 	</p>
+ 	<p rend="stanza" n="2">
+ 		Even though it is realized <supplied reason="explanation"><foreign>tām uṇarntum</foreign></supplied> that the Kailāśa in the north <supplied reason="explanation"><foreign>vaṭa kayilāyamum</foreign></supplied> and the Potikai hill <supplied reason="explanation"><foreign>malaiyapporuppum</foreign></supplied> on the southern side <supplied reason="explanation"><foreign>teṉpāl</foreign></supplied> have the same nature as that <supplied reason="explanation"><foreign>taṉmaiya āvatu</foreign></supplied> of this <supplied reason="explanation"><foreign>itaṉ</foreign></supplied> <supplied reason="subaudible">Cirāmalai</supplied>, once the eye has seen <supplied reason="explanation"><foreign>kaṇṭa kaṇ</foreign></supplied> <supplied reason="subaudible">for itself</supplied> Cirāmalai, where the rutting cloud-elephants <supplied reason="explanation"><foreign>kaṭa varai mēkam</foreign></supplied> roar <supplied reason="explanation"><foreign>muḻakkum</foreign></supplied>, it declares <supplied reason="explanation"><foreign>moḻikiṉṟatē</foreign></supplied> that <supplied reason="subaudible">those</supplied> are really faulty mountains <supplied reason="explanation"><foreign>muṭavarai  eṉṟē</foreign></supplied> considering <supplied reason="explanation"><foreign>eṇṇi</foreign></supplied> the contradictory proof <supplied reason="explanation"><foreign>maṟucāṉṟu</foreign></supplied>.
 
  	</p>
- 	
  	
  </div>
       	
