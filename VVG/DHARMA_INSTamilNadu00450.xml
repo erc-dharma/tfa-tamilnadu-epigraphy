@@ -125,13 +125,13 @@
 		</list>
 	</p>
 	<p>
-		Icainta peru nāṉk' ellaikk' Uḷ-paṭṭa puravil Uṭkiṭai teyvatāyam tiru-muḷai nayinār tāṉtōṇi Īcura teyva tāyam tiru-muḷai Em <gap reason="lost" quantity="5" unit="character" precision="low"/> ntam Ēmpa
-		<lb n="7" break="no"/>lum ciṟu-kumiḻ ēmpalum kīḻai yiḷavātta-k-kuṭi Ēmpalum mēlai yiḷavātta-k-kuṭi Ēmpalum Āṇṭi Ēmpalum kuṟuvaṉēri Ēmpalum kumatta-k-kuṭi Ēmpalum periya kumiḻi
-		<lb n="8"/>Ēmpalun taṇṭuṇi Ēmpalum taṇṭu tāṉa Ēmpalum tampi Ēmpalum Āka-k kuṭi-k kāṭu Ēmpal paṉṉ-iraṇṭum Ūṭkiṭai Ēmpa <gap reason="lost" quantity="5" unit="character" precision="low"/> m cēnta pu
-		<lb n="9" break="no"/>ñcai puravum nīkki cokka-nārāyaṇa-p-perumāḷ tiru-viḷaiyāṭṭam caṭaiyaṉ ēmpalum kolli kuṭi ēĒmpalum Atuṭaṉ cēnta puñcai puravum nīkki
-		<lb n="10"/>maṟṟ' uṇṭ-ākiya nilam mēlūr vayalum tiraṇi-vayalum nalla-maṅkai-vayalum karuvili-maṅkai-vayalum vēṭaṅkuṭi vayalum
+		Icainta peru nāṉk' ellaikk' Uḷ-paṭṭa puravil Uṭkiṭai teyva-tāyam tiru-muḷai-nayinār tāṉtōṇi-Īcura-teyva-tāyam tiru-muḷai Em <gap reason="lost" quantity="5" unit="character" precision="low"/> ntam Ēmpa
+		<lb n="7" break="no"/>lum ciṟu-kumiḻ ēmpalum kīḻai yiḷavātta-k-kuṭi Ēmpalum mēlai yiḷavātta-k-kuṭi Ēmpalum Āṇṭi Ēmpalum kuṟuvaṉ ēri Ēmpalum kumatta-k-kuṭi Ēmpalum periya kumiḻi
+		<lb n="8"/>Ēmpalun taṇṭuṇi Ēmpalum taṇṭu tāṉa Ēmpalum tampi Ēmpalum Āka-k kuṭi-k kāṭu Ēmpal paṉṉ-iraṇṭum Uṭkiṭai Ēmpa <gap reason="lost" quantity="5" unit="character" precision="low"/> m cēnta pu
+		<lb n="9" break="no"/>ñcai puravum nīkki cokka-nārāyaṇa-p-perumāḷ tiru-viḷaiyāṭṭam caṭaiyaṉ ēmpalum kolli kuṭi Ēmpalum Atuṭaṉ cēnta puñcai puravum nīkki
+		<lb n="10"/>maṟṟ' uṇṭ-ākiya nilam mēlūr vayalum tiraṇi-vayalum nalla-maṅkai-vayalum karuvili-maṅkai-vayalum vēṭaṅkuṭi-vayalum
 		<lb n="11"/>Ituṭaṉ cēnta nañcai puñcai māvaṭai maravaṭai nattam cey tiṭal mēṭu kīḻ nōkkiya kiṇaṟum mēl nōkki
-		<lb n="12" break="no"/>ya maramum nidhi ni<hi rend="grantha">kṣe</hi>paṅkaḷum <hi rend="grantha">jala-pāṣā</hi>ṇa-viniyō<hi rend="grantha">ga</hi>-cuvantiraṅkaḷum maṅkai nāyaka-cuvāmi teyva-tāyam can=tirātit=ta varaikkum
+		<lb n="12" break="no"/>ya maramum ni<hi rend="grantha">dhi</hi>-ni<hi rend="grantha">kṣe</hi>paṅkaḷum <hi rend="grantha">jala-pāṣā</hi>ṇa-viniyō<hi rend="grantha">ga</hi>-cuvantiraṅkaḷum maṅkai-nāyaka-cuvāmi teyva-tāyam can=tirātit=ta varaikkum
 		<lb n="13"/>tiru-p-paṇi <gap reason="lost" quantity="5" unit="character" precision="low"/> naṭappittu koḷvar ākavum
 	</p>
 	<p>
@@ -183,16 +183,14 @@
 	</p>
 	
 	<p n="2-6">
-		The great boundaries of
-		...
-		which, We, the chiefs
+		The great boundaries of the tax-free gift-land <supplied reason="explanation"><foreign>puravu</foreign></supplied> in Cēntamēlūr in the Cōḻaṉ Vaḷanāṭu, a village, which, We, Ēppuli Nāyaka, <hi rend="grantha">alias</hi>
 		...
 		have given
 		...
 		are <supplied reason="subaudible">as follows</supplied>:
 		
 		<list>
-			<item>the western boundary is to the west of ...;</item>
+			<item>the western boundary is to the west of the hamlet <supplied reason="explanation"><foreign>ēmpal</foreign></supplied> ...;</item>
 		
 			<item>the southern boundary is to the north of ...;</item>
 		
@@ -202,15 +200,39 @@
 		</list>
 	</p>
 	
-	<p n="6-13">...</p>
+	<p n="6-13">
+		In the tax-free gift-land comprised between the four boundaries so described,
+		so that there be <supplied reason="explanation"><foreign>āka</foreign></supplied>
+		...
+		excluding ...
+		excluding ...
+		the land <supplied reason="subaudible">thus obtained</supplied>
+		...
+		<supplied reason="subaudible">including</supplied>
+		wet-land <supplied reason="explanation"><foreign>nañcai</foreign></supplied>, dry land <supplied reason="explanation"><foreign>puñcai</foreign></supplied>, ..., wells, trees, ...
+		should be obtained
+		...
+		as long as the moon and and the sun
+		as <foreign>teyvatāyam</foreign> <supplied reason="subaudible">of</supplied> Maṅkai Nāyaka Svāmi.		
+	</p>
       		
-	<p n="13">...</p>
+	<p n="13">		
+		In this manner, We, Ēppuli Nāyaka, we have given this ... to/for Maṅkai Nāyaka Svāmi. 
+	</p>
       		
-	<p n="13-14">...</p>
+	<p n="13-14">
+		Whoever protect this pious act
+		...
+		his feet are kept on my head.
+	</p>
+	
+	<p n="14-15">
+		He who does harm to this pious act should enter the sin of killing ... on the banks of the Ganges.
+	</p>
       		
-	<p n="14-15">...</p>
-      		
-	<p n="15-16">...</p>
+	<p n="15-16">
+		Having this ... written and having it engraved on stone and copper, we have given.
+	</p>
       		
 	<p n="16">Signature of Vāca<gap reason="lost"/>vaṇa Kumara Perumāḷ</p>
       		
