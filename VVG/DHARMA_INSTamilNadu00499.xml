@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Pirāṉmalai, X temple, time of X, year X</title>
+			    <respStmt>
+			        <resp>intellectual authorship of edition</resp>
+			        <persName ref="part:vija">
+			            <forename>G.</forename>
+			            <surname>Vijayavenugopal</surname>
+			        </persName>
+			    </respStmt>
+			    <respStmt>
+			        <resp>EpiDoc encoding</resp>
+			        <persName ref="part:emfr">
+			            <forename>Emmanuel</forename>
+			            <surname>Francis</surname>
+			        </persName>
+			    </respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu00499</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
+				repository</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+
+<body>
+         
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<lb n="1"/>svasti śrī
+	</ab>
+	
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<l n="1">śrī-bhūmī-devi-putrāṇām</l>
+		<l n="2">kṣāra-kṣīrōdha-pūrvinām</l>
+		<l n="3">jayanti citra-lōkānām</l>
+		<l n="4">rājya-paripālakanām·<!--check: see SII--></l>
+	</lg>
+	<p>
+		sarvvalōka hitārtdāya
+		citramēḻī śaśāsanam
+		tribhuvanāśraya pañca
+		śata vīra śāsanam lakṣaṇa lakṣmī vilāsā
+		<lb n="2" break="no"/>laṅkrata vakṣastala bhuvana parākrama-śrī-vāsudeva sahāyakaṉ devī mūla-patrā lōpa śrī-Aimpoḻiṟ paramēśvarikkum bhūmi-devikkum makkaḷ āki nikaḻā niṉṟa matitoṭa poṅku māṭa vīti-p patiṉeṭṭu-p paṭṭiṉamum mu-p-pattiraṇṭu vēḷā puramum Aṟupattunā
+		<lb n="3" break="no"/>lu kaṭikait tāvaḷamum tāvaḷat tiruntu taṉmai vaḷaṟkuñ ceṭṭiyuñ ceṭṭi cirapput tāṉun tavaṟoṉṟillāta taṉmai yoḻukkattuk kavaṟai taṉṉoṭu kāśyapaṉ viṭutta cāmuṇṭēśvariyum Uruttiraṉ viṭutta Ōlai vāriyaṉum Uṉṉiyatu muṭikkum Oṇṭiṟal vī
+		<lb n="4" break="no"/>rar paṉṉirutaṟattu-p paṇi cey mākkaḷum muṉṉi-y-āka muḻavoli vaḷaṟkum muttamiṭ pāṭalo ṭāṭa lōvā viḻavum vēḻviyum viḷaṅkiya vitiyuṭait teṅkum palāvun tēmāñ cōlaiyuñ cantaṉa vēlic caṇpakap poḻilum vāḻaiyuṅ kamukum vaḷarkoṭi mul
+		<lb n="5" break="no"/>laiyum pūvaiyuṅ kiḷḷaiyum polivoṭu cūḻa vāṭṭam iṉṟi-k kūṭṭam peruka Aṟam vaḷarak kali meliyap pukaḻ perukap pakai paṇiyat ticaiyaṉaittuñ ceviṭupaṭac ceṅkōlē muṉṉākavuñ cempoṟ pacumpaiyē teyvam ākavu
+		<lb n="6" break="no"/>ṅ
+	</p>
+	<p>
+		kṣamaiyiṉoṭuṅ karuṇai yeytac camaiya taṉmai yiṉitu naṭātta nakaḻāniṉṟa nāṉku ticai samastalōkap patiṉeṇ viṣaiyattōmum Eṭṭai vaṭṭai yiṭaivaṭṭaikaḷiṟ ticai viḷaṅku ticaiyāyirattaiññūṟṟu(va)rōmum Ēṟucāt taṟaṅku cāttut
+		<lb n="7" break="no"/>ticai viḷaṅku ticai yāyiratt' aiññūṟṟuvarōmum Aṟṟaivaṭṭai yaruvaṭṭai nārattarai nalvāttarai tacaiviḷaṅku tacaiyāyiratt' aiññūṟṟuvarōmum Aṟaṅkaḷ taraṅkaḷiṟ ticaiviḷaṅku ticaiyāyirat t' aiññūṟṟuvarōmum nāṭu nakaraṅkaḷiṟ ticaiviḷaṅku
+		<lb n="8" break="no"/>ticai yāyirat taiññūṟṟuvarōmum kēraḷa ciṅka vaḷanāṭṭu Aruvi māṉakaramāṉa kulacēkarappaṭṭiṉattu nakarattōmun tuvarāpati nāṭṭu Eṟipaṭainallūr vaṭamaṭṭai nakarattōmum puṟamalai nāṭṭu pututteruvāṉa cēra nārāyaṇa-purattu nakarattōmum kaṭalaṭaiyā tilaṅkai koṇṭa cōḻa vaḷanā
+		<lb n="9" break="no"/>ṭṭu Uṟattūr kūṟṟa-k koṭumpāḷūr maṇi-k-kirāmattu nakarattōmun tiru-k-kōṭṭiyūr maṇiyampalattu nakarattōmum kēraḷa-ciṅka-vaḷanāṭṭu Aḷakāpuramāṉa ceḻiya nārāyaṇa-purattu nakarattōmum (Aiya)poḻil vaḷanāṭṭu-k kalvāyil nāṭṭu-c cuntara-pāṇṭiya-purattu nakarattōmum kaḷavaḻi nāṭṭu Aḷakai
+		<lb n="10"/>māṉakaramāṉa jayaṅ-koṇṭa-cōḻa-p-perun-teru nakarattōmum maṇṭalikaṉ kempīra-p-perun-teru nakarattōmum paṉṉ-iraṇṭu nakarattu jayaṅ-koṇṭa-cōḻapuram Uḷḷiṭṭa nakarattōmum karuvūr kaṇṇapuram paṭṭāli talaiyūr Irārāpuraṅ kīraṉūr Uḷḷiṭṭa pala nakaraṅkaḷil nakarattōmun tirumalai nāṭṭut
+		<lb n="11"/>tiru-k-koṭuṅ-kuṉṟattu tiru-malai yaṭivārattu māṟkka vakai tītta mutaliyār nāyaṉār Uṭaiyār Aḻakiya tiru-c-ciṟṟampalam-uṭaiya nāyaṉār tiru-k-kōyilun tiru-k-kuḷamum maṭamun tirumaṭai viḷākamum patiṉeṇ viṣaiyattār rakṣai yātalāl Iṉ-ṉāyaṉār kōyil tiru-k-kāva-ṇattu niṟaivaṟa niṟain
+		<lb n="12" break="no"/>tu kuṟaivaṟak kūṭa Amaiyap pēci Icaiyac ceyta taṉma camaiyak kāriyamāvatu Iṉ-ṉāyaṉārkku-t tiruppaṭimāṟṟukkun tiruppaṇikkun tirupparicaṭṭan tirumēṟpūccukku Inta maṭattukkum maṟṟum Uḷḷa nimantaṅkaḷukkum cantirātitta-vaṟ celvat' āka vaittuk kuṭuttapaṭi Āvatu
+	</p>
+	<p>
+		Uppup pe
+		<lb n="13"/>āti Oṉṟukkuk karitikkuk kācu Oṉṟum Uppup pākkattukku kācu Araiyum Upput talaiccumai Oṉṟukku kācu Araiyum Uppu vaṇṭi Oṉṟukkuk kācu pattum neṟ poti Oṉṟukkuk kācu Oṉṟum neṟ pākkam Oṉṟukkuk kācu Araiyum nel vaṇṭi Oṉṟukkuk kācu pattum Arici vaṇṭi Oṉṟukku
+		<!--check initial vowels from here-->
+		<lb n="14"/>k kācu irupatum aricip poti oṉṟukkuk kācu iraṇṭum aricip pākkam oṉṟukkuk kācu oṉṟum payaṟṟam vaṇṭi oṉṟukkuk kācu irupatum payaṟṟam poti oṉṟukkuk kācu oṉṟum payaṟṟam pākkam poti oṉṟukkuk kācu araiyum avarai tuvarai vaṇṭi oṉṟukkuk kācu irupatum avarai tuva -ai
+		<lb n="15"/>rap poti oṉṟukkuk kācu oṉṟum pākkam oṉṟukkuk kācu araiyum āmaṇakkaṅkoṭṭai vaṇṭi oṉṟukkuk kācu pattum poti oṉṟukkuk kācu araiyum pākkam oṉṟukkuk kācu kālum pākkup poti oṉṟukkuk kācu nālum pākkup pākkam oṉṟukkuk kācu iraṇṭum miḷaku poti oṉṟukku
+		<lb n="16"/>k kācu aiñcum miḷaku pākkam oṉṟukkuk kācu iraṇṭaraiyum mañcaḷ poti oṉṟukkuk kācu mūṉṟum pākkattukkuk kācu oṉṟaraiyum cukkup poti Oṉṟukkuk kācu mūṉṟum pākkattukkuk kācu oṉṟaraiyum veṇkāyaṅ kaṭuku cīrakam poti oṉṟukkuk kācu iraṇṭum pākkattukkuk kācu oṉ
+		<lb n="17"/>ṟum kaṭunelli tāṉṟip poti oṉṟukkuk kācu oṉṟum pākkattukkuk kācu araiyum iruppu vaṇṭi oṉṟukkuk kācu irupatum iruppup poti oṉṟukkuk kācu iraṇṭum pākkattukkuk kācu oṉṟum parutti vaṇṭi oṉṟukkuk kācu pattum poti oṉṟukkuk kācu iraṇṭum pākkam oṉṟukkuk kācu o
+		<lb n="18"/>ṉṟum nūl vaṇṭi oṉṟukkuk kācu irupatum nūl poti oṉṟukkuk kācu aiñcum pākkam oṉṟukkuk kācu iraṇṭaraiyum talaiccumaikkuk kācu iraṇṭum parutti talaiccumaikkuk kācu araiyum parum puṭavaip poti oṉṟukkuk kācu pattum neṉpuṭavaip poti oṉṟukkuk kācu irupatum parum puṭavai
+		<lb n="19"/>p pākkattukkuk kācu aiñcum neṉpuṭavaip pākkattukkuk kācu aiñcum talaiccumaikkuk kācu aiñcum ulaṇṭu pili talaiccumai oṉṟukkuk kācu aiñcum meḻuku poti oṉṟukkuk kācu pattum pākkattukkuk kācu aiñcum talaiccumai oṉṟukkuk kācu nālum tēṉ kuṭam oṉṟukkuk kācu nālum eṭ po
+		<lb n="20"/>ti oṉṟukkuk kācu nālum pākkam oṉṟukkuk kācu iraṇṭum talaiccumai oṉṟukkuk kācu oṉṟum kōṇakaip paṭṭup poti oṉṟukkuk kācu iraṇṭum pākkattukkuk kācu oṉṟum talaiccumai oṉṟukkuk kācu oṉṟum cantaṉam poti oṉṟukkuk kācu muppatum akil cumai oṉṟukkuk kācu muppatum paṭṭup paṭṭa
+		<lb n="21"/>āvaḷac cumai oṉṟukkuk kācu muppatum paṉnīrk kuṭṭam oṉṟukkuk kācu muppatum cavari mayirc cumai oṉṟukkuk kācu muppatum kaṟpūran tayilañ cumai oṉṟukkuk kācu irupatum cāntu puḻuku cavātu kompu oṉṟukkuk kācu patiṉaiñcum ic carakkukkaḷukku pākkattil koḷḷumpaṭikkut talaiccumai oṉṟu mukkāl koḷvatā
+		<lb n="22"/>kavum cēmāṭu oṉṟukkuk kācu iraṇṭum kutirai oṉṟukku accuk kālum āṉai oṉṟukku accu araiyum maṟṟum eppērppaṭṭa carakkukkaḷukkum im maccātikaḷilē koḷvatākac camaiya piṭipāṭu paṇṇik kuṭuttōm ticaiviḷaṅku ticai āyirat taiññūṟṟuvarōmum aruvimāṉa
+		<lb n="23"/>karam eḻuttu pārviḷaṅ[kuku] ṭi kiḻavar tulaiyāta celvar cokkamaṅkala muṭaiyār poḷḷa nāṭṭu vēḷār poṟkaṭṭiyuṭaiyā ravaṉi[ccū]ḷāmaṇi nāṭṭu vēḷār āṉ[ma]ṉūruṭaiyār māṇikka rā[ya]r ampa[rk] kiḻār aḷakaimāṉār paravaiyuṭaiyār maṇṭalava[raica]r uṟattūruṭai[yā]ṉ aḷakaikkē
+		<lb n="24"/>āṉār pālaiyūruṭaiyāṉ paṭṭiṉacuvāmi pālaiyūruṭaiyār vaṇika rāyar puḷiyaṅkuṭaiyār pāmpuṇi nāṭṭu vēḷār kōvalūruṭaiyār tamiḻatiraiyar [a]rumpākkiḻār va[ṇi]karātittar kōvalūruṭaiyār civapattar tuḻāruṭaiyār namacivāya tēvar paṭṭamuṭaiyār āṇai namateṉṟa perumāḷ aṇaippāṭiyuṭai
+		<lb n="25"/>yār utaiyap piḷḷai paravai(yu)ṭaiyār ceṭṭiyāṇṭār muṭṭapāṭi uṭaiyār toṇṭaimāṉār kalacappāṭi uṭaiyār tiruñāṉacampantar nāvaluṭaiyār tiruñā(ṉa)campantar arumpāk kiḻār toṇṭaināṭu kiḻavar uṟattūruṭaiyār tiruttoṇṭat tokaiyar marutūruṭaiyār cakkara-va<reg></reg>ttik kiḷippaṟṟumār tiruc(ci)
+		<lb n="26"/>rāppaḷḷiyuṭaiyār aḷakāpura(kara)p paṟṟuṭaiyār utaiyap piḷḷaiyāṉa irunetikku(ṭai)yār maṇṇina(ā)ṭṭu vēḷār poṉṉampalak (kū)ttar pūtamaṅkalamuṭaiyār (pura)ntarar neṭuvāyaluṭaiyār paḷḷiyaṇimār tirukkōṭṭiyūr maṇaṟkuṭaiyār (ā)ṉantak kūttāṇṭār ma
+		<lb n="27"/>ṇaṟkuṭaiyār tiruvampalapperumāḷ peruñcēvū(ru)ṭaiyār a(ṇi)yaraṅkanātar pākka(mu)ṭaiyār śrīnantakōpar paṇṇai kiḻavar pāṇṭiya tarayar aḻiciṟpākkamuṭaiyār pattaṟ karuḷ ceyvār aḷakai māṉakar vaciravaṇar (ci)kkaluṭaiyār vaḻu(ti)k kōṉār aḻiciṟpākkamuṭaiyār pollāta pi
+		<lb n="28"/>ḷḷai aṉaippāṭiyuṭaiyār tirumuṇṭa maḻakiyār niyamattil āvaṇiyuṭaiyār ceppa muṭaic campantar ciṟṟamparuṭaiyār amara kōṉār toṇṭaināṭu kiḻavar civa tavaṉap perumāḷ cuntara pāṇṭiyapuram veṇṇainallūruṭaiyār tillai nāyakap piḷḷai cempaṅkuṭaiyār peṟṟa piḷḷai pām(pu)
+		<lb n="29"/>ramuṭaiyār uṭaiyapiḷḷai pērāmpū ruṭaiyār tātar kāḷaiyar kā(vu)p perunteru paṭṭiṉa cuvāmikaḷ vaṇikar mātākkaḷ cokkañāṉacampantar eṟipaṭainallūr vēmpuṭaiyār malaimaṇṭala māta(ā)kkaḷ maruttuvakkuṭaiyār kaṉṉāvuṭaiyār maruttuvakkuṭaiyār cokka ñāṉacampantar va(ā)ṭāvuṭaiyār nittar vālaiya
+		<lb n="30"/>ṉ kūttaṉāṉa teṉṉakōṉār māṅkuṭaiyār maṉṉaṉāṉa māṇikkarāyar ma(ā)ṅkuṭaiyār poṉ(ṉi)nāṭṭuk kōṉār koṭumpāḷūr māṭat tāṇṭār tillaivēntar (piḷ)ḷāṇṭā ṉāṉa piḷḷai yeṉātār cuntarapperumā(ḷā)ṉa tamiḻakōṉār putut teru nāvalūruṭaiyār civapattar nāṭṭa(ā)r paḷḷiyuṭaiyār tirunīṟu parappiṉār tirunallūruṭaiyār u
+		<lb n="31"/>ṭaiya piḷḷai vākuṭaiyār vaḻutik kōṉār tiruveṭpūruṭaiyār pāṇṭik kōṉār vāṭāvūruṭaiyār taṉma paripālar aṭaippuṭaiyār appāṇṭār māttuṭaiyār (kan)tappiḷḷai virāṇakkuṭaiyār āḷavantāṉāṉa maṇṭala cuvāmi ippatiṉeṇ viṣaiyattār paṇikka iv vamai veḻutiṉāṉ innāyaṉār kōyiṟ kaṇa
+		<lb n="32"/>kkaṉ kaṇṇaṅkuṭaiyāṉ kēraḷaṉ pattaṟ karuḷ ceyvāṉāṉa cuntara pāṇṭiya mūvēnta vēḷān u itu paṉmāhēśvara rakṣai u ceyaṅkoṇṭacōḻapurattu kāḷi maṇṭala maṇikaṉ eḻuttu camaiyac cakkara-va<reg></reg>tti eḻuttu āḷkoṇ
+		<lb n="33"/>ṭāṉ civapattaṉ eḻuttu kuṭantai piriyaṉ eḻuttu cōmaṉ viḻumpāṉāṉa uṟaiyūruṭaiyāṉ eḻuttu apimāṉacōḻapurattu ampalavaṉ ceyaṅkoṇṭa cōḻac (ci)lai ceṭṭi uḷḷiṭṭār eḻuttu pēṭṭaiyil uṭaiyāṉ āpattukkāttāṉ eḻuttu toṭṭi
+		<lb n="34"/>puramāṉa rājakēcaripurattu tāvaḷakkoṇṭāṉ eḻuttu civapātacēkarapurattu kāḷi muppēruṭaiyāṉ eḻuttu camaiyapurantaraṉ uḷḷi <gap reason="lost" quantity="6" unit="character" precision="low"/> cōḻapāṇṭiyapurattuk koḻuntaṉ uṭaiyār camaiya mantiri eḻuttu māṇikkāṇṭāṉ eḻuttu paḷḷi ko
+		<lb n="35"/>ṅkāṇṭāṉ eḻuttu kōṭṭaikkaraiyāṉ kōḷaricēkaripurattuk kuṟṟaṉ cēvaṉ uḷḷiṭṭār eḻuttu karuvūr vañci mānakaram (muṭi)vaḻaṅkucōḻapurattu piḷḷai kāṉa ṉāṭṭuc ceṭṭi eḻuttu māṇikkaṉ eṟipattāṇṭāṉ eḻuttu talaiyūr ṉāṭṭu naṉmutta vaṇikaṉ
+		<lb n="36"/>kīraṉūr uṭaiyāṉ koṅka maṇṭalac cilai ceṭṭi kaṇṇapurattu tēvaṉ camaiyamātā muṭikoṇṭattu cōlai cokkañāṉacampantaṉ koṟṟaṉūr uṭaiyāṉ maṇṭala cuvāmi kutiraic ceṭṭikaḷil vaṇikar nārāyaṇaṉ Eḻuttu <g type="gomutraFinal">.</g>
+		
+	</p>
+</div>
+	
+<!--<div type="apparatus">
+           
+	<listApp>
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+		</app> 
+	</listApp>
+	
+</div>-->
+      	
+<!--<div type="translation" resp="part:emfr">
+      		
+      		<p n="1">
+      			...
+      		</p>
+      		
+</div>-->
+	
+<!--<div type="commentary">
+      		
+</div>-->
+      	
+<div type="bibliography">
+	
+	<p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/154).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.442), in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 99), with photos.</p>
+		
+	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="SII">
+			<ptr target="bib:SubrahmanyaAiyer1937_01"/>
+			<citedRange unit="item">442</citedRange>
+			<citedRange unit="page">231-232</citedRange>
+		</bibl>
+		
+		<bibl n="V">
+			<ptr target="bib:Vijayavenugopal2022_01"/>
+			<citedRange unit="item">99</citedRange>
+			<citedRange unit="page">204-209</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">		
+		
+		<bibl>
+			<ptr target="bib:ARIE1923-1924"/>
+			<citedRange unit="page">62</citedRange>
+			<citedRange unit="appendix">C/1924</citedRange>
+			<citedRange unit="item">230</citedRange>
+		</bibl>
+		
+	</listBibl>
+      		
+        </div>
+      </body>
+  </text>
+</TEI>

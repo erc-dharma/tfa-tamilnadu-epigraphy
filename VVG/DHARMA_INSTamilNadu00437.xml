@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Pirāṉmalai, X temple, time of X, year X</title>
+			    <respStmt>
+			        <resp>intellectual authorship of edition</resp>
+			        <persName ref="part:vija">
+			            <forename>G.</forename>
+			            <surname>Vijayavenugopal</surname>
+			        </persName>
+			    </respStmt>
+			    <respStmt>
+			        <resp>EpiDoc encoding</resp>
+			        <persName ref="part:emfr">
+			            <forename>Emmanuel</forename>
+			            <surname>Francis</surname>
+			        </persName>
+			    </respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu00437</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary/>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
+				repository</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+
+<body>
+         
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+			
+	<p>
+		
+<lb n="1"/>svasti śrī kōmāṟapaṉmarāṉa tribhuvaṉaccakra-va<reg></reg>ttikaḷ em maṇṭalamuṅ koṇṭaruḷiya śrīkulacē
+<lb n="2"/>kara tēvaṟku yāṇṭu 38 vatu aippaci mātam oṉpatān tiyati tirumalai nāṭ
+<lb n="3"/>ṭut tiruk koṭuṅ kuṉṟattu uṭaiyār tiruk koṭuṅ kuṉṟa muṭaiya nāyaṉār
+<lb n="4"/>kōyiṟ cī paṇṭārattārōm uṭaiyār tiru vālavā yuṭaiya nāyaṉār kō
+<lb n="5"/>yil tirut toṇṭarkaḷil mutaliyār curapit tirumēṉikkup piṭipāṭu paṇ
+<lb n="6"/>ṇik kuṭutta paricāvatu iṉṉāyaṉāṟku pā lamutukku muṉṉāḷ tiruccurapi i -ai
+<lb n="7"/>ṭayar vacam amattu {read amaittu} vaitta pacu 50 kku iṟṟai nāḷil kāṭṭi ivarka
+<lb n="8"/>ḷ muta liṭuvitta pacu 30 kkum pacu āṟukkup pā lamutu nāḻiyākap pā lamutu
+<lb n="9"/>aiññāḻiyum iṉṉāḷ mutal tiru maṭaip paḷḷiyilē aḷappittu amutu
+<lb n="10"/>ceytaruḷap paṇṇuvōmākavum ip pā lamutukku ip pacu muppatum cā
+<lb n="11"/>kā mūvāp pacuvākak kaiykkoṇṭu ip pā lamutu muṭṭāmal
+<lb n="12"/>aḷappippō mākavum ippaṭi cammatittup piṭipāṭu paṇṇik kuṭuttōm
+<lb n="13"/>mutaliyār curapit tirumēṉikku ivai cakāyama pi<gap reason="lost" quantity="3" unit="character" precision="low"/>
+<lb n="14"/><gap reason="lost" quantity="4" unit="character" precision="low"/> ṉeḻuttu
+ 		
+ 	</p>
+</div>
+	
+<!--<div type="apparatus">
+           
+	<listApp>
+		<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+		</app> 
+	</listApp>
+	
+</div>-->
+      	
+<!--<div type="translation" resp="part:emfr">
+      		
+      		<p n="1">
+      			...
+      		</p>
+      		
+</div>-->
+	
+<!--<div type="commentary">
+      		
+</div>-->
+      	
+<div type="bibliography">
+	
+	<p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/140).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 37), with photos.</p>
+		
+	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
+	
+	<listBibl type="primary">
+		
+		<!--+ SII 8.427-->
+		
+		<bibl n="V">
+			<ptr target="bib:Vijayavenugopal2022_01"/>
+			<citedRange unit="item">37</citedRange>
+			<citedRange unit="page">92</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1903-1904"/>
+			<citedRange unit="page">18</citedRange>
+			<citedRange unit="appendix">A/1903</citedRange>
+			<citedRange unit="item">140</citedRange>
+		</bibl>
+		
+	</listBibl>
+      		
+        </div>
+      </body>
+  </text>
+</TEI>
