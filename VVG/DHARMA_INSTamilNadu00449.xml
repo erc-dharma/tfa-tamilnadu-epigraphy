@@ -92,17 +92,23 @@
 			
 	<p>
 		
-<lb n="1"/>līcuraṉ mēti <gap reason="lost" quantity="4" unit="character" precision="low"/> mīcura kaṇṭaṉ kaṇṭa kaṇṭa kaṭṭāri cāḷuva immaṭi naraciṅkarāyar<gap reason="lost" quantity="6" unit="character" precision="low"/> yam paṇṇi yaruḷāniṉṟa cakāttam
-<lb n="2"/>1500 iravuttiri samvatsarattu uttarāyaṇa pūṟuva pakṣattu aṭṭami nāḷ ayyaṉ tipparacar ayyaṉ<gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="3"/>malaināṭṭut tirukkoṭuṅkuṉṟam<gap reason="lost" quantity="4" unit="character" precision="low"/> kāśyapa gotrattu<gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="4"/>ṇ paṭṭaṟkum āka pēr mūṉṟukku pirāmalaic cīmaiyil vaṭavarampi tippa<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="5"/>ayyaṉ tipparacaṉ ayyaṉ taṉmamāka ēppuli nāyakkar vaitta ēmpaluk<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="6"/><gap reason="lost" quantity="2" unit="character" precision="low"/> ṉ varampi ēmpalukku vaṭakkum mēlpāṟkellai cemmarak kuttuk kallukkuk ki<gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="7"/>lukku teṟkum āka innāṉkellaikku uṭpaṭṭa nañcey puñcey
-<lb n="8"/>nāṉkellaikkuṭpaṭṭa cama<gap reason="lost" quantity="2" unit="character" precision="low"/> tikaḷum ācāri<gap reason="lost" quantity="3" unit="character" precision="low"/> tanta <gap reason="lost" quantity="3" unit="character" precision="low"/> mē tāṉā ta vik<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="9"/>keṅkaik karaiyilē<gap reason="lost" quantity="4" unit="character" precision="low"/> āvaiyum kārām pacuvaiyu kapilaiyum <gap reason="lost" quantity="6" unit="character" precision="low"/>
- 		
- 	</p>
+		<lb n="1"/>līcuraṉ mēti <gap reason="lost" quantity="4" unit="character" precision="low"/> mīcura kaṇṭaṉ kaṇṭa kaṇṭa kaṭṭāri cāḷuva Immaṭi naraciṅka-rāyar <gap reason="lost" quantity="6" unit="character" precision="low"/> yam paṇṇi-y-aruḷā niṉṟa cakāttam
+		<lb n="2"/><num value="1500">1500</num> Iravuttiri-<hi rend="grantha">samvatsa</hi>rattu Uttarāyaṇa-pūṟuva-pa<hi rend="grantha">kṣa</hi>ttu Aṭṭami nāḷ
+	</p>
+	<p>
+		Ayyaṉ tipparacar Ayyaṉ <gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="3"/>malai-nāṭṭu-t tiru-k-koṭuṅ-kuṉṟam <gap reason="lost" quantity="4" unit="character" precision="low"/> kā<hi rend="grantha">śya</hi>pa-<hi rend="grantha">go</hi>trattu <gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="4" break="no"/>ṇ paṭṭaṟkum Āka
+		pēr mūṉṟukku pirāmalai-c cīmaiyil vaṭa-varampi tippa <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="5"/>Ayyaṉ tipparacaṉ Ayyaṉ taṉmam-āka Ēppuli nāyakkar vaitta Ēmpaluk <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="6"/><gap reason="lost" quantity="2" unit="character" precision="low"/> ṉ varampi Ēmpalukku vaṭakkum mēl-pāṟk' ellai cemmara-k-kuttu-k-kallukku-k ki <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="7"/>lukku teṟkum Āka
+	</p>
+	<p>
+		In-nāṉk' ellaikku Uṭpaṭṭa nañcey puñcey
+		<lb n="8"/>nāṉk' ellaikk' uṭ-paṭṭa cama <gap reason="lost" quantity="2" unit="character" precision="low"/> tikaḷum Ācāri <gap reason="lost" quantity="3" unit="character" precision="low"/> tanta <gap reason="lost" quantity="3" unit="character" precision="low"/> mē tāṉā ta vik <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="9"/>keṅkai-k karaiyilē <gap reason="lost" quantity="4" unit="character" precision="low"/> āvaiyum kār-ām-pacuvaiyu<supplied reason="omitted">ṇ</supplied> kapilaiyum <gap reason="lost" quantity="6" unit="character" precision="low"/>
+	</p>
 </div>
 	
 <!--<div type="apparatus">
