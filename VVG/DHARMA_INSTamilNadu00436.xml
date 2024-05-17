@@ -91,29 +91,40 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
 			
 	<p>
-		
-<lb n="1"/><gap reason="lost" quantity="88" unit="character" precision="low"/>
-<lb n="2"/>aruḷicceyal cellat {read celvat} tiruvārūr dakṣiṇa goḷaki maṭattilirukkum ācārya (ci)ṣyaṟkaḷil ēkām(para)
-<lb n="3"/>tēvaṟku maruṅkūr nāṭṭu ūr maṉṉu kuṟicciyil uṭaiyār atiya maḻaki(ya) (ī) śvara muṭaiya nāyanār kōyil caṉṉa<gap reason="lost" quantity="1" unit="character" precision="low"/>
-<lb n="4"/>maṭattukku maṭap puṟamāka maruṅkūr nāṭṭu nāṭṭavar kuṭutta iṉṉāṭṭu tēvimaṅkalattu piṇarik kuḷam peru(nāṉ)
-<lb n="5"/>kellaik kuḷppaṭṭa naṉcey pu(ṉ)cey nattam maṟṟum eppēṟpaṭṭaṉavum śrī kulacēkara tēvaṟku muppattēḻāvatu (mu)
-<lb n="6"/>tal kārāṇmai kaṭamai antarāyam poṉvari viṉiyokam maṟṟum epperpaṭṭaṉavum maṭappuṟa miṟaiyili (yākak)
-<lb n="7"/>kuṭuttom ippaṭikkuc cantirātittavaṟ celvatākak kalliluñ cempilu(m) veṭṭik koḷ(ka) ippaṭi nala<gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="8"/><gap reason="lost" quantity="5" unit="character" precision="low"/> lamaṅkai <gap reason="lost" quantity="6" unit="character" precision="low"/> tuvarāpati vēḷāreḻuttu sa tuṃ u
- 		
- 	</p>
+		<lb n="1"/><gap reason="lost" quantity="45" unit="character" precision="low"/>
+		<lb n="2"/>Aruḷi-c ceyal cel<choice><sic>l</sic><corr>v</corr></choice>a-t-tiruvārūr <hi rend="grantha">dakṣi</hi>ṇa-<hi rend="grantha">go</hi>ḷaki-maṭattil irukkum <hi rend="grantha">Ācāryya</hi>-(ci)<hi rend="grantha">ṣya</hi>ṟkaḷil Ēkām(para)
+		<lb n="3" break="no"/>-tēvaṟku maruṅkūr-nāṭṭu Ūr maṉṉu kuṟicciyil Uṭaiyār Atiyamaḻ-āki(ya) (Ī)śva<!--not clear indeed-->ram-uṭaiya nāyanār-kōyil caṉṉa <gap reason="lost" quantity="1" unit="character" precision="low"/>
+		<lb n="4" break="no"/>maṭattukku maṭa-p-puṟam-āka maruṅkūr-nāṭṭu nāṭṭavar kuṭutta Iṉ-ṉāṭṭu tēvi-maṅkalattu piṇari-k kuḷam peru-(nāṉ)
+		<lb n="5" break="no"/>k' ellaikk' uḷ-p-paṭṭa naṉ-cey pu(ṉ)-cey nattam maṟṟum Eppēṟpaṭṭaṉavum <hi rend="grantha">śrī</hi>-kula-cēkara-tēvaṟku mu-p-patt' ēḻ-āvatu (mu)
+		<lb n="6" break="no"/>tal kārāṇmai kaṭamai Antarāyam poṉ-vari viṉiyōkam maṟṟum Epperpaṭṭaṉavum maṭa-p-puṟam iṟai-y-ili-(y-āka-k)
+		<lb n="7"/>kuṭuttōm
+	</p>
+	<p>
+		Ip-paṭikku-c cantirātitta-vaṟ celvat' āka-k kalliluñ cempilu(m) veṭṭi-k koḷ(ka)
+	</p>
+	<p>
+		Ip-paṭi nala <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="8"/><gap reason="lost" quantity="5" unit="character" precision="low"/> la-maṅkai <gap reason="lost" quantity="6" unit="character" precision="low"/> tuvarā-pati-vēḷār eḻuttu
+	</p>
+	<p>
+		<hi rend="grantha">satyam·</hi> <g type="pc">.</g>
+	</p>
 </div>
 	
-<!--<div type="apparatus">
+<div type="apparatus">
            
 	<listApp>
-		<app loc="0">
+		<!--<app loc="0">
 			<lem>...</lem>
 			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+		</app> -->
+		<app loc="6">
+			<lem><hi rend="grantha">satyam·</hi></lem>
+			<rdg source="bib:Vijayavenugopal2022_01"><hi rend="grantha">sa</hi> tu<hi rend="grantha">ṃ</hi></rdg>
 		</app> 
 	</listApp>
 	
-</div>-->
+</div>
       	
 <!--<div type="translation" resp="part:emfr">
       		

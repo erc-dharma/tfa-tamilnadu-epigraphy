@@ -88,26 +88,42 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/>svasti śrī  
+	</ab>
+	<p>		
+		kō-māṟa-paṉmar-āṉa <hi rend="grantha">tri-bhu</hi>vaṉa-<hi rend="grantha">c-cakra</hi>-va<reg>r</reg>t=tikaḷ Em-maṇṭalamuṅ koṇṭ-aruḷiya <hi rend="grantha">śrī</hi>-kula-cē
+		<lb n="2" break="no"/>kara-tēvaṟku yāṇṭu <num value="38">38</num>-vatu Aippaci mātam Oṉpat-ān tiyati
+	</p>
 	<p>
-		
-<lb n="1"/>svasti śrī kōmāṟapaṉmarāṉa tribhuvaṉaccakra-va<reg></reg>ttikaḷ em maṇṭalamuṅ koṇṭaruḷiya śrīkulacē
-<lb n="2"/>kara tēvaṟku yāṇṭu 38 vatu aippaci mātam oṉpatān tiyati tirumalai nāṭ
-<lb n="3"/>ṭut tiruk koṭuṅ kuṉṟattu uṭaiyār tiruk koṭuṅ kuṉṟa muṭaiya nāyaṉār
-<lb n="4"/>kōyiṟ cī paṇṭārattārōm uṭaiyār tiru vālavā yuṭaiya nāyaṉār kō
-<lb n="5"/>yil tirut toṇṭarkaḷil mutaliyār curapit tirumēṉikkup piṭipāṭu paṇ
-<lb n="6"/>ṇik kuṭutta paricāvatu iṉṉāyaṉāṟku pā lamutukku muṉṉāḷ tiruccurapi i -ai
-<lb n="7"/>ṭayar vacam amattu {read amaittu} vaitta pacu 50 kku iṟṟai nāḷil kāṭṭi ivarka
-<lb n="8"/>ḷ muta liṭuvitta pacu 30 kkum pacu āṟukkup pā lamutu nāḻiyākap pā lamutu
-<lb n="9"/>aiññāḻiyum iṉṉāḷ mutal tiru maṭaip paḷḷiyilē aḷappittu amutu
-<lb n="10"/>ceytaruḷap paṇṇuvōmākavum ip pā lamutukku ip pacu muppatum cā
-<lb n="11"/>kā mūvāp pacuvākak kaiykkoṇṭu ip pā lamutu muṭṭāmal
-<lb n="12"/>aḷappippō mākavum ippaṭi cammatittup piṭipāṭu paṇṇik kuṭuttōm
-<lb n="13"/>mutaliyār curapit tirumēṉikku ivai cakāyama pi<gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="14"/><gap reason="lost" quantity="4" unit="character" precision="low"/> ṉeḻuttu
- 		
- 	</p>
+		tiru-malai-nāṭ
+		<lb n="3" break="no"/>ṭu-t tiru-k-koṭuṅ-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉār
+		<lb n="4" break="no"/>-kōyiṟ cī-paṇṭārattārōm Uṭaiyār tiru-vālavā-y-uṭaiya nāyaṉār kō
+		<lb n="5" break="no"/>yil tiru-t-toṇṭarkaḷil mutaliyār curapi-t-tiru-mēṉikku-p piṭi-pāṭu paṇ
+		<lb n="6" break="no"/>ṇi-k kuṭutta paric' āvatu
+	</p>
+	<p>
+		Iṉ-ṉāyaṉāṟku pāl-amutukku muṉṉāḷ tiru-c-curapi I⌈
+		<lb n="7" break="no"/>ṭaiyar vacam am<choice><sic>a</sic><corr>ai</corr></choice>ttu vaitta pacu <num value="50">50</num>-kku Iṟṟai nāḷil kāṭṭi Ivarka
+		<lb n="8" break="no"/>ḷ mutal iṭuvitta pacu <num value="30">30</num>-kkum pacu Aṟukku-p pā l-amutu nāḻi-y-āka-p pāl-amutu
+		<lb n="9"/>Aiñ-ñāḻiyum Iṉ-ṉāḷ mutal tiru-maṭai-p-paḷḷiyilē Aḷappittu Amutu
+		<lb n="10"/>ceyt-aruḷa-p paṇṇuvōm ākavum
+	</p>
+	<p>
+		Ip-pāl-amutukku Ip-pacu mu-p-patum cā
+		<lb n="11" break="no"/>kā mūvā-p pacu v-āka-k kaiy-k-koṇṭu iIp-pāl amutu muṭṭāmal
+		<lb n="12"/>Aḷappippōm ākavum
+	</p>
+	<p>
+		Ip-paṭi cammatittu-p piṭi-pāṭu paṇṇi-k kuṭuttōm
+		<lb n="13"/>mutaliyār curapi-t-tiru-mēṉikku
+	</p>
+	<p>
+		Ivai cakāyama pi<gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="14"/><gap reason="lost" quantity="4" unit="character" precision="low"/> ṉ eḻuttu
+	</p>
 </div>
 	
 <!--<div type="apparatus">
