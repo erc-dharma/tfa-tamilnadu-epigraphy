@@ -88,31 +88,49 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<lb n="1"/>svasti
+	</ab>
 	<p>
-		
-<lb n="1"/>svasti śrīman mahāmaṇṭalīśvaran a <gap reason="lost" quantity="1" unit="character" precision="low"/> varāyar vibhā(ṭa)n bhāṣaikkut tappuva rāyaru kaṇṭan mūvarāyara kaṇṭan kaṇṭa nāṭu koṇṭu koṇṭa nāṭu kuṭātāṉ rājādhirājar rāja paramēśvara pūrva dakṣaṇa paccima uttara catu ssamudrādhipati śrī vīra pradāpa śrīmat Accuta deva mahārāya
-<lb n="2"/>r prudivi rājyam paṇṇi aruḷāniṉṟa śakābdam 1452 ṉ mēl cellāniṉ(ṟa) vikuṟuti samvatsarattu uttarāyanattu hēma rituvāṉa makara nāyiṟu sukla pakṣattu pañcamiy rēvati nakṣatramum pu3da vāramum siddha yōkamum peṟṟa sa0krama puṇya kālattu
-<lb n="3"/>tirumalai nāṭṭut tiruk koṭuṅkuṉṟa māṉa dakṣiṇa kayilāsattu pra dicaiyilk kallāra maṭattu bhikṣā maḍa santāṉa māna lakṣādyāyi santāṉattu goḷaki dhammattu kā3yatri gotrattu yajar vēdattu paripāla ta(ra)rāṉa <gap reason="lost" quantity="6" unit="character" precision="low"/> li maṇṭalādhipati pāṇṭya nāṭṭu mutaliya
-<lb n="4"/>āṉa īśāna śivan dhamma śāsanap paṭṭaiyaṅ koṭuttapaṭi kēraḷa ciṅka vaḷanāṭṭu ma<gap reason="lost" quantity="6" unit="character" precision="low"/> nirupaśekara caturvēti maṅkalattu sapai kavucika gotrattu ā(cva)lāya, sūtrattu (i<gap reason="lost" quantity="1" unit="character" precision="low"/> )nātar putran āvācaka nāraṇa valaṅkāra nampi<gap reason="lost" quantity="5" unit="character" precision="low"/> kuṭutta ūr<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="5"/>kēraḷaciṅka vaḷanāṭṭu piraiyūr paṟṟu nammuṭai maṭappuramāṉa maṭattūr perunāṉk' ellaik kuṭpaṭṭa nañcai puñ(cai) kuḷamum miḷa<gap reason="lost" quantity="3" unit="character" precision="low"/> ṉa perunāṉ<gap reason="lost" quantity="6" unit="character" precision="low"/> kuḷamum vayalu nañcai puñcaiyaḷum nattañ ceyttalai kuṭā paṭukai viṭṭa āṟṟukkā lūṟṟu<gap reason="lost" quantity="5" unit="character" precision="low"/> māvaṭai maravaṭai
-<lb n="6"/>maṟṟum uḷḷa nidhi nikṣepa jala pāṣā ṇādi ṣabhoga tēca cuvāmiyamum uḷpaṭṭa dānādi vinimayaṅkaḷukkum yōgyamāka santati pravēśamāka candrādityasādi āka aṉupavi(k)kavum dāna pālina yōgam <gap reason="lost" quantity="7" unit="character" precision="low"/>
-<lb n="7"/>vara<gap reason="lost" quantity="6" unit="character" precision="low"/> nāku pālanāda cadhiratam va <gap reason="lost" quantity="1" unit="character" precision="low"/> svadattātanuku3ṇa puṇyam paradattānu pālanam <gap reason="lost" quantity="5" unit="character" precision="low"/> ttā<gap reason="lost" quantity="3" unit="character" precision="low"/> pahāraṇē svadattam niṣlam bhavēt ēvam pāṇayam <gap reason="lost" quantity="1" unit="character" precision="low"/> ṇayalādipat īśānam <gap reason="lost" quantity="4" unit="character" precision="low"/> śubham astu
- 		
- 	</p>
+		<hi rend="grantha">śrīman·-mahāmaṇṭalīśvaran· A</hi><hi rend="grantha"><unclear>r</unclear>i</hi>ya-rāyar vibhā(ṭa)n· bhāṣaikkut tappuva rāyaru kaṇṭan mūvarāyara kaṇṭan kaṇṭa nāṭu koṇṭu koṇṭa nāṭu kuṭātāṉ rājādhirājar rāja paramēśvara pūrva dakṣaṇa paccima uttara catu ssamudrādhipati śrī vīra pradāpa śrīmat Accuta deva mahārāya
+		<lb n="2" break="no"/>r prudivi rājyam paṇṇi aruḷāniṉṟa śakābdam <num value="1452">1452</num>-ṉ mēl cellā niṉ(ṟa) vikuṟuti-samvatsarattu uttarāyanattu hēma-ritu-v-āṉa makara-nāyiṟu sukla-pakṣattu pañcami-y rēvati nakṣatramum pudha-vāramum siddha-yōkamum peṟṟa saṃkrama-puṇya-kālattu
+	</p>
+	<p>		
+		<lb n="3"/>tiru-malai-nāṭṭu-t tiru-k-koṭuṅ-kuṉṟam-āṉa dakṣiṇa-kayilāsattu pradicaiyilk kallāra maṭattu bhikṣā maḍa santāṉa māna lakṣādyāyi santāṉattu goḷaki dhammattu <hi rend="grantha">gā</hi>yatri gotrattu yajar vēdattu paripāla ta(ra)rāṉa <gap reason="lost" quantity="6" unit="character" precision="low"/> li maṇṭalādhipati pāṇṭya-nāṭṭu mutaliy
+		<lb n="4" break="no"/>āṉa Ī<hi rend="grantha">śāna</hi> <hi rend="grantha">śi</hi>van <hi rend="grantha">dhamma-śāsa</hi>na-p-paṭṭaiyaṅ koṭutta paṭi kēraḷa-ciṅka-vaḷanāṭṭu ma<gap reason="lost" quantity="6" unit="character" precision="low"/> nirupa-śekara-caturvēti-maṅkalattu sapai kavucika gotrattu Ā(cva)lāya * <hi rend="grantha">sūtra</hi> ttu (I) <gap reason="lost" quantity="1" unit="character" precision="low"/>  nātar putran āvācaka nāraṇa valaṅkāra nampi <gap reason="lost" quantity="5" unit="character" precision="low"/> kuṭutta ūr <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="5"/>kēraḷa-ciṅka-vaḷanāṭṭu piraiyūr paṟṟu namm uṭai maṭa-p-puram-āṉa maṭattūr perunāṉk' ellaikk' uṭ-paṭṭa nañcai puñ(cai) kuḷamum miḷa <gap reason="lost" quantity="3" unit="character" precision="low"/> ṉa perunāṉ<gap reason="lost" quantity="6" unit="character" precision="low"/> kuḷamum vayalu nañcai puñcaiyaḷum nattañ ceyttalai kuṭā paṭukai viṭṭa Āṟṟukkā lūṟṟu <gap reason="lost" quantity="5" unit="character" precision="low"/> māvaṭai maravaṭai
+		<lb n="6"/>maṟṟum Uḷḷa nidhi nikṣepa jala pāṣā ṇādi ṣabhoga tēca cuvāmiyamum Uḷ-paṭṭa dānādi vinimayaṅkaḷukkum yōgyam-āka santati pravēśam-āka candrādityasādi Āka Aṉupavi(k)kavum dāna pālina yōgam <gap reason="lost" quantity="7" unit="character" precision="low"/>
+		<lb n="7"/>vara <gap reason="lost" quantity="2" unit="character" precision="low"/> nāku
+	</p>
+	<p>		
+		pālanād acciratam·<!--check--> pa <gap reason="lost" quantity="1" unit="character" precision="low"/>
+	</p>
+	<lg xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<l n="a">svadattāt· dviguṇa-puṇyam·</l>
+		<l n="b">paradattānupāla<choice><sic>n·</sic><corr>nam·</corr></choice></l>
+		<l n="c">pa<supplied reason="lost">ra</supplied>dattāpahā<seg rendition="class:tamil maturity:83215">reṇa</seg></l>		
+		<l n="d">svadattam· niṣphalam· bhavēt·</l>
+	</lg>
+	<p xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		Evam pāṇayam <gap reason="lost" quantity="1" unit="character" precision="low"/> ṇayalādipat Īśānam <gap reason="lost" quantity="4" unit="character" precision="low"/>
+	</p>
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		śubham astu				
+	</ab>
 </div>
 	
-<!--<div type="apparatus">
+<div type="apparatus">
            
 	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+		<app loc="1">
+			<lem><hi rend="grantha">A</hi><hi rend="grantha"><unclear>r</unclear>i</hi>ya-rāyar</lem>
+			<rdg source="bib:Vijayavenugopal2022_01">A<gap reason="lost" quantity="1" unit="character"/>varāyar</rdg>
 		</app> 
 	</listApp>
 	
-</div>-->
+</div>
       	
 <!--<div type="translation" resp="part:emfr">
       		

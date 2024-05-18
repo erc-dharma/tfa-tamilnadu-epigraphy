@@ -95,10 +95,10 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
-		<l n="1" enjamb="yes"><lb n="1"/>Etat· trailokya-nirmmāṇa</l>
-		<l n="2">-trāṇa-saṃhāra-kāraṇaṃ·</l>
-		<l n="3">śāsanam· cāśvatam· śambho<supplied reason="omitted">ḥ</supplied></l>
-		<l n="4">kaṭhoragiri-vāsina<supplied reason="omitted">ḥ</supplied></l>
+		<l n="a" enjamb="yes"><lb n="1"/>Etat· trailokya-nirmmāṇa</l>
+		<l n="b">-trāṇa-saṃhāra-kāraṇaṃ·</l>
+		<l n="c">śāsanam· cāśvatam· śambho<supplied reason="omitted">ḥ</supplied></l>
+		<l n="d">kaṭhoragiri-vāsina<supplied reason="omitted">ḥ</supplied></l>
 	</lg>
 	
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
