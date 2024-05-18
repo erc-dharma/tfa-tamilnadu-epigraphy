@@ -88,21 +88,25 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<lb n="1"/>svasti śrī
+	</ab>
+	<p>		
+		<hi rend="grantha">śa</hi>kā<hi rend="grantha">bda</hi>m<!--possibly full Grantha--> <num value="1170">1170</num> ceṉṟu ⌈
+		<lb n="2" break="no"/>mēṟ kaṉṉi-nāyaṟṟil
+	</p>
 	<p>
-		
-<lb n="1"/>svasti śrī śakābdam 1170 ceṉṟu -ē
-<lb n="2"/>maṟ kaṉṉi nāyaṟṟil civapādyamāṉa itti
-<lb n="3"/>ru mañcaṉac cuṉaic ceytu kalliṭṭuk kaṭṭi
-<lb n="4"/>ēṟap paṭikaḷum veṭṭi kāvaṇa mē liṣapa tēvar
-<lb n="5"/>kaḷaiyum camaittu ittaṉma muṭiyac cey
-<lb n="6"/>tār aḷakāpuriyāṉa ceḻiya nārāyaṇa
-<lb n="7"/>purattu maṇakkuṭaiyāṉ poṟpati
-<lb n="8"/>kku nāyakar taruvampalap perumāḷāṉa
-<lb n="9"/>peruñ catira kupēraṉ
- 		
- 	</p>
+		civa-pā<hi rend="grantha">dya</hi>māṉa It-ti
+		<lb n="3"/>ru-mañcaṉa-c-cuṉai-c ceytu kalliṭṭuk kaṭṭi
+		<lb n="4"/>Ēṟa-p paṭikaḷum veṭṭi kāvaṇa mēl i<hi rend="grantha">ṣa</hi>pa-tēvar
+		<lb n="5"/>kaḷaiyum camaittu It-taṉma muṭiya-c cey
+		<lb n="6" break="no"/>tār Aḷakāpuri-y-āṉa ceḻiya-nārāyaṇa
+		<lb n="7" break="no"/>-purattu maṇakk-uṭaiyāṉ poṟ-pati
+		<lb n="8" break="no"/>kku nāyakar ta<!--sic? for tiru-->ru-v-ampala-p-perumāḷ-āṉa
+		<lb n="9"/>peruñ catira-kupēraṉ		
+	</p>
 </div>
 	
 <!--<div type="apparatus">
@@ -124,9 +128,9 @@
       		
 </div>-->
 	
-<!--<div type="commentary">
-      		
-</div>-->
+<div type="commentary">
+      	<p>This a duplicate of <ref target="DHARMA_INSTamilNadu00416">Tamil Nadu 416</ref>.</p>	
+</div>
       	
 <div type="bibliography">
 	

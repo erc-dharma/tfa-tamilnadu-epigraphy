@@ -94,15 +94,18 @@
 		<lb n="1"/>svasti śrī
 	</p>
 	<p>
-		<hi rend="grantha">śakābdam·</hi> 1170 ceṉṟu ⌈
-		<lb n="2" break="no"/>mēṟ kaṉṉi nāyaṟṟil civavāṅmāṉa It-ti
-		<lb n="3" break="no"/>ru-mañcaṉa-c cuṉaic ceytu kalliṭṭuk kaṭṭi
-		<lb n="4"/>Ēṟap paṭikaḷum veṭṭi kāvaṇa mēl iṣapa-tēvar
-		<lb n="5"/>kaḷaiyum camaittu Ittaṉma muṭiyac cey
-		<lb n="6" break="no"/>tār Aḷakāpuri-y-āṉa ceḻiya nārāyaṇa
-		<lb n="7" break="no"/>-purattu maṇakkuṭaiyāṉ poṟpati
-		<lb n="8" break="no"/>kku nāyakar taruvampala-p perumāḷ-āṉa
-		<lb n="9"/>peruñ-catira-kupēraṉ <gap reason="lost" quantity="1" unit="character" precision="low"/>		
+		<hi rend="grantha">śakābdam·</hi> <num value="1170">1170</num> ceṉṟu ⌈
+		<lb n="2" break="no"/>mēṟ kaṉṉi-nāyaṟṟil
+	</p>
+	<p>
+		civavāṅmāṉa It-ti
+		<lb n="3" break="no"/>ru-mañcaṉa-c-cuṉai-c ceytu kalliṭṭu-k kaṭṭi
+		<lb n="4"/>Ēṟa-p paṭikaḷum veṭṭi kāvaṇa mēl i<hi rend="grantha">ṣa</hi>pa-tēvar
+		<lb n="5"/>kaḷaiyum camaittu It-taṉma muṭiya-c cey
+		<lb n="6" break="no"/>tār Aḷakāpuri-y-āṉa ceḻiya-nārāyaṇa
+		<lb n="7" break="no"/>-purattu maṇakk-uṭaiyāṉ poṟ-pati
+		<lb n="8" break="no"/>kku nāyakar t<choice><sic>a</sic><corr>i</corr></choice>ru-vampala-p-perumāḷ-āṉa
+		<lb n="9"/>peruñ catira-kupēraṉ <gap reason="lost" quantity="1" unit="character" precision="low"/>		
 	</p>
 </div>
 	
@@ -125,9 +128,9 @@
       		
 </div>-->
 	
-<!--<div type="commentary">
-      		
-</div>-->
+<div type="commentary">
+      	<p>This a duplicate of <ref target="DHARMA_INSTamilNadu00415">Tamil Nadu 415</ref>.</p>	
+</div>
       	
 <div type="bibliography">
 	

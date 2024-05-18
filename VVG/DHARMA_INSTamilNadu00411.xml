@@ -102,7 +102,7 @@
 		<l n="5"><gap reason="lost" extent="unknown" unit="character"/></l>
 		<l n="6"><gap reason="lost" extent="unknown" unit="character"/></l>
 		<l n="7"><gap reason="lost" extent="unknown" unit="character"/></l>
-		<l n="8"><lb n="2"/>‡<supplied reason="lost">Imaiya</supplied>var viḻākkoṭi iṭantoṟu meṭuppa <supplied reason="lost">k</supplied></l>
+		<l n="8"><lb n="2"/>‡<supplied reason="lost">Imaiya</supplied>var viḻākkoṭi Iṭantoṟu meṭuppa <supplied reason="lost">k</supplied></l>
 		<l n="9"><supplied reason="lost">ka</supplied>‡ruṅkali kaṉalkeṭak kaṭavuḷ vētiyar</l>
 		<l n="10">aruntoḻil‡<gap reason="lost" extent="unknown" unit="character"/></l>
 		<l n="11"><gap reason="lost" extent="unknown" unit="character"/></l>
@@ -110,7 +110,7 @@
 		<l n="13"><gap reason="lost" extent="unknown" unit="character"/></l>
 		<l n="14"><gap reason="lost" extent="unknown" unit="character"/></l>		
 		<l n="15"><gap reason="lost" extent="unknown" unit="character"/></l>
-		<l n="16"><supplied reason="lost">kaṇṭa</supplied><lb n="3" break="no"/>‡nāṭ' emakkaṉak kayal kaḷi kūrak</l>
+		<l n="16"><supplied reason="lost">kaṇṭa</supplied><lb n="3" break="no"/>‡nāṭ' emakkaṉa-k kayal kaḷi kūrak</l>
 		<l n="17">kōcala<supplied reason="lost">n</supplied> ‡ tuḷuvaṅ kukinaṅ kuccaram</l>
 		<l n="18">pōcalam makatam poppa‡<supplied reason="lost">ḷam puṇṭaram</supplied></l>
 		<l n="19"><gap reason="lost" extent="unknown" unit="character"/></l>
@@ -118,36 +118,36 @@
 		<l n="21"><gap reason="lost" extent="unknown" unit="character"/></l>
 		<l n="22"><gap reason="lost" extent="unknown" unit="character"/></l>
 		<l n="23"><gap reason="lost" extent="unknown" unit="character"/></l>
-		<l n="24"><supplied reason="lost">tirumuṭi cūṭi-c</supplied> <lb n="4"/>‡ ceṅkōl ōcci-k</l>
+		<l n="24"><supplied reason="lost">tiru-muṭi cūṭi-c</supplied> <lb n="4"/>‡ ceṅkōl ōcci-k</l>
 		<l n="25">koṟṟat tāḷak kuḷir ku‡ṭai kaḻaṟ</l>
 		<l n="26">kaṟṟai-k kavarik kāvalar vīca</l>
-		<l n="27">viṭai katir na‡<supplied reason="lost">nava-maṇi-vīraciṅkātaṉattu</supplied></l>
+		<l n="27">viṭai katir na‡<supplied reason="lost">nava-maṇi-vīra-ciṅkātaṉattu</supplied></l>
 		<l n="28"><gap reason="lost" extent="unknown" unit="character"/></l>
 		<l n="29"><gap reason="lost" extent="unknown" unit="character"/></l>
 		<l n="30"><gap reason="lost" extent="unknown" unit="character"/></l>
 		<l n="31"><gap reason="lost" extent="unknown" unit="character"/></l>
-		<l n="32"><supplied reason="lost">civanta</supplied> <lb n="5"/>‡ Iṇaik kamala mātu karaṅ</l>
-		<l n="33">kamalam eṉṟaṇu<supplied reason="lost">ku</supplied>m ulaka muḻut-uṭai</l>
+		<l n="32"><supplied reason="lost">civanta</supplied> <lb n="5"/>‡ Iṇai-k kamala mātu karaṅ</l>
+		<l n="33">kamalam eṉṟaṇu<supplied reason="lost">ku</supplied>m Ulaka muḻut-uṭai</l>
 		<l n="34">yāḷoṭum vīṟṟ-irunt-aruḷiya</l>
 	</lg>
 	<p>
 		<hi rend="grantha">śrī</hi>-kō- ‡<gap reason="lost" extent="unknown" unit="character"/>
 	</p>
 	<p>
-		<lb n="6"/>‡ta<hi rend="grantha">kṣa</hi>ṇa kōḷakaṉ maṭattu ācārya cantā <gap reason="lost" quantity="3" unit="character" precision="low"/>‡<gap reason="lost" extent="unknown" unit="character"/>	
+		<lb n="6"/>‡ta<hi rend="grantha">kṣa</hi>ṇa kōḷakaṉ maṭattu Ācāriya cantā <gap reason="lost" quantity="3" unit="character" precision="low"/>‡<gap reason="lost" extent="unknown" unit="character"/>	
 	</p>
 </div>
 	
-<!--<div type="apparatus">
+<div type="apparatus">
            
 	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+		<app loc="6">
+			<lem>Ācāriya</lem>
+			<rdg source="bib:Vijayavenugopal2022_01">Ācārya</rdg>
 		</app> 
 	</listApp>
 	
-</div>-->
+</div>
       	
 <!--<div type="translation" resp="part:emfr">
       		
