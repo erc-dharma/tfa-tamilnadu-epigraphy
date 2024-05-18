@@ -8,21 +8,21 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruviṭaivācal, Puṇyanāthasvāmin temple, no date given</title>
+				<title>Tiruviṭaivācal, Puṇyanāthasvāmin, no king, no year</title>
+				<respStmt>
+					<resp>Intellectual authorship of edition</resp>
+					<persName>
+						<forename>T.G.</forename>
+						<surname>Aravamuthan</surname>
+					</persName>
+				</respStmt>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:reda">
 						<forename>Renato</forename>
 						<surname>Dávalos</surname>
 					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>Intellectual authorship of edition</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
+				</respStmt>				
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>A <foreign>patikam</foreign> of eleven verses by Tiruñāṉa Campantar in praise of the sacred Viṭaivāy (Tiruviṭaivācal) is engraved. The hymn is not attested in the compilation of Śaiva hymns known as <title>Tēvāram</title>, although included in the modern edition (3:126).</summary>
+						<summary>A <foreign>patikam</foreign> of eleven stanzas by Tiruñāṉa Campantar in praise of the sacred Viṭaivāy (Tiruviṭaivācal). This hymn is not attested in the manuscripts of the <title>Tēvāram</title>, but has been included in the modern editions (<title>Tēvāram</title> 3.126).</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -89,17 +89,19 @@
           
 <div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215">
        
+	<lg n="1" met="uncertain">
+		<l n="1"><lb n="1"/>maṟi y-ār karatt’ entai y-am māt’ umaiyōṭum</l>
+		<l n="2">piṟiyāta pe
+		<lb n="2" break="no"/>mmā<choice><orig>n</orig><reg>ṉ</reg></choice> Uṟaiyum Iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice>par</l>		
+		<l n="3">poṟi vāy varivaṇṭu ta<choice><orig>n</orig><reg>ṉ</reg></choice> pūm pe<lb n="3" break="no"/>ṭai pulki</l>
+		<l n="4">veṟi y-ār malariṟ ṟuyilum viṭaivāyē</l>
+	</lg>
+	
 	<p>
-		<lb n="1"/>maṟi y-ār karatt’ entai y-am māt’ umaiyōṭum piṟiyāta pe
-		<lb n="2" break="no"/>mmā<choice><orig>n</orig><reg>ṉ</reg></choice> Uṟaiyum Iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice>par poṟi vāy varivaṇṭu ta<choice><orig>n</orig><reg>ṉ</reg></choice> pūm pe<lb n="3" break="no"/>ṭai pulki veṟi y-ār malariṟ ṟuyilum viṭaivāyē
-	</p>
-	<p>
-		
 		Ovvāta v-e
 		<lb n="4" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>pē y-iḻaiyā v-oḷi meḷali-c cevvā<choice><orig>n</orig><reg>ṉ</reg></choice> mati vaittavar cērv’ iṭame<choice><orig>n</orig><reg>ṉ</reg></choice>
 		<lb n="5" break="no"/>par Evvāyilum <choice><sic>E</sic><corr>Ē</corr></choice>ṭ’ alar kōṭal am pōtu vev-vāy aravam malarum viṭai
-		<lb n="6" break="no"/>vāyē 
-		
+		<lb n="6" break="no"/>vāyē
 	</p>
 	
 	<p>
@@ -110,7 +112,7 @@
 	
 	<p>
 		cūca-t taḻal pōla<lb n="9"/>viḻiyā varu cūṟṟai-p pācattoṭum vīḻa Utaittavar paṟṟ’ ām vāca-k<lb n="10"/>katir-c cāli veṇcāmaraiyē pōl vīca-k kaḷi A<choice><orig>nn</orig><reg>ṉṉ</reg></choice>a malkum viṭai<lb n="11" break="no"/>vāyē
-	</p>
+	</p>	
 	<p>
 		tiriyum puramūnṟaiyum centaḻal uṇṇā E
 		<lb n="12" break="no"/>ri y-amp’ eyta kuṉṟa villi Iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice>par kiriyun taru māḷikai-c cūḻi
@@ -132,8 +134,7 @@
 	</p>
 	<p>
 		puḷ vāy piḷantā<choice><orig>n</orig><reg>ṉ</reg></choice> Aya<choice><orig>n</orig><reg>ṉ</reg></choice> pūmuṭi pātam Oḷvānilan tēṭum Oru
-		<lb n="21" break="no"/>vaṟk’ iṭam ām teḷ vār punaṟ ceṅkaḻunīrmukai ta<choice><orig>nn</orig><reg>ṉṉ</reg></choice>il viḷ vāy naṟav’ uṇṭu vaṇṭ’ ār viṭaivāyē
-		
+		<lb n="21" break="no"/>vaṟk’ iṭam ām teḷ vār punaṟ ceṅkaḻunīrmukai ta<choice><orig>nn</orig><reg>ṉṉ</reg></choice>il viḷ vāy naṟav’ uṇṭu vaṇṭ’ ār viṭaivāyē		
 	</p>
 	<p>
 		<lb n="22"/>Uṭai y-ētum ilār tuvār āṭai Uṭuppōr kiṭaiyā neṟiyān keḻum<choice><sic>i</sic><corr>u</corr></choice>m<surplus>m</surplus> iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice>par Aṭaiyār pura
@@ -158,11 +159,10 @@
 	</listApp>
 </div>-->
           
- <div type="translation" resp="part:reda">
+ <div type="translation" source="bib:SubrahmanyaAiyar+al_2007_01">
  	
  	<p rend="stanza" n="1">
- 		<l n="1-2">Viṭaivāy where the male bee which has dots and lines embraces its beautiful female bee and sleeps in the fragrant flower;</l>
- 		<l n="2-3">people say is the place where our father who holds a young deer in his hand and who is not separated from Umai, the beautiful lady, dwells.</l>
+ 		Viṭaivāy, where the male bee which has dots and lines embraces its beautiful female bee and sleeps in the fragrant flower, people say it is the place where our father who holds a young deer in his hand and who is not separated from Umai, the beautiful lady, dwells.
  	</p>
  	
  	<p rend="stanza" n="2">
@@ -210,20 +210,15 @@
  		<l n="21">people say is the place of the unequalled Civaṉ whose beautiful head and feet Māl who split the beak of a crane and Ayaṉ searched in the bright sky and the earth.</l>
  	</p>
  	
- 	<p rend="stanza" n="10">		
- 		<l n="22">When the cities of the enemies were burning.</l>
-  		<l n="22">>exceedingly beautiful Viṭaivāy of Civaṉ who has a flag of a bull and granted his grace to three <foreign>acurar</foreign>;</l>
- 		<l n="22"><foreign>camaṇar</foreign> who have completely given up dress,</l>
- 		<l n="22">and buddhists who wear a dress soaked in red ochre;</l>
-  		<l n="22-23">people say is the place where Civaṉ who cannot be approached by those two, dwells.</l>
+ 	<p rend="stanza" n="10"><!--rephrased-->		
+ 		The exceedingly beautiful Viṭaivāy of Civaṉ who has a flag of a bull and granted his grace to three <foreign>acurar</foreign>, when the cities of the enemies were burning, people say it is the place where Civaṉ dwells, he who cannot be approached by <foreign>camaṇar</foreign> who have completely given up dress and by buddhists who wear a dress soaked in red ochre.  		
  	</p>
  	
  	<p rend="stanza" n="11">		
  		<l n="23">Ñāṉacampantaṉ who is the chief of the residents of Kāḻi which has fragrant gardens,</l>
  		<l n="23-24">on Viṭaivāy in which big wealth which does not change <supplied reason="explanation">which has no equal</supplied> is in abundance.</l>
- 		<l n="24-25	">Those who are able to recite the Tamiḻ verses, are definitely without faults.
-</l>
-</p>
+ 		<l n="24-25	">Those who are able to recite the Tamiḻ verses, are definitely without faults.</l>
+ 	</p>
  	
  </div>
       	
@@ -232,26 +227,37 @@
 </div>-->
       	
 <div type="bibliography">
-	<p>First reported in <bibl><ptr target="bib:ARIE1917-1918"/></bibl> (ARIE/1917-1918/C/1918/8).</p>
-     <p>First edited in <bibl><ptr target="bib:Aravamuthan1933-1934_01"/></bibl>.</p>         
-	<p>Reedited by Renato Dávalos and Emmanuel Francis (2024), based on previous editions. </p>
+	
+	<p>Reported in <bibl><ptr target="bib:ARIE1917-1918"/></bibl> (ARIE/1917-1918/C/1918/8).</p>
+	<p>Edited in <bibl><ptr target="bib:Aravamuthan1933-1934_01"/></bibl>.</p>         
+	<p>This edition by Renato Dávalos and Emmanuel Francis (2024), based on previous editions. This translation adpated from <bibl><ptr target="bib:SubrahmanyaAiyar+al_2007_01"/></bibl>.</p>
 	
 	<!--<listBibl type="primary"/>-->	
 		
 	<listBibl type="primary">
+		
 		<bibl n="A">
 			<ptr target="bib:Aravamuthan1933-1934_01"/>
 			<citedRange unit="page">266-275; 343-360</citedRange>
 		</bibl>
+		
+		<bibl n="A">
+			<ptr target="bib:SubrahmanyaAiyar+al_2007_01"/>
+			<citedRange unit="page">266-275; 343-360</citedRange>
+		</bibl>
+		
 	</listBibl>
 	
 	<listBibl type="secondary">
+		
 		<bibl>
 			<ptr target="bib:ARIE1917-1918"/>
 			<citedRange unit="page">89</citedRange>
 			<citedRange unit="item">8</citedRange>
 			<citedRange unit="appendix">C/1918/</citedRange>
-		</bibl> 
+		</bibl>
+		
+		<!--Add: Gros, Pour lire le Tēvāram.-->
 	</listBibl>
 	
 </div>
