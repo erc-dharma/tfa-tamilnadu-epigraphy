@@ -95,18 +95,20 @@
 	</ab>
 	
 	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
-		<l n="1">śrī-bhūmī-devi-putrāṇām</l>
-		<l n="2">kṣāra-kṣīrōdha-pūrvinām</l>
-		<l n="3">jayanti citra-lōkānām</l>
-		<l n="4">rājya-paripālakanām·<!--check: see SII--></l>
+		<l n="1">śrī-bhūmī-devi-putrāṇāṃ</l>
+		<l n="2">kṣāra-kṣīrodha-pūrvinām·</l>
+		<l n="3">jaya<supplied reason="omitted">nti</supplied> citra-lokānā<supplied reason="omitted">m·</supplied></l>
+		<l n="4">rājya-paripālakānām·<!--check: see SII--></l>
+	</lg>
+	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<l n="1" enjamb="yes">sarvva-loka-hitā<supplied reason="omitted">rtdā</supplied>ya</l>
+		<l n="2">citra<seg rendition="class:tamil maturity:83215">mēḻī</seg><supplied reason="omitted">śa</supplied>-śāsanam·</l>
 	</lg>
 	<p>
-		sarvvalōka hitārtdāya
-		citramēḻī śaśāsanam
-		tribhuvanāśraya pañca
-		śata vīra śāsanam lakṣaṇa lakṣmī vilāsā
-		<lb n="2" break="no"/>laṅkrata vakṣastala bhuvana parākrama-śrī-vāsudeva sahāyakaṉ devī mūla-patrā lōpa śrī-Aimpoḻiṟ paramēśvarikkum bhūmi-devikkum makkaḷ āki nikaḻā niṉṟa matitoṭa poṅku māṭa vīti-p patiṉeṭṭu-p paṭṭiṉamum mu-p-pattiraṇṭu vēḷā puramum Aṟupattunā
-		<lb n="3" break="no"/>lu kaṭikait tāvaḷamum tāvaḷat tiruntu taṉmai vaḷaṟkuñ ceṭṭiyuñ ceṭṭi cirapput tāṉun tavaṟoṉṟillāta taṉmai yoḻukkattuk kavaṟai taṉṉoṭu kāśyapaṉ viṭutta cāmuṇṭēśvariyum Uruttiraṉ viṭutta Ōlai vāriyaṉum Uṉṉiyatu muṭikkum Oṇṭiṟal vī
+		<hi rend="grantha">tri-bhuvanāśraya-pañca-śata-vīra-śāsanam· lakṣaṇa-lakṣmī-vilāsā
+		<lb n="2" break="no"/>laṃkṛta-vakṣa-stala-bhuvana-parākrama-śrī-vāsudeva-sahā</hi>yakaṉ <hi rend="grantha">devī-mūla-patra-lōpa</hi> śrī-Aimpoḻiṟ <hi rend="grantha">paramēśvari</hi>kkum <hi rend="grantha">bhūmi-de</hi>vikkum makkaḷ āki nikaḻā niṉṟa matitoṭa poṅku māṭa vīti-p patiṉeṭṭu-p paṭṭiṉamum mu-p-patt' iraṇṭu vēḷā-puramum Aṟupattu nā
+		
+		<lb n="3" break="no"/>lu kaṭikai-t tāvaḷamum tāvaḷat tiruntu taṉmai vaḷaṟkuñ ceṭṭiyuñ ceṭṭi cirapput tāṉun tavaṟoṉṟillāta taṉmai yoḻukkattuk kavaṟai taṉṉoṭu kāśyapaṉ viṭutta cāmuṇṭēśvariyum Uruttiraṉ viṭutta Ōlai vāriyaṉum Uṉṉiyatu muṭikkum Oṇṭiṟal vī
 		<lb n="4" break="no"/>rar paṉṉirutaṟattu-p paṇi cey mākkaḷum muṉṉi-y-āka muḻavoli vaḷaṟkum muttamiṭ pāṭalo ṭāṭa lōvā viḻavum vēḻviyum viḷaṅkiya vitiyuṭait teṅkum palāvun tēmāñ cōlaiyuñ cantaṉa vēlic caṇpakap poḻilum vāḻaiyuṅ kamukum vaḷarkoṭi mul
 		<lb n="5" break="no"/>laiyum pūvaiyuṅ kiḷḷaiyum polivoṭu cūḻa vāṭṭam iṉṟi-k kūṭṭam peruka Aṟam vaḷarak kali meliyap pukaḻ perukap pakai paṇiyat ticaiyaṉaittuñ ceviṭupaṭac ceṅkōlē muṉṉākavuñ cempoṟ pacumpaiyē teyvam ākavu
 		<lb n="6" break="no"/>ṅ
@@ -162,13 +164,17 @@
 	
 </div>-->
       	
-<!--<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
-      		<p n="1">
-      			...
-      		</p>
-      		
-</div>-->
+	<p n="1">
+		Prosperity! Fortune!
+	</p>
+	
+	<p n="1" rend="stanza">
+		<l>....</l>
+	</p>
+	
+</div>
 	
 <!--<div type="commentary">
       		
