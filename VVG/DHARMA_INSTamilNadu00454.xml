@@ -88,18 +88,47 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<l n="a" enjamb="yes"><lb n="1"/>Etat· trailokya-nirm<supplied reason="omitted">·</supplied>māṇa</l>
+		<l n="b">-trāṇa-saṃ<choice><sic>k</sic><corr>h</corr></choice>āra-kāraṇaṃ·</l>
+		<l n="c">śāsanam· śā <gap reason="lost" quantity="4" unit="character" precision="low"/></l>
+		<l n="d">kaṭhoragiri-vāsinam·</l>
+	</lg>
 	<p>
+		<hi rend="grantha">śrī-kaṭhoragiri-vāsi<supplied reason="lost">naḥ</supplied> A</hi>ti<hi rend="grantha">pa</hi>tiyāna t<supplied reason="lost">i</supplied>ru-<supplied reason="omitted">m</supplied>alai-nāṭṭu-t tiru- <gap reason="lost" quantity="6" unit="character" precision="low"/> yaṉār nalla-maṅkai pākar nāyaṉār tiru-vāy-malarnt-aru
+		<lb n="2" break="no"/>ḷiṉa pa=ṭikku <hi rend="grantha">Ādi-śaṇdēśvara-pra</hi><supplied reason="lost">m</supplied>āṇa<hi rend="grantha">m·</hi> kuṭut=ta pa=ṭi <hi rend="grantha">śakāptam·</hi> <num value="1452">1452</num>-ṉ mēl cellā niṉṟa vikuṟuti <g type="varuṣam"/> māci <g type="mācam"/> <num value="1452">2 10 2</num>-vatu catutēciyum puta-vā<hi rend="grantha">ramum·</hi> peṟṟa Avuṭṭa nāḷ kāḷa <gap reason="lost" quantity="5" unit="character" precision="low"/> ṭi Ūrāṉa nripa-cēkara-c-caturvēti-ma<hi rend="grantha">ṃ</hi>kalat=tu=c capai kauvu
+		<lb n="3" break="no"/>cika-kōttirattu Āśilāyaṉa-sūttirattu Irāmar puttiraṉ Āparcakāyar-āṉa Alaṅkāra nampikku-c civarātri puṇya-kālattilē cuvaraṇya Udaka tārā pūrvam Āka kuṭu <gap reason="lost" quantity="2" unit="character" precision="low"/> tiru-mukam Iṉṉār tēvatāṉam Āṉa tiru-k-koṭuṅ-kuṉṟa-p-paṟṟi
+		<lb n="4" break="no"/>l ceṭṭiyār Ēntalukku Ellai (Ā)vatu
 		
-<lb n="1"/>Etat trailōkya nimmāṇa krāṇa śaṅkāraka kāraṇam śāsanam śa<gap reason="lost" quantity="5" unit="character" precision="low"/> kaṭhoragiri vāsinam śrī kaṭhoragirivāsa Atipatiyāna tirumalai nāṭṭut tiru<gap reason="lost" quantity="6" unit="character" precision="low"/> yaṉār nallamaṅkai pākar nāyaṉār tiruvāy malarntaru
-<lb n="2"/>ḷiṉapaṭikku ādi śaṇṭēśvara pramāṇam kuṭuttapaṭi śakāptam 1452 ṉ mēl cellāniṉṟa vikuṟuti varu māci mī uyau vatu catutēciyum putavāramum peṟṟa avuṭṭa nāḷ kāḷa<gap reason="lost" quantity="5" unit="character" precision="low"/> ṭi ūrāṉa nripacēkarac caturvēti ma0kalattuc capai kauvu
-<lb n="3"/>cika kōttirattu āśilāyaṉa sūttirattu irāmar puttiraṉ āparcakāya rāṉa alaṅkāra nampikkuc civarātri puṇya kālattilē cuvaraṇya udaka tārā pūrvam āka kuṭu<gap reason="lost" quantity="2" unit="character" precision="low"/> tirumukam iṉṉār tēvatāṉam āṉa tiruk koṭuṅkuṉṟap paṟṟi
-<lb n="4"/>l ceṭṭiyār ēntalukku ellai (ā)vatu kīḻpāṟkellai iṉā(ya)ṉār tēvatāṉam allik kuḷattu nīr koḷḷum ellaikku mēṟku teṉpāṟ kellai siva <gap reason="lost" quantity="3" unit="character" precision="low"/> pala<gap reason="lost" quantity="2" unit="character" precision="low"/> kku vaṭakkum mēlpāṟ kellai nalla pākar ūṟaṇikku kiḻakkum vaṭa
-<lb n="5"/>pāṟ kellai kāttāṉ kōṉ puñcai yāṉa vayalu(kku) vaṭakkup puñcai uṭpaṭavum āka ip peru nāṉk' ellaikk' uḷ-paṭṭa naṉcai puñcai kāymaraṅ kuḻai maram naṟum pāciyum maṟ ṟuṇṭāṉa āmanam camarttap pirāttikaḷum carvamāṉya kṣetram āka aṉupavi
-<lb n="6"/>ttuk koḷḷavum maṭa viḷākat teruvil oru maṉaiyum im maṉai<gap reason="lost" quantity="6" unit="character" precision="low"/> bhoka2de cuvāmiyaṅka<gap reason="lost" quantity="3" unit="character" precision="low"/> kala camarttap pirāttikaḷukkum urittākavum iraṇya utaka tārā pūṟuvam āka ātat cantrātintam catāpi āka cantrāti
-<lb n="7"/>tavaṟ cella aṉupavittuk koḷḷak kaṭavā rākavum kuṉṟai nampi eḻuttu civap piṟakāca paṭṭa ṉeḻuttu tirumañcaṉamuṭaiyāṉ eḻuttu tirukkoṭuṅkuṉṟa vēḷāṉ eḻuttu ivai svāmi ūḻiyam savvaiya nāyakkar atikāram tāmōtara paṭṭaṉ eḻuttu
- 		
+		<list><item>kīḻpāṟk' ellai Iṉā(ya)ṉār tēvatāṉam Allik kuḷattu nīr koḷḷum ellaikku mēṟku</item>
+		<item>teṉpāṟk' ellai siva <gap reason="lost" quantity="3" unit="character" precision="low"/> pala<gap reason="lost" quantity="2" unit="character" precision="low"/> kku vaṭakkum</item>
+		<item>mēlpāṟk' ellai nalla pākar Ūṟaṇikku kiḻakkum</item>
+		<item>vaṭa
+		<lb n="5" break="no"/>pāṟk' ellai kāttāṉ kōṉ puñcai yāṉa vayalu(kku) vaṭakkup puñcai Uṭpaṭavum Āka</item></list>
+		
+		Ip-peru-nāṉk' ellaikk' uḷ-paṭṭa naṉcai puñcai kāymaraṅ kuḻai maram naṟum pāciyum maṟṟ' uṇṭāṉa Āmanam camarttap pirāttikaḷum carva-māṉya kṣetram Āka Aṉupavi
+		<lb n="6" break="no"/>ttu-k koḷḷavum
+	</p>
+	<p>
+		maṭa-viḷāka-t-teruvil Oru maṉaiyum
+	</p>
+	<p>
+		Im-maṉai <gap reason="lost" quantity="6" unit="character" precision="low"/> <hi rend="grantha">bhoga</hi> tēcuvāmiyaṅka <gap reason="lost" quantity="3" unit="character" precision="low"/> kala camartta-p pirāttikaḷukkum Uritt' ākavum
+	</p>
+	<p>
+		Iraṇya Utaka tārā pūṟuvam Āka Āta-t cantrātintam catāpi Āka cantrāti
+		<lb n="7" break="no"/>ta-vaṟ cella Aṉupavittuk koḷḷa-k kaṭavār ākavum
+	</p>
+	<p>
+		<list>
+			<item>kuṉṟai nampi Eḻuttu</item>
+			<item>civap piṟakāca paṭṭaṉ eḻuttu</item>
+			<item>tirumañcaṉamuṭaiyāṉ Eḻuttu</item>
+			<item>tiru-k-koṭuṅ-kuṉṟa-vēḷāṉ Eḻuttu</item>
+			<item>Ivai svāmi Ūḻiyam savvaiya nāyakkar Atikāram tāmōtara-paṭṭaṉ Eḻuttu	</item>
+		</list>	
  	</p>
 </div>
 	
