@@ -90,24 +90,51 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
 			
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<l n="a" enjamb="yes"><lb n="1"/>Etat· trailokya-nir<unclear reason="eccentric_ductus">mm</unclear>āṇa</l>
+		<l n="b">-<unclear>tr</unclear>āṇa-saṃhāra-k<choice><sic>a</sic><corr>ā</corr></choice>raṇaṃ·</l>
+		<l n="c">śā<unclear>sa</unclear>nam· cāśvata<seg rendition="class:tamil maturity:83215">m</seg> śa<supplied reason="lost">mbhoḥ</supplied></l>
+		<l n="d"><unclear>ka</unclear>ṭhoragiri-vāsina<unclear reason="eccentric_ductus">ḥ</unclear></l>
+	</lg>
+	
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">svasti
+	</ab>
 	<p>
+		<lb n="2"/>sakābtam <num value="1565">1565</num> Itaṉ mel cellā niṉṟa piramātita <g type="varuṣam"/> vaikāci
+	</p>
+	<p>
+		tiru-malai-nāṭṭu tiru-k-koṭuṅ-kuṉṟat(tu)
+		<lb n="3" break="no"/>-p paṇṭārattārom Aruviyūr nakark kaṭṭaḷaikku pūcai Aapiṣeka nevettiyam kāttu <gap reason="lost" quantity="3" unit="character" precision="low"/> tirumpaṇa naṭatti It
+		<lb n="4" break="no"/>-taṉma-cātaṉa-p-paṭṭaiyam kuṭuttu koṭaikkarai-k kuḷamum Atuṭaṉ cēnta <gap reason="lost" quantity="3" unit="character" precision="low"/> utta Ellai
 		
-<lb n="1"/>ētat trailokya nirmāṇam saśvākaraṇam śāsanam śāsvatam <gap reason="lost" quantity="3" unit="character" precision="low"/> rogiri paśyarumu svasti
-<lb n="2"/>sakābtam 1565 itaṉ mel cellā niṉṟa piramātita <g type="varuṣam"/> vaikāci tiru-malai-nāṭṭu tiru-k-koṭuṅ-kuṉṟat(tu)
-<lb n="3" break="no"/>-p paṇṭārattārom aruviyūr nakark kaṭṭaḷaikku pūcai apiṣeka nevettiyam kāttu <gap reason="lost" quantity="3" unit="character" precision="low"/> tirumpaṇa naṭatti it
-<lb n="4"/>taṉma cātaṉap paṭṭaiyam kuṭuttu koṭaikkaraik kuḷamum atuṭaṉ cēnta <gap reason="lost" quantity="3" unit="character" precision="low"/> utta ellai kīḻpāṟke
-<lb n="5"/>llai kallal pañcaikku mēṟku teṉpāṟkellai nāyakkan kuḷattu nīrkōvaikku vaṭakkum mēlpāṟke
-<lb n="6"/>llai coy kaṇakku iṟaiyili puñcaikku kiḻakku vaṭapāṟ kellai mēṟpaṭi kuḷattu nīr kōvaikku(m) ceykkum
-<lb n="7"/>teṟku āka icainta peru nāṉk' ellai
-<lb n="8"/>kuḷpaṭṭa nañcai puñcai cakala camutāyamum
-<lb n="9"/>cantirātittavarai cella āṇṭu aṉupa
-<lb n="10"/>vittukkoṇṭum inta taṉmattukku a
-<lb n="11"/>kitam paṇṇiṉavarkaḷ keṅkaik karai
-<lb n="12"/>yilē kārām pacu vatai paṇṇiṉa tē(ā)ṣatti
-<lb n="13"/>lē pōkavum ippaṭikku civapiṟakāca paṭṭa <gap reason="lost" quantity="1" unit="character" precision="low"/>
-<lb n="14"/>ippaṭikku kōviṟ kaṇakku irāmacantira
-<lb n="15"/>āyaṉ maṅkaipākareḻuttu
- 		
+		<list>
+			<item>kīḻpāṟke
+				<lb n="5" break="no"/>llai kallal pañcaikku mēṟku</item>
+			<item>teṉpāṟkellai nāyakkan kuḷattu nīrkōvaikku vaṭakkum</item>
+			<item>mēlpāṟke
+				<lb n="6" break="no"/>llai coy kaṇakku Iṟai-y-ili-puñcaikku kiḻakku</item>
+			<item>vaṭapāṟkellai mēṟpaṭi kuḷattu nīr kōvaikku(m) ceykkum
+				<lb n="7"/>teṟku</item>
+		</list>
+		
+		Āka
+		Icainta peru nāṉk' ellai
+		<lb n="8" break="no"/>k' uḷ-paṭṭa nañcai puñcai cakala-camutāyamum
+		<lb n="9"/>cantirātitta-varai cella Āṇṭu Aṉupa
+		<lb n="10" break="no"/>vittu-k koṇṭum
+	</p>
+	<p>
+		Inta taṉmattukku A
+		<lb n="11" break="no"/>kitam paṇṇiṉavarkaḷ keṅkai-k karai
+		<lb n="12" break="no"/>yilē kār-ām-pacu-vatai paṇṇiṉa t(ō)<!--kāl only is unclear-->ṣatti
+		<lb n="13" break="no"/>lē pōkavum
+	</p>
+	<p>
+		<list>
+			<item>Ip-paṭikku civa-piṟakāca-paṭṭa <gap reason="lost" quantity="1" unit="character" precision="low"/></item>
+			<item>	<lb n="14"/>Ip-paṭikku kōviṟ-kaṇakku Irāma-cantir
+		<lb n="15" break="no"/>āyaṉ maṅkaipākar eḻuttu</item>
+		</list>	
  	</p>
 </div>
 	

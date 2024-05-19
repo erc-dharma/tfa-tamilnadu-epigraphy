@@ -90,74 +90,93 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/><g type="pc"/> śubham astu svasti
+	</ab>
+	
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<l n="a" enjamb="yes"><lb n="1"/>E<supplied reason="lost">tat· trai</supplied><lb n="2" break="no"/>-lokya-nirmmāṇa</l>
+		<l n="b">-<unclear>trā</unclear>ṇa<lb n="3" break="no"/>-saṃhāra-kāra<unclear>ṇa</unclear><supplied reason="lost">m·</supplied></l>
+		<l n="c"><lb n="4"/>śāsanam· cāśvata<supplied reason="lost">m·<!--check--> śam</supplied><lb n="5" break="no"/>bho<supplied reason="omitted">ḥ</supplied></l>
+		<l n="d">kaṭhoragiri-vā<supplied reason="lost">sinaḥ</supplied></l>
+	</lg>
+	<p>		
+		<lb n="6"/>śakāttam <num value="14">14 <gap reason="lost" quantity="2" unit="character" precision="low"/></num>
+		<lb n="7"/>mēl cellā ni <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="8"/>cukkila <g type="varuṣam"/> cittirai <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="9"/><num value="15">10 5</num> <g type="tēti"/>
+	</p>
 	<p>
+		tiru-malai-nā <gap reason="lost" quantity="1" unit="character" precision="low"/> ṭu
+		<lb n="10" break="no"/>-t tiru-k-koṭuṅ ku <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		<lb n="11" break="no"/>ttu śrī-paṇṭārakā <gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="12"/>kaṟtar-āṉa pāla <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="13"/>maturai-ṉāya <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="14" break="no"/>mavarkaḷum ta <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="15"/>nalla-nayiṉār <gap reason="lost" quantity="10" unit="character" precision="low"/>
+		<lb n="16"/>puṟpavaṉa paṭṭaru <gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="17"/>maṅkai-pākaru maṟ <gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="18"/>Uṇṭ-ākiya pācaṇa <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="19" break="no"/>ḷum toṇṭa-maṇṭa <gap reason="lost" quantity="5" unit="character" precision="low"/> ma
+		<lb n="20" break="no"/>ṅkampūr tiruvam-uṭaiya <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="21" break="no"/>taliyā ravarkaḷ taṉma <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="22"/>maṅkai-ṉāyaka-cuvāmi <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="23" break="no"/>cci-k kāla-k kaṭṭaḷai <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="24" break="no"/>cōḻa-mā-tēvikku <gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="25"/>vayalukku Ellai pāṉa <gap reason="lost" quantity="3" unit="character" precision="low"/>
 		
-<lb n="1"/>u śubham astu svasti śrī
-<lb n="2"/>lō<gap reason="lost" quantity="5" unit="character" precision="low"/> nivāṉa <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="3"/>samhāra karaṇa <gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="4"/>sāsanam śu <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="5"/>bhoka <gap reason="lost" quantity="5" unit="character" precision="low"/> yili
-<lb n="6"/>śakāttam 14<gap reason="lost" quantity="2" unit="character" precision="low"/>
-<lb n="7"/>mēl cellā ni <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="8"/>cukkila <g type="varuṣam"/> cittirai <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="9"/>yaru u tirumalai nā <gap reason="lost" quantity="1" unit="character" precision="low"/> ṭu
-<lb n="10"/>t tiruk koṭuṅku<gap reason="lost" quantity="2" unit="character" precision="low"/>
-<lb n="11"/>ttu śrīpaṇṭārakā <gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="12"/>kaṟtarāṉa pāla <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="13"/>maturai ṉāya <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="14"/>mavarkaḷum ta <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="15"/>nalla nayiṉār<gap reason="lost" quantity="10" unit="character" precision="low"/>
-<lb n="16"/>puṟpavaṉa paṭṭaru <gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="17"/>maṅkai pākaru maṟ<gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="18"/>uṇṭākiya pācaṇa <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="19"/>ḷum toṇṭa maṇṭa <gap reason="lost" quantity="5" unit="character" precision="low"/> ma
-<lb n="20"/>ṅkampūr tiruvamuṭaiya <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="21"/>taliyā ravarkaḷ taṉma <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="22"/>maṅkai ṉāyaka cuvāmi <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="23"/>ccik kālak kaṭṭaḷai <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="24"/>cōḻa mātēvikku <gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="25"/>vayalukku ellai pāṉa <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="26"/>kīḻpāṟ kellai <gap reason="lost" quantity="6" unit="character" precision="low"/>
-<lb n="27"/>ppā ūṟaṇip puñ <gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="28"/>mēṟku teṉpāṟ kel <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="29"/>pāṇṭi nāṭṭu mutali <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="30"/>r maṭappiṟam rācamā-ē<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="31"/>nīr kōrvaikku vaṭakku <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="32"/>pāṟ kellai ēḻā maṭa <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="33"/>kam piriyāḷ puñcaikku <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="34"/>vaṭapāṟ kellai nā <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="35"/>ṭavu nalli puñcaikku <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="36"/>ṟaṟa yicainta nāṉk' ellai <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="37"/>uḷpaṭṭa nañcai kuḷamu <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="38"/>p parappu vayalum vaya <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="39"/>mēl nōkkiya maramu <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="40"/>nōkkiya kiṇaṟum <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="41"/>tiṭalum cakala camuta <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="42"/>ṟāttiyum uccik kāla <gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="43"/>ku kiṟaya mūliyamāka
-<lb n="44"/>śrī paṇṭāratti-ē <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="45"/>mutaliṭṭatu
-<lb n="46"/>innāṟpatu po
-<lb n="47"/>ṉṉum kōvil pa
-<lb n="48"/>ṇṭārattilē oru
-<lb n="49"/>mutalāy mutaliṭṭa (pa)
-<lb n="50"/>ṭiyiṉālē uccik kā (lak)
-<lb n="51"/>kaṭṭaḷaikku cantirātittavarai
-<lb n="52"/>nāyaka cuvāmikku ka <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="53"/>anupavittuk kaṭavatāka sa
-<lb n="54"/>mmatittu tāna cātana <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="55"/>tiruvamuṭaiyā mutaliyā <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="56"/>cappaṭṭa aṉaivaru <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="57"/>takku yātāmoruvaṉ <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="58"/>niṉaittavaṉ keṅkai <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="59"/>pacuvaiyum pirāmaṇa <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="60"/>ceytavaṉ pōṟa tōca <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="61"/>kaṭavārākavum ip <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="62"/>kiṉṟa irāmacantira <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="63"/>eḻuttu maṅkai pā <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="64"/>civappirāya paṭṭaṉ <gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="65"/>pumpayavaṉ paṭṭa <gap reason="lost" quantity="3" unit="character" precision="low"/>
- 		
+		<list>			
+			<item><lb n="26"/>kīḻ-pāṟk' ellai <gap reason="lost" quantity="6" unit="character" precision="low"/>
+				<lb n="27" break="no"/>ppā Ūṟaṇip puñ <gap reason="lost" quantity="5" unit="character" precision="low"/>
+				<lb n="28"/>mēṟku</item> 
+			
+			<item>teṉ-pāṟk' el <gap reason="lost" quantity="4" unit="character" precision="low"/>
+				<lb n="29"/>pāṇṭi-nāṭṭu mutali <gap reason="lost" quantity="3" unit="character" precision="low"/>
+				<lb n="30" break="no"/>r maṭa-p-piṟam rācamā<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="4" unit="character" precision="low"/>
+				<lb n="31" break="no"/>nīr kōrvaikku vaṭakku</item>
+			
+			<item><gap reason="lost" quantity="4" unit="character" precision="low"/>
+				<lb n="32" break="no"/>pāṟk' ellai Ēḻā maṭa <gap reason="lost" quantity="4" unit="character" precision="low"/>
+				<lb n="33" break="no"/>kam piriyāḷ puñcaikku <gap reason="lost" quantity="3" unit="character" precision="low"/></item>
+			
+			<item><lb n="34"/>vaṭa'pāṟk' ellai nā <gap reason="lost" quantity="4" unit="character" precision="low"/>
+				<lb n="35" break="no"/>ṭavu nalli puñcaikku <gap reason="lost" quantity="4" unit="character" precision="low"/>
+				<lb n="36"/>ṟaṟa</item>
+		</list> 
+				
+		y-icainta nāṉk' ellai <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="37"/>Uḷ-paṭṭa nañcai kuḷamu <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="38" break="no"/>p parappu vayalum vaya <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="39"/>mēl nōkkiya maramu <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="40"/>nōkkiya kiṇaṟum <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="41" break="no"/>tiṭalum cakala-camuta <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="42" break="no"/>ṟāttiyum Ucci-k kāla <gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="43" break="no"/>ku kiṟaya mūliyam-āka
+		<lb n="44"/><hi rend="grantha">śrī</hi>-paṇṭāratti <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="45"/>mutal iṭṭatu
+		<lb n="46"/>In-nāṟpatu po
+		<lb n="47" break="no"/>ṉṉum kōvil pa
+		<lb n="48" break="no"/>ṇṭārattilē Oru
+		<lb n="49"/>mutal-āy mutal iṭṭa (pa)
+		<lb n="50" break="no"/>ṭiyiṉālē Ucci-k kā(lak)
+		<lb n="51"/>kaṭṭaḷaikku cantirātitta-varai
+		<lb n="52"/>nāyaka-cuvāmikku ka <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="53"/>Anupavittu-k kaṭavat-āka sa
+		<lb n="54" break="no"/>mmatittu tāna cātana <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="55"/>tiruvamuṭaiyā mutaliyā <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="56"/>cappaṭṭa Aṉaivaru <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="57" break="no"/>takku yātām oruvaṉ <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="58"/>niṉaittavaṉ keṅkai <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="59" break="no"/>-pacuvaiyum pirāmaṇa <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="60"/>ceytavaṉ pōṟa tōca <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="61"/>kaṭavār ākavum
+	</p>
+	<p>
+		Ip <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="62" break="no"/>kiṉṟa Irāma-cantira <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="63"/>Eḻuttu maṅkai pā <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="64"/>civa-p-pirāya-paṭṭaṉ <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="65"/>pumpayavaṉ paṭṭa <gap reason="lost" quantity="3" unit="character" precision="low"/>		
  	</p>
 </div>
 	

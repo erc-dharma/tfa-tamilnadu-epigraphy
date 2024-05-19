@@ -90,31 +90,54 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
 			
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<l n="a" enjamb="yes"><lb n="1"/>Etat· trailokya-<supplied reason="omitted">ni</supplied>rm<supplied reason="omitted">·</supplied>māṇa</l>
+		<l n="b">-t<unclear>r</unclear>āṇa-<choice><sic>ś</sic><corr>s</corr></choice>aṃhāra-kāraṇaṃ·</l>
+		<l n="c"><choice><sic>c</sic><corr>ś</corr></choice>āsanam <choice><sic>c</sic><corr>ś</corr></choice>āśvatam· <choice><sic>c</sic><corr>ś</corr></choice>am·bho</l>
+		<l n="d">kaṭhoragiri-vāsinam·<!--check--></l>
+	</lg>
+	
+	<p>		
+		<lb n="2"/><gap reason="lost" quantity="3" unit="character" precision="low"/> -kaṭhōragiri-vas <gap reason="lost" quantity="2" unit="character" precision="low"/> Atipati-y-āna tiru-malai-nāṭṭu-t tiru-k-koṭuṅ-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-u
+		<lb n="3" break="no"/>ṭaiya nayiṉār tiru-vāy-malar <gap reason="lost" quantity="1" unit="character" precision="low"/> t-aruḷina paṭikku Ādi-caṇṭēśvara-pramāṇam kuṭutta paṭi cakābdam <num value="1449">1449</num>-ṉ mēl cel
+		<lb n="4" break="no"/>lā niṉṟa citra-bhānu-camaccatśarattu Atpaci-viṣuvum pūṟuva-pakṣamum Ē
+		<lb n="5" break="no"/>kādeśi śataiyamum citta-yōkamum peṟṟa p pudhan-vārattu nāḷ
+	</p>
 	<p>
+		mita-gotra <gap reason="lost" quantity="2" unit="character" precision="low"/> jeyamāni
+		<lb n="6" break="no"/>kya Ātu traikāntābhakappan Ārā vamutā mavaṉ varāṅka vāraṇa halataya <gap reason="lost" quantity="2" unit="character" precision="low"/> vai
+		<lb n="7"/>y-udaka dārā puriva <gap reason="lost" quantity="1" unit="character" precision="low"/> Āka kuṭutta tāṉam Arasan tiru-mukam I-ṉayiṉār tēvat tāṉam Āṉa tiru-k-koṭuṅ
+		<lb n="8" break="no"/>-kuṉṟa-p-paṟṟil kucavaṉ vayalil kuṭutta bhāham Oṉṟukku ta ru yil Iḻuvai-p paṭi ru Iṉ-ṉila
+		<lb n="9" break="no"/>m Iraṇṭu māvukkum Ellai Āvatu 
 		
-<lb n="1"/>ēdat trailōkyām māyā taraṇa śamhārastām vābhā <gap reason="lost" quantity="7" unit="character" precision="low"/>
-<lb n="2"/>su<gap reason="lost" quantity="3" unit="character" precision="low"/> ti ka(ṭōra)kiri vasikku atipatiyāna tirumalai nāṭṭut tirukkoṭuṅkuṉṟattu Uṭaiyār tirukkoṭuṅkuṉṟamu
-<lb n="3"/>ṭaiya nayiṉār tiruvāy malar<gap reason="lost" quantity="1" unit="character" precision="low"/> taruḷinapaṭikku ādicaṇṭēśvara pramāṇam kuṭuttapaṭi cakābdam 1449 ṉ mēl cel
-<lb n="4"/>lā niṉṟa citra bhānu camaccatśarattu atpaci viṣuvum pūṟuva pakṣamum ē
-<lb n="5"/>kādeśi śataiyamum citta yōkamum peṟṟap pudhan vārattu nāḷ mita gotra<gap reason="lost" quantity="2" unit="character" precision="low"/> jeyamāni
-<lb n="6"/>kya Ātu traikāntābhakappan ārā vamutā mavaṉ varāṅka vāraṇa halataya<gap reason="lost" quantity="2" unit="character" precision="low"/> vai
-<lb n="7"/>yudaka dārā puriva <gap reason="lost" quantity="1" unit="character" precision="low"/> āka kuṭutta tāṉam arasan tirumukam i ṉayiṉār tēvat tāṉam āṉa tirukkoṭuṅ
-<lb n="8"/>kuṉṟap paṟṟil kucavaṉ vayalil kuṭutta bhāham oṉṟukku ta ru yil iḻuvaippaṭi ru iṉṉila
-<lb n="9"/>m iraṇṭu māvukkum ellai āvatu kīḻpāṟkellai mukaciṭṭukkēy pākam piriyātāḷukku <gap reason="lost" quantity="1" unit="character" precision="low"/> ṟku
-<lb n="10"/>teṉpāṟkellai mutukūttukku vaṭakku mēlpāṟkellai pattaṟ karuḷ ceyvāṉukku kiḻakku
-<lb n="11"/>vaṭapāṟkellai kiḻakku mēl vāykkālukku teṟku āka ru cu icainta perunāṉk' ellaikkuḷpaṭṭa
-<lb n="12"/>kūṟiṉāl paṉṉiraṇṭā(ṅ) kūṟṟil ru iṉṉilam iraṇṭu mā itu puñcaik karuntai vēlikku teṟku
-<lb n="13"/>nāyakkar kuḷattu nīr nattikku vaṭakku iru (ka)la vitaippu puñcai oṉṟum maṭa viḷākattil mēlaic ciṟaki
-<lb n="14"/>l maṭattukku teṟku taiccar muḻattālē patiṉañcu muḻam maṉai oṉṟu titi mativiṣu vayaṉa śaṅgrā
-<lb n="15"/>maṅkaḷukku uṇṭāṉa svatantiramum vaiykācit tirunāḷil oru parivaṭṭamum āka inta
-<lb n="16"/>ru <gap reason="lost" quantity="4" unit="character" precision="low"/> iraṇṭu māvum inta nilattukku urittāṉa taṇṇīrum āṟu nīr maṭait taṇṇīru
-<lb n="17"/>m puñcai maṉaiyum ti<gap reason="lost" quantity="1" unit="character" precision="low"/> m ta viṣum vayaṉa saṅgrāmaṅkaḷukku uṇṭāṉa sātanamum pa
-<lb n="18"/>ri <gap reason="lost" quantity="6" unit="character" precision="low"/> tani<gap reason="lost" quantity="6" unit="character" precision="low"/> tukkum maṉaikkum uṇṭāṉa nidhi nikṣepa jala pāṣā
-<lb n="19"/>ṇa <gap reason="lost" quantity="1" unit="character" precision="low"/> kṣiṇa <gap reason="lost" quantity="5" unit="character" precision="low"/> niyōbha<gap reason="lost" quantity="3" unit="character" precision="low"/> varira<gap reason="lost" quantity="3" unit="character" precision="low"/> ṇyāda eṉkiṉṟa sakala samādāya pramēyā kai<gap reason="lost" quantity="2" unit="character" precision="low"/>
-<lb n="20"/><gap reason="lost" quantity="2" unit="character" precision="low"/> bhoka<gap reason="lost" quantity="7" unit="character" precision="low"/> kaḷumakkum urittāka ṟṟuntāka cuvatiṟati āka śandrāditya<gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="21"/>uḷḷa<gap reason="lost" quantity="9" unit="character" precision="low"/> ākap paṟṟi aṉupavittuk koḷḷavum dānāti viniyōka vikraya ttakayappaṭi aṉupavittuk koḷḷavum inta dam(ma)ttukku ahitam paṇṇiṉavaṉ
-<lb n="22"/><gap reason="lost" quantity="7" unit="character" precision="low"/> nallamaṅkai <gap reason="lost" quantity="7" unit="character" precision="low"/> kaiyilum kapilaiyum kārām pacuvaiyum mātā pitāvaiyum<gap reason="lost" quantity="1" unit="character" precision="low"/> ruvaiyum koṉṟa pāvattilē pōkak kaṭavāṉākavum dāna pālana yēkaluñ cem<gap reason="lost" quantity="5" unit="character" precision="low"/>
- 		
+		<list>
+			<item>kīḻpāṟk'ellai mukaciṭṭukkēy pākam piriyātāḷukku <gap reason="lost" quantity="1" unit="character" precision="low"/> ṟku</item>
+			<item><lb n="10"/>teṉpāṟk' ellai mutukūttukku vaṭakku</item>
+			<item>mēlpāṟk' ellai pattaṟ karuḷ ceyvāṉukku kiḻakku</item>
+			<item><lb n="11"/>vaṭa-pāṟk' ellai kiḻakku mēl vāykkālukku teṟku</item>
+		</list>
+		
+		Āka ru cu Icainta peru nāṉk' ellaikk' uḷ-paṭṭa
+		<lb n="12"/>kūṟiṉāl paṉṉiraṇṭā(ṅ) kūṟṟil ru Iṉ-ṉilam Iraṇṭu mā Itu puñcai-k karuntai vēlikku teṟku
+		<lb n="13"/>nāyakkar kuḷattu nīr nattikku vaṭakku Iru (ka)la vitaippu puñcai Oṉṟum maṭa viḷākattil mēlai-c ciṟaki
+		<lb n="14" break="no"/>l maṭattukku teṟku taiccar muḻattālē patiṉañcu muḻam maṉai Oṉṟu titi mativiṣu vayaṉa śaṅgrā
+		<lb n="15" break="no"/>maṅkaḷukku Uṇṭ-āṉa svatantiramum vaiykāci-t tiru-nāḷil Oru parivaṭṭamum Āka Inta
+		<lb n="16"/>ru <gap reason="lost" quantity="4" unit="character" precision="low"/> Iraṇṭu māvum Inta nilattukku Urittāṉa taṇṇīrum Āṟu nīr maṭait taṇṇīru
+		<lb n="17" break="no"/>m puñcai maṉaiyum ti <gap reason="lost" quantity="1" unit="character" precision="low"/> m ta viṣum vayaṉa saṅgrāmaṅkaḷukku Uṇṭ-āṉa sātanamum pa
+		<lb n="18" break="no"/>ri <gap reason="lost" quantity="6" unit="character" precision="low"/> tani<gap reason="lost" quantity="6" unit="character" precision="low"/> tukkum maṉaikkum Uṇṭ-āṉa nidhi-nikṣepa-jala-pāṣā
+		<lb n="19"/>ṇa <gap reason="lost" quantity="1" unit="character" precision="low"/> kṣiṇa <gap reason="lost" quantity="5" unit="character" precision="low"/> niyōbha <gap reason="lost" quantity="3" unit="character" precision="low"/> varira <gap reason="lost" quantity="3" unit="character" precision="low"/> ṇyāda Eṉkiṉṟa sakala-samādāya pramēyā kai <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		<lb n="20"/><gap reason="lost" quantity="2" unit="character" precision="low"/> bhoka <gap reason="lost" quantity="7" unit="character" precision="low"/> kaḷumakkum Urittāka ṟṟuntāka cuvatiṟati Āka śandrāditya <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="21"/>Uḷḷa<gap reason="lost" quantity="9" unit="character" precision="low"/> Āka-p paṟṟi Aṉupavittuk koḷḷavum
+	</p>
+	<p>
+		dānāti viniyōka vikraya ttakaya-p paṭi Aṉupavittuk koḷḷavum
+	</p>
+	<p>
+		Inta dam(ma)ttukku Ahitam paṇṇiṉavaṉ
+		<lb n="22"/><gap reason="lost" quantity="7" unit="character" precision="low"/> nalla-maṅkai <gap reason="lost" quantity="7" unit="character" precision="low"/> kaiyilum kapilaiyum kār-ām-pacuvaiyum mātā-pitāvaiyum <gap reason="lost" quantity="1" unit="character" precision="low"/> ruvaiyum koṉṟa pāvattilē pōka-k kaṭavāṉ ākavum
+	</p>
+	<p>
+		dāna pālana yēkaluñ cem <gap reason="lost" quantity="5" unit="character" precision="low"/> 		
  	</p>
 </div>
 	
