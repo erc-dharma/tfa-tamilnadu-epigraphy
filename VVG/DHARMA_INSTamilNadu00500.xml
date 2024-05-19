@@ -88,7 +88,7 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 			
 	<pb n="1"/>
@@ -97,7 +97,7 @@
 		<lb n="01"/>hariḥ
 		<lb n="02"/>Ōm
 	</fw>
-	<fw n="2" place="top-left">
+	<fw n="2" place="top-right">
 		<lb n="03"/>svasti śrī
 	</fw>
 		
@@ -108,36 +108,39 @@
 		-->
 	
 	<p>
-		<lb n="3"/>śakāttam 1633-ṉ
-		<lb n="4"/>mēl cellā niṉṟa nanta
-		<lb n="5" break="no"/>ṉa {varuṣam} Aṟpaci {mācam} 10+ 5 {tēti}
-		<lb n="6"/>rāja-śrī-vijayaraṅka-mu
-		<lb n="7" break="no"/>ttu-cokka-ṉāta-ṉāyakkar
-		<lb n="8"/>Ayyaṉ Avarkaḷ kāriyat
-		<lb n="9" break="no"/>tukku kaṟtar-āṉa Atipan-āyi
-		<lb n="10" break="no"/>ṉa nāṟaṇappa-ṉāyakkar ka <gap reason="lost" quantity="1" unit="character" precision="low"/>
-		<lb n="11" break="no"/>mur raṅkā-ceṭṭiyār rāmaṉā
-		<lb n="12" break="no"/>ta-mutaliyār caṅkarayyaṉ
-		<lb n="13"/>y-ivarkaḷ pirāṉmalai nal
-		<lb n="14" break="no"/>la-maṅkai pāka-cuvāmi
-		<lb n="15"/>kōvil śrī-paṇṭāra-kariya
-		<lb n="16" break="no"/>ttukku kaṟtar-āna paratēci mu
-		<lb n="17" break="no"/>ttirai maturai ṉāyaṉa paṇ <gap reason="lost" quantity="3" unit="character" precision="low"/>
-		<lb n="18" break="no"/>tāmum tāṉattār talattārukku
-		<lb n="19"/>kōvil kiṟāmattukku A
-		<lb n="20" break="no"/>ramaṉai pōṟum cilla
-		<lb n="21" break="no"/>ṟai tēva y-illai Eṉṟu caṟu
-		<lb n="22" break="no"/>va-māṉiyam-āka kaṭṭaḷai y-iṭ
-		<lb n="23" break="no"/>ṭōm Antapaṭikku cuvāmi k
-		<lb n="24" break="no"/>āriyam tāmatiyāmal Anupa
-		<lb n="25" break="no"/>vittu koḷḷavum
+		<lb n="1"/>śakāttam <num value="1663">1633</num>-ṉ
+		<lb n="2"/>mēl cellā niṉṟa nanta
+		<lb n="3" break="no"/>ṉa {varuṣam} Aṟpaci {mācam} 10+ 5 {tēti}
+		<lb n="4"/>rāja-śrī-vijayaraṅka-mu
+		<lb n="5" break="no"/>ttu-cokka-ṉāta-ṉāyakkar
+		<lb n="6"/>Ayyaṉ Avarkaḷ kāriyat
+		<lb n="7" break="no"/>tukku kaṟtar-āṉa Atipan-āyi
+		<lb n="8" break="no"/>ṉa nāṟaṇappa-ṉāyakkar ka <gap reason="lost" quantity="1" unit="character" precision="low"/>
+		<lb n="9" break="no"/>mur raṅkā-ceṭṭiyār rāmaṉā
+		<lb n="10" break="no"/>ta-mutaliyār caṅkarayyaṉ
+		<lb n="11"/>y-ivarkaḷ pirāṉmalai nal
+		<lb n="12" break="no"/>la-maṅkai pāka-cuvāmi
+		<lb n="13"/>kōvil śrī-paṇṭāra-kariya
+		<lb n="14" break="no"/>ttukku kaṟtar-āna paratēci mu
+		<lb n="15" break="no"/>ttirai maturai ṉāyaṉa paṇ <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="16" break="no"/>tāmum tāṉattār talattārukku
+		<lb n="17"/>kōvil kiṟāmattukku A
+		<lb n="18" break="no"/>ramaṉai pōṟum cilla
+		<lb n="19" break="no"/>ṟai tēva y-illai Eṉṟu caṟu
+		<lb n="20" break="no"/>va-māṉiyam-āka kaṭṭaḷai y-iṭ
+		<lb n="21" break="no"/>ṭōm
+	</p>
+	<p>
+		Anta paṭikku cuvāmi k
+		<lb n="22" break="no"/>āriyam tāmatiyāmal Anupa
+		<lb n="23" break="no"/>vittu koḷḷavum
 	</p>
 	<p>
 		Inta taṟmat
-		<lb n="26" break="no"/>tukku Akutam niṉaittavaṉ ke
-		<lb n="27" break="no"/>ṅkai-karaiyilē kār-ām-pacu
-		<lb n="28" break="no"/>vai <gap reason="lost" quantity="10" unit="character" precision="low"/>
-		<lb n="29"/><gap reason="lost" quantity="12" unit="character" precision="low"/> 		
+		<lb n="24" break="no"/>tukku Akutam niṉaittavaṉ ke
+		<lb n="25" break="no"/>ṅkai-karaiyilē kār-ām-pacu
+		<lb n="26" break="no"/>vai <gap reason="lost" quantity="10" unit="character" precision="low"/>
+		<lb n="27"/><gap reason="lost" quantity="12" unit="character" precision="low"/> 		
  	</p>
 </div>
 	

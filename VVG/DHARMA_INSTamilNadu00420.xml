@@ -88,17 +88,17 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>
 		
-<lb n="1"/>śrīmān viprakṣita pratikṣiti patipratas samāpta pra tiviti prātassamā pratōbhulōkē bhuvanēka vīra
-<lb n="2"/><gap reason="lost" quantity="1" unit="character" precision="low"/> vpurika<gap reason="lost" quantity="5" unit="character" precision="low"/> śrīpāṇḍyādhipatau pratraya rivōssōyaṃ spanādhira karōt
-<lb n="3"/>gopuram ḷu tantu vibrula śrīrājanārāyaṇa<gap reason="lost" quantity="6" unit="character" precision="low"/>
-<lb n="4"/>ṉṉi cel<gap reason="lost" quantity="5" unit="character" precision="low"/> tirukkoṭuṅkuṉṟa tikaḻvarai cūḻk kāmaṉṉu ūril <gap reason="lost" quantity="1" unit="character" precision="low"/> ruvakai kaṭṭi a<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="5"/>āṉaṭā<gap reason="lost" quantity="5" unit="character" precision="low"/> ṉṉā maṇṇa<gap reason="lost" quantity="5" unit="character" precision="low"/> ttava<gap reason="lost" quantity="9" unit="character" precision="low"/> kōṉ
-<lb n="6"/>āṉa<gap reason="lost" quantity="6" unit="character" precision="low"/> vvaṇṇa<gap reason="lost" quantity="10" unit="character" precision="low"/>
- 		
+		<lb n="1"/><hi rend="grantha">śrīmān·</hi> vi<hi rend="grantha">prakṣi</hi>ta <hi rend="grantha">pra</hi>ti<hi rend="grantha">kṣi</hi>ti <hi rend="grantha">pa</hi>ti<hi rend="grantha">pra</hi>ta<hi rend="grantha">s samāpta pra</hi>to<hi rend="grantha">bhuloke bhu</hi>vanaika vī<hi rend="grantha">ra</hi>
+		<lb n="2" break="no"/><gap reason="lost" quantity="1" unit="character" precision="low"/> vpurika<!--check--> <gap reason="lost" quantity="5" unit="character" precision="low"/> <hi rend="grantha">śrī-pāṇḍyā</hi>dhipa<!--check-->tau pra<hi rend="grantha">traya ri</hi>vō<hi rend="grantha">sso</hi>ya<hi rend="grantha">ṃ spa</hi>nādir ākarōt·
+		<lb n="3"/><hi rend="grantha">gopuram</hi> ḷu<!--check--> tan=tu vi<hi rend="grantha">brula śrī-rāja</hi>nā<hi rend="grantha">rā</hi>yaṇa <gap reason="lost" quantity="6" unit="character" precision="low"/>
+		<lb n="4" break="no"/>ṉṉi cel <gap reason="lost" quantity="5" unit="character" precision="low"/> tiru-k-koṭuṅ-kuṉṟa tikaḻvarai cūḻ-k kāmaṉṉu Ūril <gap reason="lost" quantity="1" unit="character" precision="low"/> ruvakai kaṭṭi A <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="5"/>āṉaṭā <gap reason="lost" quantity="5" unit="character" precision="low"/> ṉṉā maṇṇa <gap reason="lost" quantity="5" unit="character" precision="low"/> ttava <gap reason="lost" quantity="9" unit="character" precision="low"/> kōṉ
+		<lb n="6"/>āṉa<gap reason="lost" quantity="6" unit="character" precision="low"/> vvaṇṇa<gap reason="lost" quantity="10" unit="character" precision="low"/>
+		
  	</p>
 </div>
 	

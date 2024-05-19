@@ -88,15 +88,13 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>
-		
-<lb n="1"/>miruvaṉ taṅkaḷukkuk kāṉa nāṭṭu
-<lb n="2"/>vip puṟat tēvatāṉa iṟaiyili
-<lb n="3"/>tila<gap reason="lost" quantity="2" unit="character" precision="low"/> na tēvatāṉam pūpāḷa
-<lb n="4"/>kavikkuṭaiyāṉ araiyaṉ ta
- 		
+		<lb n="1"/>m iruvaṉ taṅkaḷukku-k kāṉa-nāṭṭu
+		<lb n="2"/>vi-p-puṟa-t tēvatāṉa-Iṟai-y-ili
+		<lb n="3"/>tila <gap reason="lost" quantity="2" unit="character" precision="low"/> na tēvatāṉam pū-pāḷa
+		<lb n="4"/>kavikk-uṭaiyāṉ Araiyaṉ ta
  	</p>
 </div>
 	

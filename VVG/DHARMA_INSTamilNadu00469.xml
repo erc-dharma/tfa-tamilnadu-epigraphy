@@ -88,29 +88,31 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<lb n="1"/>svasti
+	</ab>
+	
 	<p>
-		
-<lb n="1"/>svasti śrī <gap reason="lost" quantity="7" unit="character" precision="low"/>
-<lb n="2"/>ra-va<reg>r</reg>tti kō<gap reason="lost" quantity="7" unit="character" precision="low"/>
-<lb n="3"/>ḷ Uṭaiyārkkuk koṭuṅ<gap reason="lost" quantity="2" unit="character" precision="low"/>
-<lb n="4"/>ṟa muṭaiya ṉāyaṉār kōyil
-<lb n="5"/>tāṉattārkku ik kōyil<gap reason="lost" quantity="1" unit="character" precision="low"/>
-<lb n="6"/>ṭāpattiyam tirumaṇa Uṭaiyā
-<lb n="7"/>tiru macāṉam Uṭaiyār
-<lb n="8"/>kāṇiyāy varuvac ceytu pe
-<lb n="9"/>tukiṟapaṭiyālē irupatteṭ<gap reason="lost" quantity="1" unit="character" precision="low"/>
-<lb n="10"/>vatu mutal ivarkaḷukku cantirā
-<lb n="11"/>tittavaṟ cellumpaṭi kalli<gap reason="lost" quantity="1" unit="character" precision="low"/>
-<lb n="12"/>cempilum veṭṭik koḷ
-<lb n="13"/>vatākac coṉṉōm ippaṭik
-<lb n="14"/>ku kallilum cempilum ve<gap reason="lost" quantity="1" unit="character" precision="low"/>
-<lb n="15"/>ṭik kuṭukka ivai caṟukampūruṭai
-<lb n="16"/>yāṉ eḻuttu yāṇṭu 28<gap reason="lost" quantity="2" unit="character" precision="low"/>
-<lb n="17"/>nāḷ 120 ivai vāṇātarāyaṉ e
-<lb n="18"/>ḻuttu u
- 		
+		<gap reason="lost" quantity="7" unit="character" precision="low"/>
+		<lb n="2"/>ra-va<reg>r</reg>tti kō<gap reason="lost" quantity="7" unit="character" precision="low"/>
+		<lb n="3"/>ḷ Uṭaiyārkkuk koṭuṅ<gap reason="lost" quantity="2" unit="character" precision="low"/>
+		<lb n="4"/>ṟa muṭaiya ṉāyaṉār kōyil
+		<lb n="5"/>tāṉattārkku ik kōyil<gap reason="lost" quantity="1" unit="character" precision="low"/>
+		<lb n="6"/>ṭāpattiyam tirumaṇa Uṭaiyā
+		<lb n="7"/>tiru macāṉam Uṭaiyār
+		<lb n="8"/>kāṇiyāy varuvac ceytu pe
+		<lb n="9"/>tukiṟapaṭiyālē irupatteṭ<gap reason="lost" quantity="1" unit="character" precision="low"/>
+		<lb n="10"/>vatu mutal ivarkaḷukku cantirā
+		<lb n="11"/>tittavaṟ cellumpaṭi kalli<gap reason="lost" quantity="1" unit="character" precision="low"/>
+		<lb n="12"/>cempilum veṭṭik koḷ
+		<lb n="13"/>vatākac coṉṉōm ippaṭik
+		<lb n="14"/>ku kallilum cempilum ve<gap reason="lost" quantity="1" unit="character" precision="low"/>
+		<lb n="15"/>ṭik kuṭukka ivai caṟukampūruṭai
+		<lb n="16"/>yāṉ eḻuttu yāṇṭu 28<gap reason="lost" quantity="2" unit="character" precision="low"/>
+		<lb n="17"/>nāḷ 120 ivai vāṇātarāyaṉ e
+		<lb n="18"/>ḻuttu u
  	</p>
 </div>
 	

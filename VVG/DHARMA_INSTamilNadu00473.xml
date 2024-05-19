@@ -88,18 +88,16 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
-	<p>
-		
+	<p>		
 		<lb n="1"/><g type="pcs"/> Ēmūr-uṭaiyā
 		<lb n="2" break="no"/>r neṭu-vayal peri
 		<lb n="3" break="no"/>ya-kuppāṉ ceṭṭi
 		<lb n="4" break="no"/>yār makaṉ cevan
 		<lb n="5" break="no"/>ti-ṉāta-ceṭṭiyār
-		<lb n="6"/><g type="pcs"/>Ivaḷ aṭaik
-		<lb n="7" break="no"/>kāttāḷ <g type="pcs"/>
- 		
+		<lb n="6"/><g type="pcs"/>Ivaḷ Aṭaik
+		<lb n="7" break="no"/>kāttāḷ <g type="pcs">.</g>
  	</p>
 </div>
 	

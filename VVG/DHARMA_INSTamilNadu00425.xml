@@ -88,21 +88,27 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<lb n="1"/>svasti śrī
+	</ab>
 	<p>
-		
-<lb n="1"/>svasti śrī tiripuvaṉaccakkara-va<reg>r</reg>ttikaḷ śrīkulaicēkara tēvaṟku yāṇ
-<lb n="2"/>ṭu 13 vati netir 14 vatu tulā nāyaṟṟu pūrva pakṣattu aśvati nāḷ tiruma
-<lb n="3"/>lai nāṭṭut tiruk koṭuṅ kuṉṟattu Uṭaiyār tiruk koṭuṅ kuṉṟa muṭai
-<lb n="4"/>ya nāyanāṟkut tiru nuntā viḷak kerivatākak kaḷakkuṭi nāṭṭuk kaḷakkuṭiyā
-<lb n="5"/>ṉa karavantapurattup piḷḷaiyār aḻakapperumāḷ akapparivārattu ula
-<lb n="6"/>kaḷantāṉ aḻakap perumāḷāṉa avaṉi nārāyaṇa tēvaṉ iṭṭa viḷakku ne
-<lb n="7"/>y tāṅki iraṇṭu pāta moṉṟu muḷḷa cērvaip pittaḷait tiruk kuttu viḷak
-<lb n="8"/>koṉṟiṉāl iṭai iraṇṭē eṇpatiṉ palam cantirātittavaṟ celva
-<lb n="9"/>tākat tirunu <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="10"/>paṉmāhē <gap reason="lost" quantity="4" unit="character" precision="low"/>
- 		
+		tiri-puvaṉa-c-cakkara-va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-kul<choice><sic>ai</sic><corr>a</corr></choice>-cēkara-tēvaṟku yāṇ
+		<lb n="2" break="no"/>ṭu 13-vatin etir 14-vatu tulā-nāyaṟṟu <hi rend="grantha">pūrvva-pakṣa</hi>ttu <hi rend="grantha">Aśva</hi>ti nāḷ
+	</p>
+	<p>
+		tiru-ma
+		<lb n="3" break="no"/>lai-nāṭṭu-t tiruk-koṭuṅ-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭai
+		<lb n="4" break="no"/>ya nāyanāṟku-t tiru-nuntā-viḷakk' erivat' āka-k kaḷa-k-kuṭi-nāṭṭu-k kaḷa-k-kuṭi-y-ā
+		<lb n="5" break="no"/>ṉa karavanta-purattu-p piḷḷaiyār Aḻaka-p-perumāḷ Akapparivārattu Ula
+		<lb n="6" break="no"/>kaḷantāṉ Aḻaka-p-perumāḷ-āṉa Avaṉi-nārāyaṇa-tēvaṉ Iṭṭa viḷakku ne
+		<lb n="7" break="no"/>y tāṅki Iraṇṭu pātam oṉṟum uḷḷa cērvai-p pittaḷai-t tiru-k-kuttu viḷak
+		<lb n="8" break="no"/>k' oṉṟiṉāl Iṭai Iraṇṭē Eṇpatiṉ palam cantirātitta-vaṟ celva
+		<lb n="9" break="no"/>t' āka-t tiru-nu <gap reason="lost" quantity="4" unit="character" precision="low"/>
+	</p>
+	<p>
+		<lb n="10"/>paṉ-māhē <gap reason="lost" quantity="4" unit="character" precision="low"/>		
  	</p>
 </div>
 	

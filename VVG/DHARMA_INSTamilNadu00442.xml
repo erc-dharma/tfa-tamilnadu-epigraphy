@@ -88,27 +88,29 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<lb n="1"/>svasti śrī
+	</ab>
+	
 	<p>
-		
-<lb n="1"/>svasti śrī śrīmaṉ mahāmaṇṭalīśvaran pāṣaikkut tappuva rāyara kaṇṭaṉ mūvarāyara kaṇṭa
-<lb n="2"/>ṉ kaṇṭa nāṭu koṇṭu koṇṭa nāṭu koṭātāṉ pūṟuva dekṣaṇa paścimottara
-<lb n="3"/>samudrādhipati śrīvīrapradhāpa devarāya mahārāyar pridhivi rājyam paṇṇi aruḷā niṉ
-<lb n="4"/>ṟa śakābtam 1360 ṉ mel cellāniṉṟa kāla yukti samvaṟsarattu kaṟkaṭaka nāyaṟu pūrvvapa
-<lb n="5"/>kṣattu daśamiyum (bhuda)vāramum peṟṟa vicākattu nāḷ pāṇṭi maṇṭalattu tirumalai nāṭ
-<lb n="6"/>ṭu tirukkoṭuṅkuṉṟattu Uṭaiyār tirukkoṭuṅ-kuṉṟam-uṭaiya nāyinārkkum nalla ma
-<lb n="7"/>ṅkai pākarkkum śrīmaṉ mahā pradhāṉaṉ dakṣiṇa samudrādhipati lakṣaṇa dhaṇṇāyakka
-<lb n="8"/>uṭaiyar tampiyar Uṭaiyar mātaṇa Uṭaiyar upaiyamāka nāḷtōṟum amutu
-<lb n="9"/>ce(yya vāra)m oṉṟukku tirumañcaṉa(t)tukkum cāttuppaṭikkum tirupparivaṭṭattukkum a
-<lb n="10"/>mutupaṭi kaṟi amutu paṭi veñjaṉa(t)[tu]kkum āka ivvakaippaṭikku vēṇṭuṅ ka
-<lb n="11"/>[ṭṭaḷaippaṭikku ku]ṭutta immaṇṭalattu curapi nāṭṭu aṟunūṟṟuvaṉ ē
-<lb n="12"/>ri u [ḷḷatu iṉta ūr o]ṉṟukku nāṉkellaikku uṭpaṭṭa nattamum nañ[-ai]ca
-<lb n="13"/>puñ[caiyum kuḷamum]pācipāṭṭam maṟṟum eṟpēṟpaṭṭa upātikaḷu[m tāra]ā
-<lb n="14"/>pū[rvam āka taṉta aḷavukku]inta ūr cantiṟātittavaraiyum cel[vatāka nattatti]
-<lb n="15"/>lu[m nāṉkel]laiyilum tiruccūlakkallu nāṭṭik kallilum [cempilum]
-<lb n="16"/>veṭṭikko[ḷ]ḷa śubham astu
- 		
+		śrīmaṉ mahāmaṇṭalīśvaran pāṣaikkut tappuva rāyara kaṇṭaṉ mūvarāyara kaṇṭa
+		<lb n="2"/>ṉ kaṇṭa nāṭu koṇṭu koṇṭa nāṭu koṭātāṉ pūṟuva dekṣaṇa paścimottara
+		<lb n="3"/>samudrādhipati śrīvīrapradhāpa devarāya mahārāyar pridhivi rājyam paṇṇi aruḷā niṉ
+		<lb n="4"/>ṟa śakābtam 1360 ṉ mel cellāniṉṟa kāla yukti samvaṟsarattu kaṟkaṭaka nāyaṟu pūrvvapa
+		<lb n="5"/>kṣattu daśamiyum (bhuda)vāramum peṟṟa vicākattu nāḷ pāṇṭi maṇṭalattu tirumalai nāṭ
+		<lb n="6"/>ṭu tirukkoṭuṅkuṉṟattu Uṭaiyār tirukkoṭuṅ-kuṉṟam-uṭaiya nāyinārkkum nalla ma
+		<lb n="7"/>ṅkai pākarkkum śrīmaṉ mahā pradhāṉaṉ dakṣiṇa samudrādhipati lakṣaṇa dhaṇṇāyakka
+		<lb n="8"/>uṭaiyar tampiyar Uṭaiyar mātaṇa Uṭaiyar upaiyamāka nāḷtōṟum amutu
+		<lb n="9"/>ce(yya vāra)m oṉṟukku tirumañcaṉa(t)tukkum cāttuppaṭikkum tirupparivaṭṭattukkum a
+		<lb n="10"/>mutupaṭi kaṟi amutu paṭi veñjaṉa(t)[tu]kkum āka ivvakaippaṭikku vēṇṭuṅ ka
+		<lb n="11"/>[ṭṭaḷaippaṭikku ku]ṭutta immaṇṭalattu curapi nāṭṭu aṟunūṟṟuvaṉ ē
+		<lb n="12"/>ri U[ḷḷatu iṉta ūr o]ṉṟukku nāṉkellaikku uṭpaṭṭa nattamum nañ[-ai]ca
+		<lb n="13"/>puñ[caiyum kuḷamum]pācipāṭṭam maṟṟum eṟpēṟpaṭṭa upātikaḷu[m tāra]ā
+		<lb n="14"/>pū[rvam āka taṉta aḷavukku]inta ūr cantiṟātittavaraiyum cel[vatāka nattatti]
+		<lb n="15"/>lu[m nāṉkel]laiyilum tiruccūlakkallu nāṭṭik kallilum [cempilum]
+		<lb n="16"/>veṭṭikko[ḷ]ḷa śubham astu
  	</p>
 </div>
 	

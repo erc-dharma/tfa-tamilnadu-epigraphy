@@ -88,16 +88,14 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
-	<p>
-		
+	<p>		
 		<lb n="1"/><g type="pcs"/> y-ivar pā
 		<lb n="2" break="no"/>ṇṭi-ṉāṭā
 		<lb n="3" break="no"/>cāṉ mīṉā
 		<lb n="4" break="no"/>ṭci-ṉāta-kuru
-		<lb n="5" break="no"/>-cāmiyār <g type="pcs"/>
-		
+		<lb n="5" break="no"/>-cāmiyār <g type="pcs"/>		
 	</p>
 </div>
 	

@@ -88,19 +88,21 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/>svasti śrī  
+	</ab>
+	
 	<p>
-		
-<lb n="1"/>svasti śrī tiripu<gap reason="lost" quantity="1" unit="character" precision="low"/> ṉa<gap reason="lost" quantity="36" unit="character" precision="low"/>
-<lb n="2"/>aḻakiya cēma āḷuṭaiya piḷ<gap reason="lost" quantity="4" unit="character" precision="low"/> kku<gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="3"/>tōṭṭamum kuḷamum kuḷap parippum uṭ<gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="4"/>ca māp pēṟum taṟiyiṟaiyum cekkaṟai<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="5"/>kkac coṉṉamaiyil ik kōyil<gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="6"/>kō ṉāṭṭu ollaiyūrk kūṟṟattuc cātta<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="7"/>pōṟum vācal pēṟum <gap reason="lost" quantity="3" unit="character" precision="low"/>
- 		
- 	</p>
+		tiripu<gap reason="lost" quantity="1" unit="character" precision="low"/> ṉa<gap reason="lost" quantity="36" unit="character" precision="low"/>
+		<lb n="2"/>aḻakiya cēma āḷuṭaiya piḷ<gap reason="lost" quantity="4" unit="character" precision="low"/> kku<gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="3"/>tōṭṭamum kuḷamum kuḷap parippum uṭ<gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="4"/>ca māp pēṟum taṟiyiṟaiyum cekkaṟai<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="5"/>kkac coṉṉamaiyil ik kōyil<gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="6"/>kō ṉāṭṭu ollaiyūrk kūṟṟattuc cātta<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="7"/>pōṟum vācal pēṟum <gap reason="lost" quantity="3" unit="character" precision="low"/>		
+	</p>
 </div>
 	
 <!--<div type="apparatus">

@@ -88,32 +88,34 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
-	<p>
-		
-<lb n="1"/>śubham astu raudra varuṣam mār<gap reason="lost" quantity="4" unit="character" precision="low"/> 26 u tirumalai nāṭṭut tirukkoṭu
-<lb n="2"/>ṅkuṉṟattu Uṭaiyār tirukkoṭuṅ-kuṉṟam-uṭaiya nayiṉār tirukkōyi
-<lb n="3"/>lil ciṟi paṇṭārak kāriyattukkuk kaṭavār kāciyapa gotrattu āpasta
-<lb n="4"/>mbha sūtrattu irāyūr śabhari rāja bhaṭṭaṟkuk kuṭutta iṟaiyilip paṭ
-<lb n="5"/>ṭaiyam nayiṉār tiruk koṭuṅ kuṉṟa muṭaiya nayiṉār nalla maṅkai
-<lb n="6"/>pākar kōyilukku adyayanāṅkamāka muṉṉāḷ Uṭaiyavar tiruvuḷ(ḷa)
-<lb n="7"/>mpaṟṟi aruḷiṉa tirumukappaṭi nayiṉār tēvatāṉa māṉa
-<lb n="8"/>kollaṉ kuṇṭu āṉa ēmpal oṉṟum maṉai oṉṟu
-<lb n="9"/>m nittiyatāṉamum inta ēmpalukku nāṉkellaiyāvatu
-<lb n="10"/>kīḻpāṟkellai kaṭampaṅkuḷattukkum ceṭṭi kuḷattukku
-<lb n="11"/>mēṟkum teṉpāṟkellai cūlakkallukku vaṭakkum mēl (pāṟ)
-<lb n="12"/>kellai vaṭivaḷampi ēmpalukku vaṭakiḻakkum vaṭapā
-<lb n="13"/>ṟ kellai ciṟṟāṟṟukku teṟkum āka inta nāṉk' ellaikku
-<lb n="14"/>ṭpaṭṭa nañcey puñcey kīḻnōkkiya kiṇaṟum mēl
-<lb n="15"/>nōkkiya maramum pācip pāṭṭa maṟṟum nāṉk' ellaik kuṭ
-<lb n="16"/>ppaṭṭa samasta prā(pti)kaḷum ācandrākkam santati
-<lb n="17"/>pra -e mēdhā āyi viṉimaya vikkiyaṅkaḷukku u
-<lb n="18"/>rittāka sarva mānyamāka kāṇi yāṭciyāka aṉupavi(t)
-<lb n="19"/>tuk koḷḷavum ippaṭikku kuṉṟanampi eḻuttu ippa
-<lb n="20"/>ṭikku puṟpavaṉa pa(ṭ)ṭaṉ eḻuttu ippaṭikku kōyiṟ kaṇakku tiruk
-<lb n="21"/>koṭuṅkuṉṟa vēḷāṉ araṅkaṉ perumāḷ eḻuttu<gap reason="lost" quantity="1" unit="character" precision="low"/>
- 		
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<lb n="1"/>śubham astu
+	</ab>
+	
+	<p>		
+		raudra varuṣam mār<gap reason="lost" quantity="4" unit="character" precision="low"/> 26 <g type="pc">.</g> tirumalai nāṭṭut tirukkoṭu
+		<lb n="2"/>ṅkuṉṟattu Uṭaiyār tirukkoṭuṅ-kuṉṟam-uṭaiya nayiṉār tirukkōyi
+		<lb n="3"/>lil ciṟi paṇṭārak kāriyattukkuk kaṭavār kāciyapa gotrattu āpasta
+		<lb n="4"/>mbha sūtrattu irāyūr śabhari rāja bhaṭṭaṟkuk kuṭutta iṟaiyilip paṭ
+		<lb n="5"/>ṭaiyam nayiṉār tiruk koṭuṅ kuṉṟam-uṭaiya nayiṉār nalla maṅkai
+		<lb n="6"/>pākar kōyilukku adyayanāṅkamāka muṉṉāḷ Uṭaiyavar tiruvuḷ(ḷa)
+		<lb n="7"/>mpaṟṟi aruḷiṉa tirumukappaṭi nayiṉār tēvatāṉa māṉa
+		<lb n="8"/>kollaṉ kuṇṭu āṉa ēmpal oṉṟum maṉai oṉṟu
+		<lb n="9"/>m nittiyatāṉamum inta ēmpalukku nāṉkellaiyāvatu
+		<lb n="10"/>kīḻpāṟkellai kaṭampaṅkuḷattukkum ceṭṭi kuḷattukku
+		<lb n="11"/>mēṟkum teṉpāṟkellai cūlakkallukku vaṭakkum mēl (pāṟ)
+		<lb n="12"/>kellai vaṭivaḷampi ēmpalukku vaṭakiḻakkum vaṭapā
+		<lb n="13"/>ṟ kellai ciṟṟāṟṟukku teṟkum āka inta nāṉk' ellaikku
+		<lb n="14"/>ṭpaṭṭa nañcey puñcey kīḻnōkkiya kiṇaṟum mēl
+		<lb n="15"/>nōkkiya maramum pācip pāṭṭa maṟṟum nāṉk' ellaik kuṭ
+		<lb n="16"/>ppaṭṭa samasta prā(pti)kaḷum ācandrākkam santati
+		<lb n="17"/>pra -e mēdhā āyi viṉimaya vikkiyaṅkaḷukku u
+		<lb n="18"/>rittāka sarva mānyamāka kāṇi yāṭciyāka aṉupavi(t)
+		<lb n="19"/>tuk koḷḷavum ippaṭikku kuṉṟanampi eḻuttu ippa
+		<lb n="20"/>ṭikku puṟpavaṉa pa(ṭ)ṭaṉ eḻuttu ippaṭikku kōyiṟ kaṇakku tiruk
+		<lb n="21"/>koṭuṅkuṉṟa vēḷāṉ araṅkaṉ perumāḷ eḻuttu<gap reason="lost" quantity="1" unit="character" precision="low"/>
  	</p>
 </div>
 	

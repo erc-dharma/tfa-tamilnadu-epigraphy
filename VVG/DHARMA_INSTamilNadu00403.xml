@@ -88,11 +88,11 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
-	<p xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
 		<lb n="1"/>s<choice><sic>u</sic><corr>v</corr></choice>asti śrī
-	</p>
+	</ab>
 	<p>
 		<lb n="2"/><supplied reason="lost">ca</supplied>kkara-va<reg>r</reg>ttikaḷ
 		<lb n="3"/><hi rend="grantha">śrī</hi>-k<choice><orig>o</orig><reg>u</reg></choice>lōttu

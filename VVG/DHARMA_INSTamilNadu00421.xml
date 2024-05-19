@@ -88,19 +88,25 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>
 		
-<lb n="1"/>nam pērāl kaṭṭiṉa cuntara pāṇṭiyaṉ cantiyiṭṭa nām ik kōyilil eḻu<gap reason="lost" quantity="2" unit="character" precision="low"/>
-<lb n="2"/>va raṭiyāril poṉṉaṉaiyāḷ yōkikku aṇṇāḻvikkup patiṉeṭṭā<gap reason="lost" quantity="2" unit="character" precision="low"/>
-<lb n="3"/>ta mākap peṟṟup pōtuvā ḷākac coṉṉōm itu iṉṉāḷ mutal veḷa<gap reason="lost" quantity="2" unit="character" precision="low"/>
-<lb n="4"/><gap reason="lost" quantity="1" unit="character" precision="low"/> peṟṟup pōtum(pa)ṭiyākak kallilum cempilum veṭṭik kuṭukka ippaṭi<gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="5"/>lūruṭaiyāṉ ṉeḻuttu u yāṇṭu ka nāḷ 44 ivai paḻantipak<gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="6"/><gap reason="lost" quantity="2" unit="character" precision="low"/> śrī tribhuvaṉac cakra-va<reg>r</reg>tti kōṉēriṉmai koṇṭāṉ tiruk koṭuṅku<gap reason="lost" quantity="1" unit="character" precision="low"/> ṟattil<gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="7"/><gap reason="lost" quantity="63" unit="character" precision="low"/> ttā<gap reason="lost" quantity="3" unit="character" precision="low"/>
- 		
- 	</p>
+		<lb n="1"/>nam pērāl kaṭṭiṉa cuntara-pāṇṭiyaṉ cantiyiṭṭa nām Ik-kōyilil Eḻu <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		<lb n="2" break="no"/>va raṭiyāril poṉṉaṉaiyāḷ yōkikku Aṇṇāḻvikku-p patiṉ eṭṭā<gap reason="lost" quantity="2" unit="character" precision="low"/>
+		<lb n="3" break="no"/>ta māka-p peṟṟu-p pōtuvā ḷāka-c coṉṉōm
+	</p>
+	<p>
+		Itu Iṉ-ṉāḷ mutal veḷa <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		<lb n="4"/><gap reason="lost" quantity="1" unit="character" precision="low"/> peṟṟu-p pōtum(pa)ṭi-y-āka-k kallilum cempilum veṭṭi-k kuṭukka Ip paṭi <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="5" break="no"/>lūr uṭaiyāṉṉ eḻuttu <g type="pc">.</g>
+	</p>
+	<p>
+		yāṇṭu ka nāḷ <num value="44">4 10 4</num> Ivai paḻantipak <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="6"/><gap reason="lost" quantity="2" unit="character" precision="low"/> <hi rend="grantha">śrī-tribhu</hi>vaṉa-c-ca<hi rend="grantha">kra</hi>-va<reg>r</reg>tti kōṉ-ēriṉmai-koṇṭāṉ tiru-k-koṭuṅ-ku <gap reason="lost" quantity="1" unit="character" precision="low"/> ṟattil <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="7"/><gap reason="lost" quantity="20" unit="character" precision="low"/> ttā <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		
+	</p>
 </div>
 	
 <!--<div type="apparatus">

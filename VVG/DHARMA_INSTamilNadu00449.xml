@@ -88,11 +88,10 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
-	<p>
-		
-		<lb n="1"/>līcuraṉ mēti <gap reason="lost" quantity="4" unit="character" precision="low"/> mīcura kaṇṭaṉ kaṇṭa kaṇṭa kaṭṭāri cāḷuva Immaṭi naraciṅka-rāyar <gap reason="lost" quantity="6" unit="character" precision="low"/> yam paṇṇi-y-aruḷā niṉṟa cakāttam
+	<p>		
+		<lb n="1"/>līcuraṉ mēti<supplied reason="lost">ṉi</supplied>-mīcura kaṇṭaṉ kaṇṭa kaṇṭa kaṭṭāri cāḷuva Immaṭi naraciṅka-rāyar <gap reason="lost" quantity="6" unit="character" precision="low"/> yam paṇṇi-y-aruḷā niṉṟa cakāttam
 		<lb n="2"/><num value="1500">1500</num> Iravuttiri-<hi rend="grantha">samvatsa</hi>rattu Uttarāyaṇa-pūṟuva-pa<hi rend="grantha">kṣa</hi>ttu Aṭṭami nāḷ
 	</p>
 	<p>

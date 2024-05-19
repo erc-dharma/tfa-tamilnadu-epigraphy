@@ -88,28 +88,37 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<lb n="1"/>s<supplied reason="lost">vasti śrī</supplied>
+	</ab>
+	<p>
+		<gap reason="lost" quantity="4" unit="character" precision="low"/> c-ca <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="2" break="no"/>ra-va<reg>r</reg>tti kōṉēri <gap reason="lost" quantity="8" unit="character" precision="low"/>
+		<lb n="3" break="no"/>ṉ Uṭaiyār tiru-k-koṭuṅ-ku
+		<lb n="4" break="no"/>ṉṟam-uṭaiya ṉāyaṉār-kōyil
+		<lb n="5"/>tāṉattārkku Ik-kōyil mā
+		<lb n="6" break="no"/>ṭāpattiyam tirumalai Uṭaiyā
+		<lb n="7" break="no"/>ṉum tiru-mañcaṉam Uṭaiyāṉum
+		<lb n="8"/>kāṇi-y-āy varuva-c ceytu pō
+		<lb n="9" break="no"/>tukiṟa paṭiyālē Irupatt' eṭṭā
+		<lb n="10" break="no"/>vatu mutal Ivarkaḷukku cantirā
+		<lb n="11" break="no"/>titta-vaṟ cellum paṭi ka(l)lilum
+		<lb n="12"/>cempilum veṭṭi-k koḷ
+		<lb n="13" break="no"/>vat' āka-c coṉṉōm
+	</p>
+	<p>
+		Ip-paṭik
+		<lb n="14" break="no"/>ku kallilum cempilum ve(ṭ)
+		<lb n="15" break="no"/>ṭi-k kuṭukka Ivai caṟukampūr uṭai
+		<lb n="16" break="no"/>yāṉ Eḻuttu <g type="pc">.</g>		
+	</p>
 	<p>
 		
-		<lb n="1"/>s<gap reason="lost" quantity="8" unit="character" precision="low"/> cca<gap reason="lost" quantity="3" unit="character" precision="low"/>
-		<lb n="2"/>ra-va<reg>r</reg>tti kōṉēri<gap reason="lost" quantity="8" unit="character" precision="low"/>
-		<lb n="3"/>ṉ Uṭaiyār tirukkoṭuṅku
-		<lb n="4"/>ṉṟamuṭaiya ṉāyaṉār kōyil
-		<lb n="5"/>tāṉattārkku ikkōyil mā
-		<lb n="6"/>ṭāpattiyam tirumalai Uṭaiyā
-		<lb n="7"/>ṉum tirumañcaṉam Uṭaiyāṉum
-		<lb n="8"/>kāṇiyāy varuvac ceytu pō
-		<lb n="9"/>tukiṟapaṭiyālē irupatteṭṭā
-		<lb n="10"/>vatu mutal ivarkaḷukku cantirā
-		<lb n="11"/>tittavaṟ cellumpaṭi ka(l)lilum
-		<lb n="12"/>cempilum veṭṭik koḷ
-		<lb n="13"/>vatākac coṉṉōm ippaṭik
-		<lb n="14"/>ku kallilum cempilum ve(ṭ)
-		<lb n="15"/>ṭik kuṭukka ivai caṟukampūruṭai
-		<lb n="16"/>yāṉ eḻuttu u yāṇṭu 28 vatu
-		<lb n="17"/>nāḷ 220 ivai vāṇātarāyaṉ e
-		<lb n="18"/>ḻuttu :-
+		yāṇṭu 28-vatu
+		<lb n="17"/>nāḷ 220 Ivai vāṇātarāyaṉ E
+		<lb n="18" break="no"/>ḻuttu <g type="pc">.</g>
 		
 	</p>
 </div>

@@ -88,23 +88,25 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<lb n="1"/>svasti śrī
+	</ab>
+	
 	<p>
-		
-<lb n="1"/>svasti śrī tiripuvaṉaccakkara-va<reg>r</reg>ttikaḷ īḻamuṅ koṅkum cōḻa maṇṭalamuṅ koṇṭu vallāṉai
-<lb n="2"/>veṉṟu perumpaṟṟappuliyūril vīrāpiṣekamum vicaiyāpiṣekamum paṇṇi yaruḷiya śrī vīra
-<lb n="3"/>pāṇṭiya tēvarkku yāṇṭu 11 vatu tulā nāyiṟṟu apara pakṣattu saptamiyum putaṉkiḻamaiyum peṟ
-<lb n="4"/>ṟa uttiraṭṭāti nāḷ tirumalai nāṭṭut tirukkoṭuṅkuṉṟattu Uṭaiyār tirukkoṭuṅkuṉṟamuṭai
-<lb n="5"/>nāyaṉār tirukkōyilil tirunāvukkaracu tirumaṇṭapattu teṟkil tiruvācalil puṟavāyil tiruni
-<lb n="6"/>laikkup pakkaṅkaḷ eṭṭilum mēlpaṭiyilum mālai viḷakkāka irupatu viḷakku vaittā
-<lb n="7"/>ṉ nāṭṭukkum maṭṭēkkaḷittāṉ oṇṇa akaḷaṅkap pēraraiyaṉāṉa vīrapatip pēraraiyaṉ
-<lb n="8"/>tarmamākac cantirātityarāy iṭṭuvara i<gap reason="lost" quantity="6" unit="character" precision="low"/>
-<lb n="9"/>var mūvar uruvarāya nāyaṉār paṇṭāra nāyakaṟku ivaiyiṟṟukku aḷakkac ceyta ney
-<lb n="10"/>yuṅ koṇṭu ivviḷakku irupatum cantiyā kālan tuṭaṅki tiruvatta cāmamāka viṭṭu
-<lb n="11"/>nāḷ paṭāmal ittaḷittāṉ {read īttaḷittāṉ} Oṇṇa Akaḷaṅkap pēraiyaṉāṉa vīrapatip pēraiyaṉ
-<lb n="12"/>taṉmamākac cantirātittavaṟ cellaṟku itu paṉmākēcurar rakṣai u
- 		
+		tiri-puvaṉa-c-cakkara-va<reg>r</reg>ttikaḷ īḻamuṅ koṅkum cōḻa maṇṭalamuṅ koṇṭu vallāṉai
+		<lb n="2"/>veṉṟu perumpaṟṟappuliyūril vīrāpiṣekamum vicaiyāpiṣekamum paṇṇi yaruḷiya śrī vīra
+		<lb n="3"/>pāṇṭiya tēvarkku yāṇṭu 11 vatu tulā nāyiṟṟu apara pakṣattu saptamiyum putaṉkiḻamaiyum peṟ
+		<lb n="4"/>ṟa uttiraṭṭāti nāḷ tirumalai nāṭṭut tirukkoṭuṅkuṉṟattu Uṭaiyār tirukkoṭuṅkuṉṟamuṭai
+		<lb n="5"/>nāyaṉār tirukkōyilil tirunāvukkaracu tirumaṇṭapattu teṟkil tiruvācalil puṟavāyil tiruni
+		<lb n="6"/>laikkup pakkaṅkaḷ eṭṭilum mēlpaṭiyilum mālai viḷakkāka irupatu viḷakku vaittā
+		<lb n="7"/>ṉ nāṭṭukkum maṭṭēkkaḷittāṉ oṇṇa akaḷaṅkap pēraraiyaṉāṉa vīrapatip pēraraiyaṉ
+		<lb n="8"/>tarmamākac cantirātityarāy iṭṭuvara i<gap reason="lost" quantity="6" unit="character" precision="low"/>
+		<lb n="9"/>var mūvar uruvarāya nāyaṉār paṇṭāra nāyakaṟku ivaiyiṟṟukku aḷakkac ceyta ney
+		<lb n="10"/>yuṅ koṇṭu ivviḷakku irupatum cantiyā kālan tuṭaṅki tiruvatta cāmamāka viṭṭu
+		<lb n="11"/>nāḷ paṭāmal ittaḷittāṉ {read īttaḷittāṉ} Oṇṇa Akaḷaṅkap pēraiyaṉāṉa vīrapatip pēraiyaṉ
+		<lb n="12"/>taṉmamākac cantirātittavaṟ cellaṟku itu paṉmākēcurar rakṣai u
  	</p>
 </div>
 	

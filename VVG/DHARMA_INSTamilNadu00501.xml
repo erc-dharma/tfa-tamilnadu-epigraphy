@@ -88,16 +88,14 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>
-		
 		<lb n="1"/><gap reason="lost" quantity="17" unit="character" precision="low"/> malai
 		<lb n="2"/><gap reason="lost" quantity="3" unit="character" precision="low"/> Iṟai-y-ili-y-āka Iṭṭu variyilār <gap reason="lost" quantity="3" unit="character" precision="low"/> ṭṭa viḷava
 		<lb n="3" break="no"/>y-uṭaiyāṉ moṇṇai <gap reason="lost" quantity="3" unit="character" precision="low"/> rāṉ muk <gap reason="lost" quantity="7" unit="character" precision="low"/>
 		<lb n="4" break="no"/>-k-kūṟṟattu kaḻa-k-kūṟṟu viḷattūr-āṉa <gap reason="lost" quantity="1" unit="character" precision="low"/> ya
 		<lb n="5" break="no"/>tu Ivai maturōtaya-vaḷa-nāṭṭu karai Irukkai Uḻakkuṭi
-		
 	</p>
 </div>
 	

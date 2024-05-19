@@ -88,11 +88,13 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<lb n="1"/>(svasti śrī)
+	</ab>
 	<p>
-		
-<lb n="1"/>(svasti śrī) kōmāṟa paṉmarāṉa tiripuvaṉac cakkara-va<reg>r</reg>ttikaḷ emmaṇṭala
+		kōmāṟa paṉmarāṉa tiripuvaṉac cakkara-va<reg>r</reg>ttikaḷ emmaṇṭala
 <lb n="2"/><gap reason="lost" quantity="4" unit="character" precision="low"/> ṇṭaruḷiya śrī kulacēkara tēvakku yāṇṭu 36 vatu vruścika nāyaṟ
 <lb n="3"/>ṟu pūrva pakṣattu daśamiyum cevvāyk kiḻamaiyum peṟṟa uttaraṭṭāti nāḷ maruṅkūr
 <lb n="4"/>nāṭṭu nāṭṭavarom tirumalai nāṭṭut tiruk koṭuṅ kuṉṟattu<gap reason="lost" quantity="4" unit="character" precision="low"/> tiraṭṭap perun<gap reason="lost" quantity="4" unit="character" precision="low"/>
@@ -116,7 +118,6 @@
 <lb n="22"/>ṇṭiya vēḷārum ma<gap reason="lost" quantity="4" unit="character" precision="low"/>
 <lb n="23"/>kkirama pāṇṭiya vē<gap reason="lost" quantity="4" unit="character" precision="low"/>
 <lb n="24"/><gap reason="lost" quantity="26" unit="character" precision="low"/>
- 		
  	</p>
 </div>
 	

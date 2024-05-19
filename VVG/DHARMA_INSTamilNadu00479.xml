@@ -88,19 +88,18 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>
-		
-<lb n="1"/><gap reason="lost" quantity="3" unit="character" precision="low"/> koṇṭāṉ tiruk koṭuṅkuṉṟa muṭaiya
-<lb n="2"/><gap reason="lost" quantity="3" unit="character" precision="low"/> nivantaṅkaḷukku añcāvatu mutal kaṭa
-<lb n="3"/>vatāṉa yiṟaiyili yāka iṭṭu iṟukkumpaṭi ka
-<lb n="4"/>pilum veṭṭuvittuk koḷka ippaṭi col
-<lb n="5"/>vattikaḷ vikkiṟama pāṇṭiya tēvarkku yāṇ
-<lb n="6"/>ñ ceyvārkaḷ kōyiṟk kaṇakkarom kēraḷa ciṅka
-<lb n="7"/><gap reason="lost" quantity="8" unit="character" precision="low"/> me<gap reason="lost" quantity="5" unit="character" precision="low"/> kīḻpāl kuṭikkā<gap reason="lost" quantity="1" unit="character" precision="low"/>
- 		
- 	</p>
+		<lb n="1"/><gap reason="lost" quantity="3" unit="character" precision="low"/> koṇṭāṉ tiruk koṭuṅkuṉṟam-uṭaiya
+		<lb n="2"/><gap reason="lost" quantity="3" unit="character" precision="low"/> nivantaṅkaḷukku añcāvatu mutal kaṭa
+		<lb n="3"/>vatāṉa yiṟaiyili yāka iṭṭu iṟukkumpaṭi ka
+		<lb n="4"/>pilum veṭṭuvittuk koḷka ippaṭi col
+		<lb n="5"/>vattikaḷ vikkiṟama pāṇṭiya tēvarkku yāṇ
+		<lb n="6"/>ñ ceyvārkaḷ kōyiṟk kaṇakkarom kēraḷa ciṅka
+		<lb n="7"/><gap reason="lost" quantity="8" unit="character" precision="low"/> me<gap reason="lost" quantity="5" unit="character" precision="low"/> kīḻpāl kuṭikkā<gap reason="lost" quantity="1" unit="character" precision="low"/> 		
+	</p>
+	
 </div>
 	
 <!--<div type="apparatus">

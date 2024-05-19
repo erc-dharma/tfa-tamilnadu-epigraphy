@@ -88,16 +88,14 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>
-		
-<lb n="1"/><gap reason="lost" quantity="33" unit="character" precision="low"/>
-<lb n="2"/>c camaiyamum nitiyun tanmamun <gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="3"/><gap reason="lost" quantity="38" unit="character" precision="low"/>
-<lb n="4"/>ḷeṉṟula kētta<gap reason="lost" quantity="23" unit="character" precision="low"/>
-<lb n="5"/>vi<gap reason="lost" quantity="4" unit="character" precision="low"/> ciṟu vanta iṇai mala<gap reason="lost" quantity="14" unit="character" precision="low"/>
- 		
+		<lb n="1"/><gap reason="lost" quantity="33" unit="character" precision="low"/>
+		<lb n="2"/>c camaiyamum nitiyun tanmamun <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="3"/><gap reason="lost" quantity="38" unit="character" precision="low"/>
+		<lb n="4"/>ḷeṉṟula kētta<gap reason="lost" quantity="23" unit="character" precision="low"/>
+		<lb n="5"/>vi<gap reason="lost" quantity="4" unit="character" precision="low"/> ciṟu vanta iṇai mala<gap reason="lost" quantity="14" unit="character" precision="low"/>
  	</p>
 </div>
 	

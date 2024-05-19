@@ -88,17 +88,15 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>
-		
-<lb n="1"/>kaḷum iṟukkuṅ kōlāṉa talaivaka<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="2"/>ru nilamum āka ru uva m āka ru <gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="3"/>kēraḷa ciṅka vaḷa nāṭṭu veḷ yāṟ<gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="4"/>ttuk kīḻ kūṟṟattuk kāṉūruṭai<gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="5"/>ṇṭa villiyāṉa vatta rāyaṉ <gap reason="lost" quantity="6" unit="character" precision="low"/>
-<lb n="6"/><gap reason="lost" quantity="13" unit="character" precision="low"/> nallūr<gap reason="lost" quantity="13" unit="character" precision="low"/>
- 		
+		<lb n="1"/>kaḷum Iṟukkuṅ kōl-āṉa talaivaka <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="2"/>ru nilamum Āka ru uva m Āka ru<!--update! symbols!--> <gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="3"/>kēraḷa-ciṅka-vaḷanāṭṭu veḷ yāṟ <gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="4"/>ttu-k kīḻ kūṟṟattu-k kāṉūr uṭai <gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="5"/>ṇṭa villi-y-āṉa vatta rāyaṉ <gap reason="lost" quantity="6" unit="character" precision="low"/>
+		<lb n="6"/><gap reason="lost" quantity="5" unit="character" precision="low"/> nallūr <gap reason="lost" quantity="13" unit="character" precision="low"/>
  	</p>
 </div>
 	

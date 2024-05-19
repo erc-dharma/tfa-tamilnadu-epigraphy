@@ -88,16 +88,14 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
-	<p>
-		
-<lb n="1"/>tēvatāṉam paḷḷic cantam nīkki uḷḷa nilamum irupatā
-<lb n="2"/>tarac coṉṉōm ippaṭi cantirātittavarai celvitāka kalli
-<lb n="3"/>nīkki nīkki yuḷḷa nilamum 20 ḷu ṉetirā māṇṭu mutal
-<lb n="4"/>rukkuṭik kāvalūr kiḻavaṉ arayaṉ maturaip perumāḷ
-<lb n="5"/><gap reason="lost" quantity="2" unit="character" precision="low"/> rāyira muṭaiyā ṉāṉa kaliṅkat taraiya ṉeḻuttu
- 		
+	<p>		
+		<lb n="1"/>tēvatāṉam paḷḷic cantam nīkki uḷḷa nilamum irupatā
+		<lb n="2"/>tarac coṉṉōm ippaṭi cantirātittavarai celvitāka kalli
+		<lb n="3"/>nīkki nīkki yuḷḷa nilamum 20 ḷu ṉetirā māṇṭu mutal
+		<lb n="4"/>rukkuṭik kāvalūr kiḻavaṉ arayaṉ maturaip perumāḷ
+		<lb n="5"/><gap reason="lost" quantity="2" unit="character" precision="low"/> rāyira muṭaiyā ṉāṉa kaliṅkat taraiya ṉeḻuttu	
  	</p>
 </div>
 	

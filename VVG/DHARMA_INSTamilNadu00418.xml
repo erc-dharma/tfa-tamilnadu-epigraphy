@@ -88,12 +88,15 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<lb n="1"/>svasti śrī
+	</ab>
+	
 	<p>
-		
-<lb n="1"/>svasti śrī kōc caṭaiya paṉma rāṉa tiripu(va)ṉac cakkara-va<reg>r</reg>ttikaḷ śrī vīrapāṇṭiya tēvaṟku yāṇṭu 9 āvatu <gap reason="lost" quantity="3" unit="character" precision="low"/> peṟṟa
-<lb n="2"/>ttu nāḷ tirumalai nāṭṭut tiruk koṭuṅ kuṉṟattu Uṭaiyār tiruk koṭuṅ kuṉṟa muṭaiya nāyaṉār kōyil ātica<gap reason="lost" quantity="3" unit="character" precision="low"/> piḷḷaiyār tiru nāmattāl tēva kaṉmi śrī mākēccurak
+		kōc caṭaiya paṉma rāṉa tiripu(va)ṉac cakkara-va<reg>r</reg>ttikaḷ śrī vīrapāṇṭiya tēvaṟku yāṇṭu 9 āvatu <gap reason="lost" quantity="3" unit="character" precision="low"/> peṟṟa
+<lb n="2"/>ttu nāḷ tirumalai nāṭṭut tiruk koṭuṅ kuṉṟattu Uṭaiyār tiruk koṭuṅ kuṉṟam-uṭaiya nāyaṉār-kōyil ātica<gap reason="lost" quantity="3" unit="character" precision="low"/> piḷḷaiyār tiru nāmattāl tēva kaṉmi śrī mākēccurak
 <lb n="3"/><gap reason="lost" quantity="3" unit="character" precision="low"/> cī kāriyañ ceyvārkaḷ kōyiṟ kaṇakkarōm kēraḷa ciṅka vaḷa nāṭṭu aruvi yū rāṉa kulacēkara paṭṭaṇattu<gap reason="lost" quantity="3" unit="character" precision="low"/> ṉa tiruk koṭuṅ kuṉṟa muṭaiyāṉ civaṉeṟi kā<gap reason="lost" quantity="2" unit="character" precision="low"/>
 <lb n="4"/><gap reason="lost" quantity="3" unit="character" precision="low"/> piṭipāṭu paṇṇik kuṭutta paricāvatu ivar eḻuntaruḷivitta tiru(ma)ñcaṉam peṟṟa piḷḷaiyār nāya<gap reason="lost" quantity="3" unit="character" precision="low"/> pattaṟ karuḷ ceyva<gap reason="lost" quantity="2" unit="character" precision="low"/> ṉ tirumaṇṭapattē eḻun
 <lb n="5"/>taruḷiyiruntu pūcai koṇ ṭaruḷuva tāka tiru vamu tuḷḷiṭṭa nivantaṅkaḷukku niccayitta paṭiyā<gap reason="lost" quantity="4" unit="character" precision="low"/> yile nāḷ oṉṟukkuc ceppu nāḻi tirunā<gap reason="lost" quantity="2" unit="character" precision="low"/>
@@ -109,7 +112,6 @@
 <lb n="15"/><gap reason="lost" quantity="3" unit="character" precision="low"/> ṭakkum perumāḷeṉ eḻuttu pūmāṅ kaḻalāṇṭār aruḷic ceytapaṭikku cēramān tōḻaṉ eḻuttu ippaṭikku āṇṭā ṉalla maṅkai pākaṉ ālāla<gap reason="lost" quantity="3" unit="character" precision="low"/>
 <lb n="16"/>tu ippaṭikku ivai uyyaniṉṟāṭuvāṉ nallamaṅkai pākaṉ cuntarapāṇṭiya paṭṭaṉ eḻuttu ippaṭikku ivai kuṉikkum pirāṉ kuṉṟana<gap reason="lost" quantity="3" unit="character" precision="low"/>
 <lb n="17"/><gap reason="lost" quantity="4" unit="character" precision="low"/> ivai tēvakaṉmi pēraṇi maṇṭaka paṭṭaṉ eḻuttu ippaṭikku ippaṭikku ivai tiruṉāvukkaracaṉ ēkāmpira paṭṭaṉ eḻuttu ippaṭikku ivai<gap reason="lost" quantity="4" unit="character" precision="low"/>
- 		
  	</p>
 </div>
 	

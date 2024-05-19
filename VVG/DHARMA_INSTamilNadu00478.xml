@@ -88,19 +88,17 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
-	<p>
-		
-<lb n="1"/><gap reason="lost" quantity="2" unit="character" precision="low"/> si<gap reason="lost" quantity="3" unit="character" precision="low"/>
-<lb n="2"/>ku tiruppaṭi māṟ ṟuḷḷiṭṭu vē
-<lb n="3"/>mep pērppaṭṭaṉavum uṭppaṭa
-<lb n="4"/>tityavat celvatākak kal<gap reason="lost" quantity="1" unit="character" precision="low"/> lu
-<lb n="5"/><gap reason="lost" quantity="1" unit="character" precision="low"/> ṭaiya paṉmarāṉa tribhuva<gap reason="lost" quantity="1" unit="character" precision="low"/> ca<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="6"/><gap reason="lost" quantity="2" unit="character" precision="low"/> kāṇi ceyvār<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="7"/><gap reason="lost" quantity="3" unit="character" precision="low"/> kaiyil iva<gap reason="lost" quantity="3" unit="character" precision="low"/>
- 		
- 	</p>
+	<p>		
+		<lb n="1"/><gap reason="lost" quantity="2" unit="character" precision="low"/> si<gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="2"/>ku tiruppaṭi māṟ ṟuḷḷiṭṭu vē
+		<lb n="3"/>mep pērppaṭṭaṉavum uṭppaṭa
+		<lb n="4"/>tityavat celvatākak kal<gap reason="lost" quantity="1" unit="character" precision="low"/> lu
+		<lb n="5"/><gap reason="lost" quantity="1" unit="character" precision="low"/> ṭaiya paṉmarāṉa tribhuva<gap reason="lost" quantity="1" unit="character" precision="low"/> ca<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="6"/><gap reason="lost" quantity="2" unit="character" precision="low"/> kāṇi ceyvār<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="7"/><gap reason="lost" quantity="3" unit="character" precision="low"/> kaiyil iva<gap reason="lost" quantity="3" unit="character" precision="low"/>
+	</p>
 </div>
 	
 <!--<div type="apparatus">

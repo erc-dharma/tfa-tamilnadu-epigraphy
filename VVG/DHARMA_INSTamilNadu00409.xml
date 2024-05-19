@@ -88,11 +88,11 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
-	<p xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
 		<lb n="1"/>svasti śrī
-	</p>
+	</ab>
 	<p>
 		tri-bhu-vana-c-cakrava<reg>r</reg>tti kōnēriṉmaikoṇṭāṉ tiru-k-⌈
 		<lb n="2"/>koṭuṅ-kuṉṟattu Uṭaiyār nalla-maṅkai pākar kōyil pra
@@ -115,7 +115,7 @@
 		<lb n="19"/>ṉiyōka vācal viṉiyōkam iṟaiyaccu ko
 		<lb n="20"/>ṟṟilakkai kaṭaikkūṭṭu ilakkai taṟiiṟai ce
 		<lb n="21"/>kkiṟai taṭṭoli taṭṭārppāṭṭam ivvūril paḻantēvatā
-		<lb n="22"/>ṉam tiruviṭaiyāṭṭam ma<gap reason="lost" quantity="2" unit="character" precision="low"/> tta iṟaiyili nīṅkalāka niṉ
+		<lb n="22"/>ṉam tiruviṭaiyāṭṭam ma<gap reason="lost" quantity="2" unit="character" precision="low"/> tta iṟai-y-ili nīṅkalāka niṉ
 		<lb n="23"/>ṟa nilattukku ēri vari iṉavari vācalvari kāraṭai kuḷavaṭai o
 		<lb n="24"/>ḻukkunīrpāṭṭam <gap reason="lost" quantity="4" unit="character" precision="low"/> ṭima<gap reason="lost" quantity="3" unit="character" precision="low"/> mōr pāṭ
 		<lb n="25"/>ṭam uṭpaṭṭa aṉaittu upātikaḷum uṭpaṭat taṅkaḷ nā

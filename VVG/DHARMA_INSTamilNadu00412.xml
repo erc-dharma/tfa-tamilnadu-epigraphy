@@ -88,11 +88,13 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<lb n="1"/>svasti śrī
+	</ab>
 	<p>
-		
-<lb n="1"/>svasti śrī pūmalaṟ ṟiruvum poruḷcēr maṭantaiyun tāmaraik kuvimulai cayappuyat tiruppa veta<gap reason="lost" quantity="3" unit="character" precision="low"/> taḻat tāmaraik kā
+		pūmalaṟ ṟiruvum poruḷcēr maṭantaiyun tāmaraik kuvimulai cayappuyat tiruppa veta<gap reason="lost" quantity="3" unit="character" precision="low"/> taḻat tāmaraik kā
 <lb n="2"/>kulamātu kavimēṟ ṟiḷaippa veṇṭirai yuṭutta maṇṭiṇi kiṭakkait tirunilamaṭantai yurimai<gap reason="lost" quantity="4" unit="character" precision="low"/> nitiyun tarumamun
 <lb n="3"/>taḻaippa vimaiyavar vimākkoṭi yiṭantoṟu meṭuppak karuṅkali kaṉalkeṭak kaṭavuḷ veti<gap reason="lost" quantity="3" unit="character" precision="low"/> vaḻavic ceṅkō
 <lb n="4"/>l vaḷaṟpac curutiyun tamiḻun tolvaḷaṅ kulavap porutiṟa lāḻi pūtalañ cūḻa vorukai yirucevi<gap reason="lost" quantity="3" unit="character" precision="low"/> ṭaṭairāvata muta

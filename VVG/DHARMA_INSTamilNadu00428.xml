@@ -88,14 +88,17 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<lb n="1"/>svasti śrī
+	</ab>
+	
 	<p>
-		
-		<lb n="1"/>svasti śrī māḷavac cakkara-va<reg>r</reg>tti ōlai tiruk koṭuṅkuṉṟattu Uṭaiyār tiruk koṭuṅ kuṉṟa muṭaiya nāyaṉār kōyil tāṉattār
-		<lb n="2"/>kku iṟaiyili tēva tāṉamākak kuṭutta pōḻakāra nāṭṭu ātiyārkuṭi yāṉa muṭi tāṅki nallūril viṭṭa nīr nilam nāṟpatu māvum puṉcey nūṟu mā
-		<lb n="3"/>vum puṉcey nūṟṟu māvukkum āmpal ūruṇikkum villiyār ēmpalukkum ellaiyāvatu kīḻpāṟkellai teṟku nōkkip pōṉa nāṭṭāṟṟu e<gap reason="lost" quantity="3" unit="character" precision="low"/>
-		
+		māḷava-c-cakkara-va<reg>r</reg>tti Ōlai tiru-k-koṭuṅ-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉār-kōyil tāṉattār
+		<lb n="2" break="no"/>kku iṟai-y-ili tēva-tāṉam-āka-k kuṭutta pōḻakāra-nāṭṭu Ātiyārkuṭi-y-āṉa muṭi-tāṅki-nallūril viṭṭa nīr-nilam nāṟpatu māvum puṉcey nūṟu mā
+		<lb n="3" break="no"/>vum puṉcey nūṟṟu māvukkum Āmpal Ūruṇikkum villiyār Ēmpalukkum Ellai y-āvatu
+		kīḻ-pāṟk' ellai teṟku nōkki-p pōṉa nāṭṭāṟṟu E <gap reason="lost" quantity="3" unit="character" precision="low"/>
 	</p>
 	
 </div>

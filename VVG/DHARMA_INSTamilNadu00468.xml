@@ -88,7 +88,7 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>
 		<lb n="1"/><hi rend="grantha">giri</hi>-parvatē <hi rend="grantha">śa</hi>
@@ -133,7 +133,7 @@
 		<lb n="37"/>ttu-p <gap reason="lost" quantity="21" unit="character" precision="low"/>
 		<lb n="38"/><gap reason="lost" quantity="25" unit="character" precision="low"/>
 		<lb n="39"/>Āku <gap reason="lost" quantity="21" unit="character" precision="low"/>
-		<lb n="40"/>peri ṉāṅk' ellaikk' u <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		<lb n="40"/>peri ṉāṅk' ellaikk' U <gap reason="lost" quantity="2" unit="character" precision="low"/>
 		<lb n="41"/>ḷ-p-paṭṭa nañcai kuḷamum ku <gap reason="lost" quantity="3" unit="character" precision="low"/>
 		<lb n="42"/>puravum vayalum vayal <gap reason="lost" quantity="4" unit="character" precision="low"/>
 		<lb n="43"/><gap reason="lost" quantity="2" unit="character" precision="low"/> vum mēl nōkkiya maramum

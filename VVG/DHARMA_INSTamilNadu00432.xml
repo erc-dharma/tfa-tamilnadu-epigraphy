@@ -88,13 +88,15 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<lb n="1"/>śrī
+	</ab>
 	<p>
-		
-		<lb n="1"/>śrī kō māṟa paṉmarāṉa tribhuvaṉa cakra-va<reg>r</reg>ttikaḷ em maṇṭalamuṅ koṇ ṭaruḷiya śrī kulacēkara tēvarkku yāṇ
+		kō māṟa paṉmarāṉa tribhuvaṉa cakra-va<reg>r</reg>ttikaḷ em maṇṭalamuṅ koṇ ṭaruḷiya śrī kulacēkara tēvarkku yāṇ
 		<lb n="2"/>ṭu 34 āvatu mitu3na nāyaṟṟu pūrvapakṣattu trutiyaiyum putaṉkiḻamaiyum peṟṟa puṉarpūcattu nāḷ tirumalai nā
-		<lb n="3"/>ṭṭut tiruk koṭuṅ kuṉṟattu Uṭaiyār tiruk koṭuṅkuṉṟa muṭaiya nāyaṉār kōyil śrī paṇṭārattārōm
+		<lb n="3"/>ṭṭut tiruk koṭuṅ kuṉṟattu Uṭaiyār tiruk koṭuṅkuṉṟam-uṭaiya nāyaṉār-kōyil śrī paṇṭārattārōm
 		<lb n="4"/>kīḻ vempa nāṭṭu irācavalli purattuk koṉṟai cēr muṭiyaṉ tirunelvēli Uṭaiyāṉāṉa tacca vēḷaikkāṟar
 		<lb n="5"/>kku piṭipāṭu paṇṇik kuṭutta paricāvatu in nāyaṉārkkum nallamaṅkaiyārkkum tām ceyvitta mahāmaṇṭa
 		<lb n="6"/>pattukku irākkālattil cantiyā tīpat tiruviḷak kiṭuvatāka varak kāṭṭit tiru viḷak kiṭaiyar vacam aṭaitta muṉṉāḷ mup
@@ -111,7 +113,6 @@
 		<lb n="17"/>malai nāṭu paṭṭa reḻuttu ippaṭikku ēkāmpara paṭṭa reḻuttu ippaṭikku ivai māṭā pattiyam
 		<lb n="18"/>tirumalai yuṭaiyār eḻuttu ippaṭikku ivai tiru mañcaṇa muṭaiyā ṉeḻuttu ivai kōyil kaṇakku tirucciṟṟampalamuṭaiyā
 		<lb n="19"/>ṉ eḻuttu
- 		
  	</p>
 </div>
 	

@@ -88,24 +88,22 @@
 
 <body>
          
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215"><!--Check @ rendition-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>
-		
-<lb n="1"/><gap reason="lost" quantity="5" unit="character" precision="low"/> bhuvaṉaccakra<gap reason="lost" quantity="29" unit="character" precision="low"/> ṇa<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="2"/><gap reason="lost" quantity="5" unit="character" precision="low"/> tavarkku yāṇṭu 34 āvatu tirumalai nāṭṭu tiru<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="3"/><gap reason="lost" quantity="5" unit="character" precision="low"/> ṭayā<gap reason="lost" quantity="1" unit="character" precision="low"/> tirukkoṭuṅ-kuṉṟam-uṭaiya nāyaṉār<gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="4"/><gap reason="lost" quantity="5" unit="character" precision="low"/> kalava <gap reason="lost" quantity="6" unit="character" precision="low"/> nāṭṭu iraṇiyūr iḷaiyāttakkuṭi nā<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="5"/><gap reason="lost" quantity="5" unit="character" precision="low"/> ṇi kuṭutta paricāvatu iṉṉāḷ iṉṉāyaṉārkku<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="6"/><gap reason="lost" quantity="5" unit="character" precision="low"/> nta vaṉap puṟamāṉa vallāṇṭiyār kuṭi<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="7"/><gap reason="lost" quantity="5" unit="character" precision="low"/> Uṭaiyār vāṟaṇicaram <gap reason="lost" quantity="6" unit="character" precision="low"/> nāyaṉār<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="8"/><gap reason="lost" quantity="5" unit="character" precision="low"/> yilave<gap reason="lost" quantity="7" unit="character" precision="low"/> ārukku maṭappu<gap reason="lost" quantity="7" unit="character" precision="low"/> āka kuṭut<gap reason="lost" quantity="4" unit="character" precision="low"/>
-<lb n="9"/><gap reason="lost" quantity="5" unit="character" precision="low"/> kap pōkaiyil cātaṉamum vāṅki<gap reason="lost" quantity="5" unit="character" precision="low"/>
-<lb n="10"/><gap reason="lost" quantity="5" unit="character" precision="low"/> vaṭṭuk<gap reason="lost" quantity="42" unit="character" precision="low"/>
-<lb n="11"/><gap reason="lost" quantity="5" unit="character" precision="low"/> kkāṭ<gap reason="lost" quantity="44" unit="character" precision="low"/>
-<lb n="12"/><gap reason="lost" quantity="5" unit="character" precision="low"/> nā<gap reason="lost" quantity="49" unit="character" precision="low"/>
- 		
- 	</p>
+		<lb n="1"/><gap reason="lost" quantity="5" unit="character" precision="low"/> bhuvaṉaccakra<gap reason="lost" quantity="29" unit="character" precision="low"/> ṇa<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="2"/><gap reason="lost" quantity="5" unit="character" precision="low"/> tavarkku yāṇṭu 34 āvatu tirumalai nāṭṭu tiru<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="3"/><gap reason="lost" quantity="5" unit="character" precision="low"/> ṭayā<gap reason="lost" quantity="1" unit="character" precision="low"/> tirukkoṭuṅ-kuṉṟam-uṭaiya nāyaṉār<gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="4"/><gap reason="lost" quantity="5" unit="character" precision="low"/> kalava <gap reason="lost" quantity="6" unit="character" precision="low"/> nāṭṭu iraṇiyūr iḷaiyāttakkuṭi nā<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="5"/><gap reason="lost" quantity="5" unit="character" precision="low"/> ṇi kuṭutta paricāvatu iṉṉāḷ iṉṉāyaṉārkku<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="6"/><gap reason="lost" quantity="5" unit="character" precision="low"/> nta vaṉap puṟamāṉa vallāṇṭiyār kuṭi<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="7"/><gap reason="lost" quantity="5" unit="character" precision="low"/> Uṭaiyār vāṟaṇicaram <gap reason="lost" quantity="6" unit="character" precision="low"/> nāyaṉār<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="8"/><gap reason="lost" quantity="5" unit="character" precision="low"/> yilave<gap reason="lost" quantity="7" unit="character" precision="low"/> ārukku maṭappu<gap reason="lost" quantity="7" unit="character" precision="low"/> āka kuṭut<gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="9"/><gap reason="lost" quantity="5" unit="character" precision="low"/> kap pōkaiyil cātaṉamum vāṅki<gap reason="lost" quantity="5" unit="character" precision="low"/>
+		<lb n="10"/><gap reason="lost" quantity="5" unit="character" precision="low"/> vaṭṭuk<gap reason="lost" quantity="42" unit="character" precision="low"/>
+		<lb n="11"/><gap reason="lost" quantity="5" unit="character" precision="low"/> kkāṭ<gap reason="lost" quantity="44" unit="character" precision="low"/>
+		<lb n="12"/><gap reason="lost" quantity="5" unit="character" precision="low"/> nā<gap reason="lost" quantity="49" unit="character" precision="low"/>
+	</p>
 </div>
 	
 <!--<div type="apparatus">
