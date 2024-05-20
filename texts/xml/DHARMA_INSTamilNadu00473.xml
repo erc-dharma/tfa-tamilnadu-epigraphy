@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pirāṉmalai, X temple, time of X, year X</title>
+				<title>Pirāṉmalai, Maṅkai Pākar, no year</title>
 			    <respStmt>
 			        <resp>intellectual authorship of edition</resp>
 			        <persName ref="part:vija">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Label of a sculpture.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -93,11 +93,13 @@
 	<p>		
 		<lb n="1"/><g type="pcs"/> Ēmūr-uṭaiyā
 		<lb n="2" break="no"/>r neṭu-vayal peri
-		<lb n="3" break="no"/>ya-kuppāṉ ceṭṭi
+		<lb n="3" break="no"/>ya kuppāṉ ceṭ=ṭi
 		<lb n="4" break="no"/>yār makaṉ cevan
-		<lb n="5" break="no"/>ti-ṉāta-ceṭṭiyār
-		<lb n="6"/><g type="pcs"/>Ivaḷ Aṭaik
-		<lb n="7" break="no"/>kāttāḷ <g type="pcs">.</g>
+		<lb n="5" break="no"/>ti-ṉāta-ceṭ=ṭiyār
+	</p>
+	<p>
+		<lb n="6"/><g type="pcs"/> Ivaḷ Aṭai<!--EF: possibly "Aṭ=ṭai"-->k
+		<lb n="7" break="no"/>kāttāḷ <g type="pcs"/>
  	</p>
 </div>
 	
@@ -112,13 +114,21 @@
 	
 </div>-->
       	
-<!--<div type="translation" resp="part:emfr">
+<div type="translation" resp="part:emfr">
       		
-      		<p n="1">
+      		<p n="1-5">
+      			<supplied reason="subaudible">This is</supplied>
+      			Cevantiṉāta Ceṭṭiyār,
+      			the son of Periya Kuppāṉ Ceṭṭiyār
+      			of Neṟuvayal,
+      			Lord of Ēmūr.
+      		</p>
+	
+      		<p n="6-7">
       			...
       		</p>
       		
-</div>-->
+</div>
 	
 <!--<div type="commentary">
       		
