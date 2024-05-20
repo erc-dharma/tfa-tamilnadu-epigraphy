@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pirāṉmalai, X temple, time of X, year X</title>
+				<title>Pirāṉmalai, Maṅkai Pākar, no year</title>
 			    <respStmt>
 			        <resp>intellectual authorship of edition</resp>
 			        <persName ref="part:vija">
@@ -91,16 +91,19 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī  
+		<lb n="1"/><supplied reason="lost">svas</supplied>ti śr<supplied reason="lost">ī</supplied>
 	</ab>
 	
 	<p>
-		tribhuvaṉac cakkara-va<reg>r</reg>ttikaḷ śrī<gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="2"/>-10 vatu tirumalai-nāṭṭu-t<gap reason="lost" quantity="6" unit="character" precision="low"/>
-		<lb n="3"/>nār śrī kōyilil piḷḷaiya<gap reason="lost" quantity="5" unit="character" precision="low"/>
-		<lb n="4"/>va nāmattāl cōḻa pāṇṭiya<gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="5"/>ṟṟuḻāṉ tiruvēkampamuṭai<gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="6"/>vēḷān<gap reason="lost" quantity="6" unit="character" precision="low"/> 		
+		<hi rend="grantha">tri-bhu</hi>vaṉac cakkara-va<reg>r</reg>ttikaḷ <hi rend="grantha"><unclear>śrī</unclear></hi>
+		<lb n="2"/><gap reason="illegible" quantity="1" unit="character"/> <num value="10"><g type="numeral">10</g></num>-vatu
+	</p>
+	<p>
+		tiru-malai-nāṭṭu-t <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		<lb n="3"/>nār <hi rend="grantha">śrī</hi>-kōyilil piḷḷaiy<unclear>ā</unclear> <gap reason="lost" quantity="1" unit="character" precision="low"/>
+		<lb n="4"/>va nāmattāl cōḻa-pāṇṭiya <gap reason="lost" quantity="1" unit="character" precision="low"/>
+		<lb n="5"/>ṟṟuḻāṉ tiru-v-ēkampam-u<unclear>ṭai</unclear> <gap reason="lost" quantity="1" unit="character" precision="low"/>
+		<lb n="6"/>vēḷā<unclear>r</unclear> <gap reason="lost" quantity="10" unit="character" precision="low"/> 		
  	</p>
 </div>
 	

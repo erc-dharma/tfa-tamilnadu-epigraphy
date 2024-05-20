@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pirāṉmalai, X temple, time of X, year X</title>
+				<title>Pirāṉmalai, Maṅkai Pākar, Ukkirakirīcuvarar, time of Vikrama Pāṇḍya, year lost</title>
 			    <respStmt>
 			        <resp>intellectual authorship of edition</resp>
 			        <persName ref="part:vija">
@@ -27,7 +27,7 @@
 			<publicationStmt>
 				<authority>DHARMA</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00482</idno>
+				<idno type="filename">DHARMA_INSTamilNadu00479</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Fragment.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -90,11 +90,23 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
-	<p>		
-		<lb n="1"/><gap reason="lost" quantity="4" unit="character" precision="low"/> paṭiyēṟṟa maru <gap reason="lost" quantity="3" unit="character" precision="low"/> rukam vaṭu <gap reason="lost" quantity="2" unit="character" precision="low"/>
-		<lb n="2"/>m <gap reason="lost" quantity="4" unit="character" precision="low"/> ṉāṭṭu-t teliṅka <gap reason="lost" quantity="5" unit="character" precision="low"/> purattu
-		<lb n="3"/>v-uṭaiyāṉ Uttamāṇa <gap reason="lost" quantity="4" unit="character" precision="low"/> nām <gap reason="lost" quantity="3" unit="character" precision="low"/>		
+	<p>
+		<lb n="1"/>
+		<gap reason="lost" quantity="3" unit="character" precision="low"/>
+		k<supplied reason="lost">o</supplied><!--kompu only lost-->ṇṭāṉ tiru-k-koṭuṅ-kuṉṟam-uṭaiya
+		
+		<lb n="2"/>
+		<gap reason="lost" quantity="3" unit="character" precision="low"/>
+		nivantaṅkaḷukku Añc-āvatu mutal kaṭa<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg>
+		
+		<lb n="3"/>vatāṉa y-iṟai-y-ili-y-āka Iṭṭu Iṟukkum paṭi ka
+		<lb n="4"/>pilum veṭṭuvittu-k koḷka Ip-paṭi col
+		<lb n="5"/>va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-vikkiṟama-pāṇṭiya-tēvarkku yāṇ
+		<lb n="6"/>ñ ceyvārkaḷ kōyiṟ-k-kaṇakkarōm kēraḷa-ciṅka
+		<lb n="7"/><gap reason="lost" quantity="8" unit="character" precision="low"/> -āṉa mē<unclear>kkum</unclear>
+		k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāl kuṭikkā <gap reason="lost" quantity="1" unit="character" precision="low"/>
 	</p>
+	
 </div>
 	
 <!--<div type="apparatus">
@@ -122,18 +134,20 @@
       	
 <div type="bibliography">
 	
-	<p>Reported and edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 82), with photos.</p>
+	<p>Reported and edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 79), with photos.</p>
 		
 	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
 	
 	<listBibl type="primary">
 		
+		
+		
 		<bibl n="V">
 			<ptr target="bib:Vijayavenugopal2022_01"/>
-			<citedRange unit="item">82</citedRange>
-			<citedRange unit="page">186</citedRange>
+			<citedRange unit="item">79</citedRange>
+			<citedRange unit="page">183</citedRange>
 		</bibl>
-      		      			
+		
 	</listBibl>
 	
         </div>

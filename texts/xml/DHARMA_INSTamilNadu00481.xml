@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pirāṉmalai, X temple, time of X, year X</title>
+				<title>Pirāṉmalai, Maṅkai Pākar, Ukkirakirīcuvarar, no year</title>
 			    <respStmt>
 			        <resp>intellectual authorship of edition</resp>
 			        <persName ref="part:vija">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Fragment.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -92,8 +92,8 @@
 			
 	<p>		
 		<lb n="1"/>yar Aṟuṅku <gap reason="lost" quantity="6" unit="character" precision="low"/>
-		<lb n="2"/>ka kaṭavat' āka-c coṉṉōm
-		<lb n="3"/>lum veṭṭi-k koḷka veṉṟu Ut
+		<lb n="2"/>āka kaṭavat' āka-c coṉṉōm
+		<lb n="3"/>lum veṭṭi-k koḷka v-eṉṟu tē
 		<lb n="4"/>vikkirama-pāṇṭiya-Uttama-mana		
  	</p>
 </div>
@@ -123,7 +123,7 @@
       	
 <div type="bibliography">
 	
-	<p>Reported and e dited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 81), with photos.</p>
+	<p>Reported and edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 81), with photos.</p>
 		
 	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
 	
