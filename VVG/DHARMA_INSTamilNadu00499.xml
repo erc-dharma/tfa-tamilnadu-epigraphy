@@ -213,7 +213,7 @@
 	
 	<p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/154).</p>
 	
-	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.442), in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 99), with photos.</p>
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.442); edited and translated in <bibl><ptr target="bib:Subbarayalu+al2002_01"/></bibl>; edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 99), with photos.</p>
 		
 	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
 	
@@ -223,6 +223,12 @@
 			<ptr target="bib:SubrahmanyaAiyer1937_01"/>
 			<citedRange unit="item">442</citedRange>
 			<citedRange unit="page">231-232</citedRange>
+		</bibl>
+		
+		<bibl n="YS">
+			<ptr target="bib:Subbarayalu+al2002_01"/>
+			<citedRange unit="item">37</citedRange>
+			<citedRange unit="page">275-281</citedRange>
 		</bibl>
 		
 		<bibl n="V">
