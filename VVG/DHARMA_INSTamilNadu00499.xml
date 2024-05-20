@@ -114,11 +114,32 @@
 		<lb n="6" break="no"/>ṅ
 	</p>
 	<p>
-		<hi rend="grantha">kṣa</hi>maiyiṉoṭuṅ karuṇai y-eyta-c camaiya taṉmai y-iṉitu naṭātta nakaḻā niṉṟa nāṉku ticai <hi rend="grantha">samasta</hi>-lōka-p patiṉeṇ viṣaiyattōmum Eṭṭai vaṭṭai y-iṭaivaṭṭaikaḷiṟ ticai viḷaṅku ticai y-āyiratt' aiññūṟṟu(va)rōmum Ēṟucāt taṟaṅku cāttu-t
-		<lb n="7"/>ticai viḷaṅku ticai y-āyiratt' aiñ-ñūṟṟuvarōmum Aṟṟaivaṭṭai y-aruvaṭṭai nārattarai nalvāttarai tacaiviḷaṅku tacai y-āyiratt' aiñ-ñūṟṟuvarōmum Aṟaṅkaḷ taraṅkaḷiṟ ticai viḷaṅku ticai y-āyirat t' aiñ-ñūṟṟuvarōmum nāṭu nakaraṅkaḷiṟ ticai viḷaṅku
-		<lb n="8"/>ticai y-āyiratt' aiñ-ñūṟṟuvarōmum kēraḷa-ciṅka-vaḷanāṭṭu Aruvi-mā-ṉakaram-āṉa kula-cēkara-p-paṭṭiṉattu nakarattōmun tuvarāpati-nāṭṭu Eṟi-paṭai-nallūr vaṭamaṭṭai nakarattōmum puṟamalai-nāṭṭu putu-t-teru-v-āṉa cēra-nārāyaṇa-purattu nakarattōmum kaṭal aṭaiyā tilaṅkai koṇṭa cōḻa-vaḷanā
-		<lb n="9" break="no"/>ṭṭu Uṟattūr kūṟṟa-k koṭumpāḷūr maṇi-k-kirāmattu nakarattōmun tiru-k-kōṭṭiyūr maṇi-y-ampalattu nakarattōmum kēraḷa-ciṅka-vaḷanāṭṭu Aḷakāpuram-āṉa ceḻiya-nārāyaṇa-purattu nakarattōmum (Aiya)poḻil vaḷanāṭṭu-k kalvāyil nāṭṭu-c cuntara-pāṇṭiya-purattu nakarattōmum kaḷavaḻi nāṭṭu Aḷakai
-		<lb n="10"/>mā-ṉakaram-āṉa jayaṅ-koṇṭa-cōḻa-p-perun-teru nakarattōmum maṇṭalikaṉ kempīra-p-perun-teru nakarattōmum paṉṉ-iraṇṭu nakarattu jayaṅ-koṇṭa-cōḻapuram Uḷḷiṭṭa nakarattōmum karuvūr kaṇṇapuram paṭṭāli talaiyūr Irār<!--sic?-->āpuraṅ kīraṉūr Uḷḷiṭṭa pala nakaraṅkaḷil nakarattōmun tirumalai-nāṭṭu-t
+		<hi rend="grantha">kṣa</hi>maiyiṉoṭuṅ karuṇai y-eyta-c camaiya taṉmai y-iṉitu naṭātta nakaḻā niṉṟa nāṉku ticai <hi rend="grantha">samasta</hi>-lōka-p patiṉeṇ viṣaiyattōmum
+		
+		<list>
+			<item>Eṭṭai vaṭṭai y-iṭaivaṭṭaikaḷiṟ ticai viḷaṅku ticai y-āyiratt' aiññūṟṟu(va)rōmum</item>
+			<item>Ēṟucāt taṟaṅku cāttu-t
+				<lb n="7"/>ticai viḷaṅku ticai y-āyiratt' aiñ-ñūṟṟuvarōmum</item>
+			<item>Aṟṟaivaṭṭai y-aruvaṭṭai nārattarai nalvāttarai tacaiviḷaṅku tacai y-āyiratt' aiñ-ñūṟṟuvarōmum</item>
+			<item>Aṟaṅkaḷ taraṅkaḷiṟ ticai viḷaṅku ticai y-āyirat t' aiñ-ñūṟṟuvarōmum</item>
+			<item>nāṭu nakaraṅkaḷiṟ ticai viḷaṅku
+				<lb n="8"/>ticai y-āyiratt' aiñ-ñūṟṟuvarōmum</item>
+			<item>kēraḷa-ciṅka-vaḷanāṭṭu Aruvi-mā-ṉakaram-āṉa kula-cēkara-p-paṭṭiṉattu nakarattōmun</item>
+			<item>tuvarāpati-nāṭṭu Eṟi-paṭai-nallūr vaṭamaṭṭai nakarattōmum</item>
+			<item>puṟamalai-nāṭṭu putu-t-teru-v-āṉa cēra-nārāyaṇa-purattu nakarattōmum</item>
+			<item>kaṭal aṭaiyā tilaṅkai koṇṭa cōḻa-vaḷanā
+				<lb n="9" break="no"/>ṭṭu Uṟattūr kūṟṟa-k koṭumpāḷūr maṇi-k-kirāmattu nakarattōmun</item>
+			<item>tiru-k-kōṭṭiyūr maṇi-y-ampalattu nakarattōmum</item>
+			<item>kēraḷa-ciṅka-vaḷanāṭṭu Aḷakāpuram-āṉa ceḻiya-nārāyaṇa-purattu nakarattōmum</item>
+			<item>(Aiya)poḻil vaḷanāṭṭu-k kalvāyil nāṭṭu-c cuntara-pāṇṭiya-purattu nakarattōmum</item>
+			<item>kaḷavaḻi-nāṭṭu Aḷakai
+				<lb n="10"/>mā-ṉakaram-āṉa jayaṅ-koṇṭa-cōḻa-p-perun-teru nakarattōmum</item>
+			<item>maṇṭalikaṉ kempīra-p-perun-teru nakarattōmum</item>
+			<item>paṉṉ-iraṇṭu nakarattu jayaṅ-koṇṭa-cōḻapuram Uḷḷiṭṭa nakarattōmum</item>
+			<item>karuvūr kaṇṇapuram paṭṭāli talaiyūr Irār<!--sic?-->āpuraṅ kīraṉūr Uḷḷiṭṭa pala nakaraṅkaḷil nakarattōmun</item>
+		</list>
+		
+		tirumalai-nāṭṭu-t
 		<lb n="11"/>tiru-k-koṭuṅ-kuṉṟattu tiru-malai y-aṭivārattu māṟkka vakai tītta mutaliyār nāyaṉār Uṭaiyār Aḻakiya tiru-c-ciṟṟ-ampalam-uṭaiya nāyaṉār tiru-k-kōyilun tiru-k-kuḷamum maṭamun tirumaṭai viḷākamum patiṉ eṇ viṣaiyattār ra<hi rend="grantha">kṣai</hi> yātalāl Iṉ-ṉāyaṉār kōyil tiru-k-kāva-ṇattu niṟaivaṟa niṟain
 		<lb n="12" break="no"/>tu kuṟaivaṟa-k kūṭa Amaiya-p pēci Icaiya-c ceyta taṉma-camaiya-k-kāriyam āvatu Iṉ-ṉāyaṉārkku-t tiru-p-paṭimāṟṟukkun tiruppaṇikkun tirupparicaṭṭan tirumēṟpūccukku Inta maṭattukkum maṟṟum Uḷḷa nimantaṅkaḷukkum cantirātitta-vaṟ celvat' āka vaittuk kuṭutta paṭi Āvatu
 	</p>
@@ -213,7 +234,7 @@
 	
 	<p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/154).</p>
 	
-	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.442); edited and translated in <bibl><ptr target="bib:Subbarayalu+al2002_01"/></bibl>; edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 99), with photos.</p>
+	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.442); text, with the translation by K.V. Subrahmanya Aiyer<!--QJMS: add in Zotero-->, in <bibl><ptr target="bib:Subbarayalu+al2002_01"/></bibl>; edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 99), with photos.</p>
 		
 	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
 	
