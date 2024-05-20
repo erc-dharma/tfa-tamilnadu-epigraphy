@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pirāṉmalai, X temple, time of X, year X</title>
+				<title>Pirāṉmalai, X temple, time of X, Śaka year 1360</title>
 			    <respStmt>
 			        <resp>intellectual authorship of edition</resp>
 			        <persName ref="part:vija">
@@ -95,23 +95,30 @@
 	</ab>
 	
 	<p>
-		śrīmaṉ mahāmaṇṭalīśvaran pāṣaikkut tappuva rāyara kaṇṭaṉ mūvarāyara kaṇṭa
-		<lb n="2"/>ṉ kaṇṭa nāṭu koṇṭu koṇṭa nāṭu koṭātāṉ pūṟuva dekṣaṇa paścimottara
-		<lb n="3"/>samudrādhipati śrīvīrapradhāpa devarāya mahārāyar pridhivi rājyam paṇṇi aruḷā niṉ
-		<lb n="4"/>ṟa śakābtam 1360 ṉ mel cellāniṉṟa kāla yukti samvaṟsarattu kaṟkaṭaka nāyaṟu pūrvvapa
-		<lb n="5"/>kṣattu daśamiyum (bhuda)vāramum peṟṟa vicākattu nāḷ pāṇṭi maṇṭalattu tirumalai nāṭ
-		<lb n="6"/>ṭu tirukkoṭuṅ-kuṉṟattu Uṭaiyār tirukkoṭuṅ-kuṉṟam-uṭaiya nāyinārkkum nalla ma
-		<lb n="7"/>ṅkai pākarkkum śrīmaṉ mahā pradhāṉaṉ dakṣiṇa samudrādhipati lakṣaṇa dhaṇṇāyakka
-		<lb n="8"/>uṭaiyar tampiyar Uṭaiyar mātaṇa Uṭaiyar upaiyamāka nāḷtōṟum amutu
-		<lb n="9"/>ce(yya vāra)m oṉṟukku tirumañcaṉa(t)tukkum cāttuppaṭikkum tirupparivaṭṭattukkum a
-		<lb n="10"/>mutupaṭi kaṟi amutu paṭi veñjaṉa(t)[tu]kkum āka ivvakaippaṭikku vēṇṭuṅ ka
-		<lb n="11"/>[ṭṭaḷaippaṭikku ku]ṭutta immaṇṭalattu curapi nāṭṭu aṟunūṟṟuvaṉ ē
-		<lb n="12"/>ri U[ḷḷatu iṉta ūr o]ṉṟukku nāṉkellaikku uṭpaṭṭa nattamum nañ[-ai]ca
-		<lb n="13"/>puñ[caiyum kuḷamum]pācipāṭṭam maṟṟum eṟpēṟpaṭṭa upātikaḷu[m tāra]ā
-		<lb n="14"/>pū[rvam āka taṉta aḷavukku]inta ūr cantiṟātittavaraiyum cel[vatāka nattatti]
-		<lb n="15"/>lu[m nāṉkel]laiyilum tiruccūlakkallu nāṭṭik kallilum [cempilum]
-		<lb n="16"/>veṭṭikko[ḷ]ḷa śubham astu
- 	</p>
+		śrīmaṉ-mahā-maṇṭalīśvaran pāṣaikku-t tappuva-rāyara kaṇṭaṉ mū-v-arāyara kaṇṭa
+		<lb n="2" break="no"/>ṉ kaṇṭa nāṭu koṇṭu koṇṭa nāṭu koṭātāṉ pūṟuva-dekṣaṇa-paścimottara
+		<lb n="3" break="no"></lb>samudrādhipati-śrī-vīra-pradhāpa-devarāya-mahārāyar pridhivi-rājyam paṇṇi-Aruḷā niṉ
+		<lb n="4" break="no"/>ṟa śakābtam <num value="1360">1000 3 100 6 10</num>-ṉ mēl cellā niṉṟa kāla-yukti-samvaṟsarattu kaṟkaṭaka-nāyaṟu pūrvva-pa
+		<lb n="5" break="no"/>kṣattu daśamiyum (bhuda)-vāramum peṟṟa vicākattu nāḷ
+	</p>
+	<p>
+		pāṇṭi-maṇṭalattu tiru-malai-nāṭ
+		<lb n="6" break="no"/>ṭu tiru-k-koṭuṅ-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyinārkkum nalla-ma
+		<lb n="7" break="no"/>ṅkai pākarkkum śrīmaṉ-mahā-pradhāṉaṉ dakṣiṇa-samudrādhipati-lakṣaṇa-dhaṇṇāyakka
+		<lb n="8"/>Uṭaiyar tampiyar Uṭaiyar mātaṇa Uṭaiyar upaiyam-āka nāḷ tōṟum Amutu
+		<lb n="9"/>ce(yya vāra)m Oṉṟukku tiru-mañcaṉa(t)tukkum cāttu-p-paṭikkum tiru-p-parivaṭṭattukkum A
+		<lb n="10" break="no"/>mutu paṭi kaṟi-Amutu paṭi veñjaṉa(t)[tu]kkum Āka
+		Iv-vakai-p paṭikku vēṇṭuṅ ka
+		<lb n="11" break="no"/>[ṭṭaḷai-p paṭikku ku]ṭutta Im-maṇṭalattu curapi- nāṭṭu Aṟunūṟṟuvaṉ Ē
+		<lb n="12" break="no"/>ri U[ḷḷatu Iṉta Ūr O]ṉṟukku nāṉk' ellaikku uṭ-paṭṭa nattamum nañ-c[ai]
+		<lb n="13"/>puñ-[caiyum kuḷamum] pācipāṭṭam maṟṟum Eṟpēṟpaṭṭa Upātikaḷu[m tār]ā
+		<lb n="14"/>pū[rvam Āka taṉta Aḷavukku] Inta Ūr cantiṟātitta-varaiyum cel[vat' āka nattatti]
+		<lb n="15" break="no"/>lu[m nāṉk' el]laiyilum tiru-c-cūla-k-kallu nāṭṭi-k kallilum [cempilum]
+		<lb n="16"/>veṭṭi-k ko[ḷ]ḷa
+	</p>
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		śubham astu
+ 	</ab>
 </div>
 	
 <!--<div type="apparatus">
