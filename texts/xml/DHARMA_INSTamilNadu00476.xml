@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pirāṉmalai, X temple, time of X, year X</title>
+				<title>Pirāṉmalai, Maṅkai Pākar, no year</title>
 			    <respStmt>
 			        <resp>intellectual authorship of edition</resp>
 			        <persName ref="part:vija">
@@ -94,7 +94,7 @@
 		<lb n="1"/><gap reason="lost" quantity="18" unit="character" precision="low"/> malai
 		<lb n="2"/>Iṟai-y-ili-y-āka Iṭṭu variyilār <gap reason="lost" quantity="3" unit="character" precision="low"/> ṭṭa viḷava
 		<lb n="3"/>y-uṭaiyāṉ moṇṇai pa <gap reason="lost" quantity="1" unit="character"/> raṉ muka <gap reason="lost" quantity="2" unit="character" precision="low"/> ṉaṉ <gap reason="lost" quantity="5" unit="character" precision="low"/> ṅka
-		<lb n="4" break="no"/>-k-kūṟṟattu k<choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>ḻ kūṟṟu viḷattūr-āṉa <hi rend="grantha"><unclear reason="eccentric_ductus">ja</unclear></hi>yaṅ
+		<lb n="4" break="no"/>-k-kūṟṟattu k<choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>ḻ-kūṟṟu viḷattūr-āṉa <hi rend="grantha"><unclear reason="eccentric_ductus">ja</unclear></hi>yaṅ
 		<lb n="5" break="no"/>tu Ivai maturōtaya-vaḷa-nāṭṭu kā <gap reason="lost" quantity="1" unit="character" precision="low"/> <unclear>I</unclear>rukkai Uḻakkuṭi		
 	</p>
 </div>
