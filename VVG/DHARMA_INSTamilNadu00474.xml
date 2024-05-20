@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pirāṉmalai, X temple, time of X, year X</title>
+				<title>Pirāṉmalai, Maṅkai Pākar, no year</title>
 			    <respStmt>
 			        <resp>intellectual authorship of edition</resp>
 			        <persName ref="part:vija">
@@ -91,7 +91,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>		
-		<lb n="1"/>cuvāmikku vaṭa
+		<lb n="1"/>cuvāmik=ku vaṭa
 		<lb n="2" break="no"/>ku vaḷavu nakara ca
 		<lb n="3" break="no"/>kālava <gap reason="lost" quantity="3" unit="character" precision="low"/>
 		<lb n="4"/>centi <gap reason="lost" quantity="4" unit="character" precision="low"/>
