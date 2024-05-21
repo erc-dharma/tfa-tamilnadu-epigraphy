@@ -11,7 +11,7 @@
 				<title>Tiruccirāppaḷḷi, rock-cut cave, Cirāmalai Antāti, no king, no year</title>
 				<respStmt>
 					<resp>Intellectual authorship of edition</resp>
-					<persName>
+					<persName ref="part:inma">
 						<forename>Indra</forename>
 						<surname>Manuel</surname>
 					</persName>
@@ -181,8 +181,8 @@
 </div>-->
       	
 <div type="bibliography">
-	<p>First reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/62).</p>
-     <p>First edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.167).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/62).</p>
+     <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.167).</p>
 	<p>This edition by Indra Manuel (2024), based on 3D pictures by Adeline Levivier (2022).</p>
 	<p>Translated by Indra Manuel (2024).</p>	
 		
