@@ -91,25 +91,58 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
-		<lb n="1"/>svasti śrī
+		<lb n="1"/>‡ svasti śrī
 	</ab>
 	
+	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<l n="a" enjamb="yes">E<supplied reason="lost">ta</supplied>t· trailo<supplied reason="lost">kya-nirmmāṇa</supplied></l>
+		<l n="b">-<supplied reason="lost">trāṇa-saṃhāra-kāraṇam·</supplied></l>
+		<l n="c"><supplied reason="lost">śāsanam· cāśvatam· śambhoḥ</supplied></l>
+		<l n="d"><lb n="2"/>‡ kaṭhoragiri-vā<unclear>sinaḥ</unclear></l>
+	</lg>
+	
 	<p>		
-		<gap reason="lost" quantity="7" unit="character" precision="low"/>
-		<lb n="2"/>kaṭhoragiri <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="3"/>sarattu uk <gap reason="lost" quantity="7" unit="character" precision="low"/> yaṉ
-		<lb n="4"/>kaṭhoragiri vāsikku
-		<lb n="5"/><gap reason="lost" quantity="3" unit="character" precision="low"/> yil ru <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="6"/>kuṉṟam-uṭaiya nāyaṉā
-		<lb n="7"/>paṇṇiviccu veyā
-		<lb n="8"/>ppērkaḷaiyum a<gap reason="lost" quantity="8" unit="character" precision="low"/>
-		<lb n="9"/><gap reason="lost" quantity="4" unit="character" precision="low"/> ṉṉika nāyakka <gap reason="lost" quantity="5" unit="character" precision="low"/>
-		<lb n="10"/>ta<gap reason="lost" quantity="3" unit="character" precision="low"/> kum āka ivar kuc cel
-		<lb n="11"/><gap reason="lost" quantity="5" unit="character" precision="low"/> ivaruṭai<gap reason="lost" quantity="3" unit="character" precision="low"/>
-		<lb n="12"/><gap reason="lost" quantity="6" unit="character" precision="low"/> ttukku iṉṉa<gap reason="lost" quantity="1" unit="character" precision="low"/>
-		<lb n="13"/>ṭaiyā <gap reason="lost" quantity="5" unit="character" precision="low"/> aruḷap pa<gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="14"/><gap reason="lost" quantity="3" unit="character" precision="low"/> cantirātitya va <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="15"/>va<gap reason="lost" quantity="5" unit="character" precision="low"/>		
+		<gap reason="lost" quantity="1" unit="character" precision="low"/>
+		‡ <gap reason="lost" quantity="20" unit="character" precision="low"/>
+		
+		<lb n="3" break="no"/>‡ <hi rend="grantha">sa</hi>rattu Uk
+		<gap reason="lost" quantity="3" unit="character" precision="low"/>‡ <gap reason="lost" quantity="20" unit="character" precision="low"/>
+		
+		<lb n="4"/>‡ <hi rend="grantha">kaṭhoragiri</hi>-vā<hi rend="grantha">si</hi>kku
+		‡ <gap reason="lost" quantity="20" unit="character" precision="low"/>
+		
+		<lb n="5"/>‡ <gap reason="lost" quantity="3" unit="character" precision="low"/> yil ru
+		‡ <gap reason="lost" quantity="20" unit="character" precision="low"/>
+		
+		<lb n="6"/>‡ kuṉṟam-uṭaiya nāyaṉā
+		‡ <gap reason="lost" quantity="20" unit="character" precision="low"/>
+		
+		<lb n="7"/>‡ paṇṇiviccu veyā
+		‡ <gap reason="lost" quantity="20" unit="character" precision="low"/>
+		
+		<lb n="8" break="no"/>‡ -p-pērkaḷaiyum Aṭṭ
+		‡ <gap reason="lost" quantity="20" unit="character" precision="low"/>		
+		
+		<lb n="9"/>‡ <gap reason="lost" quantity="4" unit="character" precision="low"/> ṉṉika nāyakka 
+		‡ <gap reason="lost" quantity="20" unit="character" precision="low"/>
+		
+		<lb n="10"/>‡ ta <gap reason="lost" quantity="3" unit="character" precision="low"/> kum Āka Ivar ku-c cel
+		‡ <gap reason="lost" quantity="20" unit="character" precision="low"/>
+		
+		<lb n="11"/>‡ <gap reason="lost" quantity="5" unit="character" precision="low"/> Ivaruṭai
+		<gap reason="lost" quantity="1" unit="character" precision="low"/>
+		‡ <gap reason="lost" quantity="20" unit="character" precision="low"/>
+		
+		<lb n="12"/>‡ <gap reason="lost" quantity="3" unit="character" precision="low"/> ttukku Iṉṉ<unclear>ā</unclear>
+		‡ <gap reason="lost" quantity="20" unit="character" precision="low"/>
+		
+		<lb n="13"/>‡ ṭaiyā <gap reason="lost" quantity="3" unit="character" precision="low"/> Aruḷap pa
+		‡ <gap reason="lost" quantity="20" unit="character" precision="low"/>
+		
+		<lb n="14"/>‡ <gap reason="lost" quantity="3" unit="character" precision="low"/> canti<unclear>rā</unclear>ti<hi rend="grantha">tya</hi> va <gap reason="lost" quantity="2" unit="character" precision="low"/>
+		‡ <gap reason="lost" quantity="20" unit="character" precision="low"/>
+		
+		<lb n="15"/>‡ va <gap reason="lost" quantity="1" unit="character" precision="low"/>		
 	</p>
 </div>
 	

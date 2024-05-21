@@ -91,28 +91,37 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
-		<lb n="1"/>svasti
+		<lb n="1"/>svasti <supplied reason="lost">śrī</supplied>
 	</ab>
 	
 	<p>
 		<gap reason="lost" quantity="7" unit="character" precision="low"/>
-		<lb n="2"/>ra-va<reg>r</reg>tti kō<gap reason="lost" quantity="7" unit="character" precision="low"/>
-		<lb n="3"/>ḷ Uṭaiyārkkuk koṭuṅ<gap reason="lost" quantity="2" unit="character" precision="low"/>
-		<lb n="4"/>ṟa muṭaiya ṉāyaṉār kōyil
-		<lb n="5"/>tāṉattārkku ik kōyil<gap reason="lost" quantity="1" unit="character" precision="low"/>
-		<lb n="6"/>ṭāpattiyam tirumaṇa Uṭaiyā
-		<lb n="7"/>tiru macāṉam Uṭaiyār
-		<lb n="8"/>kāṇiyāy varuvac ceytu pe
-		<lb n="9"/>tukiṟapaṭiyālē irupatteṭ<gap reason="lost" quantity="1" unit="character" precision="low"/>
-		<lb n="10"/>vatu mutal ivarkaḷukku cantirā
-		<lb n="11"/>tittavaṟ cellumpaṭi kalli<gap reason="lost" quantity="1" unit="character" precision="low"/>
-		<lb n="12"/>cempilum veṭṭik koḷ
-		<lb n="13"/>vatākac coṉṉōm ippaṭik
-		<lb n="14"/>ku kallilum cempilum ve<gap reason="lost" quantity="1" unit="character" precision="low"/>
-		<lb n="15"/>ṭik kuṭukka ivai caṟukampūruṭai
-		<lb n="16"/>yāṉ eḻuttu yāṇṭu 28<gap reason="lost" quantity="2" unit="character" precision="low"/>
-		<lb n="17"/>nāḷ 120 ivai vāṇātarāyaṉ e
-		<lb n="18"/>ḻuttu u
+		<lb n="2" break="no"/>ra-va<reg>r</reg>tti kō <gap reason="lost" quantity="7" unit="character" precision="low"/>
+		<lb n="3" break="no"/>ṉ Uṭaiyārkku-k koṭuṅ-<supplied reason="lost">ku</supplied>
+		<lb n="4" break="no"/>ṉṟam-uṭaiya ṉāyaṉār-kōyil
+		<lb n="5" break="no"/>-tāṉattārkku Ik-kōyil mā
+		<lb n="6" break="no"/>ṭāpattiyam tiru-malai-Uṭaiyā
+		<lb n="7" break="no"/><unclear>ṉ</unclear> tiru-ma<choice><sic>c</sic><corr>ñ</corr></choice>caṉam Uṭaiyār
+		<lb n="8"/>kāṇi-y-āy varuva-c ceytu po
+		<lb n="9" break="no"/>tukiṟa-p paṭiyālē Irupatt' eṭ-ā
+		<lb n="10" break="no"/>vatu mutal Ivarkaḷukku cantirā
+		<lb n="11" break="no"/>tittavaṟ cellum paṭi ka<supplied reason="omitted">l</supplied>lilum
+		<lb n="12"/>cempilum veṭṭi-k koḷ
+		<lb n="13" break="no"/>vat' āka-c coṉṉōm 
+	</p>
+	<p>
+		Ip-paṭik
+		<lb n="14" break="no"/>ku kallilum cempilum ve<supplied reason="lost">ṭ</supplied>
+		<lb n="15" break="no"/>ṭi-k kuṭukka Ivai caṟukampūr-uṭai
+		<lb n="16" break="no"/>yāṉ Eḻuttu <g type="pcs">.</g>
+	</p>
+	<p>
+		yāṇṭu <num value="28">2 10 8</num>-vatu
+		<lb n="17"/>nāḷ <num value="120">100 2 10</num>
+	</p>
+	<p>
+		Ivai vāṇātarāyaṉ E
+		<lb n="18"/>ḻuttu <g type="pcl">.</g>
  	</p>
 </div>
 	

@@ -96,42 +96,41 @@
 	
 	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
 		<l n="a">śrī-bhūmī-devi-putrāṇāṃ</l>
-		<l n="b">kṣāra-kṣīrodha-pūrvinām·</l>
+		<l n="b">kṣāra-kṣīroda-<unclear>pū</unclear>rvinām·</l>
 		<l n="c">jaya<supplied reason="omitted">nti</supplied> citra-lokānā<supplied reason="omitted">m·</supplied></l>
 		<l n="d">rājya-paripālakānām·<!--check: see SII--></l>
 	</lg>
 	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a" enjamb="yes">sarvva-loka-hitā<supplied reason="omitted">rtdā</supplied>ya</l>
+		<l n="a" enjamb="yes">sarvva-loka-hitā<supplied reason="omitted">rtthā</supplied>ya</l>
 		<l n="b">citra<seg rendition="class:tamil maturity:83215">mēḻī</seg><supplied reason="omitted">śa</supplied>-śāsanam·</l>
 	</lg>
 	<p>
-		<hi rend="grantha">tri-bhuvanāśraya-pañca-śata-vīra-śāsanam· lakṣaṇa-lakṣmī-vilāsā
-		<lb n="2" break="no"/>laṃkṛta-vakṣa-stala-bhuvana-parākrama-śrī-vāsudeva-sahā</hi>yakaṉ <hi rend="grantha">devī-mūla-patra-lōpa</hi> śrī-Aimpoḻiṟ <hi rend="grantha">paramēśvari</hi>kkum <hi rend="grantha">bhūmi-de</hi>vikkum makkaḷ āki nikaḻā niṉṟa matitoṭa poṅku māṭa vīti-p patiṉeṭṭu-p paṭṭiṉamum mu-p-patt' iraṇṭu vēḷā-puramum Aṟupattu nā
-		
-		<lb n="3" break="no"/>lu kaṭikai-t tāvaḷamum tāvaḷat tiruntu taṉmai vaḷaṟkuñ ceṭṭiyuñ ceṭṭi cirappu-t tāṉun tavaṟ' oṉṟ' illāta taṉmai yoḻukkattu'k kavaṟai taṉṉoṭu kā<hi rend="grantha">śya</hi>paṉ viṭutta cāmuṇṭē<hi rend="grantha">śva</hi>riyum Uruttiraṉ viṭutta Ōlai vāriyaṉum Uṉṉiyatu muṭikkum Oṇṭiṟal vī
-		<lb n="4" break="no"/>rar paṉṉiru taṟattu-p paṇi cey mākkaḷum muṉṉi-y-āka muḻavoli vaḷaṟkum muttamiṭ pāṭalo ṭāṭa lōvā viḻavum vēḻviyum viḷaṅkiya vitiyuṭai-t teṅkum palāvun tēmāñ cōlaiyuñ cantaṉa vēli-c caṇpaka-p poḻilum vāḻaiyuṅ kamukum vaḷarkoṭi mul
-		<lb n="5" break="no"/>laiyum pūvaiyuṅ kiḷḷaiyum polivoṭu cūḻa vāṭṭam iṉṟi-k kūṭṭam peruka Aṟam vaḷara-k kali meliya-p pukaḻ peruka-p pakai paṇiya-t ticaiyaṉaittuñ ceviṭupaṭa-c ceṅkōlē muṉṉ ākavuñ cempoṟ pacumpaiyē teyvam ākavu
+		<hi rend="grantha">tri-bhuvanāśraya-pañca-śa</hi>ta-vī<hi rend="grantha">ra-śāsa</hi>na<hi rend="grantha">m· lakṣaṇa-lakṣmī</hi>-vi<hi rend="grantha">lāsā
+		<lb n="2" break="no"/>laṃkṛ</hi>ta-va<hi rend="grantha">kṣa-sthala-bhu</hi>vana-<hi rend="grantha">parākrama-śrī</hi>-vā<hi rend="grantha">sude</hi>va-<hi rend="grantha">sahā</hi>yakaṉ <hi rend="grantha">de</hi>vī-<hi rend="grantha">mūla-patra-lopa-śrī</hi>-Aimpoḻiṟ-<hi rend="grantha">paramēśvari</hi>kkum <hi rend="grantha">bhūmi-de</hi>vikkum makkaḷ āki nikaḻā niṉṟa matitoṭa poṅku māṭa vīti-p patiṉ eṭṭu-p paṭṭiṉamum mu-p-patt' iraṇṭu vēḷā-puramum Aṟupattu nā		
+		<lb n="3" break="no"/>lu kaṭikai-t tāvaḷamum tāvaḷat tiruntu taṉmai vaḷaṟkuñ ceṭṭiyuñ ceṭṭi cirappu-t tāṉun tavaṟ' oṉṟ' illāta taṉmai y-oḻukkattu-k kavaṟai taṉṉoṭu kā<hi rend="grantha">śya</hi>paṉ viṭutta cāmuṇṭē<hi rend="grantha">śva</hi>riyum Uruttiraṉ viṭutta Ōlai vāriyaṉum Uṉṉiyatu muṭikkum Oṇṭiṟal vī
+		<lb n="4" break="no"/>rar paṉṉiru taṟattu-p paṇi cey mākkaḷum muṉṉi-y-āka muḻavoli vaḷaṟkum mu-t-tamiṭ pāṭalo ṭāṭa lōvā viḻavum vēḻviyum viḷaṅkiya vitiyuṭai-t teṅkum palāvun tēmāñ cōlaiyuñ cantaṉa vēli-c-caṇpaka-p-poḻilum vāḻaiyuṅ kamukum vaḷarkoṭi mul
+		<lb n="5" break="no"/>laiyum pūvaiyuṅ kiḷḷaiyum polivoṭu cūḻa vāṭṭam iṉṟi-k kūṭṭam peruka Aṟam vaḷara-k kali meliya-p pukaḻ peruka-p pakai paṇiya-t ticai y-aṉaittuñ ceviṭupaṭa-c ceṅkōlē muṉṉ ākavuñ cempoṟ pacumpaiyē teyvam ākavu
 		<lb n="6" break="no"/>ṅ
 	</p>
 	<p>
-		<hi rend="grantha">kṣa</hi>maiyiṉoṭuṅ karuṇai y-eyta-c camaiya taṉmai y-iṉitu naṭātta nakaḻā niṉṟa nāṉku ticai <hi rend="grantha">samasta</hi>-lōka-p patiṉeṇ viṣaiyattōmum
+		<hi rend="grantha">kṣa</hi>maiyiṉoṭuṅ karuṇai y-eyta-c camaiya taṉmai y-iṉitu naṭātta nikaḻā<!--VVG: nakaḻa--> niṉṟa nāṉku-ticai-<hi rend="grantha">samasta</hi>-lōka-p-patiṉ-eṇ-viṣaiyattōmum
 		
 		<list>
-			<item>Eṭṭai vaṭṭai y-iṭaivaṭṭaikaḷiṟ ticai viḷaṅku ticai y-āyiratt' aiññūṟṟu(va)rōmum</item>
-			<item>Ēṟucāt taṟaṅku cāttu-t
+			<item>Eṭṭai-vaṭṭai-y-iṭai-vaṭṭaikaḷiṟ ticai viḷaṅku ticai y-āyiratt' aiñ-ñūṟṟu(va)rōmum</item>
+			<item>Ēṟu-cātt' aṟaṅku<!--iraṅku?-->-cāttu-t
 				<lb n="7"/>ticai viḷaṅku ticai y-āyiratt' aiñ-ñūṟṟuvarōmum</item>
-			<item>Aṟṟaivaṭṭai y-aruvaṭṭai nārattarai nalvāttarai tacaiviḷaṅku tacai y-āyiratt' aiñ-ñūṟṟuvarōmum</item>
-			<item>Aṟaṅkaḷ taraṅkaḷiṟ ticai viḷaṅku ticai y-āyirat t' aiñ-ñūṟṟuvarōmum</item>
+			<item>Aṟṟaivaṭṭai y-aruvaṭṭai nārattarai nalvāttarai ticai viḷaṅku tacai y-āyiratt' aiñ-ñūṟṟuvarōmum</item>
+			<item>Aṟaṅkaḷ taraṅkaḷiṟ ticai viḷaṅku ticai y-āyiratt' aiñ-ñūṟṟuvarōmum</item>
 			<item>nāṭu nakaraṅkaḷiṟ ticai viḷaṅku
 				<lb n="8"/>ticai y-āyiratt' aiñ-ñūṟṟuvarōmum</item>
 			<item>kēraḷa-ciṅka-vaḷanāṭṭu Aruvi-mā-ṉakaram-āṉa kula-cēkara-p-paṭṭiṉattu nakarattōmun</item>
-			<item>tuvarāpati-nāṭṭu Eṟi-paṭai-nallūr vaṭamaṭṭai nakarattōmum</item>
-			<item>puṟamalai-nāṭṭu putu-t-teru-v-āṉa cēra-nārāyaṇa-purattu nakarattōmum</item>
-			<item>kaṭal aṭaiyā tilaṅkai koṇṭa cōḻa-vaḷanā
+			<item>tuvarāpati-nāṭṭu Eṟi-paṭai-nallūr vaṭa-maṭṭai nakarattōmum</item>
+			<item>puṟa-malai-nāṭṭu putu-t-teru-v-āṉa cēra-nārāyaṇa-purattu nakarattōmum</item>
+			<item>kaṭal-aṭaiyātilaṅkai-koṇṭa-cōḻa-vaḷanā
 				<lb n="9" break="no"/>ṭṭu Uṟattūr kūṟṟa-k koṭumpāḷūr maṇi-k-kirāmattu nakarattōmun</item>
 			<item>tiru-k-kōṭṭiyūr maṇi-y-ampalattu nakarattōmum</item>
 			<item>kēraḷa-ciṅka-vaḷanāṭṭu Aḷakāpuram-āṉa ceḻiya-nārāyaṇa-purattu nakarattōmum</item>
-			<item>(Aiya)poḻil vaḷanāṭṭu-k kalvāyil nāṭṭu-c cuntara-pāṇṭiya-purattu nakarattōmum</item>
+			<item>(Aiya)poḻil-vaḷanāṭṭu-k kalvāyil-nāṭṭu-c cuntara-pāṇṭiya-purattu nakarattōmum</item>
 			<item>kaḷavaḻi-nāṭṭu Aḷakai
 				<lb n="10"/>mā-ṉakaram-āṉa jayaṅ-koṇṭa-cōḻa-p-perun-teru nakarattōmum</item>
 			<item>maṇṭalikaṉ kempīra-p-perun-teru nakarattōmum</item>
@@ -141,78 +140,175 @@
 		
 		tirumalai-nāṭṭu-t
 		<lb n="11"/>tiru-k-koṭuṅ-kuṉṟattu tiru-malai y-aṭivārattu māṟkka vakai tītta mutaliyār nāyaṉār Uṭaiyār Aḻakiya tiru-c-ciṟṟ-ampalam-uṭaiya nāyaṉār tiru-k-kōyilun tiru-k-kuḷamum maṭamun tirumaṭai viḷākamum patiṉ eṇ viṣaiyattār ra<hi rend="grantha">kṣai</hi> yātalāl Iṉ-ṉāyaṉār kōyil tiru-k-kāva-ṇattu niṟaivaṟa niṟain
-		<lb n="12" break="no"/>tu kuṟaivaṟa-k kūṭa Amaiya-p pēci Icaiya-c ceyta taṉma-camaiya-k-kāriyam āvatu Iṉ-ṉāyaṉārkku-t tiru-p-paṭimāṟṟukkun tiruppaṇikkun tirupparicaṭṭan tirumēṟpūccukku Inta maṭattukkum maṟṟum Uḷḷa nimantaṅkaḷukkum cantirātitta-vaṟ celvat' āka vaittuk kuṭutta paṭi Āvatu
+		<lb n="12" break="no"/>tu kuṟaivaṟa-k kūṭa Amaiya-p pēci Icaiya-c ceyta taṉma-camaiya-k-kāriyam āvatu
 	</p>
 	<p>
-		Uppu-p p⌈
-		<lb n="13"/>oti Oṉṟukku-k karitikku-k kācu Oṉṟum Uppu-p pākkattukku kācu Araiyum Uppu-t talaiccumai Oṉṟukku kācu Araiyum Uppu vaṇṭi Oṉṟukku-k kācu pattum neṟ poti Oṉṟukku-k kācu Oṉṟum neṟ pākkam Oṉṟukku-k kācu Araiyum nel vaṇṭi Oṉṟukku-k kācu pattum Arici vaṇṭi Oṉṟukku
-		<lb n="14"/>k kācu Irupatum Aaricip poti Oṉṟukku-k kācu Iraṇṭum Aricip pākkam Oṉṟukku-k kācu Oṉṟum payaṟṟam vaṇṭi Oṉṟukku-k kācu Irupatum payaṟṟam poti oṉṟukku-k kācuOṉṟum payaṟṟam pākkam poti Oṉṟukku-k kācu Araiyum Avarai tuvarai vaṇṭi Oṉṟukku-k kācu Irupatum Avarai tuva⌈
+		Iṉ-ṉāyaṉārkku-t tiru-p-paṭimāṟṟukkun tiruppaṇikkun tirupparicaṭṭan tirumēṟpūccukku Inta maṭattukkum maṟṟum Uḷḷa nimantaṅkaḷukkum cantirātitta-vaṟ celvat' āka vaittuk kuṭutta paṭi Āvatu
+	</p>
+	<p>
+		<list>
+			<item>Uppu-p p⌈
+				<lb n="13" break="no"/>oti Oṉṟukku-k karitikku-k kācu Oṉṟum</item>
+			<item>Uppu-p pākkattukku kācu Araiyum</item>
+			<item>Uppu-t talaiccumai Oṉṟukku kācu Araiyum</item>
+			<item>Uppu vaṇṭi Oṉṟukku-k kācu pattum</item>
+			<item>neṟ poti Oṉṟukku-k kācu Oṉṟum</item>
+			<item>neṟ pākkam Oṉṟukku-k kācu Araiyum</item>
+			<item>nel vaṇṭi Oṉṟukku-k kācu pattum</item>
+			<item>Arici vaṇṭi Oṉṟukku
+				<lb n="14" break="no"/>_k kācu Irupatum</item>
+			<item>Aricip poti Oṉṟukku-k kācu Iraṇṭum</item>
+			<item>Aricip pākkam Oṉṟukku-k kācu Oṉṟum</item>
+			<item>payaṟṟam vaṇṭi Oṉṟukku-k kācu Irupatum</item>
+			<item>payaṟṟam poti oṉṟukku-k kācu Oṉṟum</item>
+			<item>payaṟṟam pākkam poti Oṉṟukku-k kācu Araiyum</item>
+			<item>Avarai tuvarai vaṇṭi Oṉṟukku-k kācu Irupatum</item>		
+			<item>Avarai tuva⌈
+				<lb n="15" break="no"/>rai-p poti Oṉṟukku-k kācu Oṉṟum</item>
+			<item>pākkam Oṉṟukku-k kācu Araiyum</item>
+			<item>Āmaṇakkaṅkoṭṭai vaṇṭi Oṉṟukku-k kācu pattum</item>
+			<item>poti Oṉṟukku-k kācu Araiyum pākkam Oṉṟukku-k kācu kālum</item>
+			<item>pākkup poti Oṉṟukku-k kācu nālum</item>
+			<item>pākku-p pākkam Oṉṟukku-k kācu Iraṇṭum</item>
+			<item>	miḷaku poti Oṉṟukku
+				<lb n="16" break="no"/>-k kācu Aiñcum</item>
+			<item>miḷaku pākkam Oṉṟukku-k kācu Iraṇṭ' araiyum</item>
+			<item>mañcaḷ poti Oṉṟukku-k kācu mūṉṟum</item>
+			<item>pākkattukkuk kācu Oṉṟ' araiyum</item>
+			<item>cukku-p-poti Oṉṟukku-k kācu mūṉṟum</item>
+			<item>pākkattukkuk kācu Oṉṟ' araiyum</item>
+			<item>veṇkāyaṅ kaṭuku cīrakam poti Oṉṟukku-k kācu Iraṇṭum</item>
+			<item>pākkattukku-k kācu Oṉ
+				<lb n="17" break="no"/>ṟum</item>
+			<item>kaṭunelli tāṉṟi-p poti Oṉṟukku-k kācu Oṉṟum</item>
+			<item>pākkattukku-k kācu Araiyum</item>
+			<item>Iruppu vaṇṭi Oṉṟukku-k kācu Irupatum</item>
+			<item>Iruppup poti Oṉṟukku-k kācu Iraṇṭum</item>
+			<item>pākkattukkuk kācu Oṉṟum</item>
+			<item>parutti vaṇṭi Oṉṟukku-k kācu pattum</item>
+			<item>poti Oṉṟukku-k kācu Iraṇṭum</item>
+			<item>pākkam Oṉṟukku-k kācu O
+				<lb n="18" break="no"/>ṉṟum</item>
+			<item>nūl vaṇṭi Oṉṟukku-k kācu Irupatum</item>
+			<item>nūl poti Oṉṟukku-k kācu Aiñcum</item>
+			<item>pākkam Oṉṟukku-k kācu Iraṇṭ' araiyum</item>
+			<item>talai-c-cumaikku-k kācu Iraṇṭum</item>
+			<item>parutti talai-c-cumaikku-k kācu Araiyum</item>
+			<item>parum puṭavaip poti Oṉṟukku-k kācu pattum</item>
+			<item>neṉpuṭavaip poti Oṉṟukku-k kācu Irupatum</item>
+			<item>parum puṭavai
+				<lb n="19" break="no"/>p pākkattukku-k kācu Aiñcum</item>
+			<item>neṉpuṭavai-p pākkattukku-k kācu Aiñcum</item>
+			<item>talai-c-cumaikku-k kācu Aiñcum</item>
+			<item>Ulaṇṭu pili talai-c-cumai Oṉṟukku-k kācu Aiñcum</item>
+			<item>meḻuku poti Oṉṟukku-k kācu pattum</item>
+			<item>pākkattukkuk kācu Aiñcum</item>
+			<item>talai-c-cumai Oṉṟukku-k kācu nālum</item>
+			<item>tēṉ kuṭam Oṉṟukku-k kācu nālum</item>
+			<item>Eṭ po
+				<lb n="20" break="no"/>ti Oṉṟukku-k kācu nālum</item>
+			<item>pākkam Oṉṟukku-k kācu Iraṇṭum</item>
+			<item>talai-c-cumai Oṉṟukku-k kācu Oṉṟum</item>
+			<item>kōṇakai-p paṭṭup poti Oṉṟukku-k kācu Iraṇṭum</item>
+			<item>pākkattukkuk kācu Oṉṟum</item>
+			<item>talai-c-cumai Oṉṟukku-k kācu Oṉṟum</item>
+			<item>cantaṉam poti Oṉṟukku-k kācu mu-p-patum</item>
+			<item>Akil cumai Oṉṟukku-k kācu mu-p-patum</item>
+			<item>paṭṭu-p paṭṭ
+				<lb n="21" break="no"/>āvaḷac cumai Oṉṟukku-k kācu mu-p-patum</item>
+			<item>paṉnīr-k kuṭṭam Oṉṟukku-k kācu mu-p-patum</item>
+			<item>avari mayirc cumai Oṉṟukku-k kācu mu-p-patum</item>
+			<item>kaṟpūran tayilañ cumai Oṉṟukku-k kācu Irupatum</item>
+			<item>cāntu puḻuku cavātu kompu Oṉṟukku-k kācu patiṉ aiñcum</item>
+		</list>		 
 		
-		<!--check initial vowels from here-->
-		<lb n="15" break="no"/>rai-p poti Oṉṟukku-k kācu Oṉṟum pākkam Oṉṟukku-k kācu Araiyum āmaṇakkaṅkoṭṭai vaṇṭi Oṉṟukku-k kācu pattum poti Oṉṟukku-k kācu Araiyum pākkam Oṉṟukku-k kācu kālum pākkup poti Oṉṟukku-k kācu nālum pākkup pākkam Oṉṟukku-k kācu iraṇṭum miḷaku poti oṉṟukku
-		<lb n="16"/>k kācu aiñcum miḷaku pākkam Oṉṟukku-k kācu iraṇṭaraiyum mañcaḷ poti Oṉṟukku-k kācu mūṉṟum pākkattukkuk kācu oṉṟaraiyum cukkup poti Oṉṟukku-k kācu mūṉṟum pākkattukkuk kācu oṉṟaraiyum veṇkāyaṅ kaṭuku cīrakam poti Oṉṟukku-k kācu iraṇṭum pākkattukkuk kācu oṉ
-		<lb n="17"/>ṟum kaṭunelli tāṉṟip poti Oṉṟukku-k kācu Oṉṟum pākkattukkuk kācu Araiyum iruppu vaṇṭi Oṉṟukku-k kācu irupatum iruppup poti Oṉṟukku-k kācu iraṇṭum pākkattukkuk kācu Oṉṟum parutti vaṇṭi Oṉṟukku-k kācu pattum poti Oṉṟukku-k kācu iraṇṭum pākkam Oṉṟukku-k kācu o
-		<lb n="18"/>ṉṟum nūl vaṇṭi Oṉṟukku-k kācu irupatum nūl poti Oṉṟukku-k kācu aiñcum pākkam Oṉṟukku-k kācu iraṇṭaraiyum talaiccumaikkuk kācu iraṇṭum parutti talaiccumaikkuk kācu Araiyum parum puṭavaip poti Oṉṟukku-k kācu pattum neṉpuṭavaip poti Oṉṟukku-k kācu irupatum parum puṭavai
-		<lb n="19"/>p pākkattukkuk kācu aiñcum neṉpuṭavaip pākkattukkuk kācu aiñcum talaiccumaikkuk kācu aiñcum ulaṇṭu pili talaiccumai Oṉṟukku-k kācu aiñcum meḻuku poti Oṉṟukku-k kācu pattum pākkattukkuk kācu aiñcum talaiccumai Oṉṟukku-k kācu nālum tēṉ kuṭam Oṉṟukku-k kācu nālum eṭ po
-		<lb n="20"/>ti Oṉṟukku-k kācu nālum pākkam Oṉṟukku-k kācu iraṇṭum talaiccumai Oṉṟukku-k kācu Oṉṟum kōṇakaip paṭṭup poti Oṉṟukku-k kācu iraṇṭum pākkattukkuk kācu Oṉṟum talaiccumai Oṉṟukku-k kācu Oṉṟum cantaṉam poti Oṉṟukku-k kācu muppatum akil cumai Oṉṟukku-k kācu muppatum paṭṭup paṭṭa
-		<lb n="21"/>āvaḷac cumai Oṉṟukku-k kācu muppatum paṉnīrk kuṭṭam Oṉṟukku-k kācu muppatum cavari mayirc cumai Oṉṟukku-k kācu muppatum kaṟpūran tayilañ cumai Oṉṟukku-k kācu irupatum cāntu puḻuku cavātu kompu Oṉṟukku-k kācu patiṉaiñcum ic carakkukkaḷukku pākkattil koḷḷumpaṭikkut talaiccumai oṉṟu mukkāl koḷvat' ā
+		Ic-carakkukkaḷukku pākkattil koḷḷum paṭikku-t talai-c-cumai oṉṟu mu-k-kāl koḷvat' ā
 		<lb n="22"/>kavum
 	</p>
 	<p>
-		cēmāṭu Oṉṟukku-k kācu iraṇṭum kutirai Oṉṟukku Accuk kālum āṉai oṉṟukku accu Araiyum maṟṟum eppērppaṭṭa carakkukkaḷukkum im maccātikaḷilē koḷvatāka-c camaiya piṭipāṭu paṇṇik kuṭuttōm ticai viḷaṅku ticai āyiratt' aiñ-ñūṟṟuvarōmum
+		cēmāṭu Oṉṟukku-k kācu Iraṇṭum
+		kutirai Oṉṟukku Accu-k kālum
+		Āṉai Oṉṟukku Accu Araiyum maṟṟum 
+		
+		Eppērppaṭṭa carakkukkaḷukkum Im-maccātikaḷilē koḷvat' āka-c camaiya-piṭipāṭu paṇṇi-k kuṭuttōm ticai viḷaṅku ticai āyiratt' aiñ-ñūṟṟuvarōmum
 	</p>
 	<p>
 		Aruvimāṉa
-		<lb n="23"/>karam Eḻuttu pārviḷaṅ[kuku] ṭi kiḻavar tulaiyāta celvar cokka-maṅkalam-uṭaiyār poḷḷa nāṭṭu vēḷār poṟkaṭṭiyuṭaiyā ravaṉi[ccū]ḷāmaṇi nāṭṭu vēḷār āṉ[ma]ṉūruṭaiyār māṇikka rā[ya]r ampa[rk] kiḻār Aḷakaimāṉār paravaiyuṭaiyār maṇṭalava[raica]r uṟattūruṭai[yā]ṉ aḷakaikkē
-		<lb n="24"/>āṉār pālaiyūruṭaiyāṉ paṭṭiṉacuvāmi pālaiyūruṭaiyār vaṇika-rāyar puḷiyaṅk-uṭaiyār pāmpuṇi-nāṭṭu vēḷār kōvalūruṭaiyār tamiḻatiraiyar [A]rumpākkiḻār va[ṇi]karātittar kōvalūruṭaiyār civapattar tuḻāruṭaiyār namacivāya tēvar paṭṭamuṭaiyār āṇai namateṉṟa perumāḷ aṇaippāṭi-y-uṭai
-		<lb n="25"/>yār utaiya-p piḷḷai paravai-(y-u)ṭaiyār ceṭṭiyāṇṭār muṭṭapāṭi Uṭaiyār toṇṭaimāṉār kalacappāṭi Uṭaiyār tiru-ñāṉa-campantar nāvaluṭaiyār tiru-ñā(ṉa)-campantar arumpāk kiḻār toṇṭaināṭu kiḻavar uṟattūruṭaiyār tiruttoṇṭat tokaiyar marutūruṭaiyār cakkara-va<reg>r</reg>ttik kiḷippaṟṟumār tiruc(ci)
-		<lb n="26"/>rāppaḷḷiyuṭaiyār aḷakāpura(kara)p paṟṟuṭaiyār utaiyap piḷḷaiyāṉa irunetikku(ṭai)yār maṇṇina(ā)ṭṭu vēḷār poṉṉampalak (kū)ttar pūtamaṅkalamuṭaiyār (pura)ntarar neṭuvāyaluṭaiyār paḷḷiyaṇimār tirukkōṭṭiyūr maṇaṟkuṭaiyār (ā)ṉantak kūttāṇṭār ma
-		<lb n="27"/>ṇaṟkuṭaiyār tiruvampalapperumāḷ peruñcēvū(ru)ṭaiyār a(ṇi)yaraṅkanātar pākka(mu)ṭaiyār śrīnantakōpar paṇṇai kiḻavar pāṇṭiya tarayar aḻiciṟpākkamuṭaiyār pattaṟ karuḷ ceyvār aḷakai māṉakar vaciravaṇar (ci)kkaluṭaiyār vaḻu(ti)k kōṉār aḻiciṟpākkamuṭaiyār pollāta pi
-		<lb n="28"/>ḷḷai aṉaippāṭiyuṭaiyār tirumuṇṭa maḻakiyār niyamattil āvaṇiyuṭaiyār ceppa muṭai-c campantar ciṟṟamparuṭaiyār amara kōṉār toṇṭaināṭu kiḻavar civa tavaṉap perumāḷ cuntara-pāṇṭiya-puram veṇṇai-nallūr uṭaiyār tillai-nāyaka-p-piḷḷai cempaṅk-uṭaiyār peṟṟa piḷḷai pām(pu)
-		<lb n="29"/>ramuṭaiyār Uṭaiya-piḷḷai pērāmpūr uṭaiyār tātar kāḷaiyar kā(vu)p perun teru paṭṭiṉa cuvāmikaḷ vaṇikar mātākkaḷ cokka-ñāṉa-campantar Eṟi-paṭai-nallūr vēmpuṭaiyār malaimaṇṭala māta(ā)kkaḷ maruttuvakkuṭaiyār kaṉṉāvuṭaiyār maruttuvakkuṭaiyār cokka- ñāṉa-campantar va(ā)ṭāvuṭaiyār nittar vālaiya
-		<lb n="30"/>ṉ kūttaṉāṉa teṉṉakōṉār māṅkuṭaiyār maṉṉaṉāṉa māṇikkarāyar ma(ā)ṅkuṭaiyār poṉ(ṉi)nāṭṭuk kōṉār koṭumpāḷūr māṭat tāṇṭār tillaivēntar (piḷ)ḷāṇṭā ṉāṉa piḷḷai yeṉātār cuntarapperumā(ḷā)ṉa tamiḻakōṉār putut teru nāvalūruṭaiyār civapattar nāṭṭa(ā)r paḷḷiyuṭaiyār tirunīṟu parappiṉār tirunallūruṭaiyār u
-		<lb n="31"/>ṭaiya piḷḷai vākuṭaiyār vaḻutik kōṉār tiruveṭpūruṭaiyār pāṇṭik kōṉār vāṭāvūruṭaiyār taṉma paripālar aṭaippuṭaiyār appāṇṭār māttuṭaiyār (kan)tappiḷḷai virāṇakkuṭaiyār āḷavantāṉāṉa maṇṭala cuvāmi Ip-patiṉ-eṇ-viṣaiyattār paṇikka Iv-vamai veḻutiṉāṉ In-nāyaṉār kōyiṟ kaṇa
-		<lb n="32"/>kkaṉ kaṇṇaṅk-uṭaiyāṉ kēraḷaṉ pattaṟ karuḷ ceyvāṉ-āṉa cuntara-pāṇṭiya-mūvēnta-vēḷān <g type="pc">.</g>
+		<lb n="23"/>karam Eḻuttu
+		
+		pārviḷaṅ[kuku]ṭi kiḻavar tulaiyāta-celvar
+		cokka-maṅkalam-uṭaiyār poḷḷa-nāṭṭu vēḷār 
+		poṟ-kaṭṭi-y-uṭaiyā ravaṉi-[c-cū]ḷāmaṇi-nāṭṭu vēḷār
+		Āṉ[ma]ṉūr-uṭaiyār māṇikka-rā[ya]r
+		Ampa[r-k]-kiḻār Aḷakaimāṉār
+		paravai-y-uṭaiyār maṇṭala-v-a[raica]r
+		Uṟattūr-uṭai[yā]ṉ Aḷakaik-k-⌈
+		<lb n="24" break="no"/>ōṉār
+		pālaiyūr-uṭaiyāṉ paṭṭiṉa-cuvāmi
+		pālaiyūr-uṭaiyār vaṇika-rāyar
+		puḷiyaṅk-uṭaiyār pāmpuṇi-nāṭṭu vēḷār
+		kōvalūr-uṭaiyār tamiḻ-atiraiyar [A]rum-pākkiḻār va[ṇi]karātittar kōvalūr-uṭaiyār civa-pattar tuḻār-uṭaiyār namacivāya-tēvar paṭṭam-uṭaiyār Āṇai namateṉṟa perumāḷ Aṇaippāṭi-y-uṭai
+		<lb n="25" break="no"/>yār utaiya-p piḷḷai paravai-(y-u)ṭaiyār ceṭṭiyāṇṭār muṭṭapāṭi Uṭaiyār toṇṭaimāṉār kalaca-p-pāṭi Uṭaiyār tiru-ñāṉa-campantar nāval-uṭaiyār tiru-ñā(ṉa)-campantar Arumpā-k-kiḻār toṇṭai-nāṭu kiḻavar Uṟattūr-uṭaiyār tiru-t-toṇṭa-t-tokaiyar marutūr-uṭaiyār cakkara-va<reg>r</reg>tti-k kiḷi-p-paṟṟumār tiru-c-(ci)
+		<lb n="26" break="no"/>rā-p-paḷḷi-y-uṭaiyār Aḷakāpura(kara)p paṟṟ-uṭaiyār Utaiya-p piḷḷai-y-āṉa Iru-netikk-u(ṭai)yār maṇṇi-na(ā)ṭṭu vēḷār poṉṉam-pala-k-(kū)ttar pūta-maṅkalam-uṭaiyār (pura)ntarar neṭu-vāyal-uṭaiyār paḷḷiyaṇimār tiru-k-kōṭṭiyūr maṇaṟk-uṭaiyār (Ā)ṉantak kūttāṇṭār ma
+		<lb n="27" break="no"/>ṇaṟk-uṭaiyār tiru-v-ampala-p-perumāḷ peruñ-cēvū(r-u)ṭaiyār A(ṇi)yaraṅkanātar pākka(mu)ṭaiyār <hi rend="grantha">śrī</hi>-nantakōpar paṇṇai-kiḻavar pāṇṭiya-tarayar Aḻiciṟpākkam-uṭaiyār pattaṟ karuḷ ceyvār Aḷakai māṉakar vaciravaṇar (ci)kkal-uṭaiyār vaḻu(ti)k kōṉār Aḻiciṟpākkam-uṭaiyār pollāta pi
+		<lb n="28" break="no"/>ḷḷai Aṉaippāṭi-y-uṭaiyār tirumuṇṭam-aḻakiyār niyamattil Āvaṇi-y-uṭaiyār ceppa muṭai-c campantar ciṟṟ-ampar-uṭaiyār Amara-kōṉār toṇṭai-nāṭu kiḻavar civa-tavaṉa-p-perumāḷ cuntara-pāṇṭiya-puram veṇṇai-nallūr uṭaiyār tillai-nāyaka-p-piḷḷai cempaṅk-uṭaiyār peṟṟa piḷḷai pām(pu)
+		<lb n="29" break="no"/>ram-uṭaiyār Uṭaiya-piḷḷai pērāmpūr uṭaiyār tātar kāḷaiyar kā(vu)p perun teru paṭṭiṉa cuvāmikaḷ vaṇikar mātākkaḷ cokka-ñāṉa-campantar Eṟi-paṭai-nallūr vēmp-uṭaiyār malai-maṇṭala-māta(ā)kkaḷ maruttuvakk-uṭaiyār kaṉṉā-v-uṭaiyār maruttuvakk-uṭaiyār cokka-ñāṉa-campantar va(ā)ṭāv-uṭaiyār nittar vālaiya
+		<lb n="30" break="no"/>ṉ kūttaṉ-āṉa teṉṉakōṉār māṅk-uṭaiyār maṉṉaṉ-āṉa māṇikka-rāyar ma(ā)ṅk-uṭaiyār poṉ(ṉi)nāṭṭu-k kōṉār koṭumpāḷūr māṭa-t tāṇṭār tillai-vēntar (piḷ)ḷāṇṭā ṉāṉa piḷḷai yeṉātār cuntara-p-perumā(ḷ-ā)ṉa tamiḻakōṉār putu-t teru nāvalūr-uṭaiyār civa-pattar nāṭṭa(ā)r paḷḷi-y-uṭaiyār tiru-nīṟu parappiṉār tiru-nallūr-uṭaiyār U
+		<lb n="31" break="no"/>ṭaiya piḷḷai vāk-uṭaiyār vaḻuti-k kōṉār tiru-veṭpūr-uṭaiyār pāṇṭi-k-kōṉār vāṭāvūr-uṭaiyār taṉma-paripālar Aṭaipp-uṭaiyār Appāṇṭār mātt-uṭaiyār (kan)ta-p-piḷḷai virāṇakk-uṭaiyār Āḷavantāṉ-āṉa maṇṭala-cuvāmi 
 	</p>
 	<p>
-		Itu paṉ-māhēśvara rakṣai <g type="pc">.</g>
+		Ip-patiṉ-eṇ-viṣaiyattār paṇikka Iv-vamai v-eḻutiṉāṉ In-nāyaṉār-kōyiṟ-kaṇa
+		<lb n="32" break="no"/>kkaṉ kaṇṇaṅk-uṭaiyāṉ kēraḷaṉ pattaṟ karuḷ ceyvāṉ-āṉa cuntara-pāṇṭiya-mūvēnta-vēḷān <g type="pc">.</g>
+	</p>
+	<p>
+		Itu paṉ-mā<hi rend="grantha">heśvara-rakṣai</hi> <g type="pc">.</g>
 	</p>
 	<p>		
 		<list>
 			<item>ceyaṅ-koṇṭa-cōḻa-purattu kāḷi-maṇṭala-maṇikaṉ Eḻuttu</item>
-		<item>camaiya-c-cakkara-va<reg>r</reg>tti Eḻuttu</item>
-		<item>Āḷkoṇ
-		<lb n="33"/>ṭāṉ civapattaṉ Eḻuttu</item>
-		<item>kuṭantai piriyaṉ Eḻuttu</item>
-		<item>cōmaṉ viḻumpāṉāṉa Uṟaiyūr uṭaiyāṉ Eḻuttu</item>
-		<item>Apimāṉa-cōḻa-purattu Ampalavaṉ ceyaṅ-koṇṭa-cōḻa-c-(ci)lai-ceṭṭi Uḷḷiṭṭār Eḻuttu</item>
-		<item>	pēṭṭaiyil Uṭaiyāṉ Āpattukkāttāṉ Eḻuttu toṭṭi
-		<lb n="34" break="no"/>puram-āṉa rāja-kēcari-purattu tāvaḷa-k-koṇṭāṉ Eḻuttu</item>
-		<item>civa-pāta-cēkara-purattu kāḷi mu-p-pēr-uṭaiyāṉ Eḻuttu</item>
-		<item>camaiya-purantaraṉ Uḷḷi <gap reason="lost" quantity="6" unit="character" precision="low"/></item>
-		<item>cōḻa-pāṇṭiya-purattu-k koḻuntaṉ Uṭaiyār camaiya-mantiri Eḻuttu</item>
-		<item>māṇi-k-kāṇṭāṉ Eḻuttu
-		paḷḷi ko
-		<lb n="35"/>ṅkāṇṭāṉ Eḻuttu</item>
-		<item>kōṭṭai-k-karaiyāṉ kōḷ-ari-cēkari-purattu-k kuṟṟaṉ cēvaṉ Uḷḷiṭṭār Eḻuttu</item>
-		<item>karuvūr vañci mānakaram (muṭi)-vaḻaṅku-cōḻa-purattu piḷḷai kāṉa ṉāṭṭuc ceṭṭi Eḻuttu</item>
-		<item>māṇikkaṉ Eṟipattāṇṭāṉ Eḻuttu</item>
-		<item>talaiyūr-ṉāṭṭu naṉmutta vaṇikaṉ
-		<lb n="36"/>kīraṉūr Uṭaiyāṉ koṅka maṇṭala-c-cilai-ceṭṭi-kaṇṇapurattu tēvaṉ camaiya-mātā muṭikoṇṭattu cōlai-cokka-ñāṉa-campantaṉ koṟṟaṉūr Uṭaiyāṉ maṇṭala-cuvāmi kutirai-c ceṭṭikaḷil vaṇikar nārāyaṇaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
+			<item>camaiya-c-cakkara-va<reg>r</reg>tti Eḻuttu</item>
+			<item>Āḷkoṇ
+				<lb n="33" break="no"/>ṭāṉ civapattaṉ Eḻuttu</item>
+			<item>kuṭantai piriyaṉ Eḻuttu</item>
+			<item>cōmaṉ viḻumpāṉāṉa Uṟaiyūr uṭaiyāṉ Eḻuttu</item>
+			<item>Apimāṉa-cōḻa-purattu Ampalavaṉ ceyaṅ-koṇṭa-cōḻa-c-(ci)lai-ceṭṭi Uḷḷiṭṭār Eḻuttu</item>
+			<item>	pēṭṭaiyil Uṭaiyāṉ Āpattukkāttāṉ Eḻuttu toṭṭi
+				<lb n="34" break="no"/>-puram-āṉa rāja-kēcari-purattu tāvaḷa-k-koṇṭāṉ Eḻuttu</item>
+			<item>civa-pāta-cēkara-purattu kāḷi mu-p-pēr-uṭaiyāṉ Eḻuttu</item>
+			<item>camaiya-purantaraṉ Uḷḷi <gap reason="lost" quantity="6" unit="character" precision="low"/></item>
+			<item>cōḻa-pāṇṭiya-purattu-k koḻuntaṉ Uṭaiyār camaiya-mantiri Eḻuttu</item>
+			<item>māṇi-k-kāṇṭāṉ Eḻuttu
+				paḷḷi ko
+				<lb n="35" break="no"/>ṅkāṇṭāṉ Eḻuttu</item>
+			<item>kōṭṭai-k-karaiyāṉ kōḷ-ari-cēkari-purattu-k kuṟṟaṉ cēvaṉ Uḷḷiṭṭār Eḻuttu</item>
+			<item>karuvūr vañci mānakaram (muṭi)-vaḻaṅku-cōḻa-purattu piḷḷai kāṉa ṉāṭṭuc ceṭṭi Eḻuttu</item>
+			<item>māṇikkaṉ Eṟipattāṇṭāṉ Eḻuttu</item>
+			<item>talaiyūr-ṉāṭṭu naṉmutta vaṇikaṉ
+				<lb n="36"/>kīraṉūr Uṭaiyāṉ koṅka maṇṭala-c-cilai-ceṭṭi-kaṇṇapurattu tēvaṉ camaiya-mātā muṭikoṇṭattu cōlai-cokka-ñāṉa-campantaṉ koṟṟaṉūr Uṭaiyāṉ maṇṭala-cuvāmi kutirai-c ceṭṭikaḷil vaṇikar nārāyaṇaṉ Eḻuttu <g type="gomutraFinal">.</g></item>
 		</list>		
 	</p>
 </div>
 	
-<!--<div type="apparatus">
+<div type="apparatus">
            
 	<listApp>
-		<app loc="0">
+		
+		<!--<app loc="0">
 			<lem>...</lem>
 			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-		</app> 
+			<rdg source="bib:SubrahmanyaAiyer1937_01">...</rdg>
+			<rdg source="bib:Subbarayalu+al2002_01">...</rdg>
+		</app> -->
+		
+		<app loc="2">
+			<lem>vēḷā°</lem>
+			<rdg source="bib:Subbarayalu+al2002_01 bib:Vijayavenugopal2022_01"/>
+			<rdg source="bib:SubrahmanyaAiyer1937_01">vaḷar°</rdg>	
+		</app>
+		
 	</listApp>
 	
-</div>-->
+</div>
       	
 <div type="translation" resp="part:emfr">
       		
@@ -222,6 +318,35 @@
 	
 	<p n="1" rend="stanza">
 		<l>....</l>
+	</p>
+	
+	<p n="1-12">
+		...
+		the eighteen <foreign>paṭṭiṉam</foreign>s ...,
+		the thirty-two <foreign>vēḷāpuṟam</foreign>s<note>Divergent readings.</note>,
+		the sixty-four
+		...
+		whereas the rightuous sceptre was in front of us ...,
+		whereas the deity
+		...
+		We, the people of the eighteen lands <supplied reason="explanation"><foreign>patiṉ-eṇ-viṣaiyattōmum</foreign></supplied>, <supplied reason="subaudible">which comprises</supplied> all the worlds in the four directions,
+		...
+		<supplied reason="subaudible">that is</supplied>:
+		
+		<list>
+			<item>We, the one thousand five hundred of the shining directions, in Eṭṭaivaṭṭai and Iṭaivaṭṭai,</item>
+			<item>We, the one thousand five hundred of the shining directions, in Ēṟucāttu and Iraṅkucāttu,</item>
+			<item>We, the one thousand five hundred of the shining directions, ...,</item>
+		</list>
+		
+		this is the <foreign>taṉma-camaiya-k-kāriyam</foreign>
+		that we made
+		...
+	</p>
+	
+	<p n="12">
+		This is the manner in which <supplied reason="subaudible">we</supplied> have given
+		...		
 	</p>
 	
 </div>
