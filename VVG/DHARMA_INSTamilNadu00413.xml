@@ -90,8 +90,11 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<lg n="1" met="āciriyappā">		
+		<l n="1"><lb n="1"/>pūmalaṟ ṟiruv<supplied reason="lost">um porucaya maṭa</supplied>ntaiyum</l>
+	</lg>
 	<p>		
-		<lb n="1"/>pūmalaṟ ṟiruva<gap reason="lost" quantity="4" unit="character" precision="low"/> ntaiyum eṉṉum <hi rend="grantha">śrī</hi>maṟkītti Eḻuti <hi rend="grantha">śrī</hi>-kō māṟa-paṉmar-āṉa <hi rend="grantha">tri-bhu</hi>vaṉa-c-ca<hi rend="grantha">kra</hi>-va<reg>r</reg>t=tikaḷ <hi rend="grantha">śrī-sunda</hi>ra-pā<hi rend="grantha">ṇḍya-de</hi>vaṟku
+		eṉṉum <hi rend="grantha">śrī</hi>maṟkītti Eḻuti <hi rend="grantha">śrī</hi>-kō-māṟa-paṉmar-āṉa <hi rend="grantha">tri-bhu</hi>vaṉa-c-ca<hi rend="grantha">kra</hi>-va<reg>r</reg>t=tikaḷ <hi rend="grantha">śrī-sunda</hi>ra-pā<hi rend="grantha">ṇḍya-de</hi>vaṟku
 		<lb n="2"/>yāṇṭu Eṭṭ <gap reason="lost" quantity="3" unit="character" precision="low"/> ṉ etir ām-āṇṭu Ā<hi rend="grantha">ryyā</hi>vattattu <hi rend="grantha">go</hi>ḷaki va<hi rend="grantha">ṃśa</hi>ttu <hi rend="grantha">śrī</hi>mal-la<hi rend="grantha">kṣādyā</hi>ya-<hi rend="grantha">sa</hi>ntāṉattu <hi rend="grantha">śrī-deśi</hi>kēn<hi rend="grantha">dra-praśiṣya</hi>r-ā
 		<lb n="3" break="no"/>ṉa Ī<hi rend="grantha">śā</hi>ṉa-<hi rend="grantha">śi</hi> <gap reason="lost" quantity="3" unit="character" precision="low"/> nāṭṭu-t tiru-k-koṭuṅ-kuṉṟattu-t tiru-k-kāma-k-kōṭṭa-p perun teruvil <hi rend="grantha">śrī</hi>-<hi rend="grantha">pā<unclear>r</unclear>vva</hi>ti-maṭattukku <hi rend="grantha">śeṣa</hi>m-ā
 		<lb n="4" break="no"/>ka-k kāṟtikai <gap reason="lost" quantity="4" unit="character" precision="low"/> nāṭṭu mū-v-arai<gap reason="lost" quantity="4" unit="character" precision="low"/> vīra-pāṇṭiya-nallūr-p perun taṉattut tēvaṉ caṅkaṉ-āṉa kula-cēkara-mū
