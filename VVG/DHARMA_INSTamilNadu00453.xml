@@ -91,10 +91,13 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>
-		<lb n="1"/>kakaṉa samhāra kāraṇam <gap reason="lost" quantity="14" unit="character" precision="low"/>
-		<lb n="2"/>ca(kā)ttam 1424 l cellā niṉṟa tuntupi samvat
-		<lb n="3"/>ṣarattu citrabhodaśiyum śukra vāramum peṟṟa nāḷil śrī
-		<lb n="4"/>nalla maṅkai pākar ālaiyattu tiruvampala muṭaiya nayiṉār <gap reason="lost" quantity="3" unit="character" precision="low"/>
+		<lb n="1"/>kakaṉa-<hi rend="grantha">saṃhāra-kāra</hi>ṇa<hi rend="grantha">m</hi> <gap reason="lost" quantity="14" unit="character" precision="low"/>
+		<lb n="2"/>ca<supplied reason="omitted">kā</supplied>ttam <num value="1424">1000+ 4 100+ 2 10+ 4</num>-l cellā niṉṟa tuntupi-saṃvat
+		<lb n="3"/><gap reason="lost" quantity="1" unit="character" precision="low"/> kṣattu citra<!--looks like vatu-->-<hi rend="grantha">bhodaśi</hi>yum <hi rend="grantha">śuk<supplied reason="omitted">r</supplied>a</hi>-vā<hi rend="grantha">ra</hi>mum peṟṟa nāḷil
+	</p>
+	<p>
+		<hi rend="grantha">śrī</hi>
+		<lb n="4" break="no"/>-nalla-maṅkai-pākar Ālaiyattu tiru-v-ampalam-uṭaiya <!--HERE!!--> nayiṉār <gap reason="lost" quantity="3" unit="character" precision="low"/>
 		<lb n="5"/>ṉaṉum caṇṭēśvaraṉum aṭṭa bhaliyum tiru-k-koṭuṅ <gap reason="lost" quantity="5" unit="character" precision="low"/>
 		<lb n="6"/>tiyil iṣabha devaraiyum ivar dhamma māka ēṟi aruḷa <gap reason="lost" quantity="4" unit="character" precision="low"/>
 		<lb n="7"/>vaṉṉi kiri nāyakkar puttiraṉ narasayyaṉ inta tiru <gap reason="lost" quantity="4" unit="character" precision="low"/>
