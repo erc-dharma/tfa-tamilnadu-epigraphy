@@ -111,42 +111,64 @@
 		<l n="4">virai y-ār pu<choice><orig>n</orig><reg>ṉ</reg></choice>al vant’ iḻiyum viṭaivāyē</l>
 	</lg>
 	
-	<lg>
-		cūca-t taḻal pōla<lb n="9"/>viḻiyā varu cūṟṟai-p pācattoṭum vīḻa Utaittavar paṟṟ’ ām vāca-k<lb n="10"/>katir-c cāli veṇcāmaraiyē pōl vīca-k kaḷi A<choice><orig>nn</orig><reg>ṉṉ</reg></choice>a malkum viṭai<lb n="11" break="no"/>vāyē
+	<lg n="4" met="uncertain">
+		<l n="1">cūca-t taḻal pōla<lb n="9"/>viḻiyā varu cūṟṟai-p</l>
+		<l n="2">pācattoṭum vīḻa Utaittavar paṟṟ’ ām</l>
+		<l n="3">vāca-k<lb n="10"/>katir-c cāli veṇcāmaraiyē pōl</l>
+		<l n="4">vīca-k kaḷi A<choice><orig>nn</orig><reg>ṉṉ</reg></choice>a malkum viṭai<lb n="11" break="no"/>vāyē</l>
 	</lg>	
-	<p>
-		tiriyum puramūnṟaiyum centaḻal uṇṇā E
-		<lb n="12" break="no"/>ri y-amp’ eyta kuṉṟa villi Iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice>par kiriyun taru māḷikai-c cūḻi
-		<lb n="13" break="no"/>kaita<choice><orig>n</orig><reg>ṉ</reg></choice>mēl viriyuṅ koṭi vā<choice><orig>n</orig><reg>ṉ</reg></choice> viḷicey viṭaivāyē
-	</p>
-	<p>
-		<lb n="14"/>kiḷḷai moḻiyāḷai Ikaḻnatava<choice><orig>n</orig><reg>ṉ</reg></choice> muttī-t taḷḷi-t talai takkaṉai
-		<lb n="15" break="no"/>-k koṇṭavar cārv’ ām vaḷḷi maruṅkul neruṅkum mulai-c cevvā
-		<lb n="16" break="no"/>y veḷḷain nakaiyār naṭañcey viṭaivāyē
-	</p>
-	<p>
-		<lb n="17"/>pātatt’ oli pāriṭam pāṭa naṭañcey nātatt’  oliyar navilum<surplus>m</surplus> iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice>par kītatt’ oliyum keḻu
-		<lb n="18" break="no"/>mum muḻavoṭu vētatt’ oliyum payilum viṭaivāyē 
-	</p>
-	<p>
-		Eṇṇāta v-arakka<choice><orig>n</orig><reg>ṉ</reg></choice> Urattai nerit
-		<lb n="19" break="no"/>tu-p paṇ-ṇ ārtaru pāṭal ukantavar paṟṟ’ ām kaṇ ār viḻaviṟ kaṭivītikaḷ tōṟum viṇṇōrkaḷum
-		<lb n="20"/>vant’ iṟaiñcum viṭaivāyē 
-	</p>
-	<p>
-		puḷ vāy piḷantā<choice><orig>n</orig><reg>ṉ</reg></choice> Aya<choice><orig>n</orig><reg>ṉ</reg></choice> pūmuṭi pātam Oḷvānilan tēṭum Oru
-		<lb n="21" break="no"/>vaṟk’ iṭam ām teḷ vār punaṟ ceṅkaḻunīrmukai ta<choice><orig>nn</orig><reg>ṉṉ</reg></choice>il viḷ vāy naṟav’ uṇṭu vaṇṭ’ ār viṭaivāyē		
-	</p>
-	<p>
-		<lb n="22"/>Uṭai y-ētum ilār tuvār āṭai Uṭuppōr kiṭaiyā neṟiyān keḻum<choice><sic>i</sic><corr>u</corr></choice>m<surplus>m</surplus> iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice>par Aṭaiyār pura
-		<lb n="23" break="no"/>m vēva mūvaṟk’ aruḷceyta viṭai y-ār koṭiyā<choice><orig>n</orig><reg>ṉ</reg></choice> aḻak’ ār viṭaivāyē 
-	</p>
-	<p>
-		Āṟum matiyum poti vēṇiya
-		<lb n="24" break="no"/>ṉ ūr āmāṟ’ il peruñ celva mali viṭai vāyai nāṟum poḻiṟ kāḻiyar ñā<choice><orig>n</orig><reg>ṉ</reg></choice>acampantan cūṟun tamiḻ vallavar
-		<lb n="25"/>kuṟṟam aṟṟōyēy
-	</p>
-             
+	
+	<lg n="5" met="uncertain">
+		<l n="1">tiriyum puramūnṟaiyum centaḻal uṇṇā<!--@apparatus: unna in the digital tevaram edition--></l>
+		<l n="2">E<lb n="12" break="no"/>ri y-amp’ eyta kuṉṟa villi Iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice>par</l>
+		<l n="3">kiriyun taru māḷikai-c cūḻi
+		<lb n="13" break="no"/>kaita<choice><orig>n</orig><reg>ṉ</reg></choice>mēl</l>
+		<l n="4">viriyuṅ koṭi vā<choice><orig>n</orig><reg>ṉ</reg></choice> viḷicey viṭaivāyē</l>
+	</lg>
+	
+	<lg n="6" met="uncertain">
+		<l n="1"><lb n="14"/>kiḷḷai moḻiyāḷai Ikaḻnatava<choice><orig>n</orig><reg>ṉ</reg></choice> muttī-t</l>
+		<l n="2">taḷḷi-t talai takkaṉai<lb n="15" break="no"/>-k koṇṭavar cārv’ ām</l>
+		<l n="3">vaḷḷi maruṅkul neruṅkum mulai-c cevvā
+		<lb n="16" break="no"/>y</l>
+		<l n="4">veḷḷain nakaiyār naṭañcey viṭaivāyē</l>
+	</lg>
+	
+	<lg n="7" met="uncertain">
+		<l n="1">pātatt’ oli pāriṭam pāṭa naṭañcey</l>
+		<l n="2"><lb n="17"/> nātatt’ oliyar navilum<surplus>m</surplus> iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice>par</l>
+		<l n="3">kītatt’ oliyum keḻu<lb n="18" break="no"/>mum muḻavoṭu</l>
+		<l n="4">vētatt’ oliyum payilum viṭaivāyē </l>
+	</lg>
+	
+	<lg n="8" met="uncertain">
+		<l n="1">Eṇṇāta v-arakka<choice><orig>n</orig><reg>ṉ</reg></choice> Urattai nerit<lb n="19" break="no"/>tu-p</l>
+		<l n="2">paṇ-ṇ ārtaru pāṭal ukantavar paṟṟ’ ām</l>
+		<l n="3">kaṇ ār viḻaviṟ kaṭivītikaḷ tōṟum</l>
+		<l n="4">viṇṇōrkaḷum<lb n="20"/>vant’ iṟaiñcum viṭaivāyē</l>
+	</lg>
+	
+	<lg n="9" met="uncertain">
+		<l n="1">puḷ vāy piḷantā<choice><orig>n</orig><reg>ṉ</reg></choice> Aya<choice><orig>n</orig><reg>ṉ</reg></choice> pūmuṭi pātam</l>
+		<l n="2">Oḷvānilan tēṭum Oru<lb n="21" break="no"/>vaṟk’ iṭam ām</l>
+		<l n="3">teḷ vār punaṟ ceṅkaḻunīrmukai ta<choice><orig>nn</orig><reg>ṉṉ</reg></choice>il</l>
+		<l n="4">viḷ vāy naṟav’ uṇṭu vaṇṭ’ ār viṭaivāyē</l>
+	</lg>
+	
+	<lg n="10" met="uncertain">
+		<l n="1"><lb n="22"/>Uṭai y-ētum ilār tuvār āṭai Uṭuppōr</l>
+		<l n="2">kiṭaiyā neṟiyān keḻum<choice><sic>i</sic><corr>u</corr></choice>m<surplus>m</surplus> iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice>par</l>
+		 <l n="3">Aṭaiyār pura<lb n="23" break="no"/>m vēva mūvaṟk’ aruḷceyta</l>
+		<l n="4">viṭai y-ār koṭiyā<choice><orig>n</orig><reg>ṉ</reg></choice> aḻak’ ār viṭaivāyē</l> 
+	</lg>
+	
+	<lg n="11" met="uncertain">
+		<l n="1">Āṟum matiyum poti vēṇiya<lb n="24" break="no"/>ṉ ūr ām<!--@apparatus: digital says ur am paaRu--></l>
+		<l n="2">āṟ’ il peruñ celva mali viṭai vāyai</l>
+		<l n="3">nāṟum poḻiṟ kāḻiyar ñā<choice><orig>n</orig><reg>ṉ</reg></choice>acampanta<choice><orig>n</orig><reg>ṉ</reg></choice></l>
+		<l n="4">cūṟun tamiḻ vallavar<lb n="25"/>kuṟṟam aṟṟōyēy</l>
+	</lg>
+    
          </div>
           
 <!--<div type="apparatus">
