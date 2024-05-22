@@ -108,24 +108,26 @@
 		-->
 	
 	<p>
-		<lb n="1"/>śakāttam <num value="1663">1633</num>-ṉ
+		<lb n="1"/><hi rend="grantha">śakā</hi>t=ta<hi rend="grantha">m<unclear>·</unclear></hi> <num value="1663">1000+ 6 100+ 3 10+ 3</num>-ṉ
 		<lb n="2"/>mēl cellā niṉṟa nanta
-		<lb n="3" break="no"/>ṉa {varuṣam} Aṟpaci {mācam} 10+ 5 {tēti}
-		<lb n="4"/>rāja-śrī-vijayaraṅka-mu
-		<lb n="5" break="no"/>ttu-cokka-ṉāta-ṉāyakkar
+		<lb n="3" break="no"/>ṉa <g type="varuṣam"/> Aṟpaci <g type="mācam"/> <num value="15">10+ 5</num><g type="tēti"/>
+	</p>
+	<p>
+		<lb n="4"/><hi rend="grantha">rāja-śrī</hi>-vi<hi rend="grantha">ja</hi>yaraṅka-mut
+		<lb n="5" break="no"/>tu-cokka-ṉāta-ṉāyakkar
 		<lb n="6"/>Ayyaṉ Avarkaḷ kāriyat
-		<lb n="7" break="no"/>tukku kaṟtar-āṉa Atipan-āyi
+		<lb n="7" break="no"/>tuk=ku kaṟtar-āṉa <unclear reason="eccentric_ductus">A</unclear>tipan-āyi
 		<lb n="8" break="no"/>ṉa nāṟaṇappa-ṉāyakkar ka <gap reason="lost" quantity="1" unit="character" precision="low"/>
 		<lb n="9" break="no"/>mur raṅkā-ceṭṭiyār rāmaṉā
 		<lb n="10" break="no"/>ta-mutaliyār caṅkarayyaṉ
 		<lb n="11"/>y-ivarkaḷ pirāṉmalai nal
 		<lb n="12" break="no"/>la-maṅkai pāka-cuvāmi
-		<lb n="13"/>kōvil śrī-paṇṭāra-kariya
+		<lb n="13"/>kōvil <hi rend="grantha">śrī</hi>-paṇṭāra-kariya
 		<lb n="14" break="no"/>ttukku kaṟtar-āna paratēci mu
 		<lb n="15" break="no"/>ttirai maturai ṉāyaṉa paṇ <gap reason="lost" quantity="3" unit="character" precision="low"/>
-		<lb n="16" break="no"/>tāmum tāṉattār talattārukku
-		<lb n="17"/>kōvil kiṟāmattukku A
-		<lb n="18" break="no"/>ramaṉai pōṟum cilla
+		<lb n="16" break="no"/>tāmum tāṉat=tār talat=tārukku
+		<lb n="17"/>kōvil kiṟāmat=tukku A
+		<lb n="18" break="no"/>ra-maṉai pōṟum cilla
 		<lb n="19" break="no"/>ṟai tēva y-illai Eṉṟu caṟu
 		<lb n="20" break="no"/>va-māṉiyam-āka kaṭṭaḷai y-iṭ
 		<lb n="21" break="no"/>ṭōm
@@ -133,11 +135,11 @@
 	<p>
 		Anta paṭikku cuvāmi k
 		<lb n="22" break="no"/>āriyam tāmatiyāmal Anupa
-		<lb n="23" break="no"/>vittu koḷḷavum
+		<lb n="23" break="no"/>vit=tu koḷḷavum
 	</p>
 	<p>
 		Inta taṟmat
-		<lb n="24" break="no"/>tukku Akutam niṉaittavaṉ ke
+		<lb n="24" break="no"/>tuk=ku Akitam niṉaittavaṉ ke
 		<lb n="25" break="no"/>ṅkai-karaiyilē kār-ām-pacu
 		<lb n="26" break="no"/>vai <gap reason="lost" quantity="10" unit="character" precision="low"/>
 		<lb n="27"/><gap reason="lost" quantity="12" unit="character" precision="low"/> 		
