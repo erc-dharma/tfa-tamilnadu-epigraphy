@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, time of Kulottuṅga Cōḻa, year lost</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Kulottuṅga Cōḻa, year lost</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:vija">
@@ -126,8 +126,7 @@
 			<lem><num value="670">6 <g type="numeral">100</g> 7 <g type="numeral">10</g></num>ñ ce</lem>
 			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01"><num value="670">6 <g type="numeral">100</g> 7</num>m Ic ce</rdg>
 		</app> 
-	</listApp>
-	<listApp>
+		
 		<app loc="14">
 			<lem>ṇi<choice><orig>n</orig><reg>ṉ</reg></choice>ōm</lem>
 			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">ttōm</rdg>
