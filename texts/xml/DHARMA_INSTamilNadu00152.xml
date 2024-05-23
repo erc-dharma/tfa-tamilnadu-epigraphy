@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of ***, year ***</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, no king, no year</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:vija">
@@ -47,7 +47,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Label on a bronze sculpture.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -87,9 +87,11 @@
 <body>
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
+		
+		<!--Check Grantha letters-->
 	<p>
-		<lb n="1"/>...
+		<lb n="1"/>Akkaḷa<hi rend="grantha">śīkha</hi>ṉ kuppu-svāmi naṭēśan
+		<lb n="2"/>Akaḷaṅkaṉ <hi rend="grantha">śrī</hi>-vayittiṉāta-svāmi naṭēcaṉ
 	</p>	
 		
 </div>
@@ -105,11 +107,12 @@
 	
 </div>-->
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
-	<p n="1">...</p>	
+	<p n="1">...</p>
+	<p n="2">...</p>	
 	
-</div>
+</div>-->
       	
 <!--<div type="commentary">
       		

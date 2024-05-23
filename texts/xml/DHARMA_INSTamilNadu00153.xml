@@ -89,7 +89,15 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>
-		<lb n="1"/>...
+		<lb n="1"/><g type="pcl"/>
+		<lb n="2"/>RĀ
+		<lb n="3" break="no"/>ya-<hi rend="grantha">srī</hi>
+		<lb n="4" break="no"/>pāvā
+		<lb n="5" break="no"/>ṭai
+		<lb n="6" break="no"/>-ṉāya
+		<lb n="7" break="no"/>k=kar A
+		<lb n="8" break="no"/>varka
+		<lb n="9" break="no"/>ḷ
 	</p>	
 		
 </div>
@@ -105,11 +113,11 @@
 	
 </div>-->
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
 	<p n="1">...</p>	
 	
-</div>
+</div>-->
       	
 <!--<div type="commentary">
       		
