@@ -89,7 +89,9 @@
 <body>
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
+	
+	<!--Check VVG edition with full set of EFEO pictures-->
+	
 	<p>
 		<lb n="1"/><gap reason="lost" quantity="18" unit="character" precision="low"/> malai
 		<lb n="2"/>Iṟai-y-ili-y-āka Iṭṭu variyilār <gap reason="lost" quantity="3" unit="character" precision="low"/> ṭṭa viḷava
