@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of ***, year ***</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Caṭaiyavarman Śrī Vallabha, year 3</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:vija">
@@ -91,7 +91,63 @@
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<lb n="1"/>svasti śrī
 	</ab>	
+	<p>
+		kō-c-caṭa-paṉmar tiri-puvaṉa-c-cakkarava<reg>r</reg>ttikaḷ <hi rend="grantha">śrī-śrī</hi>-valla<supplied reason="omitted">pa</supplied>-tēvarkku yāṇṭu mūṉṟ-āvatu tai-mātattu nāḷ
+	</p>
+	<p>
+		camaiya-paṇṭārattārkku tiru-naḷḷāṟṟu
+		<lb n="2"/>nāṭ-uṭaiya nāyaka-p pēriḷamaiyārōm t[i>ī]ṭṭu-k kuṭutta paric’ āvatu
+	</p>
+	<p>		
+		Ivv-ūril piḷḷai cuntara-pāṇṭiya-<hi rend="grantha">brahmā</hi>rāyar Eḻunt-aruḷa-p paṇṇiṉa nāyaṉār
+		<lb n="3"/>Avimukta nāyaṉār kōyilil nāyaṉār campanta-p-perumāḷ nāyanārai In-nāḷ mutal perumāḷ tiru-v-ulā-c ceyyum tiru-nāḷum tiṅkaḷ tiru-nāḷum Eḻunt-aruḷum
+		<lb n="4"/>tiru-nāḷ It-taṉaiyum nāyaṉār campanta-p-perumāḷ nāyaṉāraiyum tiru-nāḷ viṭāmal kūṭa Eḻunt-aruḷap paṇṇa-k kaṭavōm ākavum
+	</p>
+	<p>
+		Eḻunt-aruḷuvikkum Iṭa
+		<lb n="5" break="no"/>ttu cī-pātaṉ tāṅkum pēr Eṭṭum paṇ Eṭukka-p pēr Iraṇṭum Āka-p pēr-p pattum tiru-viḷakku Āḷum tāḻv’ aṟa Iṭṭu Eḻunt-aruḷa-p paṇṇa-k kaṭavō
+		<lb n="6" break="no"/>m ākavum
+	</p>
+	<p>
+		Ip-paṭikku cantirātitta-varaiyum cella Eḻunt-aruḷa-p paṇṇa-k kaṭavōm ākavum
+	</p>
+	<p>
+		Ip-paṭikku It-t[i>ī]ṭṭē cātaṉam-āka-k ko
+		<lb n="7" break="no"/>ṇṭu kallilum cempilum veṭṭi-k koḷḷavum
+	</p>
+	<p>
+		Ip-paṭikku cammatittu t[i>ī]ṭṭu-k kuṭuttōm camaiya-paṇṭārattārkku nāṭ-uṭai-nā
+		<lb n="8" break="no"/>yaka-p-pēriḷamaiyārōm <g type="pc">.</g>
 		
+		<list>
+			<item>Ivai nāṭuṭai-nāyaka-vēḷāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>palkāl naṭanta vēḷāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>cāṉṟu pōṉa vēḷāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>pōka mātta
+				<lb n="9" break="no"/>pūnmulai-vēḷāṉ Eḻuttu kāviyaṅ kaṇṇi vēḷāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>nāvilū[r>ṟ]um perumāḷ vēḷāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>nāṟ-patt-eṇṇāyira-vēḷāṉ Eḻuttu <g type="pc">.</g></item>
+			<item><lb n="10"/>vaḷaiyam Aḻakiya perumāḷ vēḷāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>mārāya-maṅkalam-uṭaiyāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>koṟṟa-maṅkalam-uṭaiyāṉ Eḻuttu <g type="pc">.</g> </item>
+			<item>Āṉaikkuṭaiyāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>kappa
+				<lb n="11" break="no"/>l-uṭaiyāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>neṟkuppai-y-uṭaiyāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>neṉmali-y-uṭaiyāṉ Eḻuttu  <g type="pc">.</g></item>
+			<item><hi rend="grantha">śrī-māheśvara</hi>-vēḷāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>taṇṭalaṅ kiḻavaṉ Eḻuttu</item>
+			<item><lb n="12"/>caṇṭēcura-vēḷāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>neṉmali-Uṭaiyāṉ kantaṉ Ēḻu-k-kumāra-maṅkalam-uṭaiyāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>māṅkuṭaiyāṉ Eḻuttu</item>
+			<item>cempaṅkuṭaiyāṉ Eḻuttu</item>
+			<item><lb n="13"/>Araic-uṭaiyāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>Āṟṟūr-uṭaiyāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>piṟaiyāṟu-kiḻavaṉ Eḻuttu</item>
+			<item>kuṟukkai-y-uṭaiyāṉ vēḷāṉ Eḻuttu</item>
+		</list>
+		
+	</p>	
 </div>
 	
 <!--<div type="apparatus">
@@ -105,11 +161,11 @@
 	
 </div>-->
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
 	<p n="1">Prosperity! Fortune!</p>	
 	
-</div>
+</div>-->
       	
 <!--<div type="commentary">
       		
