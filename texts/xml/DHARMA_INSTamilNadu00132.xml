@@ -8,8 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu 32, Tarppāraṇyēcuvarar, Tiyākarājacuvāmi shrine, western
-					base, time of Vīramohaṉ Kāṭavarāyaṉ</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Vīramohaṉ Kāṭavarāyaṉ, no year</title>
 			    <respStmt>
 			        <resp>intellectual authorship of edition</resp>
 			        <persName ref="part:vija">
@@ -180,3 +179,4 @@
       </body>
   </text>
 </TEI>
+<!--Tarppāraṇyēcuvarar, Tiyākarājacuvāmi shrine, western base-->
