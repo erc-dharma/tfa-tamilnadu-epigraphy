@@ -93,8 +93,8 @@
 	</ab>
 	
 	<p>      			
-		Aruḷi-c ceyal Uṭaiyār tirunaḷḷāṟ-uṭaiyār kōyi<unclear>l</unclear>
-		<lb n="2"/>t<unclear>ā</unclear>ṉattāṟkku tiru-naḷḷāṟu tiru-ñ<supplied reason="lost">ā</supplied>ṉa-campantaṉ tiruvōṭai-y-āy taṅkaḷukku <unclear>vi</unclear>ṭṭa kuḻi patiṉāl-āva<unclear>tu</unclear>
+		Aruḷi-c ceyal Uṭaiyār tiru-naḷḷāṟ-uṭaiyār kōyi<unclear>l</unclear>
+		<lb n="2"/>t<unclear>ā</unclear>ṉattāṟkku tiru-naḷḷāṟu tiru-ñ<supplied reason="lost">ā</supplied>ṉa-campantaṉ tiru-v-ōṭai-y-āy taṅkaḷukku <unclear>v-i</unclear>ṭṭa kuḻi patiṉāl-āva<unclear>tu</unclear>
 		<lb n="3"/>māci-mā<hi rend="grantha">sa</hi>-mutal paṟṟi-p payiṟ ceytu koḷka <g type="pcs">.</g>
 	</p>
 	<p>
@@ -116,7 +116,7 @@
 	
 </div>-->
 	
-<div resp="part:emfr" type="translation">
+<!--<div resp="part:emfr" type="translation">
       		
 	<p n="1">
 		Prosperity! Fortune! 
@@ -134,17 +134,18 @@
 		These <supplied reason="subaudible">are</supplied> the letters<note>That is, the signature.</note> <supplied reason="subaudible">of</supplied> Vāṉātaraiyaṉ.
 	</p>
 	
-</div>
+</div>-->
       	
-<!--<div type="commentary"/>-->
+<div type="commentary">
+	<p>This inscription follows immediately on the same line  the inscription <ref target="DHARMA_INSTamilNadu00136.xml">Tamil Nadu 136</ref>.</p>
+</div>
       		
       	      	
 <div type="bibliography">
 	
 	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 37), with photos; in <bibl><ptr target="bib:Vicayavenukopal2018_01"/></bibl> (Āvaṇam 29.26.2).</p>
-	<p>This edition by G. Vijayavenugopal (2019). Reviewing, encoding, critical apparatus, and translation by Emmanuel Francis (2024).</p>
-	
-	
+	<p>This edition by G. Vijayavenugopal (2019). Curated by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016).</p>
+		
 	<listBibl type="primary">
 		
 		<bibl n="VVG">
@@ -153,7 +154,7 @@
 			<citedRange unit="page">96-97</citedRange>
 		</bibl>
 		
-		<bibl n="P">
+		<bibl n="VVK">
 			<ptr target="bib:Vicayavenukopal2018_01"/> 
 		</bibl>
 		
