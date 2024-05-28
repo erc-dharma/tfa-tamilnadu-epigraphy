@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of ***, year ***</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of ***, year 13</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:vija">
@@ -89,7 +89,29 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>
-		<lb n="1"/>
+		<lb n="1"/><hi rend="grantha">śrī</hi>
+		<gap reason="lost" extent="unknown" unit="character"/> nāyanār kōyil tāṉattārkku Iṉ-ṉāyaṉār <gap reason="lost" extent="unknown" unit="character"/> kāṇi Uṭaiya vaṉṉiyar <gap reason="lost" extent="unknown" unit="character"/> perumāṉukkum nācciyār pōkamār
+		<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> kku kutta-maṅkalattu Iṉ-ṉāyaṉār tiru <gap reason="lost" extent="unknown" unit="character"/>
+		<lb n="3"/>kiyāṉ nilattilē Ivarkaḷukku Iṟai-y-ili-y-āka viṭṭa nilam Iru-vēliyum Iṉ-ṉāyaṉārkku tiru-c-cuṟṟil ivar ceyvikkiṟa tiru-nanta-vaṉattukku
+		<lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> nilam Iru-vēliyum Āka <g type="undefined"/> <g type="undefined"/> li<!--check symbols--> Iṉ-ṉilam mū-vēliyum patiṉ mūṉṉ-āvatu Etir-āvatu taim-māta-mutal tēva-tāṉa-Iṟai
+		<lb n="5" break="no"/>y-ili-y-āka kuṭuttōm
+	</p>
+	<p>
+		Iṉ-ṉilattāl varum kaṭamaiyum Antarāyam kāriya-Ārāṭcci nel-vari poṉ-vari kāṭu kaṭamai <gap reason="lost" extent="unknown" unit="character"/> Eṟpērppaṭṭa I
+		<lb n="6" break="no"/>ṟaikaḷum tēvaikaḷum variyilār kaṇakkilum kaḻittu Ip-paṭikku Ivv-ōlai piṭi-pāṭ-āka-k koṇṭu cantirātitta-varaiyum celva
+		<lb n="7" break="no"/>t’ āka kallilum cempilum veṭṭi-k koḷḷavum
+	</p>
+	<p>
+		Iṉ-ṉilam kārumpicāṉamum vampum kaṭai-p-pūvum mañcaḷum Iñci vā
+		<lb n="8" break="no"/>ḻai kamuku koḻuntu maṟṟum eṟpēṟpaṭṭa payir ceytu koṇṭu Iṉ-ṉāḷ mutal muṭaṭaṅka Iṟai-y-ili-y-āka A
+		<lb n="9" break="no"/>ṉupavittu-p pōtavum pāṟka yāṇṭu <num value="13"><g type="numeral">10</g> 3</num> Etir ām āṇṭu nāḷ <num value="182"><g type="numeral">100</g> 8 <g type="numeral">10</g> 2</num>
+	</p>
+	<p>
+		<list>
+			<item>Ivai Iḷāyākuṭi Uṭaiyāṉ
+				<lb n="10"/>Eḻuttu</item>
+			<item>Ivai kāliṅka-rāyaṉ Eḻuttu</item>
+		</list>
 	</p>	
 		
 </div>
@@ -105,11 +127,11 @@
 	
 </div>-->
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
 	<p n="1">...</p>	
 	
-</div>
+</div>-->
       	
 <!--<div type="commentary">
       		
