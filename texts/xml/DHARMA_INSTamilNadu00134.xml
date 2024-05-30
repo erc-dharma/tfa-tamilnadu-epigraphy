@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Kōpperuñ Ciṅkaṉ, year 11</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Kōpperu<supplied reason="lost">ñciṅkaṉ</supplied>, year 11</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:vija">
@@ -89,9 +89,57 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī
+		<lb n="1"/>svasti śrī <g type="undefined">.</g><!--visarga followed by piḷḷaiyār cuḻ-->
 	</ab>	
+	
+	<p>
+		cakala-puvaṉa-c-cakkara-va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-Avaṉiyāḷa-p piṟantāṉ kō-p-peru
+		<gap reason="lost" extent="unknown" unit="character"/>
+		vaṟkku yāṇṭu <num value="11"><g type="numeral">10</g> 1</num>-Āvatu mīṉa-nāyaṟṟu-p pū<hi rend="grantha">rvva-pakṣa</hi>ttu-p pañca<hi rend="grantha">daśi</hi>yum cevvāy-k-kiḻamaiyum peṟṟa
 		
+		<lb n="2"/>Uttirattu nāḷ
+	</p>
+	<p>		
+		Uyya-k-koṇṭār vaḷa-nāṭṭu muḻaiyūr-nāṭṭu Uṭaiyār tiru-naḷḷā
+		<gap reason="lost" extent="unknown" unit="character"/>
+		viruta-rāya-payaṅkara-vaḷa-nāṭṭu mēṟkāl-nāṭṭu Erukkattampuliyūr-āṉa Irācēntira-cōḻa-purattu neṉmali
+		
+		<lb n="3" break="no"/>y-uṭaiyāṉ tēvaṉ celvāṇṭāṉ taṉakku naṉṟāka-t taṉ pērāl ceykiṟa celvā
+		<gap reason="lost" extent="unknown" unit="character"/>
+		tavaṉamuñ ceyya Uyya-k-koṇṭār-vaḷa-nāṭṭu-p putta-k-kuṭiyil koṇṭu viṭṭa nattattu Āṭṭai-t tiru-nāḷil a
+		
+		<lb n="4"/>ñcān tiru-p-pavaṉiyum tīrtta-t tiru-nāḷum Ēṟi y-aruḷa-c ceyta tiru-maṇṭapam n<choice><orig>i</orig><reg>ī</reg></choice>kki  n<choice><orig>i</orig><reg>ī</reg></choice>kki Uḷḷ
+		<gap reason="lost" extent="unknown" unit="character"/>
+		tiru-p-paḷḷi-t-tāmamum teṅku palā Uḷḷiṭṭa maraṅkaḷum ākkukiṟa tiru-t-toṇṭar kūmūr-uṭaiyār Īcāṉa-tēvaṟ
+		
+		<lb n="5" break="no"/>kum Ivar cantāṉattu-t tiru-t-toṇṭarkaḷukkum <hi rend="grantha">jī</hi>vaṉattu-k kuṭal-āka-k <unclear>kāṇṭi</unclear> <gap reason="lost" quantity="3" unit="character"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		ā mattāl Inta-c celvāṇṭāṉ <hi rend="grantha">pra</hi>yākai-t tiru-viṭai-marut-uṭaiyāṉ paṭṭaṉ pakkalum vilai-koṇ
+		
+		<lb n="6" break="no"/><supplied reason="lost">ṭu ve</supplied>ṇkāṭu tēvaṉ Iruppu <g type="nilam"/> <num value="0.325">1/4 1/20 1/40</num>-m pāṭakattu mā-tēva-paṭṭaṉ pakkal <gap reason="lost" quantity="3" unit="character"/>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		m pāṭakattu-t tiru-naḷḷāṟ-uṭaiyāṉ paṭṭaṉ pakkalum kā<hi rend="grantha">śya</hi>paṉ kulōttuṅka-cōḻa-paṭṭaṉ pakkalum vilai-ko
+		
+		<lb n="7" break="no"/><supplied reason="lost">ṇṭa</supplied> <gap reason="lost" quantity="2" unit="character"/> rāyaṅkuṭaiyāṉ Iruppu Ūṟṟu-k kēṇiyum kaṭipa
+		<gap reason="lost" extent="unknown" unit="character"/>
+		Ivaṉ pakkalukku me
+		<gap reason="lost" extent="unknown" unit="character"/>
+		<unclear>ṭi</unclear>yāṉ pakkal vilai-koṇṭa cūvar Aṭi <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num>-m Āka <g type="nilam"/> <num value="1.065625">1  1/40  3/80  1/320</num>
+		
+	</p>
+	<p>
+		In-nilam Oṉṟē Arai-mā v-a ⌈
+		<lb n="8" break="no"/><supplied reason="lost">rai-k-kā</supplied>ṇi muntirikaiyum Ūr māvinta kaṭamai kuṭimai Iṟuttu
+		<gap reason="lost" extent="unknown" unit="character"/>
+		koṇṭu <gap reason="lost" quantity="1" unit="character"/> 
+		<gap reason="lost" extent="unknown" unit="character"/>
+		<supplied reason="lost">It-tēvaṟ</supplied>ku-p piṉpum Ivar cantāṉattil Uḷḷār It-tiru-nanta-vaṉañ ceytu In-nilaṅ kāṇi-y-āka <choice><sic>vu</sic><corr>A</corr></choice>ṉupavikka-k kaṭavarkaḷ āka In
+		<lb n="9" break="no"/>-<supplied reason="lost">neṉma</supplied>li Uṭaiyāṉ tēvaṉ celvā<unclear>ṇṭāṉ</unclear>		<gap reason="lost" quantity="5" unit="character"/>
+		<unclear>ṅkaḷ O</unclear>
+		<gap reason="lost" extent="unknown" unit="character"/>
+		vē
+		<gap reason="lost" extent="unknown" unit="character"/>	
+	</p>
 </div>
 	
 <!--<div type="apparatus">
