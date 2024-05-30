@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of ***, year ***</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Caṭaiyavarman Sundara Pāṇḍya, year <unclear>1</unclear>3 + 1</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:vija">
@@ -87,10 +87,49 @@
 <body>
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
+		
+		<!--Lines 16-24: to be checked from detailed photos-->
+		
 	<p>
-		<lb n="1"/>
-	</p>	
+		<lb n="1"/>svasti śrī <unclear><g type="pcs"/></unclear>
+	</p>
+
+	<p>
+		kōṟ-caṭ<choice><orig>a</orig><reg>ai</reg></choice>-paṉmar tiri-puvaṉa-c-cakkara-va<reg>r</reg>ttikaḷ śrī-cuntara-pāṇṭiya-tēvarkku y[ā]ṇṭu <num value="13"><unclear><g type="numeral">10</g></unclear> 3</num>-<unclear>va</unclear>tu
+		<lb n="2"/>Etir-ām āṇṭu <hi rend="grantha">meṣa</hi>-nāyaṟṟu p<choice><orig>u</orig><reg>ū</reg></choice><hi rend="grantha">rvva-pakṣa</hi>ttu catu<hi rend="grantha">rddaśi</hi>yum tiṅka-ṭ-kiḻamaiyum peṟṟa cōti-n<supplied reason="lost">ā</supplied>ḷ
+	</p>
+	<p>		
+		Uyya-k-ko
+		<lb n="3" break="no"/>ṇṭār-vaḷa-nāṭṭu muḻaiyyūr-nāṭṭu Uṭaiyār tiru-naḷḷāṟ-uṭaiyār kōyil Āti-caṇṭē<hi rend="grantha">śvara</hi>-tēvakaṉmika
+		<lb n="4" break="no"/>ḷōm <unclear>vi</unclear>ruta-rāca-payaṅkara-vaḷa-nāṭṭu kuṟukkai-nāṭṭu vaṉṉiyūril vaṉṉiyūr kiḻavaṉ Aṇai
+		<lb n="5" break="no"/>-c-cakai Aḻakiyār makaṉ cuntara-p-perumāṉukku tāṉa-niyōkam kuṭutta paric’ āvatu
+	</p>
+	<p>		
+		<supplied reason="lost">U</supplied>ṭaiyār tiru-naḷ
+		<lb n="6" break="no"/>ḷāṟ-uṭaiya nāyaṉārkku perumāḷ tiru-nāmattālē kō-taṇṭa-rāmaṉ ca<unclear>n</unclear>tiyum puraṭṭāci tiru-nāḷum
+		<lb n="7"/>kaṭṭuvittu Amutu-paṭi cāttu-p paṭi Uḷḷiṭṭa nicata-nimantaṅkaḷukkum tiru-nāḷ celavukkum pala tiru-p-paṇi
+		<lb n="8" break="no"/>kaḷukkum nāṟ-patiṟṟu vēli nilamum Uḷḷ<choice><orig>u</orig><reg>ū</reg></choice>r Āyavaṟkammum Iṟai-y-ili-y-āka Iṭuvittu Ittāl varum U
+		<lb n="9" break="no"/>pātikaḷum tēvaikaḷum Iṟaikaḷum māḷikai nimantamum maṟṟum Uḷḷiṭṭa Upātikaḷum kaḻip=pittu tiru-muka
+		<lb n="10" break="no"/>mum Eḻutuvittu-k koṇṭu varukayil Ip=-pa=ṭi ceytu vanta Ivarkku Iṉ-ṉāyaṉār kōyil māṭāpattiyamum ⌈
+		<lb n="11"/>teṟkil tiru-vītiyil teṉ-ciṟakil tiru-v-uṇāḻikaiyār maṭattukku kiḻakku <hi rend="grantha">śrī</hi>-mukkōl taṟai maṉai<supplied reason="lost">yu</supplied><unclear>m</unclear> kāṇ<supplied reason="lost">i</supplied>-y-āka-k ku
+		<lb n="12" break="no"/>ṭuttōm
+	</p>
+	<p>
+		nāḷ Oṉṟukku tūṇi Āka vanta nellu nimanta<supplied reason="lost">m</supplied>-āka-p peṟavum
+		Ip-paṭi cantirātitta-varaiyum kāṇi-y-
+		<lb n="13" break="no"/>āka koṇṭu viṟṟum Oṟṟi vaittum koḷḷa-k kaṭavar ākavum
+	</p>
+	<p>
+		Ip=-pa=ṭi cammatittu tāṉa-niyōkam paṇṇi 
+		<lb n="14"/>kuṭu<unclear>ttō</unclear>m vaṉṉiy<choice><orig>u</orig><reg>ū</reg></choice>r kiḻavar cuntarpa-perumāṉukku Uṭaiyār tiru-naḷḷāṟ-uṭaiyār kōyil Āti-caṇṭē<hi rend="grantha">śvara</hi>-tēvakaṉmika
+		<lb n="15" break="no"/>ḷōm
+	
+		<list>
+			<item>Ip-paṭikku kā<hi rend="grantha">śya</hi>paṉ toṇṭaṉ kulōttuṅka-cōḻa-paṭ=ṭaṉ Eḻuttu Eṉṟum</item>
+			<item>...<lb n="16-24"/>...</item>
+			<item><lb n="25"/>Ivai kōyil-kaṇakku vaikāv<choice><orig>u</orig><reg>ū</reg></choice>r-uṭaiyāṉ tiru-c-cirā-p-paḷḷi Uṭaiyāṉ Eḻuttu</item>
+		</list>
+	</p>
 		
 </div>
 	
@@ -105,11 +144,11 @@
 	
 </div>-->
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
 	<p n="1">...</p>	
 	
-</div>
+</div>-->
       	
 <!--<div type="commentary">
       		
@@ -119,7 +158,7 @@
 	
 	<p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 485); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 40), with photos. Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 485).</p>
 	
-	<p>This edition by G. Vijayavenugopal (2019). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016).</p>
+	<p>This edition by G. Vijayavenugopal (2019). Curated by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016).</p>
 	
 	<listBibl type="primary">
 		
