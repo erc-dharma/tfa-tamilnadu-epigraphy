@@ -210,18 +210,15 @@
       	</listApp>         
       	</div>
       	
-      	<div resp="part:emfr" type="translation">
+<!--<div resp="part:emfr" type="translation">
       		
-      		<p n="1">
-      			[<foreign>meykkīrtti</foreign> (<foreign>kaṭal cūḻnta</foreign> etc.) of Rājādhirāja I Cōḻa]
-      		</p>
-      		<p n="1-4"> <!--update!-->
-      			
-      		</p>
-      		
-      	</div>
+	<p n="1">
+		[<foreign>meykkīrtti</foreign> (<foreign>kaṭal cūḻnta</foreign> etc.) of Rājādhirāja I Cōḻa]
+	</p>
+	
+</div>-->
       	
-      	<div type="commentary">
+<div type="commentary">
       		
 <p>The <foreign>meykkīrtti</foreign> portion (line 1: <foreign>kaṭal cūḻnta</foreign> etc.) is split <foreign>cīr</foreign>- and <foreign>aṭi</foreign>-wise in the Tamil edition (following the parsing in <bibl><ptr target="bib:Cuppiramaniyam1983_01"/></bibl>) and word-wise in the transliteration.</p>
       		
