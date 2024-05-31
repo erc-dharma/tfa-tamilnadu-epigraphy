@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of ***, year ***</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, no king, no year</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:vija">
@@ -51,7 +51,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>. Some unusual Grantha letter: <foreign><hi rend="grantha">rā</hi></foreign> in <hi rend="grantha">rāje</hi>ntira (lines 7 and 9).</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -82,34 +82,150 @@
 			<change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the repository</change>
 		</revisionDesc>
 	</teiHeader>
-	<text xml:space="preserve">
+
+<text xml:space="preserve">
 
 <body>
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>
-		<lb n="1"/>
+		<milestone n="A" unit="zone" type="pagelike"/><lb n="1"/>svasti śr<supplied reason="lost">ī</supplied>
+	</p>
+	
+	<p>
+		Uṭaiyār t<supplied reason="lost">i</supplied>ru-naḷḷāṟ-uṭaiyār kōyil-t tāṉattāṟk=ku ciṟu-muṟi tiru-naḷḷāṟṟil nāyaṉār Avimutta-nātārkku Amutu-paṭi cāttu-p-paṭi tiru-viḷak=ku mara Eṇṇaik=ku
+		<lb n="2"/>Uṭaiyār tiru-naḷḷāṟ-uṭaiyār kōyili<supplied reason="omitted">l</supplied> paṇṭārattil Iraṇṭ-āvatu-<unclear>p=</unclear> paṅkuṉi-mātam Iru-pattu Iraṇṭān tiyati mutal viṭṭu-c celaveḻutum mutalukku Uṭal-āka Āvūril Uṭai
+		<lb n="3" break="no"/>yār tiru-naḷḷāṟ-uṭaiyār tiru-nāmattu Iṟuppāṉa nilattu<supplied reason="omitted">k</supplied>k’ uḷ vēli-k kaṇṭattilē Oṉṟ’arai nilam kaḻittu nāṭṭu viḻukkāṭṭilē kūṭṭi-k koṇṭu v-iṭṭatu
+	</p>
+	<p>		
+		In-nilattāl va
+		<lb n="4" break="no"/>rum mutal pūcaikku Uṭal-āka-k koḷḷavum Ip-paṭikku Ivv-ōlai piṭi-pāṭ-āka-k koṇṭu cantirātitta-varaiyum cella kallilum cempilum veṭṭi-k koḷḷavum pāṟpatu		
+	</p>
+	<p>
+		<list>
+			<item><lb n="5"/>Ivai malai-y-appa-rāyaṉ Eḻuttu <g type="dash"/></item>
+			<item>Ivai puttakk-uṭaiyāṉ Eḻuttu <g type="dash"/></item>
+			<item>Ivai cētiya-rāyaṉ Eḻuttu <g type="dash"/></item>
+			<item>Ivai maḻavarāyaṉ Eḻuttu <g type="dash"/></item>
+			<item>Ivai neyy-uṇṭāṉ paṭṭaṉ Eḻuttu</item>
+			<item>Ivai ciṟ
+				<lb n="6" break="no"/>ṟāmūr-uṭaiyāṉ Eḻuttu <g type="dash"/></item>
+			<item>Ivai kaṉaka-<hi rend="grantha">sabhā</hi>-pati-paṭṭaṉ Eḻuttu <g type="dash"/></item>
+			<item>Ivai varata-RĀ<hi rend="grantha">ja-bha</hi>ṭṭaṉ Eḻuttu <space/></item>
+			<item>Ivai paṟiyalūr kiḻavaṉ Eḻuttu <g type="dash"/></item>
+			<item>Ivai kōṭṭūr-uṭaiyāṉ Eḻuttu <space/></item>
+			<item>I
+				<lb n="7"/>vai Aṉ<choice><sic>ai</sic><corr>a</corr></choice>nta-kōḷari-<hi rend="grantha">bha</hi>ṭṭaṉ Eḻuttu <space/></item>
+			<item>Ivai <hi rend="grantha"><unclear reason="eccentric_ductus">rā</unclear></hi>ca-nārāyaṇa-<hi rend="grantha"><choice><orig>p</orig><reg>b</reg></choice>rah<supplied reason="omitted">m</supplied>ā</hi>-rāyaṉ Eḻuttu <space/></item>
+			<item>Ivai <hi rend="grantha">sarvva-de</hi>va-bhaṭṭaṉ Eḻuttu <space/></item>
+			<item>Ivai t<choice><sic>a</sic><corr>i</corr></choice>ru-māliruñcōlai-<hi rend="grantha">bha</hi>ṭṭaṉ Eḻuttu <space/></item>
+			<item>Ivai ve<gap  reason="illegible" quantity="1" unit="character"/>
+				<lb n="8"/>kiḻavaṉ Eḻuttu</item>
+			<item>Ivai ya<hi rend="grantha">jña</hi>-nārāyaṇa-<hi rend="grantha">bha</hi>ṭṭaṉ Eḻuttu <space/></item>
+			<item>Ivai pālaiyūr kiḻavaṉ Eḻuttu <unclear><g type="dash"/></unclear></item>
+			<item>Ivai piṭāvūr-uṭaiyāṉ Eḻuttu <space/></item>
+			<item>Ivai tūpp-uṭaiyāṉ Eḻuttu <space/></item>
+			<item>Ivai nal
+				<lb n="9" break="no"/>leḻuntūr-uṭaiyāṉ Eḻuttu <space/></item>
+			<item>Ivai vilāṭa<hi rend="grantha"><unclear reason="eccentric_ductus">rā</unclear></hi>yaṉ Eḻuttu <space/></item>
+			<item>Ivai kaṅkai-koṇṭa-puvaṉa-vēḷāṉ Eḻuttu <g type="dash"/></item>
+			<item>Ivai pāmpaikk-uṭaiyāṉ Eḻuttu</item>
+			<item><milestone n="B" unit="zone" type="pagelike"/><lb n="10"/>Ivai kaṉaka</item>
+			<item><lb n="11" break="no"/>rāyaṉ Eḻuttu</item>
+			<item><lb n="12"/>Ivai vaḻuti
+				<lb n="13" break="no"/>nāṭṭu-k kō
+				<lb n="14" break="no"/>⌉ Eḻuttu</item>
+			<item><lb n="15"/>Ivai natipaṉ
+				<lb n="16" break="no"/>maṉ Eḻuttu</item>
+		</list>
 	</p>	
 		
 </div>
 	
-<!--<div type="apparatus">
+<div type="apparatus">
            
 	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">...</rdg>
-		</app> 
+		<!--<app loc="0">
+			<lem></lem>
+			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01"></rdg>
+			<rdg source="bib:Vijayavenugopal2017_01"></rdg>
+		</app>-->
+		
+		<app loc="1">
+			<lem>Avimuttanātārkku</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">A<hi rend="grantha">bhi</hi>muttanāyaṉārkku</rdg>
+		</app>
+		
+		<app loc="1">
+			<lem>cāttuppaṭi</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">cāttuppaṭikku</rdg>
+		</app>
+		
+		<app loc="2">
+			<lem>Uṭaiyār</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">U<lb n="2" break="no"/>ṭaiyār</rdg>
+		</app>
+		
+		<app loc="2">
+			<lem>tirunaḷḷāṟuṭaiyār</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">naḷḷāṟuṭaiyār</rdg>
+		</app>
+		
+		<app loc="2">
+			<lem>kōyili<supplied reason="omitted">l</supplied></lem>
+			<rdg source="bib:Vijayavenugopal2017_01">kōyilil</rdg>
+		</app>
+		
+		<app loc="2">
+			<lem>Iraṇṭāvatu<unclear>p=</unclear> paṅkuṉi°</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">Iraṇṭāvatu paṅkuṉi°</rdg>
+		</app>
+		
+		<app loc="3">
+			<lem>nilattu<supplied reason="omitted">k</supplied>kuḷ</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">nilattukku Uḷ</rdg>
+		</app>
+		
+		<app loc="7">
+			<lem><hi rend="grantha"><unclear reason="eccentric_ductus">rā</unclear></hi>ca°</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">Irāca°</rdg>
+		</app>
+		
+		<app loc="7">
+			<lem><hi rend="grantha"><choice><orig>p</orig><reg>b</reg></choice>rah<supplied reason="omitted">m</supplied>ā</hi>rāyaṉ</lem>
+			<rdg source="bib:Vijayavenugopal2017_01"><hi rend="grantha">brah</hi>mārāyaṉ</rdg>
+		</app>
+		
+		<app loc="7">
+			<lem>t<choice><sic>a</sic><corr>i</corr></choice>rumāliruñcōlai°</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">tarumāliruñcōlai</rdg>
+		</app>
+		
+		<app loc="7">
+			<lem>ve<gap  reason="illegible" quantity="1" unit="character"/></lem>
+			<rdg source="bib:Vijayavenugopal2017_01">veri <gap  reason="illegible" extent="unknown" unit="character"/></rdg>
+		</app>
+		
+		<app loc="9">
+			<lem>nal<lb n="9" break="no"/>leḻuntūr</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">nal<lb n="9" break="no"/>laḻuntūr</rdg>
+		</app>
+		
+		<app loc="9">
+			<lem>pāmpaikkuṭaiyāṉ</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">pāmpūruṭaiyāṉ</rdg>
+		</app>
+		
 	</listApp>	
 	
-</div>-->
+</div>
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
 	<p n="1">...</p>	
 	
-</div>
+</div>-->
       	
 <!--<div type="commentary">
       		
@@ -117,7 +233,7 @@
       	
 <div type="bibliography">
 	
-	<p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 486); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 41), with photos. Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 486).</p>
+	<p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 486); re-edited (14 lines) in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 41), with photos. Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 486).</p>
 	
 	<p>This edition by G. Vijayavenugopal (2019). Curated by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016).</p>
 	
