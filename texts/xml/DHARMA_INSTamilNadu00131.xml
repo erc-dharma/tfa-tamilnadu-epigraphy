@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Vīramohaṉ Kāṭavarāyaṉ</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Vīramōkaṉ Kāṭavarāyaṉ</title>
 			    <respStmt>
 			        <resp>intellectual authorship of edition</resp>
 			        <persName ref="part:vija">
@@ -47,11 +47,11 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Records the <foreign>tiruppaṇi</foreign> (temple service or temple buiding/repairing) by Aḻakiya Nampirāṭṭi, the spouse of Vīramōhaṉ Kāṭavarāyaṉ.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p/>
+							<p><hi rend="bold">Tamil</hi>. No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -97,92 +97,90 @@
 	</ab>
 	
 	<p>
-		<unclear>vi</unclear>ramō<hi rend="grantha">ha</hi>ṉṉāṉa kāṭava
-		<lb break="no" n="2"/><unclear>r</unclear>āyaṉṉ aḻakiya-nampirāṭṭiyēṉ tiruppa
+		<unclear>v</unclear><choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>ra-mō<hi rend="grantha">ha</hi><choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>-āṉa kāṭava
+		<lb break="no" n="2"/>-<unclear>r</unclear>āya<choice><orig><unclear>ṉṉ</unclear></orig><reg>ṉ</reg></choice> aḻakiya nampirāṭṭiyēṉ tiruppa<supplied reason="lost">ṇi</supplied>
 	</p>
-                     
-      	</div>
-         
-      	<div type="apparatus">
-           
-               <listApp>
-               	<app loc="2">
-               		<lem>tiruppa</lem>
-               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">tiruppa<unclear>ṇi</unclear></rdg>
-               		<rdg source="bib:Vijayavenugopal2017_01">tiruppaṇi</rdg>
-               		<note>The full word is most probably <foreign>tiruppaṇi</foreign>.</note> 
-               	</app>
-               	
-               </listApp>         
-      	</div>
+	
+</div>
+	
+	<div type="apparatus">
+		
+		<listApp>
+			<app loc="2">
+				<lem>tiruppa<supplied reason="lost">ṇi</supplied></lem>
+				<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">tiruppa<unclear>ṇi</unclear></rdg>
+				<rdg source="bib:Vijayavenugopal2017_01">tiruppaṇi</rdg> 
+			</app>
+			
+		</listApp>         
+</div>
+	
+<div resp="part:emfr" type="translation">
+	
+	<p n="1">
+		Prosperity! Fortune! 
+	</p>
+	<p n="1-2">
+		<supplied reason="subaudible">This is</supplied> the <supplied reason="explanation"><foreign>tiruppa<supplied reason="lost">ṇi</supplied></foreign></supplied> <supplied reason="subaudible">of</supplied> Aḻakiya Nampirāṭṭi, <supplied reason="subaudible">spouse of</supplied> the Kāṭavarāyar alias Vīramōhaṉ.
+	</p>
+	
+</div>
+	
+<div type="commentary">
       	
-      	<div resp="part:emfr" type="translation">
-      		<p n="1">
-      			Prosperity! Fortune! 
-      		</p>
-      		<p n="1-2">
-      			Sacred service <supplied reason="explanation"><foreign>tiruppaṇi</foreign></supplied> of Aḻakiya-Nampirāṭṭi, <supplied reason="explanation">wife of</supplied> the Kāṭavarāyar alias Vīṟamōhaṉ
-      			<gap reason="lost"/>
-      		</p>
-      		
-      	</div>
+	<p>The same two individuals are mentioned in a nearby inscription (<ref target="DHARMA_INSTamilNadu00131.xml">Tamil Nadu 131</ref>).</p>
+
+	<p>Vīramōhaṉ Kāṭavarāyaṉ may be Ēḻicaimōhaṉ, the son of the Kāṭavarāya King Āṭkolliyār.</p>
       	
-      	<div type="commentary">
-      		<p>
-      			Vīramohaṉ Kāṭavarāyaṉ may be Ēḻicaimohaṉ, the son of the Kāṭavarāya King Āṭkolliyār.
-      		</p>
-      		<p>
-      			Since this inscription is found on the base of a small shrine, it may refer to the construction of this small shrine, as a service.
-      		</p>
-      	</div>
-      	
+	<p>Since this inscription is found on the base of a small shrine, it may refer to the construction of this small shrine, as a service.</p>
+      
+</div>
+	
 <div type="bibliography">
 	
-	<p>
-		First edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 480).
-		First translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 480).
-		Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 31), with photos.
-	</p>
-	<p>
-		This edition revised by G. Vijayavenugopal (2019).
-		Curated by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016).
-	</p>
-           
-      		<listBibl type="primary">
-      			
-      			<bibl n="K+V">
-      				<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
-      				<citedRange unit="item">480</citedRange>
-      				<citedRange unit="page">447</citedRange>
-      			</bibl>
-      			      	
-      			<bibl n="K">
-      				<ptr target="bib:Kuppusamy+al2010_01"/>
-      				<citedRange unit="item">480</citedRange>
-      				<citedRange unit="page">209</citedRange>
-      			</bibl>
-      			
-      			<bibl n="VVG">
-      				<ptr target="bib:Vijayavenugopal2017_01"/>
-      				<citedRange unit="item">31</citedRange>
-      				<citedRange unit="page">86</citedRange>
-      			</bibl>
-      			
-      					
-      		</listBibl>
-      		
-      		<listBibl type="secondary">
-      			
-      			<bibl>
-      				<ptr target="bib:ARIE1965-1966"/>
-      				<citedRange unit="page">89</citedRange>
-      				<citedRange unit="appendix">B/1965-1966</citedRange>
-      				<citedRange unit="item">458</citedRange>
-      			</bibl>
-      			
-      		</listBibl>
-      		
-        </div>
+	<p>Reported in <bibl><ptr target="bib:ARIE1965-1966"/></bibl> (ARIE/1965-1966/B/1965-1966/458).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 480); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 31), with photos.</p>
+	
+	<p>Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 480).</p>
+	
+	<p>This edition revised by G. Vijayavenugopal (2019). Curated by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016).</p>
+	
+	<listBibl type="primary">
+		
+		<bibl n="K+V">
+			<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
+			<citedRange unit="item">480</citedRange>
+			<citedRange unit="page">447</citedRange>
+		</bibl>
+		
+		<bibl n="K">
+			<ptr target="bib:Kuppusamy+al2010_01"/>
+			<citedRange unit="item">480</citedRange>
+			<citedRange unit="page">209</citedRange>
+		</bibl>
+		
+		<bibl n="VVG">
+			<ptr target="bib:Vijayavenugopal2017_01"/>
+			<citedRange unit="item">31</citedRange>
+			<citedRange unit="page">86</citedRange>
+		</bibl>
+		
+		
+	</listBibl>
+	
+	<listBibl type="secondary">
+		
+		<bibl>
+			<ptr target="bib:ARIE1965-1966"/>
+			<citedRange unit="page">89</citedRange>
+			<citedRange unit="appendix">B/1965-1966</citedRange>
+			<citedRange unit="item">458</citedRange>
+		</bibl>
+		
+	</listBibl>
+	
+</div>
       </body>
   </text>
 </TEI>

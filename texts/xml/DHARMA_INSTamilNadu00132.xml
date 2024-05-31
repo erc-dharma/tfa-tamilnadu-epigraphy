@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Vīramohaṉ Kāṭavarāyaṉ, no year</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Vīramōhaṉ Kāṭavarāyaṉ, no year</title>
 			    <respStmt>
 			        <resp>intellectual authorship of edition</resp>
 			        <persName ref="part:vija">
@@ -47,11 +47,11 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Mentions Aḻakiya Nampirāṭṭi, the spouse of Vīramōkaṉ Kāṭavarāyaṉ.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p/>
+							<p><hi rend="bold">Tamil</hi>. No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -97,11 +97,9 @@
       		</ab>
       		
       		<p>      			
-      			<lb n="1"/>vīramōkaṉ kāṭavarāya<unclear>ṉ</unclear>
-      			<lb n="2"/>Aḻakiya-nampirāṭ<unclear>ṭi</unclear>      			    			
-      		</p>
-      		
-      		<gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
+      			<lb n="1"/>vīra-mōkaṉ kāṭava-rāya<unclear>ṉ</unclear> <gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name"/></gap>
+      			<lb n="2"/>Aḻakiya-nampirāṭ<unclear>ṭi</unclear> <gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name"/></gap>      			    			
+      		</p>      		      		
          
       	</div>
          
@@ -111,11 +109,11 @@
                	
                	<app loc="1">
                		<lem>kāṭavarāya<unclear>ṉ</unclear></lem>
-               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">kāṭavarāyaṉ</rdg>
-               		<rdg source="bib:Vijayavenugopal2017_01">kāṭavarāyaṉ</rdg>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">kāṭavarāyaṉ</rdg>
                	</app>
                	<app loc="1">
                		<lem>nampirāṭ<unclear>ṭi</unclear></lem>
+               		<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01"/>
                		<rdg source="bib:Vijayavenugopal2017_01">nampirāṭṭi</rdg>
                	</app>
                	
@@ -127,20 +125,23 @@
       			Prosperity! Fortune! 
       		</ab>
       		<p n="1-2">
-      			Aḻakiya-Nampirāṭṭi, <supplied reason="explanation">wife of</supplied> Vīramōkaṉ Kāṭavarāyaṉ		
-      			<gap reason="lost"/>
+      			Aḻakiya-Nampirāṭṭi, <supplied reason="subaudible">spouse of</supplied> Vīramōkaṉ Kāṭavarāyaṉ
       		</p>
       		
       	</div>
       	
-      	<div type="commentary"/>
-      		
-      	
+<div type="commentary">
+	<p>The same two individuals are mentioned in a nearby inscription (<ref target="DHARMA_INSTamilNadu00131.xml">Tamil Nadu 131</ref>).</p>
+</div>
       	
 <div type="bibliography">
 	
-	<p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 32); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 32), with photos.</p>
-	<p>Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 32).</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1965-1966"/></bibl> (ARIE/1965-1966/B/1965-1966/457).</p>
+	
+	<p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 481); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 32), with photos.</p>
+	
+	<p>Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 481).</p>
+	
 	<p>This edition revised by G. Vijayavenugopal (2019). Curated by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016).	</p>
 	
       		<listBibl type="primary">
