@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of ***, year ***</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Rājarāja, year 25</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:vija">
@@ -51,7 +51,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+							<p><hi rend="bold">Tamil script</hi>. No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -88,10 +88,32 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/>
+		<milestone n="A" unit="zone" type="gridlike"/>
+		<unclear>svasti srī</unclear> <g type="gomutraFinal">.</g>
+	</ab>	
+	
 	<p>
-		<lb n="1"/>...
-	</p>	
+		t<supplied reason="lost">i</supplied>ri-puvaṉa-<unclear>c-cakk</unclear>ara-va<reg>r</reg>ttikaḷ <hi rend="grantha">srī</hi>
+		<milestone n="B" unit="zone" type="gridlike" break="no"/>
+		<hi rend="grantha">-rāja-rāja-de</hi>vaṟku yāṇṭu <num value="25">2 <g type="numeral">10</g> 5</num>-vatiṉ
+		<milestone n="C" unit="zone" type="gridlike"/>
+		Etir-ām āṇṭu tulā-nāyaṟṟu <hi rend="grantha"><unclear>p</unclear>ū<unclear>rvva</unclear>-pakṣa</hi>t<unclear>tu</unclear> <supplied reason="lost"><hi rend="grantha">da</hi></supplied>
+		<milestone n="D" unit="zone" type="gridlike" break="no"/>
+		śamiyum putaṉ-k<unclear>i</unclear>ḻamaiyum peṟṟa catayattu nā
+		<milestone n="E" unit="zone" type="gridlike" break="no"/>
+		<supplied reason="lost">ḷ</supplied>
+	</p>
+	<p>
+		Uyya-k-koṇṭār-vaḷa-<supplied reason="lost">n</supplied>]āṭṭu mu⌈
+		<milestone n="F" unit="zone" type="gridlike" break="no"/>
+		ḻaiyūr-nāṭṭu Uṭaiyār tirunaḷḷāṟu<supplied reason="lost">ṭai</supplied>
 		
+		<lb n="2" break="no"/>
+		<milestone n="A" unit="zone" type="gridlike"/>
+		
+	</p>
 </div>
 	
 <!--<div type="apparatus">
@@ -105,11 +127,11 @@
 	
 </div>-->
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
 	<p n="1">...</p>	
 	
-</div>
+</div>-->
       	
 <!--<div type="commentary">
       		
