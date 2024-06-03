@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of ***, year ***</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, no king, no year</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:vija">
@@ -89,31 +89,71 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī
-	</ab>	
+		<lb n="1"/>svasti śrī <g type="gomutraFinal">.</g><!--ḥ{pcl}-->
+	</ab>
+	
+	<p>
+		Uṭaiyār tiru-naḷḷāṟ-uṭaiyār kōyil <del rend="strikeout"><gap reason="illegible" quantity="1" unit="character"/></del> tāṉattārkku ciṟu-muṟi tiru-mārka<space/>ḻi<space/>-t tiru-v-ātiraikku tiru-mañcaṉattukku Uṭaiyār tiru-naḷḷāṟ-uṭaiyārkkum mutaliyār nāṭakam Āṭum
+		<lb n="2"/>perumāḷukkum perumāḷ nāṭ-uṭai-nāyaka-p-perumāḷukkum Amutu-paṭi cāttu-p-paṭikkum tiru-v-ulā-c-ceyt-aruḷa vēṇṭum kuṟaivaṟu-p-pukkaḷum nāl-āvatu mutal Āṟ-āvatu varaiyum miḻalai-k-kūṟṟattu naṭuvil-kūṟṟu Utai
+		<lb n="3" break="no"/>cca neṉmali Uṭaiyārakappai Āḻvār-āṉa kaliṅkatt’ araiyar kuṟaivaṟuttu pōtukaiyil Ik-kuṟaivaṟu-p-pukku Ivarkku nāṅkaḷ Iṟai-y-ili ce<supplied reason="omitted">yvi</supplied>ttu-k kuṭutta kāraikkāl Aḷattil Āṟ-āvatu varaiyum paṇṭārattukku U
+		<lb n="4" break="no"/>ppu paṭuttu pōnta vāy-k-kāl nīṅkal-āka Iṉ-ṉāyaṉār tiru-nāmattu-k-kāṇiyil<supplied reason="lost">ē</supplied> taricu kiṭanta nilattilē Oru kaṇṭamum Oru kēṇiyum tarucu tirutti Uppu paṭuttu <surplus>paṭuttu</surplus> mutal-āṉa Uppu puṟa-nāṭṭilē viṟṟu Im-mutal
+		<lb n="5"/>koṇṭu tiru-mārkaḻi-t tiru-v-ātirai tiru-nāḷ-t tāḻvu paṭāmal Eḻunt-aruḷa-p paṇṇavum Ip-paṭikku can<hi rend="grantha"><choice><orig>t</orig><reg>d</reg></choice>rā</hi>ti<hi rend="grantha">tya</hi>-varaiyum ceyvittu-k koḷḷavum pārppatu
+		
+	<list>
+		<item>Ivai puttakkuṭaiyāṉ ceytiyarāyaṉ Eḻuttu</item>
+		<item>Ivai
+			<lb n="6"/>kumara-maṅkalam-uṭaiyāṉ maḻavarāyaṉ Eḻuttu</item>
+		<item>Ivai neyyuṇṭāṉ paṭṭaṉ Eḻuttu</item>
+		<item>Ivai kōṭṭūr-uṭaiyāṉ Eḻuttu</item>
+		<item>Ivai kula-cēkara-<hi rend="grantha">brahmā</hi>rāyaṉ Eḻuttu</item>
+		<item>Ivai A<choice><sic>ḷ</sic><corr>ṉ</corr></choice>anta-kō<choice><sic>ḷ</sic><corr>ṉ</corr></choice>ēri-paṭṭa
+			<lb n="7" break="no"/>ṉ Eḻuttu Ivai Ātit</item>
+	</list>		
+	</p>
 		
 </div>
 	
-<!--<div type="apparatus">
+<div type="apparatus">
            
 	<listApp>
-		<app loc="0">
+		<!--<app loc="0">
 			<lem>...</lem>
-			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">...</rdg>
+			<rdg source="bib:Vijayavenugopal2017_01">...</rdg>
+		</app>-->
+		
+		<app loc="3">
+			<lem>ce<supplied reason="omitted">yvi</supplied>ttuk</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">ceyvittuk</rdg>
 		</app> 
-	</listApp>	
+		
+		<app loc="4">
+			<lem>paṭuttu <surplus>paṭuttu</surplus></lem>
+			<rdg source="bib:Vijayavenugopal2017_01">paṭuttu</rdg>
+		</app>
+		
+		<app loc="6">
+			<lem>A<choice><sic>ḷ</sic><corr>ṉ</corr></choice>antakō<choice><sic>ḷ</sic><corr>ṉ</corr></choice>ēri°</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">Aṉanta kōṉēri</rdg>
+		</app>
+		
+		<app loc="70">
+			<lem>Ātit</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">Āti</rdg>
+		</app>
 	
-</div>-->
-      	
-<div type="translation" resp="part:emfr">
-      		
-	<p n="1">Prosperity! Fortune!</p>	
+	</listApp>	
 	
 </div>
       	
-<!--<div type="commentary">
+<!--<div type="translation" resp="part:emfr">
       		
+	<p n="1">Prosperity! Fortune!</p>	
+	
 </div>-->
+      	
+<div type="commentary">
+      	<p>The inscription stops short, unfinished.</p>	
+</div>
       	
 <div type="bibliography">
 	
