@@ -89,7 +89,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī <g type="gomutraFinal">.</g><!--ḥ{pcl}-->
+		<lb n="1"/><space/> svasti śrī <g type="gomutraFinal">.</g><!--ḥ{pcl}-->
 	</ab>
 	
 	<p>
