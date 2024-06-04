@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of ***, year ***</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, no king, no year</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:vija">
@@ -105,11 +105,11 @@
 	
 </div>-->
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
 	<p n="1">...</p>	
 	
-</div>
+</div>-->
       	
 <!--<div type="commentary">
       		
