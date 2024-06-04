@@ -8,8 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu 26, Tarppāraṇyēcuvarar, central shrine, south wall, time of
-					Rājadhirāja Cōla, year 11</title>
+				<title>Tirunaḷḷāṟu 26, Tarppāraṇyēcuvarar, central shrine, south wall, time of Rājadhirāja Cōla, year 11</title>
 			    <respStmt>
 			        <resp>intellectual authorship of edition</resp>
 			        <persName ref="part:vija">
@@ -135,12 +134,7 @@
       			<lem>nāṟkaṭal</lem>
       			<rdg source="bib:Vijayavenugopal2017_01">kaṭal</rdg>
       		</app>
-      		
-      		<app loc="1">
-      			<lem>pōṟ-pukaḻ</lem>
-      			<note>Read <foreign>pōr-pukaḻ</foreign>, "the fame in fight"? The reading <foreign>poṟ-pukaḻ</foreign>; "golden fame," is also possible.</note>
-      		</app>
-      	      		
+      		      	      		
       		<app loc="1">
       			<lem>ciṅkaḷaruṅ</lem>
       			<rdg source="bib:Vijayavenugopal2017_01">ciṅkaḷarum</rdg>
