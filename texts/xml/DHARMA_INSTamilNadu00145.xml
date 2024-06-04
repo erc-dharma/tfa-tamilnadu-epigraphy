@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of ***, year ***</title>
+				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Sundara Pāṇḍya, year 11</title>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:vija">
@@ -88,28 +88,91 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/><space/> svasti śrī
+	</ab>
+	
 	<p>
-		<lb n="1"/>
+		Uṭaiyār A<hi rend="grantha">bhi</hi>muttī<hi rend="grantha">śvara</hi>m-uṭaiyār kōyil tāṉattārkku ciṟu-muṟi In-nāyaṉārkku-t tiru-p paṇikku Uṭal-āka-k kāraikkā<supplied reason="omitted">l</supplied> Aḷattu Aṭaippu nīṅ
+		<lb n="2"/>kal-āṉa nilattil In-nāyaṉār tiru-nāmattu-k-kāṇi-y-āṉa nilattilē perumāḷ cuntara-pāṇṭiya tēvarkku-p patiṉ oṉṟ-āvatu mutal
+		Oru vāy-k-kāl Uppu
+		<lb n="3" break="no"/>-p paṭuttu mutal aṭaṅka Iṟai-y-ili-y-āka-k koṇṭu puṟa-nāṭṭilē viṟṟu Im-mutal iṭṭu-t tiru-p-paṇi tāḻv’ aṟa-c ceyvikkavum Ip-paṭikku Inta Ōlai
+		<lb n="4"/>cātaṉam-āka-k koṇṭu ca<hi rend="grantha">n<choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta-vaṟ cella-k kalliluñ cempilum veṭṭi-k koḷḷavum pārppatu <g type="pcl">.</g> 
+	</p>
+	<p>
+		<list>
+			<item>Ip-paṭikku Ivai puttakkuṭai
+				<lb n="5" break="no"/>yāṉ Eḻuttu <g type="pc">.</g></item>
+			<item>Ip-paṭikku Ivai cētiya-rāyaṉ Eḻuttu <g type="pc">.</g></item>
+			<item>Ip-paṭikku Ivai kaṉaka-rāyaṉ Eḻuttu <g type="pc">.</g></item>
+			<item>Ip-paṭikku Ivai kula-cēka
+				<lb n="6" break="no"/>ra-p-piramā-rāyaṉ Eḻuttu <unclear><g type="pc">.</g></unclear></item>
+			<item>Ip-paṭikku Ivai neyyuṇṭaṉ<surplus><unclear>ṉ</unclear></surplus> paṭṭaṉ Eḻuttu</item>
+			<item>Ip-paṭikku Ivai kaṅka-nārāyaṇa-paṭṭa
+				<lb n="7" break="no"/>ṉ Eḻuttu</item>
+			<item>Ip-paṭikku Ivai kuru-kulatt-araiyaṉ Eḻuttu</item>
+			<item>Ip-paṭikku Ivai nanta-paṉmaṉ Eḻuttu</item>
+			<item>Ip-paṭikku Ivai Ananta
+				<lb n="8" break="no"/>kōḷari-paṭṭaṉ Eḻuttu</item>
+			<item>Ip-paṭikku Ivai tiru-māliruñcōlai-paṭṭaṉ Eḻuttu</item>
+			<item>Ip-paṭikku Ivai pāmpaikkuṭaiyāṉ<surplus><unclear>ṉ</unclear></surplus> Eḻuttu</item>
+			<item><lb n="9"/>Ip-paṭikku Ivai vēḷūr kiḻavaṉ Eḻuttu</item>
+			<item>Ip-paṭikku Ivai kūṭal kiḻār Eḻuttu</item>
+			<item>Ip-paṭikku Ivai vaḻuti-nāṭṭu-k kōṉ Eḻuttu</item>
+			<item><lb n="10"/> Ip-paṭikku Ivai Irāca-nārāyaṇa-p-piramā-rāyaṉ Eḻuttu</item>
+			<item>Ip-paṭikku Ivai vaṉayataraiyaṉ Eḻuttu</item>
+			<item>Ip-paṭikku Ivai marut-uṭaiyā
+				<lb n="11" break="no"/>ṉ Eḻuttu</item>
+			<item>Ip-paṭikku Ivai kaṅkai-koṇṭa-cōḻa-p-puvaṉi vēḷāṉ Eḻuttu Ip-paṭikku Ivai tiru-n<choice><sic>a</sic><corr>i			</corr></choice>lakkuṭaiyāṉ Eḻuttu</item>
+			<item><lb n="12"/>Ip-paṭikku Ivai nāka-maṅkalam-uṭaiyāṉ Eḻuttu <g type="pc">.</g></item>
+		</list>
 	</p>	
 		
 </div>
 	
-<!--<div type="apparatus">
+<div type="apparatus">
            
 	<listApp>
-		<app loc="0">
+		
+		<!--<app loc="0">
 			<lem>...</lem>
-			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">...</rdg>
-		</app> 
+			<rdg source="bib:Vijayavenugopal2017_01">...</rdg>
+		</app>-->
+		
+		<app loc="1">
+			<lem>kāraikkā<supplied reason="omitted">l</supplied></lem>
+			<rdg source="bib:Vijayavenugopal2017_01">kāraikkāl</rdg>
+		</app>
+		
+		<app loc="4">
+			<lem>kalliluñ</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">kallilum</rdg>
+		</app>
+		
+		<app loc="8">
+			<lem>pāmpaikkuṭaiyāṉ<surplus><unclear>ṉ</unclear></surplus> Eḻuttu</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">pāmpaikkuṭaiyāṉ</rdg>
+		</app>
+		
+		<app loc="10">
+			<lem>°nārāyaṇappiramā°</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">°nārāyaṇapiramā°</rdg>
+		</app>
+		
+		<app loc="11">
+			<lem>n<choice><sic>a</sic><corr>i</corr></choice>lakkuṭaiyāṉ</lem>
+			<rdg source="bib:Vijayavenugopal2017_01">nalakkuṭaiyāṉ</rdg>
+			<note>Compare <foreign>nilakkuṭaiyāṉ</foreign> (<ref target="DHARMA_INSTamilNadu00143.xml">Tamil Nadu 143</ref>, line 8).</note>
+		</app>
 	</listApp>	
 	
-</div>-->
+</div>
       	
-<div type="translation" resp="part:emfr">
+<!--<div type="translation" resp="part:emfr">
       		
 	<p n="1">...</p>	
 	
-</div>
+</div>-->
       	
 <!--<div type="commentary">
       		
