@@ -92,10 +92,10 @@
 			
 	<p>
 		<lb n="1"/><hi rend="grantha">giri</hi>-parvatē <hi rend="grantha">śa</hi>
-		<lb n="2" break="no"/>kāttam <num value="1602"><!--update-->16 <gap reason="lost" quantity="1" unit="character" precision="low"/>
+		<lb n="2" break="no"/>kāttam <num value="1602"><!--update--><g type="numeral">1000</g> 6 <gap reason="lost" quantity="1" unit="character" precision="low"/>
 		<lb n="3"/>2</num> mēl cellā
 		<lb n="4"/>niṉṟa cātāraṇa <gap reason="lost" quantity="2" unit="character" precision="low"/>
-		<lb n="5"/>tai <g type="mācam"/> <num value="3">3 10</num> <g type="tēti"/>
+		<lb n="5"/>tai <g type="mācam"/> <num value="30">3 <g type="numeral">10</g></num> <g type="tēti"/>
 	</p>
 	<p>
 		ti

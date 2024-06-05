@@ -112,7 +112,7 @@
 		<lb n="15"/>cempilum <gap reason="lost" quantity="3" unit="character" precision="low"/> ko<!--kompu lost-->ḷka 
 		
 		Ivai Arum-poṟ-kūṟṟattu-p puta-p-pēr-k-kuḷattu Āḻvāṉ Āṇṭapirāṉ Aḻakaṉ-āṉa Aḻakiya pāṇṭiya
-		<lb n="16" break="no"/>-viḻu-p-paraya <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="3" unit="character" precision="low"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <num value="28">2 10 8</num>
+		<lb n="16" break="no"/>-viḻu-p-paraya <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="3" unit="character" precision="low"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <num value="28">2 <g type="numeral">10</g> 8</num>
 		
 		<list>
 			<item>Ivai Aṇṭa nāṭṭu-p perumaṇalūr Arayaṉ muṭivaḻaṅkum perumāḷ-āṉa vikrama-pāṇṭiya-Uttarama

@@ -97,7 +97,7 @@
 	<p>
 		tiru-puvana-c-cakrava<reg>r</reg>t <gap reason="lost" quantity="4" unit="character" precision="low"/> mmaṇṭa
 		<lb n="2" break="no"/>lamuṅ koṇṭ-aruḷiya śrī-kulacē <gap reason="lost" quantity="4" unit="character" precision="low"/> ṟkku yāṇṭu
-		<lb n="3"/><num value="32">3 10 2</num>-vatu makara-ṉāyaṟṟu pūrva-pakṣattu ṉāḷ tiru-malai-ṉāṭṭu-t
+		<lb n="3"/><num value="32">3 <g type="numeral">10</g> 2</num>-vatu makara-ṉāyaṟṟu pūrva-pakṣattu ṉāḷ tiru-malai-ṉāṭṭu-t
 		<lb n="4"/>tiru-k-koṭuṅ-kuṉṟattu Uṭaiyār <gap reason="lost" quantity="5" unit="character" precision="low"/> ṅ-kuṉṟam-uṭai
 		<lb n="5" break="no"/>ya ṉāyaṉār- kōyilil cī-paṇṭārattārōm <gap reason="lost" quantity="2" unit="character" precision="low"/> vempa-ṉāṭṭu rā
 		<lb n="6" break="no"/>cavalla-purattu koṉṟai cēr muṭiyan tiru-nelvēli-y-uṭai
@@ -109,7 +109,7 @@
 		<lb n="9" break="no"/>yāṟkkum Ivaṟ tiru-p-palakaṇikkuḷḷu Irā-k-kā(latti)l caṉtiyātīpam-āka
 		<lb n="10"/>Iṭak kaṭavat' āka niccayitta viḷakku cuya I-vi <gap reason="lost" quantity="4" unit="character" precision="low"/> Aṟupatukkum viḷak
 		<lb n="11" break="no"/>ku pattukku ney-uḻakk-āka viḷakku Aṟupatu <gap reason="lost" quantity="4" unit="character" precision="low"/> ḷ oṉṟukku ney ṉā
-		<lb n="12" break="no"/>ḻi y-urikku ney Uḻakkukku Āṭu aimpat-āka Ā(ṭu <num value="300">3 100</num>) Ivv-āṭu muṉṉūṟum
+		<lb n="12" break="no"/>ḻi y-urikku ney Uḻakkukku Āṭu aimpat-āka Ā<unclear>ṭu</unclear> <num value="300"><unclear>3 <g type="numeral">100</g></unclear></num> Ivv-āṭu muṉṉūṟum
 		<lb n="13"/>cākā mūvā-p pēr-āṭ' āka Ivaṟ pakkalilē <gap reason="lost" quantity="4" unit="character" precision="low"/> kaḷ kai-k-koṇ
 		<lb n="14" break="no"/>ṭu Iṉ-ṉāḷ mutal Iv-viḷakku Aaṟupatum can <gap reason="lost" quantity="3" unit="character" precision="low"/> tyavaṟ Iṭṭu-p ⌈
 		<lb n="15" break="no"/>pōtuvat' āka-k kalliluñ cempilum <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="4" unit="character" precision="low"/> koḷvat' āka piṭi'pā

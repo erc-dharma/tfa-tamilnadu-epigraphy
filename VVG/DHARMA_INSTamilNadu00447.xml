@@ -93,7 +93,7 @@
 		<!--add gap at the beginning of lines-->
 	<p>
 		<lb n="1"/>śrīman- <gap reason="lost" quantity="10" unit="character" precision="low"/>
-		<lb n="2"/>niṉṟa cakāptam <num value="1422">1000+ <unclear>4 100+</unclear> 2 10+ 2</num> m<supplied reason="lost">ē</supplied>ṟ cellā niṉṟa Iravuttiri-samvatsa(rat)tu Uttarāyaṉattu hemanta-rutuvil puṣya-māsattu 1 <g type="pc">.</g> pūṟuva-pakṣattu Aṣṭamiyum Ātitta-vāramum rēvatiyum peṟṟa makara śa <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="2"/>niṉṟa cakāptam <num value="1422"><g type="numeral">1000</g> <unclear>4 <g type="numeral">100</g></unclear> 2 <g type="numeral">10</g> 2</num> m<supplied reason="lost">ē</supplied>ṟ cellā niṉṟa Iravuttiri-samvatsa(rat)tu Uttarāyaṉattu hemanta-rutuvil puṣya-māsattu 1 <g type="pc">.</g> pūṟuva-pakṣattu Aṣṭamiyum Ātitta-vāramum rēvatiyum peṟṟa makara śa <gap reason="lost" quantity="4" unit="character" precision="low"/>
 		<lb n="3" break="no"/>ṇya kālattilē
 	</p>
 	<p>

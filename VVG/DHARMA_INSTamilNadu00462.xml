@@ -91,7 +91,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>
-		<lb n="1"/><gap reason="lost" quantity="8" unit="character" precision="low"/> cakāttam <num value="1571">1517</num> mēl cellā niṉṟa viḷampi <gap reason="lost" quantity="4" unit="character" precision="low"/>
+		<lb n="1"/><gap reason="lost" quantity="8" unit="character" precision="low"/> cakāttam <num value="1571"><g type="numeral">1000</g> 5 <g type="numeral">100</g> <g type="numeral">10</g> 7</num> mēl cellā niṉṟa viḷampi <gap reason="lost" quantity="4" unit="character" precision="low"/>
 	</p>
 	<p>
 		<gap reason="lost" quantity="48" unit="character" precision="low"/> nāṭṭu tiru-k-koṭuṅ-kuṉṟam-uṭaiya nayiṉār nalla-maṅkai pākaṟku

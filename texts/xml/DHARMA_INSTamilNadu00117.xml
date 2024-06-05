@@ -124,7 +124,7 @@
 	<listApp>
 		<app loc="12">
 			<lem><num value="670">6 <g type="numeral">100</g> 7 <g type="numeral">10</g></num>ñ ce</lem>
-			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01"><num value="670">6 <g type="numeral">100</g> 7</num>m Ic ce</rdg>
+			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01"><num value="670">6 <g type="numeral">100</g> 7</num>-m Ic ce</rdg>
 		</app> 
 		
 		<app loc="14">
