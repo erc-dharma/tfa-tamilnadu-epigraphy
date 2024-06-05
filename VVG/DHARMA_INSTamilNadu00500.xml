@@ -89,17 +89,15 @@
 <body>
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
-			
-	<pb n="1"/>
 	
-	<fw n="1" place="top-left">
-		hariḥ
-		Ōm
-	</fw>
-	<fw n="2" place="top-right">
-		svasti śrī
-	</fw>		
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"><!--add @place?-->
+		<lb n="A01"/>hariḥ
+		<lb n="A02"/>Ōm
+	</ab>
+	
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215"><!--add @place?-->
+		<lb n="B01"/>svasti śrī
+	</ab>		
 	
 	<p>
 		<lb n="1"/><hi rend="grantha">śakā</hi>t=ta<hi rend="grantha">m<unclear>·</unclear></hi> <num value="1663">1000+ 6 100+ 3 10+ 3</num>-ṉ
