@@ -94,18 +94,12 @@
 	<pb n="1"/>
 	
 	<fw n="1" place="top-left">
-		<lb n="01"/>hariḥ
-		<lb n="02"/>Ōm
+		hariḥ
+		Ōm
 	</fw>
 	<fw n="2" place="top-right">
-		<lb n="03"/>svasti śrī
-	</fw>
-		
-		<!--@MM + @Dan
-		dispense with <pb> in this case
-		allow <lb n="01"/> in <fw n="2">?
-		introduce <cb>? in <fw>
-		-->
+		svasti śrī
+	</fw>		
 	
 	<p>
 		<lb n="1"/><hi rend="grantha">śakā</hi>t=ta<hi rend="grantha">m<unclear>·</unclear></hi> <num value="1663">1000+ 6 100+ 3 10+ 3</num>-ṉ
