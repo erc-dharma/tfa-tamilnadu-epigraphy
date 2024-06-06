@@ -269,14 +269,22 @@
     
     <listBibl type="secondary">
         
-        <bibl>
-            <ptr target="bib:ARIE1917-1918"/>
-            <citedRange unit="page">89</citedRange>
-            <citedRange unit="item">8</citedRange>
-            <citedRange unit="appendix">C/1918/</citedRange>
-        </bibl>
-        
-        <!--Add: Gros, Pour lire le Tēvāram, with ref to the finding of this hymn.-->
+    	<bibl>
+    		<ptr target="bib:ARIE1917-1918"/>
+    		<citedRange unit="page">89</citedRange>
+    		<citedRange unit="item">8</citedRange>
+    		<citedRange unit="appendix">C/1918/</citedRange>
+    	</bibl>
+    	
+    	<bibl>
+    		<ptr target="bib:Gros1984_01"/>
+    		<citedRange unit="page">xxx</citedRange>
+    	</bibl>
+    	
+    	<bibl>
+    		<ptr target="bib:Gros1984_02"/>
+    		<citedRange unit="page">lxii</citedRange>
+    	</bibl>
         
     </listBibl>
     
