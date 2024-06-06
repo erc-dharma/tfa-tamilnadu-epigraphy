@@ -218,25 +218,25 @@
 
 <div type="bibliography">
 
-	<p>
-		First edited  <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> and translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 29); encoded here for DHARMA (ERC n° 809994) by Renato Dávalos.
-	</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="PI 29">
-			<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/>
-			<citedRange unit="page">38-41</citedRange>
-			<citedRange unit="item">29</citedRange>
-		</bibl>
-		
-		<bibl n="PI 29">
-			<ptr target="bib:Kuppusamy+al2010_01"/>
-			<citedRange unit="page">15-16</citedRange>
-			<citedRange unit="item">29</citedRange>
-		</bibl>
-		
-	</listBibl>   
+    <!--<p>Reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1934-1935/B/1934-1935/104).</p>-->
+    <p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> and translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 29).</p>
+    <p>This edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl>.</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="PI">
+            <ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/>
+            <citedRange unit="page">38-41</citedRange>
+            <citedRange unit="item">29</citedRange>
+        </bibl>
+        
+        <bibl n="PI">
+            <ptr target="bib:Kuppusamy+al2010_01"/>
+            <citedRange unit="page">15-16</citedRange>
+            <citedRange unit="item">29</citedRange>
+        </bibl>
+        
+    </listBibl>   
 	
 </div>
 

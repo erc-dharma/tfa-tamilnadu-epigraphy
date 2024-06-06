@@ -8,8 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruvaṇṇāmalai, Aruṇācaleśvara temple?, Vīrappratāpa śrī-Vīrakṛṣṇadeva
-					Mahārāja, no date given</title>
+				<title>Tiruvaṇṇāmalai, Aruṇācaleśvara temple?, Vīrappratāpa śrī-Vīrakṛṣṇadeva Mahārāja, no year</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -142,22 +141,20 @@ Then on Monday the 13th day in the bright fortnight of the month of Makara of th
 </div>-->
       	
 <div type="bibliography">
-	
-	<p>Reported, edited and translated in <bibl><ptr target="bib:Srinivasan+Reiniche1990_01"/></bibl> (unpublished estampages, EO 247-278).</p><!--@emfr: I don't know how this should be phrased.-->
-	<p>This edition by Renato Dávalos (2024).</p>
-	
-
-	
-	<listBibl type="primary">
-		
-		<bibl>
-			<ptr target="bib:Srinivasan+Reiniche1990_01"/>
-			<citedRange unit="page">482-485</citedRange>
-			<citedRange unit="item">389</citedRange>
-		</bibl>              
-      
-   </listBibl>
-   
+    
+    <p>Reported, edited and translated in <bibl><ptr target="bib:Srinivasan+Reiniche1990_01"/></bibl> (no. 389).</p>
+    <p>This edition by Renato Dávalos (2024), based on EFEO estampages (EO 247-278).</p>  
+    
+    <listBibl type="primary">
+        
+        <bibl>
+            <ptr target="bib:Srinivasan+Reiniche1990_01"/>
+            <citedRange unit="page">482-485</citedRange>
+            <citedRange unit="item">389</citedRange>
+        </bibl>              
+        
+    </listBibl>
+    
 </div>
 
       </body>

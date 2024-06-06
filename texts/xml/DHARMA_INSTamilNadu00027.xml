@@ -181,27 +181,28 @@
 </div>-->
       	
 <div type="bibliography">
-	<p>Reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/62).</p>
-     <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.167).</p>
-	<p>This edition by Indra Manuel (2024), based on 3D pictures by Adeline Levivier (2022).</p>
-	<p>Translated by Indra Manuel (2024).</p>	
-		
-	<listBibl type="primary">
-		<bibl n="SII">
-			<ptr target="bib:KrishnaSastri1923_01"/>
-			<citedRange unit="page">21-27</citedRange>
-		</bibl>
-	</listBibl>
-	
-	<listBibl type="secondary">
-		<bibl>
-			<ptr target="bib:ARIE1887-1888_01"/>
-			<citedRange unit="page">6</citedRange>
-			<citedRange unit="item">62</citedRange>
-			<citedRange unit="appendix">I/1887-1888</citedRange>
-		</bibl> 
-	</listBibl>
-	
+    
+    <p>Reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/62).</p>
+    <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.167).</p>
+    <p>This edition by Indra Manuel (2024), based on 3D pictures by Adeline Levivier (2022).</p>
+    <p>Translated by Indra Manuel (2024).</p>	
+    
+    <listBibl type="primary">
+        <bibl n="SII">
+            <ptr target="bib:KrishnaSastri1923_01"/>
+            <citedRange unit="page">21-27</citedRange>
+        </bibl>
+    </listBibl>
+    
+    <listBibl type="secondary">
+        <bibl>
+            <ptr target="bib:ARIE1887-1888_01"/>
+            <citedRange unit="page">6</citedRange>
+            <citedRange unit="item">62</citedRange>
+            <citedRange unit="appendix">I/1887-1888</citedRange>
+        </bibl> 
+    </listBibl>
+    
 </div>
       </body>
   </text>

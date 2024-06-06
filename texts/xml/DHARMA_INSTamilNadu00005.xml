@@ -172,30 +172,25 @@
           
 <div type="bibliography">
 	
-	<p>
-		First edited <bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl> (TAS 6, no. 14), with English translation.
-	</p>
-	
-	<p>
-		Digitally encoded here for DHARMA (ERC n° 809994) by Renato Davalos (2020), based on <bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl>.
-	</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="RA">
-			<ptr target="bib:RamanathaAyyar1927_01"/>
-			<citedRange unit="page">22-24</citedRange>
-			<citedRange unit="item">14</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<!--<listBibl type="secondary">
-		
-		<bibl/>
-		
-	</listBibl>-->
-	
+    <p>Edited <bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl> (TAS 6.14), with English translation.</p>    
+    <p>This edition by Renato Dávalos (2024), based based on <bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl>.</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="TAS">
+            <ptr target="bib:RamanathaAyyar1927_01"/>
+            <citedRange unit="page">22-24</citedRange>
+            <citedRange unit="item">14</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
+    <!--<listBibl type="secondary">
+        
+        <bibl/>
+        
+        </listBibl>-->
+    
 </div>
       </body>
   </text>

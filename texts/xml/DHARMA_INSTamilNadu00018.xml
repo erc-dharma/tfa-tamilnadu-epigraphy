@@ -182,36 +182,36 @@
           
 <div type="bibliography">	
 
-	<p>Reported in <bibl><ptr target="bib:ARIE1910-1911"/></bibl> (ARIE/1910-1911/C/1911/94).</p>	
-	<p>Edited in <bibl><ptr target="bib:Patmavati1979_01"/></bibl> (NK 134).</p>	
-	<p>Translated in <bibl><ptr target="bib:Orr2000_01"/><citedRange unit="page">18-19</citedRange></bibl>.</p>
-	<p>Digitally encoded here for DHARMA (ERC n° 809994) by Renato Davalos (2023), based on <bibl><ptr target="bib:Patmavati1979_01"/></bibl>, and translated by Renato Davalos and Emmanuel Francis (2024).
-	</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="P">
-			<ptr target="bib:Patmavati1979_01"/>
-			<citedRange unit="item">134</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1910-1911"/>
-			<citedRange unit="page">38</citedRange>
-			<citedRange unit="appendix">C/1910-1911</citedRange>
-			<citedRange unit="item">94</citedRange>			
-		</bibl>
-		
-		<bibl>
-			<ptr target="bib:Orr2000_01"/>	
-		</bibl>
-		
-	</listBibl>
-	
+    <p>Reported in <bibl><ptr target="bib:ARIE1910-1911"/></bibl> (ARIE/1910-1911/C/1911/94).</p>	
+    <p>Edited in <bibl><ptr target="bib:Patmavati1979_01"/></bibl> (NK 134).</p>	
+    <p>Translated in <bibl><ptr target="bib:Orr2000_01"/><citedRange unit="page">18-19</citedRange></bibl>.</p>
+    <p>This edition by Renato Dávalos and Emmanuel Francis (2023), based on <bibl><ptr target="bib:Patmavati1979_01"/></bibl>.</p>	  
+    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="P">
+            <ptr target="bib:Patmavati1979_01"/>
+            <citedRange unit="item">134</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl>
+            <ptr target="bib:ARIE1910-1911"/>
+            <citedRange unit="page">38</citedRange>
+            <citedRange unit="appendix">C/1910-1911</citedRange>
+            <citedRange unit="item">94</citedRange>			
+        </bibl>
+        
+        <bibl>
+            <ptr target="bib:Orr2000_01"/>	
+        </bibl>
+        
+    </listBibl>
+    
 </div>
       </body>
   </text>
