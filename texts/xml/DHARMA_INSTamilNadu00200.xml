@@ -85,12 +85,12 @@
 	<text xml:space="preserve">
       <body>
 
-<div type="edition" xml:lang="tam-Latn" rendition="class:38776 maturity:83215"><!--check script; change if Grantha in Tamil portion-->
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><!--check script; change if Grantha in Tamil portion-->
          	
 <div type="textpart" subtype="zone" n="A">
 <head xml:lang="eng">Verso of the plate</head>
 		
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<pb n="1v"/>
 		<lb n="1"/><g type="pcs"/> svasti śrī
 	</ab>
@@ -105,7 +105,7 @@
 		<lb n="7"/><gap reason="ellipsis"/> ceṉmapattiṟikā <g type="pcs">.</g>
 	</p>
 	
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		svasti śrī
 	</ab>
 	
