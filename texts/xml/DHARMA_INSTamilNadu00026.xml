@@ -267,8 +267,12 @@
     </bibl>
     
     <bibl n="VMS">
+        <ptr target="bib:Aravamuthan1933-1934_01"/>
+    </bibl>
+    
+    <bibl n="VMS">
         <ptr target="bib:SubrahmanyaAiyar+al_2007_01"/>
-        <citedRange unit="page">266-275; 343-360</citedRange>
+        <citedRange unit="section">Mūvār Tēvāram 3:126</citedRange>
     </bibl>
     
 </listBibl>
