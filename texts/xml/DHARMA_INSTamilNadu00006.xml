@@ -8,8 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirukaṇṭheśvaram, Tirumūlanātar temple, time of Jaṭāvarman Sundarapāṇḍya I,
-					year 14</title>
+				<title>Tirukaṇṭēcuvaram, Tirumūlanātar, time of Rājakesarivarman Kulottuṅga, year 34</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
 					<persName ref="part:reda">
@@ -167,39 +166,44 @@
 		<l n="69">kaṅkaiv<choice><sic>i</sic><corr>ī</corr></choice>ṟ ṟiruntateṉa maṅkaiyar tilatam</l>
 		<l n="70">Eḻicai vallapi Eḻulaka muṭai<supplied reason="lost">yā</supplied>ḷ</l>
 		<l n="71">vāḻi malar<supplied reason="lost">n</supplied>tiṉi tiruppa vaḻiyum</l>
-		<l n="72"><lb n="19" break="no"/>vāḷōṭum viṟṟiruntaruḷiya</l>
+		<l n="72"><lb n="19" break="no"/>vāḷōṭum viṟṟ-irunt-aruḷiya</l>
 	</lg>
 	
 	<p>
-		kovirā<hi rend="grantha">ja</hi>kecaripanar-āṉa cakkaravattikaḷ <hi rend="grantha">śrī</hi>kulōttuṅka-<hi rend="grantha">de</hi>varkki yāṇṭu <num value="34">3 <g type="numeral">10</g> 4</num> Āvatu 
+		kō-v-irā<hi rend="grantha">ja</hi>-kēcari-pa<hi rend="grantha">nma</hi>r-āṉa cakkara-va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-kulōttuṅka-<hi rend="grantha">de</hi>varkki yāṇṭu <num value="34">3 <g type="numeral">10</g> 4</num>-Āvatu 
 	</p>
 	
 	<p>
-		virutarāja payaṅkara<supplied reason="lost">vaḷa</supplied>
-		<lb n="20"/>nāṭṭuk kaṭampaṅkiṭaiyāṉ kūttaṉ veṇkāṭutēvaneṉ kaṅkai koṇṭa cōḻa vaḷanā
-		<lb n="21" break="no"/>ṭṭu vākūr nāṭṭu Aḻakiya cōḻa-c caruppetimaṅkalattu <hi rend="grantha">sabhai</hi> pakkal nāṉ vilai koṇ
-		<lb n="22" break="no"/>ṭu uṭaiya nilamāvatu pavit<hi rend="grantha">tra</hi>māṇikka vatikku kiḻakki <supplied reason="lost">rājentra</supplied>cōḻa vāykkālukku vaṭakki 6 kaṇṇāṟṟu nañca
-		<lb n="23"/>tirattu kiḻakkaṭai<supplied reason="lost">ya</supplied> nilam Oru māvum cuñ catirattu mēṟkaṭaiya nila mummāvaraiyum Āka nilam nāṉmā
+		virutarāja-payaṅkara-<supplied reason="lost">vaḷa</supplied>
+		<lb n="20" break="no"/>-nāṭṭu-k kaṭampaṅkiṭaiyāṉ kūttaṉ veṇkāṭu-tēvan-ēṉ kaṅkai-koṇṭa-cōḻa-vaḷa-nā
+		<lb n="21" break="no"/>ṭṭu vākūr-nāṭṭu Aḻakiya cōḻa-c-caruppēti-maṅkalattu <hi rend="grantha">sabhai</hi> pakkal nāṉ vilai koṇ
+		<lb n="22" break="no"/>ṭu Uṭaiya nilam āvatu
+	</p>
+	<p>
+		pavit<hi rend="grantha">tra</hi>-māṇikka-vatikku kiḻakki <supplied reason="lost">rājen<choice><orig>t</orig><reg>d</reg></choice>ra</supplied>-cōḻa-vāykkālukku vaṭakki 6 kaṇṇāṟṟu 3ñ ca
+		<lb n="23" break="no"/>tirattu kiḻakk' aṭai<supplied reason="lost">ya</supplied> nilam Oru māvum 4-ñ catirattu mēṟk' aṭaiya nila mu-m-mā-v-araiyum Āka nilam nāṉ-mā
 		<lb n="24" break="no"/>varaiyum 
 	</p>
 	
-	<p>
-		
-		I-v-vūr Uṭaiyār <hi rend="grantha">śrī</hi> mulas=tāṉam-uṭaiya <hi rend="grantha">mahāde</hi>varkkut tiru-p-paḷḷi Eḻu
-		<lb n="25" break="no"/>cci-p puṟamāka viṭṭu nila nimantañ ceytapaṭi tiru-v-amutukku Arici nā-nāḻiyum kaṟi-y-amutu
-		<lb n="26"/>Aiñcum ney Oru ceviṭai kālum tayir uḻakkum Aṭai-k-kāy-amutu pākku munṟum veṟṟi
-		<lb n="27"/>lai Aṟum tiruviḷakku Eṭṭukkum cantirātitta-var varai nimantu viṭṭeṉ kaṭa<supplied reason="lost">m</supplied>paṅkuṭaiyā
-		<lb n="28"/>ṅkūttaṉ veṇkāṭu tēvaneṉ Itu <hi rend="grantha">śrīma<unclear>h</unclear><surplus>āg</surplus>eśvara rakṣai</hi>.
+	<p>		
+		I-v-vūr Uṭaiyār <hi rend="grantha">śrī</hi>-mula<hi rend="grantha">stā</hi>ṉam-uṭaiya <hi rend="grantha">mahā-de</hi>varkku-t tiru-p-paḷḷi Eḻu
+		<lb n="25" break="no"/>cci-p puṟam-āka v-iṭṭu nila nimantañ ceyta paṭi tiru-v-amutukku Arici nā-nāḻiyum kaṟi-y-amutu
+		<lb n="26"/>Aiñcum ney Oru ceviṭai kālum tayir Uḻakkum Aṭai-k-kāy-amutu pākku munṟum veṟṟi
+		<lb n="27" break="no"/>lai Aṟum tiru-viḷakku Eṭṭukkum cantirātitta-var varai nimantu viṭṭēṉ kaṭa<supplied reason="lost">m</supplied>paṅk-uṭaiyā
+		<lb n="28" break="no"/>ṅ-kūttaṉ veṇkāṭu-tēvan-ēṉ
+		</p>
+			<p>
+		Itu <hi rend="grantha">śrī-ma<unclear>h</unclear>āgeśvara-rakṣai</hi>
 	</p>
 </div>
 	
-	<!-- <div type="apparatus">
-		<unclear>k</unclear>              
-		</div>-->
+<!-- <div type="apparatus">
+		    
+</div>-->
 	
-	<div type="translation" source="bib:Kuppusamy+al2010_01">
+<div type="translation" source="bib:Kuppusamy+al2010_01">
 		
-		<p n="1-19">Hail! Prosperity! While the wheel of his <supplied reason="subaudible">authority</supplied> went as far as the golden circle <supplied reason="explanation">i.e. Mount Mēru</supplied> on the earth, which was surrounded by the moat of the sea, that was <supplied reason="subaudible">again</supplied> surrounded by his <supplied reason="subaudible">fame</supplied>, <supplied reason="subaudible">the king</supplied> newly wedded, in the time <supplied reason="subaudible">when he was still</supplied> heir-apparent, the brilliant goddess of victory at Cakkara-k-kōṭṭam by deeds of valour and seized a herd of mountains of rut <supplied reason="explanation">i.e. rutting elephants</supplied> at Vayirgaram; <supplied reason="subaudible">he</supplied> unsheathed <supplied reason="subaudible">his</supplied> sword, showed the strength of <supplied reason="subaudible">his</supplied> arm, and spurred <supplied reason="subaudible">his</supplied> war-steed, so that the army of the king of Kuntaḷa, <supplied reason="subaudible">whose appear had</supplied> a sharp point, retreated; having established <supplied reason="subaudible">his</supplied> fame, having put on the garland of <supplied reason="subaudible">the victory over</supplied> the Northern region, and having stopped the prostitution of the goddess with the sweet and excellent lotus-flower <supplied reason="explanation">i.e. Lakṣmī</supplied> of the Southern region, and the loneliness of the goddess of the good country whose garment is the Poṉṉi, <supplied reason="subaudible">he</supplied> put on by right <supplied reason="subaudible">of inheritance</supplied> the pure royal crown of jewels, while the kings of the earth bore his two feet <supplied reason="subaudible">on their heads</supplied> as a large crown; the river <supplied reason="subaudible">of the rules</supplied> of the ancient king Manu swelled, <supplied reason="subaudible">and</supplied> the river <supplied reason="subaudible">of the sins</supplied> of the Kali <supplied reason="subaudible">age</supplied> dried up; <supplied reason="subaudible">his</supplied> scepter swayed over every <supplied reason="subaudible">quarter of</supplied> this continent; the white light of the sacred shadow of <supplied reason="subaudible">his</supplied> white parasol shone everywhere on the circle of the great earth; <supplied reason="subaudible">and his</supplied> tiger <supplied reason="subaudible">-banner</supplied> fluttered unrivalled on the Mēru <supplied reason="subaudible">mountain</supplied>; <supplied reason="subaudible">before him</supplied> stood a row of elephants showering jewels, which were presented <supplied reason="subaudible">as</supplied> tribute by the kings of remote islands whose girdle is the sea; the excellent head of the refractory king of the South <supplied reason="explanation">i.e. the Pāṇṭiya</supplied> lay outside his <supplied reason="explanation">viz., Kulōttuṅka’s</supplied> beautiful city, being pecked by kites;
+	<p n="1-19">Hail! Prosperity! While the wheel of his <supplied reason="subaudible">authority</supplied> went as far as the golden circle <supplied reason="explanation">i.e. Mount Mēru</supplied> on the earth, which was surrounded by the moat of the sea, that was <supplied reason="subaudible">again</supplied> surrounded by his <supplied reason="subaudible">fame</supplied>, <supplied reason="subaudible">the king</supplied> newly wedded, in the time <supplied reason="subaudible">when he was still</supplied> heir-apparent, the brilliant goddess of victory at Cakkara-k-kōṭṭam by deeds of valour and seized a herd of mountains of rut <supplied reason="explanation">i.e. rutting elephants</supplied> at Vayirgaram; <supplied reason="subaudible">he</supplied> unsheathed <supplied reason="subaudible">his</supplied> sword, showed the strength of <supplied reason="subaudible">his</supplied> arm, and spurred <supplied reason="subaudible">his</supplied> war-steed, so that the army of the king of Kuntaḷa, <supplied reason="subaudible">whose appear had</supplied> a sharp point, retreated; having established <supplied reason="subaudible">his</supplied> fame, having put on the garland of <supplied reason="subaudible">the victory over</supplied> the Northern region, and having stopped the prostitution of the goddess with the sweet and excellent lotus-flower <supplied reason="explanation">i.e. Lakṣmī</supplied> of the Southern region, and the loneliness of the goddess of the good country whose garment is the Poṉṉi, <supplied reason="subaudible">he</supplied> put on by right <supplied reason="subaudible">of inheritance</supplied> the pure royal crown of jewels, while the kings of the earth bore his two feet <supplied reason="subaudible">on their heads</supplied> as a large crown; the river <supplied reason="subaudible">of the rules</supplied> of the ancient king Manu swelled, <supplied reason="subaudible">and</supplied> the river <supplied reason="subaudible">of the sins</supplied> of the Kali <supplied reason="subaudible">age</supplied> dried up; <supplied reason="subaudible">his</supplied> scepter swayed over every <supplied reason="subaudible">quarter of</supplied> this continent; the white light of the sacred shadow of <supplied reason="subaudible">his</supplied> white parasol shone everywhere on the circle of the great earth; <supplied reason="subaudible">and his</supplied> tiger <supplied reason="subaudible">-banner</supplied> fluttered unrivalled on the Mēru <supplied reason="subaudible">mountain</supplied>; <supplied reason="subaudible">before him</supplied> stood a row of elephants showering jewels, which were presented <supplied reason="subaudible">as</supplied> tribute by the kings of remote islands whose girdle is the sea; the excellent head of the refractory king of the South <supplied reason="explanation">i.e. the Pāṇṭiya</supplied> lay outside his <supplied reason="explanation">viz., Kulōttuṅka’s</supplied> beautiful city, being pecked by kites;
 		not only did the speech of the kings of the seven clan <supplied reason="subaudible">of the Vēḷ clan?</supplied>:- after this day a permanent blemish <supplied reason="subaudible">will attach to Kulōttuṅka</supplied>, as to the crescent <supplied reason="subaudible">which is the origin</supplied> of <supplied reason="subaudible">his</supplied> family turn out wrong but the bow <supplied reason="subaudible">in</supplied> the hands of the kings of the seven clans <supplied reason="subaudible">of the Vēḷ clan?</supplied> were not <supplied reason="subaudible">even</supplied> bent against <supplied reason="subaudible">the enemy</supplied>; everywhere from Naṅkili of rocky roads –with Maṇalūr in the middle – to the Tuṅkapattirai, there were lying low the dead <supplied reason="subaudible">bodies of his</supplied> furious elephants, his lost pride and <supplied reason="subaudible">his</supplied> boasted valour; the very mountains which <supplied reason="subaudible">he</supplied> ascended bent their backs; the very rivers into which <supplied reason="subaudible">he</supplied> descended eddied and breached <supplied reason="subaudible">the banks</supplied> in their course; <supplied reason="subaudible">and</supplied> the very seas into which <supplied reason="subaudible">he</supplied> plunged became troubled and agitated; <supplied reason="subaudible">the Cōḻa king </supplied>seized simultaneously the two countries <supplied reason="explanation">pāṇi</supplied> called Kaṅkamaṇṭalam and Ciṅkaṇam, troops of furious elephants which had been irretrievably abandoned <supplied reason="explanation">by the enemy</supplied>, crowds of women, <supplied reason="explanation">the angles of</supplied> whose beautiful eyes were as pointed as daggers, the goddess of fame, who gladly brought disgrace <supplied reason="subaudible">on Vikkalaṉ</supplied>, and the great goddess of victory, who changed to the opposite <supplied reason="explanation">side</supplied> and caused <supplied reason="subaudible">Vikkalaṉ</supplied> himself and <supplied reason="explanation">his</supplied> father, who were desirous of the rule over the Western region, to turn their backs again and again on many days; having resolved in <supplied reason="explanation">his</supplied> royal mind to conquer also the Pāṇṭimaṇṭalam with great fame, <supplied reason="explanation">he</supplied> dispatched his great army – which possessed <supplied reason="subaudible">excellent horses resembling the waves of the sea</supplied>, war-elephants <supplied reason="explanation">resembling</supplied> ships, and troops <supplied reason="explanation">resembling</supplied> water, – as though the Northern ocean was overflowing the Southern ocean;
 		<supplied reason="explanation">He</supplied> completely destroyed the forest which the five Pañcavas <supplied reason="explanation">i.e. Pāṇṭiyas</supplied> had entered as refuge, when they were routed on a battlefield where <supplied reason="explanation">he</supplied> fought <supplied reason="explanation">with them</supplied>, and fled cowering with fear; <supplied reason="explanation">He</supplied> subdued <supplied reason="explanation">their</supplied> country, drove them into hot jungles in hills where woodmen roamed about, and planted pillars of victory in every region;
 		<supplied reason="explanation">He</supplied> was pleased to seize the pearl fisheries, the Potiyil <supplied reason="explanation">mountain</supplied> where the three kinds of Tamil <supplied reason="explanation">flourished</supplied>, <supplied reason="subaudible">the very centre of the mountain Caiyam</supplied> where furious rutting elephants were captured, and Kaṉṉi, and fixed the boundaries of the Southern <supplied reason="subaudible">i.e. Pāṇṭiya </supplied>country;
@@ -210,17 +214,17 @@
 		one <foreign>mā</foreign> of land situated to the east of Pavittramāṇikkavati, to the north of Rājendracōḻaṉ canal, and the east of the third square and the sixth channel and three and a half <foreign>mās</foreign> of land to the west of the fourth square – thus the land of four and a half <foreign>mās</foreign>;</p>
 	<p n="24-28">I, Kaṭampaṅkuṭaiyāṉ Kūttaṉ Veṇkāṭu-tēvaṉ, having given as the land for the <supplied reason="subaudible">ceremony of</supplied> waking up the Lord, for the great Lord of śrī-Mūlastāṉam of this village, and according to the land endowment, I have donated four <foreign>nāḻis</foreign> of rice for food offerings, five side dishes, one <foreign>ceviṭu</foreign> and a quarter measure of ghee, one <foreign>uḻakku</foreign> of curd, three areca nuts, six betel leaves and eight sacred lamps, as long as the moon and the sun will last. This is under the protection of the Śaiva devotees.</p>
          	    
-         </div>
-
-        <!-- <div type="commentary">
-         	line 7<unclear>k</unclear> should be -p- acc. to std. version
-         </div>-->
+</div>
+	
+<!-- <div type="commentary">
+         	
+</div>-->
 
 <div type="bibliography">
 
     <!--<p>Reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1934-1935/B/1934-1935/104).</p>-->
-    <p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> and translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 29).</p>
-    <p>This edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl>.</p>
+    <p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 29) and translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 29).</p>
+    <p>This digital edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl>.</p>
     
     <listBibl type="primary">
         
@@ -243,5 +247,6 @@
       </body>
   </text>
 </TEI>
+
 <!--METADATA:
 On the south wall of the <foreign>ardhamaṇḍapa</foreign> in the temple of Tirumūlanātar at Tirukaṇṭheśvaram, Cuddalore taluk. Year 14 of king Jaṭāvarmaṉ Sundarapāṇḍya I: 1264 CE.-->
