@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tiruppāmpuram, Cēṣapurīśvara temple, time of Tribhuvana Vīra, year 35</title>
+				<title>Tiruppāmpuram, Cēṣapurīśvara, time of Tribhuvana Vīra, year 35</title>
 				<respStmt>
 					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:reda">
@@ -129,7 +129,7 @@
 	
 </div>
 	
-	<!--<div type="apparatus">
+<!--<div type="apparatus">
       		
       		<!-\-<listApp>
       			
@@ -138,7 +138,7 @@
 			<rdg source="bib:..."></rdg>
 		</app>
 		
-	</listApp>-\->
+</listApp>-\->
 	
 </div>-->
           
@@ -162,7 +162,7 @@
 	</p>
 	
 	<p n="5">
-	
+		
 		<list>
 			<item>These are the signature of Muṉṉūṟṟuvappiriyaṉ, the temple accountant.</item>
 			<item>These are the signature of ...</item>
@@ -173,7 +173,7 @@
 		</list>
 	</p>
 	
-         </div>
+</div>
           
 <div type="commentary">
               <p>
@@ -185,8 +185,7 @@
     <p>Reported in <bibl><ptr target="bib:ARIE1910-1911"/></bibl> (ARIE/1910-1911/C/1911/94).</p>	
     <p>Edited in <bibl><ptr target="bib:Patmavati1979_01"/></bibl> (NK 134).</p>	
     <p>Translated in <bibl><ptr target="bib:Orr2000_01"/><citedRange unit="page">18-19</citedRange></bibl>.</p>
-    <p>This edition by Renato Dávalos and Emmanuel Francis (2023), based on <bibl><ptr target="bib:Patmavati1979_01"/></bibl>.</p>	  
-    <p>This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
+    <p>This digital edition by Renato Dávalos and Emmanuel Francis (2023), based on <bibl><ptr target="bib:Patmavati1979_01"/></bibl>. This translation by Renato Dávalos and Emmanuel Francis (2024).</p>
     
     <listBibl type="primary">
         
