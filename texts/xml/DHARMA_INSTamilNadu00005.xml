@@ -15,6 +15,10 @@
 						<forename>Renato</forename>
 						<surname>Davalos</surname>
 					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
@@ -47,11 +51,11 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Endowment of a tand and a land for those who recite (<foreign>āṇṭār</foreign>) in the sacred hall (<foreign>tirukkōṭṭi</foreign>) of the temple. The following texts are mentioned: <foreign>Tiruñāṉam</foreign>, <foreign>Tirumuṟai</foreign> and a text, the title of which begins with <foreign>Tirukka</foreign><gap reason="lost"/>. <bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl> understands that the endowment applies to the reciters of the <foreign>Tiruñāṉam</foreign>, excluding the <foreign>Tirumuṟai</foreign> and the <foreign>Tirukka</foreign><gap reason="lost"/>.</summary>
+						<summary>Endowment of a tank and a land for the <foreign>āṇṭār</foreign>s (devotees) who recite the <foreign>Tiruñāṉam</foreign> in the sacred hall (<foreign>tirukkaikōṭṭi</foreign>) of the temple of the Lord of the Rājendracoḷīśvara in Mummuṭicōḻanallūr. The following texts are mentioned: <foreign>Tiruñāṉam</foreign>, <foreign>Tirumuṟai</foreign> and a text, the title of which begins with <foreign>Tirukka</foreign><gap reason="lost"/>. <bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl> (p. 24) understands that the endowment applies to the reciters of the <foreign>Tiruñāṉam</foreign>, excluding the <foreign>Tirumuṟai</foreign> and the <foreign>Tirukka</foreign><gap reason="lost"/>.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p/>
+							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -95,23 +99,31 @@
 	
 	<p>
 		nāñci-nāṭṭu-t tiru-k-kōṭṭāṟ-āṉa mu-m-muṭi-cō
-		<lb n="2" break="no"/>ḻa-nallūr Uṭaiyār <hi rend="grantha">srī-rājendra-</hi>cōḷ<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvaram</hi> Uṭaiya nāyaṉār kōyiyil tiru-k-kaikōṭṭiyil tiru-ñā
+		<lb n="2" break="no"/>ḻa-nallūr Uṭaiyār <hi rend="grantha">srī-rājendra-</hi>cōḷ<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvara</hi>m-Uṭaiya nāyaṉār kōyi<choice><sic>y</sic><corr>l</corr></choice>il tiru-k-kai-kōṭṭiyil tiru-ñā
 		<lb n="3" break="no"/>ṉam ōtum Āṇṭāṟku Amutu-paṭikku <hi rend="grantha">śrī</hi>-pāṇṭi-maṇṭalattu kuṭa-nāṭṭu kaṅkai-maṅkalam-āṉa maturōtaiya-p pe
-		<lb n="4" break="no"/>run-teruvil meṟ-pāṭi y-uṭaiyāṉ y- uṭaiyāṉ Āṭuvāṉ-āṉa Ālāla-cuntara-p-perumāṉ-ēṉ kuṭutta kuḷamun nilamum āvatu 
+		<lb n="4" break="no"/>run-teruvil meṟ-pāṭi y-uṭaiyāṉ y-uṭaiyāṉ Āṭuvāṉ-āṉa Ālāla-cuntara-p-perumāṉ-ēṉ kuṭutta kuḷamun nilamum āvatu 
 	</p>
 	
 	<p>
 		Āntā<lb n="5" break="no"/>y-kuṭi-y-āṉa <hi rend="grantha">rājendra</hi>-cōḻa-nallūr nāṉ vilai koṇṭ-uṭaiya Ālāla-cuntaraṉ ērik<unclear>ku</unclear> peru-nāṉk' ellai
-	</p>
-	<p>
-		k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-ellai vaṭak
-		<lb n="6" break="no"/>ku-p pañcantāṅki-viḷaiyil mēl-vēlikku mēṟkum teṟku-p pañcantāṅki-viḷaiyil k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-vēlikku mēṟkum teṉ-ṉ-ellai
-		<lb n="7" break="no"/>-t tēvaṉ ēri-vayalukku vaṭakkum mēl-ellai-p peru-v-eḷaikku<supplied reason="omitted">ḷa</supplied>ttil nīr-<unclear>koḷ</unclear>-vāy<supplied reason="omitted">k</supplied>ku-k kiḻakkum vaṭam-vallai peru-vaḻikku teṟkum
+	
+		<list>
+			<item>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-ellai vaṭak
+				<lb n="6" break="no"/>ku-p pañcantāṅki-viḷaiyil mēl-vēlikku mēṟkum teṟku-p pañcantāṅki-viḷaiyil k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-vēlikku mēṟkum</item>
+			
+			<item>teṉ-ṉ-ellai ⌈
+				<lb n="7" break="no"/>-t tēvaṉ ēri-vayalukku vaṭakkum</item>
+			
+			<item>mēl-ellai-p peru-veḷai-k-ku<supplied reason="omitted">ḷa</supplied>ttil nīr-<unclear>koḷ</unclear>-vāy<supplied reason="omitted">k</supplied>ku-k kiḻakkum</item>
+			
+			<item>vaṭa-v-ellai peru-vaḻikku teṟkum</item>
+			
+		</list>
 	</p>
 	<p>
 		I
-		<lb n="8" break="no"/>vv-icainta peru-nāṉk' ellaikk' uṭ-apaṭṭa nilamum viḷaiyum In-nāyaṉārkku kaṭamai n<choice><orig>i</orig><reg>ī</reg></choice>kki In-nilattāl vantat' ep
-		<lb n="9" break="no"/>pēṟpaṭṭatatum Aṉupavittu-k koṇṭu tiru-muṟai tiru-k-ka<gap reason="lost" quantity="4" unit="character"/>kki tiru-ñāṉam ōtuvārkku Amutu-paṭi kaṟpicceṉ mēṟpā
+		<lb n="8" break="no"/>vv-icainta peru-nāṉk' ellaikk' uṭ-paṭṭa nilamum viḷaiyum In-nāyaṉārkku kaṭamai n<choice><orig>i</orig><reg>ī</reg></choice>kki In-nilattāl vantat' ep
+		<lb n="9" break="no"/>pēṟpaṭṭatatum Aṉupavittu-k koṇṭu tiru-muṟai tiru-k-ka <gap reason="lost" quantity="4" unit="character"/> kki tiru-ñāṉam ōtuvārkku Amutu-paṭi kaṟpiccēṉ mēṟpā
 		<lb n="10" break="no"/>ṭi Uṭaiyāṉ-āṉa Ālāla-cuntara-perumāṉ-ēṉ
 	</p>
 	
@@ -123,18 +135,25 @@
 	</p>
 </div>
           
-<!--<div type="apparatus">
+<div type="apparatus">
             
            	<listApp>
 		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:..."></rdg>
+		<app loc="6">
+			<lem>⌈<lb n="7" break="no"/>ttēvaṉ</lem>
+			<rdg source="bib:RamanathaAyyar1927_01"/>
+			<note>This appears to be an instance where the <foreign>kompu</foreign> (-<foreign>e</foreign>) is written before a doubled consonant rather than between each single consonant of the doubled consonant, that is <foreign>tēt</foreign> for <foreign>ttē</foreign>.<!--See also SII 3.*** Update--></note>
+		</app>
+           		
+           		<app loc="9">
+			<lem>tirukka <gap reason="lost" quantity="4" unit="character"/> kki</lem>
+			<rdg source="bib:RamanathaAyyar1927_01"/>
+			<note><ptr target="bib:RamanathaAyyar1927_01"/>'s translation is based on the restoration <foreign><supplied reason="lost">nī</supplied>kki</foreign>.</note>
 		</app>
 		
 	</listApp>
 	
-</div>-->
+</div>
           
 <div type="translation" source="bib:RamanathaAyyar1927_01">
 		
@@ -143,14 +162,14 @@
 	</p>
 	
 	<p>
-		In the Mēṭa month of the year 419 after the appearance of Kollam, Āṭuvāṉ <hi rend="italic">alias</hi> Ālālacuntara-Perumāṉ of Mēṟpāṭi <supplied reason="subaudible">living</supplied> in Kaṅkaimaṅkalam <hi rend="italic">alias</hi> Maturōtayap-Perunteruvu in Kuṭa-nāṭu, a subdivision of Śrī-Pāṇṭi-maṇṭalam, gave for <supplied reason="subaudible">providing</supplied> to the <foreign>āṇṭār</foreign> chanting the <hi rend="italic">Tiruñāṉam</hi> in the hall <supplied reason="explanation"><foreign>tirukkōṭṭi</foreign></supplied> of the temple of god Śrī-Rājēndracōḻēśvaramuṭaiya-Nāyaṉār of Tirukkōṭṭāṟu <hi rend="italic">alias</hi> Mummuṭicōḻanallūr in Nāñjci-nāṭu, the following tank and land.
+		In the Mēṭa month of the year 419 after the appearance of Kollam, Āṭuvāṉ <hi rend="italic">alias</hi> Ālālacuntara-Perumāṉ of Mēṟpāṭi <supplied reason="subaudible">living</supplied> in Kaṅkaimaṅkalam <hi rend="italic">alias</hi> Maturōtayap-perunteruvu in Kuṭa-nāṭu, a subdivision of Śrī-Pāṇṭi-maṇṭalam, gave for <supplied reason="subaudible">providing</supplied> to the <foreign>āṇṭār</foreign> chanting the <hi rend="italic">Tiruñāṉam</hi> in the hall <supplied reason="explanation"><foreign>tirukkōṭṭi</foreign><note><bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl> (p. 23, fn. 1) notes: <quote><foreign>tirukkaikkoṭṭi</foreign> seems to refer to the hall in the sacred presence. <foreign>kōṭṭi</foreign> is derivable from Skt. <foreign>gōṣṭī</foreign> (assembly). <foreign>kōṭṭi</foreign> also means 'the tower of a temple'.</quote> </note></supplied> of the temple of god Śrī-Rājendracōḻēśvaramuṭaiya-Nāyaṉār of Tirukkōṭṭāṟu <hi rend="italic">alias</hi> Mummuṭicōḻanallūr in Nāñci-nāṭu, the following tank and land.
 	</p>
 	<p>
-		The four great boundaries of the <supplied reason="subaudible">tank called</supplied> Ālālacuntaraṉ-ēri, which I have purchased in Āntāykkuṭi <hi rend="italic">alias</hi> Rājēndracōḻanallūr are <supplied reason="subaudible">as follows</supplied>:
+		The four great boundaries of the <supplied reason="subaudible">tank called</supplied> Ālālacuntaraṉ-ēri, which I have purchased in Āntāykkuṭi <hi rend="italic">alias</hi> Rājendracōḻanallūr are <supplied reason="subaudible">as follows</supplied>:
 		<list>
-			<item>the western boundary is to the west of the western hedge of <supplied reason="subaudible">the field called</supplied> the northern Pañcatāṅki-viḷai, and to the west of the eastern hedge of the Pañcatāṅki-viḷai;</item>
+			<item>the western boundary is to the west of the western hedge of <supplied reason="subaudible">the field called</supplied> the northern Pañcatāṅki-viḷai, and to the west of the eastern hedge of the southern Pañcatāṅki-viḷai;</item>
 		
-			<item>the southern boundary is to the north of the field <supplied reason="subaudible">called</supplied> Tēvanēṟi-vayal;</item>
+			<item>the southern boundary is to the north of the field <supplied reason="subaudible">called</supplied> Tēvaṉēṟi-vayal;</item>
 		
 			<item>the western boundary is to the east of the sluice of the Peruvēḷaikkuḷam;</item>
 		
@@ -158,22 +177,22 @@
 		</list>
 	</p>
 	<p>
-			The land and high ground <supplied reason="explanation"><foreign>viḷai</foreign></supplied>comprised within these four great boundaries were exempted from tax, and I, Ālāla-cuntara-Perumāḷ of Mēṟpāṭi stipulated that the produced from the land was to be enjoyed and rice was to be provided to those whose chant the <hi rend="italic">Tiruñāṉam</hi>, exclusive of <foreign>Tirumuṟai</foreign> and <foreign>Tirukka</foreign><gap reason="lost"/>.
+			The land and high ground <supplied reason="explanation"><foreign>viḷai</foreign></supplied> comprised within these four great boundaries were exempted from tax, and I, Ālālacuntara-Perumāḷ of Mēṟpāṭi stipulated that the produced from the land was to be enjoyed and rice was to be provided to those whose chant the <hi rend="italic">Tiruñāṉam</hi>, exclusive<note resp="part:emfr">Translation based on the restoration <foreign>tirukka<gap reason="lost" quantity="3" unit="character"/> <supplied reason="lost">nī</supplied>kki</foreign>.</note> of <foreign>Tirumuṟai</foreign> and <foreign>Tirukka</foreign><gap reason="lost"/>.
 		</p>
 		<p>
-			This is the writing of Ālāla-cuntara-Perumāḷ. This <gap reason="lost"/>.
+			This is the writing of Ālālacuntara-Perumāḷ. This <gap reason="lost"/>.
 		</p>
 	
          </div>
           
-          <div type="commentary">
+<!--<div type="commentary">
               
-          </div>
+</div>-->
           
 <div type="bibliography">
 	
     <p>Edited <bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl> (TAS 6.14), with English translation.</p>    
-    <p>This digital edition by Renato Dávalos (2024), based based on <bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl>.</p>
+    <p>This digital edition by Renato Dávalos and Emmanuel Francis (2024), based on <bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl>.</p>
     
     <listBibl type="primary">
         
