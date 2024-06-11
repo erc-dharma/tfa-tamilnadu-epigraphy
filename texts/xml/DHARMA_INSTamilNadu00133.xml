@@ -111,8 +111,9 @@
 	</p>
 	<p>		
 		Uyya-k-ko
+		
 		<lb n="2" break="no"/>
-		<milestone n="A" unit="zone" type="gridlike"/>
+		<milestone n="A" unit="zone" type="gridlike" break="no"/>
 		ṇṭār-vaḷa-nāṭṭu muḻ<unclear reason="eccentric_ductus">ai</unclear>yūr-nāṭṭu Uṭaiyār ti
 		<milestone n="B" unit="zone" type="gridlike" break="no"/>
 		ru-naḷ
