@@ -71,7 +71,8 @@
 				</prefixDef>
 				<prefixDef ident="part" matchPattern="([a-z]+)"
 					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+					<p>Internal URIs using the part prefix to poin
+					    t to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
 			</listPrefixDef>
 		</encodingDesc>
@@ -84,8 +85,6 @@
 <body>
           
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	
-	<!--Check Ramachandran 1954, 1965 for page and plate quotation.-->
 	
 	<p>
 		<lb n="1"/>putta-Uttama-nāyakar
@@ -104,43 +103,47 @@
 	</listApp>
 </div>-->
   
-<div type="translation" source="bib:Ramachandran1954_01">
+<div type="translation" source="bib:Ramachandran1992_01">
   	
   	<p n="1">The Lord who was the greatest of the Buddhas.</p>			
 				
 </div>
 <div type="translation" resp="part:emfr">
  	
- 	<p n="1">The ultimate Lord who is the Buddha.</p>
+ 	<p n="1">The greatest Lord who is the Buddha / among the Buddhas.</p>
  	
  </div>
       	
 <div type="commentary">
-	<p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl> comments thus: <quote>Here Śākyamuni Buddha's relative importance to other previous Buddhas such as Dīpaṅkara, etc., is implied.</quote></p>
+    <!--Check Ramachandran 1954, 1965 for page and plate quotation.-->
+    
+    <p><bibl><ptr target="bib:Ramachandran1992_01"/></bibl> comments thus: <quote>Here Śākyamuni Buddha's relative importance to other previous Buddhas such as Dīpaṅkara, etc., is implied.</quote></p>
 </div>
       	
 <div type="bibliography">
               
-	<p>Edited in <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>, with a facsimile.</p>
+	<p>Edited, with a facsimile in <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>, <bibl><ptr target="bib:Ramachandran1965_01"/></bibl>, <bibl><ptr target="bib:Ramachandran1992_01"/></bibl> (p. 92 and pl. XIV, no. 5), <bibl><ptr target="bib:Ramachandran1992_01"/></bibl> (p. 108 and pl. III, no. 5).</p>
 	<p>Edited and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Ramachandran1954_01"/></bibl> and the facsimile therein.</p>
 	
-	<listBibl type="primary">
-		
-		<bibl n="R1"><!--complex ref-->
-			<ptr target="bib:Ramachandran1954_01"/>
-			<citedRange>TBC</citedRange>
-			<citedRange unit="plate">TBC</citedRange>
-		</bibl>
-	
-		
-		<bibl n="R2"><!--complex ref-->
-			<ptr target="bib:Ramachandran2005_01"/>
-			<citedRange unit="page">108</citedRange>
-			<citedRange unit="page">III, no. 1</citedRange>
-			<!--Or is it Plate VI, n° 81: tiruvaraṅkanāyakar; nonetheless same text with a different spelling-->
-		</bibl>
-		
-	</listBibl>	
+    <listBibl type="primary">
+        
+        <bibl n="R1">
+            <ptr target="bib:Ramachandran1954_01"/>
+        </bibl>
+        
+        <bibl n="R2">
+            <ptr target="bib:Ramachandran1965_01"/>
+        </bibl>
+        
+        <bibl n="R3">
+            <ptr target="bib:Ramachandran1992_01"/>
+        </bibl>
+        
+        <bibl n="R4">
+            <ptr target="bib:Ramachandran2005_01"/>
+        </bibl>
+        
+    </listBibl>	
 	
 	<!--<listBibl type="secondary"/>-->
 	
