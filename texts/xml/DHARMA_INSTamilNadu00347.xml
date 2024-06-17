@@ -95,15 +95,15 @@
 		
 		<app loc="1">
 			<lem><gap reason="illegible" quantity="1" unit="character"/> <unclear>t</unclear>ārayar</lem>
-			<rdg source="bib:Ramachandran1954_01">tārayar</rdg>
+			<rdg source="bib:Ramachandran1992_01">tārayar</rdg>
 		</app>
 		
 	</listApp>
 </div>
   
-<div type="translation" source="bib:Ramachandran1954_01">
+<div type="translation" source="bib:Ramachandran1992_01">
   	
-  	<p n="1">The Lord <supplied reason="explanation">Buddha</supplied> of the <foreign>maṭha</foreign> of the Tarayar <supplied reason="explanation">i.e., Theriyas or Sthaviras or the Elders</supplied></p>			
+  	<p n="1">The Lord <supplied reason="explanation">Buddha</supplied> of the <foreign>maṭha</foreign> of the Tārayar <supplied reason="explanation">i.e., Theriyas or Sthaviras or the Elders</supplied></p>			
 				
 </div>
 <div type="translation" resp="part:emfr">
@@ -114,31 +114,34 @@
       	
 <div type="commentary">
 	
-	<p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl> comments thus: <quote>It is not clear if this inscription refers to the image itself in which case it would serve as its label meaning the "Lord," i.e., Buddha, of i.e., worshipped in, the <foreign>maṭha</foreign> or monastery of the Theras, the Elders. Or the Lord of the <foreign>maṭha</foreign> may merely mean the head of the <foreign>maṭha</foreign> of Theras, any spiritual head or guide. The Buddha was more probably meant (cf. inscription 43<!--add DHARMA corpus cross-ref-->).</quote></p>
+	<p><bibl><ptr target="bib:Ramachandran1992_01"/></bibl> comments thus: <quote><!--converted to DHARMA transliteration conventions-->It is not clear if this inscription refers to the image itself in which case it would serve as its label meaning the "Lord," i.e., Buddha, of, i.e., worshipped in, the <foreign>maṭha</foreign> or monastery of the Theras, the Elders. Or the "Lord of the <foreign>maṭha</foreign>" may merely mean the head of the <foreign>maṭha</foreign> of Theras, any spiritual head or guide. The Buddha was more probably meant (cf. inscription 43<!--add DHARMA corpus cross-ref-->).</quote></p>
 	
 </div>
 		      	
 <div type="bibliography">
               
-	<p>Edited in <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>, with a facsimile.</p>
-	<p>Edited and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Ramachandran1954_01"/></bibl> and the facsimile therein.</p>
+	<p>Edited, with a facsimile in <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>, <bibl><ptr target="bib:Ramachandran1965_01"/></bibl>, <bibl><ptr target="bib:Ramachandran1992_01"/></bibl> (p. 35 and pl. XXVI, no. 47), <bibl><ptr target="bib:Ramachandran1992_01"/></bibl> (p. 44 and pl. V, no. 47).</p>
+	<p>Edited and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Ramachandran1992_01"/></bibl> and the facsimile therein.</p>
 	
 	<listBibl type="primary">
-		
-		<bibl n="R1"><!--complex ref-->
-			<ptr target="bib:Ramachandran1954_01"/>
-			<citedRange>TBC</citedRange>
-			<citedRange unit="plate">TBC</citedRange><!--check plate number-->
-		</bibl>
-	
-		
-		<bibl n="R2"><!--complex ref-->
-			<ptr target="bib:Ramachandran2005_01"/>
-			<citedRange unit="page">44</citedRange>
-			<citedRange unit="plate">V, no. 47</citedRange>
-		</bibl>
-		
-	</listBibl>	
+        
+        <bibl n="R1">
+            <ptr target="bib:Ramachandran1954_01"/>
+        </bibl>
+        
+        <bibl n="R2">
+            <ptr target="bib:Ramachandran1965_01"/>
+        </bibl>
+        
+        <bibl n="R3">
+            <ptr target="bib:Ramachandran1992_01"/>
+        </bibl>
+        
+        <bibl n="R4">
+            <ptr target="bib:Ramachandran2005_01"/>
+        </bibl>
+        
+    </listBibl>			
 	
 	<!--<listBibl type="secondary"/>-->
 	

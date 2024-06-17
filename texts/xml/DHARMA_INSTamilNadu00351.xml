@@ -95,13 +95,13 @@
 		
 		<app loc="1">
 			<lem><unclear>tiruv</unclear>āli-y-āḻvār</lem>
-			<rdg source="bib:Ramachandran1954_01">tiruvāliyāḻvār</rdg>
+			<rdg source="bib:Ramachandran1992_01">tiruvāliyāḻvār</rdg>
 		</app>
 		
 	</listApp>
 </div>
   
-<div type="translation" source="bib:Ramachandran1954_01">
+<div type="translation" source="bib:Ramachandran1992_01">
   	
   	<p n="1">The Nāyakar <supplied reason="explanation">i.e., Lord Buddha</supplied> of <supplied reason="explanation">i.e., set up or donated by</supplied> Umaiyar, a devotee hailing from Tiruvāli.</p>			
 				
@@ -113,30 +113,33 @@
  </div>
       	
 <div type="commentary">
-	<p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl> comments thus: <quote>Tiruvāli also called Tiruvāli-Tirunakari is the name of a village near Cīrkaḻi in the Tanjore district where the Śaiva Saint Campantar and the Vaiṣṇava Āḻvār Tirumaṅkai met. According to the <foreign>Divyasūricarita</foreign> and Vaiṣṇava literature and tradition, Tirumaṅkai Āḻvār of the 8th century A.D. is said to have robbed one of the Buddhist <foreign>vihāra</foreign>s of Nākappaṭṭiṉam of a golden image of the Buddha and to have utilized the gold for constructing the <foreign>prākāra</foreign> walls of the Vaiṣṇava shrine of Raṅganātha at Śrīraṅkam.</quote></p>	
+	<p><bibl><ptr target="bib:Ramachandran1992_01"/></bibl> comments thus: <quote><!--converted to DHARMA transliteration conventions-->Tiruvāli also called Tiruvāli-Tirunakari is the name of a village near Cīrkaḻi in the Tanjore district where the Śaiva Saint Campantar and the Vaiṣṇava Āḻvār Tirumaṅkai met. According to the <foreign>Divyasūricarita</foreign> and Vaiṣṇava literature and tradition, Tirumaṅkai Āḻvār of the 8th century A.D. is said to have robbed one of the Buddhist <foreign>vihāra</foreign>s of Nākappaṭṭiṉam of a golden image of the Buddha and to have utilized the gold for constructing the <foreign>prākāra</foreign> walls of the Vaiṣṇava shrine of Raṅganātha at Śrīraṅkam.</quote></p>	
 </div>
       	
 <div type="bibliography">
               
-	<p>Edited in <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>, with a facsimile.</p>
-	<p>Edited and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Ramachandran1954_01"/></bibl> and the facsimile therein.</p>
+	<p>Edited, with a facsimile in <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>, <bibl><ptr target="bib:Ramachandran1965_01"/></bibl>, <bibl><ptr target="bib:Ramachandran1992_01"/></bibl> (p. 34, no. 5 and pl. XXVI, no. 51), <bibl><ptr target="bib:Ramachandran1992_01"/></bibl> (p. 43 and pl. V, no. 51).</p>
+	<p>Edited and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Ramachandran1992_01"/></bibl> and the facsimile therein.</p>
 	
 	<listBibl type="primary">
-		
-		<bibl n="R1"><!--complex ref-->
-			<ptr target="bib:Ramachandran1954_01"/>
-			<citedRange>TBC</citedRange>
-			<citedRange unit="plate">TBC</citedRange><!--check plate number-->
-		</bibl>
-	
-		
-		<bibl n="R2"><!--complex ref-->
-			<ptr target="bib:Ramachandran2005_01"/>
-			<citedRange unit="page">43</citedRange>
-			<citedRange unit="plate">V, no. 51</citedRange>
-		</bibl>
-		
-	</listBibl>	
+        
+        <bibl n="R1">
+            <ptr target="bib:Ramachandran1954_01"/>
+        </bibl>
+        
+        <bibl n="R2">
+            <ptr target="bib:Ramachandran1965_01"/>
+        </bibl>
+        
+        <bibl n="R3">
+            <ptr target="bib:Ramachandran1992_01"/>
+        </bibl>
+        
+        <bibl n="R4">
+            <ptr target="bib:Ramachandran2005_01"/>
+        </bibl>
+        
+    </listBibl>	
 	
 	<!--<listBibl type="secondary"/>-->
 	
