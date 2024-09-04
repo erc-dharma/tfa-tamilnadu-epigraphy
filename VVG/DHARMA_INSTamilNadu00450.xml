@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pirāṉmalai, X temple, time of X, year X</title>
+				<title>Pirāṉmalai, Maṅkaipākar, Śaka year 1430<!--check: 1500 in edition--></title>
 			    <respStmt>
 			        <resp>intellectual authorship of edition</resp>
 			    	<persName>
@@ -96,8 +96,7 @@
 			
 	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
 		<l n="a" enjamb="yes"><lb n="1"/>Etat· trailokya-nirmmāṇa</l>
-		<l n="b">-trāṇa-saṃhāra-kāraṇam
-			·</l>
+		<l n="b">-trāṇa-saṃhāra-kāraṇam·</l>
 		<l n="c">śāsanam· cāśvatam· śambho<supplied reason="omitted">ḥ</supplied></l>
 		<l n="d">kaṭhoragiri-vāsina<supplied reason="omitted">ḥ</supplied></l>
 	</lg>
