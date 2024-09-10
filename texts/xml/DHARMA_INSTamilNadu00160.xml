@@ -91,13 +91,27 @@
         <lb n="1"/><hi rend="grantha">śr<unclear>ī</unclear></hi>
     </ab>
     
-    <p>
-        <lb n="2" break="no"/>
-    </p>
+	<p>
+		matirai ko
+		<lb n="2" break="no"/>ṭa kō-p-para-kēcari-paṉ
+		<lb n="3" break="no"/>maṟr' iyāṇṭ' iru-patt
+		<lb n="4" break="no"/>ṅpa<unclear>t</unclear>-āvatu
+	</p>
+	<p>		
+		perumāna
+		<lb n="5" break="no"/>ṭikaḷāṉ mukku
+		<lb n="6" break="no"/><unclear>ṭ</unclear>ṭūr toṟu-k
+		<lb n="7"/><unclear>koḷ</unclear>ḷa mī<unclear>ṭ</unclear>
+		<lb n="8" break="no"/><unclear>ṭu-p</unclear> paṭṭ<unclear>ā</unclear>
+		<lb n="9" break="no"/><unclear>ṉ</unclear> vatuna
+		<lb n="10" break="no"/><unclear>v</unclear>āraṉ
+		<lb n="11"/><unclear>va</unclear>ratan t<unclear>ā</unclear>
+		<lb n="12" break="no"/><unclear>ṇ</unclear>ṭaṉ
+	</p>
     
 </div>
          
-         <div type="apparatus">
+<!--<div type="apparatus">
          	
          	<listApp>
          		
@@ -108,13 +122,15 @@
          	    
          	</listApp>
          	
-         </div>
+</div>-->
          
 <div type="translation" resp="part:emfr">
     
     <p n="1">
         Prosperity!
     </p>    
+	
+	<p>...</p>
     
 </div>
          
@@ -124,10 +140,9 @@
    	    
 <div type="bibliography">
             
-            <!--<p>Reported in <bibl><ptr target="bib:ARIE1895-1896"/></bibl> (ARIE/1895-1896/B/1896/3).</p>-->
+            <p>Reported in <bibl><ptr target="bib:ARIE1895-1896"/></bibl> (ARIE/1895-1896/B/1896/1).</p>
              <p>Edited and translated in <bibl><ptr target="bib:Hultzsch1896-1897_05"/></bibl> (EI 4.22B).</p>
-             <p>This edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1896-1897_05"/></bibl>.
-            </p>
+             <p>This edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1896-1897_05"/></bibl> and photos (E. Francis 2024).</p>
             
             <listBibl type="primary">
                
@@ -138,16 +153,16 @@
                
             </listBibl>
             
-            <!--<listBibl type="secondary">
+            <listBibl type="secondary">
                
                <bibl>
                   <ptr target="bib:ARIE1895-1896"/>
                   <citedRange unit="page">8</citedRange>
                   <citedRange unit="appendix">B/1896</citedRange>
-                  <citedRange unit="item">3</citedRange>
+                  <citedRange unit="item">1</citedRange>
                </bibl>
                
-            </listBibl>-->
+            </listBibl>
             
          </div>
          
