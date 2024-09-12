@@ -94,7 +94,7 @@
 	<p>
 		matirai ko
 		<lb n="2" break="no"/>ṭa kō-p-para-kēcari-paṉ
-		<lb n="3" break="no"/>maṟr' iyāṇṭ' iru-patt
+		<lb n="3" break="no"/>maṟr’ iyāṇṭ’ iru-patt' o
 		<lb n="4" break="no"/>ṅpa<unclear>t</unclear>-āvatu
 	</p>
 	<p>		
@@ -124,13 +124,29 @@
          	
 </div>-->
          
+<div type="translation" source="bib:Hultzsch1896-1897_05">
+    
+    <p n="1">
+           Prosperity! In the twenty-ninth year <supplied reason="subaudible">of the reign</supplied> of king Parakēsarivarman who conquered Madirai,―when cattle were lifted<note>[p. 179, fn. 2] The expression <foreign>toṟu=kkoḷḷa</foreign>, ‘to lift cattle,’ is used also in the two Ambūr inscriptions, No. 23 [EI 22.23] below.</note> <supplied reason="subaudible">at</supplied> Mukkuṭṭūr by the Perumānaḍigal―Vadu<unclear>nav</unclear>āraṉ <unclear>Va</unclear>ratan T<unclear>āṇ</unclear>ṭaṉ, having recovered <supplied reason="subaudible">them</supplied>, fell.
+    </p>   
+    
+</div>
+   	    
 <div type="translation" resp="part:emfr">
     
     <p n="1">
         Prosperity!
     </p>    
-	
-	<p>...</p>
+    
+    <p n="1-4">
+        Twenty-ninth year of the king Parakesarivarman who took Maturai.
+    </p>
+    
+    <p n="4-12">
+        When Perumāṉaṭikaḷ seized cattle <supplied reason="subaudible">in</supplied> Mukkuṭṭūr,
+        He who fell recovering <supplied reason="subaudible">it</supplied>
+        is Vatunavāraṉ Varataṉ Tāṇṭaṉ.        
+    </p>
     
 </div>
          
