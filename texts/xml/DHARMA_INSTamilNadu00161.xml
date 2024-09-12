@@ -104,7 +104,7 @@
 		<lb n="8" break="no"/>māra-<unclear>na</unclear>ntai puḻa
 		<lb n="9" break="no"/><unclear>la</unclear>ppaṉ pu
 		<lb n="10" break="no"/>li kutti
-		<lb n="11"/>na karaiṉā
+		<lb n="11" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>a karai-ṉā
 		<lb n="12" break="no"/>ṭu
 	</p>
     
@@ -123,14 +123,29 @@
          	
          </div>-->
          
+<div type="translation" source="bib:Hultzsch1896-1897_05">
+    
+    <p n="1">
+           Prosperity! In the thirty-second year <supplied reason="subaudible">of the reign</supplied> of king Parakēsarivarman who conquered Madirai. <supplied reason="subaudible">This is</supplied> the spot on the embankment, at which a tiger was stabbed by Kumāra-<unclear>Na</unclear>ndai Puḻa<unclear>la</unclear>ppaṉ of Mukkuṭṭūr, a village on the northern bank <supplied reason="subaudible">of the Pālāṟu river</supplied>.
+    </p>   
+    
+</div>
+   	    
 <div type="translation" resp="part:emfr">
     
     <p n="1">
         Prosperity!
-    </p>    
-	
-	<p>...</p>
+    </p>
     
+    <p n="2-6">
+        Thirty-second year of the king Parakesarivarman who took Maturai.
+    </p>
+    
+    <p n="4-12">
+        <supplied reason="subaudible">This is</supplied> the enbankment <supplied reason="explanation"><foreign>karai</foreign></supplied> place <supplied reason="explanation"><foreign>nāṭu</foreign></supplied> where
+        Kumāra Nantai Puḻalappaṉ <supplied reason="subaudible">of</supplied> Mukkuṭṭūr, <supplied reason="explanation">on</supplied> the northern bank,
+                pierced/stabbed <supplied reason="explanation"><foreign>kuttiṉa</foreign></supplied> a tiger.
+    </p>
 </div>
          
 <!--<div type="commentary">         	
@@ -159,6 +174,11 @@
                   <citedRange unit="page">8</citedRange>
                   <citedRange unit="appendix">B/1896</citedRange>
                   <citedRange unit="item">2</citedRange>
+               </bibl>
+                
+                <bibl>
+                  <ptr target="bib:Sivaramamurti1948_01"/>
+                  <citedRange unit="plate">VII (b)</citedRange>
                </bibl>
                
             </listBibl>
