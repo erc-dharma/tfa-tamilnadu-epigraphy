@@ -96,25 +96,35 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
 	             	
     <p>
-        <lb n="1"/>...
+        <lb n="1"/><g type="ddanda"/> <g type="pcs"/> <hi rend="grantha">tribhu</hi>va<choice><orig>n</orig><reg>ṉ</reg></choice>a-<hi rend="grantha"><surplus>ś</surplus>cakra</hi>va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī-rāj<unclear>ā</unclear></hi>
+        <lb n="2"/>dhirāja-<unclear>d</unclear>evaṟku yāṇṭu 5-Āvatu
     </p>
+    
+    <p>...</p>
           
 </div>	
 	
-<!--<div type="apparatus">
+<div type="apparatus">
 			
     <listApp>
-        <app loc="0">
+        <!--<app loc="0">
             <lem>...</lem>
             <rdg source="bib:Swaminathan1998_01">...</rdg>
+        </app>-->
+        
+        <app loc="1">
+            <lem><g type="ddanda"/> <g type="pcs"/></lem>
+            <note><ptr target="bib:Swaminathan1998_01"/> considers this as the final punctuation of the inscription <ref target="DHARMA_INSTamilNadu00163.xml">Tamil Nadu 163</ref>, which ends in the same epigraphical line, right before the present inscription. But as the former inscription itself starts with the same punctuation, it makes sense to consider that this is the initial punctuation of the present inscription.</note>
         </app>
+        
     </listApp>
 	
-</div>-->
+</div>
 		
 <div type="translation" resp="part:emfr">
 				
-    <p n="1">...</p>
+    <p n="1-2">5th year of the glorious king Rājādhirāja, emperor of the three worlds.</p>
+    <p>...</p>
     			
 </div>	
 		
