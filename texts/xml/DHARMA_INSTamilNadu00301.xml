@@ -9,20 +9,24 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Nākappaṭṭiṉam, bronze label</title>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
+			    <respStmt>
+			        <resp>intellectual authorship of edition</resp>
+			        <persName>
+			            <forename>T. N.</forename>
+			            <surname>Ramachandran</surname>
+			        </persName>
+			        <persName ref="part:emfr">
+			            <forename>Emmanuel</forename>
+			            <surname>Francis</surname>
+			        </persName>
+			    </respStmt>
+			    <respStmt>
+			        <resp>EpiDoc Encoding</resp>
+			        <persName ref="part:emfr">
+			            <forename>Emmanuel</forename>
+			            <surname>Francis</surname>
+			        </persName>
+			    </respStmt>				
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -92,16 +96,16 @@
 	
 </div>
           
-<!--<div type="apparatus">
+<div type="apparatus">
 	<listApp>
 		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:..."></rdg>
+		<app loc="1">
+			<lem>putta-Uttama-nāyakar</lem>
+			<rdg source="bib:Ramachandran1954_01">putta Uttama nāyakar</rdg>
 		</app>
 		
 	</listApp>
-</div>-->
+</div>
   
 <div type="translation" source="bib:Ramachandran1992_01">
   	
@@ -110,36 +114,36 @@
 </div>
 <div type="translation" resp="part:emfr">
  	
- 	<p n="1">The greatest Lord who is the Buddha / among the Buddhas.</p>
+ 	<p n="1">The foremost Lord Buddha.</p>
  	
  </div>
       	
 <div type="commentary">
-    <!--Check Ramachandran 1954, 1965 for page and plate quotation.-->
-    
-    <p><bibl><ptr target="bib:Ramachandran1992_01"/></bibl> comments thus: <quote><!--converted to DHARMA transliteration conventions-->Here Śākyamuni Buddha's relative importance to other previous Buddhas such as Dīpaṅkara, etc., is implied.</quote></p>
+        
+    <p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl> (p. 92) comments thus: <quote>Here Śākyamuni Buddha’s relative importance to other previous Buddhas such as Dīpaṅkara, etc., is implied.</quote></p>
 </div>
       	
 <div type="bibliography">
               
-	<p>Edited, with a facsimile in <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>, <bibl><ptr target="bib:Ramachandran1965_01"/></bibl>, <bibl><ptr target="bib:Ramachandran1992_01"/></bibl> (p. 92 and pl. XIV, no. 5), <bibl><ptr target="bib:Ramachandran1992_01"/></bibl> (p. 108 and pl. III, no. 5).</p>
-	<p>Edited and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Ramachandran1992_01"/></bibl> and the facsimile therein.</p>
+	<p>Edited in <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>, with a facsimile (p. 92 and pl. XXIV, no. 1). See also <bibl><ptr target="bib:Ramachandran1965_01"/></bibl>, <bibl><ptr target="bib:Ramachandran1992_01"/></bibl>, <bibl><ptr target="bib:Ramachandran2005_01"/></bibl> (p. 108 and pl. III, no. [1]).</p>
+	<p>Edited and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Ramachandran1954_01"/></bibl> and the facsimile therein.</p>
 	
     <listBibl type="primary">
         
-        <bibl n="R1">
+        <bibl n="R1954">
             <ptr target="bib:Ramachandran1954_01"/>
+            <citedRange unit="page">92</citedRange>
         </bibl>
         
-        <bibl n="R2">
+        <bibl n="R1965">
             <ptr target="bib:Ramachandran1965_01"/>
         </bibl>
         
-        <bibl n="R3">
+        <bibl n="R1992">
             <ptr target="bib:Ramachandran1992_01"/>
         </bibl>
         
-        <bibl n="R4">
+        <bibl n="R2005">
             <ptr target="bib:Ramachandran2005_01"/>
         </bibl>
         
