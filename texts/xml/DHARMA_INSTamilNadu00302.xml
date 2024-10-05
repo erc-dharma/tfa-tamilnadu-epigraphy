@@ -10,19 +10,23 @@
 			<titleStmt>
 				<title>Nākappaṭṭiṉam, bronze label</title>
 				<respStmt>
-					<resp>EpiDoc Encoding</resp>
+					<resp>intellectual authorship of edition</resp>
+					<persName>
+						<forename>T. N.</forename>
+						<surname>Ramachandran</surname>
+					</persName>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp>EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
-				</respStmt>
+				</respStmt>	
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -103,7 +107,7 @@
   
 <div type="translation" source="bib:Ramachandran1954_01">
   	
-  	<p n="1">The Nāyaka <supplied reason="explanation">Buddha</supplied>, the lord of Buddhist forum of theological debate.<note>Cf. Maturai <foreign>caṅkappalakai</foreign>.</note></p>			
+  	<p n="1">The Nāyaka <supplied reason="explanation">Buddha</supplied>, the lord of Buddhist forum of theological debate.<note>Cf. Madurai <foreign>Śaṅgappalagai</foreign>.</note></p>			
 				
 </div>
 <div type="translation" resp="part:emfr">
@@ -113,8 +117,8 @@
  </div>
       	
 <div type="commentary">
-	<p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl>'s suggestion that the Buddha is here <quote>the lord of Buddhist forum of theological debate</quote> with reference to the Maturai <foreign>caṅkappalakai</foreign><note>See MTL, s.v. <foreign>caṅkappalakai</foreign>: <quote>Miraculous seat capable of accommodating only deserving scholars, believed to have been granted by Śiva at Madurai to the Sangam poets.</quote></note> appears far-fetched. It seems that the Buddha is presented here as a rival of Viṣṇu, known as Raṅganātha, "the Lord of the stage," in his famous temple on the Śrīraṅga island at Trichy.</p>
-	<p>For the same label on another Buddhist bronze from Nākappaṭṭiṉam, see <ref target="DHARMA_INSTamilNadu00381.xml">Tamil Nadu 381</ref>.</p>
+	<p>The suggestion by <bibl><ptr target="bib:Ramachandran1954_01"/></bibl> that the Buddha is here <quote>the lord of Buddhist forum of theological debate</quote> with reference to the Maturai <foreign>caṅkappalakai</foreign><note>See MTL, s.v. <foreign>caṅkappalakai</foreign>: <quote>Miraculous seat capable of accommodating only deserving scholars, believed to have been granted by Śiva at Madurai to the Sangam poets.</quote></note> appears far-fetched. It seems that the Buddha is presented here as a rival of Viṣṇu, known as Raṅganātha, “the Lord of the stage,” in his famous temple on the Śrīraṅga island at Trichy.</p>
+	<p>For the same label, with a variant spelling, on another Buddhist bronze from Nākappaṭṭiṉam, see <ref target="DHARMA_INSTamilNadu00381.xml">Tamil Nadu 381</ref>.</p>
 </div>
       	
 <div type="bibliography">
