@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa, year ***</title>
+				<title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa, 9th year</title>
 				<respStmt>
 					<resp>Intellectual authorship of edition</resp>
 				    <persName ref="part:reda">
@@ -55,7 +55,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Unfinished. Seems to record sale of rights [prob. of singing] to the <foreign>dēvaraḍiyāḷ</foreign> named Mādu<supplied reason="lost">mai</supplied> alias Kōvaṇavarkulā</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -98,26 +98,35 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 	
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <lb n="1"/><unclear>svasti śrī</unclear>
+        <lb n="1"/><unclear>suva</unclear>st<unclear>i</unclear> śr<supplied reason="lost">ī</supplied>
     </ab>
     
     <p>
-        <unclear>puvaṉa-ca</unclear>
-      
-    </p>
-    
+        t<supplied reason="lost">i</supplied>r<supplied reason="lost">u</supplied>-puva<choice><sic>pā</sic><corr>ṉa</corr></choice>-c-cakkara-<unclear>v</unclear>
+    	<lb n="2" break="no"/>vaṟtikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lottuṅka-<supplied reason="lost">cō</supplied>
+    	<lb n="3" break="no"/>ḻa-tēvarkku yāṇṭu 9-Āvatu <unclear>U</unclear>
+    	<lb n="4" break="no"/>ṭaiyār nalla-nāyanār kō<unclear>y</unclear>i<supplied reason="lost">li</supplied>
+		<lb n="5" break="no"/><supplied reason="lost">l</supplied> t<unclear>ē</unclear><unclear>var A</unclear>ṭ<supplied reason="lost">i</supplied>yāḷ mātu<gap unit="character" reason="lost" quantity="3"></gap>
+    	<lb n="6" break="no"/>-Āṉa kōvaṇavarkulāvukku t<choice><sic>a</sic><corr>i</corr></choice>ruv<choice><sic>a</sic><corr>e</corr></choice>m
+      	<lb n="7" break="no"/>pāvai mutal-pāṭṭun tiruvēṭṭai
+    	<lb n="8"/>mun neṟavum tiruttomu((m)) neṟavu
+    	<lb n="9" break="no"/>m 5 Āṇṭu māṟi-c ce<unclear>m</unclear>
+     </p>
+	
+	
 </div>
           
-<!--<div type="apparatus">
+<div type="apparatus">
 <listApp>
 	
-    <app loc="0">
-        <lem>...</lem>
-        <rdg source="bib:...">...</rdg>
-    </app>    
-    
+	<app loc="5">
+		<lem>mātu<gap unit="character" reason="lost" quantity="3"></gap></lem>
+		<rdg source="bib:ARIE1939-1943"/>
+		<note>Krishnamacharlu and Laksminarayan read Mātumai.</note>
+	</app>    
+	
 </listApp>
-</div>-->
+</div>
           
 <div type="translation" resp="part:reda part:emfr">
  	
@@ -144,11 +153,11 @@
         
     </listBibl>-->
     
-    <listBibl type="secondary">
-        <bibl>
+    <listBibl type="primary">
+        <bibl n="ARIE1939-1943">
             <ptr target="bib:ARIE1939-1943"/>
             <citedRange unit="page">92</citedRange>
-            <citedRange unit="item">143</citedRange>
+            <citedRange unit="item">144</citedRange>
             <citedRange unit="appendix">B/1940-1941</citedRange>
         </bibl> 
     </listBibl>
