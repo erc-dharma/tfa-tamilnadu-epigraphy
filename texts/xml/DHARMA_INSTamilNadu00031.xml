@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa, year ***</title>
+				<title>Nallūr, Vilvāraṇyeśvara, time of Rājarādeva Cōḻa, year 19th</title>
 				<respStmt>
 					<resp>Intellectual authorship of edition</resp>
 				    <persName ref="part:reda">
@@ -35,7 +35,7 @@
 			<publicationStmt>
 				<authority>DHARMA</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00029</idno>
+				<idno type="filename">DHARMA_INSTamilNadu00031</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -55,7 +55,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Registers the gift of the whole village of Nallūr consisting of 360 <foreign>vēli</foreign> of land and of other pieces elsewhere amounting to ten <foreign>vēli</foreign> and odd with their income in taxes like <foreign>mākkalam</foreign>, <foreign>āyam</foreign> and <foreign>kīḻiṟaipāṭṭam</foreign> for the requirements of the temple of Nallanāyaṉār at Nallūr by Āḷappiṟandāṉ Mōgaṉ alias Kāḍavarāyaṉ.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -102,8 +102,18 @@
     </ab>
     
     <p>
-        <unclear>puvaṉa-ca</unclear>
-        <lb n="2" break="no"/><unclear>k</unclear>karav<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>t<unclear>i</unclear>kaḷ ...
+        <hi rend="grantha">rājarājade</hi>
+    	<lb n="2" break="no"/><unclear>vaṟ</unclear>ku yāṇṭu <num value="19">1 <g type="numeral">10</g> 9</num> Āvatu
+    	<lb n="3"/><unclear>Ā</unclear>ḷappiṟan=tā<choice><orig>n</orig><reg>ṉ</reg></choice> mōkaṉ-āṉa kā
+    	<lb n="4" break="no"/>ṭavarāyaṉ eṉṉu<unclear>n</unclear> nallūr Uṭai
+    	<lb n="5" break="no"/>yār nalla nāyaṉāṟku tiruppa
+    	<lb n="6" break="no"/>ṇikkum tiru-p-paṭimāṟṟukkum ā
+    	<lb n="7" break="no"/>ka v-iṭṭaṉ nallūr āllai Aṭa
+    	<lb n="8"/>
+    
+    
+    
+    
     </p>
     
 </div>
