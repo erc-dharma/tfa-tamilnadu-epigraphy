@@ -92,7 +92,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
 	             	
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <lb n="1"/><g type="ddanda"/> <g type="pcs"/> svasti śrī
+        <lb n="1"/><g type="ddanda"/> <g type="pc"/> svasti śrī
     </ab>
     
     <lg n="1" met="āciriyappā">
@@ -132,7 +132,7 @@
         </app>-->
         
         <app loc="1">
-            <lem><g type="ddanda"/> <g type="pcs"/> svasti śrī</lem>
+            <lem><g type="ddanda"/> <g type="pc"/> svasti śrī</lem>
             <rdg source="bib:Swaminathan1998_01"><g type="ddanda"/> svasti śrī</rdg>
         </app>
         

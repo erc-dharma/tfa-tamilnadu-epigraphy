@@ -90,7 +90,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī <g type="pcs">.</g>
+		<lb n="1"/>svasti śrī <g type="pc">.</g>
 	</ab>
 	
 	<p>      			
@@ -102,11 +102,11 @@
 	</p>
 	<p>
 		Ip-paṭikku Ivv-ōlaiyē piṭipāṭ-āka-k koṇṭu <hi rend="grantha">candrādi</hi><unclear>tta</unclear>
-		<lb n="6" break="no"/>-<unclear>va</unclear>raiyum tir<choice><sic>i</sic><corr>u</corr></choice>-nuntā-viḷakku Erippat' āka Iṟai-y-ili-y-āka kallilum cempilum veṭṭi-k koḷka <g type="pcs">.</g>
+		<lb n="6" break="no"/>-<unclear>va</unclear>raiyum tir<choice><sic>i</sic><corr>u</corr></choice>-nuntā-viḷakku Erippat' āka Iṟai-y-ili-y-āka kallilum cempilum veṭṭi-k koḷka <g type="pc">.</g>
 	</p>
 	<p>		
 		<lb n="7"/>y<unclear>ā</unclear>ṇṭu nāl-āvatu nāḷ <num value="121"><g type="numeral">100</g> 2 <g type="numeral">10</g> 1</num> ṉāl toṇṭ<unclear>ai</unclear>māṉ Eḻuttāl <hi rend="grantha">prasādam·</hi> ceyt-aruḷiṉa tiru-<unclear reason="eccentric_ductus">mu</unclear>kam tiru-v-e
-		<lb n="8" break="no"/><surplus>ve</surplus><unclear reason="eccentric_ductus">ḻu</unclear>ttu-c cātti Aruḷittu <g type="pcs">.</g>
+		<lb n="8" break="no"/><surplus>ve</surplus><unclear reason="eccentric_ductus">ḻu</unclear>ttu-c cātti Aruḷittu <g type="pc">.</g>
 	</p>      		
 	
 </div>
