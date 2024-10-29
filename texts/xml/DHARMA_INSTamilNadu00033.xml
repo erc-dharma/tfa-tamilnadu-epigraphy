@@ -102,7 +102,7 @@
         <lb n="1"/><gap unit="line" reason="lost" quantity="1"></gap>
     	<lb n="2" break="no"/>ā<choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice>a <gap reason="lost" unit="character" extent="unknown"></gap> <unclear>nāya</unclear>ṉāṟku
      	<lb n="3"/><gap unit="line" reason="lost" quantity="1"></gap>
-    	<lb n="4"/>A<hi rend="grantha"><unclear>r</unclear></hi><hi rend="grantha"><supplied reason="lost"></supplied></hi>na-<supplied reason="lost"><hi rend="grantha">bhoga</hi></supplied>m-āka <hi rend="grantha">dha<unclear>r</unclear>mma</hi>-pu
+    	<lb n="4"/>A<hi rend="grantha"><unclear>r</unclear>cca</hi><hi rend="grantha"><supplied reason="lost"></supplied></hi>na-<supplied reason="lost"><hi rend="grantha">bhoga</hi></supplied>m-āka <hi rend="grantha">dha<unclear>r</unclear>mma</hi>-pu
     	<lb n="5" break="no"/>ttira<choice><orig>n</orig><reg>ṉ</reg></choice> v-iṭṭa ni<unclear>lam</unclear> nal<unclear>lūr na</unclear> <gap reason="lost" unit="character" quantity="1"></gap>
     	<lb n="6" break="no"/>pāṟk’ el<unclear>l</unclear>ai <unclear>cu</unclear>ṟṟu mēṭu
     	<lb n="7"/><gap quantity="4" unit="character" reason="lost"></gap> <unclear>ti</unclear>raka ka ka <gap quantity="3" unit="character" reason="lost"></gap> <unclear>na</unclear>ṭa <gap quantity="4" unit="character" reason="lost"></gap>
@@ -112,10 +112,7 @@
     	<lb n="11"/>lam Ai-vēliyum Āka na<unclear>lla</unclear> n<supplied reason="lost">ā</supplied>
     	<lb n="12"/>ya<unclear>nāṟku</unclear> <gap reason="lost" unit="character" extent="unknown"></gap> <supplied reason="lost">mu-nūṟ</supplied>
     	<lb n="13"/>ṟ eḻu patiṟṟu vēli I<supplied reason="lost">tu panmā</supplied>
-    	<lb n="14"/>heśvara-rakṣai {gomūtra}
-
-
-
+    	<lb n="14"/><hi rend="grantha">heśvara-rakṣai</hi> {gomūtra}
 
 
     
