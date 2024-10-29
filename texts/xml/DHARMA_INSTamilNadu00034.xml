@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Nallūr, Vilvāraṇyeśvara, time of Rājarādeva Cōḻa, year 34th</title>
+				<title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa, year 20th</title>
 				<respStmt>
 					<resp>Intellectual authorship of edition</resp>
 				    <persName ref="part:reda">
@@ -35,7 +35,7 @@
 			<publicationStmt>
 				<authority>DHARMA</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00032</idno>
+				<idno type="filename">DHARMA_INSTamilNadu00034</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -55,7 +55,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records the gift, with its income in taxes like <foreign>pāḍikāval</foreign>, <foreign>taṟiyiṟai</foreign>, etc., of 5 <foreign>mā</foreign> of land other than those mentioned in No. 145 above by Irumuḍiśōḻa-Mūvaraiyaṉ Amattai of Karuppūr.</summary>
+						<summary>In characters of about the 12th century A.D. Records the consecration of the image of Dakśiṇāmūrtti and an endowment of wet lands for worship to the deity by a certain Maṇḍai Ponnaṉ alias .... śōḻa-Malaiyamāṉ of <supplied reason="subaudible">the village of</supplied> Śāttiyakkam.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -98,31 +98,20 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 	
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <lb n="1"/><unclear>svasti śrī</unclear>
+        <lb n="1"/><supplied reason="lost"><hi rend="grantha">svas</hi></supplied><unclear>ti</unclear> <hi rend="grantha">śrī</hi>
     </ab>
     
     <p>
-        kulō<supplied reason="lost">t</supplied>
-    	<lb n="2" break="no"/>tuṅka-cōḻa-<hi rend="grantha">de</hi>
-    	<lb n="3" break="no"/><hi rend="grantha">va</hi>ṟku yāṇṭu <num value="34">3 <g type="numeral">10</g> 4</num>-Āva<unclear>tu</unclear>
-    	<lb n="4"/>karuppūr Ar<choice><orig>a</orig><reg>ai</reg></choice>ya<choice><orig>n</orig><reg>ṉ</reg></choice> Iru-muṭi-<supplied reason="lost">c</supplied><unclear>ō</unclear>
-    	<lb n="5" break="no"/>ḻa-muvaraiya<choice><orig>n</orig><reg>ṉ</reg></choice> Amattai-y-ē<choice><orig>n</orig><reg>ṉ</reg></choice> na
-    	<lb n="6" break="no"/>llūr nalla-nāyaṉāṟk<unclear>u</unclear> <gap quantity="3" unit="character" reason="lost"></gap>
-    	<lb n="7"/><gap quantity="2" unit="character" reason="lost"></gap> veṭṭi v-<unclear>ip</unclear>-paṭi In-nāya
-    
-		<lb n="8" break="no"/>ṉār tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice>am nallūr nila
-    	<lb n="9" break="no"/>m munnūṟṟ’ aṟu-patu vēliyum
-    	<lb n="10" break="no"/><unclear>va</unclear>ṭa-<supplied reason="lost">v-āṟṟaṅka</supplied>r<unclear>ai</unclear>-t tir<unclear>u</unclear>-nan=tavanam
-    	<lb n="11"/>nilam Ai-vēl<unclear>iyum</unclear> <gap unit="character" quantity="3" reason="lost"></gap>
-    	<lb n="12"/>ṭik kaḻaṉi Ai-vēliyum nakari <gap unit="character" quantity="1" reason="lost"></gap> <unclear>(l)</unclear>
-    	<lb n="13"/>nilam Aiñ<choice><sic>t</sic><corr>c</corr></choice>u māvum In-nilaṅ
-    	<lb n="14" break="no"/>kaḷil pāṭikāvalum Eppēṟ
-    	<lb n="15" break="no"/>paṭ=ṭa Āyaṅkaḷum taṟi-y-iṟai k<choice><orig>i</orig><reg>ī</reg></choice>ḻ- 
-		<lb n="16"/>iṟai-p-pāṭ=ṭamum Aṭaṅka nall<unclear>a</unclear>-nā
-    	<lb n="17"/><supplied reason="lost">ya</supplied>ṉāṟku v-<supplied reason="lost">iṭ</supplied>ṭēṉ <gap unit="character" quantity="7" reason="lost"></gap>
-    	<lb n="18" break="no"/>ṭ=ṭ’ aḻittu-k kō <gap unit="character" quantity="1" reason="lost"></gap> vā<choice><orig>n</orig><reg>ṉ</reg></choice> taṅkaḷ ammai
-    	<lb n="19" break="no"/>ku-t tāṉē maṇavāḷaṉ Itu
-    	<lb n="20"/><hi rend="grantha">śrī māhe<unclear>śvarai</unclear> rakṣai</hi>
+    	It-<hi rend="grantha">dakṣi</hi>ṇām<choice><orig>u</orig><reg>ū</reg></choice><supplied reason="omitted">r</supplied>tti te <gap reason="lost" unit="character" quantity="1"></gap>
+      	<lb n="2"/><gap reason="lost" unit="character" quantity="1"></gap> ḻu<choice><orig>ṉ</orig><reg>n</reg></choice>t-aruḷi-vittāṉ cātti
+    	<lb n="3"/><gap reason="lost" unit="character" quantity="3"></gap><choice><unclear>yām</unclear><unclear>māṉ</unclear></choice> maṇṭai poṉa<choice><orig>n</orig><reg>ṉ</reg></choice> <choice><unclear>ṉaṭa</unclear><unclear>ṭai</unclear></choice>
+    	<lb n="4"/><gap reason="lost" quantity="1" unit="line"></gap>
+		<lb n="5"/><gap reason="lost" unit="character" quantity="7"></gap> ta ta ta<gap reason="lost" unit="character" quantity="3"></gap> ‡ <gap reason="lost" unit="character" quantity="2"></gap> <unclear cert="low">ṭaṟaṉa</unclear>
+    	<lb n="6"/><gap reason="lost" unit="character" quantity="7"></gap> ttiya ka ka tuvi ‡ tiyakk<choice><unclear>a</unclear><unclear>u</unclear></choice>
+    	<lb n="7"/><gap reason="lost" quantity="7" unit="line"></gap> viṭṭe cāta ‡ <unclear>ṉ</unclear> <choice><unclear>m</unclear><unclear>ḻ</unclear></choice>uṭi <gap reason="lost" quantity="1" unit="line"></gap>
+    	<lb n="8"/><gap reason="lost" quantity="7" unit="line"></gap> <unclear>ṇ</unclear>ṭ<choice><unclear>a</unclear><unclear>ai</unclear></choice> po<choice><orig>n</orig><reg>ṉ</reg></choice> <gap reason="lost" quantity="1" unit="line"></gap> ‡ I<unclear>(tuku)</unclear> <gap reason="lost" quantity="1" unit="line"></gap>
+    	<lb n="9"/><gap reason="lost" quantity="10" unit="line"></gap> te <gap reason="lost" quantity="1" unit="line"></gap> ‡ <gap reason="lost" quantity="5" unit="line"></gap>
+
 
     
     </p>
@@ -169,7 +158,7 @@
         <bibl>
             <ptr target="bib:ARIE1939-1943"/>
             <citedRange unit="page">92</citedRange>
-            <citedRange unit="item">146</citedRange>
+            <citedRange unit="item">149</citedRange>
             <citedRange unit="appendix">B/1940-1941</citedRange>
         </bibl> 
     </listBibl>
