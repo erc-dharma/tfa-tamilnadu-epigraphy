@@ -105,14 +105,12 @@
     	It-<hi rend="grantha">dakṣi</hi>ṇām<choice><orig>u</orig><reg>ū</reg></choice><supplied reason="omitted">r</supplied>tti te <gap reason="lost" unit="character" quantity="1"></gap>
       	<lb n="2"/><gap reason="lost" unit="character" quantity="1"></gap> ḻu<choice><orig>ṉ</orig><reg>n</reg></choice>t-aruḷi-vittāṉ cātti
     	<lb n="3"/><gap reason="lost" unit="character" quantity="3"></gap><choice><unclear>yām</unclear><unclear>māṉ</unclear></choice> maṇṭai poṉa<choice><orig>n</orig><reg>ṉ</reg></choice> <choice><unclear>ṉaṭa</unclear><unclear>ṭai</unclear></choice>
-    	<lb n="4"/><gap reason="lost" quantity="1" unit="line"></gap>
-		<lb n="5"/><gap reason="lost" unit="character" quantity="7"></gap> ta ta ta<gap reason="lost" unit="character" quantity="3"></gap> ‡ <gap reason="lost" unit="character" quantity="2"></gap> <unclear cert="low">ṭaṟaṉa</unclear>
+    	<lb n="4"/><gap reason="lost" quantity="1" unit="line"/>
+	<lb n="5"/><gap reason="lost" unit="character" quantity="7"></gap> ta ta ta<gap reason="lost" unit="character" quantity="3"></gap> ‡ <gap reason="lost" unit="character" quantity="2"></gap> <unclear cert="low">ṭaṟaṉa</unclear>
     	<lb n="6"/><gap reason="lost" unit="character" quantity="7"></gap> ttiya ka ka tuvi ‡ tiyakk<choice><unclear>a</unclear><unclear>u</unclear></choice>
-    	<lb n="7"/><gap reason="lost" quantity="7" unit="line"></gap> viṭṭe cāta ‡ <unclear>ṉ</unclear> <choice><unclear>m</unclear><unclear>ḻ</unclear></choice>uṭi <gap reason="lost" quantity="1" unit="line"></gap>
-    	<lb n="8"/><gap reason="lost" quantity="7" unit="line"></gap> <unclear>ṇ</unclear>ṭ<choice><unclear>a</unclear><unclear>ai</unclear></choice> po<choice><orig>n</orig><reg>ṉ</reg></choice> <gap reason="lost" quantity="1" unit="line"></gap> ‡ I<unclear>(tuku)</unclear> <gap reason="lost" quantity="1" unit="line"></gap>
-    	<lb n="9"/><gap reason="lost" quantity="10" unit="line"></gap> te <gap reason="lost" quantity="1" unit="line"></gap> ‡ <gap reason="lost" quantity="5" unit="line"></gap>
-
-
+    	<lb n="7"/><gap reason="lost" quantity="7" unit="character"/> viṭṭe cāta ‡ <unclear>ṉ</unclear> <choice><unclear>m</unclear><unclear>ḻ</unclear></choice>uṭi <gap reason="lost" quantity="1" unit="character"/>
+    	<lb n="8"/><gap reason="lost" quantity="7" unit="character"/> <unclear>ṇ</unclear>ṭ<choice><unclear>a</unclear><unclear>ai</unclear></choice> po<choice><orig>n</orig><reg>ṉ</reg></choice> <gap reason="lost" quantity="1" unit="character"/> ‡ I<unclear>(tuku)</unclear> <gap reason="lost" quantity="1" unit="character"/>
+    	<lb n="9"/><gap reason="lost" quantity="10" unit="character"/> te <gap reason="lost" quantity="1" unit="line"/> ‡ <gap reason="lost" quantity="5" unit="character"/>
     
     </p>
     
@@ -148,7 +146,7 @@
 <div type="bibliography">
     
     <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/148).</p>
-    <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
+    <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>	
     
     <!--<listBibl type="primary">
         

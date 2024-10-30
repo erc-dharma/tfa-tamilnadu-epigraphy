@@ -102,7 +102,7 @@
     </ab>
     
     <p>
-        <hi rend="grantha">rājarājade</hi>
+        <hi rend="grantha">rāja-rāja-de</hi>
     	<lb n="2" break="no"/><unclear>vaṟ</unclear>ku yāṇṭu <num value="19"><g type="numeral">10</g> 9</num> Āvatu
     </p>
     
@@ -112,7 +112,7 @@
     	<lb n="5" break="no"/>yār nalla nāyaṉāṟku tiruppa
     	<lb n="6" break="no"/>ṇikkum tiru-p-paṭimāṟṟukkum ā
     	<lb n="7" break="no"/>ka v-iṭṭaṉ nallūr āllai Aṭa
-    	<lb n="8"/><unclear>ṅ</unclear>ka n<unclear>i</unclear>lam munnūṟṟ’  		aṟu-<supplied reason="lost">patu vē</supplied>li
+    	<lb n="8" break="no"/><unclear>ṅ</unclear>ka n<unclear>i</unclear>lam munnūṟṟ’ aṟu-<supplied reason="lost">patu vē</supplied>li
     	<lb n="9" break="no"/>yum vaṭa-v-āṟṟaṅkarai-t tiru-nan=tava
     	<lb n="10"/>ṉam 5 vēliyum k<choice><unclear>ara</unclear><unclear>ā</unclear></choice>ccuva-k-kuṭi
     	<lb n="11" break="no"/>yil nilam Ai-vē<unclear>l</unclear>iyum vali
@@ -124,12 +124,10 @@
     	<lb n="17" break="no"/>‡ r Āva <gap quantity="2" unit="character" reason="lost"></gap> ‡ <gap quantity="5" unit="character" reason="lost"></gap> vēllaiy<choice><unclear>a</unclear><unclear>i</unclear></choice> <gap quantity="1" unit="character" reason="lost"></gap> ‡ ya <gap quantity="2" unit="character" reason="lost"></gap>
     	<lb n="18" break="no"/>‡ kācu taṟi ‡ <gap quantity="2" unit="character" reason="lost"></gap> <supplied reason="lost">Eppēr</supplied>paṭ=ṭa kīḻ iṟaip  ‡ pāṭ<supplied reason="lost">ṭa</supplied>
     	<lb n="19"/>‡ ṅka<unclear>ḷum</unclear> ‡  <gap quantity="1" unit="character" reason="lost"></gap> Aṭa <gap quantity="3" unit="character" reason="lost"></gap> nalla-nāya<choice><orig>n</orig><reg>ṉ</reg></choice> ‡ āruk<supplied reason="lost">ku</supplied>
-    	<lb n="20"/>‡ v-iṭ ‡ ṭēṉ I<unclear>tu</unclear> <supplied reason="lost">panm</supplied>āheśva<unclear>ra</unclear> ‡ rakṣai
-
-    
-    
-    
-    
+    	<lb n="20"/>‡ v-iṭ ‡ ṭēṉ
+    </p>
+    <p>
+        I<unclear>tu</unclear> <supplied reason="lost">panm</supplied>ā<hi rend="grantha">heśva<unclear>ra</unclear>-rakṣai</hi>    
     </p>
     
 </div>
@@ -164,7 +162,7 @@
 <div type="bibliography">
     
     <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/145).</p>
-    <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
+    <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>	
     
     <!--<listBibl type="primary">
         
