@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Nallūr, Vilvāraṇyeśvara, time of Rājarādeva Cōḻa, year 19th</title>
+				<title>Nallūr, Vilvāraṇyeśvara, time of Rājarādeva Cōḻa, year 19</title>
 				<respStmt>
 					<resp>Intellectual authorship of edition</resp>
 				    <persName ref="part:reda">
@@ -103,7 +103,10 @@
     
     <p>
         <hi rend="grantha">rājarājade</hi>
-    	<lb n="2" break="no"/><unclear>vaṟ</unclear>ku yāṇṭu <num value="19">1 <g type="numeral">10</g> 9</num> Āvatu
+    	<lb n="2" break="no"/><unclear>vaṟ</unclear>ku yāṇṭu <num value="19"><g type="numeral">10</g> 9</num> Āvatu
+    </p>
+    
+    <p>        
     	<lb n="3"/><unclear>Ā</unclear>ḷappiṟan=tā<choice><orig>n</orig><reg>ṉ</reg></choice> mōkaṉ-āṉa kā
     	<lb n="4" break="no"/>ṭavarāyaṉ eṉṉu<unclear>n</unclear> nallūr Uṭai
     	<lb n="5" break="no"/>yār nalla nāyaṉāṟku tiruppa

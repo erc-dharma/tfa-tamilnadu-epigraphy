@@ -102,10 +102,13 @@
     </ab>
     
 	<p>
-		<gap quantity="11" reason="lost" unit="character"></gap><supplied reason="subaudible">kāruvūrum īḻamum</supplied> <supplied reason="lost">maturaiyum pāṇṭi</supplied>yaṉai
-		<lb n="2"/><supplied reason="lost">mu</supplied>ṭi-t talaiyuṅ koṇṭaruḷ<choice><sic>a</sic><corr>u</corr></choice>m <hi rend="grantha">śrī</hi>-kulōttuṅka-cō<supplied reason="lost">ḻa</supplied>-t<supplied reason="lost">ē</supplied>vaṟ
-		<lb n="3" break="no"/>ku yāṇṭu <num value="18">1  <g type="numeral">10</g> 8</num> Āvatu <hi rend="grantha">śrī</hi>-muṭi-<supplied reason="lost">k</supplied>oṇṭa-cōḻa-c-catu<hi rend="grantha">rvvedi</hi>-maṁ
-		<lb n="4" break="no"/><choice><unclear>ka</unclear><unclear>ga</unclear><!--@emfr:couldn't add grantha here--></choice>lattu vaṭa-piṭākai nalla <supplied reason="lost">U</supplied>ṭaiyār <gap unit="character" reason="lost" quantity="6"></gap> <unclear>cai</unclear>
+		<supplied reason="lost">kāruvūrum īḻamum</supplied> <unclear>matu</unclear><supplied reason="lost">raiyum pāṇṭi</supplied>yaṉai
+		<lb n="2"/><supplied reason="lost">mu</supplied>ṭi-t talaiyuṅ koṇṭ-aruḷ<choice><sic>a</sic><corr>u</corr></choice>m <hi rend="grantha">śrī</hi>-kulōttuṅka-cō<supplied reason="lost">ḻa</supplied>-t<supplied reason="lost">ē</supplied>vaṟ
+		<lb n="3" break="no"/>ku yāṇṭu <num value="18"><g type="numeral">10</g> 8</num>-Āvatu
+	</p>
+    <p>
+	    <hi rend="grantha">śrī</hi>-muṭi-<supplied reason="lost">k</supplied>oṇṭa-cōḻa-c-catu<hi rend="grantha">rvvedi</hi>-maṁ
+		<lb n="4" break="no"/><hi rend="grantha"><unclear>ga</unclear></hi>lattu vaṭa-piṭākai nalla <supplied reason="lost">U</supplied>ṭaiyār <gap unit="character" reason="lost" quantity="6"></gap> <unclear>cai</unclear>
 		<lb n="5"/><gap quantity="7" unit="character" reason="lost"></gap>  <hi rend="grantha"><unclear>Ā</unclear>śra</hi>ya<hi rend="grantha">li<supplied reason="lost">ṃ</supplied>ga</hi>m-āka t<supplied reason="lost">i</supplied>l<unclear>l</unclear>lai-<unclear>nāya</unclear>ka-vēḷā<unclear>ṉ</unclear> Eḻun<supplied reason="lost">t’- a</supplied>
 		<lb n="6" break="no"/>ruḷi-vitta poṉ<supplied reason="lost">pa</supplied>rappiśvaram-uṭaiya nāyaṉāṟku <unclear>I</unclear>
 		<lb n="7"/>vv-ūr nalla nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ar tēvatāṉa-nāṉk’ ellai-k ku<unclear cert="low">ṭa</unclear>
@@ -114,7 +117,8 @@
 		<lb n="10"/><gap reason="lost" quantity="1" unit="line"></gap> li Iru-tūṇi-p patakk’ āka vanta va <gap reason="lost" quantity="1" unit="line"></gap> <unclear>ku</unclear> koṇṭu Ip-
 		<lb n="11"/><unclear>po</unclear>ṉ-parappī<hi rend="grantha">śvara</hi>m-uṭaiyaṉāṟku ti<supplied reason="lost">ru</supplied>ppaṭi-māṟṟu <hi rend="grantha">candrā</hi>ti
 		<lb n="12" break="no"/><supplied reason="lost">t</supplied>tavarai celvat’ āka I<supplied reason="omitted">n</supplied>-nāyaṉār <hi rend="grantha">śrī</hi>-pāta <gap reason="lost" quantity="1" unit="line"></gap>ta n<choice><sic>i</sic><corr>ī</corr></choice>r vārttu-k kalveṭ=ṭi-k kuṭut<unclear>t</unclear>ēṉ <expan><abbr>Irā</abbr><ex>ja</ex><abbr>rā</abbr><ex>ja</ex></expan>
-		<lb n="13"/>t<supplied reason="lost">ē</supplied>van pona-ppiṉa<choice><orig>n</orig><reg>ṉ</reg></choice> vāṇakōva<supplied reason="lost">r</supplied>ai<supplied reason="lost">ya</supplied><unclear>ṉē</unclear><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice> <choice><unclear>kotu</unclear><unclear>kēṭṭa</unclear></choice><unclear>ai</unclear> <unclear>vallavaṉ</unclear> <gap quantity="1" reason="lost" unit="character"></gap> <unclear>ṉ</unclear> <gap quantity="1" reason="lost" unit="character"></gap> tiyam I<unclear>ta</unclear>
+		<lb n="13" break="no"/>t<supplied reason="lost">ē</supplied>van pona-ppiṉa<choice><orig>n</orig><reg>ṉ</reg></choice> vāṇakōva<supplied reason="lost">r</supplied>ai<supplied reason="lost">ya</supplied><unclear>ṉē</unclear><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice> <choice><unclear>kotu</unclear><unclear>kēṭṭa</unclear></choice><unclear>ai</unclear> <unclear>vallavaṉ</unclear> <gap quantity="1" reason="lost" unit="character"></gap> <unclear>ṉ</unclear> <gap quantity="1" reason="lost" unit="character"></gap> tiy<unclear>u</unclear>m It<unclear>u</unclear>
+        <lb n="14"/><gap reason="lost" unit="character" extent="unknown"/>
 	</p>
 	
 		
@@ -124,9 +128,8 @@
 <listApp>
 	
     <app loc="13">
-		<lem>tiyam I<unclear>ta</unclear></lem>
-		<rdg source="bib:ARIE1939-1943"/>
-		<note>It is possible that the inscription continues in a part of the stone that is no longer visible.</note>
+		<lem>It<unclear>u</unclear><lb n="14"/><gap reason="lost" unit="character" extent="unknown"/></lem>
+		<note>We expect here a variant of the usual closing formula <foreign>Itu paṉmā<hi rend="grantha">heśvara-rakṣai</hi></foreign>.</note>
 	</app>      
     
 </listApp>

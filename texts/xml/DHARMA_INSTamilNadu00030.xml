@@ -103,27 +103,33 @@
     
     <p>
         t<supplied reason="lost">i</supplied>r<supplied reason="lost">u</supplied>-puva<choice><sic>pā</sic><corr>ṉa</corr></choice>-c-cakkara-<unclear>v</unclear>
-    	<lb n="2" break="no"/>vaṟtikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lottuṅka-<supplied reason="lost">cō</supplied>
-    	<lb n="3" break="no"/>ḻa-tēvarkku yāṇṭu 9-Āvatu <unclear>U</unclear>
+    	<lb n="2" break="no"/>vaṟtikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka-<supplied reason="lost">cō</supplied>
+    	<lb n="3" break="no"/>ḻa-tēvarkku yāṇṭu 9-Āvatu
+    </p>
+    <p>
+        <unclear>U</unclear>
     	<lb n="4" break="no"/>ṭaiyār nalla-nāyanār kō<unclear>y</unclear>i<supplied reason="lost">li</supplied>
-		<lb n="5" break="no"/><supplied reason="lost">l</supplied> t<unclear>ē</unclear><unclear>var A</unclear>ṭ<supplied reason="lost">i</supplied>yāḷ mātu<gap unit="character" reason="lost" quantity="3"></gap>
-    	<lb n="6" break="no"/>-Āṉa kōvaṇavarkulāvukku t<choice><sic>a</sic><corr>i</corr></choice>ruv<choice><sic>a</sic><corr>e</corr></choice>m
-      	<lb n="7" break="no"/>pāvai mutal-pāṭṭun tiruvēṭṭai
-    	<lb n="8"/>mun neṟavum tiruttomu((m)) neṟavu
+        <lb n="5" break="no"/><supplied reason="lost">l</supplied> t<unclear>ē</unclear><unclear>var A</unclear>ṭ<supplied reason="lost">i</supplied>yāḷ mātu<gap unit="character" reason="lost" quantity="3"/>
+        <lb n="6" break="no"/>-Āṉa kōvaṇavarkulāvukku t<choice><sic>a</sic><corr>i</corr></choice>ruv<choice><sic>a</sic><corr>e</corr></choice>m
+      	<lb n="7" break="no"/>pāvai mutal-pāṭṭun tiru-vēṭṭai
+    	<lb n="8"/>mun neṟavum tiru-t-tēr mu<reg>ṉ</reg> neṟavu
     	<lb n="9" break="no"/>m 5 Āṇṭu māṟi-c ce<unclear>m</unclear>
      </p>
-	
-	
+		
 </div>
           
 <div type="apparatus">
 <listApp>
 	
-	<app loc="5">
-		<lem>mātu<gap unit="character" reason="lost" quantity="3"></gap></lem>
-		<rdg source="bib:ARIE1939-1943"/>
-		<note>Krishnamacharlu and Laksminarayan read Mātumai.</note>
-	</app>    
+    <app loc="5">
+        <lem>mātu<gap unit="character" reason="lost" quantity="3"/></lem>
+        <rdg source="bib:ARIE1939-1943">mātu<unclear>mai</unclear></rdg>
+    </app>
+    
+    <app loc="9">
+        <lem>Āṇṭu māṟi-c ce<unclear>m</unclear></lem>
+        <note>The inscription appears to stop short here. The intended, but never inscribed, is probably similar to that found in line 13 of inscription <ref target="DHARMA_INSTamilNadu00029.xml">Tamil Nadu 29</ref>.</note>
+    </app>      
 	
 </listApp>
 </div>
@@ -134,7 +140,11 @@
         <unclear>Prosperity! Fortune!</unclear>
     </p>
     
-    <p>
+    <p n="2-3">
+        9th year of ...
+    </p>
+    
+    <p n="3-9">
         ...
     </p>
  	
@@ -146,18 +156,18 @@
       	
 <div type="bibliography">
     
-    <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/149).</p>
+    <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/144).</p>
     <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
     
     <!--<listBibl type="primary">
         
     </listBibl>-->
     
-    <listBibl type="primary">
-        <bibl n="ARIE1939-1943">
+    <listBibl type="secondary">
+        <bibl n="ARIE">
             <ptr target="bib:ARIE1939-1943"/>
             <citedRange unit="page">92</citedRange>
-            <citedRange unit="item">149</citedRange>
+            <citedRange unit="item">144</citedRange>
             <citedRange unit="appendix">B/1940-1941</citedRange>
         </bibl> 
     </listBibl>
