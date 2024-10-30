@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa, year <choice><unclear>4</unclear><unclear>9</unclear></choice></title>
+				<title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa, year <unclear>9</unclear></title>
 				<respStmt>
 					<resp>Intellectual authorship of edition</resp>
 				    <persName ref="part:reda">
@@ -104,19 +104,22 @@
     <p>
         <unclear>tiru-puvaṉa-ca</unclear>
         <lb n="2" break="no"/><unclear>k</unclear>karav<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>t<unclear>i</unclear>kaḷ <hi rend="grantha">śrī</hi>-kulō<unclear>ttu</unclear>
-    	<lb n="3" break="no"/>ṅka-cōḻa-tēvarkku yāṇ<unclear>ṭu</unclear> <choice><unclear>4</unclear><unclear>9</unclear></choice>
-    	<lb n="4"/>Āva<supplied reason="omitted">tu</supplied> Uṭaiyār nalla-nāya<choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice>a
+    	<lb n="3" break="no"/>ṅka-cōḻa-tēvarkku yāṇ<unclear>ṭu</unclear> <unclear>9</unclear>
+    	<lb n="4" break="no"/>Āva<supplied reason="omitted">tu</supplied>
+    </p>
+    <p>
+        Uṭaiyār nalla-nāya<choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice>a
     	<lb n="5" break="no"/><choice><unclear>rkku</unclear><unclear>nār</unclear></choice> tēvaraṭiyār I <gap unit="character" quantity="1" reason="lost"></gap> <seg rend="check">vu ṟa m <supplied reason="lost">C</supplied></seg> ai <unclear cert="low">ya</unclear>
     	<lb n="6" break="no"/><choice><unclear>ḷa</unclear><unclear>ḷ</unclear></choice> makaḷ nācc<supplied reason="lost">i</supplied>y<supplied reason="lost">ār</supplied> <gap unit="character" quantity="4" reason="lost"></gap><unclear>t</unclear> to
     	<lb n="7"/><choice><unclear>ṉṉ</unclear><unclear>ḷḷ</unclear></choice>āyiran t<unclear>u</unclear> <unclear>t</unclear>ai <gap unit="character" quantity="2" reason="lost"></gap> k k<choice><unclear>a</unclear><unclear>o</unclear></choice>vikkum tiru<unclear>v</unclear><supplied reason="lost">ā</supplied>
     	<lb n="8" break="no"/>ṭṭaiya<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukkum <gap unit="character" quantity="2" reason="lost"></gap> m n<choice><orig>i</orig><reg>ī</reg></choice>kki naḷḷuku
-    	<lb n="9" break="no"/>m Iṉṉāvaṟkkum <unclear>I</unclear><supplied reason="lost">n</supplied>- nāyanār kōyilil
+    	<lb n="9" break="no"/>m Iṉṉāvaṟkkum <unclear>I</unclear><supplied reason="lost">n</supplied>-nāyanār kōyilil
     	<lb n="10"/>tiruv<choice><sic>a</sic><corr>e</corr></choice><supplied reason="lost">m</supplied>p<choice><orig>a</orig><reg>ā</reg></choice>vai <unclear>mu</unclear>tal <supplied reason="lost">pāṭ</supplied>ṭu<unclear>m</unclear> t<unclear>iru</unclear>vēṭṭai
     	<lb n="11"/><gap reason="lost" unit="line" quantity="1"></gap>
     	<lb n="12"/><unclear>Ā</unclear>ṇṭu māṟi cempāti <seg rend="check">ce<supplied reason="omitted">y</supplied>yā <supplied reason="omitted">ka</supplied></seg>ṭavarkaḷ k<supplied reason="lost"><seg rend="check">ku</seg></supplied>
     	<lb n="13"/>poṉ kaḻ<choice><sic>ai</sic><corr>a</corr></choice>ñc’ araiyum c<choice><sic>i</sic><corr>ī</corr></choice>-paṇṭ<choice><sic>a</sic><corr>ā</corr></choice>rattu
-    	<lb n="14"/>Oṭukku-k koṇṭu taṇṭēcura-vilai-y
-    	<lb n="15"/><supplied reason="lost">ā</supplied>ka Ivarkaḷukku <supplied reason="omitted">ku</supplied>ṭuttōm Ik-kōyil t
+    	<lb n="14"/>Oṭukku-k koṇṭu taṇṭēcura-vilai y
+    	<lb n="15" break="no"/>-<supplied reason="lost">ā</supplied>ka Ivarkaḷukku <supplied reason="omitted">ku</supplied>ṭuttōm Ik-kōyil t
     	<lb n="16" break="no"/>ā<choice><orig>n</orig><reg>ṉ</reg></choice>attōm
     </p>
     
@@ -139,7 +142,11 @@
         <unclear>Prosperity! Fortune!</unclear>
     </p>
     
-    <p>
+    <p n="1-4">
+        ...
+    </p>
+    
+    <p n="4-16">
         ...
     </p>
  	
@@ -152,7 +159,7 @@
 <div type="bibliography">
     
     <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/143).</p>
-    <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
+    <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>	
     
     <!--<listBibl type="primary">
         
