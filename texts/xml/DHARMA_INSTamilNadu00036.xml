@@ -128,10 +128,10 @@
 <!--<div type="apparatus">
 <listApp>
 	
-    <app loc="6">
-		<lem><gap reason="lost" extent="unknown" unit="character"></gap></lem>
-		<rdg source="bib:ARIE1939-1943"/>
-		<note>Following the summary in ARIE, the name of the female singer  should appear here: Uṭaiyanācci.</note>
+    <app loc="0">
+		<lem>...</lem>
+		<rdg source="bib:..."/>
+		<note>...</note>
 	</app>      
     
 </listApp>

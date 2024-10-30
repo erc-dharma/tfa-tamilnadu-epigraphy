@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Nallūr, Vilvāraṇyeśvara, time of Jaṭāvarman Tribh. Sundara-Pāṇḍya king, year 15th</title>
+				<title>Nallūr, Vilvāraṇyeśvara, time of Jaṭāvarman Tribh. Sundara-Pāṇḍya king, year 15</title>
 				<respStmt>
 					<resp>Intellectual authorship of edition</resp>
 				    <persName ref="part:reda">
@@ -99,36 +99,36 @@
 	
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
         <lb n="1"/><unclear>svasti śrī</unclear> <supplied reason="lost"><hi rend="grantha">śubham a</hi></supplied><hi rend="grantha">stu</hi> samasta-jagadādhāra <gap reason="lost" quantity="2" unit="character"></gap> k-kula-tilaka-madhurā-puri <gap reason="lost" quantity="3" unit="character"></gap> <unclear cert="low">keraḷa</unclear>-vaṃśa <gap reason="lost" quantity="1" unit="character"></gap> <unclear cert="low">ma ma mru</unclear>
-    	<lb n="2" break="no"/>la n laṃkā <gap reason="lost" quantity="1" unit="character"></gap> pa lya ṇaṃ nad … ma yo ḷa ku <gap reason="lost" quantity="3" unit="character"></gap> śa la ku laṃ śa ka <gap reason="lost" quantity="3" unit="character"></gap> ja<unclear>pid</unclear> rāvaṇa … kala
-    	<lb n="3"/>… da n virakaṇaṃ gop … <supplied reason="lost">c</supplied>u la dā <gap reason="lost" quantity="1" unit="character"></gap> da ha na kā <gap reason="lost" quantity="1" unit="character"></gap> pura parām … t-kula
-    	<lb n="4"/>... <supplied reason="lost">vī</supplied>r<unclear>ā</unclear>bhiṣeka … ti kṣā pakka maha …
+        <lb n="2" break="no"/>la n laṃkā <gap reason="lost" quantity="1" unit="character"></gap> pa lya ṇaṃ nad … ma yo ḷa ku <gap reason="lost" quantity="3" unit="character"></gap> śa la ku laṃ śa ka <gap reason="lost" quantity="3" unit="character"></gap> ja<unclear>pid</unclear> rāvaṇa … kala
+        <lb n="3"/>… da n virakaṇaṃ gop … <supplied reason="lost">c</supplied>u la dā <gap reason="lost" quantity="1" unit="character"></gap> da ha na kā <gap reason="lost" quantity="1" unit="character"></gap> pura parām … t-kula
+        <lb n="4"/>... <supplied reason="lost">vī</supplied>r<unclear>ā</unclear>bhiṣeka … ti kṣā pakka maha …
     </ab>
     
-	<p>
-		<lb n="5"/> … <supplied reason="lost">tē</supplied>vaṟku <supplied reason="lost">yāṇ</supplied><unclear>ṭu</unclear> <supplied reason="lost">15</supplied> Āvatu puraṭṭ<unclear>ā</unclear>t<supplied reason="lost">i</supplied><unclear> m</unclear> <gap reason="lost" quantity="2" unit="character"></gap> ttu <gap reason="lost" quantity="3" unit="character"></gap>
-		<lb n="6"/><unclear>ṭu n</unclear>=tu t’ a<unclear>ru</unclear>ḷiya tiru-mukappaṭ<supplied reason="lost">i</supplied> <gap reason="lost" quantity="2" unit="character"></gap> <supplied reason="lost">c</supplied>i <gap reason="lost" quantity="1" unit="character"></gap> … c<supplied reason="lost">U</supplied><unclear>yi</unclear>l nallūr-uṭaiyār nalla ṉāyaṉār kōyil tāṉattāṟ
-		<lb n="7"/><gap reason="lost" quantity="1" unit="character"></gap> <unclear>na</unclear>mmaṭai … kaṭṭiṉa canti-<unclear>t t</unclear> <gap reason="lost" quantity="4" unit="character"></gap> na ta na ṉāḻukku m <gap reason="lost" quantity="3" unit="character"></gap> k Iṉ <gap reason="lost" quantity="2" unit="character"></gap>
-		<lb n="8"/><gap reason="lost" quantity="1" unit="character"></gap> ta ru ṉā m<unclear>u</unclear>ttu <unclear>kk</unclear> <gap reason="lost" quantity="4" unit="character"></gap> va tā y<unclear>ā</unclear> <gap reason="lost" quantity="2" unit="character"></gap> n <gap reason="lost" quantity="2" unit="character"></gap> r na <gap reason="lost" quantity="1" unit="character"></gap> mi <gap reason="lost" quantity="4" unit="character"></gap> mi ca yu m <gap reason="lost" quantity="3" unit="character"></gap> yavaṟ ka <unclear>ṭum</unclear> Uḷḷa <gap reason="lost" quantity="4" unit="character"></gap>
-		<lb n="9"/><unclear>Uṉa</unclear>ttu <unclear>vaṭu</unclear>ka mummuca<unclear>l</unclear> aṭaṅka <supplied reason="lost">I</supplied>ṟai-y-ili-y-āka pativaṉañ cāva <gap reason="lost" quantity="2" unit="character"></gap> mutal tanattōm Ippa<supplied reason="lost">ṭi</supplied>kku
-		<lb n="10"/>Ivv-ōlai piṭipāṭ’ āka-k ko<unclear>ṇ</unclear>ṭu kalliluñ cempilum veṭṭi-<supplied reason="lost">k</supplied> koḷka
-	</p>
-	<p>
-		Ivai cuntara-pā<unclear>ṇ</unclear>ṭi
-		<lb n="11"/><unclear>ya</unclear>-viḻuppāraiyaṉ Eḻuttu
-	</p>
-		
-		<p>
-			Itu paṉ<hi rend="grantha">māheśvara-rakṣai</hi><g type="pc">.</g>
-		</p>
+    <p>
+        <lb n="5"/> … <supplied reason="lost">tē</supplied>vaṟku <supplied reason="lost">yāṇ</supplied><unclear>ṭu</unclear> <supplied reason="lost">15</supplied> Āvatu puraṭṭ<unclear>ā</unclear>t<supplied reason="lost">i</supplied><unclear> m</unclear> <gap reason="lost" quantity="2" unit="character"></gap> ttu <gap reason="lost" quantity="3" unit="character"></gap>
+        <lb n="6"/><unclear>ṭu n</unclear>=tu t’ a<unclear>ru</unclear>ḷiya tiru-mukappaṭ<supplied reason="lost">i</supplied> <gap reason="lost" quantity="2" unit="character"></gap> <supplied reason="lost">c</supplied>i <gap reason="lost" quantity="1" unit="character"></gap> … c<supplied reason="lost">U</supplied><unclear>yi</unclear>l nallūr-uṭaiyār nalla ṉāyaṉār kōyil tāṉattāṟ
+        <lb n="7"/><gap reason="lost" quantity="1" unit="character"></gap> <unclear>na</unclear>mmaṭai … kaṭṭiṉa canti-<unclear>t t</unclear> <gap reason="lost" quantity="4" unit="character"></gap> na ta na ṉāḻukku m <gap reason="lost" quantity="3" unit="character"></gap> k Iṉ <gap reason="lost" quantity="2" unit="character"></gap>
+        <lb n="8"/><gap reason="lost" quantity="1" unit="character"></gap> ta ru ṉā m<unclear>u</unclear>ttu <unclear>kk</unclear> <gap reason="lost" quantity="4" unit="character"></gap> va tā y<unclear>ā</unclear> <gap reason="lost" quantity="2" unit="character"></gap> n <gap reason="lost" quantity="2" unit="character"></gap> r na <gap reason="lost" quantity="1" unit="character"></gap> mi <gap reason="lost" quantity="4" unit="character"></gap> mi ca yu m <gap reason="lost" quantity="3" unit="character"></gap> yavaṟ ka <unclear>ṭum</unclear> Uḷḷa <gap reason="lost" quantity="4" unit="character"></gap>
+        <lb n="9"/><unclear>Uṉa</unclear>ttu <unclear>vaṭu</unclear>ka mummuca<unclear>l</unclear> aṭaṅka <supplied reason="lost">I</supplied>ṟai-y-ili-y-āka pativaṉañ cāva <gap reason="lost" quantity="2" unit="character"></gap> mutal tanattōm Ippa<supplied reason="lost">ṭi</supplied>kku
+        <lb n="10"/>Ivv-ōlai piṭipāṭ’ āka-k ko<unclear>ṇ</unclear>ṭu kalliluñ cempilum veṭṭi-<supplied reason="lost">k</supplied> koḷka
+    </p>
+    <p>
+        Ivai cuntara-pā<unclear>ṇ</unclear>ṭi
+        <lb n="11" break="no"/><unclear>ya</unclear>-viḻuppāraiyaṉ Eḻuttu
+    </p>
+    
+    <p>
+        Itu paṉ<hi rend="grantha">māheśvara-rakṣai</hi><g type="pc">.</g>
+    </p>
 </div>
           
 <!--<div type="apparatus">
 <listApp>
 	
-    <app loc="13">
-		<lem>tiyam I<unclear>ta</unclear></lem>
-		<rdg source="bib:ARIE1939-1943"/>
-		<note>It is possible that the inscription continues in a part of the stone that is no longer visible.</note>
+    <app loc="0">
+		<lem>...</lem>
+		<rdg source="bib:..."/>
+		<note>...</note>
 	</app>      
     
 </listApp>
@@ -153,14 +153,14 @@
 <div type="bibliography">
     
     <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/155).</p>
-    <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
+    <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>	
     
     <!--<listBibl type="primary">
         
     </listBibl>-->
     
     <listBibl type="secondary">
-        <bibl n="ARIE1939-1943">
+        <bibl n="ARIE">
             <ptr target="bib:ARIE1939-1943"/>
             <citedRange unit="page">93</citedRange>
             <citedRange unit="item">155</citedRange>

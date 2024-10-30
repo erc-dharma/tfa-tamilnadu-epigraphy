@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa, year 10th</title>
+				<title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa, year 10</title>
 				<respStmt>
 					<resp>Intellectual authorship of edition</resp>
 				    <persName ref="part:reda">
@@ -101,17 +101,18 @@
         <lb n="1"/><unclear>svasti śrī</unclear>
     </ab>
     
-	<p>
-		kulōttuṅka-<unclear>cō</unclear>ḻa-tēvar<supplied reason="omitted">k</supplied>ku <unclear>yā</unclear>ṇṭu <num value="10">1 <g type="numeral">10</g></num>-vatu
-		<lb n="2"/>U<supplied reason="lost">ṭ</supplied>ai<unclear>(y)</unclear>ār nalla nāyaṉa<supplied reason="lost">ṟ</supplied> kōyil Āticaṇ <gap reason="lost" quantity="1" unit="character"></gap> <supplied reason="lost">t</supplied>ē<unclear>va</unclear>rk<unclear>i</unclear>
-		<lb n="3"/><unclear cert="low">ṇa mi ki</unclear>rāma Iṉ-ṉāya<choice><orig>ṉy</orig><reg>ṉ</reg></choice>ā<supplied reason="lost">ṟ</supplied> kōyil tēvaraṭiyāl <supplied reason="lost">ta</supplied><unclear>p</unclear>pil<unclear>i</unclear>
-		<lb n="4" break="no"/><supplied reason="lost">t</supplied>āḷ[vi]yāḻvi-y-āṉa tiru-k-kaḷiṟṟuppa(ṭi-ec-duc) naṅkai-<unclear cert="low">k kaṭu</unclear> <gap reason="lost" unit="character" quantity="1"></gap> <unclear cert="low">ḷ</unclear> <gap reason="lost" unit="character" quantity="1"></gap> 
-		<lb n="5"/><gap reason="lost" unit="character" quantity="8"></gap> tu <gap reason="lost" unit="character" quantity="8"></gap> ttu<unclear>va</unclear>ṇuttūr peruva<unclear>t</unclear><gap reason="lost" unit="character" quantity="1"></gap> ka <gap reason="lost" unit="character" quantity="5"></gap>
-		<lb n="6"/>ceṉtaṭa-t tēyvi <gap reason="lost" unit="character" quantity="3"></gap> nilam Ēḻu māvukkum Ivaḷ <hi rend="grantha">śrī</hi>-paṉapurattu <gap reason="lost" unit="character" quantity="1"></gap> <unclear cert="low">ke</unclear> <gap reason="lost" unit="character" quantity="1"></gap> ḷ <gap reason="lost" unit="character" quantity="1"></gap> <unclear cert="low">maka</unclear> <gap reason="lost" unit="character" quantity="1"></gap>
-		<lb n="7"/>kama <gap reason="lost" unit="character" quantity="5"></gap> ma <choice><unclear>pa</unclear><unclear>ṭa</unclear></choice> <choice><unclear>cā</unclear><unclear>rā</unclear></choice> ma <gap reason="lost" unit="character" quantity="1"></gap>ā nālu māvu<supplied reason="omitted">m</supplied> <hi rend="grantha">śrī</hi>-<unclear cert="low">paṉa pārtu</unclear> Oṭukka
-		<lb n="8"/><gap reason="lost" unit="character" quantity="2"></gap> ṇṭa<unclear>y</unclear>e<gap reason="lost" unit="character" quantity="2"></gap> māvu<choice><unclear>ṅ</unclear><unclear>k</unclear></choice> kaikkoṇṭu Iṉṉ<choice><sic>ū</sic><corr>ā</corr></choice>yaṉār-t <unclear cert="low">ti</unclear> <gap reason="lost" unit="character" quantity="1"></gap> <unclear cert="low">n=ta ta na</unclear>
-	</p>
-	
+    <p>
+        kulōttuṅka-<unclear>cō</unclear>ḻa-tēvar<supplied reason="omitted">k</supplied>ku <unclear>yā</unclear>ṇṭu <num value="10"><g type="numeral">10</g></num>-vatu
+    </p>
+    <p>
+        <lb n="2"/>U<supplied reason="lost">ṭ</supplied>ai<unclear>(y)</unclear>ār nalla nāyaṉa<supplied reason="lost">ṟ</supplied> kōyil Āticaṇ <gap reason="lost" quantity="1" unit="character"></gap> <supplied reason="lost">t</supplied>ē<unclear>va</unclear>rk<unclear>i</unclear>
+        <lb n="3"/><unclear cert="low">ṇa mi ki</unclear>rāma Iṉ-ṉāya<choice><orig>ṉy</orig><reg>ṉ</reg></choice>ā<supplied reason="lost">ṟ</supplied> kōyil tēvaraṭiyāl <supplied reason="lost">ta</supplied><unclear>p</unclear>pil<unclear>i</unclear>
+        <lb n="4" break="no"/><supplied reason="lost">t</supplied>āḷ[vi]yāḻvi-y-āṉa tiru-k-kaḷiṟṟuppa(ṭi-ec-duc) naṅkai-<unclear cert="low">k kaṭu</unclear> <gap reason="lost" unit="character" quantity="1"></gap> <unclear cert="low">ḷ</unclear> <gap reason="lost" unit="character" quantity="1"></gap> 
+        <lb n="5"/><gap reason="lost" unit="character" quantity="8"></gap> tu <gap reason="lost" unit="character" quantity="8"></gap> ttu<unclear>va</unclear>ṇuttūr peruva<unclear>t</unclear><gap reason="lost" unit="character" quantity="1"></gap> ka <gap reason="lost" unit="character" quantity="5"></gap>
+        <lb n="6"/>ceṉtaṭa-t tēyvi <gap reason="lost" unit="character" quantity="3"></gap> nilam Ēḻu māvukkum Ivaḷ <hi rend="grantha">śrī</hi>-paṉapurattu <gap reason="lost" unit="character" quantity="1"></gap> <unclear cert="low">ke</unclear> <gap reason="lost" unit="character" quantity="1"></gap> ḷ <gap reason="lost" unit="character" quantity="1"></gap> <unclear cert="low">maka</unclear> <gap reason="lost" unit="character" quantity="1"></gap>
+        <lb n="7"/>kama <gap reason="lost" unit="character" quantity="5"></gap> ma <choice><unclear>pa</unclear><unclear>ṭa</unclear></choice> <choice><unclear>cā</unclear><unclear>rā</unclear></choice> ma <gap reason="lost" unit="character" quantity="1"></gap>ā nālu māvu<supplied reason="omitted">m</supplied> <hi rend="grantha">śrī</hi>-<unclear cert="low">paṉa pārtu</unclear> Oṭukka
+        <lb n="8"/><gap reason="lost" unit="character" quantity="2"></gap> ṇṭa<unclear>y</unclear>e<gap reason="lost" unit="character" quantity="2"></gap> māvu<choice><unclear>ṅ</unclear><unclear>k</unclear></choice> kaikkoṇṭu Iṉṉ<choice><sic>ū</sic><corr>ā</corr></choice>yaṉār-t <unclear cert="low">ti</unclear> <gap reason="lost" unit="character" quantity="1"></gap> <unclear cert="low">n=ta ta na</unclear>
+    </p>    
 		
 </div>
           
@@ -146,14 +147,14 @@
 <div type="bibliography">
     
     <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/154).</p>
-    <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
+    <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>	
     
     <!--<listBibl type="primary">
         
     </listBibl>-->
     
     <listBibl type="secondary">
-        <bibl n="ARIE1939-1943">
+        <bibl n="ARIE">
             <ptr target="bib:ARIE1939-1943"/>
             <citedRange unit="page">93</citedRange>
             <citedRange unit="item">154</citedRange>

@@ -120,18 +120,10 @@
 </listApp>
 </div>-->
           
-<div type="translation" resp="part:reda part:emfr">
- 	
-    <p n="1"> 		
-        <unclear>Prosperity! Fortune!</unclear>
-    </p>
-    
-    <p>
-        ...
-    </p>
- 	
- </div>
-      	
+<!--<div type="translation" resp="part:reda part:emfr">
+ 
+</div>-->
+          
 <!--<div type="commentary">
       		
 </div>-->
@@ -146,7 +138,7 @@
     </listBibl>-->
     
     <listBibl type="secondary">
-        <bibl n="ARIE1939-1943">
+        <bibl n="ARIE">
             <ptr target="bib:ARIE1939-1943"/>
             <citedRange unit="page">93</citedRange>
             <citedRange unit="item">153</citedRange>
