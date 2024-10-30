@@ -101,26 +101,28 @@
         <lb n="1"/>svast<supplied reason="lost">i</supplied> śrī
     </ab>
     
-	<p>
-		<supplied reason="lost">kāruvūrum īḻamum</supplied> <unclear>matu</unclear><supplied reason="lost">raiyum pāṇṭi</supplied>yaṉai
-		<lb n="2"/><supplied reason="lost">mu</supplied>ṭi-t talaiyuṅ koṇṭ-aruḷ<choice><sic>a</sic><corr>u</corr></choice>m <hi rend="grantha">śrī</hi>-kulōttuṅka-cō<supplied reason="lost">ḻa</supplied>-t<supplied reason="lost">ē</supplied>vaṟ
-		<lb n="3" break="no"/>ku yāṇṭu <num value="18"><g type="numeral">10</g> 8</num>-Āvatu
-	</p>
     <p>
-	    <hi rend="grantha">śrī</hi>-muṭi-<supplied reason="lost">k</supplied>oṇṭa-cōḻa-c-catu<hi rend="grantha">rvvedi</hi>-maṁ
-		<lb n="4" break="no"/><hi rend="grantha"><unclear>ga</unclear></hi>lattu vaṭa-piṭākai nalla <supplied reason="lost">U</supplied>ṭaiyār <gap unit="character" reason="lost" quantity="6"></gap> <unclear>cai</unclear>
-		<lb n="5"/><gap quantity="7" unit="character" reason="lost"></gap>  <hi rend="grantha"><unclear>Ā</unclear>śra</hi>ya<hi rend="grantha">li<supplied reason="lost">ṃ</supplied>ga</hi>m-āka t<supplied reason="lost">i</supplied>l<unclear>l</unclear>lai-<unclear>nāya</unclear>ka-vēḷā<unclear>ṉ</unclear> Eḻun<supplied reason="lost">t’- a</supplied>
-		<lb n="6" break="no"/>ruḷi-vitta poṉ<supplied reason="lost">pa</supplied>rappiśvaram-uṭaiya nāyaṉāṟku <unclear>I</unclear>
-		<lb n="7"/>vv-ūr nalla nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ar tēvatāṉa-nāṉk’ ellai-k ku<unclear cert="low">ṭa</unclear>
-		<lb n="8" break="no"/>ṭ=ṭa nilattumo <unclear>ṇṭa</unclear> ṭ=ṭi kāval <gap reason="lost" quantity="2" unit="character"></gap> liyāy In-nila	
-		<lb n="9"/><choice><unclear>2</unclear><unclear>U</unclear></choice> <choice><unclear>m</unclear><unclear>ḻ</unclear></choice>a <gap reason="lost" quantity="1" unit="line"></gap>
-		<lb n="10"/><gap reason="lost" quantity="1" unit="line"></gap> li Iru-tūṇi-p patakk’ āka vanta va <gap reason="lost" quantity="1" unit="line"></gap> <unclear>ku</unclear> koṇṭu Ip-
-		<lb n="11"/><unclear>po</unclear>ṉ-parappī<hi rend="grantha">śvara</hi>m-uṭaiyaṉāṟku ti<supplied reason="lost">ru</supplied>ppaṭi-māṟṟu <hi rend="grantha">candrā</hi>ti
-		<lb n="12" break="no"/><supplied reason="lost">t</supplied>tavarai celvat’ āka I<supplied reason="omitted">n</supplied>-nāyaṉār <hi rend="grantha">śrī</hi>-pāta <gap reason="lost" quantity="1" unit="line"></gap>ta n<choice><sic>i</sic><corr>ī</corr></choice>r vārttu-k kalveṭ=ṭi-k kuṭut<unclear>t</unclear>ēṉ <expan><abbr>Irā</abbr><ex>ja</ex><abbr>rā</abbr><ex>ja</ex></expan>
-		<lb n="13" break="no"/>t<supplied reason="lost">ē</supplied>van pona-ppiṉa<choice><orig>n</orig><reg>ṉ</reg></choice> vāṇakōva<supplied reason="lost">r</supplied>ai<supplied reason="lost">ya</supplied><unclear>ṉē</unclear><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice> <choice><unclear>kotu</unclear><unclear>kēṭṭa</unclear></choice><unclear>ai</unclear> <unclear>vallavaṉ</unclear> <gap quantity="1" reason="lost" unit="character"></gap> <unclear>ṉ</unclear> <gap quantity="1" reason="lost" unit="character"></gap> tiy<unclear>u</unclear>m It<unclear>u</unclear>
+        <supplied reason="lost">kāruvūrum īḻamum</supplied> <unclear>matu</unclear><supplied reason="lost">raiyum pāṇṭi</supplied>yaṉai
+        <lb n="2"/><supplied reason="lost">mu</supplied>ṭi-t talaiyuṅ koṇṭ-aruḷ<choice><sic>a</sic><corr>u</corr></choice>m <hi rend="grantha">śrī</hi>-kulōttuṅka-cō<supplied reason="lost">ḻa</supplied>-t<supplied reason="lost">ē</supplied>vaṟ
+        <lb n="3" break="no"/>ku yāṇṭu <num value="18"><g type="numeral">10</g> 8</num>-Āvatu
+    </p>
+    <p>
+        <hi rend="grantha">śrī</hi>-muṭi-<supplied reason="lost">k</supplied>oṇṭa-cōḻa-c-catu<hi rend="grantha">rvvedi</hi>-maṁ
+        <lb n="4" break="no"/><hi rend="grantha"><unclear>ga</unclear></hi>lattu vaṭa-piṭākai nalla <supplied reason="lost">U</supplied>ṭaiyār <gap unit="character" reason="lost" quantity="6"></gap> <unclear>cai</unclear>
+        <lb n="5"/><gap quantity="7" unit="character" reason="lost"></gap>  <hi rend="grantha"><unclear>Ā</unclear>śra</hi>ya<hi rend="grantha">li<supplied reason="lost">ṃ</supplied>ga</hi>m-āka t<supplied reason="lost">i</supplied>l<unclear>l</unclear>lai-<unclear>nāya</unclear>ka-vēḷā<unclear>ṉ</unclear> Eḻun<supplied reason="lost">t-a</supplied>
+        <lb n="6" break="no"/>ruḷi-vitta poṉ<supplied reason="lost">pa</supplied>rappiśvaram-uṭaiya nāyaṉāṟku <unclear>I</unclear>
+        <lb n="7" break="no"/>vv-ūr nalla nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ar tēvatāṉa-nāṉk’ ellai-k ku<unclear cert="low">ṭa</unclear>
+        <lb n="8" break="no"/>ṭ=ṭa nilattu mo <unclear>ṇṭa</unclear> ṭ=ṭi kāval <gap reason="lost" quantity="2" unit="character"></gap> liyāy In-nila	
+        <lb n="9"/><choice><unclear>2</unclear><unclear>U</unclear></choice> <choice><unclear>m</unclear><unclear>ḻ</unclear></choice>a <gap reason="lost" quantity="1" unit="character"/>
+        <lb n="10"/><gap reason="lost" quantity="1" unit="character"/> li Iru-tūṇi-p patakk’ āka vanta va <gap reason="lost" quantity="1" unit="character"/> <unclear>ku</unclear> koṇṭu Ip-
+        <lb n="11"/><unclear>po</unclear>ṉ-parappī<hi rend="grantha">śvara</hi>m-uṭaiyaṉāṟku ti<supplied reason="lost">ru</supplied>ppaṭi-māṟṟu <hi rend="grantha">candrā</hi>ti
+        <lb n="12" break="no"/><supplied reason="lost">t</supplied>tavarai celvat’ āka I<supplied reason="omitted">n</supplied>-nāyaṉār <hi rend="grantha">śrī</hi>-pāta <gap reason="lost" quantity="1" unit="character"/>ta n<choice><sic>i</sic><corr>ī</corr></choice>r vārttu-k kalveṭ=ṭi-k kuṭut<unclear>t</unclear>ēṉ <expan><abbr>Irā</abbr><ex>ja</ex><abbr>rā</abbr><ex>ja</ex></expan>
+        <lb n="13" break="no"/>t<supplied reason="lost">ē</supplied>van pona-ppiṉa<choice><orig>n</orig><reg>ṉ</reg></choice> vāṇakōva<supplied reason="lost">r</supplied>ai<supplied reason="lost">ya</supplied><unclear>ṉ-ē</unclear><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice> <choice><unclear>kotu</unclear><unclear>kēṭṭa</unclear></choice><unclear>ai</unclear> <unclear>vallavaṉ</unclear> <gap quantity="1" reason="lost" unit="character"></gap> <unclear>ṉ</unclear> <gap quantity="1" reason="lost" unit="character"></gap> tiy<unclear>u</unclear>m
+    </p>
+    <p>
+        It<unclear>u</unclear>
         <lb n="14"/><gap reason="lost" unit="character" extent="unknown"/>
-	</p>
-	
+    </p>	
 		
 </div>
           
@@ -154,14 +156,14 @@
 <div type="bibliography">
     
     <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/152).</p>
-    <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
+    <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>	
     
     <!--<listBibl type="primary">
         
     </listBibl>-->
     
     <listBibl type="secondary">
-        <bibl n="ARIE1939-1943">
+        <bibl n="ARIE">
             <ptr target="bib:ARIE1939-1943"/>
             <citedRange unit="page">93</citedRange>
             <citedRange unit="item">152</citedRange>

@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Nallūr, Vilvāraṇyeśvara, time of Vīrarājēndra Cōḻa, year 6th (in words)</title>
+				<title>Nallūr, Vilvāraṇyeśvara, time of Vīrarājēndra Cōḻa, year 6</title>
 				<respStmt>
 					<resp>Intellectual authorship of edition</resp>
 				    <persName ref="part:reda">
@@ -104,26 +104,29 @@
     <p>
     	tr<unclear>i</unclear>puvaṉa-c-cakkara-va<supplied reason="omitted">r</supplied>t=t<unclear>ika</unclear>
     	<lb n="2" break="no"/><unclear>ḷ</unclear> <hi rend="grantha">śrī</hi>-v<choice><sic>i</sic><corr>ī</corr></choice><hi rend="grantha">ra-rājendra-de</hi>vaṟku yāṇṭu Ā
-    	<lb n="3" break="no"/><unclear>ṟ-ā</unclear>vatu mi<unclear>l</unclear><supplied reason="lost">ā</supplied>ṭ-ākiya <hi rend="grantha">ja</hi>ṉa-nāta-vaḷanāṭ<supplied reason="lost">ṭu</supplied> <supplied reason="lost">kī</supplied>
+    	<lb n="3" break="no"/><unclear>ṟ-ā</unclear>vatu
+    </p>
+    <p>
+        mi<unclear>l</unclear><supplied reason="lost">ā</supplied>ṭ-ākiya <hi rend="grantha">ja</hi>ṉa-nāta-vaḷanāṭ<supplied reason="lost">ṭu</supplied> <supplied reason="lost">kī</supplied>
     	<lb n="4" break="no"/><unclear>ḻ</unclear>-āṟṟūṟ-kūṟṟattu Ā<unclear>ra</unclear>kaḷ<choice><sic>u</sic><corr>ū</corr></choice>r-uṭaiya-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ar
     	<lb n="5" break="no"/>I<unclear>ru</unclear>rār tēvaṉ-āṉa vaṇakōvaraiya
-    	<lb n="6" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>-ē<choice><orig>n</orig><reg>ṉ</reg></choice> na<unclear>va</unclear>l<choice><orig><unclear>u</unclear></orig><reg>ū</reg></choice>r Uṭaiy<supplied reason="lost">ā</supplied>r nalla nāyan<choice><orig>n</orig><reg>ṉ</reg></choice>āṟku
-		<lb n="7"/>tēva<supplied reason="lost">ta</supplied>ṉam āka t<unclear>i</unclear>ru-vāyal vaittu-k ka
-		<lb n="8" break="no"/>llu veṭ=ṭi-k kuṭutta Ūr āvatu
+        <lb n="6" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>-ē<choice><orig>n</orig><reg>ṉ</reg></choice> na<unclear>va</unclear>l<choice><orig><unclear>u</unclear></orig><reg>ū</reg></choice>r Uṭaiy<supplied reason="lost">ā</supplied>r nalla nāyan<choice><orig>n</orig><reg>ṉ</reg></choice>āṟku
+        <lb n="7"/>tēva<supplied reason="lost">ta</supplied>ṉam āka t<unclear>i</unclear>ru-vāyal vaittu-k ka
+        <lb n="8" break="no"/>llu veṭ=ṭi-k kuṭutta Ūr āvatu
     </p>
-	<p>
-		milāṭ-ākiya <hi rend="grantha"><unclear>ja</unclear></hi>
-		<lb n="9" break="no"/>ṉa-nāta-vaḷanāṭṭu-k k<choice><sic>i</sic><corr>ī</corr></choice>ḻāṟṟūr-kūṟṟattu-<unclear>k</unclear>
-		<lb n="10"/>kāccuva-k-kuṭi nan-ce<supplied reason="omitted">y</supplied> pu<choice><orig>n</orig><reg>ṉ</reg></choice>-ceyum Ivvūṟ <unclear cert="low">pa</unclear> <gap reason="lost" quantity="1" unit="character"></gap><unclear cert="low">u</unclear>
-		<lb n="11"/>tēvatāṉa<unclear>mum</unclear> Aka-p-paṭa nānk’ ellaikkuḷḷ<unclear cert="low">u</unclear><choice><unclear cert="low">ṟa</unclear><unclear cert="low">A</unclear></choice>
-		<lb n="12"/><unclear>I</unclear>vv-ūr k<choice><unclear>a</unclear><unclear>i</unclear></choice>ḻaṟai <choice><unclear>pu</unclear><unclear>pa</unclear></choice><unclear>pa</unclear> <gap unit="character" quantity="1" reason="lost"></gap><unclear cert="low">ṭa</unclear>ṭ=ṭamum pa<choice><orig>n</orig><reg>ṉ</reg></choice>aṟ-k-kuṭṭaiyum pā
-		<lb n="13" break="no"/>ṭikāvaluṅ keḷ <gap unit="character" quantity="1" reason="lost"></gap> <unclear>ṭa</unclear>vat’ allāt’ ākavum
-	</p>
-		<p>
-			Ippaṭikku
-			<lb n="14"/>nalla-nāyaṉār <hi rend="grantha">śrī</hi> <gap unit="character" quantity="1" reason="lost"></gap> tattē n<choice><sic>i</sic><corr>ī</corr></choice>r vārttu kuṭuttē
-			<lb n="15"/><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice><gap unit="character" quantity="2" reason="lost"></gap> <unclear>ṟu</unclear> <unclear>pakka</unclear>m <gap unit="character" quantity="3" reason="lost"></gap> makatai<unclear>nā</unclear>ṭā<unclear>ḻ</unclear>vāṉ ṉav<choice><unclear>ar</unclear><unclear>ā</unclear></choice> ‡ <hi rend="grantha">ra-ra<unclear>kṣai</unclear></hi>
-		</p>
+    <p>
+        milāṭ-ākiya <hi rend="grantha"><unclear>ja</unclear></hi>
+        <lb n="9" break="no"/>ṉa-nāta-vaḷanāṭṭu-k k<choice><sic>i</sic><corr>ī</corr></choice>ḻāṟṟūr-kūṟṟattu-<unclear>k</unclear>
+        <lb n="10"/>kāccuva-k-kuṭi nan-ce<supplied reason="omitted">y</supplied> pu<choice><orig>n</orig><reg>ṉ</reg></choice>-ceyum Ivvūṟ <unclear cert="low">pa</unclear> <gap reason="lost" quantity="1" unit="character"></gap><unclear cert="low">u</unclear>
+        <lb n="11"/>tēvatāṉa<unclear>mum</unclear> Aka-p-paṭa nānk’ ellaikkuḷḷ<unclear cert="low">u</unclear><choice><unclear cert="low">ṟa</unclear><unclear cert="low">A</unclear></choice>
+        <lb n="12"/><unclear>I</unclear>vv-ūr k<choice><unclear>a</unclear><unclear>i</unclear></choice>ḻaṟai <choice><unclear>pu</unclear><unclear>pa</unclear></choice><unclear>pa</unclear> <gap unit="character" quantity="1" reason="lost"></gap><unclear cert="low">ṭa</unclear>ṭ=ṭamum pa<choice><orig>n</orig><reg>ṉ</reg></choice>aṟ-k-kuṭṭaiyum pā
+        <lb n="13" break="no"/>ṭikāvaluṅ keḷ <gap unit="character" quantity="1" reason="lost"></gap> <unclear>ṭa</unclear>vat’ allāt’ ākavum
+    </p>
+    <p>
+        Ippaṭikku
+        <lb n="14"/>nalla-nāyaṉār <hi rend="grantha">śrī</hi> <gap unit="character" quantity="1" reason="lost"></gap> tattē n<choice><sic>i</sic><corr>ī</corr></choice>r vārttu kuṭuttē
+        <lb n="15"/><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice><gap unit="character" quantity="2" reason="lost"></gap> <unclear>ṟu</unclear> <unclear>pakka</unclear>m <gap unit="character" quantity="3" reason="lost"></gap> makatai<unclear>nā</unclear>ṭā<unclear>ḻ</unclear>vāṉ ṉav<choice><unclear>ar</unclear><unclear>ā</unclear></choice> ‡ <hi rend="grantha">ra-ra<unclear>kṣai</unclear></hi>
+    </p>
     
 </div>
           
@@ -158,14 +161,14 @@
 <div type="bibliography">
     
     <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/151).</p>
-    <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
+    <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>	
     
     <!--<listBibl type="primary">
         
     </listBibl>-->
     
     <listBibl type="secondary">
-        <bibl n="ARIE1939-1943">
+        <bibl n="ARIE">
             <ptr target="bib:ARIE1939-1943"/>
             <citedRange unit="page">93</citedRange>
             <citedRange unit="item">151</citedRange>
