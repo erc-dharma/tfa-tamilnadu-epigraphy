@@ -98,7 +98,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 	
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <lb n="1"/><unclear>svasti śrī</unclear>
+        <lb n="1"/>svasti śrī
     </ab>
     
     <p>
@@ -119,12 +119,12 @@
     	<lb n="12" break="no"/>yar caiyil nilam muṉ<unclear>ṟu</unclear>
     	<lb n="13"/>māvum puñcaṉūril nilam <hi rend="grantha">sa</hi>ma
     	<lb n="14" break="no"/>yar putu-k-kuṭi nilam {nāṉku-mā}-<unclear>m</unclear> nakari
-    	<lb n="15"/>nilam {kāl}-m Āka In-nilaṅka ‡ ḷil pā
-    	<lb n="16" break="no"/>‡ ṭi-kāva ‡ l<gap quantity="1" unit="character" reason="lost"></gap> <unclear>u</unclear>ḷḷiṭ=ṭa mākkal naku ḷam ‡ <gap quantity="3" unit="character" reason="lost"></gap>
-    	<lb n="17" break="no"/>‡ r Āva <gap quantity="2" unit="character" reason="lost"></gap> ‡ <gap quantity="5" unit="character" reason="lost"></gap> vēllaiy<choice><unclear>a</unclear><unclear>i</unclear></choice> <gap quantity="1" unit="character" reason="lost"></gap> ‡ ya <gap quantity="2" unit="character" reason="lost"></gap>
-    	<lb n="18" break="no"/>‡ kācu taṟi ‡ <gap quantity="2" unit="character" reason="lost"></gap> <supplied reason="lost">Eppēr</supplied>paṭ=ṭa kīḻ iṟaip  ‡ pāṭ<supplied reason="lost">ṭa</supplied>
-    	<lb n="19"/>‡ ṅka<unclear>ḷum</unclear> ‡  <gap quantity="1" unit="character" reason="lost"></gap> Aṭa <gap quantity="3" unit="character" reason="lost"></gap> nalla-nāya<choice><orig>n</orig><reg>ṉ</reg></choice> ‡ āruk<supplied reason="lost">ku</supplied>
-    	<lb n="20"/>‡ v-iṭ ‡ ṭēṉ
+    	<lb n="15"/>nilam {kāl}-m Āka In-nilaṅkaḷil pā
+    	<lb n="16" break="no"/>ṭi-kāval <gap quantity="1" unit="character" reason="lost"/> <unclear>u</unclear>ḷḷiṭ=ṭa mākkal naku ḷam <gap quantity="3" unit="character" reason="lost"/>
+    	<lb n="17" break="no"/>r Āva <gap quantity="7" unit="character" reason="lost"/> vēllaiy<choice><unclear>a</unclear><unclear>i</unclear></choice> <gap quantity="1" unit="character" reason="lost"/> ya <gap quantity="2" unit="character" reason="lost"></gap>
+    	<lb n="18" break="no"/>kācu taṟi <gap quantity="2" unit="character" reason="lost"></gap> <supplied reason="lost">Eppēr</supplied>paṭ=ṭa kīḻ iṟaip pāṭ<supplied reason="lost">ṭa</supplied>
+    	<lb n="19" break="no"/>ṅka<unclear>ḷum</unclear> <gap quantity="1" unit="character" reason="lost"></gap> Aṭa <gap quantity="3" unit="character" reason="lost"></gap> nalla-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>āruk<supplied reason="lost">ku</supplied>
+    	<lb n="20"/>v-iṭṭēṉ
     </p>
     <p>
         I<unclear>tu</unclear> <supplied reason="lost">panm</supplied>ā<hi rend="grantha">heśva<unclear>ra</unclear>-rakṣai</hi>    
@@ -146,7 +146,7 @@
 <div type="translation" resp="part:reda part:emfr">
  	
     <p n="1"> 		
-        <unclear>Prosperity! Fortune!</unclear>
+        Prosperity! Fortune!
     </p>
     
     <p>
@@ -162,7 +162,8 @@
 <div type="bibliography">
     
     <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/145).</p>
-    <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>	
+    <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>
+    <p>ASI transcript and estampage, if any, yet to be consulted.</p>
     
     <!--<listBibl type="primary">
         

@@ -101,9 +101,7 @@
         <lb n="1"/>svast<supplied reason="lost">i</supplied> śrī
     </ab>-->
     
-	<p>
-	The inscription is no longer available, located inside of the Goddess’ niche, on the right side.
-	</p>
+	<p>[text not available]</p>
 	
 		
 </div>
@@ -111,10 +109,10 @@
 <!--<div type="apparatus">
 <listApp>
 	
-    <app loc="13">
-		<lem>tiyam I<unclear>ta</unclear></lem>
-		<rdg source="bib:ARIE1939-1943"/>
-		<note>It is possible that the inscription continues in a part of the stone that is no longer visible.</note>
+    <app loc="0">
+		<lem>...</lem>
+		<rdg source="bib:..."/>
+		<note>...</note>
 	</app>      
     
 </listApp>
@@ -124,14 +122,14 @@
  
 </div>-->
           
-<!--<div type="commentary">
-      		
-</div>-->
+<div type="commentary">
+      		<p>The inscription is no longer available, located inside of the Goddess’ niche, on the right side.</p>
+</div>
       	
 <div type="bibliography">
     
     <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/153).</p>
-    <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
+    <!--<p>This edition by Renato Davalos and Emmanuel Francis.</p>-->	
     
     <!--<listBibl type="primary">
         

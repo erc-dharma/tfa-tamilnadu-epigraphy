@@ -98,7 +98,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 	
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <lb n="1"/><unclear>svasti śrī</unclear>
+        <lb n="1"/>svasti śrī
     </ab>
     
     <p>
@@ -121,10 +121,11 @@
 		<lb n="16"/>iṟai-p-pāṭ=ṭamum Aṭaṅka nall<unclear>a</unclear>-nā
     	<lb n="17"/><supplied reason="lost">ya</supplied>ṉāṟku v-<supplied reason="lost">iṭ</supplied>ṭēṉ <gap unit="character" quantity="7" reason="lost"></gap>
     	<lb n="18" break="no"/>ṭ=ṭ’ aḻittu-k kō <gap unit="character" quantity="1" reason="lost"></gap> vā<choice><orig>n</orig><reg>ṉ</reg></choice> taṅkaḷ ammai
-    	<lb n="19" break="no"/>ku-t tāṉē maṇavāḷaṉ Itu
-    	<lb n="20"/><hi rend="grantha">śrī māhe<unclear>śvara</unclear> rakṣai</hi> <g type="gomutraFinal">.</g>
-
-    
+    	<lb n="19" break="no"/>ku-t tāṉē maṇavāḷaṉ
+    </p>
+    <p>
+        Itu
+    	<lb n="20"/><hi rend="grantha">śrī-māhe<unclear>śvara</unclear>-rakṣai</hi> <g type="gomutraFinal">.</g>    
     </p>
     
 </div>
@@ -143,7 +144,7 @@
 <div type="translation" resp="part:reda part:emfr">
  	
     <p n="1"> 		
-        <unclear>Prosperity! Fortune!</unclear>
+        Prosperity! Fortune!
     </p>
     
     <p>
@@ -159,7 +160,8 @@
 <div type="bibliography">
     
     <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/146).</p>
-    <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>	
+    <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>
+    <p>ASI transcript and estampage, if any, yet to be consulted.</p>
     
     <!--<listBibl type="primary">
         
