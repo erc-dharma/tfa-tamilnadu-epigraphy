@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Nallūr, Vilvāraṇyeśvara, no king, no year</title>
+				<respStmt>
+					<resp>Intellectual authorship of edition</resp>
+				    <persName ref="part:reda">
+				        <forename>Renato</forename>
+				        <surname>Dávalos</surname>
+				    </persName>
+				    <persName ref="part:emfr">
+				        <forename>Emmanuel</forename>
+				        <surname>Francis</surname>
+				    </persName>
+				</respStmt>
+				<respStmt>
+					<resp>EpiDoc Encoding</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>				
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu00049</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis &amp; Vincent Tournier.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Records an endowment of land at <gap reason="lost" extent="unknown"></gap>vindalūr, a suburb of Pāṇṭapuram in Ālāṟṟūr-kūṟṟam, a subdivision of Malāṭu, alias Jananātha-<supplied reason="lost">vaḷanāṭu</supplied>, for a perpetual lamp in the temple at Na<supplied reason="lost">llūr</supplied> which is stated to be in the same <foreign>kūṟṟam</foreign>, by Māṇikkanāyaṉ Gangayarāyaṉ, son of Cempōti Villa-vataraiyar of Paḻampaṭṭiṉam in Paṭṭiṉa-nāṭu, a subdivision of Śembūr-kōṭṭam</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+						    <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<!-- UPDATE the link once the release is made official -->
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:reda" when="2024-11-08">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+        
+      <body>
+          
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+	
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/>svasti śrī
+		
+	</ab>
+	
+	<p>
+		<lb n="2"/>vicuvā-varu<hi rend="grantha">ṣa</hi>ttu malāt-ākiya <supplied reason="lost">janaṉāta</supplied>
+		<lb n="3"/>vaḷanāṭṭu Ā<supplied reason="lost">l</supplied>aṟṟūr-kūṟṟattu na<supplied reason="lost">llūr</supplied><gap reason="lost" extent="unknown"></gap>
+		<lb n="4"/><supplied reason="lost">U</supplied><unclear>ṭ</unclear>ai<unclear>y</unclear>ār na<supplied reason="lost">l</supplied>la nāyaṉār kōy<supplied reason="lost">il</supplied><gap reason="lost" extent="unknown"></gap>
+		<lb n="5"/><gap reason="lost" extent="unknown"></gap>ttu<gap reason="lost" extent="unknown"></gap>
+		<lb n="6"/>paḻam-paṭṭiṉattu <gap reason="lost" quantity="1" unit="character"></gap> c<supplied reason="lost">e</supplied>mpōti villa <supplied reason="lost">vatavaraiyar</supplied>
+		<lb n="7"/><gap reason="lost" extent="unknown"></gap><supplied reason="lost">Māṇikkanāyaṉ Gangayarāyaṉ</supplied><gap reason="lost" extent="unknown"></gap>
+		<lb n="8"/><gap reason="lost" unit="line" quantity="1"></gap>
+		<lb n="9" break="no"/>kku Oṉṟum ca<hi rend="grantha">ṃtr<supplied reason="lost">ādi</supplied>tya</hi>varaiyum Ā<gap reason="lost" unit="character" quantity="1"></gap> <supplied reason="lost">c</supplied>ā<hi rend="grantha">rāstra</hi>mum
+		<lb n="10"/>Erivat’ āk viṭṭa nila<supplied reason="lost">m</supplied> āvatu malāṭ-ākiya <hi rend="grantha">ja</hi>naṉāta
+		<lb n="11"/>vaḷaṉāṭṭu Ālāṟṟ<supplied reason="lost">ū</supplied><unclear>r</unclear>-kūṟṟattu pa
+		<lb n="12"/><gap reason="lost" quantity="1" unit="line"></gap>
+		<lb n="13" break="no"/>la ṉa <gap unit="character" quantity="1" reason="lost"></gap> lāṉ villavarāyarum <gap unit="character" quantity="1" reason="lost"></gap> kaliyāṉāyaṉ
+		<lb n="14" break="no"/>nā ci<gap unit="character" quantity="1" reason="lost"></gap> -t tēvarum Āṉaivīrā<unclear>ya</unclear>rum cellaṉ
+		<lb n="15"/><gap reason="lost" extent="unknown"></gap>ṉum pakkal <unclear>nāṉ</unclear> koṇṭa <unclear>kācu</unclear>
+		<lb n="16"/><gap reason="lost" unit="line" quantity="1"></gap>
+		<lb n="17"/>vār <unclear>10</unclear> Aṭu … c ce(p/y)ta ṭiṇai … t· *
+		
+	</p>
+	
+</div>
+          
+<!--<div type="apparatus">
+<listApp>
+	
+    <app loc="0">
+		<lem>...</lem>
+		<rdg source="bib:..."/>
+		<note>...</note>
+	</app>      
+    
+</listApp>
+</div>-->
+          
+<!--<div type="translation" resp="part:reda part:emfr">
+ 	    	
+</div>-->
+      	
+<!--<div type="commentary">
+      		
+</div>-->
+      	
+<div type="bibliography">
+    
+    <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/162).</p>
+    <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
+    
+    <!--<listBibl type="primary">
+        
+    </listBibl>-->
+    
+    <listBibl type="secondary">
+        <bibl n="ARIE">
+            <ptr target="bib:ARIE1939-1943"/>
+            <citedRange unit="page">94</citedRange>
+            <citedRange unit="item">162</citedRange>
+            <citedRange unit="appendix">B/1940-1941</citedRange>
+        </bibl> 
+    </listBibl>
+    
+</div>
+      </body>
+  </text>
+</TEI>
