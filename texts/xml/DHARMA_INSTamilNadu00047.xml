@@ -55,7 +55,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records a similar appointment by the <foreign>tānattār</foreign> of the temple, of Āḻvi Vaḷaiyamaḷakiyāḷ Patineṇpūmi-Naṅkai, a <foreign>dēvaraḍiyāḷ</foreign>, to sing the <foreign>Tiruvempāvai</foreign> <supplied reason="explanation"><foreign>iraṇḍām-tiruppāṭṭu</foreign></supplied> and to dance before the deity on specified occasions, for three <foreign>kaḻañju</foreign> of gold received by them.
+						<summary>Records a similar appointment by the <foreign>tānattār</foreign> of the temple, of Āḻvi Vaḷaiyamaḷakiyāḷ Patineṇpūmi-Naṅkai, a <foreign>dēvaraḍiyāḷ</foreign>, to sing the <foreign>Tiruvempāvai</foreign> <supplied reason="explanation"><foreign>iraṇṭām-tiruppāṭṭu</foreign></supplied> and to dance before the deity on specified occasions, for three <foreign>kaḻañju</foreign> of gold received by them.
 						</summary>
 					</msContents>
 					<physDesc>
@@ -89,7 +89,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:reda" when="2024-11-07">Creation of the file</change>
+			<change who="part:reda" when="2024-11-08">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -115,9 +115,18 @@
     <p>
     	<gap unit="character" reason="lost" quantity="1"></gap>m pātt<choice><orig>u</orig><reg>āya</reg></choice><gap quantity="1" unit="character" reason="lost"></gap> <unclear>I</unclear>-k kaṭavaḷ ākavum tiruvemp<choice><unclear>ai</unclear><unclear>āvai</unclear></choice> 
     	<lb n="8"/>Iraṇṭā<supplied reason="lost">m</supplied> <unclear rend="check">p</unclear><supplied reason="lost">āṭṭu pā</supplied>ṭavōr-k kaṭavaḷ āka Ippaṭikku In-<supplied reason="lost">nā</supplied>
-    	<lb n="9" break="no"/>yaṉār c<choice><sic>i</sic><corr>ī</corr></choice>-pa[ṇṭāra]tt’ oṭukkiṉa veṭṭu māṟi po(ṉ) mu-(k-ka)\\ḻañ//
+    	<lb n="9" break="no"/>yaṉār c<choice><sic>i</sic><corr>ī</corr></choice>-pa<supplied reason="lost">ṇṭāra</supplied>tt’ oṭukkiṉa veṭṭu māṟi po<unclear>ṉ</unclear> mu-<unclear>k- ka</unclear><add place="right">ḻañ</add>
+    	<lb n="10" break="no"/><add place="left">cum</add> c<choice><sic>i</sic><corr>ī</corr></choice>-paṇṭ<unclear>ārat</unclear>t’ aṭukka * * * * *  Āti-caṇṭēcura-tē<unclear>va</unclear>
+    	<lb n="11"/>t<choice><unclear>i</unclear><unclear>a</unclear></choice>ru<unclear>varu</unclear> <gap reason="lost" unit="character" quantity="2"></gap>ḷ <gap reason="lost" unit="character" quantity="2"></gap> <choice><unclear>Aṭu</unclear><unclear>varu</unclear></choice>kku kā <gap reason="lost" unit="character" quantity="2"></gap> yā <gap reason="lost" unit="character" quantity="1"></gap> <unclear>ku</unclear>ṭuttōm I<choice><orig>ṉ</orig><reg>n</reg></choice>-nāyanā
+    	<lb n="12" break="no"/>r kōyil tāṉattōm
     </p>
-    
+    <p>
+    	<add place="bottom"><lb n="13"/><gap reason="lost" unit="character" quantity="3"></gap> ṉa ga tu
+    	<lb n="14"/>leka <gap reason="lost" unit="character" quantity="1"></gap> mu Iva
+    	<lb n="15"/><gap reason="lost" unit="character" quantity="1"></gap> ka ka ta ya ta ya</add>
+    </p>
+	
+	
 </div>
           
 <!--<div type="apparatus">
