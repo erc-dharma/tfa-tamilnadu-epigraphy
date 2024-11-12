@@ -35,7 +35,7 @@
 			<publicationStmt>
 				<authority>DHARMA</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00049</idno>
+				<idno type="filename">DHARMA_INSTamilNadu00050</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -55,7 +55,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Records an endowment of land at <gap reason="lost" extent="unknown"></gap>vindalūr, a suburb of Pāṇṭapuram in Ālāṟṟūr-kūṟṟam, a subdivision of Malāṭu, alias Jananātha-<supplied reason="lost">vaḷanāṭu</supplied>, for a perpetual lamp in the temple at Na<supplied reason="lost">llūr</supplied> which is stated to be in the same <foreign>kūṟṟam</foreign>, by Māṇikkanāyaṉ Gangayarāyaṉ, son of Cempōti Villa-vataraiyar of Paḻampaṭṭiṉam in Paṭṭiṉa-nāṭu, a subdivision of Śembūr-kōṭṭam</summary>
+						<summary>Two verses in praise of Paruvūrnāṭṭu-Nambi as a devotee of Śiva and a patron of poets.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -97,38 +97,18 @@
           
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+	<!--<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<lb n="1"/>svasti śrī
 		
-	</ab>
+	</ab>-->
 	
 	<p>
-		<lb n="2"/>vicuvā-varu<hi rend="grantha">ṣa</hi>ttu malāt-ākiya <supplied reason="lost">janaṉāta</supplied>
-		<lb n="3"/>vaḷanāṭṭu Ā<supplied reason="lost">l</supplied>aṟṟūr-kūṟṟattu na<supplied reason="lost">llūr</supplied><gap reason="lost" extent="unknown"></gap>
-		<lb n="4"/><supplied reason="lost">U</supplied><unclear>ṭ</unclear>ai<unclear>y</unclear>ār na<supplied reason="lost">l</supplied>la nāyaṉār kōy<supplied reason="lost">il</supplied><gap reason="lost" extent="unknown"></gap>
-		<lb n="5"/><gap reason="lost" extent="unknown"></gap>ttu<gap reason="lost" extent="unknown"></gap>
-		<lb n="6"/>paḻam-paṭṭiṉattu <gap reason="lost" quantity="1" unit="character"></gap> c<supplied reason="lost">e</supplied>mpōti villa <supplied reason="lost">vatavaraiyar</supplied>
-		<lb n="7"/><gap reason="lost" extent="unknown"></gap><supplied reason="lost">Māṇikkanāyaṉ Gangayarāyaṉ</supplied><gap reason="lost" extent="unknown"></gap>
-		<lb n="8"/><gap reason="lost" unit="line" quantity="1"></gap>
-		<lb n="9" break="no"/>kku Oṉṟum ca<hi rend="grantha">ṃtr<supplied reason="lost">ādi</supplied>tya</hi>varaiyum Ā<gap reason="lost" unit="character" quantity="1"></gap> <supplied reason="lost">c</supplied>ā<hi rend="grantha">rāstra</hi>mum
-		<lb n="10"/>Erivat’ āk viṭṭa nila<supplied reason="lost">m</supplied> āvatu malāṭ-ākiya <hi rend="grantha">ja</hi>naṉāta
-		<lb n="11"/>vaḷaṉāṭṭu Ālāṟṟ<supplied reason="lost">ū</supplied><unclear>r</unclear>-kūṟṟattu pa
-		<lb n="12"/><gap reason="lost" quantity="1" unit="line"></gap>
-		<lb n="13" break="no"/>la ṉa <gap unit="character" quantity="1" reason="lost"></gap> lāṉ villavarāyarum <gap unit="character" quantity="1" reason="lost"></gap> kaliyāṉāyaṉ
-		<lb n="14" break="no"/>nā ci<gap unit="character" quantity="1" reason="lost"></gap> -t tēvarum Āṉaivīrā<unclear>ya</unclear>rum cellaṉ
-		<lb n="15"/><gap reason="lost" extent="unknown"></gap>ṉum pakkal <unclear>nāṉ</unclear> koṇṭa <unclear>kācu</unclear>
-		<lb n="16"/><gap reason="lost" unit="line" quantity="1"></gap>
-		<lb n="17" break="no"/>vār <unclear>10</unclear> Aṭu … c ce(p/y)ta ṭiṇai … t·<gap unit="character" quantity="1" reason="lost"></gap>
-		<lb n="18"/><choice><unclear>A</unclear><unclear>vu</unclear></choice> Āka taṭi Iraṇṭum tiru-ṉāmattu-k-kāṇi Iṟai-<unclear>y-i</unclear>
-		<lb n="19" break="no"/>li Āka Utakam paṇṇi tiru-c-cūla-t-tāpaṇamum pa<supplied reason="lost">ṇ</supplied>
-		<lb n="20" break="no"/>ṇi-k koṇṭu ta na m pa<unclear>c</unclear>āṉamum Iru pūvu <gap unit="character" quantity="2" reason="lost"></gap>
-		<lb n="21"/><gap reason="lost" unit="line" quantity="1"></gap>
-		<lb n="22"/><gap unit="character" quantity="2" reason="lost"></gap> viḷakku Oṉṟum <unclear>ca</unclear>n<unclear>ti</unclear><gap unit="character" quantity="4" reason="lost"></gap>rai <gap unit="character" quantity="1" reason="lost"></gap> Ā <supplied reason="lost">C</supplied>o <gap unit="character" quantity="1" reason="lost"></gap>
-		<lb n="23" break="no"/>tra <gap unit="character" quantity="1" reason="lost"></gap> m Erivat’ āka kallilum cempilum veṭṭi-k
-		<lb n="24" break="no"/>koḷ<unclear>ḷu</unclear> maṭṭakku koppaṇa Uṭaiyar nirupaṅ kuṭu
-		<lb n="25" break="no"/>tta <gap unit="character" quantity="1" reason="lost"></gap><unclear>ṉ</unclear> vukku Im<choice><unclear>ma</unclear><unclear>aṭi</unclear></choice> <gap unit="character" quantity="8" reason="lost"></gap> naṭatti koḷḷavum
-		<lb n="26"/><gap unit="character" quantity="2" reason="lost"></gap> <supplied reason="lost">pacu</supplied>vai koṉ<unclear>ṟa</unclear> pāvattai ‡ <unclear>A</unclear>ṉupavi<unclear>k</unclear>
-		
+		<lb n="1"/>nalla-paruvūr-nāṭṭu <supplied reason="lost">nam</supplied> ‡ piyē malla <gap reason="lost" extent="unknown"></gap>
+		<lb n="2"/>veṟṟi natit tāṉē ‡ ma vā ta nā ṭca vaṉā<gap unit="character" reason="lost" quantity="3"></gap>
+		<lb n="3"/>ttit tāṉē nilāl ‡ ṇa talai ta <gap unit="character" reason="lost" quantity="1"></gap> valla paruvūr
+		<lb n="4"/>nāṭṭu nampiyē ta ṇa <gap unit="character" reason="lost" quantity="1"></gap> ‡ l mālai puvaṉa caiva <gap unit="character" reason="lost" quantity="2"></gap> 
+		<lb n="5"/>Eṇ kaviñar pōṟṟun ‡ <unclear>n</unclear>āṉen pullā ta nā ḷ ā
+		<lb n="6"/><gap reason="lost" extent="unknown"></gap><g type="pc">.</g>
 	</p>
 	
 </div>
@@ -155,7 +135,7 @@
       	
 <div type="bibliography">
     
-    <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/163).</p>
+    <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/164).</p>
     <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
     
     <!--<listBibl type="primary">
@@ -166,7 +146,7 @@
         <bibl n="ARIE">
             <ptr target="bib:ARIE1939-1943"/>
             <citedRange unit="page">94</citedRange>
-            <citedRange unit="item">163</citedRange>
+            <citedRange unit="item">164</citedRange>
             <citedRange unit="appendix">B/1940-1941</citedRange>
         </bibl> 
     </listBibl>
