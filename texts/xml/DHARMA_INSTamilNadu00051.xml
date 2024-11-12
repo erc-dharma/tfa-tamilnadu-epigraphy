@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Nallūr, Vilvāraṇyeśvara, no king, no year</title>
+				<title>Nallūr, Vilvāraṇyeśvara, Kōpperuñ-ciṅkatēva, no year</title>
 				<respStmt>
 					<resp>Intellectual authorship of edition</resp>
 				    <persName ref="part:reda">
@@ -35,7 +35,7 @@
 			<publicationStmt>
 				<authority>DHARMA</authority>
 				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00050</idno>
+				<idno type="filename">DHARMA_INSTamilNadu00051</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -55,7 +55,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary>Two verses in praise of Paruvūrnāṭṭu-Nambi as a devotee of Śiva and a patron of poets.</summary>
+						<summary>Ends of lines built in. Seems to state that the gateway of the <foreign>sabhā</foreign> was the gift of Āḷappiṟantāṉ Kōppe<supplied reason="lost">ruñjiṅga</supplied>.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -103,12 +103,7 @@
 	</ab>-->
 	
 	<p>
-		<lb n="1"/>nalla-paruvūr-nāṭṭu <supplied reason="lost">nam</supplied> ‡ piyē malla <gap reason="lost" extent="unknown"></gap>
-		<lb n="2"/>veṟṟi natit tāṉē ‡ ma vā ta nā ṭca vaṉā<gap unit="character" reason="lost" quantity="3"></gap>
-		<lb n="3" break="no"/>ttit tāṉē nilāl ‡ ṇa talai ta <gap unit="character" reason="lost" quantity="1"></gap> valla paruvūr
-		<lb n="4"/>nāṭṭu nampiyē ta ṇa <gap unit="character" reason="lost" quantity="1"></gap> ‡ l mālai puvaṉa caiva <gap unit="character" reason="lost" quantity="2"></gap> 
-		<lb n="5"/>Eṇ kaviñar pōṟṟun ‡ <unclear>n</unclear>āṉen pullā ta nā ḷ ā
-		<lb n="6"/><gap reason="lost" extent="unknown"></gap><g type="pc">.</g>
+		<supplied reason="subaudible">Text not available</supplied>
 	</p>
 	
 </div>
@@ -135,7 +130,7 @@
       	
 <div type="bibliography">
     
-    <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/164).</p>
+    <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/165).</p>
     <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
     
     <!--<listBibl type="primary">
@@ -146,7 +141,7 @@
         <bibl n="ARIE">
             <ptr target="bib:ARIE1939-1943"/>
             <citedRange unit="page">94</citedRange>
-            <citedRange unit="item">164</citedRange>
+            <citedRange unit="item">165</citedRange>
             <citedRange unit="appendix">B/1940-1941</citedRange>
         </bibl> 
     </listBibl>
