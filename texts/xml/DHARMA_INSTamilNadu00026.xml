@@ -92,27 +92,34 @@
       <body>
           
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-       
-       <!--Check metre in TVG edition-->
+	
+	<!--Check metre in TVG edition-->
 	<lg n="1" met="kaliviruttam">
-		<l n="1"><lb n="1"/>maṟi y-ār-karatt’ entai y-am-māt’ umaiyōṭum</l>
-		<l n="2">piṟiyāta pe
-		<lb n="2" break="no"/>mmā<choice><orig>n</orig><reg>ṉ</reg></choice> Uṟaiyum Iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice>par</l>		
-		<l n="3">poṟi vāy vari vaṇṭu ta<choice><orig>n</orig><reg>ṉ</reg></choice> pūm pe<lb n="3" break="no"/>ṭai pulki</l>
-		<l n="4">veṟi y-ār-malariṟ ṟuyilum viṭaivāyē <g type="dash">.</g> <space/></l>
+		<l n="1"><lb n="1"/>maṟiyār karatt-entai y-am-māt-umaiyōṭum</l>
+		<l n="2">piṟiyāta pem
+			<lb n="2" break="no"/>mā<choice><orig>n</orig><reg>ṉ</reg></choice> Uṟaiyum Iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice>par</l>		
+		<l n="3">poṟi vāy vari vaṇṭu ta<choice><orig>n</orig><reg>ṉ</reg></choice> pūm pe
+			<lb n="3" break="no"/>⌈ṭai pulki</l>
+		<l n="4">veṟiyār malar iṟṟuyilum viṭaivāyē <g type="dash">.</g> <space/></l>
 	</lg>
 	
 	<lg n="2" met="kaliviruttam">
-		<l n="1">Ovvāta v-e<lb n="4" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>pē y-iḻaiyā v-oḷi meḷali-c</l>
-		<l n="2">cevvā<choice><orig>n</orig><reg>ṉ</reg></choice> mati vai<add place="below">t</add>tavar cērv’ iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice><lb n="5" break="no"/>par</l>
-		<l n="3">Evvāyilum <choice><sic>E</sic><corr>Ē</corr></choice>ṭ’ alar kōṭal am-pōtu</l>
-		<l n="4">ve<add place="below">v</add>-vāy aravam malarum viṭai<lb n="6" break="no"/>vāyē <g type="dash">.</g></l>
+		<l n="1">Ov-vāta v-e
+			<lb n="4" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>pē y-iḻaiyā v-oḷi meḷali-c</l>
+		<l n="2">cevvā<choice><orig>n</orig><reg>ṉ</reg></choice> mati vai<add place="below">t</add>tavar cērv-iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice><supplied reason="lost"></supplied>par Ev-
+			<lb n="5" break="no"/></l>
+			<l n="3"><supplied reason="lost">vā</supplied>yilum <choice><sic>E</sic><corr>Ē</corr></choice>ṭ-alar kōṭal am-pōtu</l>
+		<l n="4">ve<add place="below">v</add>-vāy aravam malarum viṭai<supplied reason="lost">vā</supplied>
+			<lb n="6" break="no"/>yē <g type="dash">.</g></l>
 	</lg>
 	
 	<lg n="3" met="kaliviruttam">
-		<l n="1">karai y-ār kaṭal nañc’ amut’ uṇṭavar kaṅkai-t</l>
-		<l n="2">tirai y-ār caṭai-t<lb n="7" break="no"/>tīvaṇṇar cērv’ iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice>par</l>
-		<l n="3">kurai y-ār maṇiyuṅ kuḷir cantamum koṇ<lb n="8" break="no"/>ṭu</l>
+		<l n="1">karaiyār kaṭal nañc-amut-
+			<lb n="7" break="no"/><unclear>uṇṭava</unclear>r kaṅkai-t</l>
+		<l n="2">t<unclear>i</unclear>raiyār caṭai-<unclear>t</unclear>
+			<lb n="8" break="no"/>t<unclear>ī</unclear>vaṇ<unclear>ṇar cēr</unclear>v-iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice>par</l>
+		<l n="3">kuraiyār 
+			<lb n="9" break="no"/>maṇiyuṅ kuḷir cantamum koṇṭu</l>
 		<l n="4">virai y-ār pu<choice><orig>n</orig><reg>ṉ</reg></choice>al vant’ iḻiyum viṭaivāyē <g type="dash">.</g></l>
 	</lg>
 	
