@@ -106,9 +106,9 @@
 	<lg n="2" met="kaliviruttam">
 		<l n="1">Ov-vāta v-e
 			<lb n="4" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>pē y-iḻaiyā v-oḷi meḷali-c</l>
-		<l n="2">cevvā<choice><orig>n</orig><reg>ṉ</reg></choice> mati vai<add place="below">t</add>tavar cērv-iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice><supplied reason="lost"></supplied>par Ev-
-			<lb n="5" break="no"/></l>
-			<l n="3"><supplied reason="lost">vā</supplied>yilum <choice><sic>E</sic><corr>Ē</corr></choice>ṭ-alar kōṭal am-pōtu</l>
+		<l n="2">cevvā<choice><orig>n</orig><reg>ṉ</reg></choice> mati vai<add place="below">t</add>tavar cērv-iṭam e<choice><orig>n</orig><reg>ṉ</reg></choice><supplied reason="lost">par Ev-</supplied>
+			</l>
+			<l n="3"><lb n="5" break="no"/><supplied reason="lost">vā</supplied>yilum <choice><sic>E</sic><corr>Ē</corr></choice>ṭ-alar kōṭal am-pōtu</l>
 		<l n="4">ve<add place="below">v</add>-vāy aravam malarum viṭai<supplied reason="lost">vā</supplied>
 			<lb n="6" break="no"/>yē <g type="dash">.</g></l>
 	</lg>
@@ -130,19 +130,19 @@
 	</lg>	
 	
 	<lg n="5" met="kaliviruttam">
-		<l n="1">tiriyum pura-mū<unclear>ṉ</unclear>ṟaiyum centaḻal uṇṇā<!--@apparatus: unna in the digital tevaram edition-->	</l>
-		<l n="2"><supplied reason="omitted">E</supplied><lb n="13" break="no"/>ri y-amp-ey<unclear>ta</unclear> ku<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa v<unclear>i</unclear>ll<unclear>i</unclear> <supplied reason="omitted">Iṭa</supplied>m e<choice><orig>n</orig><reg>ṉ</reg></choice>par</l>
+		<l n="1">tiriyum pura-mū<unclear>ṉ</unclear>ṟaiyum centaḻal uṇṇā E<!--@apparatus: unna in the digital tevaram edition--></l>
+		<l n="2"><lb n="13" break="no"/>ri y-amp-ey<unclear>ta</unclear> ku<choice><orig>n</orig><reg>ṉ</reg></choice>ṟa v<unclear>i</unclear>ll<unclear>i</unclear> <supplied reason="omitted">Iṭa</supplied>m e<choice><orig>n</orig><reg>ṉ</reg></choice>par</l>
 		<l n="3">k<unclear>i</unclear>r<unclear>iyu</unclear>n taru māḷ<unclear>i</unclear>kai-c <add place="below">cūḻi</add>
-		<lb n="14" break="no"/>kaita<choice><orig>n</orig><reg>ṉ</reg></choice> mēl</l>
+			<lb n="14" break="no"/>kaita<choice><orig>n</orig><reg>ṉ</reg></choice> mēl</l>
 		<l n="4"><unclear>viri</unclear>y<unclear>uṅ</unclear> koṭi <unclear>vā</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> v<unclear>iḷicē</unclear>y viṭaivāyē 5</l>
 	</lg>
 	
 	<lg n="6" met="kaliviruttam">
 		<l n="1"><lb n="15"/>kiḷḷai <unclear>moḻ</unclear>i<supplied reason="omitted">yāḷai</supplied> I<unclear>kaḻ</unclear><supplied reason="omitted">nata</supplied>va<choice><orig>n</orig><reg>ṉ</reg></choice> m<unclear>u</unclear><supplied reason="lost">ttī-t</supplied></l>
 		<l n="2"><supplied reason="lost">taḷḷi-t</supplied> talai takka<unclear>ṉai</unclear><lb n="16" break="no"/><unclear>k k</unclear>oṇṭavar <supplied reason="lost">cārvām</supplied></l>
-		<l n="3"><supplied reason="lost">vaḷḷi maruṅ</supplied>kul neruṅkum mulai-c cevvā
-		<lb n="17" break="no"/>y</l>
-		<l n="4">veḷḷai <choice><orig>nn</orig><reg>n</reg></choice>akaiyār naṭañcey viṭaivāyē 6</l>
+		<l n="3"><supplied reason="lost">vaḷḷi maruṅ</supplied>kul <unclear>neruṅ</unclear>k<unclear>um mu</unclear>lai-<supplied reason="lost">c cevvā</supplied>
+		<lb n="17" break="no"/><unclear>y</unclear></l>
+		<l n="4">ve<unclear>ḷḷai</unclear> <choice><orig>nn</orig><reg>n</reg></choice><supplied reason="lost">ak</supplied>ai<supplied reason="lost">yār naṭañ</supplied>cey viṭaivāyē 6</l>
 	</lg>
 	
 	<lg n="7" met="kaliviruttam">
