@@ -19,12 +19,20 @@
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
+					</persName>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
 					</persName>
 				</respStmt>
 			</titleStmt>
