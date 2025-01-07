@@ -94,32 +94,30 @@
     <ab xml:lang="san-Latn" rendition="class:grantha maturity:regional">
         <lb n="1"/><g type="ddanda"/> <g type="pc"/> svasti śrī
     </ab>
+	
+    <p>
+   tiru-mātu virumpa-c cīr-mātu viḷaṅka-p poru-paṭai-k kāttu pōr-mātu porun <gap reason="lost" quantity="7" unit="character"></gap> ‡ <hi rend="grantha">ja</hi>yapuyattuṟai-p pulamakaḷ <hi rend="grantha">nāviṟ</hi>pu <gap reason="lost" quantity="3" unit="character"></gap> <unclear>n</unclear>tu <unclear>vīṟṟiruppa-p po</unclear><choice><orig>nn</orig><reg>ṉṉ</reg></choice>eṭu mēruviṟ puli-<unclear>k</unclear>
+    	<lb n="2"/><unclear>k</unclear>oṭi kāṭṭattan neṭuñ ceṅkōl caka taṇṭam aḷappattā<unclear>ru</unclear> <hi rend="grantha"><unclear>śa</unclear></hi>nemiyun taraḷa <unclear>veṇkuṭaiyu</unclear> <gap reason="lost" quantity="8" unit="character"></gap> ‡ Iruḷ akaṟṟa <unclear>mīna</unclear>var ciṅkaḷar virāṭar vatta<unclear>var</unclear> māka<unclear>tar</unclear> mutalā ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>avar vaṇaṅka-p paruti ku
+    	<lb n="3"/>lamuñ carutiyun taḻaippa v-oru tirumaṇi-muṭi y-urimai<unclear>yiṟ cū</unclear>ṭa-c ce<unclear>m</unclear>po<choice><orig>n</orig><reg>ṉ</reg></choice> v<choice><sic>i</sic><corr>ī</corr></choice>ra-<hi rend="grantha">siṃhāsa</hi>nattu-p pu<supplied reason="lost">vaṉa muḻutu uṭaiyāḷōtum</supplied> ‡
+
+    </p> 
     
-    <lg n="1" met="āciriyappā">
-        <l n="1">tiru-mātu virumpa-c cīr-mātu viḷaṅka-p</l>
-        <l n="2">poru-paṭai-k kāttu pōr-mātu porun</l>
-        <l n="3">...</l>
-        <l n="4">...</l>
-        <l n="5">...</l>
-        <l n="6">... <lb n="2"/>...</l>
-        <l n="7">...</l>
-        <l n="8">...</l>
-        <l n="9">...</l>
-        <l n="10">... <lb n="3"/> ...</l>
-        <l n="11">...</l>
-        <l n="12">...</l>        
-    </lg>
     
     <p>
-        vīṟṟ-irunt-aruḷiya kō-p-parakēcarivanmar-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">tri-bhu</hi>va<choice><orig>n</orig><reg>ṉ</reg></choice>a-c-ca<hi rend="grantha">kra</hi>va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-vīra-<hi rend="grantha">rājen<choice><orig>t</orig><reg>d</reg></choice>ra-de</hi>vaṟku yāṇṭu
-        <lb n="4"/>3-Āvatu 
+        v<choice><sic>i</sic><corr>ī</corr></choice>ṟṟ-irunt-aruḷiya kō-p-parakēcaripa<hi rend="grantha">nmar</hi>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">bhu</hi>va<choice><orig>n</orig><reg>ṉ</reg></choice>a-c-ca<hi rend="grantha">kra</hi>va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-vīra-<hi rend="grantha">rājen<choice><orig>t</orig><reg>d</reg></choice>ra-de</hi>vaṟku yāṇṭu
+        <lb n="4"/><supplied reason="lost">3</supplied>{varuṣam}-Āvatu 
     </p>
     
     <p>
-        <hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻa-vaḷanāṭṭu-t tiruvaḻuntūr-nāṭṭu <hi rend="grantha">brahmade</hi>yam vaḻukūr Uṭaiyār
-        ...
-    </p>
-          
+        <hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻa-vaḷanāṭṭu-t tiruvaḻunt<choice><sic>u</sic><corr>ū</corr></choice>r-nāṭṭu <hi rend="grantha">brahmade</hi>yam vaḻukūr Uṭaiyār tiruv<choice><sic>i</sic><corr>ī</corr></choice>raṭṭa ‡  <supplied reason="lost">ṉam uṭaiyārkku ku</supplied>lōttuṅka-cōḻa vaḷanāṭṭu veḷā-nāṭṭu mulaṅkuṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> cāttaṉ <supplied reason="omitted">na</supplied>ñcamutu ceytā<choice><orig>n</orig><reg>ṉ</reg></choice> {unknown symbol}
+    	<lb n="5"/>In-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār kōyililē y-eḻuntaru<unclear>ḷu</unclear>vittu-p pūjai koṇṭaruḷukiṟa tiruvātavūr-n<unclear>ā</unclear>ya<choice><orig>n</orig><reg>ṉ</reg></choice><supplied reason="lost">ārkku</supplied> <gap reason="lost" extent="unknown"></gap> ‡ <supplied reason="omitted">ca</supplied>nti Oṉṟukku-t tiru-v-amutu Arici Iru-nāḻikku kaṟi-y-amut-uḷ<supplied reason="omitted">ḷ</supplied>iṭṭa viñcanaṅ
+	<lb n="6" break="no"/>kaḷukkum nāḷ Oṉṟukku nellu-k kuṟuṇi y-āka nāḷ mun-nūṟṟ-aṟupatt-añcukku <supplied reason="lost">nellu nūṟṟ-irupatiṅ kalanē</supplied> <gap extent="unknown" reason="lost"></gap> ‡ y-aiṅ kuṟuṇikku In-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice> Etirili-cōḻa-maṅkalattu maturān
+    	<lb n="7" break="no"/>taka vatikku mēṟku <hi rend="grantha">paraśur<supplied reason="omitted">āma</supplied></hi> vākkālukku teṟku mutaṟ kaṇṇāṟṟu mutaṟ catirat<unclear>tu</unclear> <gap extent="unknown" reason="lost"></gap> ‡ āmattu <hi rend="grantha">rājarāja</hi>-p peruvilai koṇṭa nilamāy varukiṟa kollai <supplied reason="omitted">y-u</supplied>ṭpaṭa nilam
+    	<lb n="8"/><unclear>mū</unclear>nṟu-<unclear>mā</unclear> mukkāṇi-c ci<choice><orig>nn</orig><reg>ṉṉ</reg></choice>amuṇ kuṭi <unclear>n</unclear><choice><sic>i</sic><corr>ī</corr></choice>kkā-t tevatānam āka nilaṅ koḷḷa <hi rend="grantha">śrī</hi>-paṇa <gap extent="unknown" reason="lost"></gap> ‡ tār Ik-kācu nūṟum Oṭukku koṇṭu In-nilatt-iṟai mikutiyilē viṭṭu
+    	<lb n="9"/>Amutu c<unclear>e</unclear>ytaru A<hi rend="grantha">pūrvi</hi>kaḷukku <hi rend="grantha">prasādikka</hi> <supplied reason="lost">kaṭa</supplied>vat-ākavum Amutu ceytaruḷa-t tiruma <gap extent="unknown" reason="lost"></gap> ‡ v<supplied reason="lost">e</supplied>ṇkala v-iṭai Irupatiṉ palattukku Oṭukki<choice><orig>n</orig><reg>ṉ</reg></choice>a kācu pattum tiruvaṭṭaṇaikka
+    	<lb n="10"/><unclear>1</unclear> Oṉṟ<unclear>i</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>āṟ tarā v-iṭai Irupatt-irupalava ākku Oṭukki<choice><orig>n</orig><reg>ṉ</reg></choice>a kācu pattum ‡ <hi rend="grantha">śrī</hi> paṇṭārattu oṭukku koṇṭu Ip-paṭi cantirāti-tavaṟ cella-k kaṭavat-ānamaikku kal veṭ<supplied reason="lost">ṭu</supplied>
+taṉṉ<choice><sic>i</sic><corr>ī</corr></choice>r amutu vaṭṭil Iṭaiy Aimpalamuñcaṭṭuva<unclear>(m)</unclear> <supplied reason="lost">I</supplied>ṭai Āṟupa<unclear>la</unclear>mum āka Iṭai pati O <gap extent="unknown" reason="lost"></gap> ‡  ṇṭārattu Oṭukku koṇṭa kācu Aiñcarai 
+       </p>   
 </div>	
 	
 <div type="apparatus">
