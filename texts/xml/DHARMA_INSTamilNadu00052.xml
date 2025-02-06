@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Śrīvāñjiyam, Kulōttuṅka-Cōḻa king, year 25</title>
+				<respStmt>
+					<resp>Intellectual authorship of edition</resp>
+				    <persName ref="part:reda">
+				        <forename>Renato</forename>
+				        <surname>Dávalos</surname>
+				    </persName>
+				    <persName ref="part:emfr">
+				        <forename>Emmanuel</forename>
+				        <surname>Francis</surname>
+				    </persName>
+				</respStmt>
+				<respStmt>
+					<resp>EpiDoc Encoding</resp>
+					<persName ref="part:reda">
+						<forename>Renato</forename>
+						<surname>Dávalos</surname>
+					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
+				</respStmt>				
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu00052</idno>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+						<p>Copyright (c) 2019-2025 by Emmanuel Francis &amp; Vincent Tournier.</p>
+					</licence>
+				</availability>
+				<date from="2019" to="2025">2019-2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary>Inscription damaged and incomplete. Endowment of money <supplied reason="explanation"><foreign>kācu</foreign></supplied> for the worship of the three <foreign>nāyaṉmar</foreign> <supplied reason="explanation"><foreign>emperumakkaḷ</foreign></supplied> and supposedly for Māṇikkavācakar <supplied reason="explanation"><foreign>tiruttoṇṭar cīr uraittār</foreign></supplied>.</summary> 
+					</msContents>
+					<physDesc>
+						<handDesc>
+						    <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union's Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+			</projectDesc>
+			<schemaRef type="guide" key="EGDv01"
+				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<!-- UPDATE the link once the release is made official -->
+			<listPrefixDef>
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+				</prefixDef>
+				<prefixDef ident="part" matchPattern="([a-z]+)"
+					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+					<p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+				</prefixDef>
+			</listPrefixDef>
+		</encodingDesc>
+		<revisionDesc>
+			<change who="part:reda" when="2024-11-12">Creation of the file</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+        
+      <body>
+          
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+	
+	<!--<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+		<lb n="1"/>svasti śrī
+		
+	</ab>-->
+	
+	<p>
+		<lb n="1"/><gap reason="undefined"></gap> <unclear>ṉa</unclear>cakkara-vatt<supplied reason="lost">i</supplied> <gap reason="undefined"></gap> maturaiyum Īḻam<supplied reason="lost">um</supplied> karuvūrum <gap reason="undefined"></gap>
+	</p>
+	<p>
+		
+<lb n="2"/><hi rend="grantha"><unclear>śrī</unclear></hi>-kulōttuṅka-cōḻa-tēvaṟku yāṇṭu <num value="25">2 <g type="numeral">10</g> 5</num>
+ kku <supplied reason="lost">m</supplied>ēl
+
+<lb n="3"/><gap unit="character" reason="lost" quantity="3"/> A ṇu pa ra ya ṉ cevūril paiyar tirumaṇi-k kōyil<unclear>u</unclear> <gap unit="character" reason="lost" quantity="3"/> <choice><unclear>to</unclear><unclear>ko</unclear></choice><unclear>yi</unclear> <gap unit="character" reason="lost" quantity="3"/>
+
+<lb n="4"/>kōyil Emperumakkaḷ kōyil mūṉṟukkum tiruttoṇṭar cīr Uraittar <gap reason="undefined"></gap>
+
+<lb n="5"/><gap unit="character" reason="lost" quantity="3"/> miṭarum n<choice><sic>a</sic><corr>ā</corr></choice>ḷ Oṉṟukku māṇiṉāṭukku cōṟu kuṟuṇi Oru nāḻi Arici-c cōṟu peṟṟu kēṭta
+
+<lb n="6"/><gap unit="character" reason="lost" quantity="3"/> yarkaḷum <gap unit="character" reason="lost" quantity="1"/> purattil tirukaṟṟaḷi tirum<choice><sic>a</sic><corr>ā</corr></choice>ṇikku Oṭukkiṉa kācu<supplied reason="lost">k</supplied>ku <num value="111">1 <g type="numeral">100</g>1 <g type="numeral">10</g> 1</num> kācu Ik-<supplied reason="lost">kācu</supplied> <gap reason="undefined"></gap>
+	
+	</p>
+	
+</div>
+          
+<!--<div type="apparatus">
+<listApp>
+	
+    <app loc="0">
+		<lem>...</lem>
+		<rdg source="bib:..."/>
+		<note>...</note>
+	</app>      
+    
+</listApp>
+</div>-->
+          
+<!--<div type="translation" resp="part:reda part:emfr">
+ 	    	
+</div>-->
+      	
+<!--<div type="commentary">
+      		
+</div>-->
+      	
+<div type="bibliography">
+    
+    <p>Reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1938-1939/B/1938-1939/229).</p>
+	<p>A summary of this inscirption is given in <bibl><ptr target="bib:Patmavati1979_01"/></bibl>.</p>
+    <p>This edition by Renato Davalos and Emmanuel Francis (2025), based on photos (F. De Simini, 2024).</p>	
+    
+    <listBibl type="primary">
+        <bibl n="ARIE">
+            <ptr target="bib:ARIE1938-1939"/>
+            <citedRange unit="page">33</citedRange>
+            <citedRange unit="item">229</citedRange>
+            <citedRange unit="appendix">B/1938-1939</citedRange>
+        </bibl> 
+    </listBibl>
+    
+    <listBibl type="secondary">
+        <bibl n="NK">
+            <ptr target="bib:Patmavati1979_01"/>
+            <citedRange unit="item">52</citedRange>
+        </bibl> 
+    </listBibl>
+    
+</div>
+      </body>
+  </text>
+</TEI>
+<!--METADATA: Srivāñjinathesvara West side of the inner gōpura in the same temple [Śrīvāñjiyam.—Wall near the Dakshiṇā-mūrti shrine in the Śrīvāñjināthēśvara temple]] Inner gopura, west wall, on the left when turning back to GG, that is north.
+-->
