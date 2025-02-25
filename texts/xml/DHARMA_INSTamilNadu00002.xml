@@ -11,21 +11,10 @@
 				<title>Ilaṅkāṭu Bronze</title>
 			    <respStmt>
 			        <resp>author of digital edition</resp>
-			        <persName ref="part:emfr">
-			            <forename>Emmanuel</forename>
-			            <surname>Francis</surname>
-			        </persName>
-			    </respStmt>
-			    
-			    <respStmt>
-			        <resp>intellectual authorship of edition</resp>
 			        <persName ref="part:vija">
 			            <forename>G.</forename>
 			            <surname>Vijayavenugopal</surname>
 			        </persName>
-			    </respStmt>
-			    <respStmt>
-			        <resp>EpiDoc encoding</resp>
 			        <persName ref="part:emfr">
 			            <forename>Emmanuel</forename>
 			            <surname>Francis</surname>
@@ -123,19 +112,19 @@
 	
 </div>
           
-<div type="apparatus">
+<!--<div type="apparatus">
             
            
-	<!--<listApp>
+	<listApp>
 		
 		<app loc="0">
 			<lem>...</lem>
 			<rdg source="bib:..."></rdg>
 		</app>
 		
-	</listApp>-->
+	</listApp>
 	
-</div>
+</div>-->
           
 <div type="translation" resp="part:emfr">
          	
@@ -157,19 +146,16 @@
              
          </div>
           
-          <div type="commentary">
-              
-          </div>
+<div type="commentary"/>
           
 <div type="bibliography">
               
-	<p>
-		First edited by <!--<bibl><ptr target="bib:..."/></bibl>-->.
-	</p>
+	<!--<p>
+		First edited by <!-\-<bibl><ptr target="bib:..."/></bibl>-\->.
+	</p>-->
 	
 	<p>
-		This revised edition by G. Vijayavenugopal.
-		Curated (reviewing, encoding, critical apparatus, and translation) by Emmanuel Francis.
+		This edition by G. Vijayavenugopal, curated by Emmanuel Francis.
 	</p>	
 
 
