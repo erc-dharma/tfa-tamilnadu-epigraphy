@@ -143,20 +143,23 @@
 		<lb n="21"/>Inta-t taṉmattukku A<hi rend="grantha"><unclear>hi</unclear></hi><unclear>ta</unclear>m ceyta<unclear>vaṉ</unclear> keṅkai-k karaiyilē kuruvum mātā-pitāvaiyum vatai
 		<lb n="22"/>ceytavāḷ pāpattilē pōka<!--check--> ka<unclear>ṭavar ā</unclear>kavum
 	</p>
-	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:tamil maturity:83215">
-		<l n="a"><hi rend="grantha">dā</hi>na-pālaṉaiyo mattiyē</l>
-		<l n="b"><hi rend="grantha">dā</hi>ṉā cēyo <supplied reason="subaudible">'</supplied><hi rend="grantha">nu</hi>pāla
-			<lb n="23" break="no"/>nam</l>
-		<l n="c"><hi rend="grantha">dā</hi>nā<hi rend="grantha"><unclear>t·</unclear> sva</hi>ṟk<hi rend="grantha">am ā</hi>ppunōti</l>
-		<l n="d">pālanātaccutam pa<hi rend="grantha">dam·</hi></l>
-	</lg>
-	<lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:tamil maturity:83215">
-		<l n="a"><hi rend="grantha">s<choice><sic>t</sic><corr>v</corr></choice>a-da</hi>ttā<supplied reason="omitted">t</supplied> tuvikuṇam <hi rend="grantha">puṇya</hi>m</l>
-		<l n="b">para<hi rend="grantha">da</hi>tt
-		<lb n="24" break="no"/>ā<hi rend="grantha"><unclear>nu</unclear></hi>pālanam</l>
-		<l n="c">para<hi rend="grantha">da</hi>ttāpa<hi rend="grantha">hāre</hi>ṇa</l>
-		<l n="d"><hi rend="grantha"><unclear>s</unclear><choice><sic><unclear>t</unclear></sic><corr>v</corr></choice><unclear>a</unclear>-da</hi>t=ta<unclear>n</unclear> ni<hi rend="grantha"><unclear>ś</unclear><choice><sic><unclear>v</unclear></sic><corr>ph</corr></choice><unclear>a</unclear>la<unclear>m·</unclear> bha</hi>ve<hi rend="grantha">t·</hi></l>	
-	</lg>
+	
+    <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:tamil maturity:83215">
+        <l n="a"><hi rend="grantha">dā</hi>na-pālaṉaiyo mattiyē</l>
+        <l n="b"><hi rend="grantha">dā</hi>ṉā cēyo <supplied reason="subaudible">'</supplied><hi rend="grantha">nu</hi>pāla
+            <lb n="23" break="no"/>nam</l>
+        <l n="c"><hi rend="grantha">dā</hi>nā<hi rend="grantha"><unclear>t·</unclear> sva</hi>ṟk<hi rend="grantha">am ā</hi>ppunōti</l>
+        <l n="d">pālanātaccutam pa<hi rend="grantha">dam·</hi></l>
+    </lg>
+	
+    <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:tamil maturity:83215">
+        <l n="a"><hi rend="grantha">s<choice><sic>t</sic><corr>v</corr></choice>a-da</hi>ttā<supplied reason="omitted">t</supplied> tuvikuṇam <hi rend="grantha">puṇya</hi>m</l>
+        <l n="b">para<hi rend="grantha">da</hi>tt
+            <lb n="24" break="no"/>ā<hi rend="grantha"><unclear>nu</unclear></hi>pālanam</l>
+        <l n="c">para<hi rend="grantha">da</hi>ttāpa<hi rend="grantha">hāre</hi>ṇa</l>
+        <l n="d"><hi rend="grantha"><unclear>s</unclear><choice><sic><unclear>t</unclear></sic><corr>v</corr></choice><unclear>a</unclear>-da</hi>t=ta<unclear>n</unclear> ni<hi rend="grantha"><unclear>ś</unclear><choice><sic><unclear>v</unclear></sic><corr>ph</corr></choice><unclear>a</unclear>la<unclear>m·</unclear> bha</hi>ve<hi rend="grantha">t·</hi></l>	
+    </lg>
+    
 </div>
 	
 <div type="apparatus">
