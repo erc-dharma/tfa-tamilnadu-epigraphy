@@ -95,7 +95,7 @@
     </p>
     <p>
         tiru-malai-nāṭṭu-t tiru-k-koṭuṅ
-        <lb n="3"/>kuṉṟam-āṉa Uṭaiyā <gap reason="lost" quantity="2" unit="character" precision="low"/> yil <gap reason="lost" quantity="2" unit="character" precision="low"/> <unclear>la</unclear>ttu <hi rend="grantha">bhikṣā-maḍa-stā</hi>ṉam-āṉa <hi rend="grantha">lakṣādyā</hi>yi-<hi rend="grantha">santā</hi>ṉattu <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ā</seg>ḷaki <gap reason="lost" quantity="6" unit="character" precision="low"/> kuṉṟattu <gap reason="lost" unit="character" extent="unknown"/> māṇi<!--EF: māṉa--> Aṟupattu-mūvaṉ tiru<hi rend="grantha">maṭha</hi>ttu mutaliyār <unclear>p</unclear>ā<hi rend="grantha">ṇḍi-maṇḍalādhipa</hi>ti pāṇṭi-nāṭṭu mutaliyār
+        <lb n="3"/>kuṉṟam-āṉa Uṭaiyā <gap reason="lost" quantity="2" unit="character" precision="low"/> yil <gap reason="lost" quantity="2" unit="character" precision="low"/> <unclear>la</unclear>ttu <hi rend="grantha">bhikṣā-maḍa-stā</hi>ṉam-āṉa <hi rend="grantha">lakṣādyā</hi>yi-<hi rend="grantha">santā</hi>ṉattu <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>ā</seg>ḷaki <gap reason="lost" quantity="6" unit="character" precision="low"/> kuṉṟattu <gap reason="lost" unit="character" extent="unknown"/> mā<seg rend="check">ṇi<!--EF: māṉa--></seg> Aṟupattu-mūvaṉ tiru<hi rend="grantha">maṭha</hi>ttu mutaliyār <unclear>p</unclear>ā<hi rend="grantha">ṇḍi-maṇḍalādhipa</hi>ti pāṇṭi-nāṭṭu mutaliyār
         <lb n="4"/><gap reason="lost" unit="character" extent="unknown"/> p-paracar Uṭaiyār <hi rend="grantha">dharmma</hi>m <gap reason="lost" quantity="4" unit="character" precision="low"/> li <gap reason="lost" quantity="4" unit="character" precision="low"/> kku <hi rend="grantha">suhiraṇya <gap reason="lost" quantity="2" unit="character" precision="low"/> dhārā</hi> <gap reason="lost" unit="character" extent="unknown"/> ṇṭya ma <gap reason="lost" unit="character" extent="unknown"/> ṭā <gap reason="lost" quantity="2" unit="character" precision="low"/> āṭai Āṉa kīḻai-k kūṭalūṟku-p peru nāṉk' ellai Āṉa 
         
         kīḻ-pāṟk' ellai marutaṅkuṇṭu Uṭpaṭa-c cātti-k ko <gap reason="lost" quantity="4" unit="character" precision="low"/>
@@ -106,30 +106,35 @@
         Āka
         
         Icainta peru nāṉk' ellaikk' uṭ-paṭṭa kuḷaṅkaḷum vayalkaḷum naṉ-cey
-        <lb n="6"/>puṉ-ceykaḷum kīṇō <gap reason="lost" quantity="1" unit="character" precision="low"/> kiya <gap reason="lost" quantity="2" unit="character" precision="low"/> ṟum mēl ṉōkkiya maramum nattamum nattam vālum Ik-kuḷaṅ <gap reason="lost" quantity="5" unit="character" precision="low"/> ṭṭaṉavum peru ṉāṉk' ellaikk' uṭ-paṭṭaṉavai muṟṟum <hi rend="grantha">sarvvamāṅya</hi>m-āka <hi rend="grantha">Ācandrārkka</hi> <gap reason="lost" quantity="1" unit="character" precision="low"/> sva <gap reason="lost" quantity="1" unit="character" precision="low"/> di<!--EF: check--> Ākavum
+        <lb n="6"/>puṉ-ceykaḷum kīṇō <gap reason="lost" quantity="1" unit="character" precision="low"/> kiya <gap reason="lost" quantity="2" unit="character" precision="low"/> ṟum mēl ṉōkkiya maramum nattamum nattam vālum Ik-kuḷaṅ <gap reason="lost" quantity="5" unit="character" precision="low"/> ṭṭaṉavum peru ṉāṉk' ellaikk' uṭ-paṭṭaṉavai muṟṟum <hi rend="grantha">sarvvamāṅya</hi>m-āka <hi rend="grantha">Ācandrārkkasthāyi</hi> Ākavum
     </p>
     <p>
         <hi rend="grantha">śiṣya-pra</hi> <gap reason="lost" quantity="3" unit="character" precision="low"/> param·parai Āka sa <gap reason="lost" quantity="4" unit="character" precision="low"/>
         <lb n="7"/><hi rend="grantha">Anubha</hi>vittu-k koṇṭu I <gap reason="lost" quantity="4" unit="character" precision="low"/> nāṉk' ellai tōṟum tiru-c-cūla-k-kal nāṭṭi Aṉupavikka kaṭavar ākavum
     </p>
     <p>
-        <gap reason="lost" quantity="4" unit="character" precision="low"/> y-akitam paṇṇiṉavarkaḷ <hi rend="grantha">gaṃgai</hi>-k-ka<supplied reason="lost">rai</supplied>yil <hi rend="grantha">brahma-ha</hi>tti <hi rend="grantha">brāhma</hi>ṇa<!--EF: check!-->-<hi rend="grantha">ha</hi>tti vī<hi rend="grantha">ra-ha</hi>tti <hi rend="grantha">gopa-ha</hi>tti <hi rend="grantha">guru</hi>-ni<hi rend="grantha">ndai</hi> paṇṇiṉa pāvattai Aṉupavikka-k kaṭava <gap reason="lost" quantity="4" unit="character" precision="low"/>
+        <gap reason="lost" quantity="4" unit="character" precision="low"/> y-akitam paṇṇiṉavarkaḷ <hi rend="grantha">gaṃgai</hi>-k-ka<supplied reason="lost">rai</supplied>yil <hi rend="grantha">brahma-ha</hi>tti <seg rend="check"><hi rend="grantha">brāhma</hi>ṇa</seg>-<hi rend="grantha">ha</hi>tti vī<hi rend="grantha">ra-ha</hi>tti <hi rend="grantha">gopa-ha</hi>tti <hi rend="grantha">guru</hi>-ni<hi rend="grantha">ndai</hi> paṇṇiṉa pāvattai Aṉupavikka-k kaṭava <gap reason="lost" quantity="4" unit="character" precision="low"/>
     </p>
     <p>
         Ivai po		
     </p>
 </div>
 	
-<!--<div type="apparatus">
+<div type="apparatus">
            
 	<listApp>
-		<app loc="0">
+		<!--<app loc="0">
 			<lem>...</lem>
 			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+		</app> -->
+	
+		<app loc="6">
+			<lem><hi rend="grantha">Ācandrārkkasthāyi</hi></lem>
+			<rdg source="bib:Vijayavenugopal2022_01">Āca<hi rend="grantha">ndrā</hi>rkka. sva. dhi</rdg>
 		</app> 
 	</listApp>
 	
-</div>-->
+</div>
       	
 <!--<div type="translation" resp="part:emfr">
       		
@@ -145,34 +150,34 @@
       	
 <div type="bibliography">
 	
-	<p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/213).</p>
-	
-	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 44), with photos.</p>
-		
-	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="V">
-			<ptr target="bib:Vijayavenugopal2022_01"/>
-			<citedRange unit="item">44</citedRange>
-			<citedRange unit="page">106</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">		
-		
-		<bibl>
-			<ptr target="bib:ARIE1923-1924"/>
-			<citedRange unit="page">60</citedRange>
-			<citedRange unit="appendix">C/1924</citedRange>
-			<citedRange unit="item">213</citedRange>
-		</bibl>
-		
-	</listBibl>     
-	
-        </div>
-      </body>
-  </text>
+    <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/213).</p>
+    
+    <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 44), with photos.</p>
+    
+    <p>This edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photos (N. Ramaswamy).</p>
+    
+    <listBibl type="primary">
+        
+        <bibl n="V">
+            <ptr target="bib:Vijayavenugopal2022_01"/>
+            <citedRange unit="item">44</citedRange>
+            <citedRange unit="page">106</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
+    <listBibl type="secondary">		
+        
+        <bibl>
+            <ptr target="bib:ARIE1923-1924"/>
+            <citedRange unit="page">60</citedRange>
+            <citedRange unit="appendix">C/1924</citedRange>
+            <citedRange unit="item">213</citedRange>
+        </bibl>
+        
+    </listBibl>     
+    
+</div>
+</body>
+</text>
 </TEI>
