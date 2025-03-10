@@ -94,8 +94,8 @@
         <lb n="1"/>svasti śrī		
     </ab>
     <p>
-        tri-(puvaṉa-cakkara-va<reg>r</reg>tti) kōnēriṉmaikoṇṭāṉ <gap reason="lost" quantity="7" unit="character" precision="low"/>
-        <lb n="2"/><gap reason="lost" quantity="4" unit="character" precision="low"/> nāyaṉār-kōyil tāṉattārkku taṅkaḷ (nāya)ṉārkku tiru-p-pāṭṭōtu <gap reason="lost" quantity="5" unit="character" precision="low"/>
+        <hi rend="grantha">tri</hi>-<unclear>puvaṉa-cakkara-vatti</unclear> kōnēriṉmaikoṇṭāṉ <gap reason="lost" extent="unknown" unit="character"/>
+        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> nāyaṉār-kōyil tāṉattārkku taṅkaḷ (nāya)ṉārkku tiru-p-pāṭṭōtu <gap reason="lost" quantity="5" unit="character" precision="low"/>
         <lb n="3"/><gap reason="lost" quantity="4" unit="character" precision="low"/> yāḷ nalla-maṅkai Ēṟi Aruḷa-p paṇṇiṉa nā(cci)yār pōka mātta pūmulaiyār <gap reason="lost" quantity="3" unit="character" precision="low"/>
         <lb n="4"/><gap reason="lost" quantity="4" unit="character" precision="low"/> ṭṭa nitta-nimantaṅkaḷukku Eṟi-paṭai-nal(lūr pa)ṟṟil tuvarāpati-nāṭṭu meṉ <gap reason="lost" quantity="4" unit="character" precision="low"/>
         <lb n="5"/><gap reason="lost" quantity="4" unit="character" precision="low"/> -y-āṉa kuḷattukkum caṉṉanēri Ēmpalukku kuḷan kuḻikkum nāṭṭu-p piṟiya <gap reason="lost" quantity="4" unit="character" precision="low"/>
@@ -121,10 +121,10 @@
     </p>
     <p>
         Ivai kūkūr uṭaiyāṉ Eḻuttu yāṇṭu nāḷ
-        <lb n="19"/><num value="214">2 <g type="numeral">100</g> <g type="numeral">10</g> 4</num> Ivai vīra-pāṇṭiya-vāṇātarāyaṉ Eḻuttu
+        <lb n="19"/><num value="214">2 <g type="numeral">100</g> <g type="numeral">10</g> 4</num> Ivai vīra-pāṇṭiya-vāṇātarāyaṉ Eḻuttu <g type="pc">.</g>
     </p>
     <p>
-        tu(lyam) 		
+        tu<hi rend="grantha"><unclear>lyam·</unclear></hi> 		
     </p>
 </div>
 	
