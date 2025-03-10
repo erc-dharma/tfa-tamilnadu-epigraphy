@@ -91,10 +91,10 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
     <p>		
-        <lb n="1"/>kōnēriṉmaikoṇṭāṉ Uṭaiyār ti(ru-k)-koṭuṅ-kuṉṟam-uṭaiya nāya
+        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> kōnēriṉmaikoṇṭāṉ Uṭaiyār ti<supplied reason="lost">ru-k</supplied>-koṭuṅ-kuṉṟam-uṭaiya nāya
         <lb n="2" break="no"/>ṉār-kōyil tā <gap reason="lost" quantity="4" unit="character" precision="low"/> nāyaṉārkku Aḻakiyāṉ Irāca-nārāyaṇa <gap reason="lost" quantity="3" unit="character" precision="low"/> cāttuvikkum tirumē-ṟ-pūc
-        <lb n="3" break="no"/>cukku tiru-(mēṟ-pūccu) puṟam-āka viṭṭa Eṟi paṭai-nallūr paṟṟil curapi-nāṭṭu nārayaṇa-tēvar vetti muṭi
-        <lb n="4" break="no"/>-t-talai veṭṭum perumāḷ Iṉ-n<!--sic?-->āṭṭil veḷḷāḷaril ciṟu-pattaṉ pakkal koṇṭ-uṭaiya Otiyaṉū <gap reason="lost" quantity="3" unit="character" precision="low"/>
+        <lb n="3" break="no"/>cukku tiru-<unclear>mēṟ-pūccu</unclear> puṟam-āka viṭṭa Eṟi paṭai-nallūr paṟṟil curapi-nāṭṭu nārayaṇa-tēvar vetti muṭi
+        <lb n="4" break="no"/>-t-talai veṭṭum perumāḷ I<choice><orig>ṉ</orig><reg>n</reg></choice>-nāṭṭil veḷḷāḷaril ciṟu-pattaṉ pakkal koṇṭ-uṭaiya Otiyaṉū <gap reason="lost" quantity="3" unit="character" precision="low"/>
         <lb n="5" break="no"/>ṭ-āvatu Ā <gap reason="lost" quantity="4" unit="character" precision="low"/> ta <gap reason="lost" quantity="3" unit="character" precision="low"/> tal I-nāyaṉārkku tēva-tāṉam ākavum
     </p>
     <p>		
@@ -123,12 +123,12 @@
         colli Ip-paṭikku variyilār kaṇakkilum niṟutta-c coṉṉōm
     </p>
     <p>
-        Ip-paṭi Ivv-ō(laiye pi)ṭipāṭ' āka ⌈
-        <lb n="22" break="no"/>koṇṭu tiru-mēṟ-pūccu puṟam-āka cantirātitta-vaṟ cella tiru-c-cūla-t-tāpaṉam paṇṇi-k kalli(lu)m cempilu
+        Ip-paṭi Ivv-ō<supplied reason="lost">lai pi</supplied>ṭipāṭ' āka ⌈
+        <lb n="22" break="no"/>koṇṭu tiru-mēṟ-pūccu puṟam-āka cantirātitta-vaṟ cella tiru-c-cūla-t-tāpaṉam paṇṇi-k kalli<supplied reason="lost">lu</supplied>m cempilu
         <lb n="23" break="no"/>m veṭṭi-k koḷka <g type="pc">.</g>
     </p>
     <p>
-        Ivai kūkūr uṭaiyāṉ Eḻuttu yāṇṭu nāḷ <num value="214">2<g type="numeral">100</g> <g type="numeral">10</g> 4</num>
+        Ivai kūkūr uṭaiyāṉ Eḻuttu yāṇṭu nāḷ <num value="214">2<g type="numeral"> 100</g> <g type="numeral">10</g> 4</num>
         Ivai vīra-pāṇṭiya-vāṇā<hi rend="grantha">dhi</hi> <gap reason="lost" quantity="4" unit="character" precision="low"/>	
     </p>
 </div>
@@ -162,7 +162,7 @@
         
         <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 1), with photos.</p>
         
-        <p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
+        <p>This digital edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photos (N. Ramaswamy).</p>
         
         <listBibl type="secondary">
             
