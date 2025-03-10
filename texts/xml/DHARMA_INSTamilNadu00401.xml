@@ -98,10 +98,10 @@
         <lb n="5" break="no"/>ṭ-āvatu Ā <gap reason="lost" quantity="4" unit="character" precision="low"/> ta <gap reason="lost" quantity="3" unit="character" precision="low"/> tal I-nāyaṉārkku tēva-tāṉam ākavum
     </p>
     <p>		
-        muṭi-t-talai (ve)ṭṭum perumāḷukku-k <gap reason="lost" quantity="3" unit="character" precision="low"/> ṇa <gap reason="lost" quantity="3" unit="character" precision="low"/>
-        <lb n="6" break="no"/>m kāṇiya <gap reason="lost" quantity="7" unit="character" precision="low"/> Avv-otiyaṉūr nāṉk' ellaikk' uṭ-paṭṭa na(ṉ-ceyum) puṉ-ceyum kuḷamum kuḷa-p-para
-        <lb n="7" break="no"/>-p-pum <gap reason="lost" quantity="3" unit="character" precision="low"/> tōṭṭamum tōṭṭa <gap reason="lost" quantity="4" unit="character" precision="low"/> m Āṟum kālum mara <gap reason="lost" quantity="2" unit="character" precision="low"/> kiṇaṟum maṟṟum Eppēṟpaṭ<!--sic?-->
-        <lb n="8"/><hi rend="grantha">sa</hi>masta prā(pti)kaḷil paḻan tēva-tāṉamum paḷḷi-(c-cantamu)m maṉattā Iṟai-(y-ili)yum nīkki nīkki niṉṟa nilattukku
+        muṭi-t-talai <supplied reason="lost">ve</supplied>ṭṭum perumāḷukku-k <gap reason="lost" quantity="2" unit="character" precision="low"/> ṇa <gap reason="lost" quantity="1" unit="character" precision="low"/>
+        <lb n="6" break="no"/>m kāṇiya <gap reason="lost" quantity="7" unit="character" precision="low"/> Avv-otiyaṉūr nāṉk' ellaikk' uṭ-paṭṭa na<supplied reason="lost">ṉ-ceyum</supplied> puṉ-ceyum kuḷamum kuḷa-p-para
+        <lb n="7" break="no"/>-p-pum <gap reason="lost" quantity="3" unit="character" precision="low"/> tōṭṭamum tōṭṭa <gap reason="lost" quantity="4" unit="character" precision="low"/> m Āṟum kālum mara <gap reason="lost" quantity="2" unit="character" precision="low"/> kiṇaṟum maṟṟum Ep<space type="feature"/>pēṟpaṭ 
+        <lb n="8"/><hi rend="grantha">samasta-prā<supplied reason="lost">pti</supplied></hi><unclear>ka</unclear>ḷil paḻan tēva-tāṉamum paḷḷi-<supplied reason="lost">c-cantamu</supplied>m maṉattā Iṟai-y-<supplied reason="lost">ili</supplied>yum nīkki nīkki niṉṟa nilattukku
         <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/>
         <lb n="10"/>ya viṉiyōkam Ilāñciṉai viṉiyōkam vācal viṉiyōkam taviṟtu <gap reason="lost" quantity="4" unit="character" precision="low"/> Aḷakkum Aracāṇam Āṉaic <gap reason="lost" quantity="3" unit="character" precision="low"/>
         <lb n="11"/><gap reason="lost" quantity="6" unit="character" precision="low"/> kiṟai tēvai-vari Ēri-vari Āḷ <gap reason="lost" quantity="5" unit="character" precision="low"/> mā-vari <gap reason="lost" quantity="4" unit="character" precision="low"/> taṟi-y-iṟai cekk-iṟai taṭṭoli <gap reason="lost" quantity="3" unit="character" precision="low"/>
@@ -115,8 +115,8 @@
         <lb n="16" break="no"/><gap reason="lost" extent="unknown" unit="character"/>
         <lb n="17"/>l <gap reason="lost" quantity="19" unit="character" precision="low"/> kku <gap reason="lost" quantity="25" unit="character" precision="low"/>
         <lb n="18" break="no"/>ṟu I-kāṇi <gap reason="lost" quantity="3" unit="character" precision="low"/> pōkam varaku Uḷḷiṭṭa vāṉpayir ceyta nilattukku māttāl Eḻu <gap reason="lost" quantity="5" unit="character" precision="low"/>
-        <lb n="19" break="no"/>tilum <gap reason="lost" quantity="5" unit="character" precision="low"/> kkum natta-varikkum Ēri-vari Āḷ-vari maṉai-vari ciṟṟ-āyam pēr-āyam taṟi-k-kaṭa<!--sic?-->
-        <lb n="20" break="no"/>ḷḷiṭṭa<!--sic?--> Ivai <gap reason="lost" quantity="5" unit="character" precision="low"/> ṟukku Āṇṭ' oṉṟukku Arai Accukku taṇṭal mēṉi patiṉ mūṉṟ' arai <gap reason="lost" quantity="4" unit="character" precision="low"/> m Iṟāmalu<gap reason="lost" quantity="6" unit="character" precision="low"/>
+        <lb n="19" break="no"/>tilum <gap reason="lost" quantity="5" unit="character" precision="low"/> kkum natta-varikkum Ēri-vari Āḷ-vari maṉai-vari ciṟṟ-āyam pēr-āyam taṟi-k-kaṭa <gap reason="lost" extent="unknown" unit="character"/>
+        <lb n="20" break="no"/>ḷḷiṭṭa Ivai <gap reason="lost" quantity="5" unit="character" precision="low"/> ṟukku Āṇṭ' oṉṟukku Arai Accukku taṇṭal mēṉi patiṉ mūṉṟ' arai <gap reason="lost" quantity="4" unit="character" precision="low"/> m Iṟāmalu<gap reason="lost" quantity="6" unit="character" precision="low"/>
         <lb n="21" break="no"/>kākavum
     </p>
     <p>
@@ -128,7 +128,7 @@
         <lb n="23" break="no"/>m veṭṭi-k koḷka <g type="pc">.</g>
     </p>
     <p>
-        Ivai kūkūr uṭaiyāṉ Eḻuttu yāṇṭu nāḷ <num value="214">2<g type="numeral"> 100</g> <g type="numeral">10</g> 4</num>
+        Ivai kūkūr uṭaiyāṉ Eḻuttu yāṇṭu nāḷ <num value="214">2 <g type="numeral">100</g> <g type="numeral">10</g> 4</num>
         Ivai vīra-pāṇṭiya-vāṇā<hi rend="grantha">dhi</hi> <gap reason="lost" quantity="4" unit="character" precision="low"/>	
     </p>
 </div>
