@@ -95,24 +95,24 @@
     </ab>
     
     <p>		
-        <hi rend="grantha">raudra</hi>-varu<hi rend="grantha">ṣam<supplied reason="omitted">·</supplied></hi> mār <gap reason="lost" quantity="4" unit="character" precision="low"/> <num value="26">2 <g type="numeral">10</g> 6</num> <g type="pc">.</g>
+        <hi rend="grantha">raudra</hi>-varu<hi rend="grantha">ṣam<supplied reason="omitted">·</supplied></hi> mār<hi rend="grantha">ja</hi> <gap reason="lost" quantity="4" unit="character" precision="low"/> <num value="26">2 <g type="numeral">10</g> 6</num> <g type="tēti"/>
     </p>
     <p>
         tiru-malai-nāṭṭu-t tiru-k-koṭu
         <lb n="2"/>ṅ-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nayiṉār-tiru-k-kōyi
-        <lb n="3" break="no"/>lil ciṟi-paṇṭāra-k-kāriyattukku-k kaṭavār kāciyapa-gotrattu Āpasta
-        <lb n="4" break="no"/>mbha-sūtrattu Irāyūr śabhari-rāja-bhaṭṭaṟku-k kuṭutta Iṟai-y-ili-p paṭ
-        <lb n="5" break="no"/>ṭaiyam nayiṉār-tiru-k-koṭuṅ-kuṉṟam-uṭaiya nayiṉār nalla-maṅkai
-        <lb n="6"/>pākar kōyilukku Adyayanāṅkam-āka muṉṉāḷ Uṭaiyavar tiru-v-uḷ(ḷa)
+        <lb n="3" break="no"/>lil ciṟi-paṇṭāra-k-kāriyattukku-k kaṭavār kāciya<supplied reason="omitted">pa</supplied>-<hi rend="grantha">gotra</hi>ttu <hi rend="grantha">Āpasta</hi>
+        <lb n="4" break="no"/><hi rend="grantha">m<supplied reason="omitted">·</supplied>ba-<supplied reason="omitted">sū</supplied></hi>trattu Irāyūr <hi rend="grantha">śaba</hi>ri-rā<hi rend="grantha">ja-bha</hi>ṭṭaṟku-k kuṭutta Iṟai-y-ili-p paṭ
+        <lb n="5" break="no"/>ṭaiyam nayiṉār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nayiṉār nalla-maṅkai
+        <lb n="6"/>pākar kōyilukku A<seg rend="check">dyaya</seg>nāṅkam-āka muṉṉāḷ Uṭaiyavar tiru-v-u<supplied reason="omitted">ḷ</supplied>ḷa
         <lb n="7" break="no"/>m paṟṟi Aruḷiṉa tiru-muka-p paṭi nayiṉār tēva-tāṉam-āṉa
         <lb n="8"/>kollaṉ kuṇṭu Āṉa Ēmpal Oṉṟum maṉai Oṉṟu
-        <lb n="9" break="no"/>m nittiya-tāṉamum Inta Ēmpalukku nāṉk' ellai y-āvatu
+        <lb n="9" break="no"/>m nittiya-tāṉamum Inta Ēmpalukku nāṉk’ ellai y-āvatu
         
         <list>
-            <item><lb n="10"/>kīḻ-pāṟk’ ellai kaṭampaṅkuḷattukkum ceṭṭi kuḷattukku
+            <item><lb n="10"/>kīḻ-pāṟk’ ellai kaṭampaṅ-kuḷattukkum ceṭṭi kuḷattukku
                 <lb n="11"/>mēṟkum</item>
             <item>teṉ-pāṟk’ ellai cūla-k-kallukku vaṭakkum</item>
-            <item>mēl-(pāṟ)
+            <item>mēl-<unclear>pāṟ</unclear>
                 <lb n="12" break="no"/>k’ ellai vaṭivaḷampi Ēmpalukku vaṭa-kiḻakkum</item>
             <item>vaṭa-pā
                 <lb n="13"/>ṟk’ ellai ciṟṟāṟṟukku teṟkum</item>
@@ -120,19 +120,19 @@
         
         Āka
         
-        Inta nāṉk' ellaikk' u
+        Inta nāṉk’ ellaikk’ u
         <lb n="14" break="no"/>ṭ-paṭṭa nañ-cey puñ-cey kīḻ nōkkiya kiṇaṟum mēl
-        <lb n="15"/>nōkkiya maramum pāci-p-pāṭṭa maṟṟum nāṉk' ellaikk' uṭ
-        <lb n="16" break="no"/>-p-paṭṭa samasta-prā(pti)kaḷum Ācandrākkam santati
-        <lb n="17"/>pra -e mēdhā Āyi viṉimaya vikkiyaṅkaḷukku U
-        <lb n="18" break="no"/>ritt' āka sarva-mānyam-āka kāṇi-y-āṭci-y-āka Aṉupavi(t)
+        <lb n="15"/>nōkkiya maramum pāci-p-pāṭṭa maṟṟum nāṉk’ ellaikk’ uṭ
+        <lb n="16" break="no"/>-p-paṭṭa <hi rend="grantha">samasta-prāpt<unclear>i</unclear></hi>kaḷum Ā<hi rend="grantha">candrārkkam<supplied reason="omitted">·</supplied> sa</hi>ntati
+        <lb n="17"/><hi rend="grantha">pra</hi> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <seg rend="check">mēdhā Āyi</seg> viṉimaya vikkiyaṅkaḷukku U
+        <lb n="18" break="no"/>ritt’ āka <hi rend="grantha">sarvva</hi>-mā<seg rend="check"><hi rend="grantha">nya</hi><!--EF: nye?--></seg>m-āka kāṇi-y-āṭci-y-āka Aṉupavit
         <lb n="19" break="no"/>tu-k koḷḷavum
     </p>
     <p>	
         <list>
             <item>Ip-paṭikku kuṉṟa-nampi Eḻuttu</item>
             <item>Ip-pa
-                <lb n="20" break="no"/>ṭikku puṟpavaṉa-pa(ṭ)ṭaṉ Eḻuttu</item>
+                <lb n="20" break="no"/>ṭikku puṟpavaṉa-pa<supplied reason="lost">ṭ</supplied>ṭaṉ Eḻuttu</item>
             <item>Ip-paṭikku kōyiṟ-kaṇakku tiru-k
                 <lb n="21" break="no"/>-koṭuṅ-kuṉṟa-vēḷāṉ Araṅkaṉ perumāḷ Eḻuttu</item>
         </list> 
