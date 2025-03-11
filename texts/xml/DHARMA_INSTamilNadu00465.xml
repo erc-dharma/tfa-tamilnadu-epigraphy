@@ -9,7 +9,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Pirāṉmalai, X temple, time of X, year X</title>
+            <title>Pirāṉmalai, Maṅkai Pākar, year Raudra</title>
             <respStmt>
                 <resp>intellectual authorship of edition</resp>
                 <persName ref="part:vija">
@@ -95,15 +95,15 @@
     </ab>
     
     <p>		
-        <hi rend="grantha">raudra</hi>-varu<hi rend="grantha">ṣam<supplied reason="omitted">·</supplied></hi> mār<hi rend="grantha">ja</hi> <gap reason="lost" quantity="4" unit="character" precision="low"/> <num value="26">2 <g type="numeral">10</g> 6</num> <g type="tēti"/>
+        <hi rend="grantha">raudr<unclear>i</unclear></hi>-varu<hi rend="grantha">ṣam<supplied reason="omitted">·</supplied></hi> mār<hi rend="grantha">ka</hi> <gap reason="lost" quantity="2" unit="character" precision="low"/> <num value="26">2 <g type="numeral">10</g> 6</num> <g type="tēti"/>
     </p>
     <p>
         tiru-malai-nāṭṭu-t tiru-k-koṭu
-        <lb n="2"/>ṅ-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nayiṉār-tiru-k-kōyi
+        <lb n="2" break="no"/>ṅ-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nayiṉār-tiru-k-kōyi
         <lb n="3" break="no"/>lil ciṟi-paṇṭāra-k-kāriyattukku-k kaṭavār kāciya<supplied reason="omitted">pa</supplied>-<hi rend="grantha">gotra</hi>ttu <hi rend="grantha">Āpasta</hi>
         <lb n="4" break="no"/><hi rend="grantha">m<supplied reason="omitted">·</supplied>ba-<supplied reason="omitted">sū</supplied></hi>trattu Irāyūr <hi rend="grantha">śaba</hi>ri-rā<hi rend="grantha">ja-bha</hi>ṭṭaṟku-k kuṭutta Iṟai-y-ili-p paṭ
         <lb n="5" break="no"/>ṭaiyam nayiṉār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nayiṉār nalla-maṅkai
-        <lb n="6"/>pākar kōyilukku A<seg rend="check">dyaya</seg>nāṅkam-āka muṉṉāḷ Uṭaiyavar tiru-v-u<supplied reason="omitted">ḷ</supplied>ḷa
+        <lb n="6" break="no"/>-pākar kōyilukku A<seg rend="check">dyaya</seg>nāṅkam-āka muṉṉāḷ Uṭaiyavar tiru-v-u<supplied reason="omitted">ḷ</supplied>ḷa
         <lb n="7" break="no"/>m paṟṟi Aruḷiṉa tiru-muka-p paṭi nayiṉār tēva-tāṉam-āṉa
         <lb n="8"/>kollaṉ kuṇṭu Āṉa Ēmpal Oṉṟum maṉai Oṉṟu
         <lb n="9" break="no"/>m nittiya-tāṉamum Inta Ēmpalukku nāṉk’ ellai y-āvatu
@@ -139,16 +139,29 @@
     </p>
 </div>
 	
-<!--<div type="apparatus">
+<div type="apparatus">
            
-	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-		</app> 
-	</listApp>
+    <listApp>
+        
+        <!--<app loc="0">
+            <lem>...</lem>
+            <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+        </app>-->
+        
+        <app loc="1">
+            <lem><hi rend="grantha">raudr<unclear>i</unclear></hi>°</lem>
+            <rdg source="bib:Vijayavenugopal2022_01">rau<hi rend="grantha">d</hi>ra</rdg>
+        </app>        
+        
+        <app loc="1">
+            <lem>mār<hi rend="grantha">ka</hi> <gap reason="lost" quantity="2" unit="character" precision="low"/> <num value="26">2 <g type="numeral">10</g> 6</num> <g type="tēti"/></lem>
+            <rdg source="bib:Vijayavenugopal2022_01">mār <gap reason="lost" quantity="5" unit="character" precision="low"/> 26 <g type="tēti"/></rdg>
+            <note>Possibly <foreign>mār<hi rend="grantha">ka</hi><choice><sic>l</sic><corr>ḻ</corr></choice>i <g type="mācam"/> <num value="16"><g type="numeral">10</g> 6</num> <g type="tēti"/></foreign></note>
+        </app>
+        
+    </listApp>
 	
-</div>-->
+</div>
       	
 <!--<div type="translation" resp="part:emfr">
       		
