@@ -44,6 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
+                            <p>Two hands (?): hand #1 (p1v, p2r) and hand #1 (p2v, p3rv).</p>
                             <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
                                 nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
                         </handDesc>
@@ -95,10 +96,16 @@
                     <l n="4">villavar kulaitara mīṉavar nilaikeṭa</l>
                     <l n="5">vikkalar ciṅkaṇar mēlkaṭal pāyat</l> 
                     <l n="6">tikkaṉait tu<choice><sic>ṉ</sic><corr>n</corr></choice>taṉ cakkara<supplied reason="subaudible">m</supplied> naṭāt<lb n="1v3=3" break="no"/>ti</l>
+                    <l n="7">vīraciṅṅā<hi rend="grantha">sa</hi>ṉattup</l>
+                    <l n="8">puvaṉamuḻutuṭaiyāḷoṭum</l>
                 </lg>
                 <p>
-                    
-                    
+                    vīṟṟiruntaruḷiya kōvirā<hi rend="grantha">ja</hi> kēcaripa<hi rend="grantha">nma</hi>rāṉa cakka
+                    <lb n="1v4=4" break="no"/>ravarttikaḷ <hi rend="grantha">śrī</hi>kulōttuṅkacōḻatēvarkku
+                    yāṇṭu Irupat-āvatu
+                </p>
+                <p>
+                                        
                     <pb n="2r"/>                
                     <lb n="2r1=16"/>
                     
@@ -121,7 +128,7 @@
                     <!--<app loc="0">
                         <lem>...</lem>
                         <rdg source="bib:SubrahmanyaAiyer1933-1934_02">...</rdg>
-                    </app>-->
+                        </app>-->
                     <app loc="1">
                         <lem>puṇara</lem>
                         <rdg source="bib:SubrahmanyaAiyer1933-1934_02">pu<unclear>ṇa</unclear>ra</rdg>
