@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Utayēntiram plates, time of Parāntaka I Cōḻa, year 15</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>	
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu01001</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by G. Vijayavenugopal</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-04-17" status="draft">Creation of the file on the repository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <pb n="1r"/>
+                
+                <ab>
+                    <pb n="1v"/>                
+                    <lb n="1v1=1"/>svasti śrī
+                </ab>
+                
+                <p>
+                    
+                    <pb n="2r"/>                
+                    <lb n="2r1=8"/>
+                    
+                    <pb n="2v"/>                
+                    <lb n="2v1=15"/>
+                    
+                    <pb n="3r"/>                
+                    <lb n="3r1=23"/>
+                    
+                    <pb n="3v"/>                
+                    <lb n="3v1=32"/> 
+                    
+                    <pb n="4r"/>                
+                    <lb n="4r1=40"/>
+                    
+                    <pb n="4v"/>                
+                    <lb n="4v1=48"/>
+                    
+                    <pb n="5r"/>                
+                    <lb n="5r1=56"/>
+                    
+                    <pb n="5v"/>                
+                    <lb n="5v1=64"/>ṇā nṛipeṇa <g type="gomutraFinal">.</g>
+                </p>
+                
+                <lg n="25">
+                    <l n="a">puṇyaṁ samaṁ kṛitavatāM parirakṣatāñ ca</l>
+                    <l n="b">ta<lb n="5v2=65" break="no"/>d raksateti sa parāntaka Ekavīra<supplied reason="omitted">ḥ</supplied></l>
+                    <l n="c">Āgāmina<supplied reason="omitted">ḥ</supplied> kṣitipatin <lb n="5v3=66"/>praṇamaty ajasram</l>
+                    <l n="d">mūrddhnā sm<choice><sic>ā</sic><corr>a</corr></choice>rāricaraṇāM bujaśekhareṇa <g type="ddanda">.</g></l>
+                </lg>
+                
+                <p>
+                    
+                    <pb n="6r"/>                
+                    <lb n="6r1=72"/>
+                    
+                    <pb n="6v"/>                
+                    <lb n="6v1=82"/>
+                    
+                    <pb n="7r"/>                
+                    <lb n="7r1=92"/>
+                    
+                </p>
+                
+                <pb n="7v"/>
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                    <app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:Hultzsch1895_01">...</rdg>
+                        </app>
+                </listApp>
+                
+            </div>-->
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                ...
+                </p>
+                
+                </div>-->
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">                
+                
+                <p>Edited and translated in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.76), with visual documentation.</p>
+                <p>This edition by Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                                                            
+                    <bibl n="SII">
+			<ptr target="bib:Hultzsch1895_01"/>
+			<citedRange unit="page">375-390</citedRange>
+			<citedRange unit="item">76</citedRange>
+		</bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
