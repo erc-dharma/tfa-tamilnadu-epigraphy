@@ -257,7 +257,7 @@
             
             <div type="bibliography">                
                 
-                <p>Edited and translated in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (SII 2.76), with visual documentation.</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Hultzsch1895_01"/></bibl> (<ref target="DHARMA_INSSIIv02p0i0076">SII 2.76</ref>), with visual documentation.</p>
                 <p>This edition by Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
