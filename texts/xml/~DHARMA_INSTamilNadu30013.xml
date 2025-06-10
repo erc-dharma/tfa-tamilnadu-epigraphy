@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Govindapputtūr, Gaṅgājaṭādhara temple, time of ***, year **</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:vagi">
+				 <forename>Valérie</forename>
+						<surname>Gillet</surname>
+			 </persName>
+			 <persName ref="part:emfr">
+				<forename>Emmanuel</forename>
+				 <surname>Francis</surname>
+			 </persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu30013</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary><p>#13. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 158; SII 32, part 2, no. 104; c) personally located; d) on the wall section on the eastern side of the niche of Brahmā; e) regnal year 12 of Kōpparakesarivarman; f) Uttamacōḻa (<foreign>circa</foreign> 983 C.E.); g) it is apparently unfinished.</p>
+
+</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+
+<p>
+<lb n="1"/><hi rend="grantha">svasti śrī</hi> kopparake<unclear><hi rend="grantha">ca</hi></unclear>ripamṉamārāṉa <hi rend="grantha">śrī</hi> Uttamacoḻaku
+<lb n="2"/>yāṇṭu 12 Āvatu vaṭakarai<hi rend="grantha">brahma</hi>teyam p<unclear>e</unclear>riya vāṉavaṉm<unclear>ā</unclear>
+<lb n="3"/>[[<hi rend="grantha">de</hi>]]viccatu[[<hi rend="grantha">r</hi>]]<hi rend="grantha">ve</hi>timaṅkattu <hi rend="grantha">śrī</hi> kayilā<unclear>ya</unclear>ttu parama<hi rend="grantha">śvā</hi>mika[[ḷu]]<unclear>k</unclear>ku <unclear>to</unclear>
+<lb n="4"/>[[toṇ]]<unclear>ṭ</unclear>[[ai]]<unclear>ṉā</unclear><unclear>ṭu paḻuvūr ko</unclear>ṭṭattu [[kāvaṉṉur]] <unclear>ce</unclear>[[kkiḻān Araiyaṉ caṅkaranā]]
+<lb n="5"/><unclear>r</unclear>āyaṇaṉāṉa coḻamuttaraiyaṉṉeṉ Iṉcu periya vāṉavaṉ māteviperuṅkuṟi
+<lb n="6"/>yāḷḷum kaṇattāruḷ śrīcoḻa<unclear>cū</unclear>ḻamāṇiceri<hi rend="grantha">sabhai</hi>yārku Iṟaiyili m[[ikai]]
+<lb n="7"/>vicattiṭai Iṭṭa nilam vaṭakuṭi Erikiḻ Inta ceri<hi rend="grantha">sabhai</hi>yār pakal nān yiṟai
+<lb n="8"/>[[y]]ili koṇṭu Uṭaiya nilammāvatu yivvūr vaṭa<unclear>ku</unclear>ṭi Erikiḻ parakeycari vāka
+<lb n="9"/>llukku vaṭakkum vaṭakūṭi Eri talaikaṇi vākkāllukku kiḻakkum vaṭavāṟṟukku <unclear>m</unclear>e
+<lb n="10"/>kkum<hi rend="grantha">śrī</hi> coḻacūḻamaṇi[[ceri]]yār mu[[ṉ viṟṟa ni]]lam iraṇṭā <unclear>ka</unclear>ṇ[[ṇāṟṟu nikki muṉṟu]]ṅ kaṇṇāṟu <gap reason="lost" quantity="3" unit="character"/> <unclear>m</unclear>
+<lb n="11"/><unclear>ni</unclear>laṅ kaṇṇāṟum Añc[[ā]]ṅ <unclear>m</unclear> Ā<unclear>ṟu</unclear>ṅ kaṇṇāṟum Eḻā[[ṅ]] kaṇṇāṟum māka nilam <unclear>I</unclear>raṇṭaraiye mu[[ṉ]]ṟu mākk
+<lb n="12"/>kāṇiyum Ivūr<hi rend="grantha">śrī</hi> kayillāttu <hi rend="grantha">mahā</hi><unclear><hi rend="grantha">de</hi></unclear>vaṟku <hi rend="grantha">cantrādi</hi>ttavaṟ nivamtam ceytapaṭi Āḻvārkku tiru Amutukku potu nā
+<lb n="13"/>nāḻiyāka muṉṟu<hi rend="grantha">sandhi</hi>kkum [[Arici]] kuṟuṇi nāṉṉāḻi kutal ariciyiṉāl nel mukkuṟuṇi Aṟunāḻiyi[[ṉā]]l Orrāṭṭai nāḷaikku nel
+<lb n="14"/>nūṟṟu Oru pattu Irukalane tūṇipatakkukum ceyta nilamāvatu [[mu]]<unclear>ṉṟu</unclear>m kaṇṇāṟṟu kulai Araimā Arai muṉtikai Āḻvāk
+<lb n="15"/>ku ney Amutu nicatam Uḻakkukku nel kuṟuṇiyum kaṟi Amutukku n<unclear>e</unclear>l ṉānāḻiyum tayiramutukku nel <unclear>mu</unclear>ṉṉāḻi[[yu]]
+<lb n="16"/><unclear>yu</unclear>m Aṭaikkāy Amutukku nel [[yi]]runāḻiyum Āka nel nicatam nel kuṟuṇi Eḻu ṉāḻināl Orāṭṭai nāḷai nell[[u Ai]]mmattu
+<lb n="17"/><unclear>Aṟu</unclear>kalaney mukkuṟuṇiyināl Iṭṭa nilam nālāṅ kaṇṇāṟṟu me[[k]]kaṭaiya nāṉku mākāṇi A[[rai]]kkāṇi nikki Iṉ ki[[ḻa]]kku Iṭṭa ni
+<lb n="18"/>lam <unclear>mu</unclear>[[ṉ]]ṟu mākkaṇi muntirikai <gap reason="lost" quantity="1" unit="character"/> [[<hi rend="grantha">śaṃśrānti</hi>kaḷ Ayanam miraṇṭum vi<hi rend="grantha">ṣu</hi>]] Iraṇṭum vaiykāci vicākamum Āka <unclear>Aiñcu</unclear><note>SII seems to read some numbers.</note> <hi rend="grantha">saṃ</hi>
+<lb n="19"/><hi rend="grantha">grānti</hi>yum namaṉamāṭi Aruḷa A<hi rend="grantha">bhiṣekadakṣi</hi>ṇaikku <unclear>paṭe</unclear>ruḷi t[[i]]ru {one letter space} Amutu ceyavum <unclear>nel</unclear> Aimpat[[i]]ṉ kala
+<lb n="20"/>tāl Iṭṭa nilam nālā kaṇṇāṟu mekkaṭaiya munṟu mā Araikkāṇi tiruppu[[k]]kaikum tirucantaṇattu Orāṭṭai nāḷaikku <unclear>n</unclear>e
+<lb n="21"/>l Irupatin kalattāl Iṭṭa nilam nālāṅ kaṇṇāṟṟu Itaṉnoṭu paṭaiya mākāṇi tirupaḷḷitāmatoṭuppārkum tirumeḻukku Iṭu[[vark]]
+<lb n="22"/>kum Iṭṭa nilam nālāṅ kaṇṇāṟṟu kaṟiyamutuku Iṭṭa nilattuku kiḻa<unclear>ku Arai</unclear>mā Itanoṭum kiḻakkaṭaiya tiruviḻāvuku Aṭṭa
+<lb n="23"/>vuku kaṟikkum viṟakukum Aṭṭuvitukum nel nicatam kalamāka n[[ā]]ḷ muku Eḻukalatāl Iṭṭa nilam kāṇi muṉtikai
+<lb n="24"/>yum Āka <unclear>pa</unclear>kaṇṇāṟṟu teṉkiḻaku nilam Araikāṇi vaiykāci vicākatuku tiruviḻāvuku Aṭa Arici patakeḻu kuttal ni
+<lb n="25"/>cata Aiṅ kalamāka nāḷ Eḻukku Arici mupataiṅ kalatāl nel Eṇpatiṉ kalatāl nilam Aicāṅ kaṇṇāṟṟu kiḻal mel
+<lb n="26"/>teṟ<unclear>ka</unclear>ṭaiya nilam kāl tiruviḻāvukku nicatam Eṇṇai mukkuṟuṇi nāḷ Eḻukku kalaṉe Irutūṇi kuṟuṇiyāka nāḻi ṇ
+<lb n="27"/><unclear>ṇaikku</unclear> tūnellā vaṉta nel Ampattaṟu kalattāl Iṭṭa nilam Iti [[va]]ṭakkaṭaiya kiḻal mel Iṭṭa nila<unclear>m</unclear>
+<lb n="28"/>mum māvarai putukku pu<unclear>ṟa</unclear>ttu [[nel]]lu <unclear>nū</unclear>ṟṟu kalattāl Iṭṭa nilam Añcāṅ kaṇṇāṟṟu nilam vaṭakka[[ṭai]]
+<lb n="29"/>ya kālum Āṟākaṇṇāṟṟum kāṇi tiruviḷakku nicatam Eṇ[[ṇai nāḻi]]kku nel tuṇiyāl [[nū]]ṟṟu Iru<unclear>patiṉ</unclear> kalat[[tu]]
+<lb n="30"/>Āṟāṅ kaṇāṟu mekkaṭai Eḻu māvarai Api<hi rend="grantha">ṣe</hi>kam ceyu nampikku nicatam nel patakinnāl Iṭṭa nim
+<lb n="31"/>ṅ kiḻakku muṉṟu māmukkāṇi Uvaiccu Āḷ Āṟukku Iṭa nilam Eḻā kaṇṇāṟṟu mekkaṭaiya Eṭṭu mā
+<lb n="32"/>kāṇi muṉtirikai tirunantavāṉam muṟukku Itaṉ Oṭu kiḻakkaṭaiya nilam Oru māvarai Itaṉ kiḻakku maṇṇu
+<lb n="33"/>lam Oru mā Ita Oṭum Aṭaiya kiḻakku nilam Oṟu mā<unclear>vu</unclear>m yikā pukku paru<hi rend="grantha">ṣai</hi>yākku nila kāṇiraikkāṇi mu<hi rend="grantha">nti</hi>rikai kaṇākāṇi niṟp 
+<lb n="34"/>pu Oruṉ Oraṭu Aṭai nilam Oru mākaṇākāṇikku I
+</p>
+
+</div>
+
+<div type="apparatus">
+
+</div>
+
+<div type="translation" source="bib:Gillet2023_01">
+
+<p>Fortune! Prosperity! This is the 12th year of Kōpparakesarivarman. To the Lord <supplied reason="explanation"><foreign>paraśvāmikaḷukku</foreign></supplied> of Śrī Kayilāyam of big Vāṉavaṉ-mahādevi-caturvedimaṅgalam, a <foreign>brahmadeya</foreign> on the northern bank, I, Cōḻamuttaraiyaṉ alias Cēkkiḻāṉ Araiyaṉ Caṅkara Nārāyaṇaṉ of Kāvaṉṉūr in Paḻuvūr <foreign>kōṭṭam</foreign> in Toṇṭaināṭu; the land which was placed for the abundant expenses <supplied reason="explanation"><foreign>mikai vicattu</foreign></supplied> of the tax-free <supplied reason="subaudible">land</supplied> for those of the Sabhā of Śrī Cōḻacūḻamāṇicēri including the managers <supplied reason="explanation"><foreign>kaṇattāruḷ</foreign></supplied> <supplied reason="subaudible">of?</supplied> the great assembly <supplied reason="explanation"><foreign>peruṅkuṟiyāḷḷum</foreign></supplied> of this big Vāṉavaṉ-mahādevi, I <supplied reason="explanation"><foreign>nān</foreign></supplied> have taken, without taxes, from those of the Sabhā of this quarter <supplied reason="explanation"><foreign>inta cēri</foreign></supplied> <supplied reason="subaudible">which is</supplied> under <supplied reason="subaudible">the irrigation</supplied> of the Vaṭakuṭi tank; this is the land <supplied reason="explanation"><foreign>nilamāvatu</foreign></supplied> which <supplied reason="subaudible">I</supplied> possess: to the north of the canal Parakesari under <supplied reason="subaudible">the irrigation of</supplied> the Vaṭakuṭi lake of this village; to the east of the canal Talaikaṇi <supplied reason="subaudible">of</supplied> the Vaṭakūṭi lake; and to the west of the northern river; having removed the irrigation canal by the two lands bought before by those of the quarters <supplied reason="explanation"><foreign>cēriyār</foreign></supplied> of Śrī Cōḻacūḻamāṇi; three sixteenth <supplied reason="subaudible">which are</supplied> two and a half land as the seventh irrigation canal, the sixth and the fifth irrigation canal, the <gap reason="lost" extent="unknown" unit="character"/> irrigation canal <gap reason="lost" extent="unknown" unit="character"/>, the third irrigation canal. To Mahādeva of Śrī Kayilāyam <supplied reason="explanation"><foreign>kayillāttu</foreign> &gt; <foreign>kayilāyattu</foreign></supplied> of this village, as per the donation which was made as long as the sun and the moon endure, as four <foreign>nāḻi</foreign>s for one time for food offerings for the Lord <supplied reason="explanation"><foreign>āḻvārkku</foreign></supplied>, the rice for the three <foreign>sandhi</foreign> <supplied reason="explanation">juncture of the day</supplied>, with four <foreign>nāḻi</foreign>s and one <foreign>kuṟuṇi</foreign> of pounded rice <supplied reason="explanation"><foreign>kuttal ariciyiṉāl</foreign></supplied>, with six <foreign>nāḻi</foreign>s and three <foreign>kuṟuṇi</foreign>s of paddy, for one day in the year, this is the land which made one hundred and twelve <foreign>kalam</foreign>s, one <foreign>tūṇi</foreign> and a <foreign>patakku</foreign> <supplied reason="subaudible">of paddy</supplied>: half a <foreign>muntirikai</foreign> of a fourthieth on the rim of the third irrigation canal; as one <foreign>kuṟuṇi</foreign> of paddy for one <foreign>uḻakku</foreign> every day of <foreign>ghee</foreign> food offering for the Lord <supplied reason="explanation"><foreign>āḻvākku</foreign> &gt; <foreign>āḻvārkku</foreign></supplied>, four <foreign>nāḻi</foreign>s of paddy for vegetable food offering, three <foreign>nāḻi</foreign>s of paddy for curd food offering and two <foreign>nāḻi</foreign>s of paddy for arecanut food offering, <supplied reason="subaudible">these are</supplied> seven <foreign>nāḻi</foreign>s and one <foreign>kuṟuṇi</foreign> of paddy everyday for one day in the year, the land was placed for three <foreign>kuṟuṇi</foreign>s, six <foreign>kalam</foreign>s of <supplied reason="explanation"><foreign>aimmattu</foreign>?</supplied> of paddy: a <foreign>muntirikai</foreign> and three sixteenth <supplied reason="subaudible">is</supplied> the land <supplied reason="explanation"><foreign>nilam</foreign></supplied> which was placed to the east, having removed four sixteenth of half a <foreign>kāṇi</foreign> on the western boundary of the fourth irrigation canal; for the ritual fee of <foreign>abhiṣeka</foreign> <supplied reason="explanation"><foreign>abhiṣekadakṣiṇaikku</foreign></supplied> for the gracious holy bath <supplied reason="explanation"><foreign>napaṉam āṭi aruḷa</foreign></supplied> on five Saṅkrāntis, that are the Saṅkrāntis of the two <foreign>ayanam</foreign>s, the two <foreign>viṣu</foreign>s, and of the month of Vaikāci Vicākam, the land placed for fifty <foreign>kalam</foreign>s of paddy to make holy food offering, having graciously <gap reason="lost" extent="unknown" unit="character"/> , <supplied reason="subaudible">are</supplied> three <foreign>mā</foreign>s and half a <foreign>kāṇi</foreign> on the western boundary of the fourth irrigation canal; for one day in the year of sandal paste <supplied reason="explanation"><foreign>tirucantaṉattu</foreign></supplied> for the holy smoke <supplied reason="explanation"><foreign>tiruppukkaikum</foreign></supplied>, the land which was placed for twenty <foreign>kalam</foreign>s of paddy <supplied reason="subaudible">is</supplied> a sixteenth of the sluice with this fourth irrigation canal; the land placed for those cleaning the floor with cow-dung <supplied reason="explanation"><foreign>tirumeḻukku iṭuvarkkum</foreign></supplied> and those making the holy garlands <supplied reason="explanation"><foreign>tirupaḷḷitāmatoṭuppārkum</foreign></supplied> <supplied reason="subaudible">is</supplied> on the eastern boundary with this one-fourthieth to the east of the land placed for the vegetable food offering of the fourth irrigation canal; for the supply of firewood <supplied reason="explanation"><foreign>viṟakukum</foreign></supplied> and the vegetables <supplied reason="explanation"><foreign>kaṟikkum</foreign></supplied> for the eight festivals <supplied reason="explanation"><foreign>tiruviḻāviku aṭṭavukku</foreign></supplied>, as the daily <foreign>kalam</foreign>s of paddy, the land which was placed for seven <foreign>kalam</foreign>s and three <foreign>kuṟuṇi</foreign>s per day <supplied reason="subaudible">is</supplied> half a <foreign>kāṇi</foreign> of land to the south-east of the irrigation canal as a <foreign>kāṇi</foreign> and a <foreign>muntirikai</foreign>; as five <foreign>kalam</foreign>s everyday of seven <foreign>patakku</foreign>s of pounded rice supplied for the festival of Vaikāci Vicākam, for seven days, for seventy <foreign>kalam</foreign>s of paddy and for thirty-five <foreign>kalam</foreign>s of rice, the land <supplied reason="subaudible">is</supplied> a quarter land on the south-western boundary to the east of the fifth irrigation canal; for the festival <supplied reason="explanation"><foreign>tiruviḻāvukku</foreign></supplied>, three <foreign>kuṟuṇi</foreign>s of oil everyday, as one <foreign>kuṟuṇi</foreign> and two <foreign>tūṇi</foreign>s and one <foreign>kalam</foreign> for seven days, the land placed for fifty-six <foreign>kalam</foreign>s of paddy accrued with pure paddy for one <foreign>nāḻi</foreign> of oil, <supplied reason="subaudible">is</supplied> the land placed for hundred <foreign>kalam</foreign>s of paddy of the land renovated for a sixteenth <supplied reason="subaudible">of the whole</supplied> land placed on the west, to the east of the northern boundary in this, a <foreign>kāṇi</foreign> by the sixth irrigation canal and a quarter to the northern boundary of the land of the fifth irrigation canal; for one <foreign>nāḻi</foreign> of oil every day for a lamp, hundred and twenty <foreign>kalam</foreign>s with one <foreign>tūṇi</foreign> of paddy, seven sixteenth on the western boundary of the sixth irrigation canal; for Nampi performing the <foreign>abhiṣeka</foreign>, the land placed for one <foreign>patakku</foreign> of paddy everyday <supplied reason="subaudible">is</supplied> three <foreign>mā</foreign>s and three <foreign>kāṇi</foreign>s to the east; for six men <supplied reason="explanation"><foreign>āḷ</foreign></supplied> with drums <supplied reason="explanation"><foreign>uvaiccu</foreign></supplied>, the land placed is one <foreign>muntirikai</foreign>, one <foreign>kāṇi</foreign> and eight <foreign>mā</foreign>s on the western boundary of the seventh irrigation canal; one eighth of land on the eastern boundary with this for the existence <supplied reason="explanation"><foreign>uṟukku</foreign>?</supplied> of a holy garden <supplied reason="explanation"><foreign>tirunantavāṉam</foreign></supplied>; one <foreign>mā</foreign> of land to the east which joins with this one <foreign>mā</foreign> of dry land to the east of this, the land for those of the assembly <supplied reason="explanation"><foreign>paruṣaiyārkku</foreign></supplied> who enter <supplied reason="explanation"><foreign>pukku</foreign></supplied> <supplied reason="subaudible">?</supplied>, one <foreign>muntirikai</foreign> and half a <foreign>kāṇi</foreign> and a <foreign>kāṇi</foreign>, one <foreign>mā</foreign> of land joining with one <gap reason="lost" extent="unknown" unit="character"/> of the temple manager <supplied reason="explanation"><foreign>kaṇkāṇi</foreign></supplied>, for the temple manager <supplied reason="explanation"><foreign>kaṇkāṇikku</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/></p></div>
+
+<div type="commentary">
+
+</div>
+
+<div type="bibliography">
+
+	<p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
+	<p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+	<p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+
+	<listBibl type="primary">
+		<bibl>
+			<ptr target="bib:Gillet2023_01"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>
+	</listBibl>
+
+	<listBibl type="secondary">
+		<bibl>
+			<ptr target="bib:ARIE1928-1929"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="appendix"> B/1928-1929</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>
+	</listBibl>
+
+</div>
+
+	</body>
+</text>
+</TEI>

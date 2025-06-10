@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Govindapputtūr, Gaṅgājaṭādhara temple, time of ***, year **</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:vagi">
+				 <forename>Valérie</forename>
+						<surname>Gillet</surname>
+			 </persName>
+			 <persName ref="part:emfr">
+				<forename>Emmanuel</forename>
+				 <surname>Francis</surname>
+			 </persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu30012</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary><p>#12. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 164; SII 19, no, 357 (lines 41–83); c) personally located; d) begins on the northernmost wall section of the western façade and continues below on the base (lines 1–36); continues on the lowest part of the base of the southern side of the western façade and of the western side of the southern façade (lines 37–42); e) probably regnal year 7 of Rājarājadevar; f) Rājarāja I (<foreign>circa</foreign> 992 C.E.); g) this inscription provides the details of items given to the temple following the donation of Neṭuvāyil recorded in #11. It was considered by SII 19 as the same inscription than #11, but the mention of the 7th year of Rājarāja I in the inscription precludes to consider them as a single record, even if they are related; this is confirmed by the script which is different; the first number of the lines in this edition corresponds to this individual inscription while the second corresponds to the line numbering of the edition in SII 19; I do not provide a translation here because Orr (2000: 117–118) already did.</p>
+
+</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+
+<p>
+<lb n="1/41"/>Ineṭuvāyilum neṭuvāyil cuṟṟiṉa paṭākai
+<lb n="2/42"/>kaḷum mittevakku Iṟukka kaṭava Iṟai I<hi rend="grantha">śrī</hi> koyiṟkāl Ūrkkāl paḻuvūr nakkaṉṉāl
+<lb n="3/43"/>tirumuṟṟattu Aḷakkakaṭa<unclear>va</unclear> nellu vālli ne <gap reason="lost" quantity="1" unit="character"/> kaṟ <gap reason="lost" quantity="3" unit="character"/> <unclear>ṟ</unclear>cettal nikki kūṭṭal <unclear>vetu</unclear>m pāta
+<lb n="4/44"/><unclear>ṉ</unclear> Aṭṭakava nellu Āyirakkalammu tuḷai kaḻaiñ<unclear>cu</unclear> <gap reason="lost" quantity="1" unit="character"/> <choice><unclear>po</unclear><unclear>ṉa</unclear></choice>tta poṉ kācu niṟaikkal<unclear>lā</unclear>[[l]]
+<lb n="5/45"/>poṉ nuṟṟu kaḻaicum taṟipuṭavai Oṉṟu kālp poṉ peṟuvaṉa p<unclear>u</unclear>ṭavai paṉniraṇṭum
+<lb n="6/46"/>neyi Eṇṇai mukkalam ko<unclear>llar</unclear> U<unclear>laip</unclear>pāṭṭam <choice><unclear>I</unclear><unclear>o ru pu</unclear></choice> Āya<unclear>r</unclear>ppalam neṭuvāyil vata <gap reason="lost" quantity="1" unit="character"/> A<choice><unclear>ṭu</unclear><unclear>I</unclear></choice>ttu
+<lb n="7/47"/>kku <unclear>ni</unclear><hi rend="grantha">bedha</hi> ceyitapaṭi civayo<hi rend="grantha">gi brāhma</hi>ṇa<unclear>r</unclear> <unclear>mu</unclear>ppatiṉ<unclear>marum</unclear> <unclear><hi rend="grantha">brā</hi></unclear>[[<hi rend="grantha">hma</hi>]]<unclear>ṇar</unclear> I<unclear>ru</unclear>patiṉ marum Āka <unclear>Ai</unclear>ypatiṉma<unclear>ṟ</unclear>kku Oruvaṉukku nica
+<lb n="8/48"/>tam Arici Irunāḻiyāka Irunāḻikku nellu Aināḻiyāka Aim[[p]]patiṉmaṟku nicatam nellu <unclear>Iru</unclear>kalaṉe Eḻuku[[ṟuṇi]] Iru nāḻi
+<lb n="9/49"/><note>The is a line engraved on the pilaster between the lines 50 and 51:<hi rend="grantha">brāmaṇar ˚irupatu</hi></note> yum neyamuṉṉāḻi Āḻākkukku <unclear>ney</unclear> nāḻikku <unclear>ne</unclear>llu tūṇiyā[[ka Im]]muṉṉāḻi Āḻākkukku nicatam nellu [[kala]]ṉe n[[ā]]
+<lb n="10/50"/>ṉāḻiyum ta<unclear>ṟi</unclear>kku nellu tūṇiyam [[puḷi]]<unclear>ṅkaṟiya</unclear>ṭa<unclear>mo</unclear>rukku nellu kuṟuṇiyu<unclear>m</unclear> Aṭṭiyu<unclear>ṇṇa</unclear>morukku nellu [[pa]]takku
+<lb n="11/51"/><note>First line on the ledge. The others continue below.</note> U[[ppa]] <unclear>nā</unclear>ḻikku nellu nāḻi Uḻakkāka Uppu Aiynāḻikku nellu Aṟunāḻi Uḻakkum veṟṟillaip paṟṟu Oṉṟiṉukku <unclear>ne</unclear>l
+<lb n="12/52"/>[[lu]] Irunāḻi<unclear>yāka veṟṟillai</unclear>p paṟṟu [[muṉ]]<unclear>ṟi</unclear>[[ṉu]]kku nellu Aṟu[[nā]]<unclear>ḻi</unclear>[[yum]]<unclear>veṟuṅkkāy</unclear> nāḻi <unclear>nellu</unclear>kku patakāka veṟuṅkāy nāṟukku nel
+<lb n="13/53"/>lu <unclear>patiṉ</unclear> nāḻiy<unclear>um</unclear> [[āka nicatam]] <unclear>nellu</unclear> [[nāṟkalaṉe nāṟkalaṉe Ai]]y kuṟu<unclear>ṇi</unclear> [[nāṉāḻi Uḻakkāka Orāṭṭaināḷi]]kku nellu Āyirattaṟu nūṟṟu Ai
+<lb n="14/54"/><unclear>kalaṉe</unclear> Iru tūṇi mu<unclear>kku</unclear>[[ṟu]]<unclear>ṇi</unclear> Irunāḻiya<unclear>m</unclear> viṟakiṭuvāṉ ṉoruva[[ṉu]]kku nicatam ne[[l]]lukku [[kuṟuṇiyum Aṭuvāṉ ṉoruvaṉukku]] nicatam nelluk kuṟu[[ṇi]]
+<lb n="15/55"/>yum Āka nicatam nellu patakkāka Orāṭṭai nāḷaikku nellu Aṟupatiṉ kala[[mum]] <unclear>Ivi</unclear>[[ruvaṟ]]<unclear>ku</unclear>[[m]] [[pu]]<unclear>ṭavai</unclear> mutal <unclear>Oruva</unclear>ṉukku Oru kācukku ne<unclear>llu</unclear>
+<lb n="16/56"/>patiṉ kalammāka Iruvaṟkkum kāciraṇṭiṉ<unclear>āl</unclear> [[<unclear>ne</unclear>l]lu I[[ru]]patiṉ kalammu civayo<hi rend="grantha">gi brāhma</hi>ṇar mupatiṉmarum <hi rend="grantha">brahma</hi>ṇaṟ Irupatiṉmaru
+<lb n="17/57"/>Āka Aippatiṉvaṟku caṉivāram <unclear>Eṇṇai</unclear> [[nāḻi u]]riyum <unclear>A</unclear>yaṉavāram Eṇṇai nāḻi Uriyum Eṇṇai nāḻikku nellu tūṇiyāka
+<lb n="18/58"/>Orāṭṭai nāḷaikku Eṇṇai kalaṉe Iru tūṇi <unclear>Iru</unclear>[[nā]]ḻikku nellu Aiyppattu nāṟkalamum nicatam payaṟu kuṟuṇi n<unclear>ā</unclear>ḻiḻiyā
+<lb n="19/59"/><unclear>ka</unclear> <gap reason="lost" quantity="2" unit="character"/> <unclear>nāḻi</unclear>kku nellu ˚ irunāḻiyāka <gap reason="lost" quantity="3" unit="character"/> nā<unclear>ṉe</unclear>kku payaṟu <gap reason="lost" quantity="1" unit="character"/> la <gap reason="lost" quantity="1" unit="character"/> ta <gap reason="lost" quantity="2" unit="character"/> yak <gap reason="lost" quantity="1" unit="character"/> mamāka kācu Oṉṟuku <gap reason="lost" quantity="1" unit="character"/> yaṟu Aiy
+<lb n="20/60"/>kalammāka <unclear>payaṟu</unclear> <gap reason="lost" quantity="6" unit="character"/> [[kalanellu]] <unclear>toṇṇū</unclear>[[ṟṟu] kala kācu Oṉṟukku nellu [[patak]] <gap reason="lost" quantity="3" unit="character"/> <unclear>mā</unclear>ka [[Iru]]<unclear>nellukku</unclear> [[kācu Oṉṟu]] <unclear> <gap reason="lost" quantity="2" unit="character"/> </unclear>
+<lb n="21/61"/><note>Lines 21 and 22, at the level of the sculpted panels, are misplaced in SII, where they appear as lines 75 and 76.</note> caṟka<unclear>rai</unclear> nicatam [[Aim]]palam Āka Orāṭṭai nāḷaikku niṟai patiṉṉeṭṭu <unclear>kācu</unclear> Oṉṟukku [[ni]]ṟai paṉniraṇṭāka niṟai patiṉṉeṭ
+<lb n="22/62"/>[[ciṉ]]nāl kācu O<unclear>ṉṟa</unclear>raiyu nicatam <unclear>puḷi</unclear> [[Irunāḻiyāka]] Orāṭṭai <unclear>nāḷaikku</unclear> <unclear>E</unclear>ḻunūṟṟu [[Iru]]patiṉ nāḻiyiṉāl kācu Oṉṟu[[m]]
+<lb n="23/63"/><note>On the ledge under the miniature panels.</note> <unclear>nicatam</unclear> miḷaku <unclear>U</unclear>ḻakk[[aria]] <unclear>kaṭuku</unclear> <gap reason="lost" quantity="7" unit="character"/> <unclear>kkāka</unclear> Orāṭṭai nāḷaikku Irukalaṉe tūṇi <unclear>Oru</unclear>nāḻikku kācu mu[[ṉṟum]] nicatam cirakam Orupiṭiyāka Orā
+<lb n="24/64"/><note>On the round part of the base.</note> ṭṭai nāḷaikku patakku Aṟunāḻi Uriyu peruṅkāyam nicatam <unclear>Arai</unclear>[[kka]]<unclear>ḻai</unclear>ntāka orāṭṭai nāḷaikku <unclear>nū</unclear>ṟṟu <unclear>Eṇpa</unclear>ti ḻantiṉnāl kācu Onṟum Ākā kā<unclear>cu</unclear>
+<lb n="25/65"/>patiṉ Aintaraikkum kācu Oṉṟukku nellu patiṉ kalam Āka nel[[lu nūṟ]]ṟu Aiypattu Aiy kalattāl n<unclear>ta</unclear>vā<unclear>ṉa</unclear>kaṭa<choice><unclear>ṉai</unclear><unclear>ḷai</unclear></choice> <unclear>kā</unclear>cil niṅku kācu patiṉ Ain<unclear>tu</unclear>
+<lb n="26/66"/>cālaitukuttu meḻuki piṇṭi Aṭṭuvāḷ ḷoruttikku ni<unclear>ca</unclear>tam nellu Iru nāḻiyāka Orāṭṭai nākku nellu <unclear>E</unclear>ḻukalane tūṇi putakku <unclear>E</unclear>ccil E
+<lb n="27/67"/><note>On the lowest part (lotus part) of the base.</note> ṭuttu Eccilama<unclear>ṇ</unclear>ṭalam ceytu kalam cāmpal <unclear>I</unclear>[[ṭu]]vāḷ Oruttikku nicatam nellu puṭavai mul Eṟṟi nāṉāyāl Orāṭṭai nā[[ḷai]]kku [[nel]]
+<lb n="28/68"/>lu pati[[ṅ]]kalam ti[[ru]]ppatiyam viṇappam ceyvār Oruvaṟku puṭavai mutal Uḷpaṭa nicatam nellu patakku nāṉāḻiyāka Orāṭṭai n<unclear>ā</unclear>ḷaikku ne
+<lb n="29/69"/>llu Eḻupattaiṅkalam kopurattu meykāpp<unclear>ā</unclear>ṉ no<unclear>ru</unclear>vaṉ Ivaṉṉe cālai Uṇ veṇkalan<unclear>nū</unclear>ṟum Eṇṇi pukuvikkavu potavaippikkavu kaṭa
+<lb n="30/70"/><unclear>vā</unclear> Āka puṭavai mutal Uḷpaṭa nicatam nellu kuṟuṇi Iru ḻiyāka Orāṭṭai nāḷaikku nellu mupattu Eḻu kalaṉe tūṇip <unclear>pa</unclear>takku cālaikku kalam I
+<lb n="31/71"/>ṭu ku<unclear>ca</unclear>va<unclear>ṉ</unclear> noruvaṉuku nicatam nellu Iru nāḻiyāka Orāṭṭai nāḷaikku nellu Eḻukalaṉe tūṇip patakkum coti<unclear>vi</unclear> colluvāṉ Irupat[[t]]e
+<lb n="32/72"/>ḻu nāḷ<unclear>u</unclear>k k<unclear>ū</unclear>ṟṟu Ol<unclear>ai</unclear> karpurattu [[tūkka]] <unclear>ni</unclear>catam nellu ku[[˚ruṇi]]yāka Orāṭṭai nāḷai nellu mupati[[ṉ ka]]lamum Uttamā<hi rend="grantha">gra</hi>ttil Uṇṇu <hi rend="grantha">brahma</hi><unclear>ṇa</unclear>rkku
+<lb n="33/73"/><unclear>A<hi rend="grantha">dhya</hi>yyam ceyvar</unclear> <gap reason="lost" quantity="2" unit="character"/> [[koḷḷum <hi rend="grantha">brāhma</hi>ṇaṉ O]ruvaṉukku nicatam nellu kuṟuṇiyāka Orāṭ[[ṭai]] <unclear>nā</unclear>kku nellu mupatiṉ <unclear>ka</unclear>lamum Ivaṉukke<unclear>y</unclear> [[pu]]
+<lb n="34/74"/><unclear>ṭavai mul</unclear> kā<unclear>cu</unclear>[[caraiyāl nellu Ai]]<unclear>ykalamu</unclear>m [[Uttamā]]<hi rend="grantha">gra</hi>ttu Uṇṇu[[m]] <hi rend="grantha">brāhma</hi>ṇa civayo[[<hi rend="grantha">gi</hi>]]kaḷum <hi rend="grantha">brāhma</hi>ṇakku[[ma<hi rend="grantha">gra</hi>]]ttu[[ku]] <unclear>canta</unclear>ṉattukku
+<lb n="35/75"/>kācu A[[raiyāl]] <unclear>nellu</unclear> [[Aikalamum Iru<hi rend="grantha">śrī beli</hi>kku <hi rend="grantha">beli</hi> A]]rici nāḻi[[yāl]] nicatam [[nellu I]]runāḻi<unclear>yā</unclear>ka Orāṭ[[ṭai nāḷaikku nellu E]]
+<lb n="36/76"/><note>Last line on the lotus on this side of the base.</note> ḻu<unclear>ka</unclear>laṉe <unclear>tū</unclear>[[ṇip patakku]] <gap reason="lost" quantity="1" unit="character"/> 
+<lb n="37/77"/><note>From this line, the inscription is on the southern side of the western base (on the lotus part) and continues on the western side of the southern base. A sign // marks the change from the western face to the southern face. I wonder if ARE 1928–29, no. 184 or ARE 1928–29, no. 186, that I could not located, do not refer to this inscription since they are dated to the 7th regnal year of Rājarāja.</note> I<hi rend="grantha">brahma</hi>teyam ceta periyat<unclear>e</unclear>var I<hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi>yamaṅkalatevarkku tiruvuṇṇaḻikaip puṟam Āka Iṟai Ili kuṭutta paṅ ‡ ku <unclear>E</unclear>ṭṭiṉa nāllu <hi rend="grantha">śrī </hi>Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi><note>The<hi rend="grantha">ja</hi> was initially forgotten and added above.</note>tevarku yāṇṭu Eḻāvatu mutal I<hi rend="grantha">śrī </hi>v<unclear>i</unclear>māṅ kal <gap reason="lost" quantity="1" unit="character"/> <unclear>ā</unclear> Eḻuntaruḷuvitta Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi> ppalla A<unclear>rai</unclear>[[ya]]
+<lb n="38/78"/> <gap reason="lost" quantity="1" unit="character"/> ṉṉe Ippaṅku Eṭṭiṉnālu ceyyum paṭi māṟṟu kalli veṭṭiṉapaṭi tirutarici po<unclear>tu</unclear> nāṉāḻiyāka mūṉṟu potaikku nicatam Arici kuṟu nāṉā ‡ ḻi<unclear>yā</unclear>[[l]] [[A]]ntiraṇṭu vaṇṇattāl nellu mukkuṟuṇi Aṟu nāḻiyum neyamutu potoru pi<unclear>ṭi</unclear>yāka muṉṟu potaikku neyamutu Āḻākke Orupiṭi
+<lb n="39/79"/>kku nāḻikku nellu tūṇiyāka ney Aḻākke Oru piṭikku nicatam nellu Aṟu nāḻiyam porikkaṟiyamutu muṉṟu [[po]]taikku nicatam nel<unclear>lu</unclear> ‡ I<unclear>ru</unclear> nāḻi [[Uriy Aṭaik]]kāyamutu potu nālāka muṉṟu potaikku pākku paṉniraṇṭum veṟṟilaikku nicatam nellu muṉṉāḻiyum tayir Amutu po
+<lb n="40/80"/>tu Uriyāka muṉṟu potukku tayir nāḻi Urikku nicatam nellu mūṉnāḻi muḻākkum nontāviḷakku Aintukku viḷakkoṉṟu<unclear>mū</unclear> <unclear>neyi Uk</unclear>[[kāka]] vi ‡ [[ḷakku Ai]]ntukku nicatam ney nāḻi <unclear>U</unclear>kkāka ney nāḻikku nellu tūṇiyāka ney nāḻi Uḻakuku nicatam nellu Aṅkuṟuṇiyum nilamā<unclear>li</unclear> <gap reason="lost" quantity="1" unit="character"/> ni
+<lb n="41/81"/>r poka Aṭṭuvāṉṉukku ni<unclear>ca</unclear>ta nellu Irunāḻiy uḻakkum kaṇakkeḻutuvāṉṉukku nicatam nellu nāṉāḻiyum Irā <unclear>śrī</unclear><hi rend="grantha">be</hi><unclear><hi rend="grantha">li</hi></unclear> viḷakku I<unclear>raṇ</unclear> ‡ <unclear>ṭu</unclear>kku Eṇṇai <unclear>Ā</unclear>ḻ<unclear>āk</unclear>ke <unclear>Oru</unclear> piṭikku E<unclear>ṇṇai</unclear> nāḻikku nellu tūṇiyāka <unclear>E</unclear>ṇṇai Ā<unclear>ḻā</unclear>kke Oru [[piṭi]]kku nicatam nellu Aṟu nāḻiy<unclear>u</unclear>m Āka nicatam
+<lb n="42/82"/>{space} nellun kalaṉey Oru nāḻi Uri[[yāka]] O[[rā]]ṭṭai nāḷaikku nellu muṉnūṟṟu Aṟupattu Aiy kalaṉey Eḻu kuṟuṇi nāṉāḻiy<unclear>u</unclear>m Aṟama ‡ ṟa [[vel]kka [[Aṟammalla]]tu tuṇaiyil<unclear>lai</unclear> Iv<unclear>ai</unclear> paṉ<hi rend="grantha">māhāheśva</hi>ra ra<hi rend="grantha">kṣai</hi>
+</p>
+
+</div>
+
+<div type="apparatus">
+
+</div>
+
+<div type="translation" source="bib:Gillet2023_01">
+
+</div>
+
+<div type="commentary">
+
+</div>
+
+<div type="bibliography">
+
+	<p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
+	<p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+	<p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+
+	<listBibl type="primary">
+		<bibl>
+			<ptr target="bib:Gillet2023_01"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>
+	</listBibl>
+
+	<listBibl type="secondary">
+		<bibl>
+			<ptr target="bib:ARIE1928-1929"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="appendix"> B/1928-1929</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>
+	</listBibl>
+
+</div>
+
+	</body>
+</text>
+</TEI>

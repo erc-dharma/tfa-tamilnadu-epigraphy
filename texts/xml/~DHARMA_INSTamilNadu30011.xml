@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Govindapputtūr, Gaṅgājaṭādhara temple, time of ***, year **</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:vagi">
+				 <forename>Valérie</forename>
+						<surname>Gillet</surname>
+			 </persName>
+			 <persName ref="part:emfr">
+				<forename>Emmanuel</forename>
+				 <surname>Francis</surname>
+			 </persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu30011</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary><p>#11. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 164 (+ part 2, para 28, p. 74); SII 19, no, 357; SII 32, part 2, no. 138; c) personally located; d) begins on the westernmost wall section of the northern façade and continues on the northernmost wall section of the western façade; e) Regnal year 14 of Kōpparakesarivarman; f) Uttamacōḻa (<foreign>circa</foreign> 985 C.E.); g) the translation of this inscription is given above pp. XXX.</p>
+
+</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+
+<p>
+<lb n="1"/>|||<hi rend="grantha">svasti śrī</hi> || <hi rend="grantha">kuvalāla</hi>-<hi rend="grantha">samudbhavaḥ</hi> <hi rend="grantha">su</hi>-<hi rend="grantha">kī</hi><unclear><hi rend="grantha">r</hi></unclear><hi rend="grantha">tti</hi>-
+<lb n="2"/><hi rend="grantha">pa</hi>ḻuvūr-<hi rend="grantha">na</hi><unclear>k</unclear>ka <hi rend="grantha">Iti</hi> <hi rend="grantha">pratīta</hi>-<hi rend="grantha">nāmā</hi> <hi rend="grantha">muravairīva</hi> <unclear><hi rend="grantha">vira</hi></unclear>
+<lb n="3"/><hi rend="grantha">jaḥ</hi><note>Swaminathan (SII 32) reads <unclear>khya</unclear>ḥ.</note> <hi rend="grantha">jāta</hi>-<hi rend="grantha">varṇṇa</hi>-<unclear><hi rend="grantha">pra</hi></unclear><hi rend="grantha">varo</hi> <hi rend="grantha">va</hi><note>SII reads<hi rend="grantha">sa</hi> but clearly it is not.</note><hi rend="grantha">ṃśa</hi>-<hi rend="grantha">karaḥ</hi> <hi rend="grantha">sam</hi>-<hi rend="grantha">āvirāsīt</hi> <unclear>||</unclear>
+<lb n="4"/><hi rend="grantha">yam artthinas tyāga</hi><note>SII reads<hi rend="grantha">ya</hi>.</note><hi rend="grantha">m upātta-v</hi><unclear><hi rend="grantha">i</hi></unclear><hi rend="grantha">graham dvi</hi><note>SII reads<hi rend="grantha">bi</hi>.</note><hi rend="grantha">ṣat-janāḥ </hi><unclear><hi rend="grantha">śau</hi></unclear>
+<lb n="5"/><unclear><hi rend="grantha">r</hi></unclear><hi rend="grantha">yya-guṇaṃ śarīriṇam Anaṃgam aṃgānvayinam mṛgekṣa</hi><unclear><hi rend="grantha">ṇā</hi></unclear>
+<lb n="6"/><hi rend="grantha">vida</hi><unclear><hi rend="grantha">n</hi></unclear><hi rend="grantha">ti dhar</hi><unclear><hi rend="grantha">m</hi></unclear><hi rend="grantha">maṃ satan</hi><unclear><hi rend="grantha">u</hi></unclear><hi rend="grantha">m vipaścitaḥ</hi> ||| – <hi rend="grantha">soyaṃ sva-vikramā</hi><unclear><hi rend="grantha">pta</hi></unclear>-
+<lb n="7"/><hi rend="grantha">khilārṇṇavāṃbarākara-grahād vīryya-toṣitād v</hi><unclear><hi rend="grantha">i</hi></unclear><hi rend="grantha">krama-coḷa-nṛpāl la-</hi>
+<lb n="8"/><hi rend="grantha">bdha-vikrama-coḷa-mahārājābhidho ‘sya rājñaś catu</hi><unclear><hi rend="grantha">r</hi></unclear><hi rend="grantha">daśe varṣe maha-</hi>
+<lb n="9"/><hi rend="grantha">ti śrī-vānavan-mahādevy-agrahare śrī-vijayamaṃgale vasataḥ śa-</hi>
+<lb n="10"/><hi rend="grantha">mbhoḥ mandiraṃ śilā-mayam vidhāyāsyaiva grāmasya svabh</hi><unclear><hi rend="grantha">ū</hi></unclear><hi rend="grantha">tāṃ ne-</hi>
+<lb n="11"/><hi rend="grantha">ṭuvāyil-nāma-grāmaṭikām mahāparṣadaḥ krītvā sva-vitta-dānād aka-</hi>
+<lb n="12"/><hi rend="grantha">rāñ-ca kṛtvā tasyaiva śaṃbhor ā-śaśāṃka-sthiter arccanotsavādy-arttha-</hi>
+<lb n="13"/><hi rend="grantha">m prādāt</hi> || – kopparake<hi rend="grantha">sa</hi>ripa<hi rend="grantha">nma</hi>kku yāṇṭu 14 Āvatu Uṭaiy
+<lb n="14"/>ār peru<unclear>ṉ</unclear>tiṟattu kuvalālam uṭaiyāṉ Ampalavan paḻuvūr
+<lb n="15"/>nakkaṉāṉa vi<hi rend="grantha">krama</hi>coḻa <hi rend="grantha">mahārāja</hi>neṉ vaṭa ka<unclear>r</unclear>ai <hi rend="grantha">brahmade</hi>ya
+<lb n="16"/>m periya <unclear><hi rend="grantha">śrī</hi></unclear> vanavaṉ <hi rend="grantha">mahāde</hi>vi<unclear>catu<hi rend="grantha">vvedi</hi></unclear>maṅ<unclear>ka</unclear>lattu <hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi>yamaṅkala<unclear>t</unclear>
+<lb n="17"/>tu<hi rend="grantha">mahāde</hi>var <hi rend="grantha">śrī</hi> vimāṉam kallāl Eḻuṉtaruḷuvittu I<hi rend="grantha">de</hi>vark<unclear>ku</unclear>t ti
+<lb n="18"/>ruvamitukkum tiruviḷakkukkum<hi rend="grantha">śrī bali</hi>kkum tirumeypūccukkum tiruppūkaik
+<lb n="19"/>kum tirunaṉtavānappuṟattukkum tiruviḻāvukkum<hi rend="grantha">snapa</hi>ṉaṅkaḷukkum maṟṟum
+<lb n="20"/>I<hi rend="grantha">de</hi>varkku veṇṭum Ārātiṉaikaḷ Eppeṟpaṭṭaṉa Avaiccukkum Uttama <unclear>I</unclear> <gap reason="lost" quantity="1" unit="character"/> <note><p>This<hi rend="grantha">uttama X X</hi> (SII reads <hi rend="grantha">gram</hi> after uttama but I am not sure it is right) is written in smaller letters and may be connected to the following few lines engraved on the pilaster:</p><p>yo<hi rend="grantha">gi</hi> kalamupatu</p><p>˚iccivayo<hi rend="grantha">gi</hi></p><p><hi rend="grantha">brāhma</hi>ṇāvo X</p><p>vallor<unclear>i</unclear> ˚a<unclear>puvi</unclear></p><p>{unlegible}</p></note> 
+<lb n="21"/><note>There are a few words added on the pilaster before the line: ˚aka X na // X X X</note> mākaṉāṉ kuṭutta Ū<unclear>r</unclear>āva<unclear>tu</unclear> Ipperiya <hi rend="grantha">śrī</hi> vānavaṉ <hi rend="grantha">mahāde</hi>vi<hi rend="grantha">ca</hi>tu<hi rend="grantha">rvvedi</hi>ma
+<lb n="22"/><note>First line of the northernmost wall section of the western façade.</note> ṅkalattu vaṭapiṭākai neṭuvāyilum
+<lb n="23"/>Itu <gap reason="lost" quantity="1" unit="character"/> ppaṭu<note>SII reads<hi rend="grantha">ca</hi> instead of <hi rend="grantha">ṭu</hi>.</note>m Ūrtāmaraiṉal
+<lb n="24"/>Ārum tiruccen<unclear>i</unclear>valamum ma<unclear>ṇ</unclear>kulakku
+<lb n="25"/>ṟucciyum Uḷppaṭa Ineṭuvāyil vaḷai
+<lb n="26"/>yilc cuṟṟumuṟṟum Ivūr ni <gap reason="lost" quantity="1" unit="character"/> <unclear>i</unclear> la <gap reason="lost" quantity="1" unit="character"/> m paṉ
+<lb n="27"/>ceyūm meṉceyum menokk[[i]]na maramum [[ki]]<unclear>ḻ</unclear>
+<lb n="28"/>ṉokkina kiṇaṟum kuḷamum koṭṭakamum paṟṟum teṟṟiyu <gap reason="lost" quantity="1" unit="character"/> 
+<lb n="29"/>ṟṟum Uṭumpoṭi Āmaitavaḻṇtatu Eppeṟppaṭa
+<lb n="30"/>tum Ivūr Ilaikkalam<unclear>u</unclear>m ta<unclear>ṟi</unclear>ppuṭavaiyum kaṇ
+<lb n="31"/>ṇālak [[kā]]ṇamum [[i]]<unclear>kāṟ</unclear>ppāṭṭamum Ulaiyam Ulaippāṭṭamum
+<lb n="32"/>Uḷppa Ivū<unclear>r</unclear> vaḷaiyilc cuṟṟumuṟṟum I<unclear>p</unclear>periya<hi rend="grantha">śrī </hi>vānavaṉ
+<lb n="33"/><hi rend="grantha">mahāde</hi>[[vi]]<unclear><hi rend="grantha">cca</hi></unclear>tu<hi rend="grantha">vve</hi>timaṅkalattu peruṅkuṟip peru<hi rend="grantha">ma</hi>kkaḷ [[pa]]kkal vilai
+<lb n="34"/>koṇṭu Uṭaiyeṉṉā Im<hi rend="grantha">mahāsabhai</hi>yārkke Eḻu<unclear>ṉūṟu</unclear> kācu ku<unclear>ṭu</unclear>
+<lb n="35"/>tta Iṟai Iḻicca Ipparicu Iṟai Iliyāka ṉān Uṭai En<unclear>ṉā</unclear>y Iru<unclear>ṉ</unclear>
+<lb n="36"/><note>There is a space between the lines 35 and 36. And the writing changes slightly. Is it the same inscription?</note> ta Ineṭuvāyil muṟṟum I <hi rend="grantha">śrī</hi> v<unclear>i</unclear><hi rend="grantha">ja</hi>yamaṅkalattu <hi rend="grantha">mahāde</hi>varkku mu
+<lb n="37"/>ṉ cuṭṭappaṭṭa Eppeṟppaṭṭa taruvārātiṉaikaḷukkum<hi rend="grantha">bhogamā</hi>kak kuṭutte
+<lb n="38"/>ṉ kuvalāḷamuṭaiyān Ampalavaṉ paḻuvūr nakkaṉāṉa vi<hi rend="grantha">kramaśo</hi>ḻa <hi rend="grantha">mahā</hi>
+<lb n="39"/><hi rend="grantha">rāj</hi><unclear>ā</unclear>naṉ Ivai pan<hi rend="grantha">mahā</hi> E[[śva]]ra ra<hi rend="grantha">kṣai</hi> Aṟamm aṟavekka Aṟamm allatu tuṇaiyilai
+<lb n="40"/>I<unclear>va</unclear> colla Eḻutinne Ivūr<hi rend="grantha">maddhastha</hi>n ninṟān Ārā Amutān vānavamātevip peruṅk<unclear>ā</unclear>
+<lb n="41"/>vitiy Ivai Enneḻuttu
+</p>
+
+</div>
+
+<div type="apparatus">
+
+</div>
+
+<div type="translation" source="bib:Gillet2023_01">
+
+</div>
+
+<div type="commentary">
+
+</div>
+
+<div type="bibliography">
+
+	<p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
+	<p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+	<p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+
+	<listBibl type="primary">
+		<bibl>
+			<ptr target="bib:Gillet2023_01"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>
+	</listBibl>
+
+	<listBibl type="secondary">
+		<bibl>
+			<ptr target="bib:ARIE1928-1929"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="appendix"> B/1928-1929</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>
+	</listBibl>
+
+</div>
+
+	</body>
+</text>
+</TEI>
