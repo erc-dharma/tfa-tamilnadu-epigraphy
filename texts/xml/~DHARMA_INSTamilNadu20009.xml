@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ambasamudram, *** temple, time of ***, year **</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:vagi">
+				 <forename>Valérie</forename>
+						<surname>Gillet</surname>
+			 </persName>
+			 <persName ref="part:emfr">
+				<forename>Emmanuel</forename>
+				 <surname>Francis</surname>
+			 </persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu20009</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary><p>#9. a) Tirumūlanātha temple; b) it was probably on the base of the <foreign>mukha-maṇḍapa</foreign> in front of the shrine sheltering Viṣṇu but I could not locate it; I have thus followed the previous edition; c) inscription not located personally, and therefore not photographed; no estampage was published; d) ARE 1907, no. 87; SII 14, no. 81, p. 51; IEP 95; e) dated with the 4th year opposite to the 4th year (i.e. 8th year) of the king Virapāṇḍya; f) some of the terms of this inscription were discussed on 25th August 2023 during a Dharma project workshop in Pondicherry, with G. Vijayavenugopal, Emmanuel Francis, Uthaya Velluppilai, T. Rajarethinam, R. Sathyanarayanan, M. Vigneshwaran, Dominic Goodall.</p>
+
+</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:vernacular">
+
+<p>
+<lb n="1"/><hi rend="grantha">svasti śrī</hi> coḻaṉṟalaikoṇṭa kovirapāṇṭiyaṟku yāṇṭu nālu i
+<lb n="2"/>taṉetir nālu ivvāṇṭu muḷḷināṭṭup pi<unclear>ṟa</unclear>mmateyam ilaṅ-
+<lb n="3"/>koykkuṭit tiruccālaittuṟai nīṉṟaruliṉa emperumāṉukku<hi rend="grantha">śrī</hi>
+<lb n="4"/>karaṇa tiruccittirakūṭattiruntu muppattiraṇṭu <unclear>ā</unclear>c
+<lb n="5"/>caium aiñcu vāramum oti tāṉam pukkār taṉu nāi<unclear>ṟ</unclear>ṟu co
+<lb n="6"/>ti nāḷ melaikaṭṭuṇpatāka veṇpuṇāṭṭu nālkūrt tiṇaikkaḷattāṉ
+<lb n="7"/>cāttaṉ vilaikoṇṭu cavaiyār iṟai kāṭṭāti<unclear>tāka</unclear> vaitta pūmi kiḻurkku-
+<lb n="8"/>ṇṭukaḷam canti<unclear>rā</unclear>tittaval niṟka nīroṭu aṭṭik kuṭuttatu
+</p>
+
+</div>
+
+<div type="apparatus">
+
+</div>
+
+<div type="translation" source="bib:Gillet2024_01">
+
+<p>Fortune! Prosperity! This is the fourth opposite to the fourth year of king <supplied reason="explanation"><foreign>kō</foreign></supplied> Vīrapāṇṭiyar who took the head of the Cōḻaṉ. In this year <supplied reason="explanation"><foreign>ivvāṇṭu</foreign></supplied>, for Emperumāṉ who graciously stands <supplied reason="explanation"><foreign>nīṉṟaruliṉa</foreign></supplied> in Tiruccālaittuṟai, in Iḷaṅkōykkuṭi, a <foreign>brahmadeya</foreign> in Muḷḷināṭu, to feed <supplied reason="explanation"><foreign>uṇpatāka</foreign></supplied> in the western <supplied reason="explanation"><foreign>mēlai</foreign></supplied> building <supplied reason="explanation"><foreign>kaṭṭu</foreign></supplied>, on the day <supplied reason="explanation"><foreign>nāḷ</foreign></supplied> of Cōti <supplied reason="explanation">the 15th Nakṣatra</supplied>, in the month <supplied reason="explanation"><foreign>nāiṟṟu</foreign></supplied> of Taṉu <supplied reason="explanation"><foreign>dhanus</foreign></supplied>, those who entered <supplied reason="explanation"><foreign>pukkār</foreign></supplied> the place <supplied reason="explanation"><foreign>tāṉam</foreign></supplied>, having recited <supplied reason="explanation"><foreign>ōti</foreign></supplied> the thirty-two <supplied reason="explanation"><foreign>muppattiraṇṭu</foreign></supplied> Vedic hymns <supplied reason="explanation"><foreign>āccaium</foreign> &gt; <foreign>accaiyum</foreign></supplied> and the five <supplied reason="explanation"><foreign>aiñcu</foreign></supplied> recitations <supplied reason="explanation"><foreign>vāram</foreign></supplied>, seated <supplied reason="explanation"><foreign>iruntu</foreign></supplied> in the holy <supplied reason="explanation"><foreign>śrī</foreign></supplied> hall <supplied reason="explanation"><foreign>karaṇa cittirakkūṭam</foreign></supplied>, Cāttaṉ, the accountant officer <supplied reason="explanation"><foreign>tiṇaikkaḷattāṉ</foreign></supplied> of Nālkūr in Veṇpunāṭu, bought <supplied reason="explanation"><foreign>vilaikoṇṭu</foreign></supplied> a land <supplied reason="explanation"><foreign>pūmi</foreign></supplied> in Kīḻūr Kuṇṭukaḷam and gave it <supplied reason="explanation"><foreign>vaitta</foreign></supplied> free of tax <supplied reason="explanation"><foreign>iṟai kāṭṭātitāka</foreign></supplied> to those of the Sabhā. For <supplied reason="subaudible">this donation</supplied> to stand <supplied reason="explanation"><foreign>niṟka</foreign></supplied> as long as the sun and the moon endure, he poured water <supplied reason="explanation"><foreign>nīroṭu aṭṭi</foreign></supplied> and gave it <supplied reason="explanation"><foreign>kuṭuttatu</foreign></supplied>.</p></div>
+
+<div type="commentary">
+
+</div>
+
+<div type="bibliography">
+
+	<!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+	<p>This edition by Valérie Gillet and Emmanuel Francis, based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>
+
+	<listBibl type="primary">
+	</listBibl>
+
+	<listBibl type="secondary">
+		<!--<bibl>
+			<ptr target="bib:ARIE****-****"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="appendix">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>-->
+	</listBibl>
+
+</div>
+
+	</body>
+</text>
+</TEI>

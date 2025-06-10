@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ambasamudram, *** temple, time of ***, year **</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:vagi">
+				 <forename>Valérie</forename>
+						<surname>Gillet</surname>
+			 </persName>
+			 <persName ref="part:emfr">
+				<forename>Emmanuel</forename>
+				 <surname>Francis</surname>
+			 </persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu20007</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary><p>#7 (Fig. 20). a) Tirumūlanātha temple; b) on a stela set outside the entrance, today almost entirely defaced: I had to rely on the previous editions, which I followed here; c) personally accessed and photographed in 2022; d) ARE 1907, no. 89; SII 14, no. 27, pp. 23–24; IEP 22; e) dated with a lost regnal year of Māṟañcaṭaiyaṉ.</p>
+
+</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:vernacular">
+
+<p>
+<lb n="1"/><hi rend="grantha">svasti śrī</hi> komāṟa
+<lb n="2"/>ñcaṭaiyaṟku yāṇ
+<lb n="3"/>ṭu . . . ivvāṇṭu maka
+<lb n="4"/>ra ñāyiṟ<unclear>ṟu</unclear> veṇpaikkuṭi
+<lb n="5"/>nāṭṭu iḷaveṇpaikaṭatti
+<lb n="6"/>rukkaik kāvati<unclear>yār</unclear> muḷḷināṭṭu
+<lb n="7"/>iḷaṅkoykkuṭi tiruccālait
+<lb n="8"/>tuṟai niṉṟaruḷiṉa perumāṉa
+<lb n="9"/>ṭikaḷukku nontāviḷakku o
+<lb n="10"/>ṉṟiṉukku nicatam ney urikku
+<lb n="11"/>mutal keṭāmaip poliūṭ
+<lb n="12"/>ṭu koṇṭu eṉṉum eṟṟik kā
+<lb n="13"/>ṇamuṅ kuttukkāṟpaṭāmaic
+<lb n="14"/>celuttuvatāka iḷaṅko
+<lb n="15"/>ykkuṭic cavaiyār kaiy
+<lb n="16"/>yil kuṭutta niṟai kuṟaiyār
+<lb n="17"/>taṉ paḻaṅkācu patiṉain
+<lb n="18"/>tu tiruccālaittuṟait ti
+<lb n="19"/>rumulattāṉattup paṭārar
+<lb n="20"/>kku tirunantā viḷakku
+<lb n="21"/>oṉṟiṉukku niyati ne
+<lb n="22"/>y uri āka meṟppaṭi
+<lb n="23"/>celuttuvatāka meṟpa
+<lb n="24"/>ṭi kuṭutta niṟai kuṟaiyā
+<lb n="25"/>ta<unclear>ṉ</unclear> paḻaṅkācu patiṉai
+<lb n="26"/>ntu eṟṟik kācu muppa
+<lb n="27"/>tu ikkāciṉāṟ <unclear>poli</unclear>
+<lb n="28"/>yālt tiṅkaḷ nāḻi ne
+<lb n="29"/>yyākak koṇṭu tirunantā
+<lb n="30"/>viḷakku iraṇṭiṉuk
+<lb n="31"/>kum niyata ney nā
+<lb n="32"/>ḻiyāka mutal keṭāmai
+<lb n="33"/>p poli ūṭṭukko
+<lb n="34"/>ṇṭu . . ikkā<unclear>ṇa</unclear>muṅ ku
+<lb n="35"/>ttukkāṟ paṭāmai ca
+<lb n="36"/>vaiyār kaṇkāṇiyākac
+<lb n="37"/>celuttuvatāka oṭṭi
+<lb n="38"/>ikkācu koṇṭom i
+<lb n="39"/>ḷaṅkoykkuṭi cavaiyo
+<lb n="40"/>m cavai paṇikka eḻuti
+<lb n="41"/>ṉeṉ
+</p>
+
+</div>
+
+<div type="apparatus">
+
+</div>
+
+<div type="translation" source="bib:Gillet2024_01">
+
+<p>Fortune! Prosperity! The <gap reason="lost" extent="unknown" unit="character"/> year of king <supplied reason="explanation">kō</supplied> Māṟañcaṭaiyaṉ. In this year <supplied reason="explanation"><foreign>ivvāṇṭu</foreign></supplied>, in the month of Makara, Kāvatiyār, resident of <supplied reason="explanation"><foreign>irukkai</foreign></supplied> Ilaveṇpaikaṭam in Veṇpaikkuṭināṭu, for Perumāṉaṭikaḷ who graciously stands <supplied reason="explanation"><foreign>niṉṟaruḷiṉa</foreign></supplied> in Tiruccālaittuṟai, in Iḷaṅkōykuṭi in Muḷḷināṭu, for one <foreign>uri</foreign> <supplied reason="explanation"><foreign>urikku</foreign></supplied> of ghee <supplied reason="explanation"><foreign>ney</foreign></supplied> everyday <supplied reason="explanation"><foreign>nicatam</foreign></supplied> for one <supplied reason="explanation"><foreign>oṉṟiṉukku</foreign></supplied> perpetual lamp <supplied reason="explanation"><foreign>nontāviḷakku</foreign></supplied>, with <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> the feeding <supplied reason="explanation"><foreign>ūṭṭu</foreign></supplied> of interests <supplied reason="explanation"><foreign>poli</foreign></supplied> without damaging <supplied reason="explanation"><foreign>keṭāmai</foreign></supplied> the capital <supplied reason="explanation"><foreign>mutal</foreign></supplied>, having added <supplied reason="explanation"><foreign>ēṟṟi</foreign></supplied> all <supplied reason="explanation"><foreign>eṉṉum</foreign></supplied>, he gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> fifteen old <foreign>kācu</foreign>s <supplied reason="explanation"><foreign>paḻaṅkācu</foreign></supplied> undiminished <supplied reason="explanation"><foreign>kuṟaiyār</foreign></supplied> in weight <supplied reason="explanation"><foreign>niṟai</foreign></supplied>, in the hands <supplied reason="explanation"><foreign>kaiyil</foreign></supplied> of the Sabhā of Iḷaṅkōykuṭi, so that they dispatch <supplied reason="explanation"><foreign>celuttuvatāka</foreign></supplied> the shares <supplied reason="explanation"><foreign>kāṇamum</foreign></supplied>, without leg piercing <supplied reason="explanation"><foreign>kuttukkāṟ paṭāmai</foreign></supplied> <supplied reason="subaudible">if one hurts his leg, he cannot work, i.e. without fail</supplied><note>See the parallel in the long Tiruccentūr inscription <supplied reason="explanation">EI 21, No. 17</supplied> of the same period:<foreign>ipparicu celuttātu kuttukkāṟpaṭil ittevarkkey irupattaiñcu kācu taṇṭamum paṭṭuc celuttātu viṭṭa mutaliraṭṭiyuṅ kuṭuppatu</foreign> <supplied reason="subaudible">lines 17-19</supplied> <supplied reason="explanation">in this manner (<foreign>ipparicu</foreign></supplied>, if one has a pierced leg <supplied reason="explanation"><foreign>kuttukkāṟpaṭil</foreign></supplied> and does not pay <supplied reason="explanation"><foreign>celuttātu</foreign></supplied>, the fine <supplied reason="explanation"><foreign>taṇṭamum</foreign></supplied> which occurs <supplied reason="explanation"><foreign>paṭṭu</foreign></supplied> is 25 <supplied reason="explanation"><foreign>irupattaiñcu</foreign></supplied><foreign> kācu</foreign> for this god <supplied reason="explanation"><foreign>ittevarkkey</foreign></supplied>, and the double of the capital <supplied reason="explanation"><foreign>mutal iraṭṭiyuṅ</foreign></supplied> has to be given <supplied reason="explanation"><foreign>kuṭuppatu</foreign></supplied>.)</note>; For Bhaṭārar of Tirumūlattāṉam of Tiruccālaittuṟai, for one perpetual lamp, to dispatch <supplied reason="explanation"><foreign>celuttuvatāka</foreign></supplied>, as per the order above <supplied reason="explanation"><foreign>mēṟppaṭi</foreign></supplied>, one <foreign>uri</foreign> of ghee every day, he gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied>, as stated above <supplied reason="explanation"><foreign>mēṟpaṭi</foreign></supplied>, thirty <supplied reason="explanation"><foreign>muppatu</foreign></supplied> <foreign>kācu</foreign>s added <supplied reason="explanation"><foreign>ēṟṟi</foreign></supplied> to the fifteenth old <foreign>kācu</foreign>s not deficient <supplied reason="explanation"><foreign>kuṟaiyātaṉ</foreign></supplied> in weight <supplied reason="explanation"><foreign>niṟai</foreign></supplied>. At the rate of <supplied reason="explanation"><foreign>āka</foreign></supplied> one <foreign>nāḻi</foreign> of ghee <supplied reason="explanation"><foreign>ney</foreign></supplied> monthly <supplied reason="explanation"><foreign>tiṅkaḷ</foreign></supplied> with the interests <supplied reason="explanation"><foreign>poliyāl</foreign></supplied> of these <foreign>kācu</foreign>s <supplied reason="explanation"><foreign>ikkāciṉāṟ</foreign></supplied>, at the rate of one <foreign>nāḻi</foreign> of ghee everyday <supplied reason="explanation"><foreign>niyata</foreign></supplied> for two <supplied reason="explanation"><foreign>iraṇṭiṉukku</foreign></supplied> perpetual lamps with the feeding of interests <supplied reason="explanation"><foreign>ūṭṭu</foreign></supplied> without destroying <supplied reason="explanation"><foreign>keṭāmai</foreign></supplied> the capital <gap reason="lost" extent="unknown" unit="character"/> having undertaken <supplied reason="explanation"><foreign>oṭṭi</foreign></supplied> to dispatch, as supervisor <supplied reason="explanation"><foreign>kaṇkāṇiyāka</foreign></supplied> of those of the Sabhā <supplied reason="explanation"><foreign>cavaiyār</foreign></supplied>, the shares <supplied reason="explanation"><foreign>kāṇamum</foreign></supplied> without leg piercing <supplied reason="explanation"><foreign>kuttukkāṟ paṭāmai</foreign></supplied>, we have taken <supplied reason="explanation"><foreign>koṇṭōm</foreign></supplied> these <foreign>kācu</foreign>s, we the Sabhā <supplied reason="explanation"><foreign>cavaiyōm</foreign></supplied> of Iḷaṅkōykkuṭi. I have written <supplied reason="explanation"><foreign>eḻutiṉēṉ</foreign></supplied> as ordered <supplied reason="explanation"><foreign>paṇikka</foreign></supplied> by the Sabhā <supplied reason="explanation"><foreign>cavai</foreign></supplied>.</p></div>
+
+<div type="commentary">
+
+</div>
+
+<div type="bibliography">
+
+	<!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+	<p>This edition by Valérie Gillet and Emmanuel Francis, based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>
+
+	<listBibl type="primary">
+	</listBibl>
+
+	<listBibl type="secondary">
+		<!--<bibl>
+			<ptr target="bib:ARIE****-****"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="appendix">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>-->
+	</listBibl>
+
+</div>
+
+	</body>
+</text>
+</TEI>

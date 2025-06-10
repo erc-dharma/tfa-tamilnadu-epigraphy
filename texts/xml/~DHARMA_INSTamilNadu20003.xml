@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ambasamudram, *** temple, time of ***, year **</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:vagi">
+				 <forename>Valérie</forename>
+						<surname>Gillet</surname>
+			 </persName>
+			 <persName ref="part:emfr">
+				<forename>Emmanuel</forename>
+				 <surname>Francis</surname>
+			 </persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu20003</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary><p>#3 (Figs. 14–15). a) Ericcāvuṭaiyār temple; b) on a stone now kept in the stores of the Government Museum in Chennai; c) personally accessed and photographed in 2010; d) ARE 1905, no. 104; SII 14, no. 38, pp. 29–30; e) 39th year of a king whose name is not given; f) this inscription was read on 25th August 2023 during a Dharma project workshop in Pondicherry, with G. Vijayavenugopal, Emmanuel Francis, Uthaya Velluppilai, T. Rajarethinam, R. Sathyanarayanan, M. Vigneshwaran, Dominic Goodall.</p>
+
+</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:vernacular">
+
+<p>
+<lb n="1"/><hi rend="grantha">svasti śrī</hi> yāṇṭu muppattoṉpatu Iyyāṇṭu muḷḷināṭṭup pira
+<lb n="2"/>mateyam I<unclear>ḷa</unclear>ṅkoykkuṭi tiruppottuṭaiya<hi rend="grantha">bhaṭā</hi>rarku I<unclear>n</unclear>nā<unclear>ṭ</unclear>ṭ<unclear>u</unclear>
+<lb n="3"/><unclear>ku</unclear>ḷantur tav<unclear>a</unclear>ṇirāṉ cāttaṉ A<unclear>nta</unclear>ri vaicca tiruviḷakku Oṉṟu teṉkaḷavaḻināṭṭu
+<lb n="4"/>māṇi<unclear>lai</unclear> ve<unclear>ṇ</unclear>mā<unclear>ṉ</unclear>iṭam Iraiyā<unclear>ṉ Iraiciṅkam vai</unclear>cca viḷakku Oṉṟu Ivaḷ taṅ<unclear>kai</unclear> I
+<lb n="5"/><unclear>raiyāṉācciya vaicca viḷakku Oṉṟu Āka viḷakku mūṉṟu Immūṉṟu viḷakkiṉukku</unclear> {line partly covered by cement}
+<lb n="6"/>[[niyati mūḻakku neyyaṭṭi Eritāka vaytta cāvāmūp perāṭu nūttaiyampa[tu]]] {last line under cement}
+</p>
+
+</div>
+
+<div type="apparatus">
+
+</div>
+
+<div type="translation" source="bib:Gillet2024_01">
+
+<p>Fortune! Prosperity! The year thirty-nine. In this year, for Bhaṭārar of Tiruppōttuṭaiya of Iḷaṅkōykkuṭi, a <foreign>brahmadeya</foreign> of Muḷḷināṭu, for three lamps: Tavaṇirāṉ Cāttaṉ Antari of Kuḷantūr in this <foreign>nāṭu</foreign> gave for one holy lamp; Iraiyāṉ Iraiciṅkam of <supplied reason="explanation"><foreign>iṭam</foreign></supplied> Māṇilai Veṇmāṉi<note>Taking Māṇilai Veṇmāṉi as a village name was suggested by G. Vijayavenugopal.</note> of Teṉkaḷavaḻināṭu gave for one lamp; the mother <supplied reason="explanation"><foreign>ācciya</foreign></supplied> of Iraiyāṉ, her younger sister <supplied reason="explanation"><foreign>ivaḷ taṅkai</foreign></supplied> gave for one lamp. For these three lamps to burn <supplied reason="explanation"><foreign>eritāka</foreign> &gt; <foreign>erivatāka</foreign></supplied>, to supply <supplied reason="explanation"><foreign>aṭṭi</foreign></supplied> three uḻakku <supplied reason="explanation"><foreign>mūḻakku</foreign> &gt; <foreign>mūvuḵakku</foreign></supplied> of ghee every day, hundred and fifty <supplied reason="explanation"><foreign>nūttaiyampatu</foreign> &gt; <foreign>nūṟṟaimpatu</foreign></supplied> undying and non ageing great goats were given.</p></div>
+
+<div type="commentary">
+
+</div>
+
+<div type="bibliography">
+
+	<!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+	<p>This edition by Valérie Gillet and Emmanuel Francis, based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>
+
+	<listBibl type="primary">
+	</listBibl>
+
+	<listBibl type="secondary">
+		<!--<bibl>
+			<ptr target="bib:ARIE****-****"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="appendix">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>-->
+	</listBibl>
+
+</div>
+
+	</body>
+</text>
+</TEI>
