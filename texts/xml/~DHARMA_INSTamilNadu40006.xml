@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Varaguṇa, *** temple, time of ***, year **</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:vagi">
+				 <forename>Valérie</forename>
+						<surname>Gillet</surname>
+			 </persName>
+			 <persName ref="part:emfr">
+				<forename>Emmanuel</forename>
+				 <surname>Francis</surname>
+			 </persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu40006</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary><p>#6: a) Lakṣmīnārāyaṇa temple, Javantināthapuram, Lālkuṭi taluk, Trichy district; b) on a stone (perhaps was it a doorjamb originally?), embedded in the right-side cement pillar of the gate; c) Regnal year 9 opposite to 4 of Māṟañcaṭaiyaṉ, <foreign>aviṭṭa </foreign>day, which falls on Monday in the month of <foreign>dhanus</foreign>;40 d) are 1946–1947, no. 104; ei 28, no. 6; iep 41; e) inscription located personally; f) the last syllable of each line is not visible, even on the estampage published in 1940–1950 in ei 28, but can be easily guessed in most of the cases; I have restored them in the text in square brackets with an asterisk; the inscription stops abruptly, the remaining part of it perhaps covered by cement.</p>
+
+</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+
+<p>
+<lb n="1"/><hi rend="grantha">svasti śrī </hi>komā<supplied reason="omitted">ṟañ</supplied>
+<lb n="2" break="no"/><unclear>ca</unclear>ṭaiyarkki yā<unclear>ṇ</unclear><supplied reason="omitted">ṭu</supplied>
+<lb n="3"/>ṉāṉkāmāṭṭaikke<unclear>t</unclear>i<supplied reason="omitted">r</supplied>
+<lb n="4"/>Oṉpatām yāṇ<supplied reason="omitted">ṭu</supplied>
+<lb n="5"/>taṉu ñāyaṟṟut ti<supplied reason="omitted">ṅ</supplied>
+<lb n="6" break="no"/>kaṭkiḻamai peṟṟa <supplied reason="omitted">a</supplied>
+<lb n="7" break="no"/>viṭṭa mutalāka I<supplied reason="omitted">ṭ</supplied>ai
+<lb n="8" break="no"/>yāṟṟu maṅkalat<supplied reason="omitted">tu</supplied>
+<lb n="9"/>tirumayilaraṅkat<supplied reason="omitted">tu</supplied>
+<lb n="10"/>perumāṉaṭikaḷuk<supplied reason="omitted">ku</supplied>
+<lb n="11"/>Iravum paka<hi rend="grantha">lu</hi>m I<supplied reason="omitted">ra</supplied>
+<lb n="12" break="no"/>ṇṭu noṉtāviḷak<supplied reason="omitted">k</supplied>e
+<lb n="13" break="no"/><unclear>ri</unclear>ppatāka komāṟañ<supplied reason="omitted">ca</supplied>
+<lb n="14" break="no"/>ṭ<unclear>ai</unclear>yarāyiṉa<hi rend="grantha">pāṇ</hi><unclear><hi rend="grantha">ḍ*</hi></unclear> <hi rend="grantha">ya </hi>
+<lb n="15"/><hi rend="grantha">A</hi>ti<hi rend="grantha">pa</hi>ti <hi rend="grantha">varakuṇa ma</hi><unclear><hi rend="grantha">hā*</hi></unclear> 
+<lb n="16" break="no"/><supplied reason="omitted"><hi rend="grantha">rā</hi></supplied> <hi rend="grantha">jar A</hi>ṇṭaṇāṭṭu <unclear>ve</unclear>
+<lb n="17" break="no"/>ḷāṉ kaiyyil viṭu<supplied reason="omitted">ta</supplied>
+<lb n="18" break="no"/>nta poṉ pāṭi
+</p>
+
+</div>
+
+<div type="apparatus">
+
+</div>
+
+<div type="translation" source="bib:Gillet2017_01">
+
+<p>Hail! Prosperity! <supplied reason="subaudible">This is</supplied> the 9th year opposite to the 4th year of king Māṟañcaṭaiyaṉ; from <supplied reason="explanation"><foreign>mutal āka</foreign></supplied> <foreign>aviṭṭa </foreign>obtained on Monday <supplied reason="explanation"><foreign>tiṅkaṭ-kiḻamai</foreign></supplied> in the month of <foreign>dhanus</foreign>; for Perumāṉaṭikaḷ of Tirumayilaraṅkam in Iṭaiyyāṟṟu <foreign>maṅkalam</foreign>, night and day, for burning <supplied reason="explanation"><foreign>erippatāka</foreign></supplied> two <supplied reason="explanation"><foreign>iraṇṭu</foreign></supplied> perpetual lamps, king <supplied reason="explanation"><foreign>kō</foreign></supplied> Māṟañcaṭaiyar <foreign>alias </foreign>Varaguṇa Mahārājar, the great Lord of the Pāṇḍyans, released and gave <supplied reason="explanation"><foreign>viṭu-tanta</foreign></supplied> into the hand <supplied reason="explanation"><foreign>kaiyyil</foreign></supplied> of Aṇṭanāṭṭu Vēḷāṉ, <gap reason="lost" extent="unknown" unit="character"/> gold <gap reason="lost" extent="unknown" unit="character"/></p></div>
+
+<div type="commentary">
+
+</div>
+
+<div type="bibliography">
+
+	<!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+	<p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+	<p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+
+	<listBibl type="primary">
+		<bibl>
+			<ptr target="bib:Gillet2017_01"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>
+	</listBibl>
+
+	<listBibl type="secondary">
+		<!--<bibl>
+			<ptr target="bib:ARIE****-****"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="appendix">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>-->
+	</listBibl>
+
+</div>
+
+	</body>
+</text>
+</TEI>

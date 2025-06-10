@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Varaguṇa, *** temple, time of ***, year **</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:vagi">
+				 <forename>Valérie</forename>
+						<surname>Gillet</surname>
+			 </persName>
+			 <persName ref="part:emfr">
+				<forename>Emmanuel</forename>
+				 <surname>Francis</surname>
+			 </persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu40014</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary><p>#14: a) Agnīśvara temple, Tirukkāṭṭupaḷḷi, Tirukkāṭṭupaḷḷi taluk, Tañcāvūr district; b) on a pillar used as stepping stone in the southern entrance to the Nāṭarāja-<foreign>mandapa</foreign>; c) Regnal year 11 of Māṟañcaṭaiyaṉ; d) are 1960–1961, no. 318 (+ p. 20); tli Tj 2892; iep 37; e) inscription not located personally; f) I visited the temple in November 2016, but I was not given access to the entrance of the Nāṭarāja-<foreign>maṇḍapa </foreign>to see the inscription. Fortunately, Arlo Griffiths photographed the estampage stored in the offices of the asi in Mysore, and I was therefore able to amend slightly the edition provided in iep 37.</p>
+
+</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+
+<p>
+<lb n="1"/><hi rend="grantha">svasti śrī </hi>komā
+<lb n="2" break="no"/><unclear>ṟa</unclear>ñcaṭaiyaṟku yā
+<lb n="3" break="no"/>ṇṭu 11 Āvativ
+<lb n="4"/>vāṇṭu niyamat
+<lb n="5" break="no"/>tu Āyirattaḷi mā
+<lb n="6" break="no"/><hi rend="grantha">hāde</hi>varkku ve
+<lb n="7" break="no"/>ṭelviṭuku mu
+<lb n="8" break="no"/>ttaraiyar maka
+<lb n="9" break="no"/>ḷāṉa cāttaṅ kā
+<lb n="10" break="no"/>ḷi nontāviḷak
+<lb n="11" break="no"/>kiṉukku mutalākap pe
+<lb n="12" break="no"/>rumakkaḷum pati
+<lb n="13" break="no"/><unclear>yu</unclear>m pātamulamum
+<lb n="14"/>A<unclear>ṟi</unclear>ya nicatip pali
+<lb n="15" break="no"/><unclear>cai</unclear>yāl Uriya ney
+<lb n="16"/><gap reason="lost" extent="unknown" unit="character"/> yat toḻut<unclear>u</unclear> po
+<lb n="17"/><gap reason="lost" extent="unknown" unit="character"/> pat<unclear>iṉ</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+</p>
+
+</div>
+
+<div type="apparatus">
+
+</div>
+
+<div type="translation" source="bib:Gillet2017_01">
+
+<p>4 lines inscribed on top of the stone <supplied reason="explanation">perhaps the end of the text engraved below</supplied></p><p><supplied reason="explanation">1</supplied> <gap reason="lost" extent="unknown" unit="character"/> k <gap reason="lost" extent="unknown" unit="character"/> </p><p><supplied reason="explanation">2</supplied> l nikkittu itu kā</p><p><supplied reason="explanation">3</supplied>ttāṉṉ ati enṟalai </p><p><supplied reason="explanation">4</supplied> melaṉa ||</p><p>Hail! Prosperity! This is the 11th year of king Māṟañcaṭaiyaṉ. In this year, for Mahādeva of Āyirattaḷi of Niyamam, Cāttaṉ Kāḷi, daughter of Viṭēlviṭuku Muttaraiyar <supplied reason="subaudible">gave</supplied> as capital <supplied reason="explanation"><foreign>mutal āka</foreign></supplied> for a perpetual lamp; with the interests, every day, for the Perumakkaḷ <supplied reason="explanation">great people</supplied>, the Pati <supplied reason="explanation">priests</supplied>, and the Pātamūlam <supplied reason="explanation">priests</supplied> to know <supplied reason="explanation"><foreign>aṟiya</foreign></supplied>, one <foreign>uri </foreign>of ghee, <gap reason="lost" extent="unknown" unit="character"/>, having worshipped <supplied reason="explanation"><foreign>toḻutu</foreign></supplied>, <gap reason="lost" extent="unknown" unit="character"/> </p><p>Four lines on top:</p><p><gap reason="lost" extent="unknown" unit="character"/> having removed <supplied reason="explanation"><foreign>nikkittu</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> the feet <supplied reason="explanation"><foreign>ati</foreign></supplied> of those who protect <supplied reason="explanation"><foreign>kāttāṉ</foreign></supplied> this <supplied reason="explanation"><foreign>itu</foreign></supplied> are on my head.</p></div>
+
+<div type="commentary">
+
+</div>
+
+<div type="bibliography">
+
+	<!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+	<p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+	<p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+
+	<listBibl type="primary">
+		<bibl>
+			<ptr target="bib:Gillet2017_01"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>
+	</listBibl>
+
+	<listBibl type="secondary">
+		<!--<bibl>
+			<ptr target="bib:ARIE****-****"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="appendix">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>-->
+	</listBibl>
+
+</div>
+
+	</body>
+</text>
+</TEI>

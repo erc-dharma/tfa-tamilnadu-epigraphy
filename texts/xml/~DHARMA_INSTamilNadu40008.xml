@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Varaguṇa, *** temple, time of ***, year **</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:vagi">
+				 <forename>Valérie</forename>
+						<surname>Gillet</surname>
+			 </persName>
+			 <persName ref="part:emfr">
+				<forename>Emmanuel</forename>
+				 <surname>Francis</surname>
+			 </persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu40008</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary><p>#8: a) Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the base of the southern façade of the <foreign>ardha-maṇḍapa</foreign>; c) Regnal year 9 opposite to 4 of Māṟañcaṭaiyaṉ; d) are 1930–1931, no. 36; tli Tj 274; sii 19, no. 292; e) inscription located personally; f) this inscription is the first on the base of the <foreign>ardha-maṇḍapa </foreign>and opens the epigraphical programme of the temple renovated by Cempiyaṉ Mahādevi (see Appendix iii).</p>
+
+</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+
+<p>
+<lb n="1"/><hi rend="grantha">svasti śrī </hi>koppa[[rakecaripaṉ<hi rend="grantha">ma</hi>kku yāṇṭu 11]]42 Āvatu vaṭakarai nallāṟṟūrnāṭṭu tirukko[[ṭikāvil ma<hi rend="grantha">hā</hi>]]<hi rend="grantha">de</hi>varkku <hi rend="grantha">śrī </hi>Uttamacoḻa<hi rend="grantha">de</hi>[[varai tiruvayiṟuvāytta ma]]ḻavaraiyar makiḷār 
+<lb n="2"/><hi rend="grantha">prā</hi>ntaka[[ṉ <hi rend="grantha">mā</hi>tevaṭikaḷārana cem]]piyan <hi rend="grantha">māh</hi><unclear><hi rend="grantha">ā*</hi></unclear><hi rend="grantha">de</hi>viyār I<hi rend="grantha">dde</hi>varkku muṉṉiṭṭikai[[ppaṭaiyāluḷḷa <hi rend="grantha">śrī</hi>]]koyilait tavirttu kallāle [[<hi rend="grantha">śrī</hi>vimāṉa mamaippi]]ttu I<hi rend="grantha">de</hi>varuṭaiya 
+<lb n="3"/>paṭikaḷ muṉpu<hi rend="grantha">dharmma</hi>ttukku <unclear>v</unclear>ai<unclear>t</unclear>tu kaṟkaḷil veṭṭikkiṭanta Avai vevveṟu kallāl pala viṭattilāyk kiṭanta Avai Ellām Inta <hi rend="grantha">śrī</hi>vimāṉattiṉmel muṉ {built Over} 
+<lb n="4"/>Eṟa veṭṭikkoḷka Eṉṟu Aruḷicey <supplied reason="omitted">|</supplied> veṭṭiṉapaṭi muṉ kiṭanta paṭikaḷil Itu Oru paṭi <supplied reason="omitted">|</supplied> komāṟañcaṭaiyaṟku yāṇṭu 4 Āvatiṉetir Oṉpatāvatu Ā {built Over}
+<lb n="5"/>rukkoṭikāvil<hi rend="grantha">mahāde</hi>varkku nontāviḷakkiṉukku [[vara]] <gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">ja</hi>r kuṭutta poṉ ṉūṟṟirupatiṉ <gap reason="lost" extent="unknown" unit="character"/> [[ippo]]ṉ <hi rend="grantha">mahendra</hi>koṭṭur <hi rend="grantha">sabhai</hi>yoṅ {built Over} 
+<lb n="6"/>licaiyāl nicatam nāḻi ney<hi rend="grantha">rāja</hi>māttāṇṭaṉukku <hi rend="grantha">śrī</hi><unclear>ko</unclear> <gap reason="lost" extent="unknown" unit="character"/> <unclear>ko</unclear>ṇṭu ceṉṟu tirukkoyiluṭaiyār <gap reason="lost" extent="unknown" unit="character"/> kuṭuppomāṉom <hi rend="grantha">mahendra</hi>koṭṭūr <hi rend="grantha">sabhai </hi>{built Over} 
+<lb n="7"/>Inta<hi rend="grantha">śrī</hi>vimāṉattile Eṟa veṭṭinamaiyil muṉṉivvā <hi rend="grantha">ja</hi>kam veṭṭikiṭanta taṉik<unclear>kallāl</unclear> [[<hi rend="grantha">u</hi>]]<hi rend="grantha">pai</hi>yo<hi rend="grantha">gam </hi>Illāmaiyil Atu tavirntatu
+</p>
+
+</div>
+
+<div type="apparatus">
+
+</div>
+
+<div type="translation" source="bib:Gillet2017_01">
+
+<p>Hail! Prosperity! This is the 11th year of Kōpparakecarivarman. For Mahādeva of Tirukkōṭikkā in Nallāṟṟūrnāṭu on the northern bank <supplied reason="explanation"><foreign>vaṭa karai</foreign></supplied>, the daughter of Maḻavaraiyar who kept <supplied reason="explanation"><foreign>vāytta</foreign></supplied> in her sacred womb <supplied reason="explanation"><foreign>tiru-vayiṟu</foreign></supplied> Śrī Uttamacōḻadevar, Parāntakaṉ Mātevaṭikaḷār <foreign>alias </foreign>Cempiyaṉ Mahādeviyār; for this god <supplied reason="explanation"><foreign>iddevarkku</foreign></supplied>, having removed <supplied reason="explanation"><foreign>tavirttu</foreign></supplied> the sacred temple <supplied reason="explanation"><foreign>śrīkōyil</foreign></supplied>, the inside of which <supplied reason="explanation"><foreign>uḷḷa</foreign></supplied> <supplied reason="subaudible">was made</supplied> with rows <supplied reason="explanation"><foreign>paṭai-yāl</foreign></supplied> of bricks <supplied reason="explanation"><foreign>iṭṭikai</foreign></supplied> before <supplied reason="explanation"><foreign>muṉ</foreign></supplied>, <supplied reason="subaudible">she</supplied> set up <supplied reason="explanation"><foreign>amaippittu</foreign></supplied> a sacred sanctuary <supplied reason="explanation"><foreign>śrīvimānam</foreign></supplied> with stone <supplied reason="explanation"><foreign>kallāl-e</foreign></supplied>; having put <supplied reason="explanation"><foreign>vaittu</foreign></supplied> for the Dharmma the previous <supplied reason="explanation"><foreign>muṉpu</foreign></supplied> copies/records <supplied reason="explanation"><foreign>paṭikaḷ</foreign></supplied> for this god <supplied reason="explanation"><foreign>idevaruṭaiya</foreign></supplied>, those <supplied reason="explanation"><foreign>avai</foreign></supplied> which lay inscribed <supplied reason="explanation"><foreign>veṭṭi-k-kiṭanta</foreign></supplied> among the stones <supplied reason="explanation"><foreign>kaṟkaḷil</foreign></supplied>, all those <supplied reason="explanation"><foreign>avai ellām</foreign></supplied> which lay <supplied reason="explanation"><foreign>kiṭanta</foreign></supplied> in many places <supplied reason="explanation"><foreign>pala-v-iṭatt-il-āy</foreign></supplied> with different different stones <supplied reason="explanation"><foreign>vev-veṟu kallāl</foreign></supplied>, <supplied reason="subaudible">she</supplied> graciously ordered <supplied reason="explanation"><foreign>aruḷicey</foreign></supplied> saying <supplied reason="explanation"><foreign>eṉṟu</foreign></supplied> “let it be engraved <supplied reason="explanation"><foreign>veṭṭi-k-koḷka</foreign></supplied> completely <supplied reason="explanation"><foreign>ēṟa</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> before <supplied reason="explanation"><foreign>muṉ</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> on this <supplied reason="explanation"><foreign>inta</foreign></supplied> sacred sanctuary <supplied reason="explanation"><foreign>śrīvimāṉattiṉ-mel</foreign></supplied>”; this is one copy <supplied reason="explanation"><foreign>itu oru paṭi</foreign></supplied> among the copies <supplied reason="explanation"><foreign>paṭikaḷ-il</foreign></supplied> which were lying <supplied reason="explanation"><foreign>kiṭanta</foreign></supplied> engraved <supplied reason="explanation"><foreign>veṭṭiṉa-paṭi</foreign></supplied> before <supplied reason="explanation"><foreign>muṉ</foreign></supplied>:</p><p>This is the 9th year opposite the 4th year of king Māṟañcaṭaiyaṉ. For a perpetual lamp <supplied reason="explanation"><foreign>nontāviḷakkiṉukku</foreign></supplied> for Mahādeva of <supplied reason="subaudible">Ti</supplied>rukkōṭikkā, <supplied reason="subaudible">Varaguṇa Mahāra*</supplied>jar gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> 120 <supplied reason="subaudible"><foreign>kaḻañcu </foreign>of</supplied> gold; we the Sabhā of Mahendrakōṭṭū <gap reason="lost" extent="unknown" unit="character"/> this gold <supplied reason="explanation"><foreign>ippoṉ</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/>; with the interests <supplied reason="explanation"><supplied reason="subaudible"><foreign>pa</foreign>*</supplied><foreign>licaiyāl</foreign></supplied>, everyday, having taken <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> and having gone <supplied reason="explanation"><foreign>ceṉṟu</foreign></supplied> to the sacred temple <supplied reason="explanation"><foreign>śrīkō</foreign><supplied reason="subaudible"> <foreign>yil</foreign>*</supplied></supplied> to/for Rājamāttāṇṭaṉ <supplied reason="subaudible">a measure’s name? A person’s name attached to the temple?</supplied> one <foreign>nāḻi </foreign>of ghee, we the Sabhā of Mahendrakōṭṭūr will give <supplied reason="explanation"><foreign>kuṭuppōmāṉōm</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> the lord/lords of the temple <supplied reason="explanation"><foreign>tirukkōyil-uṭaiyār</foreign></supplied>;</p><p>Since it is engraved <supplied reason="explanation"><foreign>veṭṭinamai-yil</foreign></supplied> completely <supplied reason="explanation"><foreign>ēṟa</foreign></supplied> on this sacred sanctuary <supplied reason="explanation"><foreign>śrīvimāṉattilē</foreign></supplied>, since there is no <supplied reason="explanation"><foreign>illāmaiy-il</foreign></supplied> use <supplied reason="explanation"><foreign>upaiyogam</foreign></supplied> for the separate stones <supplied reason="explanation"><foreign>taṉi-k-kal-l-āl</foreign></supplied> which were lying engraved <supplied reason="explanation"><foreign>veṭṭi-kiṭanta</foreign></supplied> with this previous text <supplied reason="explanation"><foreign>muṉ-ṉ-i-vājakam</foreign></supplied>, that has been removed <supplied reason="explanation"><foreign>atu tavirntatu</foreign></supplied>.</p></div>
+
+<div type="commentary">
+
+</div>
+
+<div type="bibliography">
+
+	<!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+	<p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+	<p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+
+	<listBibl type="primary">
+		<bibl>
+			<ptr target="bib:Gillet2017_01"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>
+	</listBibl>
+
+	<listBibl type="secondary">
+		<!--<bibl>
+			<ptr target="bib:ARIE****-****"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="appendix">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>-->
+	</listBibl>
+
+</div>
+
+	</body>
+</text>
+</TEI>
