@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Paḻuvēṭṭaraiyar, *** temple, time of ***, year **</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:vagi">
+				 <forename>Valérie</forename>
+						<surname>Gillet</surname>
+			 </persName>
+			 <persName ref="part:emfr">
+				<forename>Emmanuel</forename>
+				 <surname>Francis</surname>
+			 </persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu10011</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary><p>#147. a) Tiruppāmpuram, Naṉṉilam taluk, Tanjavur district, Śehapurīśvara temple; b) on the base of the temple (?); c) temple not visited and inscription not personally located; d) ARE 1911, no. 90; <foreign>Naṉṉilam Kaḷveṭṭukaḷ</foreign>, no. 144/1977;<note>I have not visited the site of Tiruppāmpuram, and therefore the information I provide here is based only on the publications which mention it. It should be noted that the text provided in NK 1977, no. 144 cannot read the word which precedes the title Paḻuvēṭṭaraiyar, while the summary of the ARE 1911, no. 90 proposes without hesitation Vāṇappaṭi, rendering thus the Paḻuvēṭṭaraiyar of Vāṇappaṭi. The inscription may have been in a better state in 1911 than in 1977, which would explain the clear reading of ARE.</note> e) 22nd regnal year of Tirupuvaṉa Cakkaravattikaḷ Śrī Rājarājatēvar; f) Rājarāja II or III; g) inscription not read with anyone; h) I have not visited this site and could nor see any pictures of the inscription; I thus reproduce the edition published in NK, with the length of the –<foreign>e </foreign>and the –<foreign>o</foreign> restored as it is in the edition.</p>
+
+</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+
+<p>
+<lb n="1"/><hi rend="grantha">svasti śrī </hi>tirupuvaṉac cakkaravattikaḷ <hi rend="grantha">śrī </hi>rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>tēvaṟkku yāṇṭu 22 vatu <hi rend="grantha">deṣa </hi>nāyaṟṟu <hi rend="grantha">pūrva pakṣa</hi>ttu <hi rend="grantha">bantudi</hi>yam putaṉkiḻamaiyum peṟṟa pūcattu nāḷ uyyakoṇṭārvaḷanāṭṭu uṭaiyār tiruppāmpuramuṭaiyār <gap reason="lost" extent="unknown" unit="character"/> āṉa <gap reason="lost" extent="unknown" unit="character"/> pāṭṭaṭai <gap reason="lost" extent="unknown" unit="character"/> paḻuvēṭṭaraiyar nittal paṭikku Aricillāṟṟil tirumañcaṉam <unclear>tiru</unclear>kalattukkum Aimpattirucceṅkaḻaṉit tiruppaḷḷittāmattukkum Ivvūrilum paṟinta(ta) Ūrilum Ivar kāṇiyāṉa nilattum kaḷattum Uṭppaṭa piṭāri kōyilukku teṟkku na<unclear>t</unclear>ta<unclear>m</unclear> teṉkaraiyilk koṇṭu Araikkōl Akalattu pōkiṟa cā <gap reason="lost" extent="unknown" unit="character"/>vākkālukku
+<lb n="2"/>vaṭa kuḷam ciṟutu tiruntu Uḷpaṭa nilam panta <gap reason="lost" quantity="1" unit="character"/> Itil Ūr nīṅkiṉa Iṟaiyili nittalp paṭikku tiruceṅkaḻaṉi Iṭa Aṭatta <gap reason="lost" quantity="1" unit="character"/> 5<gap reason="lost" extent="unknown" unit="character"/>m tirumañcaṉam Eṭuppānukku Aṭaitta <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> m <unclear> <gap reason="lost" quantity="2" unit="character"/> </unclear><note>There are 2 symbols which may represent fractions: 1/4 and 1/32. But it is not very clear what it refers to.</note>m Innilattu Oṭṭā . Ikkōyilil peruḷūr kiḻavaṉ <unclear>Eḻun</unclear>taruḷivitta tirukāmakōṭṭamuṭaiya māmalaiyāṭṭi<unclear>yā</unclear>rkku Amutu paṭikku Uṭalāka
+</p>
+
+</div>
+
+<div type="apparatus">
+
+</div>
+
+<div type="translation" source="bib:Gillet2024_01">
+
+<p>Fortune! Prosperity! This is the 22nd year of Tirupuvaṉa Cakkaravattikaḷ Śrī Rājarājatēvar. On the day <supplied reason="explanation"><foreign>nāḷ</foreign></supplied> of Pūcam <supplied reason="explanation">the 8th <foreign>nakṣatra</foreign></supplied> falling <supplied reason="explanation"><foreign>peṟṟa</foreign></supplied> on <foreign>bantudiyam</foreign> <supplied reason="subaudible">?</supplied> Wednesday <supplied reason="explanation"><foreign>putaṉkiḻamaiyum</foreign></supplied> of the bright fortnight <supplied reason="explanation"><foreign>pūrva pakṣattu</foreign></supplied> on the <foreign>deṣa </foreign>month <supplied reason="explanation"><foreign>nāyaṟṟu</foreign></supplied>. <supplied reason="lost">To</supplied> the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of Tiruppāmpuram, Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of Uyyakoṇṭārvaḷanāṭu, <gap reason="lost" extent="unknown" unit="character"/> Paḻuvēṭṭaraiyar <supplied reason="lost">gave</supplied>, for a holy vessel <supplied reason="explanation"><foreign>tirukkalattukku</foreign></supplied> for the sacred bath <supplied reason="explanation"><foreign>tirumañcaṉam</foreign></supplied> supplying <supplied reason="explanation"><foreign>āṟṟil</foreign>?</supplied> for one measure <supplied reason="explanation"><foreign>paṭikku</foreign></supplied> of rice <supplied reason="explanation"><foreign>aricil</foreign></supplied> continuously <supplied reason="explanation"><foreign>nittal</foreign></supplied>, and for the holy garland <supplied reason="explanation"><foreign>tiruppaḷḷittāmattukkum</foreign></supplied> of fifty-two <supplied reason="explanation"><foreign>aimpattiru</foreign></supplied> red water lily <supplied reason="explanation"><foreign>ceṅkaḻanit</foreign> &gt; <foreign>ceṅkaḻunīr</foreign></supplied>: as his <supplied reason="explanation"><foreign>ivar</foreign></supplied> <foreign>kāṇi</foreign> <supplied reason="explanation"><foreign>kāṇiyāṉa</foreign></supplied> in the displaced <supplied reason="explanation"><foreign>paṟinta</foreign></supplied> village <supplied reason="explanation"><foreign>ūrilum</foreign></supplied> and in this village <supplied reason="explanation"><foreign>ivvūrilum</foreign></supplied>, all the land <supplied reason="explanation"><foreign>nilattum</foreign></supplied> and the places <supplied reason="explanation"><foreign>kaḷattum</foreign></supplied>, having taken <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> on the southern bank <supplied reason="explanation"><foreign>teṉkaraiyil</foreign></supplied> the village <supplied reason="explanation"><foreign>nattam</foreign></supplied> to the south <supplied reason="explanation"><foreign>teṟkku</foreign></supplied> of the temple of Piṭāri which is included <supplied reason="explanation"><foreign>uṭppaṭa</foreign> &gt; <foreign>uḷpaṭa</foreign></supplied>, having renovated <supplied reason="explanation"><foreign>tiruntu</foreign></supplied> the small <supplied reason="explanation"><foreign>ciṟutu</foreign>?</supplied> northern tank <supplied reason="explanation"><foreign>vaṭakuḷam</foreign></supplied> for the water channel <supplied reason="explanation"><foreign>vākkālukku</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> which goes <supplied reason="explanation"><foreign>pōkiṟa</foreign></supplied> in the open spaces <supplied reason="explanation"><foreign>akalattu</foreign></supplied> of half a measure <supplied reason="explanation"><foreign>araikkōl</foreign></supplied>, the land <supplied reason="explanation"><foreign>nilam</foreign></supplied> included <supplied reason="explanation"><foreign>uḷpaṭa</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> ; <gap reason="lost" extent="unknown" unit="character"/> placed <supplied reason="explanation"><foreign>aṭatta</foreign></supplied> red water lily <supplied reason="explanation"><foreign>tiruceṅkaḻaṉi</foreign> &gt; <foreign>tiruceṅkaḻuṉi</foreign></supplied> for one measure <supplied reason="explanation"><foreign>paṭikku</foreign></supplied> continuously <supplied reason="explanation"><foreign>nittal</foreign></supplied> without the taxes <supplied reason="explanation"><foreign>iṟaiyili</foreign></supplied> removed <supplied reason="explanation"><foreign>nīṅkiṉa</foreign></supplied> <supplied reason="subaudible">for?</supplied> the village <supplied reason="explanation"><foreign>ūr</foreign></supplied> in this <supplied reason="explanation"><foreign>itil</foreign></supplied>, <gap reason="lost" extent="unknown" unit="character"/> placed <supplied reason="explanation"><foreign>aṭaitta</foreign></supplied> for he who raises <supplied reason="explanation"><foreign>eṭuppānukku</foreign></supplied> the sacred bath <supplied reason="explanation"><foreign>tirumañcaṉam</foreign></supplied>; <gap reason="lost" extent="unknown" unit="character"/> of this land <supplied reason="explanation"><foreign>inilattu</foreign></supplied>, in this temple <supplied reason="explanation"><foreign>ikkōyilil</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> , the lord <supplied reason="explanation"><foreign>kiḻavaṉ</foreign></supplied> of Peruḷūr, for a measure <supplied reason="explanation"><foreign>paṭikku</foreign></supplied> of food offerings <supplied reason="explanation"><foreign>amutu</foreign></supplied> for Māmaliyāṭṭiyār, Lord <supplied reason="explanation"><foreign>uṭaiya</foreign></supplied> of Tirukkāmakkōṭṭam, who caused to graciously raise <supplied reason="explanation"><foreign>eḻuntaruḷivitta</foreign></supplied>, as the body <supplied reason="explanation"><foreign>uṭalāka</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/></p></div>
+
+<div type="commentary">
+
+</div>
+
+<div type="bibliography">
+
+	<!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+	<p>Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2016-2018</ref>).</p>
+	<p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+
+	<listBibl type="primary">
+		<bibl>
+			<ptr target="bib:Gillet2024_01"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>
+	</listBibl>
+
+	<listBibl type="secondary">
+		<!--<bibl>
+			<ptr target="bib:ARIE****-****"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="appendix">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>-->
+
+	</listBibl>
+
+</div>
+
+	</body>
+</text>
+</TEI>

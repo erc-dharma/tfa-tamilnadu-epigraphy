@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Paḻuvēṭṭaraiyar, *** temple, time of ***, year **</title>
+				<respStmt>
+					<resp>author of digital edition</resp>
+					<persName ref="part:vagi">
+				 <forename>Valérie</forename>
+						<surname>Gillet</surname>
+			 </persName>
+			 <persName ref="part:emfr">
+				<forename>Emmanuel</forename>
+				 <surname>Francis</surname>
+			 </persName>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>DHARMA</authority>
+				<pubPlace>Paris, CEIAS</pubPlace>
+				<idno type="filename">DHARMA_INSTamilNadu10009</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<repository>DHARMAbase</repository>
+						<idno/>
+					</msIdentifier>
+					<msContents>
+						<summary><p>#145. a) Uṭaiyārkuṭi, Kāṭṭumaṉṉārkōyil, Cidambaram taluk, Cuddalore district, Anantīśvara temple; b) on the northern façade of the <foreign>ardha-maṇḍapa</foreign>, on the western side of the niche of the Goddess; c) not personally located; d) ARE 1920 no. 592; SII 19, no. 305; e) 12th regnal year of Kōpparakesarivarman; f) probably Uttamacōḻa (<foreign>circa</foreign> 983 A.D.); g) inscription not read with anyone; h) I could not locate the inscription during my visit of this site; N. Ramaswamy found it later, and provided me with the details of its location and pictures: it starts on the western side of the empty niche and continues on the eastern side; the eastern part is built over and only the end of each line is visible; for the part which is lost, I have supplied the edition given in SII.</p>
+
+</summary>
+					</msContents>
+					<physDesc>
+						<handDesc>
+							<p/>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change who="part:emfr" when="0000-00-00" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:space="preserve">
+		<body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+
+<p>
+<lb n="1"/>kopparakecarivanmaṟku yāṇṭu 12
+<lb n="2"/>Āvatu vaṭakarai<hi rend="grantha">brahma</hi>teyam <unclear>ṉā</unclear><note>It is slightly different from the other<hi rend="grantha">ṉā</hi> in the inscription, and nothing is expected here. I do not know what it stands for. </note> <hi rend="grantha">śrī</hi> viranā
+<lb n="3"/>rāyāṇa<hi rend="grantha">śa</hi>tu<hi rend="grantha">vve</hi>timaṅkalattu tiruvana<unclear>n</unclear>ti<hi rend="grantha">śva</hi><unclear>ra</unclear>
+<lb n="4"/>ttu tirumuṟṟattile nicati Aiva<unclear>r<hi rend="grantha">bra</hi></unclear><hi rend="grantha">hma</hi>ṇar Uṇ
+<lb n="5"/>pataṟkum tirunontāviḷakku 1-kkum Aṭikaḷ pa
+<lb n="6"/>ḻuvēṭṭaraiyar kaṇṭaṉ cuntaracoḻaṉār ta
+<lb n="7"/>mpiyār ka<unclear>ṇ</unclear>ṭaṉ catturu<hi rend="grantha">bha</hi>yaṅkaraṉārkkāka ko
+<lb n="8"/>ṇṭa nilamāvacu Ivvūr vaṭapiṭākai Irāma
+<lb n="9"/>te<note>The –<hi rend="grantha">e</hi> is at the end of the previous line.</note>vvatikku mekku māṉavalla vākkālu
+<lb n="10"/>kku vaṭakku Aiñcāṅkaṇṇāṟṟu muta<unclear>ṟ</unclear>
+<lb n="11"/>catirattu viranārāyaṇaccerikkāka <unclear>ka</unclear> <gap reason="lost" quantity="1" unit="character"/> 
+<lb n="12"/><unclear>yar</unclear><hi rend="grantha">mādha</hi>va<hi rend="grantha">krama</hi>vittaṉuḷḷiṭṭa <hi rend="grantha">Aṣṭa</hi>kat
+<lb n="13"/>to<note>The left part of the –<hi rend="grantha">o</hi> is at the end of the previous line. There is a <hi rend="grantha">sva</hi> before the <hi rend="grantha">to</hi>, before the beginning of the line, and perhaps a <hi rend="grantha">śa</hi> added above the <hi rend="grantha">mu</hi>. But I do not understand why these letters were added, since these additions do not make any sense. The edition of SII does not mention them.</note>mukkup paṭṭa teṉmelai<unclear><hi rend="grantha">ddha</hi></unclear>vil I
+<lb n="14"/>cceri Iruṅkaṇṭi tirukkuṟuṅkuṭik kirama
+<lb n="15"/>vittaṉ viṟṟu nilam Ivvatikke meṟku I
+<lb n="16"/>vvāykkālukke vaṭakku Āṟuṅ kaṇṇā
+<lb n="17"/>ṟṟu mutar catiratte<note>The –<hi rend="grantha">te</hi> was forgotten and added under.</note> teṟkil<unclear>laiva</unclear>l <hi rend="grantha">rāja</hi>kecari
+<lb n="18"/>ce<note>The –<hi rend="grantha">e</hi> is at the end of the previous line.</note>ri Otimukkil <hi rend="grantha">kṛṣṇa </hi>te<hi rend="grantha">śa</hi>puriya<hi rend="grantha">bha</hi>ṭṭaruḷḷi
+<lb n="19"/>ṭṭārkkup paṭṭa<hi rend="grantha">Aṣṭa</hi>katile kiḻakkaṭaiya <gap reason="lost" quantity="1" unit="character"/> 
+<lb n="20"/>kiḻakkaṭaiya miruṅkaḷur Attā<unclear>ya<hi rend="grantha">kra</hi></unclear><hi rend="grantha">ma</hi>vi<note>This is the last line on this side of the empty niche. The inscription continues on the eastern side, but is almost entirely built over.</note>
+<lb n="21"/>[[ttaṉ viṟṟa nilam <gap reason="lost" quantity="1" unit="character"/> <hi rend="grantha">ma</hi> <gap reason="lost" quantity="1" unit="character"/> m Iva]]ṉ[[e]] kan
+<lb n="22"/>[[tamaṅkalattu viṟṟuttanta nat]]takku
+<lb n="23"/>[[ḻi 5-m Ippiṭākaiyile tirunārāya]]ṇava
+<lb n="24"/>[[tikku merkuc cantiracekarakkā<hi rend="grantha">ḷu</hi>kku vaṭa]]kku <gap reason="lost" quantity="1" unit="character"/> 
+<lb n="25"/>[[Āṅkaṇṇāṟṟu 2-Ām caturattu]] teṟkil
+<lb n="26"/>[[vavvilviracikāmukacceri nel]]likku
+<lb n="27"/>[[tirp periyanampi<hi rend="grantha">bha</hi>ṭṭaruḷḷiṭṭa]] <hi rend="grantha">Aṣṭa</hi>
+<lb n="28"/>[[kattomukkuppaṭṭa <gap reason="lost" quantity="2" unit="character"/> vil nel]]lik
+<lb n="29"/>[[kuṭi <gap reason="lost" quantity="1" unit="character"/> naraka<hi rend="grantha">s</hi>vāmi<hi rend="grantha">bha</hi>ṭṭaṉ viṟṟa nilam va]]ṭakka
+<lb n="30"/>[[ṭaiya <gap reason="lost" quantity="1" unit="character"/> kam Āka Innilaṅkaḷil I]]ṟai
+<lb n="31"/>[[Eccoṟu pokki<hi rend="grantha">brāhma</hi>ṇar <unclear>Ai</unclear>varai]] <unclear>U</unclear>m
+<lb n="32"/>[[<hi rend="grantha">ca</hi>n<hi rend="grantha">trā</hi>tittava<hi rend="grantha">l</hi> Ūṭṭu]]vataṟ
+<lb n="33"/>[[kum nicatam Uḻakkeṇṇai]] Āṭṭi
+<lb n="34"/>[[tirunontāviḷakku 1<hi rend="grantha">ca</hi>n<hi rend="grantha">trā</hi>]]titta
+<lb n="35"/>[[val Erippataṟkum Iva]]r[[e]] I<hi rend="grantha">brā</hi>
+<lb n="36"/>[[<hi rend="grantha">hma</hi>ṇar uṇṇa vaitta taḷi]]kai
+<lb n="37"/>[[5-mIppaṭi Ikkoyilil]]<hi rend="grantha">śrī </hi>kā
+<lb n="38"/>[[<hi rend="grantha">rya</hi>ñ ceyvāre muṭṭāmal]] c[[e]]yvi
+<lb n="39"/>[[kkakaṭavārāka Itu mā<hi rend="grantha">hasa</hi>]]<hi rend="grantha">bh</hi>[[<hi rend="grantha">ai</hi>]]
+<lb n="40"/>[[yā<hi rend="grantha">rakṣai</hi> ||]]
+</p>
+
+</div>
+
+<div type="apparatus">
+
+</div>
+
+<div type="translation" source="bib:Gillet2024_01">
+
+<p>This is the 12th year of Kōpparakesarivarman. To feed <supplied reason="explanation"><foreign>uṇṇapataṟkkum</foreign></supplied> five <supplied reason="explanation"><foreign>aivar</foreign></supplied> Brāhmaṇas everyday <supplied reason="explanation"><foreign>nicati</foreign></supplied> in the holy courtyard <supplied reason="explanation"><foreign>tirumuṟṟattilē</foreign></supplied> of Tiruvanantīśvaram of Śrī Vīranārāyaṇa-caturvetimaṅkalam, a <foreign>brahmadeya</foreign> of the northern bank, and for 1 <supplied reason="explanation"><foreign>1-kkum</foreign></supplied> holy perpetual lamp <supplied reason="explanation"><foreign>tirunontāviḷakku</foreign></supplied>, Aṭikaḷ Paḻuvēṭṭaraiyar Kaṇṭaṉ Cuntaracōḻaṉār, for <supplied reason="explanation"><foreign>āka</foreign></supplied> his younger brother <supplied reason="explanation"><foreign>tampiyār</foreign></supplied> Kaṇṭaṉ Catturubhayaṅkaraṉār, this is the land <supplied reason="explanation"><foreign>nilamāvacu &gt; nilamāvatu</foreign></supplied> taken <supplied reason="explanation"><foreign>koṇṭa</foreign></supplied>: to the west <supplied reason="explanation"><foreign>mēkku &gt; mēṟkku</foreign></supplied> of the god <supplied reason="explanation"><foreign>tēvvatikku</foreign></supplied> Rāma of the northern hamlet <supplied reason="explanation"><foreign>vaṭa-piṭākai</foreign></supplied> of this town <supplied reason="explanation"><foreign>ivvūr</foreign></supplied>; to the north of the water channel <supplied reason="explanation"><foreign>vākkālukku</foreign></supplied> Māṉavalla; the land which was sold <supplied reason="explanation"><foreign>viṟṟu</foreign></supplied> by Kiramavittaṉ etc. {lines 10–15: complex description of the land which I do not translate here}; the land which was sold <supplied reason="explanation"><foreign>viṟṟa</foreign></supplied> by Kramavittaṉ etc. {lines 15–21: complex description of the land which I do not translate here}; the land which was sold <supplied reason="explanation"><foreign>viṟṟa</foreign></supplied> by Narakasvāmibhaṭṭaṉ etc. {lines 21–29: complex description of the land which I do not translate here}; having paid <supplied reason="explanation"><foreign>pōkki</foreign></supplied> the <foreign>ēccōṟu</foreign> <supplied reason="explanation">free-food</supplied> tax on these lands as <gap reason="lost" extent="unknown" unit="character"/> to feed <supplied reason="explanation"><foreign>ūṭṭuvataṟkum</foreign></supplied> the five <supplied reason="explanation"><foreign>aivarai</foreign></supplied> Brāhmaṇas, as long as the sun and the moon endure, and, having supplied <supplied reason="explanation"><foreign>āṭṭi</foreign></supplied> one <foreign>uḻakku</foreign> of oil <supplied reason="explanation"><foreign>eṇṇai</foreign></supplied> everyday <supplied reason="explanation"><foreign>nicatam</foreign></supplied>, to burn <supplied reason="explanation"><foreign>erippataṟkum</foreign></supplied> one sacred perpetual lamp, as long as the sun and the moon endure; he himself <supplied reason="explanation"><foreign>ivarē</foreign></supplied> to feed <supplied reason="explanation"><foreign>uṇṇa</foreign></supplied> these Brāhmaṇas, placed <supplied reason="explanation"><foreign>vaitta</foreign></supplied> 5 plates <supplied reason="explanation"><foreign>taḷikai</foreign></supplied> in this place <supplied reason="explanation"><foreign>ippaṭi</foreign></supplied>, he himself has made <supplied reason="explanation"><foreign>ceyvārē</foreign></supplied><note>See above footnote 358.</note> the sacred affairs <supplied reason="explanation"><foreign>śrī kāryañ</foreign></supplied> of this temple <supplied reason="explanation"><foreign>ikkōyilil</foreign></supplied>, as he has to do <supplied reason="explanation"><foreign>ceyvikkaṭavārāka</foreign></supplied> without fail <supplied reason="explanation"><foreign>muṭṭāmal</foreign></supplied>. This is under the protection of those of the Mahāsabhā.</p></div>
+
+<div type="commentary">
+
+</div>
+
+<div type="bibliography">
+
+	<!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+	<p>Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2016-2018</ref>).</p>
+	<p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+
+	<listBibl type="primary">
+		<bibl>
+			<ptr target="bib:Gillet2024_01"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>
+	</listBibl>
+
+	<listBibl type="secondary">
+		<!--<bibl>
+			<ptr target="bib:ARIE****-****"/>
+			<citedRange unit="page">TBC</citedRange>
+			<citedRange unit="appendix">TBC</citedRange>
+			<citedRange unit="item">TBC</citedRange>
+		</bibl>-->
+
+	</listBibl>
+
+</div>
+
+	</body>
+</text>
+</TEI>
