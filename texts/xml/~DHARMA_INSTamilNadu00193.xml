@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Paḻuvēṭṭaraiyar, *** temple, time of ***, year **</title>
+                <title>Vṛddhācalam (Viruttācalam), Vṛddhāgirīśvara temple, time of ***, year **</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -33,7 +33,8 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#149. a) Vṛddhācalam (Viruttācalam), Vṛddhācalam taluk, Cuddalore district, Vṛddhāgirīśvara temple; b) on the southern façade of the sanctuary; c) site not visited; edition established from pictures of the inscription provided by N. Cane; d) ARE 1918, no. 39; e) 5th regnal year of Kōpparakesarivarman alias Śrī Rājendracōḻadevar; f) Rajendra I (<foreign>circa</foreign> 1017 A.D.); g) inscription not read with anyone; h) lines 1 to 14 contain the <foreign>meykkīrtti</foreign> of Rājendra I.</p>
+                        <summary>
+                            <p>Vṛddhācalam (Viruttācalam), Vṛddhācalam taluk, Cuddalore district, Vṛddhāgirīśvara temple; on the southern façade of the sanctuary; ARE 1918, no. 39; 5th regnal year of Kōpparakesarivarman alias Śrī Rājendracōḻadevar = Rajendra I (<foreign>circa</foreign> 1017 A.D.);  lines 1 to 14 contain the <foreign>meykkīrtti</foreign> of Rājendra I.</p>
                             
                         </summary>
                     </msContents>
@@ -58,9 +59,9 @@
                 <p>
                     <lb n="1–13"/><hi rend="grantha">svasti śrī</hi> {<hi rend="grantha">meykkīrtti</hi>}
                     <lb n="14"/>{<hi rend="grantha">meykkīrtti</hi>} kop
-                    <lb n="15"/>parakecaripaṉmarāṉa<hi rend="grantha">śrīrajentra</hi><unclear><hi rend="grantha">co</hi></unclear>
+                    <lb n="15"/>parakecaripaṉmarāṉa<hi rend="grantha">śrīrajentra</hi><hi rend="grantha"><unclear>co</unclear></hi>
                     <lb n="16"/> <gap reason="lost" quantity="1" unit="character"/> <hi rend="grantha">de</hi>varkku yāṇṭu 5 Āvatu vaṭaka
-                    <lb n="17"/>rai<hi rend="grantha">rājentrasi</hi><unclear><hi rend="grantha">ṃ</hi></unclear><hi rend="grantha">ha</hi>vaḷanāṭṭu Iruko<unclear>ḷa</unclear>
+                    <lb n="17"/>rai<hi rend="grantha">rājentrasi</hi><hi rend="grantha"><unclear>ṃ</unclear></hi><hi rend="grantha">ha</hi>vaḷanāṭṭu Iruko<unclear>ḷa</unclear>
                     <lb n="18"/>ppāṭip paruvūrkkūṟṟattu neṟkup
                     <lb n="19"/>pait tirumutukuṉṟam uṭ<unclear>ai</unclear>ya<hi rend="grantha">mahā</hi>
                     <lb n="20"/><hi rend="grantha">de</hi>varku muñ<unclear>ñai</unclear> vallavaraiyar <hi rend="grantha">de</hi>
@@ -91,8 +92,8 @@
             
             <div type="bibliography">
                 
-                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2016-2018</ref>).</p>
+                <!--<p>Reported in <bibl><ptr target="bib:ARIE1917-1918"/></bibl> (ARIE/1917-1918/C/1918/39).</p>-->
+                <p>Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on photographs (provided by N. Cane).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
@@ -104,12 +105,12 @@
                 </listBibl>
                 
                 <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
+                    <bibl>
+                        <ptr target="bib:ARIE1917-1918"/>
+                        <citedRange unit="page">92</citedRange>
+                        <citedRange unit="appendix">C/1918</citedRange>
+                        <citedRange unit="item">39</citedRange>
+                    </bibl>
                     
                 </listBibl>
                 
