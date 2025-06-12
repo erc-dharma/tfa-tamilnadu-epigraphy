@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paḻuvēṭṭaraiyar, *** temple, time of ***, year **</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:vagi">
+                        <forename>Valérie</forename>
+                        <surname>Gillet</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv05p1i0523</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p>#141. a) Tiruvaiyāṟu, Tiruvaiyāṟu taluk, Tanjavur district, Pañcanātīśvara temple; b) on the western façade of the sanctuary; c) I could not access the inscription because, since a few years, the western and northern façades of the sanctuary are closed to the public (the hair of Śiva are said to have fallen on this side); d) ARE 1894, no. 224; SII 5, no. 523; e) 10th regnal year of Kōrājakesarivarman; f) king difficult to identify; g) inscription not read with anyone; h) because I could neither access nor photograph the inscription, I have provided here the edition established in SII, but without the supply of the missing letters.</p>
+                            
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-06-12" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+            <change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <p>
+                    <lb n="1"/><hi rend="grantha">svasri śrī</hi> ko Irācakecaripa<hi rend="grantha">nma</hi>kku yāṇṭu 10 Ā
+                    <lb n="2"/>vatu pāṇṭi<unclear>nā</unclear>ṭṭu vaṭavūrveli Iruṅkaṇṭi nila
+                    <lb n="3"/><unclear>ṉ</unclear> nārāya<unclear>ṇa</unclear>ṉ tiruvaiyāṟṟu<hi rend="grantha">mahade</hi>var paṉaṅkāṭṭil
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> ṟum veṭṭi kalli macakki tiruvaiyāṟṟu vi<hi rend="grantha">ṣṇubha</hi>ṭṭā
+                    <lb n="5"/><unclear>rakarkku tiruvamiti</unclear>ṉukku ca<hi rend="grantha">ndrā</hi>titta<unclear>val</unclear> nicati <unclear>A</unclear>ññāḻi
+                    <lb n="6"/>nellukkum ca<hi rend="grantha">ndrā</hi>tittaval Oru <hi rend="grantha">brāhmaṇa</hi>ṉ uṇṇa
+                    <lb n="7"/>nicati kuṟuṇi nellukkum Amaiyttuk kuṭutta
+                    <lb n="8"/>. <unclear>nir</unclear> nilam Aṟumākāṇi Inilattukku Ellai kiḻ
+                    <lb n="9"/><unclear>pāṟkkellai</unclear> paḻuveṭṭaraiyar macakkalukku mekku te<unclear>ṉ</unclear>
+                    <lb n="10"/>pāṟkkellai c<unclear>o</unclear>ḻamāteviyār viḷakkiṉukku caṅka
+                    <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/> taṉṉopātiyark kallik kuṭutta <unclear>mā</unclear>cceykku
+                    <lb n="12"/>vaṭakku<unclear>m mepāṟ</unclear>kellai <unclear>to</unclear>vi A<unclear>raiya</unclear>rkku taṉṉopā
+                    <lb n="13"/><unclear>ti</unclear> <gap reason="lost" extent="unknown" unit="character"/> taram paṭāraṉ kallik kuṭutta viḷakkuc cey mu
+                    <lb n="14"/><unclear>ṉṟu mā kāṇikku</unclear> kiḻakkum vaṭapāṟkellai paḻuve
+                    <lb n="15"/>ṭṭaraiyar kumaraṅ kaṇṭaṉ macakkal Aḻiciku
+                    <lb n="16"/>Apaṭi <gap reason="lost" extent="unknown" unit="character"/> k<unclear> <gap reason="lost" quantity="1" unit="character"/> </unclear>llai <gap reason="lost" extent="unknown" unit="character"/> <unclear>vaṭakkum</unclear> . kkuṭi kuṭikku teṟkum Ipperunāṉkellaiyil akappaṭṭa nirnim Aṟumākkāṇi Itaṭi nālu
+                    <lb n="17"/><unclear>m pan</unclear>ma<hi rend="grantha">heśvara rakṣai</hi> 
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+            </div>
+            
+            <div type="translation" source="bib:Gillet2024_01">
+                
+                <p>Fortune! Prosperity! This is the 10th year of Kōrājakesarivarman. Iruṅkaṇṭi Nilaṉ Nārāyaṇaṉ of Vaṭavūrvēli in Pāṇṭināṭu, having prepared the land <supplied reason="explanation"><foreign>macakki</foreign></supplied>, having dug <supplied reason="explanation"><foreign>kalli</foreign></supplied>, having cropped/cut <supplied reason="explanation"><foreign>veṭṭi</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> in the palmyra grove <supplied reason="explanation"><foreign>paṉaṅkāṭṭil</foreign></supplied> of Mahādeva <supplied reason="explanation"><foreign>mahadeva &gt; mahādeva</foreign></supplied> of Tiruvaiyāṟu, for the holy food offerings <supplied reason="explanation"><foreign>tiruvamitiṉukku</foreign> &gt; <foreign>tiruvamutiṉukku</foreign></supplied> of Viṣṇubhaṭṭārakar of Tiruvaiyāṟu, for five <supplied reason="explanation"><foreign>añ</foreign></supplied> <foreign>nāḻi</foreign>s of paddy <supplied reason="explanation"><foreign>nellukku</foreign></supplied> everyday <supplied reason="explanation"><foreign>nicati</foreign></supplied>, as long as the sun and the moon endure, for a <foreign>kuṟuṇi</foreign> of paddy <supplied reason="explanation"><foreign>nellukku</foreign></supplied> everyday <supplied reason="explanation"><foreign>nicati</foreign></supplied>, to feed <supplied reason="explanation"><foreign>uṇṇa</foreign></supplied> one <supplied reason="explanation"><foreign>oru</foreign></supplied> Brāhmaṇaṉ, as long as the sun and the moon endure, having appointed <supplied reason="explanation"><foreign>amaiyttu</foreign></supplied>, six <foreign>mā-kāṇi</foreign>s of wet land <supplied reason="explanation"><foreign>nīrnilam</foreign></supplied> were given <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied>; the boundaries <supplied reason="explanation"><foreign>ellai</foreign></supplied> of this land <supplied reason="explanation"><foreign>inilattukku</foreign></supplied> <supplied reason="subaudible">are</supplied>: the eastern side boundary <supplied reason="explanation"><foreign>kīḻpāṟkkellai</foreign></supplied> is to the west <supplied reason="explanation"><foreign>mēkku</foreign> &gt; <foreign>mērkku</foreign></supplied> of the developed land <supplied reason="explanation"><foreign>macakkalukku</foreign></supplied> of Paḻuvēṭṭaraiyar; the southern side boundary <supplied reason="explanation"><foreign>teṉpāṟkkellai</foreign></supplied> is to the north <supplied reason="explanation"><foreign>vaṭakkum</foreign></supplied> of the <foreign>mā</foreign> of land <supplied reason="explanation"><foreign>mācceykku</foreign></supplied> which was given <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied>, having been dug <supplied reason="explanation"><foreign>kalli</foreign></supplied>, <supplied reason="subaudible">by?</supplied> Caṅka<gap reason="lost" extent="unknown" unit="character"/>taṉṉōpātiyar for a lamp <supplied reason="explanation"><foreign>viḷakkiṉukku</foreign></supplied> <supplied reason="subaudible">for? on behalf of?</supplied> the Cōḻa queen <supplied reason="explanation"><foreign>cōḻamātēviyār</foreign></supplied>; the western side boundary <supplied reason="explanation"><foreign>mēpāṟkellai</foreign></supplied> is to the east <supplied reason="explanation"><foreign>kīḻakkum</foreign></supplied> of the three <supplied reason="explanation"><foreign>muṉṟu</foreign></supplied> <foreign>mā-kāṇi</foreign>s of land <supplied reason="explanation"><foreign>cey</foreign></supplied> for a lamp <supplied reason="explanation"><foreign>viḷakku</foreign></supplied> which was given <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied>, having been dug <supplied reason="explanation"><foreign>kalli</foreign></supplied>, by Taṉṉōpāti<gap reason="lost" extent="unknown" unit="character"/>taram Paṭāraṉ for <supplied reason="subaudible">on behalf of?</supplied> the king <supplied reason="explanation"><foreign>araiyarkku</foreign></supplied> Tovi <supplied reason="subaudible">?</supplied>; the northern side boundary <supplied reason="explanation"><foreign>vaṭapāṟkellai</foreign></supplied> is to the south <supplied reason="explanation"><foreign>teṟkum</foreign></supplied> of <gap reason="lost" extent="unknown" unit="character"/> north of <supplied reason="explanation"><foreign>vaṭakkum</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> Aḻiciku <gap reason="lost" extent="unknown" unit="character"/> the developed land <supplied reason="explanation"><foreign>macakkal</foreign></supplied> <supplied reason="subaudible">of?</supplied> Paḻuvēṭṭaraiyar Kumaraṉ Kaṇṭaṉ; the six <foreign>mā-kāṇi</foreign>s of wet land <supplied reason="explanation"><foreign>nīrnim &gt; nīrnilam</foreign></supplied> which fall within <supplied reason="explanation"><foreign>akappaṭṭa</foreign></supplied> these four great boundaries <supplied reason="explanation"><foreign>ipperunāṉkellaiyil</foreign></supplied>. This <supplied reason="explanation"><foreign>itu</foreign></supplied> is under the protection of the Panmāheśvaras and the four <supplied reason="explanation"><foreign>nālum</foreign></supplied> feet/servants <supplied reason="explanation"><foreign>aṭi</foreign></supplied> <supplied reason="subaudible">?</supplied>.</p></div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+                <p>Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2016-2018</ref>).</p>
+                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                    <bibl>
+                        <ptr target="bib:Gillet2024_01"/>
+                        <citedRange unit="page">260-261</citedRange>
+                        <citedRange unit="item">141</citedRange>
+                    </bibl>
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <!--<bibl>
+                        <ptr target="bib:ARIE****-****"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="appendix">TBC</citedRange>
+                        <citedRange unit="item">TBC</citedRange>
+                        </bibl>-->
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
