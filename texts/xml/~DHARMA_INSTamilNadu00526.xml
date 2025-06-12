@@ -5,109 +5,110 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Govindapputtūr, Gaṅgājaṭādhara temple, time of ***, year **</title>
-				<respStmt>
-					<resp>author of digital edition</resp>
-					<persName ref="part:vagi">
-				 <forename>Valérie</forename>
-						<surname>Gillet</surname>
-			 </persName>
-			 <persName ref="part:emfr">
-				<forename>Emmanuel</forename>
-				 <surname>Francis</surname>
-			 </persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu30016</idno>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary><p>#16. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 160 (+ part 2, para 29); c) personally located; d) on the lowest part of the base of the northern façade; begins on the western side of the <foreign>gomukha</foreign> on the <foreign>ardha-maṇḍapa</foreign> and continues on the <foreign>antarala</foreign>; the last part is on the lowest part of the base of the eastern section of the sanctuary; e) regnal year 7 of Kōrājarājakesarivarman; f) Rājarāja I (<foreign>circa</foreign> 992 C.E.); g) there is no <foreign>svasti śrī</foreign> at the beginning of this inscription; many passages of this inscription remain illegible, and the translation is thus fragmentary.</p>
-
-</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2025-06-12" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-		<body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-
-<p>
-<lb n="1"/>ko Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>kecari<hi rend="grantha">nma</hi>kki yāṇṭu Eḻāvatu vaṭa karai <hi rend="grantha">brahmade</hi>yam periya <hi rend="grantha">śrī</hi> <gap reason="lost" quantity="1" unit="character"/> ṉavaṉ<hi rend="grantha">mahā</hi>tevi<hi rend="grantha">ca</hi>tu<hi rend="grantha">rvve</hi>timaṅkalattu peruṅkuṟip ‡ <unclear>pe</unclear>rumma<unclear>kka</unclear> ‡ ḷ<unclear>o</unclear>m I <gap reason="lost" quantity="1" unit="character"/> <unclear>ṭ</unclear>ṭait tu<unclear>lānā</unclear>yaṟṟuc cani<unclear>k</unclear>
-<lb n="2"/> <gap reason="lost" quantity="1" unit="character"/> ḻamai peṟṟa Iraivati nāṉṟu peruṅku<unclear>ṟi</unclear> kāṭṭi p<unclear>o</unclear>ntu nammuṭaiya<hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi>yamaṅkalamuṭaiya <hi rend="grantha">mahā</hi>tevar koyil tirumuṟṟa <gap reason="lost" quantity="1" unit="character"/> tay kūṭṭa kuṟai va ‡ <gap reason="lost" quantity="2" unit="character"/> ṭi Iruntu <gap reason="lost" quantity="1" unit="character"/> ‡ <gap reason="lost" quantity="1" unit="character"/> <unclear>n</unclear>tu I <unclear> <gap reason="lost" quantity="1" unit="character"/> </unclear> <hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi>yamaṅ<unclear>kalat</unclear>evar
-<lb n="3"/>koyil<hi rend="grantha">śrī</hi>vimāṉam kallā Eḻuntaruḷḷuvitta Uṭaiyār peruntiṟattu kuvaḷḷālamuṭaiyāṉ Ampalavaṉ <unclear>paḻu</unclear>vūr nakkaṉṉāṉa Irā <gap reason="lost" quantity="1" unit="character"/> rā<hi rend="grantha">ja</hi>pallavaraiyaṟ ‡ {unlegible on my pictures} ‡ <unclear>l E</unclear> <gap reason="lost" quantity="2" unit="character"/> <unclear>Amayṭṭa</unclear> <hi rend="grantha">śrī</hi> k<unclear>ā</unclear><hi rend="grantha">yya</hi>mmam ceytu
-<lb n="4"/> <gap reason="lost" quantity="1" unit="character"/> <unclear> <gap reason="lost" quantity="1" unit="character"/> </unclear> naṟ Ivaka<hi rend="grantha">mi</hi> vaṅkippuṟattu caṭṭapocaṉ veṇṇa<unclear>ya</unclear> <gap reason="lost" quantity="2" unit="character"/> vittaṉukku paṇippaṇiyā<unclear>l pa</unclear>ṇittu <hi rend="grantha">śrī </hi>koyil <gap reason="lost" quantity="4" unit="character"/> <unclear>ṭu</unclear>tta nāṅkaḷai <gap reason="lost" quantity="4" unit="character"/> ceytu ku<unclear>ṭu</unclear> ‡ t<unclear>ta</unclear> <gap reason="lost" quantity="5" unit="character"/> ‡ <gap reason="lost" quantity="1" unit="character"/> <unclear>ko</unclear> <gap reason="lost" quantity="1" unit="character"/> lil <unclear><hi rend="grantha">śrī</hi></unclear><hi rend="grantha"> </hi> <gap reason="lost" quantity="1" unit="character"/> rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>m <unclear>pa</unclear>raiya
-<lb n="5"/>c <gap reason="lost" quantity="1" unit="character"/> yvitta ni<hi rend="grantha">bedha</hi>m Eperppaṭṭa <choice><unclear>ṉ</unclear><unclear>E</unclear></choice> vama <unclear> <gap reason="lost" quantity="1" unit="character"/> </unclear> llil <unclear> <gap reason="lost" quantity="1" unit="character"/> </unclear> vaṭṭaṭuvikkap peṟuvāṉṉākav <gap reason="lost" quantity="1" unit="character"/> m I <hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi>yamaṅkala <gap reason="lost" quantity="1" unit="character"/> <unclear>var</unclear> <gap reason="lost" quantity="1" unit="character"/> <unclear>yi</unclear>llil <unclear>I</unclear> <gap reason="lost" quantity="10" unit="character"/> ‡ {unlegible} ‡ <gap reason="lost" quantity="1" unit="character"/> <unclear>m</unclear> <unclear>Ik</unclear> <gap reason="lost" quantity="1" unit="character"/> <unclear>yil</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>ṇi</unclear> <gap reason="lost" quantity="3" unit="character"/> 
-<lb n="6"/> <gap reason="lost" quantity="2" unit="character"/> <unclear>vā</unclear> <gap reason="lost" quantity="9" unit="character"/> <unclear>m I</unclear>vaṉ coḷḷa/ṉṉa vaṇṇa <gap reason="lost" quantity="1" unit="character"/> y<unclear>ka</unclear>ṭavār <gap reason="lost" quantity="2" unit="character"/> <unclear>lam</unclear> <gap reason="lost" quantity="2" unit="character"/> <unclear>ya</unclear> <gap reason="lost" quantity="4" unit="character"/> <unclear>ḻa</unclear>ṉai <gap reason="lost" quantity="2" unit="character"/> <unclear>ā</unclear>rai ve <gap reason="lost" quantity="10" unit="character"/> <choice><unclear>ya</unclear><unclear><hi rend="grantha">dha</hi> ṟu</unclear></choice> <gap reason="lost" quantity="4" unit="character"/> vu <gap reason="lost" quantity="7" unit="character"/> ‡ {unlegible} ‡ {unlegible}
-<lb n="7"/><note>These last five lines are on the lowest part of the base of the sanctuary, on the eastern side.</note> Irupattu Aiy ḻaintu poṉ koḷḷap pe<unclear>ṟu</unclear>vāṉā<unclear>vem Ippa</unclear>ricu taṇṭit<unclear>tu</unclear> I <hi rend="grantha">śrī</hi> koy<unclear>iyalaṉmār?</unclear> ce<unclear>yiyap pe</unclear>
-<lb n="8"/>ṟuvāṉṉār kappa<unclear>ṭa</unclear>m kuṭuttu <unclear>tāṉpal</unclear> kuṭuttu <unclear>pa</unclear>ṇi<unclear>ppa</unclear>ṇiyāl paṇittu <unclear><hi rend="grantha">vya</hi></unclear>va<unclear> <gap reason="lost" quantity="1" unit="character"/> ṭai</unclear> ceytom peruṅkuṟi ppe
-<lb n="9"/>rummakkaḷom paṇittār cāttamaṅkalattu <unclear>cana</unclear>ppeti<unclear> <gap reason="lost" quantity="1" unit="character"/> ṭṭa</unclear><unclear>kavaṉṉārum</unclear> Ālika <gap reason="lost" quantity="1" unit="character"/> <unclear>ḷḷaṟai</unclear> Iy<hi rend="grantha">sahaśrā</hi> <unclear>cantuve</unclear>
-<lb n="10"/> <gap reason="lost" quantity="2" unit="character"/> kaṅkaṉ/ḷa tiruveṇakām <unclear>cappirumi</unclear>paṇiya<unclear>lai</unclear><hi rend="grantha">madhyasta</hi>ṉ niṉṟāṉṉārāva<unclear>mu</unclear>tāṉ vāṉavaṉ<hi rend="grantha">mahā</hi>tevi peruṅkāviti
-<lb n="11"/> <gap reason="lost" quantity="2" unit="character"/> va<unclear>ḷḷa</unclear> <gap reason="lost" quantity="3" unit="character"/> tu Aṟam maṟa<unclear>ve</unclear>kka Am<unclear>ma</unclear>llatu tuṇaiyillai<unclear>ye</unclear> Itu <gap reason="lost" quantity="1" unit="character"/> <hi rend="grantha">hāheśva</hi>ra ra<hi rend="grantha">kṣai</hi>
-</p>
-
-</div>
-
-<div type="apparatus">
-
-</div>
-
-<div type="translation" source="bib:Gillet2023_01">
-
-<p>This is the seventh year of Kōrājarājakesarivarman. We the great people <supplied reason="explanation"><foreign>perummakkaḷōm</foreign></supplied> of the assembly <supplied reason="explanation"><foreign>peruṅkuṟi</foreign></supplied> of big Śrī <supplied reason="lost">Vā</supplied>ṉavaṉ-mahādevi-caturvedimaṅgalam, a <foreign>brahmadeya</foreign> of the northern bank, on the day of this Rēvati which fell on a Saturday of the month of Tulā of this year, having <gap reason="lost" extent="unknown" unit="character"/>, having assembled in full <supplied reason="explanation">lit. without deficiency, <foreign>kūṭṭa kuṟai-v-a</foreign><supplied reason="lost"><foreign>ṟa-k-kū</foreign></supplied><foreign>ṭi iruntu</foreign></supplied> in the holy courtyard <supplied reason="explanation"><foreign>tirumuṟṟa</foreign><supplied reason="lost"><foreign>ttē</foreign></supplied><foreign>y</foreign></supplied> of the temple of Mahādeva of Śrī Vijayamaṅgalam of us who go <supplied reason="explanation">?</supplied>, having shown <supplied reason="subaudible">to?</supplied> the assembly, Ampalavaṉ Paḻuvūr Nakkaṉ alias Rā<supplied reason="lost">ja</supplied>rā<foreign>ja</foreign>pallavaraiyar, lord of Kuvaḷḷālam, of the superior grade of the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied>, who graciously caused to raise <supplied reason="explanation"><foreign>eḻuntaruḷḷuvitta</foreign></supplied> in stone the sanctuary of the temple of this Śrī Vijayamaṅgaladevar, <gap reason="lost" extent="unknown" unit="character"/>, having ordered by the given order to Caṭṭapocaṉ Veṇṇaya<supplied reason="lost">krama</supplied>vittaṉ of Vaṅkippuṟam, the officer <supplied reason="explanation"><foreign>kaṉmi</foreign></supplied> of him <gap reason="lost" extent="unknown" unit="character"/>, having made the holy duty <supplied reason="explanation"><foreign>śrī kāyyammam ceytu</foreign></supplied>, <gap reason="lost" extent="unknown" unit="character"/> a fine of twenty-five <foreign>kaḻañcu</foreign>s of gold <gap reason="lost" extent="unknown" unit="character"/> the <foreign>madhyastan</foreign> Niṉṟān Ārā Amutān, great poet <supplied reason="explanation"><foreign>peruṅkāviti</foreign></supplied> of Vāṉavaṉ-mahādevi <gap reason="lost" extent="unknown" unit="character"/> Do not neglect moral duty <supplied reason="explanation"><foreign>aṟam</foreign></supplied>; there is no support <supplied reason="explanation"><foreign>tuṇai</foreign></supplied> except moral duty. This is under the protection of the Panmāheśvaras.</p></div>
-
-<div type="commentary">
-
-</div>
-
-<div type="bibliography">
-
-	<p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
-	<p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
-	<p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
-
-	<listBibl type="primary">
-		<bibl>
-			<ptr target="bib:Gillet2023_01"/>
-			<citedRange unit="page">TBC</citedRange>
-			<citedRange unit="item">TBC</citedRange>
-		</bibl>
-	</listBibl>
-
-	<listBibl type="secondary">
-		<bibl>
-			<ptr target="bib:ARIE1928-1929"/>
-			<citedRange unit="page">TBC</citedRange>
-			<citedRange unit="appendix"> B/1928-1929</citedRange>
-			<citedRange unit="item">TBC</citedRange>
-		</bibl>
-	</listBibl>
-
-</div>
-
-	</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Govindapputtūr, Gaṅgājaṭādhara temple, time of ***, year **</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:vagi">
+                        <forename>Valérie</forename>
+                        <surname>Gillet</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</p
+                    ubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00526</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p>#16. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 160 (+ part 2, para 29); c) personally located; d) on the lowest part of the base of the northern façade; begins on the western side of the <foreign>gomukha</foreign> on the <foreign>ardha-maṇḍapa</foreign> and continues on the <foreign>antarala</foreign>; the last part is on the lowest part of the base of the eastern section of the sanctuary; e) regnal year 7 of Kōrājarājakesarivarman; f) Rājarāja I (<foreign>circa</foreign> 992 C.E.); g) there is no <foreign>svasti śrī</foreign> at the beginning of this inscription; many passages of this inscription remain illegible, and the translation is thus fragmentary.</p>
+                            
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-06-12" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+            <change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <p>
+                    <lb n="1"/>ko Irā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>kecari<hi rend="grantha">nma</hi>kki yāṇṭu Eḻāvatu vaṭa karai <hi rend="grantha">brahmade</hi>yam periya <hi rend="grantha">śrī</hi> <gap reason="lost" quantity="1" unit="character"/> ṉavaṉ<hi rend="grantha">mahā</hi>tevi<hi rend="grantha">ca</hi>tu<hi rend="grantha">rvve</hi>timaṅkalattu peruṅkuṟip ‡ <unclear>pe</unclear>rumma<unclear>kka</unclear> ‡ ḷ<unclear>o</unclear>m I <gap reason="lost" quantity="1" unit="character"/> <unclear>ṭ</unclear>ṭait tu<unclear>lānā</unclear>yaṟṟuc cani<unclear>k</unclear>
+                    <lb n="2"/> <gap reason="lost" quantity="1" unit="character"/> ḻamai peṟṟa Iraivati nāṉṟu peruṅku<unclear>ṟi</unclear> kāṭṭi p<unclear>o</unclear>ntu nammuṭaiya<hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi>yamaṅkalamuṭaiya <hi rend="grantha">mahā</hi>tevar koyil tirumuṟṟa <gap reason="lost" quantity="1" unit="character"/> tay kūṭṭa kuṟai va ‡ <gap reason="lost" quantity="2" unit="character"/> ṭi Iruntu <gap reason="lost" quantity="1" unit="character"/> ‡ <gap reason="lost" quantity="1" unit="character"/> <unclear>n</unclear>tu I <unclear> <gap reason="lost" quantity="1" unit="character"/> </unclear> <hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi>yamaṅ<unclear>kalat</unclear>evar
+                    <lb n="3"/>koyil<hi rend="grantha">śrī</hi>vimāṉam kallā Eḻuntaruḷḷuvitta Uṭaiyār peruntiṟattu kuvaḷḷālamuṭaiyāṉ Ampalavaṉ <unclear>paḻu</unclear>vūr nakkaṉṉāṉa Irā <gap reason="lost" quantity="1" unit="character"/> rā<hi rend="grantha">ja</hi>pallavaraiyaṟ ‡ {unlegible on my pictures} ‡ <unclear>l E</unclear> <gap reason="lost" quantity="2" unit="character"/> <unclear>Amayṭṭa</unclear> <hi rend="grantha">śrī</hi> k<unclear>ā</unclear><hi rend="grantha">yya</hi>mmam ceytu
+                    <lb n="4"/> <gap reason="lost" quantity="1" unit="character"/> <unclear> <gap reason="lost" quantity="1" unit="character"/> </unclear> naṟ Ivaka<hi rend="grantha">mi</hi> vaṅkippuṟattu caṭṭapocaṉ veṇṇa<unclear>ya</unclear> <gap reason="lost" quantity="2" unit="character"/> vittaṉukku paṇippaṇiyā<unclear>l pa</unclear>ṇittu <hi rend="grantha">śrī </hi>koyil <gap reason="lost" quantity="4" unit="character"/> <unclear>ṭu</unclear>tta nāṅkaḷai <gap reason="lost" quantity="4" unit="character"/> ceytu ku<unclear>ṭu</unclear> ‡ t<unclear>ta</unclear> <gap reason="lost" quantity="5" unit="character"/> ‡ <gap reason="lost" quantity="1" unit="character"/> <unclear>ko</unclear> <gap reason="lost" quantity="1" unit="character"/> lil <unclear><hi rend="grantha">śrī</hi></unclear><hi rend="grantha"> </hi> <gap reason="lost" quantity="1" unit="character"/> rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>m <unclear>pa</unclear>raiya
+                    <lb n="5"/>c <gap reason="lost" quantity="1" unit="character"/> yvitta ni<hi rend="grantha">bedha</hi>m Eperppaṭṭa <choice><unclear>ṉ</unclear><unclear>E</unclear></choice> vama <unclear> <gap reason="lost" quantity="1" unit="character"/> </unclear> llil <unclear> <gap reason="lost" quantity="1" unit="character"/> </unclear> vaṭṭaṭuvikkap peṟuvāṉṉākav <gap reason="lost" quantity="1" unit="character"/> m I <hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi>yamaṅkala <gap reason="lost" quantity="1" unit="character"/> <unclear>var</unclear> <gap reason="lost" quantity="1" unit="character"/> <unclear>yi</unclear>llil <unclear>I</unclear> <gap reason="lost" quantity="10" unit="character"/> ‡ {unlegible} ‡ <gap reason="lost" quantity="1" unit="character"/> <unclear>m</unclear> <unclear>Ik</unclear> <gap reason="lost" quantity="1" unit="character"/> <unclear>yil</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>ṇi</unclear> <gap reason="lost" quantity="3" unit="character"/> 
+                    <lb n="6"/> <gap reason="lost" quantity="2" unit="character"/> <unclear>vā</unclear> <gap reason="lost" quantity="9" unit="character"/> <unclear>m I</unclear>vaṉ coḷḷa/ṉṉa vaṇṇa <gap reason="lost" quantity="1" unit="character"/> y<unclear>ka</unclear>ṭavār <gap reason="lost" quantity="2" unit="character"/> <unclear>lam</unclear> <gap reason="lost" quantity="2" unit="character"/> <unclear>ya</unclear> <gap reason="lost" quantity="4" unit="character"/> <unclear>ḻa</unclear>ṉai <gap reason="lost" quantity="2" unit="character"/> <unclear>ā</unclear>rai ve <gap reason="lost" quantity="10" unit="character"/> <choice><unclear>ya</unclear><unclear><hi rend="grantha">dha</hi> ṟu</unclear></choice> <gap reason="lost" quantity="4" unit="character"/> vu <gap reason="lost" quantity="7" unit="character"/> ‡ {unlegible} ‡ {unlegible}
+                    <lb n="7"/><note>These last five lines are on the lowest part of the base of the sanctuary, on the eastern side.</note> Irupattu Aiy ḻaintu poṉ koḷḷap pe<unclear>ṟu</unclear>vāṉā<unclear>vem Ippa</unclear>ricu taṇṭit<unclear>tu</unclear> I <hi rend="grantha">śrī</hi> koy<unclear>iyalaṉmār?</unclear> ce<unclear>yiyap pe</unclear>
+                    <lb n="8"/>ṟuvāṉṉār kappa<unclear>ṭa</unclear>m kuṭuttu <unclear>tāṉpal</unclear> kuṭuttu <unclear>pa</unclear>ṇi<unclear>ppa</unclear>ṇiyāl paṇittu <unclear><hi rend="grantha">vya</hi></unclear>va<unclear> <gap reason="lost" quantity="1" unit="character"/> ṭai</unclear> ceytom peruṅkuṟi ppe
+                    <lb n="9"/>rummakkaḷom paṇittār cāttamaṅkalattu <unclear>cana</unclear>ppeti<unclear> <gap reason="lost" quantity="1" unit="character"/> ṭṭa</unclear><unclear>kavaṉṉārum</unclear> Ālika <gap reason="lost" quantity="1" unit="character"/> <unclear>ḷḷaṟai</unclear> Iy<hi rend="grantha">sahaśrā</hi> <unclear>cantuve</unclear>
+                    <lb n="10"/> <gap reason="lost" quantity="2" unit="character"/> kaṅkaṉ/ḷa tiruveṇakām <unclear>cappirumi</unclear>paṇiya<unclear>lai</unclear><hi rend="grantha">madhyasta</hi>ṉ niṉṟāṉṉārāva<unclear>mu</unclear>tāṉ vāṉavaṉ<hi rend="grantha">mahā</hi>tevi peruṅkāviti
+                    <lb n="11"/> <gap reason="lost" quantity="2" unit="character"/> va<unclear>ḷḷa</unclear> <gap reason="lost" quantity="3" unit="character"/> tu Aṟam maṟa<unclear>ve</unclear>kka Am<unclear>ma</unclear>llatu tuṇaiyillai<unclear>ye</unclear> Itu <gap reason="lost" quantity="1" unit="character"/> <hi rend="grantha">hāheśva</hi>ra ra<hi rend="grantha">kṣai</hi>
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+            </div>
+            
+            <div type="translation" source="bib:Gillet2023_01">
+                
+                <p>This is the seventh year of Kōrājarājakesarivarman. We the great people <supplied reason="explanation"><foreign>perummakkaḷōm</foreign></supplied> of the assembly <supplied reason="explanation"><foreign>peruṅkuṟi</foreign></supplied> of big Śrī <supplied reason="lost">Vā</supplied>ṉavaṉ-mahādevi-caturvedimaṅgalam, a <foreign>brahmadeya</foreign> of the northern bank, on the day of this Rēvati which fell on a Saturday of the month of Tulā of this year, having <gap reason="lost" extent="unknown" unit="character"/>, having assembled in full <supplied reason="explanation">lit. without deficiency, <foreign>kūṭṭa kuṟai-v-a</foreign><supplied reason="lost"><foreign>ṟa-k-kū</foreign></supplied><foreign>ṭi iruntu</foreign></supplied> in the holy courtyard <supplied reason="explanation"><foreign>tirumuṟṟa</foreign><supplied reason="lost"><foreign>ttē</foreign></supplied><foreign>y</foreign></supplied> of the temple of Mahādeva of Śrī Vijayamaṅgalam of us who go <supplied reason="explanation">?</supplied>, having shown <supplied reason="subaudible">to?</supplied> the assembly, Ampalavaṉ Paḻuvūr Nakkaṉ alias Rā<supplied reason="lost">ja</supplied>rā<foreign>ja</foreign>pallavaraiyar, lord of Kuvaḷḷālam, of the superior grade of the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied>, who graciously caused to raise <supplied reason="explanation"><foreign>eḻuntaruḷḷuvitta</foreign></supplied> in stone the sanctuary of the temple of this Śrī Vijayamaṅgaladevar, <gap reason="lost" extent="unknown" unit="character"/>, having ordered by the given order to Caṭṭapocaṉ Veṇṇaya<supplied reason="lost">krama</supplied>vittaṉ of Vaṅkippuṟam, the officer <supplied reason="explanation"><foreign>kaṉmi</foreign></supplied> of him <gap reason="lost" extent="unknown" unit="character"/>, having made the holy duty <supplied reason="explanation"><foreign>śrī kāyyammam ceytu</foreign></supplied>, <gap reason="lost" extent="unknown" unit="character"/> a fine of twenty-five <foreign>kaḻañcu</foreign>s of gold <gap reason="lost" extent="unknown" unit="character"/> the <foreign>madhyastan</foreign> Niṉṟān Ārā Amutān, great poet <supplied reason="explanation"><foreign>peruṅkāviti</foreign></supplied> of Vāṉavaṉ-mahādevi <gap reason="lost" extent="unknown" unit="character"/> Do not neglect moral duty <supplied reason="explanation"><foreign>aṟam</foreign></supplied>; there is no support <supplied reason="explanation"><foreign>tuṇai</foreign></supplied> except moral duty. This is under the protection of the Panmāheśvaras.</p></div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                    <bibl>
+                        <ptr target="bib:Gillet2023_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">TBC</citedRange>
+                    </bibl>
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1928-1929"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="appendix"> B/1928-1929</citedRange>
+                        <citedRange unit="item">TBC</citedRange>
+                    </bibl>
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>

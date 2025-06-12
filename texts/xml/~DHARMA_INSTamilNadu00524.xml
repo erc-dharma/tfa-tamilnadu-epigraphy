@@ -5,128 +5,128 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Govindapputtūr, Gaṅgājaṭādhara temple, time of ***, year **</title>
-				<respStmt>
-					<resp>author of digital edition</resp>
-					<persName ref="part:vagi">
-				 <forename>Valérie</forename>
-						<surname>Gillet</surname>
-			 </persName>
-			 <persName ref="part:emfr">
-				<forename>Emmanuel</forename>
-				 <surname>Francis</surname>
-			 </persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu30014</idno>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary><p>#14. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 157; SII 19, no. 331; c) personally located; d) on the northern façade, on the wall section between the <foreign>ardha-maṇḍapa</foreign> and the sanctuary; the last ten lines are engraved on the <foreign>ardha-maṇḍapa</foreign>, on the western side of the niche containing Kālārimūrti; e) regnal year 13 of Kōpparakesarivarman; f) Uttamacōḻa (<foreign>circa</foreign> 984 C.E.).</p>
-
-</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2025-06-12" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-			<change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-		<body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-
-<p>
-<lb n="1"/>[[<hi rend="grantha">svasti</hi>]] <hi rend="grantha">śrī</hi> kopparakecaripa<hi rend="grantha">nma</hi>kku yāṇṭu [[10]] <unclear>3</unclear> Āvatu [[va]]
-<lb n="2"/>ṭaka<unclear>rai</unclear><hi rend="grantha">brahma</hi>teyam periya vāṉavaṉ<hi rend="grantha">mahādeviścatuvve</hi>[[<hi rend="grantha">di</hi>]]
-<lb n="3"/>ma[[ṅka]]lattu<hi rend="grantha">śivabrāhma</hi>ṇar kā<hi rend="grantha">śya</hi>vaṉ kuṉ[[ṟa]]ṉ ciṅkapa
-<lb n="4"/>ṭṭa[[ṉu]]m<hi rend="grantha">bhā</hi>ra<hi rend="grantha">dvā</hi>ci koṟṟaṉ tiruvaraṅkapaṭṭaṉum Uḷḷaṭṭ<unclear>o</unclear>
-<lb n="5"/>m <unclear>A</unclear>raiyaṉ caṅkaranārāyaṇaṉāṉa coḻamuttaraiyar
-<lb n="6"/>k[[ku O]]ṭṭik kaittiṭṭu Iṭukkuṭutta paricāvatu Ivvūr [[I]] ‡ var Eṭuppit ‡ ta<hi rend="grantha">śrī</hi> kayil<unclear>ā</unclear>
-<lb n="7"/>[[yat]]<unclear>tu</unclear> Āḷvarkku vaṭak<unclear>ū</unclear>ṭi Erikkiḻ nilattil [[ni]]vantam ‡ c[[e]]ytapaṭiyi ‡ l nāṅka
-<lb n="8"/>[[nilam koṇṭu<hi rend="grantha">cantrādi</hi>]]<hi rend="grantha">tya</hi>vaṟ cevvomā<unclear>ka</unclear> <unclear>nivantam</unclear>[[tam]] ‡ tiruccenṉa ‡ ṭaippuṟamum
-<lb n="9"/>n[[e]]yyamutum kaṟi<unclear>ya</unclear>mutum tayiramutum Aṭaikkāyamutu ‡ m Ayaṉacaṅkirā ‡ nti Iraṇṭu
-<lb n="10"/>[[kkum]] vi<hi rend="grantha">ṣu</hi> Iraṇṭu[[k]]kum vaiykāci vicākamum <hi rend="grantha">stapa</hi>nam āṭi ‡ [[A]]ruḷi perun tiru ‡ Amutu cey
-<lb n="11"/>[[vu]]m tiruppukaiyu<unclear>m ti</unclear>ruccantaṇamum tiruviḷakku Eṇṇai nicata ‡ m nāḻikkum I ‡ ttaṉaikkum
-<lb n="12"/>[[vai]]yta nilaṅ koṇṭu<hi rend="grantha">panmāheśvara </hi>nāṟpatteṇṇāyiravar [[ka]] ‡ ṇkāṇiyākac ‡ ceyvitākavu
-<lb n="13"/>[[m tiru]] Amutu Oru nāḷ <unclear>mu</unclear>ṭṭil kalanel taṇṭappaṭuvatākavum ‡ maṟṟum nivan ‡ m muṭṭil pa
-<lb n="14"/>[[ṭi]] <unclear>Iraṭṭi</unclear> ceyvitā[[ka]]vum Ittaṉaiy<unclear>u</unclear>m tiṟampil vāriya[[p]] ‡ perumakkaḷukku ‡ Irukaḻañcu
-<lb n="15"/><note>I cannot locate this line on my pictures.</note> [[poṉ maṉṟuvatākavum Ipparicu Oṭṭik kaittiṭṭu]]
-<lb n="16"/><note>This line is on the vertical ledge below the wall section.</note> <unclear>kuṭu</unclear>ttom coḻamuttaraiyarkku kuṉṟaṉ ciṅkapaṉu ‡ [[m]] koṟṟaṉ ‡ tiru Araṅ[[ka]]ṉum
-<lb n="17"/><note>I cannot read this line on my pictures. It is on the horizontal part below the first ledge.</note> [[Uḷḷiṭṭom maṟṟu Ikkoyilli paṇceytu munpu niṉṟome Ippa]]
-<lb n="18"/><note>The following two lines are engraved on the recess, below the first ledge.</note> ṇi ceyāviṭ<unclear>i</unclear>l Ittaṇṭappaṭuvatāka Iṭṭu ‡ kuṭuttom ‡ Ivvaṉaivo
-<lb n="19"/>[[m]] Ivakaḷ veṇṭa Eḻutiṉe kāvirit teṉkarai Aḷanāṭ ‡ ṭu variñci ‡ yūr<hi rend="grantha">brahma</hi>te
-<lb n="20"/><note>These last ten lines are on the<hi rend="grantha">ardha-maṇḍapa</hi>, on the western side of the niche of the Kālārimūrti.</note> yattu <hi rend="grantha">kāśya</hi>vaṉ <hi rend="grantha">śrī </hi>kaṇṭan tā
-<lb n="21"/>motirapaṭṭaneṉ Ivai yeṉ
-<lb n="22"/>Eḻuttu Ippaṭa yoṭṭa Ip
-<lb n="23"/>paṇi ceyvatāka Iṭṭukkuṭutto
-<lb n="24"/>m<hi rend="grantha">bhāradvā</hi>ci koṟṟaṉ tiruvaraṅkkaṉu
-<lb n="25"/>kā<hi rend="grantha">śya</hi>vaṉ kuṉṟaṉ ciṅkapaṭṭaṉum
-<lb n="26"/>Uḷḷiṭṭa Ivvaṉaivom Ivakaḷ
-<lb n="27"/>kammāṭṭāṅkiṉāl Eḻutiṉāṉum
-<lb n="28"/>Iṭṭuk kuṭutteṉ kuṉṟaṉ ciṅ
-<lb n="29"/>kapaṭṭaṉeṉ Ivai yeṉ ṉeḻu
-<lb n="30"/>[ttu Ivai<hi rend="grantha">panmāheśvara rakṣai</hi>
-</p>
-
-</div>
-
-<div type="apparatus">
-
-</div>
-
-<div type="translation" source="bib:Gillet2023_01">
-
-<p>Fortune! Prosperity! This is the 13th year of Kōpparakesarivarman. <supplied reason="subaudible">We</supplied> the Śivabrāhmaṇars of big Vāṉavaṉ-mahādevi-caturvedimaṅgalam, a <foreign>brahmadeya</foreign> of the northern bank, we, including Kāśyavaṉ Kuṉṟaṉ Ciṅkapaṭṭaṉ and Bhāradvāci Koṟṟaṉ Tiruvaraṅkapaṭṭaṉ, having undertaken for Araiyaṉ Caṅkaranārāyaṇaṉ alias Cōḻamuttaraiyar, having granted the document, we gave in this manner: in the order which made the endowment <supplied reason="explanation"><foreign>nivantam</foreign></supplied> in the land under <supplied reason="subaudible">the irrigation of</supplied> the Vaṭakūṭi lake for the lord <supplied reason="explanation"><foreign>āḷvarkku</foreign></supplied> of the Śrī Kayilāyam, built <supplied reason="explanation"><foreign>eṭupitta</foreign></supplied> by him <supplied reason="explanation"><foreign>ivar</foreign></supplied> of this village, having taken our land, as long as the sun and the moon endure, we will have to make the endowment; the lands <supplied reason="explanation"><foreign>puṟam</foreign></supplied> for the temple expenses <supplied reason="explanation"><foreign>tiruccenṉaṭai</foreign></supplied>, the <foreign>ghee</foreign> food offerings, the vegetable food offerings, the curd food offerings, the arecanut food offerings, the making of the big holy food offerings for the gracious holy bath on the month of Vaikāci Vicākam for two <foreign>viṣu</foreign> and for two <foreign>ayaṉa</foreign> Sankirāntis, the holy smoke, the holy sandal paste, for a <foreign>nāḻi</foreign> of oil daily for a holy lamp; for all this <supplied reason="subaudible">we</supplied> gave, having taken the land; the forty-eight thousand Panmāheśvaras, as supervisers <supplied reason="explanation"><foreign>kaṇkāṇiyāka</foreign></supplied>, will have to perform. If the holy food offerings, for one day, are hindered, a fine of one <foreign>kalam</foreign> of paddy will fall; if the endowment is hindered besides <supplied reason="subaudible">this</supplied>, it will have to be done, having beaten the drum <supplied reason="explanation"><foreign>iraṭṭi</foreign></supplied> for the order; if the supervision committee <supplied reason="explanation"><foreign>vāriyam</foreign></supplied> deviates from all these, two <foreign>kaḻañcu</foreign>s of gold for the Lord <supplied reason="explanation"><foreign>perumakkaḷukku</foreign></supplied> will have to be collected; in this manner, having undertaken <supplied reason="subaudible">the endowment</supplied>, we gave the document <supplied reason="explanation"><foreign>kaittīṭṭu</foreign></supplied> for Cōḻamuttaraiyar, we, having stood before, having made the service in this temple beside us, Kuṉṟaṉ Ciṅkapaṉ and Kōṟṟaṉ Tiru Araṅkaṉ; if this service is not accomplished this fine will have to fall; having granted, we gave, we of those. I have written for the need of those, I, Kāśyavaṉ Śrī<foreign> </foreign>Kaṇṭan Tāmotirapaṭṭan, of the <foreign>brahmadeya</foreign> Variñciyūr of Aḷanāṭu of the southern bank of the Kāviri; those are my letters. This service undertaken in this manner will have to be made; having granted, we gave, we of those, including Kā<foreign>śya</foreign>vaṉ Kuṉṟaṉ Ciṅkapaṭṭaṉ and Bhāradvāci Kōṟṟaṉ Tiruvaraṅkkaṉ. I have written with the support <supplied reason="explanation"><foreign>tāṅkiṉāl</foreign>?</supplied> of Kammāḷ <supplied reason="explanation">?</supplied> <supplied reason="subaudible">among</supplied> them, having granted, I gave, I, Kuṉṟaṉ Ciṅkapaṭṭaṉ; those are my letters. This is under the protection of the Panmāheśvaras.</p></div>
-
-<div type="commentary">
-
-</div>
-
-<div type="bibliography">
-
-	<p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
-	<p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
-	<p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
-
-	<listBibl type="primary">
-		<bibl>
-			<ptr target="bib:Gillet2023_01"/>
-			<citedRange unit="page">TBC</citedRange>
-			<citedRange unit="item">TBC</citedRange>
-		</bibl>
-	</listBibl>
-
-	<listBibl type="secondary">
-		<bibl>
-			<ptr target="bib:ARIE1928-1929"/>
-			<citedRange unit="page">TBC</citedRange>
-			<citedRange unit="appendix"> B/1928-1929</citedRange>
-			<citedRange unit="item">TBC</citedRange>
-		</bibl>
-	</listBibl>
-
-</div>
-
-	</body>
-</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Govindapputtūr, Gaṅgājaṭādhara temple, time of ***, year **</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:vagi">
+                        <forename>Valérie</forename>
+                        <surname>Gillet</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00524</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p>#14. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 157; SII 19, no. 331; c) personally located; d) on the northern façade, on the wall section between the <foreign>ardha-maṇḍapa</foreign> and the sanctuary; the last ten lines are engraved on the <foreign>ardha-maṇḍapa</foreign>, on the western side of the niche containing Kālārimūrti; e) regnal year 13 of Kōpparakesarivarman; f) Uttamacōḻa (<foreign>circa</foreign> 984 C.E.).</p>
+                            
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-06-12" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+            <change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <p>
+                    <lb n="1"/>[[<hi rend="grantha">svasti</hi>]] <hi rend="grantha">śrī</hi> kopparakecaripa<hi rend="grantha">nma</hi>kku yāṇṭu [[10]] <unclear>3</unclear> Āvatu [[va]]
+                    <lb n="2"/>ṭaka<unclear>rai</unclear><hi rend="grantha">brahma</hi>teyam periya vāṉavaṉ<hi rend="grantha">mahādeviścatuvve</hi>[[<hi rend="grantha">di</hi>]]
+                    <lb n="3"/>ma[[ṅka]]lattu<hi rend="grantha">śivabrāhma</hi>ṇar kā<hi rend="grantha">śya</hi>vaṉ kuṉ[[ṟa]]ṉ ciṅkapa
+                    <lb n="4"/>ṭṭa[[ṉu]]m<hi rend="grantha">bhā</hi>ra<hi rend="grantha">dvā</hi>ci koṟṟaṉ tiruvaraṅkapaṭṭaṉum Uḷḷaṭṭ<unclear>o</unclear>
+                    <lb n="5"/>m <unclear>A</unclear>raiyaṉ caṅkaranārāyaṇaṉāṉa coḻamuttaraiyar
+                    <lb n="6"/>k[[ku O]]ṭṭik kaittiṭṭu Iṭukkuṭutta paricāvatu Ivvūr [[I]] ‡ var Eṭuppit ‡ ta<hi rend="grantha">śrī</hi> kayil<unclear>ā</unclear>
+                    <lb n="7"/>[[yat]]<unclear>tu</unclear> Āḷvarkku vaṭak<unclear>ū</unclear>ṭi Erikkiḻ nilattil [[ni]]vantam ‡ c[[e]]ytapaṭiyi ‡ l nāṅka
+                    <lb n="8"/>[[nilam koṇṭu<hi rend="grantha">cantrādi</hi>]]<hi rend="grantha">tya</hi>vaṟ cevvomā<unclear>ka</unclear> <unclear>nivantam</unclear>[[tam]] ‡ tiruccenṉa ‡ ṭaippuṟamum
+                    <lb n="9"/>n[[e]]yyamutum kaṟi<unclear>ya</unclear>mutum tayiramutum Aṭaikkāyamutu ‡ m Ayaṉacaṅkirā ‡ nti Iraṇṭu
+                    <lb n="10"/>[[kkum]] vi<hi rend="grantha">ṣu</hi> Iraṇṭu[[k]]kum vaiykāci vicākamum <hi rend="grantha">stapa</hi>nam āṭi ‡ [[A]]ruḷi perun tiru ‡ Amutu cey
+                    <lb n="11"/>[[vu]]m tiruppukaiyu<unclear>m ti</unclear>ruccantaṇamum tiruviḷakku Eṇṇai nicata ‡ m nāḻikkum I ‡ ttaṉaikkum
+                    <lb n="12"/>[[vai]]yta nilaṅ koṇṭu<hi rend="grantha">panmāheśvara </hi>nāṟpatteṇṇāyiravar [[ka]] ‡ ṇkāṇiyākac ‡ ceyvitākavu
+                    <lb n="13"/>[[m tiru]] Amutu Oru nāḷ <unclear>mu</unclear>ṭṭil kalanel taṇṭappaṭuvatākavum ‡ maṟṟum nivan ‡ m muṭṭil pa
+                    <lb n="14"/>[[ṭi]] <unclear>Iraṭṭi</unclear> ceyvitā[[ka]]vum Ittaṉaiy<unclear>u</unclear>m tiṟampil vāriya[[p]] ‡ perumakkaḷukku ‡ Irukaḻañcu
+                    <lb n="15"/><note>I cannot locate this line on my pictures.</note> [[poṉ maṉṟuvatākavum Ipparicu Oṭṭik kaittiṭṭu]]
+                    <lb n="16"/><note>This line is on the vertical ledge below the wall section.</note> <unclear>kuṭu</unclear>ttom coḻamuttaraiyarkku kuṉṟaṉ ciṅkapaṉu ‡ [[m]] koṟṟaṉ ‡ tiru Araṅ[[ka]]ṉum
+                    <lb n="17"/><note>I cannot read this line on my pictures. It is on the horizontal part below the first ledge.</note> [[Uḷḷiṭṭom maṟṟu Ikkoyilli paṇceytu munpu niṉṟome Ippa]]
+                    <lb n="18"/><note>The following two lines are engraved on the recess, below the first ledge.</note> ṇi ceyāviṭ<unclear>i</unclear>l Ittaṇṭappaṭuvatāka Iṭṭu ‡ kuṭuttom ‡ Ivvaṉaivo
+                    <lb n="19"/>[[m]] Ivakaḷ veṇṭa Eḻutiṉe kāvirit teṉkarai Aḷanāṭ ‡ ṭu variñci ‡ yūr<hi rend="grantha">brahma</hi>te
+                    <lb n="20"/><note>These last ten lines are on the<hi rend="grantha">ardha-maṇḍapa</hi>, on the western side of the niche of the Kālārimūrti.</note> yattu <hi rend="grantha">kāśya</hi>vaṉ <hi rend="grantha">śrī </hi>kaṇṭan tā
+                    <lb n="21"/>motirapaṭṭaneṉ Ivai yeṉ
+                    <lb n="22"/>Eḻuttu Ippaṭa yoṭṭa Ip
+                    <lb n="23"/>paṇi ceyvatāka Iṭṭukkuṭutto
+                    <lb n="24"/>m<hi rend="grantha">bhāradvā</hi>ci koṟṟaṉ tiruvaraṅkkaṉu
+                    <lb n="25"/>kā<hi rend="grantha">śya</hi>vaṉ kuṉṟaṉ ciṅkapaṭṭaṉum
+                    <lb n="26"/>Uḷḷiṭṭa Ivvaṉaivom Ivakaḷ
+                    <lb n="27"/>kammāṭṭāṅkiṉāl Eḻutiṉāṉum
+                    <lb n="28"/>Iṭṭuk kuṭutteṉ kuṉṟaṉ ciṅ
+                    <lb n="29"/>kapaṭṭaṉeṉ Ivai yeṉ ṉeḻu
+                    <lb n="30"/>[ttu Ivai<hi rend="grantha">panmāheśvara rakṣai</hi>
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+            </div>
+            
+            <div type="translation" source="bib:Gillet2023_01">
+                
+                <p>Fortune! Prosperity! This is the 13th year of Kōpparakesarivarman. <supplied reason="subaudible">We</supplied> the Śivabrāhmaṇars of big Vāṉavaṉ-mahādevi-caturvedimaṅgalam, a <foreign>brahmadeya</foreign> of the northern bank, we, including Kāśyavaṉ Kuṉṟaṉ Ciṅkapaṭṭaṉ and Bhāradvāci Koṟṟaṉ Tiruvaraṅkapaṭṭaṉ, having undertaken for Araiyaṉ Caṅkaranārāyaṇaṉ alias Cōḻamuttaraiyar, having granted the document, we gave in this manner: in the order which made the endowment <supplied reason="explanation"><foreign>nivantam</foreign></supplied> in the land under <supplied reason="subaudible">the irrigation of</supplied> the Vaṭakūṭi lake for the lord <supplied reason="explanation"><foreign>āḷvarkku</foreign></supplied> of the Śrī Kayilāyam, built <supplied reason="explanation"><foreign>eṭupitta</foreign></supplied> by him <supplied reason="explanation"><foreign>ivar</foreign></supplied> of this village, having taken our land, as long as the sun and the moon endure, we will have to make the endowment; the lands <supplied reason="explanation"><foreign>puṟam</foreign></supplied> for the temple expenses <supplied reason="explanation"><foreign>tiruccenṉaṭai</foreign></supplied>, the <foreign>ghee</foreign> food offerings, the vegetable food offerings, the curd food offerings, the arecanut food offerings, the making of the big holy food offerings for the gracious holy bath on the month of Vaikāci Vicākam for two <foreign>viṣu</foreign> and for two <foreign>ayaṉa</foreign> Sankirāntis, the holy smoke, the holy sandal paste, for a <foreign>nāḻi</foreign> of oil daily for a holy lamp; for all this <supplied reason="subaudible">we</supplied> gave, having taken the land; the forty-eight thousand Panmāheśvaras, as supervisers <supplied reason="explanation"><foreign>kaṇkāṇiyāka</foreign></supplied>, will have to perform. If the holy food offerings, for one day, are hindered, a fine of one <foreign>kalam</foreign> of paddy will fall; if the endowment is hindered besides <supplied reason="subaudible">this</supplied>, it will have to be done, having beaten the drum <supplied reason="explanation"><foreign>iraṭṭi</foreign></supplied> for the order; if the supervision committee <supplied reason="explanation"><foreign>vāriyam</foreign></supplied> deviates from all these, two <foreign>kaḻañcu</foreign>s of gold for the Lord <supplied reason="explanation"><foreign>perumakkaḷukku</foreign></supplied> will have to be collected; in this manner, having undertaken <supplied reason="subaudible">the endowment</supplied>, we gave the document <supplied reason="explanation"><foreign>kaittīṭṭu</foreign></supplied> for Cōḻamuttaraiyar, we, having stood before, having made the service in this temple beside us, Kuṉṟaṉ Ciṅkapaṉ and Kōṟṟaṉ Tiru Araṅkaṉ; if this service is not accomplished this fine will have to fall; having granted, we gave, we of those. I have written for the need of those, I, Kāśyavaṉ Śrī<foreign> </foreign>Kaṇṭan Tāmotirapaṭṭan, of the <foreign>brahmadeya</foreign> Variñciyūr of Aḷanāṭu of the southern bank of the Kāviri; those are my letters. This service undertaken in this manner will have to be made; having granted, we gave, we of those, including Kā<foreign>śya</foreign>vaṉ Kuṉṟaṉ Ciṅkapaṭṭaṉ and Bhāradvāci Kōṟṟaṉ Tiruvaraṅkkaṉ. I have written with the support <supplied reason="explanation"><foreign>tāṅkiṉāl</foreign>?</supplied> of Kammāḷ <supplied reason="explanation">?</supplied> <supplied reason="subaudible">among</supplied> them, having granted, I gave, I, Kuṉṟaṉ Ciṅkapaṭṭaṉ; those are my letters. This is under the protection of the Panmāheśvaras.</p></div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                    <bibl>
+                        <ptr target="bib:Gillet2023_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">TBC</citedRange>
+                    </bibl>
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1928-1929"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="appendix"> B/1928-1929</citedRange>
+                        <citedRange unit="item">TBC</citedRange>
+                    </bibl>
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
