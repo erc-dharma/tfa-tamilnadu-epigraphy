@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tirucceṉṉampūṇṭi, Caṭaiyar temple, time of ***, year **</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:vagi">
+                        <forename>Valérie</forename>
+                        <surname>Gillet</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INStfaSIIv07p0i0520</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p>Tirucceṉṉampūṇṭi, Tanjavur taluk and district, Caṭaiyar temple; begins at the bottom of the westernmost wall section of the southern façade of the <foreign>ardha-maṇḍapa</foreign>, and continues on the upper part of the base of the whole <foreign>ardha-maṇḍapa</foreign>; 17th regnal year of <foreign>matirai koṇṭa</foreign> Kōpparakesarivarman = Parantaka I (<foreign>circa</foreign> 924 A.D.).</p>
+                            
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-06-12" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+            <change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <p>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> matirai koṇṭa kopparakecari[[paṉ]]maṟku yā
+                    <lb n="2"/>ṇṭu 17 Āvatu Iṭaiyāṟṟunāṭ<unclear>ṭi</unclear>t ti[[rukka]]ṭ[[ai]]muṭi <unclear>ma</unclear>
+                    <lb n="3"/><hi rend="grantha">hāde</hi>varku cantirātitaraḷavum Oru muḻut tiruviḷakkiṉu<unclear>k</unclear>ku paḻuveṭṭa
+                    <lb n="4"/>raiyar makaḷār nampirāṭṭiyār Arumo<unclear>ḻ</unclear>inaṅkaiyār pari<unclear>vā</unclear>ram kuṇavaṉ
+                    <lb n="5"/>cūratoṅki vaitta poṉ <unclear>pa</unclear>tiṉ Aṟu kaḻañcu poṉṉālum
+                    <lb n="6"/>Iravum pakalum [[noṉ]]tāviḷakku Eri[[vatā]]kava tirukkoṭikku
+                    <lb n="7"/>nampa<unclear>ṉ</unclear> <gap reason="lost" quantity="8" unit="character"/> cum <unclear>ceyi</unclear>ṟ[[ṟi]] <gap reason="lost" quantity="6" unit="character"/> [[tāyaṉ param<unclear>e</unclear>cura]]vaṉ<hi rend="grantha">sū</hi>
+                    <lb n="8"/>[[<hi rend="grantha">r</hi>]]y<hi rend="grantha">ya</hi>[[<hi rend="grantha">gra</hi> <gap reason="lost" quantity="3" unit="character"/> ra <gap reason="lost" quantity="10" unit="character"/> n<unclear>eyum</unclear> pālum ta<unclear>yirum Aṭ</unclear>ṭi Aruḷa vai[tta po]]]ṉ
+                    <lb n="9"/>[[mu]] <gap reason="lost" quantity="8" unit="character"/> rupatiṉ kaḻa[[ñcu po]] <gap reason="lost" quantity="9" unit="character"/> vat<unclear>ā</unclear>
+                    <lb n="10"/> <gap reason="lost" quantity="6" unit="character"/> r cavaiyom <gap reason="lost" quantity="3" unit="character"/> I <gap reason="lost" quantity="4" unit="character"/> [[<unclear>p</unclear>oṉ]]ṉukku [[v]]iṟṟuk ku
+                    <lb n="11"/>ṭukiṉṟa nilat<unclear>tu</unclear>kkellai kiḻ<unclear>parke</unclear>lai <unclear>U</unclear>ṭciṟuvākkālu mekku teṉpāṟkkellai Āritaṉ nārāyaṇaṉ cāttaṉum tampipārmakātava<unclear>ṉ</unclear> ceṭṭinākaṉ {sculpted floral motif} <unclear>ni</unclear>lattuku vaṭakkum melpālkellai Āritaṇ nākaṉ nilakaṇṭaṉum tampiyum Etta <gap reason="lost" quantity="1" unit="character"/> kku kiḻ<unclear>pa</unclear>kkum Aṅkāṭi vākkālukku kiḻakkum teṟku
+                    <lb n="12"/>vaṭapāṟkellai <gap reason="lost" quantity="1" unit="character"/> <unclear>k</unclear>kuṭaivākka <gap reason="lost" quantity="2" unit="character"/> teṟkum Ivicaitta perunāṉkellaiyil Akappaṭṭa nilam Uṇṇilam O <gap reason="lost" quantity="5" unit="character"/> kāṟceyum {sculpted floral motif} tirukkaṭaimuṭip perumāṉnaṭikaḷukku Iṟaiyiliyāka cenirveṭṭiyum Āṟṟukkulaiyumm uḷpa <gap reason="lost" quantity="2" unit="character"/> perppaṭṭatum kāttuk kuṭupomā
+                    <lb n="13"/>nom tiru<unclear>perca</unclear>vai<unclear>yo</unclear>m Itaṟṟimpil cavaiy ākilum taṉittaṉi Ākilum Aiñ kaḻañcu poṉ taṇṭap paṭa Oṭṭi <gap reason="lost" quantity="5" unit="character"/> vayom {sculpted floral motif} Ikālce Iḷakuṉavaṉ cūrantoṅki vaitta ceyanāmānampaṉ k<unclear>ā</unclear>ñci vaitta nilam kāṇiyum cāyaṉ parameycu <gap reason="lost" quantity="1" unit="character"/> ṉ vaitta nilam mukkāṇiyum
+                    <lb n="14"/>Āka Icceykāl kuṇavaṉ cūrantoṅki vaitta nilai <gap reason="lost" quantity="1" unit="character"/> ḷakku O <gap reason="lost" quantity="2" unit="character"/> Ittama<hi rend="grantha">rakṣ</hi> <gap reason="lost" quantity="6" unit="character"/> <unclear>ṉ</unclear> talai me <gap reason="lost" quantity="2" unit="character"/> 
+                    <lb n="15"/><unclear>itu paṉmāye <gap reason="lost" quantity="3" unit="character"/> </unclear><hi rend="grantha">rakṣai</hi>
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+            </div>
+            
+            <div type="translation" source="bib:Gillet2024_01">
+                
+                <p>Fortune! Prosperity! This is the 17th year of Kōpparakesarivarman who has taken Madurai. For Mahādeva of Tirukkaṭaimuṭi in Iṭaiyāṟṟunāṭu, for one <supplied reason="explanation"><foreign>oru</foreign></supplied> entire <supplied reason="explanation"><foreign>muḻu</foreign></supplied> sacred lamp <supplied reason="explanation"><foreign>tiruviḷakkiṉukku</foreign></supplied> as long as the sun and the moon endure <supplied reason="explanation"><foreign>cantirātitaraḷavum</foreign></supplied>, Kuṇavaṉ Cūratoṅki, of the suite <supplied reason="explanation"><foreign>parivāram</foreign></supplied> of our queen <supplied reason="explanation"><foreign>nampirāṭṭiyār</foreign></supplied> Arumoḻinaṅkaiyār, daughter <supplied reason="explanation"><foreign>makaḷār</foreign></supplied> of the Paḻuvēṭṭaraiyar, placed <supplied reason="explanation"><foreign>vaitta</foreign></supplied> sixteen <foreign>kaḻañcu</foreign>s of gold <supplied reason="explanation"><foreign>poṉ</foreign></supplied>; with all this gold <supplied reason="explanation"><foreign>poṉṉālum</foreign></supplied>, night and day <supplied reason="explanation"><foreign>iravum pakalum</foreign></supplied>, a perpetual lamp <supplied reason="explanation"><foreign>nontāviḷakku</foreign></supplied> will have to be burnt <supplied reason="explanation"><foreign>erivatākava</foreign></supplied>; for the holy flag <supplied reason="explanation"><foreign>tirukkoṭikku</foreign></supplied> Nampaṉ <gap reason="lost" extent="unknown" unit="character"/> Paramecuvaraṉ Sūrya <gap reason="lost" extent="unknown" unit="character"/> having placed/poured <supplied reason="explanation"><foreign>aṭṭi</foreign></supplied> <foreign>ghee</foreign> <supplied reason="explanation"><foreign>neyum</foreign></supplied>, milk <supplied reason="explanation"><foreign>pālum</foreign></supplied> and curd <supplied reason="explanation"><foreign>tayirum</foreign></supplied>, graciously gave <supplied reason="explanation"><foreign>aruḷa vaitta</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> sixteen <foreign>kaḻañcu</foreign>s of gold <gap reason="lost" extent="unknown" unit="character"/> we the Sabhā <supplied reason="explanation"><foreign>cavaiyōm</foreign></supplied>, having sold <supplied reason="explanation"><foreign>viṟṟu</foreign></supplied> for the gold <supplied reason="explanation"><foreign>poṉṉukku</foreign></supplied> we gave <supplied reason="explanation"><foreign>kuṭukiṉṟa</foreign></supplied> <supplied reason="subaudible">a land</supplied>; the boundaries <supplied reason="explanation"><foreign>ellai</foreign></supplied> of the land <supplied reason="explanation"><foreign>nilattukku</foreign></supplied> <supplied reason="subaudible">are</supplied>: the eastern side boundary <supplied reason="explanation"><foreign>kīḻparkelai</foreign> &gt; <foreign>kīḻpāṟkellai</foreign></supplied> <supplied reason="subaudible">is</supplied> to the west <supplied reason="explanation"><foreign>mēkku</foreign> &gt; <foreign>mērkku</foreign></supplied> of the small inner water channel <supplied reason="explanation"><foreign>uṭciṟuvākkālu</foreign> &gt; <foreign>uṭciṟuvāykkālukku</foreign></supplied>; the southern side boundary <supplied reason="explanation"><foreign>teṉpāṟkkellai</foreign></supplied> <supplied reason="subaudible">is</supplied> to the north <supplied reason="explanation"><foreign>vaṭakkum</foreign></supplied> of the land <supplied reason="explanation"><foreign>nilattukku</foreign></supplied> of Āritaṉ Nārāyaṇaṉ Cāttaṉ and his younger brother <supplied reason="explanation"><foreign>tampi</foreign></supplied> Pārmakātavaṉ Ceṭṭinākaṉ; the western side boundary <supplied reason="explanation"><foreign>mēlpālkellai</foreign> &gt; <foreign>mēlpāṟkellai</foreign></supplied> <supplied reason="subaudible">is</supplied> to the east <supplied reason="explanation"><foreign>kīḻpakkum</foreign></supplied> of <gap reason="lost" extent="unknown" unit="character"/> of Āritaṇ Nākaṉ Nilakaṇṭaṉ and his younger brother <supplied reason="explanation"><foreign>tampiyum</foreign></supplied> and to the east <supplied reason="explanation"><foreign>kīḻakkum</foreign></supplied> of the water channel <supplied reason="explanation"><foreign>vākkālukku</foreign></supplied> Aṅkāṭi; the northern side boundary <supplied reason="explanation"><foreign>vaṭapāṟkellai</foreign></supplied><note>Is the addition of <foreign>teṟku</foreign> before <foreign>vaṭapāṟkellai</foreign> a mistake?</note> <supplied reason="subaudible">is</supplied> to the south <supplied reason="explanation"><foreign>teṟkum</foreign></supplied> of <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="explanation">a water channel?</supplied>; <supplied reason="subaudible">this is</supplied> the land which falls within <supplied reason="explanation"><foreign>akapaṭṭa</foreign></supplied> these four great boundaries <supplied reason="explanation"><foreign>perunāṉkellaiyil</foreign></supplied> thus divided <supplied reason="explanation"><foreign>ivicaitta</foreign></supplied>. <gap reason="lost" extent="unknown" unit="character"/> the quarter land <supplied reason="explanation"><foreign>kāṟceyum</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> inner land <supplied reason="explanation"><foreign>uṇṇilam</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> as tax-free <supplied reason="explanation"><foreign>iṟaiyiliyāka</foreign></supplied> for the Lord <supplied reason="explanation"><foreign>perumāṉnaṭikaḷukku</foreign> &gt; <foreign>perumāṉaṭikaḷukku</foreign></supplied> of Tirukkaṭaimuṭi, we of the great Sabhā <supplied reason="explanation"><foreign>tirupercavaiyōm</foreign></supplied> we will give <supplied reason="explanation"><foreign>kuṭupōmāṉōm</foreign> &gt; <foreign>kuṭuppōmāṉōm</foreign></supplied>, having shown <supplied reason="explanation"><foreign>kāttu</foreign></supplied> <supplied reason="subaudible">the document for taxes</supplied> of whatever name <supplied reason="explanation"><supplied reason="lost"><foreign>ep</foreign></supplied><foreign>pērpaṭṭatum</foreign></supplied> including <supplied reason="explanation"><foreign>uḷpa</foreign><supplied reason="lost"><foreign>ṭa</foreign></supplied></supplied> the <foreign>ceṉṉīr-veṭṭi</foreign> tax <supplied reason="explanation"><foreign>cenir</foreign> &gt; <foreign>ceṉṉīr</foreign></supplied> and the <foreign>āṟṟukkulai</foreign> tax; if one deviates from this <supplied reason="explanation"><foreign>itaṟṟimpil</foreign> &gt; <foreign>itaṟ ṟiṟampil</foreign> &gt; <foreign>itaṉ tiṟampil</foreign></supplied>, whether this is <supplied reason="explanation"><foreign>ākilum</foreign></supplied> the Sabhā <supplied reason="explanation"><foreign>cavaiy</foreign></supplied> or whether they are <supplied reason="explanation"><foreign>ākilum</foreign></supplied> individuals <supplied reason="explanation"><foreign>taṉittaṉi</foreign></supplied>, a fine <supplied reason="explanation"><foreign>taṇṭa</foreign></supplied> of five <supplied reason="explanation"><foreign>aiñ</foreign></supplied> <foreign>kaḻañcu</foreign>s will occur <supplied reason="explanation"><foreign>paṭa</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> this quarter <foreign>cey</foreign> <supplied reason="explanation"><foreign>ikālce</foreign></supplied> given <supplied reason="explanation"><foreign>vaitta</foreign></supplied> by Iḷakuṉavaṉ Cūratoṅki, <supplied reason="subaudible">for</supplied> a standing lamp <supplied reason="explanation"><foreign>nilai</foreign><supplied reason="lost"><foreign>vi</foreign></supplied><foreign>ḷakku</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> Kuṇavaṉ Cūrantoṅki gave <supplied reason="explanation"><foreign>vaitta</foreign></supplied> this quarter <foreign>cey</foreign> <supplied reason="explanation"><foreign>icceykāl</foreign></supplied> as <supplied reason="explanation"><foreign>āka</foreign></supplied> one <foreign>kāṇi</foreign> of land <supplied reason="explanation"><foreign>nilam</foreign></supplied> given <supplied reason="explanation"><foreign>vaitta</foreign></supplied> by Ceyanāmānampaṉ Kāñci <supplied reason="explanation">name?</supplied> and three <foreign>kāṇi</foreign>s of land given by Cāyaṉ Paramecuvaṉ. Those who protect <supplied reason="explanation"><foreign>rakṣi</foreign><supplied reason="lost"><foreign>pār</foreign></supplied></supplied> this donation <supplied reason="explanation"><foreign>ittama</foreign> &gt; <foreign>ittamam</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> on my head <supplied reason="explanation"><supplied reason="lost"><foreign>e</foreign></supplied><foreign>ṉ</foreign> <foreign>talai</foreign> <foreign>mē</foreign><supplied reason="lost"><foreign>l</foreign></supplied></supplied>. This is under the protection of the Paṉmāhe<supplied reason="lost">śvaras</supplied>.</p></div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1900-1901"/></bibl> (ARIE/1900-1901/A/1901/299) and <bibl><ptr target="bib:ARIE1974-1975"/></bibl> (ARIE/1974-1975/B/1974-1975/137).</p>
+                <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1932_01"/></bibl> (SII 7.520<note>Only the first ten lines are edited, that is, the line  engraved on the base are not included.</note>), in <bibl><ptr target="bib:Schmid2014_02"/></bibl>. Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on photos provided by Babu N. Ramaswamy (EFEO, Pondicherry).</p>
+                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:SubrahmanyaAiyer1932_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">520</citedRange>
+                    </bibl>
+                    
+                    <bibl n="CS">
+                        <ptr target="bib:Schmid2014_02"/>
+                        <citedRange unit="page">322-324</citedRange>
+                        <citedRange unit="item">17</citedRange>
+                    </bibl>
+                    
+                    <bibl n="VG">
+                        <ptr target="bib:Gillet2024_01"/>
+                        <citedRange unit="page">272-274</citedRange>
+                        <citedRange unit="item">150</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1900-1901"/>
+                        <citedRange unit="page">27</citedRange>
+                        <citedRange unit="appendix">A/1901</citedRange>
+                        <citedRange unit="item">299</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1974-1975"/>
+                        <citedRange unit="page">36</citedRange>
+                        <citedRange unit="appendix">B/1974-1975</citedRange>
+                        <citedRange unit="item">137</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>

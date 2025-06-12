@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paḻuvēṭṭaraiyar, *** temple, time of ***, year **</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:vagi">
+                        <forename>Valérie</forename>
+                        <surname>Gillet</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00193</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p>#149. a) Vṛddhācalam (Viruttācalam), Vṛddhācalam taluk, Cuddalore district, Vṛddhāgirīśvara temple; b) on the southern façade of the sanctuary; c) site not visited; edition established from pictures of the inscription provided by N. Cane; d) ARE 1918, no. 39; e) 5th regnal year of Kōpparakesarivarman alias Śrī Rājendracōḻadevar; f) Rajendra I (<foreign>circa</foreign> 1017 A.D.); g) inscription not read with anyone; h) lines 1 to 14 contain the <foreign>meykkīrtti</foreign> of Rājendra I.</p>
+                            
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-06-12" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+            <change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <p>
+                    <lb n="1–13"/><hi rend="grantha">svasti śrī</hi> {<hi rend="grantha">meykkīrtti</hi>}
+                    <lb n="14"/>{<hi rend="grantha">meykkīrtti</hi>} kop
+                    <lb n="15"/>parakecaripaṉmarāṉa<hi rend="grantha">śrīrajentra</hi><unclear><hi rend="grantha">co</hi></unclear>
+                    <lb n="16"/> <gap reason="lost" quantity="1" unit="character"/> <hi rend="grantha">de</hi>varkku yāṇṭu 5 Āvatu vaṭaka
+                    <lb n="17"/>rai<hi rend="grantha">rājentrasi</hi><unclear><hi rend="grantha">ṃ</hi></unclear><hi rend="grantha">ha</hi>vaḷanāṭṭu Iruko<unclear>ḷa</unclear>
+                    <lb n="18"/>ppāṭip paruvūrkkūṟṟattu neṟkup
+                    <lb n="19"/>pait tirumutukuṉṟam uṭ<unclear>ai</unclear>ya<hi rend="grantha">mahā</hi>
+                    <lb n="20"/><hi rend="grantha">de</hi>varku muñ<unclear>ñai</unclear> vallavaraiyar <hi rend="grantha">de</hi>
+                    <lb n="21"/><unclear>vi</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>ḻuveṭṭa</unclear>rai <gap reason="lost" quantity="2" unit="character"/> <unclear>makaḷā</unclear> <gap reason="lost" quantity="3" unit="character"/> 
+                    <lb n="22"/> <gap reason="lost" quantity="4" unit="character"/> tevaṭikaḷār vat <gap reason="lost" quantity="1" unit="character"/> tirun <gap reason="lost" quantity="1" unit="character"/> viḷak
+                    <lb n="23"/>kkoṉṟukku <gap reason="lost" quantity="3" unit="character"/> tuṟai <gap reason="lost" quantity="2" unit="character"/> ḷūr <gap reason="lost" quantity="3" unit="character"/> 
+                    <lb n="24"/> <gap reason="lost" quantity="1" unit="character"/> koṇṭa poṉ patiṉ kaḻañcu <gap reason="lost" quantity="3" unit="character"/> 
+                    <lb n="25"/> <gap reason="lost" quantity="1" unit="character"/> <unclear>pa</unclear>tiṉ kaḻañcum poliyaṭṭā<unclear>ka</unclear> <gap reason="lost" quantity="2" unit="character"/> 
+                    <lb n="26"/>ṇṭu ni <gap reason="lost" quantity="2" unit="character"/> m Uḻakku ney <gap reason="lost" quantity="6" unit="character"/> 
+                    <lb n="27"/><unclear>ṉṟu</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>kkaṭavaṉey</unclear> Eḻuṉā <gap reason="lost" quantity="4" unit="character"/> 
+                    <lb n="28"/>ṉi <gap reason="lost" quantity="4" unit="character"/> ṉṟu <gap reason="lost" quantity="1" unit="character"/> cāma <gap reason="lost" quantity="4" unit="character"/> 
+                    <lb n="29"/> <gap reason="lost" quantity="6" unit="character"/> pa<hi rend="grantha">nmāheśvara</hi> <gap reason="lost" quantity="2" unit="character"/> 
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+            </div>
+            
+            <div type="translation" source="bib:Gillet2024_01">
+                
+                <p>Fortune! Prosperity! {<foreign>meykkīrtti</foreign>} This is the 5th year of Kōpparakesarivarman alias Śrī Rājendracō<supplied reason="lost">ḻa</supplied>devar. For Mahādeva who possesses/of <supplied reason="explanation"><foreign>uṭaiya</foreign></supplied> Tirumutukuṉṟam in Neṟkuppai in Paruvūrkkūṟṟam of Iruṅkoḷappaṭi of Rājendrasiṃhavaḷanāṭu on the northern bank <supplied reason="explanation"><foreign>vaṭakarai</foreign></supplied>, the wife/queen <supplied reason="explanation"><foreign>devi</foreign><supplied reason="lost"><foreign>yār</foreign></supplied></supplied> of Muññai Vallavaraiyar, daughter <supplied reason="explanation"><foreign>makaḷār</foreign></supplied> of the Paḻuvēṭṭaraiyar, <gap reason="lost" extent="unknown" unit="character"/> Tēvaṭikaḷār <supplied reason="lost">gave</supplied> for one <supplied reason="lost">perpetual</supplied> lamp <supplied reason="explanation"><foreign>tirun</foreign><supplied reason="lost"><foreign>ontā</foreign></supplied><foreign>viḷakkoṉṟukku</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> ten <foreign>kaḻañcu</foreign>s of gold taken <supplied reason="explanation"><foreign>koṇṭa</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> ten <supplied reason="explanation"><foreign>patiṉ</foreign></supplied> <foreign>kaḻañcu</foreign>s <gap reason="lost" extent="unknown" unit="character"/> one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> <supplied reason="explanation"><foreign>ney</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">this is under the protection of the</supplied> Paṉmāheśvaras.</p></div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+                <p>Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2016-2018</ref>).</p>
+                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                    <bibl>
+                        <ptr target="bib:Gillet2024_01"/>
+                        <citedRange unit="page">271-272</citedRange>
+                        <citedRange unit="item">149</citedRange>
+                    </bibl>
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <!--<bibl>
+                        <ptr target="bib:ARIE****-****"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="appendix">TBC</citedRange>
+                        <citedRange unit="item">TBC</citedRange>
+                        </bibl>-->
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
