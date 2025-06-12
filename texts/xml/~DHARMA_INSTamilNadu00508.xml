@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ambasamudram, Tirumūlanātha temple, time of ***, year **</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:vagi">
+                        <forename>Valérie</forename>
+                        <surname>Gillet</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00508</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p>#8 (Fig. 21). a) Tirumūlanātha temple; b) on the northern side of the base of the <foreign>mukha-maṇḍapa</foreign> in front of the shrine sheltering Viṣṇu (see Figs. 8 [the inscription is covered with white powder]–9); lines 4 to 7 are difficult to read, and I have followed the previous edition; c) personally accessed and photographed in 2023; d) ARE 1907, no. 86; SII 14, no. 56, p. 41; IEP 70; e) dated with the 9th year opposite to this 2nd (i.e. 11th) year of Caṭaiyamāṟaṉ; f) some of the terms of this inscription were discussed on 25th August 2023 during a Dharma project workshop in Pondicherry, with G. Vijayavenugopal, Emmanuel Francis, Uthaya Velluppilai, T. Rajarethinam, R. Sathyanarayanan, M. Vigneshwaran, Dominic Goodall.</p>
+                            
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-06-12" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+            <change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:vernacular">
+                
+                <p>
+                    <lb n="1"/>koccaṭaiyamāṟakku yāṇṭu Iraṇṭu <unclear>I</unclear>[[taṉ etir]] O<unclear>ṉpatu mu</unclear>[[ḷḷināṭ]]<unclear>ṭu</unclear><hi rend="grantha">brahma</hi>teyam<note>The word<hi rend="grantha">brahmateyam</hi> is clearly added above. It may have been initially forgotten. </note> Iḷaṅkoykkuṭi
+                    <lb n="2"/><unclear><hi rend="grantha">sabh</hi></unclear><hi rend="grantha">ai</hi>y<unclear>ā</unclear>r<unclear>i</unclear>ṭai Ūriṉ me<unclear>lū</unclear>r puṟṟu teṟṟiy<unclear>u</unclear>māyk kiṭanta pā<unclear>ḻ</unclear> [[iṟai]] kāṭṭātitāka vi[[lai koṇ]]
+                    <lb n="3"/>ṭu vacak[[ki]] <unclear>vayalum kuḷamum Ākki Ik kuḷattāl nir</unclear> [[mi]]<unclear>kuvatu vaccu nel viḷaiccu Añ ñāḻik kālā</unclear> {after this, lines difficult to read}
+                    <lb n="4"/>[[ <unclear>l</unclear> māttāl kalaṉey tūṇi nellu ikkuḷam iṟaikku ōrāḷuṅ kuṭuppatāka kiṭaippuṟam itu vikkūṟu vayakkum vā<hi rend="grantha">ryya</hi>-
+                    <lb n="5"/>rkkuk kuṭuppatākavum toral intatu avi . . rkkūṟum vilai koṇṭu paṟaiyaṉ vacakkaleṉṟu periṭṭu kū-
+                    <lb n="6"/>ḻ peṟṟa kari yeṉṟu piyariṭṭuk kiṭaippuṟam vaittāṉ araiyaṉ aṇukkaril puvaṉ paṟaiyaṉeṉ canti-
+                    <lb n="7"/>rātittaval niṟpatāka vaittatu mikku ne uriyy<hi rend="grantha">yā</hi>ka kuṭutta pacu oṉṟu kaṉṟum kuṭutte pūm paṟaiyaṉe itu]]
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+            </div>
+            
+            <div type="translation" source="bib:Gillet2024_01">
+                
+                <p>The ninth <supplied reason="explanation"><foreign>oṉpatu</foreign></supplied> year opposite to this <supplied reason="explanation"><foreign>itaṉ</foreign></supplied> second year of king <supplied reason="explanation"><foreign>kō</foreign></supplied> Caṭaiyamāṟaṉ. Having bought <supplied reason="explanation"><foreign>vilai koṇṭu</foreign></supplied> a tax-free <supplied reason="explanation"><foreign>iṟai kāṭṭātitāka</foreign></supplied> waste land <supplied reason="explanation"><foreign>pāḻ</foreign></supplied> lying <supplied reason="explanation"><foreign>kiṭanta</foreign></supplied> with <supplied reason="explanation"><foreign>āy</foreign></supplied> mounds <supplied reason="explanation"><foreign>teṟṟiyum</foreign></supplied> and holes <supplied reason="explanation"><foreign>puṟṟu</foreign></supplied> to the west <supplied reason="explanation"><foreign>mēlūr</foreign></supplied> of this village <supplied reason="explanation"><foreign>ūriṉ</foreign></supplied> from <supplied reason="explanation"><foreign>iṭai</foreign></supplied> those of the Sabhā of Iḷaṅkōykkuṭi, a <foreign>brahmadeya</foreign> in Muḷḷināṭu, having improved the land <supplied reason="explanation"><foreign>vacakki</foreign></supplied> with <supplied reason="explanation"><foreign>ākki</foreign></supplied> fields <supplied reason="explanation"><foreign>vayalum</foreign></supplied> and a tank <supplied reason="explanation"><foreign>kuḷamum</foreign></supplied>, having placed/given <supplied reason="explanation"><foreign>vaccu</foreign> &gt; <foreign>vaiccu</foreign></supplied> that which has come as excess water <supplied reason="explanation"><foreign>nir mikuvatu</foreign></supplied> from this tank <supplied reason="explanation"><foreign>ik kuḷattāl</foreign></supplied>, having produced <supplied reason="explanation"><foreign>viḷaiccu</foreign></supplied> paddy <supplied reason="explanation"><foreign>nel</foreign></supplied>, one <foreign>kalam</foreign> and one <foreign>tūṇi</foreign> of paddy <supplied reason="explanation">nellu</supplied> per <foreign>mā</foreign> <supplied reason="explanation"><foreign>māttāl</foreign></supplied> with the standard measure <supplied reason="explanation"><foreign>kālāl</foreign></supplied> of five <foreign>nāḻi</foreign>s, and one person <supplied reason="explanation"><foreign>ōr āḷum</foreign></supplied> who will irrigate <supplied reason="explanation"><foreign>iṟaikkum</foreign></supplied> from this tank <supplied reason="explanation"><foreign>ikkuḷam</foreign></supplied>; that which was given <supplied reason="explanation"><foreign>kuṭuppatāka</foreign></supplied> as donation for Vedic recitation/Vedic school/religious school <supplied reason="explanation"><foreign>kiṭaippuṟam</foreign></supplied>; that has to be given <supplied reason="explanation"><foreign>kuṭuppatākavum</foreign></supplied> to the Vāryyar <supplied reason="explanation">supervisors?</supplied> to improve <supplied reason="explanation"><foreign>vayakkum</foreign></supplied> this share <supplied reason="explanation"><foreign>ik kūṟu</foreign></supplied>; </p></div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+                <p>This edition by Valérie Gillet and Emmanuel Francis, based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>
+                
+                <listBibl type="primary">
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <!--<bibl>
+                        <ptr target="bib:ARIE****-****"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="appendix">TBC</citedRange>
+                        <citedRange unit="item">TBC</citedRange>
+                        </bibl>-->
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>

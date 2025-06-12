@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ambasamudram, *** temple, time of ***, year **</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:vagi">
+                        <forename>Valérie</forename>
+                        <surname>Gillet</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00502</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p>#2. (Fig. 13). a) Ericcāvuṭaiyār temple; b) on the inner faces of the door jambs of the small shrine south of the main shrine: the first 9 lines are engraved at the bottom of the northern door jamb and, from line 10, are engraved on the inner face of the southern one; c) personally accessed and photographed in 2023; d) ARE 1916, no. 298; SII 14, no. 36; e) 35th year of a king whose name is not given;<note>The editors of those epigraphs identified him with Māṟañcaṭaiyaṉ based on other inscriptions of a Māṟañcaṭaiyaṉ with high regnal years. Other inscriptions from the same region are indeed dated with high regnal years of a Māṟañcaṭaiyāṉ: Kaḻukumalai (IEP 50, 59), Māṉūr (IEP 51), Paḷḷimaṭam (IEP 57), Talapaticamutiram (IEP 58), Ēruvāṭi (IEP 60), Talavāypuram (IEP 61). However, without working precisely on these sites and inscriptions, it is difficult to ascertain that they belong to the same king. The script, with round, large and well-spaced letters, points, in my view, to this inscription pertaining to the 9th or the early 10th century.</note> f) this inscription was read on 25th August 2023 during a Dharma project workshop in Pondicherry, with G. Vijayavenugopal, Emmanuel Francis, Uthaya Velluppilai, T. Rajarethinam, R. Sathyanarayanan, M. Vigneshwaran, Dominic Goodall.</p>
+                            
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-06-12" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+            <change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:vernacular">
+                
+                <p>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                    <lb n="2"/>yāṇṭu mup
+                    <lb n="3"/>pattaiñcu
+                    <lb n="4"/>ivvāṇṭu
+                    <lb n="5"/>ve<unclear>ḷā</unclear>nāṭ
+                    <lb n="6"/>ṭup pāppā
+                    <lb n="7"/>r i<unclear>ru</unclear>kkai
+                    <lb n="8"/><unclear>p pāratā</unclear>yaṉ {end of what we see at the bottom of the door-jamb}
+                    <lb n="9"/>[[centaṉaikaṉ]] {this line is no longer visible}
+                    <lb n="10"/>muḷḷi nā {first line on the opposite doorjamb}
+                    <lb n="11"/>ṭṭup pi
+                    <lb n="12"/>ramateya
+                    <lb n="13"/>m I<unclear>ḷaṅ</unclear>
+                    <lb n="14"/>koykku
+                    <lb n="15"/>ṭit tirupo
+                    <lb n="16"/>ttuṭaiy<unclear>āḷ</unclear>
+                    <lb n="17"/>vār Aka[[nāḻi]]
+                    <lb n="18"/>kaiyār munn[[ū]]
+                    <lb n="19"/>ṟṟuvañ cen
+                    <lb n="20"/>taṉ<unclear>u</unclear>mā<unclear>ṉa</unclear> na
+                    <lb n="21"/>kkañ c<unclear>e</unclear>ka
+                    <lb n="22"/>la civa<unclear>ṉu</unclear>
+                    <lb n="23"/>m vacam
+                    <lb n="24"/>tiruppo
+                    <lb n="25"/>ttuṭaiyā
+                    <lb n="26"/>ḷvārkku
+                    <lb n="27"/>vaicca ti
+                    <lb n="28"/>runontā
+                    <lb n="29"/>viḷakku
+                    <lb n="30"/>oṉṟukku
+                    <lb n="31"/>nicati U
+                    <lb n="32"/>ḻakku ney
+                    <lb n="33"/>aṭṭa vai<unclear>ca</unclear>
+                    <lb n="34"/>cāvāmūvā pe
+                    <lb n="35"/>rāṭu Aimpatu
+                    <lb n="36"/>Ivai ko<unclear>ṇ</unclear>ṭu
+                    <lb n="37"/>cantirā<unclear>ti</unclear>
+                    <lb n="38"/>tavaṟ co<unclear>ti</unclear>
+                    <lb n="39"/>viḷakkerip
+                    <lb n="40"/>patu itu I
+                    <lb n="41"/>ḷaṅkoykku<unclear>ṭi</unclear>
+                    <lb n="42"/>capai vāriyarum
+                    <lb n="43"/>paṉmāyecuva
+                    <lb n="44"/>rarum [[ra<hi rend="grantha">kṣai</hi>]]
+                    <lb n="45"/>yāka vai<unclear>ttatu</unclear>
+                    <lb n="46"/>||
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+            </div>
+            
+            <div type="translation" source="bib:Gillet2024_01">
+                
+                <p>Fortune! Prosperity! The 35th year. In this year, Pāratāyaṉ Cēntaṉaikaṉ, resident <supplied reason="explanation"><foreign>irukkai</foreign></supplied> of Pāppār of Vēḷānāṭu,<note>May this Vēḷānāṭu be the Vēḷnāṭu or Vēnāṭu of the southern Kerala <supplied reason="explanation">see Narayanan (2013</supplied>, 179, 191–194)?</note> gave <supplied reason="explanation"><foreign>vaicca</foreign></supplied> for Tiruppōttuṭai Āḷvār in the care of <supplied reason="explanation"><foreign>vacam</foreign></supplied> Nakkan Cekala <supplied reason="explanation">&gt;Cakala</supplied> Civaṉ alias Cēntaṉ <supplied reason="subaudible">of</supplied> the Three Hundred <supplied reason="explanation"><foreign>munnūṟṟuvañ</foreign></supplied>, priest/priests <supplied reason="explanation"><foreign>akanāḻikaiyār</foreign></supplied> of Tirupottuṭai Āḷvār of Ilaṅkōykkuṭi, a <foreign>brahmadeya</foreign> of Muḷḷināṭu; to supply <supplied reason="explanation"><foreign>aṭṭa</foreign></supplied> ghee <supplied reason="explanation"><foreign>ney</foreign></supplied> for one <foreign>uḻakku</foreign> everyday for one perpetual lamp, he gave <supplied reason="explanation"><foreign>vaica</foreign></supplied> fifty <supplied reason="explanation"><foreign>aimpatu</foreign></supplied> undying and non ageing great goats. Having taken those <supplied reason="explanation"><foreign>ivai</foreign></supplied>, a lamp <supplied reason="explanation"><foreign>viḷakku</foreign></supplied> on Cōti <supplied reason="explanation"><foreign>coti</foreign> &gt; <foreign>cōti</foreign>, the 15th Nakṣatra</supplied> has to burn <supplied reason="explanation"><foreign>eripatu</foreign></supplied>, as long as the sun and the moon last. This has been placed <supplied reason="explanation"><foreign>vaittatu</foreign></supplied> under <supplied reason="explanation"><foreign>āka</foreign></supplied> the protection of the committee <supplied reason="explanation"><foreign>vāriyarum</foreign></supplied> of the Sabhā <supplied reason="explanation"><foreign>capai</foreign></supplied> of Iḷankōykkuṭi and of the Paṉmāheśvaras.</p></div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+                <p>This edition by Valérie Gillet and Emmanuel Francis, based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>
+                
+                <listBibl type="primary">
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <!--<bibl>
+                        <ptr target="bib:ARIE****-****"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="appendix">TBC</citedRange>
+                        <citedRange unit="item">TBC</citedRange>
+                        </bibl>-->
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>

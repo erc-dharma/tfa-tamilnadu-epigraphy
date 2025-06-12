@@ -5,186 +5,186 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Kīḻmuṭṭukūr hero-stone, time of Parakesarivarman, year 32</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00161</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary></summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p></p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-                        under the European Union's Horizon 2020 research and innovation programme (grant
-                        agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                            ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-09-10" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-   	
-   	<body>
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-    
-    <ab>
-        <lb n="1"/><hi rend="grantha">śrī</hi>
-    </ab>
-    
-	<p>
-		<lb n="2"/>matirai ko
-		<lb n="3" break="no"/>ṇṭa kō-p-para
-		<lb n="4" break="no"/>-kēcari-va<unclear>n</unclear>maṟku y<unclear>ā</unclear>
-		<lb n="5" break="no"/>ṇṭu muppattu Ira<unclear>ṇ</unclear>
-		<lb n="6" break="no"/>ṭ-āvatu
-	</p>
-	<p>		
-		vaṭa-karai
-		<lb n="7"/>mukkuṭṭūr  ku		
-		<lb n="8" break="no"/>māra-<unclear>na</unclear>ntai puḻa
-		<lb n="9" break="no"/><unclear>la</unclear>ppaṉ pu
-		<lb n="10" break="no"/>li kutti
-		<lb n="11" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>a karai-ṉā
-		<lb n="12" break="no"/>ṭu
-	</p>
-    
-</div>
-         
-         <!--<div type="apparatus">
-         	
-         	<listApp>
-         		
-         	    <app loc="0">
-         		<lem>...</lem>
-         		<rdg source="bib:Hultzsch1896-1897_05">...</rdg>
-         	    </app>     
-         	    
-         	</listApp>
-         	
-         </div>-->
-         
-<div type="translation" source="bib:Hultzsch1896-1897_05">
-    
-    <p n="1">
-           Prosperity! In the thirty-second year <supplied reason="subaudible">of the reign</supplied> of king Parakēsarivarman who conquered Madirai. <supplied reason="subaudible">This is</supplied> the spot on the embankment, at which a tiger was stabbed by Kumāra-<unclear>Na</unclear>ndai Puḻa<unclear>la</unclear>ppaṉ of Mukkuṭṭūr, a village on the northern bank <supplied reason="subaudible">of the Pālāṟu river</supplied>.
-    </p>   
-    
-</div>
-   	    
-<div type="translation" resp="part:emfr">
-    
-    <p n="1">
-        Prosperity!
-    </p>
-    
-    <p n="2-6">
-        Thirty-second year of the king Parakesarivarman who took Maturai.
-    </p>
-    
-    <p n="4-12">
-        <supplied reason="subaudible">This is</supplied> the enbankment <supplied reason="explanation"><foreign>karai</foreign></supplied> place <supplied reason="explanation"><foreign>nāṭu</foreign></supplied> where
-        Kumāra Nantai Puḻalappaṉ <supplied reason="subaudible">of</supplied> Mukkuṭṭūr, <supplied reason="explanation">on</supplied> the northern bank,
-                pierced/stabbed <supplied reason="explanation"><foreign>kuttiṉa</foreign></supplied> a tiger.
-    </p>
-</div>
-         
-<!--<div type="commentary">         	
-                      
-</div>-->
-   	    
-<div type="bibliography">
-            
-            <p>Reported in <bibl><ptr target="bib:ARIE1895-1896"/></bibl> (ARIE/1895-1896/B/1896/2).</p>
-             <p>Edited and translated in <bibl><ptr target="bib:Hultzsch1896-1897_05"/></bibl> (EI 4.22C).</p>
-             <p>This edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1896-1897_05"/></bibl> and photos (E. Francis 2024).</p>
-            
-            <listBibl type="primary">
-               
-            	<bibl n="EH">
-            		<ptr target="bib:Hultzsch1896-1897_05"/>
-            		<citedRange unit="page">179</citedRange> 
-            	</bibl>
-               
-            </listBibl>
-            
-            <listBibl type="secondary">
-               
-               <bibl>
-                  <ptr target="bib:ARIE1895-1896"/>
-                  <citedRange unit="page">8</citedRange>
-                  <citedRange unit="appendix">B/1896</citedRange>
-                  <citedRange unit="item">2</citedRange>
-               </bibl>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kīḻmuṭṭukūr hero-stone, time of Parakesarivarman, year 32</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00161</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-09-10" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
-                <bibl>
-                  <ptr target="bib:Sivaramamurti1948_01"/>
-                  <citedRange unit="plate">VII (b)</citedRange>
-               </bibl>
-               
-            </listBibl>
+                <ab>
+                    <lb n="1"/><hi rend="grantha">śrī</hi>
+                </ab>
+                
+                <p>
+                    <lb n="2"/>matirai ko
+                    <lb n="3" break="no"/>ṇṭa kō-p-para
+                    <lb n="4" break="no"/>-kēcari-va<unclear>n</unclear>maṟku y<unclear>ā</unclear>
+                    <lb n="5" break="no"/>ṇṭu muppattu Ira<unclear>ṇ</unclear>
+                    <lb n="6" break="no"/>ṭ-āvatu
+                </p>
+                <p>		
+                    vaṭa-karai
+                    <lb n="7"/>mukkuṭṭūr  ku		
+                    <lb n="8" break="no"/>māra-<unclear>na</unclear>ntai puḻa
+                    <lb n="9" break="no"/><unclear>la</unclear>ppaṉ pu
+                    <lb n="10" break="no"/>li kutti
+                    <lb n="11" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>a karai-ṉā
+                    <lb n="12" break="no"/>ṭu
+                </p>
+                
+            </div>
             
-         </div>
-         
-      </body>
-  </text>
+            <!--<div type="apparatus">
+                
+                <listApp>
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:Hultzsch1896-1897_05">...</rdg>
+                </app>     
+                
+                </listApp>
+                
+                </div>-->
+            
+            <div type="translation" source="bib:Hultzsch1896-1897_05">
+                
+                <p n="1">
+                    Prosperity! In the thirty-second year <supplied reason="subaudible">of the reign</supplied> of king Parakēsarivarman who conquered Madirai. <supplied reason="subaudible">This is</supplied> the spot on the embankment, at which a tiger was stabbed by Kumāra-<unclear>Na</unclear>ndai Puḻa<unclear>la</unclear>ppaṉ of Mukkuṭṭūr, a village on the northern bank <supplied reason="subaudible">of the Pālāṟu river</supplied>.
+                </p>   
+                
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                    Prosperity!
+                </p>
+                
+                <p n="2-6">
+                    Thirty-second year of the king Parakesarivarman who took Maturai.
+                </p>
+                
+                <p n="4-12">
+                    <supplied reason="subaudible">This is</supplied> the enbankment <supplied reason="explanation"><foreign>karai</foreign></supplied> place <supplied reason="explanation"><foreign>nāṭu</foreign></supplied> where
+                    Kumāra Nantai Puḻalappaṉ <supplied reason="subaudible">of</supplied> Mukkuṭṭūr, <supplied reason="explanation">on</supplied> the northern bank,
+                    pierced/stabbed <supplied reason="explanation"><foreign>kuttiṉa</foreign></supplied> a tiger.
+                </p>
+            </div>
+            
+            <!--<div type="commentary">         	
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1895-1896"/></bibl> (ARIE/1895-1896/B/1896/2).</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Hultzsch1896-1897_05"/></bibl> (EI 4.22C).</p>
+                <p>This edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Hultzsch1896-1897_05"/></bibl> and photos (E. Francis 2024).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="EH">
+                        <ptr target="bib:Hultzsch1896-1897_05"/>
+                        <citedRange unit="page">179</citedRange> 
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1895-1896"/>
+                        <citedRange unit="page">8</citedRange>
+                        <citedRange unit="appendix">B/1896</citedRange>
+                        <citedRange unit="item">2</citedRange>
+                    </bibl>
+                    
+                    <bibl>
+                        <ptr target="bib:Sivaramamurti1948_01"/>
+                        <citedRange unit="plate">VII (b)</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>

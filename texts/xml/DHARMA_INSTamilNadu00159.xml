@@ -5,213 +5,213 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Parakesarivarman Rājarāja</title>
-			    <respStmt>
-			        <resp>intellectual authorship of edition</resp>
-			        <persName ref="part:vija">
-			            <forename>G.</forename>
-			            <surname>Vijayavenugopal</surname>
-			        </persName>
-			    </respStmt>
-			    <respStmt>
-			        <resp>EpiDoc encoding</resp>
-			        <persName ref="part:emfr">
-			            <forename>Emmanuel</forename>
-			            <surname>Francis</surname>
-			        </persName>
-			    </respStmt>			    
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00159</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>Instances of eccentric ductus for Tamil <foreign>p</foreign>, looking like <foreign>m</foreign> or <foreign>ṭ</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change status="draft" when="2024-05-05" who="part:emfr">Creation of the file on the
-				repository</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-
-<body>
-         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/><unclear>svasti śrī</unclear>
-	</ab>
-	
-	<lg n="1" met="āciriyappā">
-		<l n="1"><unclear>p</unclear>ū maruv<unclear>i</unclear>ya t<unclear>iru</unclear>-mātum pu<supplied reason="lost">vi-m</supplied>ātum ceya-mātum</l>
-		<l n="2">nā maruv<unclear>iya</unclear> kalai-mātum pukaḻ-mātu<unclear>m</unclear> naya<unclear>ntu</unclear> pu<gap reason="lost" quantity="2" unit="character" precision="low"/></l>
-		<l n="3"><gap reason="lost" quantity="4" unit="character" precision="low"/> <unclear>v</unclear><supplied reason="lost">i</supplied>t<supplied reason="lost">i</supplied>ne<unclear>ṟi Aṉai</unclear>ttu<supplied reason="lost">n</supplied> <gap reason="lost" quantity="4" unit="character" precision="low"/></l>
-		<l n="4"><gap reason="lost" quantity="3" unit="character" precision="low"/> <lb n="2"/><gap reason="lost" quantity="1" unit="character" precision="low"/> Urimaiyāl maṇimuṭi cūṭi-t</l>
-		<l n="5">tiṅkaḷ veṇ-kuṭai-t ticai-k kaḷ<choice><sic>u</sic><corr>i</corr></choice>ṟ’ eṭṭun</l>
-		<l n="6">taṅku taṉikkūṭan tā<choice><orig>n</orig><reg>ṉ</reg></choice>eṉa viḷaṅka</l>
-		<l n="7">karuṅ<unclear>kal</unclear><supplied reason="lost">i</supplied>-p paṭṭiyai-c ceṅ<supplied reason="lost">k</supplied>ō<!--only kompu is visible--><supplied reason="lost">l</supplied> <gap reason="lost" quantity="5" unit="character" precision="low"/></l>
-		<l n="8"><gap reason="lost" quantity="1" unit="character" precision="low"/><lb n="3" break="no"/>ruṅ katir āḻi puvi va<unclear reason="eccentric_ductus">ḷa</unclear>rttuṭaṉ vara</l>
-		<l n="9"><surplus>vi</surplus>villavar Iraṭṭar m<choice><orig>i</orig><reg>ī</reg></choice>ṉavar ciṅkaḷar</l>
-		<l n="10">pallavar nu<unclear>ta</unclear>likaḷ pā<reg>r</reg>ttivar paṇ<supplied reason="lost">i</supplied>ya</l>
-		<l n="11">Eṇṇaruṅ <supplied reason="lost">ka</supplied>ṟpa maṇṇakam puṇa<supplied reason="omitted">r</supplied>ntu</l>
-		<l n="12"><gap reason="lost" quantity="7" unit="character" precision="low"/><lb n="4" break="no"/>ṅṅ<!--looks like dede-->ā<hi rend="grantha">sa</hi>ṉattu-p</l>
-		<l n="13">puvaṉa-muḻut-uṭaiyāḷoṭum v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-irunt-aruḷiya</l>
-	</lg>
-				
-	<p>
-		kō-p-parakēcari-paṟmar-āṉa tiripuvaṉa-c-cakkarava<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-rē<unclear reason="eccentric_ductus">ja</unclear>-r<unclear>ē</unclear><unclear reason="eccentric_ductus">ja</unclear>-rē<unclear reason="eccentric_ductus">ja</unclear>-deva<reg>r</reg>kku yā<supplied reason="lost">ṇṭu</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-	</p>
-	
-	<p>
-		<lb n="5"/><unclear>ti</unclear>ru-naḷḷāṟ-uṭaiyarkku Upaiyam-Āka Uyya-k-koṇṭār-vaḷanāṭṭu kuṟu<unclear>m</unclear>pūr-nāṭṭu-<unclear>k</unclear> kāyākkuṭiyāṉ Utaiya t<unclear>i</unclear> <gap reason="lost" extent="unknown" unit="character"/>
-		<lb n="6" break="no"/>maṅkalattu-k kā<unclear>ra</unclear>mpil ceṭ<unclear>ṭu</unclear> tūṟpil tā<choice><sic>p</sic><corr>m</corr></choice>ōtira-paṭṭaṉ U<supplied reason="lost">p</supplied>aiya<choice><orig>mm</orig><reg>m</reg></choice>-āka tiru-naḷḷāṟ-uṭaiyarkku ciṟu-kā<supplied reason="lost">lai</supplied> <gap reason="lost" extent="unknown" unit="character"/>
-		<lb n="7"/><gap reason="lost" quantity="2" unit="character"/> yaruḷa Ic-ceppu vaṭṭakai <hi rend="grantha">sa</hi>ka<hi rend="grantha">sra</hi> <gap reason="lost" quantity="1" unit="character"/> tārai On<gap reason="lost" quantity="1" unit="character"/>l Āṭi Aruḷuk<supplied reason="lost">ai</supplied>kku nittam nāḻi-p pā<unclear>l āṭi</unclear> Aru <gap reason="lost" extent="unknown" unit="character"/>
-		
-		<lb n="8"/>mituṉa-nāyaṟṟu Apara-pa<hi rend="grantha">kṣa</hi>ttu <hi rend="grantha">ṣaṭṭi</hi>yum p<unclear>u</unclear>taṉ-kiḻamaiyum peṟṟa cataiyat<supplied reason="lost">tu</supplied> ṉāḷ Ik-kōyil mu-p-patu vaṭṭattu ci <gap reason="lost" extent="unknown" unit="character"/>
-		
-		<lb n="9" break="no"/>ṭ<unclear>ai</unclear>ya kā<hi rend="grantha">śya</hi><surplus>ya</surplus>paṉ maṇṭai naḷḷāṟāṉ ēḻ-kaṭaṉuñ cūḻntāṉum Iva<unclear>ṉ</unclear> tam<unclear reason="eccentric_ductus">p</unclear>i periyāḻvāṉ nā<supplied reason="omitted">ṭu</supplied>ṭai-p perumā
-		<gap reason="lost" extent="unknown" unit="character"/>
-		
-		<lb n="10"/><gap reason="lost" quantity="10" unit="character" precision="low"/> Iva<choice><orig>n</orig><reg>ṉ</reg></choice> tampi namacivāya<unclear>ṉu</unclear>m kā<hi rend="grantha">śya</hi>paṉ tillai-nāyaka<supplied reason="lost">ṉ U</supplied>mai-y-āḻvāṉ<choice><sic>a</sic><corr>u</corr></choice>m kā<hi rend="grantha">śya</hi>paṉ piccaṉ appaṉum
-		<gap reason="lost" extent="unknown" unit="character"/>
-		
-		<lb n="11"/><gap reason="lost" quantity="3" unit="character" precision="low"/> kevutamaṉ<choice><sic>a</sic><corr>u</corr></choice>m <gap reason="lost" quantity="3" unit="character" precision="low"/> nakkaṉ m<choice><orig>u</orig><reg>ū</reg></choice>vāyira-ta<unclear>ḷā</unclear>ruvaṉum kā<hi rend="grantha">śya</hi>paṉ nāṭ-uṭaiyaṉ <gap reason="lost" quantity="1" unit="character" precision="low"/> ntar-t toṭ-uṭaiyaṉu<choice><sic>p</sic><corr>ṉ</corr></choice> Ivaṉ tampi
-		<gap reason="lost" extent="unknown" unit="character"/>
-		
-		<lb n="12"/><gap reason="lost" quantity="3" unit="character" precision="low"/> vaṉ makaṉ cāṉṟaruḷi <unclear>k</unclear>aliya kāṉa nāṭu <gap reason="lost" quantity="3" unit="character" precision="low"/> p perumārum kā<hi rend="grantha">śya</hi>paṉ ciṟiyā<unclear>ṉ</unclear> nāṭ-uṭai-p <choice><sic>m</sic><corr>p</corr></choice>erumāḷum Ivaṉ tam<unclear reason="eccentric_ductus">p</unclear>i ci
-		<gap reason="lost" extent="unknown" unit="character"/>
-		
-		<lb n="13" break="no"/>ṭoyāratāra vaṉait tarattāṉum kā<hi rend="grantha">śya</hi><unclear>pa</unclear>ṉ cāṉṟu pōṉāṉ nāṭuṭaip <gap reason="lost" quantity="2" unit="character" precision="low"/> <unclear>māḷu</unclear>m Ivaṉ tamp<unclear>i</unclear> <gap reason="lost" quantity="6" unit="character" precision="low"/>		
-		
-		<lb n="14" break="no"/>ṭ<supplied reason="lost">ai</supplied>yāṉum Ivaṉ tam<unclear reason="eccentric_ductus">p</unclear>i periyāḻvāṉ nāṭuṭ<unclear>ai</unclear>yāṉum kevu<unclear>ta</unclear>maṉ caṅkara-tēva<unclear>ṉ</unclear> <supplied reason="lost">ti</supplied>ru-k-ka<supplied reason="omitted">ṟṟa</supplied>ḷi-p-piḷḷaiyum Ātavan Uyya ni<unclear>ṉṟā</unclear>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		
-		<lb n="15"/>kevutamaṉ tiru-k-kaṟuttāṉ maṇṭai-y-āḻ<unclear>v</unclear>āṉum
-		kevu <space type="feature"/> tamaṉ civa<unclear>ṉ</unclear> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">kevu</supplied>
-		
-		<lb n="16" break="no"/>tamaṉ tiru-c-ciṟṟampalam-uṭaiyāṉ cuntara tōṭu <space type="feature"/> <gap reason="illegible" quantity="2" unit="character"/> <hi rend="grantha">ge</hi>v<supplied reason="lost">u</supplied>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		
-		<lb n="17" break="no"/><gap reason="lost" quantity="3" unit="character" precision="low"/> Ālacan Aḷa<unclear>p</unclear>i Upaiya-t-t<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu-k kuṭutta paric' āva<supplied reason="lost">tu</supplied>
-	</p>
-	
-	<p>
-		<unclear>U</unclear>ṭaiyar <space type="feature"/>kkuṟuk
-		<gap reason="lost" extent="unknown" unit="character"/>		
-				
-		<lb n="18" break="no"/><gap reason="lost" quantity="2" unit="character" precision="low"/> <unclear>ṅ</unclear>kaḷ <unclear>A</unclear>ḷakkum pāl nāḻi I <gap reason="lost" quantity="8" unit="character" precision="low"/> ṟṟai nā <space type="feature"/> <gap reason="lost" quantity="2" unit="character" precision="low"/> rol I
-		<gap reason="lost" quantity="2" unit="character" precision="low"/>
-		<lb n="19" break="no"/><num value="60">6 <g type="numeral">10</g></num>
-	</p>
-	<p>
-		Ik-k<unclear>ā</unclear>cu <unclear>A</unclear>ṟupatum nā <gap reason="lost" quantity="2" unit="character" precision="low"/> kariyē <unclear>n</unclear>āṅkaḷ <unclear>k</unclear>ai-<unclear>k</unclear>-koṇṭu Ik-kācukku Aṟupatukku vanta palicaikku Ip-paṭiyāl nitta nāḻip pā <gap reason="illegible" quantity="1" unit="character" precision="low"/> ṉ pāl
-		<gap reason="lost" quantity="2" unit="character" precision="low"/> k
-		<gap reason="lost" extent="unknown" unit="character"/>
-		
-		<lb n="20" break="no"/>pōm āka <hi rend="grantha">sa</hi>mma<unclear>ti</unclear>ttu Upaiya-t t<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu-k kuṭu <gap reason="lost" quantity="9" unit="character" precision="low"/> vaṭṭattu-k kāṇi Uṭaiya Ivv-aṉaivōm <g type="gomutraFinal">.</g>
-		
-	</p>
-	
-</div>
-         
-<!--<div type="apparatus"/>-->
-           
-<div resp="part:emfr" type="translation">
-	<p n="1">
-		<unclear>Prosperity! Fortune!</unclear> 
-	</p>
-	<p n="4">
-		<supplied reason="lost">Umpteenth</supplied> year of the glorious king among kings Rājarāja, the emperor of the three worlds, <hi rend="italic">alias</hi> the king Parakesarivarman, 
-	</p>
-	<p n="1-3">
-		who ... [<foreign>meykkīrtti</foreign> of Rājarāja II Cōḻa]
-	</p>
-	
-	<p n="5-17">
-		This is the manner in which
-		...
-		have given ...
-	</p>
-	
-	<p n="17-19">
-		...
-		60 <supplied reason="subaudible"><foreign>kācu</foreign>s</supplied>.
-	</p>
-	
-	<p n="19-20">
-		These sixty <foreign>kācu</foreign>s
-		...,
-		We, having received these in hand,
-		so that we become 
-		...
-		for/with the interest accrued for these sixty <foreign>kācu</foreign>s
-		...
-	</p>
-	
-</div>
-      	
-<!--<div type="commentary"/>-->
-      	
-<div type="bibliography">
-	
-	<p>This edition by G. Vijayavenugopal (2019). Reviewing, encoding, critical apparatus, and translation by Emmanuel Francis (2024).</p>
-	
-	<!--<listBibl type="primary"/>-->		
-	
-	<!--<listBibl type="secondary"/>-->
-	
-</div>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Parakesarivarman Rājarāja</title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:vija">
+                        <forename>G.</forename>
+                        <surname>Vijayavenugopal</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>			    
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00159</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by G. Vijayavenugopal.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>Instances of eccentric ductus for Tamil <foreign>p</foreign>, looking like <foreign>m</foreign> or <foreign>ṭ</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change status="draft" when="2024-05-05" who="part:emfr">Creation of the file on the
+                repository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <lb n="1"/><unclear>svasti śrī</unclear>
+                </ab>
+                
+                <lg n="1" met="āciriyappā">
+                    <l n="1"><unclear>p</unclear>ū maruv<unclear>i</unclear>ya t<unclear>iru</unclear>-mātum pu<supplied reason="lost">vi-m</supplied>ātum ceya-mātum</l>
+                    <l n="2">nā maruv<unclear>iya</unclear> kalai-mātum pukaḻ-mātu<unclear>m</unclear> naya<unclear>ntu</unclear> pu<gap reason="lost" quantity="2" unit="character" precision="low"/></l>
+                    <l n="3"><gap reason="lost" quantity="4" unit="character" precision="low"/> <unclear>v</unclear><supplied reason="lost">i</supplied>t<supplied reason="lost">i</supplied>ne<unclear>ṟi Aṉai</unclear>ttu<supplied reason="lost">n</supplied> <gap reason="lost" quantity="4" unit="character" precision="low"/></l>
+                    <l n="4"><gap reason="lost" quantity="3" unit="character" precision="low"/> <lb n="2"/><gap reason="lost" quantity="1" unit="character" precision="low"/> Urimaiyāl maṇimuṭi cūṭi-t</l>
+                    <l n="5">tiṅkaḷ veṇ-kuṭai-t ticai-k kaḷ<choice><sic>u</sic><corr>i</corr></choice>ṟ’ eṭṭun</l>
+                    <l n="6">taṅku taṉikkūṭan tā<choice><orig>n</orig><reg>ṉ</reg></choice>eṉa viḷaṅka</l>
+                    <l n="7">karuṅ<unclear>kal</unclear><supplied reason="lost">i</supplied>-p paṭṭiyai-c ceṅ<supplied reason="lost">k</supplied>ō<!--only kompu is visible--><supplied reason="lost">l</supplied> <gap reason="lost" quantity="5" unit="character" precision="low"/></l>
+                    <l n="8"><gap reason="lost" quantity="1" unit="character" precision="low"/><lb n="3" break="no"/>ruṅ katir āḻi puvi va<unclear reason="eccentric_ductus">ḷa</unclear>rttuṭaṉ vara</l>
+                    <l n="9"><surplus>vi</surplus>villavar Iraṭṭar m<choice><orig>i</orig><reg>ī</reg></choice>ṉavar ciṅkaḷar</l>
+                    <l n="10">pallavar nu<unclear>ta</unclear>likaḷ pā<reg>r</reg>ttivar paṇ<supplied reason="lost">i</supplied>ya</l>
+                    <l n="11">Eṇṇaruṅ <supplied reason="lost">ka</supplied>ṟpa maṇṇakam puṇa<supplied reason="omitted">r</supplied>ntu</l>
+                    <l n="12"><gap reason="lost" quantity="7" unit="character" precision="low"/><lb n="4" break="no"/>ṅṅ<!--looks like dede-->ā<hi rend="grantha">sa</hi>ṉattu-p</l>
+                    <l n="13">puvaṉa-muḻut-uṭaiyāḷoṭum v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-irunt-aruḷiya</l>
+                </lg>
+                
+                <p>
+                    kō-p-parakēcari-paṟmar-āṉa tiripuvaṉa-c-cakkarava<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-rē<unclear reason="eccentric_ductus">ja</unclear>-r<unclear>ē</unclear><unclear reason="eccentric_ductus">ja</unclear>-rē<unclear reason="eccentric_ductus">ja</unclear>-deva<reg>r</reg>kku yā<supplied reason="lost">ṇṭu</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                </p>
+                
+                <p>
+                    <lb n="5"/><unclear>ti</unclear>ru-naḷḷāṟ-uṭaiyarkku Upaiyam-Āka Uyya-k-koṇṭār-vaḷanāṭṭu kuṟu<unclear>m</unclear>pūr-nāṭṭu-<unclear>k</unclear> kāyākkuṭiyāṉ Utaiya t<unclear>i</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6" break="no"/>maṅkalattu-k kā<unclear>ra</unclear>mpil ceṭ<unclear>ṭu</unclear> tūṟpil tā<choice><sic>p</sic><corr>m</corr></choice>ōtira-paṭṭaṉ U<supplied reason="lost">p</supplied>aiya<choice><orig>mm</orig><reg>m</reg></choice>-āka tiru-naḷḷāṟ-uṭaiyarkku ciṟu-kā<supplied reason="lost">lai</supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="7"/><gap reason="lost" quantity="2" unit="character"/> yaruḷa Ic-ceppu vaṭṭakai <hi rend="grantha">sa</hi>ka<hi rend="grantha">sra</hi> <gap reason="lost" quantity="1" unit="character"/> tārai On<gap reason="lost" quantity="1" unit="character"/>l Āṭi Aruḷuk<supplied reason="lost">ai</supplied>kku nittam nāḻi-p pā<unclear>l āṭi</unclear> Aru <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                    <lb n="8"/>mituṉa-nāyaṟṟu Apara-pa<hi rend="grantha">kṣa</hi>ttu <hi rend="grantha">ṣaṭṭi</hi>yum p<unclear>u</unclear>taṉ-kiḻamaiyum peṟṟa cataiyat<supplied reason="lost">tu</supplied> ṉāḷ Ik-kōyil mu-p-patu vaṭṭattu ci <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                    <lb n="9" break="no"/>ṭ<unclear>ai</unclear>ya kā<hi rend="grantha">śya</hi><surplus>ya</surplus>paṉ maṇṭai naḷḷāṟāṉ ēḻ-kaṭaṉuñ cūḻntāṉum Iva<unclear>ṉ</unclear> tam<unclear reason="eccentric_ductus">p</unclear>i periyāḻvāṉ nā<supplied reason="omitted">ṭu</supplied>ṭai-p perumā
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                    <lb n="10"/><gap reason="lost" quantity="10" unit="character" precision="low"/> Iva<choice><orig>n</orig><reg>ṉ</reg></choice> tampi namacivāya<unclear>ṉu</unclear>m kā<hi rend="grantha">śya</hi>paṉ tillai-nāyaka<supplied reason="lost">ṉ U</supplied>mai-y-āḻvāṉ<choice><sic>a</sic><corr>u</corr></choice>m kā<hi rend="grantha">śya</hi>paṉ piccaṉ appaṉum
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                    <lb n="11"/><gap reason="lost" quantity="3" unit="character" precision="low"/> kevutamaṉ<choice><sic>a</sic><corr>u</corr></choice>m <gap reason="lost" quantity="3" unit="character" precision="low"/> nakkaṉ m<choice><orig>u</orig><reg>ū</reg></choice>vāyira-ta<unclear>ḷā</unclear>ruvaṉum kā<hi rend="grantha">śya</hi>paṉ nāṭ-uṭaiyaṉ <gap reason="lost" quantity="1" unit="character" precision="low"/> ntar-t toṭ-uṭaiyaṉu<choice><sic>p</sic><corr>ṉ</corr></choice> Ivaṉ tampi
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                    <lb n="12"/><gap reason="lost" quantity="3" unit="character" precision="low"/> vaṉ makaṉ cāṉṟaruḷi <unclear>k</unclear>aliya kāṉa nāṭu <gap reason="lost" quantity="3" unit="character" precision="low"/> p perumārum kā<hi rend="grantha">śya</hi>paṉ ciṟiyā<unclear>ṉ</unclear> nāṭ-uṭai-p <choice><sic>m</sic><corr>p</corr></choice>erumāḷum Ivaṉ tam<unclear reason="eccentric_ductus">p</unclear>i ci
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                    <lb n="13" break="no"/>ṭoyāratāra vaṉait tarattāṉum kā<hi rend="grantha">śya</hi><unclear>pa</unclear>ṉ cāṉṟu pōṉāṉ nāṭuṭaip <gap reason="lost" quantity="2" unit="character" precision="low"/> <unclear>māḷu</unclear>m Ivaṉ tamp<unclear>i</unclear> <gap reason="lost" quantity="6" unit="character" precision="low"/>		
+                    
+                    <lb n="14" break="no"/>ṭ<supplied reason="lost">ai</supplied>yāṉum Ivaṉ tam<unclear reason="eccentric_ductus">p</unclear>i periyāḻvāṉ nāṭuṭ<unclear>ai</unclear>yāṉum kevu<unclear>ta</unclear>maṉ caṅkara-tēva<unclear>ṉ</unclear> <supplied reason="lost">ti</supplied>ru-k-ka<supplied reason="omitted">ṟṟa</supplied>ḷi-p-piḷḷaiyum Ātavan Uyya ni<unclear>ṉṟā</unclear>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                    <lb n="15"/>kevutamaṉ tiru-k-kaṟuttāṉ maṇṭai-y-āḻ<unclear>v</unclear>āṉum
+                    kevu <space type="feature"/> tamaṉ civa<unclear>ṉ</unclear> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost">kevu</supplied>
+                    
+                    <lb n="16" break="no"/>tamaṉ tiru-c-ciṟṟampalam-uṭaiyāṉ cuntara tōṭu <space type="feature"/> <gap reason="illegible" quantity="2" unit="character"/> <hi rend="grantha">ge</hi>v<supplied reason="lost">u</supplied>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                    <lb n="17" break="no"/><gap reason="lost" quantity="3" unit="character" precision="low"/> Ālacan Aḷa<unclear>p</unclear>i Upaiya-t-t<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu-k kuṭutta paric' āva<supplied reason="lost">tu</supplied>
+                </p>
+                
+                <p>
+                    <unclear>U</unclear>ṭaiyar <space type="feature"/>kkuṟuk
+                    <gap reason="lost" extent="unknown" unit="character"/>		
+                    
+                    <lb n="18" break="no"/><gap reason="lost" quantity="2" unit="character" precision="low"/> <unclear>ṅ</unclear>kaḷ <unclear>A</unclear>ḷakkum pāl nāḻi I <gap reason="lost" quantity="8" unit="character" precision="low"/> ṟṟai nā <space type="feature"/> <gap reason="lost" quantity="2" unit="character" precision="low"/> rol I
+                    <gap reason="lost" quantity="2" unit="character" precision="low"/>
+                    <lb n="19" break="no"/><num value="60">6 <g type="numeral">10</g></num>
+                </p>
+                <p>
+                    Ik-k<unclear>ā</unclear>cu <unclear>A</unclear>ṟupatum nā <gap reason="lost" quantity="2" unit="character" precision="low"/> kariyē <unclear>n</unclear>āṅkaḷ <unclear>k</unclear>ai-<unclear>k</unclear>-koṇṭu Ik-kācukku Aṟupatukku vanta palicaikku Ip-paṭiyāl nitta nāḻip pā <gap reason="illegible" quantity="1" unit="character" precision="low"/> ṉ pāl
+                    <gap reason="lost" quantity="2" unit="character" precision="low"/> k
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    
+                    <lb n="20" break="no"/>pōm āka <hi rend="grantha">sa</hi>mma<unclear>ti</unclear>ttu Upaiya-t t<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu-k kuṭu <gap reason="lost" quantity="9" unit="character" precision="low"/> vaṭṭattu-k kāṇi Uṭaiya Ivv-aṉaivōm <g type="gomutraFinal">.</g>
+                    
+                </p>
+                
+            </div>
+            
+            <!--<div type="apparatus"/>-->
+            
+            <div resp="part:emfr" type="translation">
+                <p n="1">
+                    <unclear>Prosperity! Fortune!</unclear> 
+                </p>
+                <p n="4">
+                    <supplied reason="lost">Umpteenth</supplied> year of the glorious king among kings Rājarāja, the emperor of the three worlds, <hi rend="italic">alias</hi> the king Parakesarivarman, 
+                </p>
+                <p n="1-3">
+                    who ... [<foreign>meykkīrtti</foreign> of Rājarāja II Cōḻa]
+                </p>
+                
+                <p n="5-17">
+                    This is the manner in which
+                    ...
+                    have given ...
+                </p>
+                
+                <p n="17-19">
+                    ...
+                    60 <supplied reason="subaudible"><foreign>kācu</foreign>s</supplied>.
+                </p>
+                
+                <p n="19-20">
+                    These sixty <foreign>kācu</foreign>s
+                    ...,
+                    We, having received these in hand,
+                    so that we become 
+                    ...
+                    for/with the interest accrued for these sixty <foreign>kācu</foreign>s
+                    ...
+                </p>
+                
+            </div>
+            
+            <!--<div type="commentary"/>-->
+            
+            <div type="bibliography">
+                
+                <p>This edition by G. Vijayavenugopal (2019). Reviewing, encoding, critical apparatus, and translation by Emmanuel Francis (2024).</p>
+                
+                <!--<listBibl type="primary"/>-->		
+                
+                <!--<listBibl type="secondary"/>-->
+                
+            </div>
+        </body>
+    </text>
 </TEI>
