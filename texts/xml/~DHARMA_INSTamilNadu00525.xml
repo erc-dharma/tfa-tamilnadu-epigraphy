@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Govindapputtūr, Gaṅgājaṭādhara temple, time of ***, year **</title>
+                <title>Govindapputtūr, Gaṅgājaṭādhara temple, time of Rājakesarivarman, year 7</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#15. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 163; c) personally located; d) on the upper part of the base on the western side of the central projection of the northern façade of the sanctuary; e) regnal year 7 of Kōrājarājakesarivarman; f) Rājarāja I (<foreign>circa</foreign> 992 C.E.); g) there is no <foreign>svasti śrī</foreign> at the beginning of this inscription.</p>
+                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. On the upper part of the base on the western side of the central projection of the northern façade of the sanctuary. Regnal year 7 of Kōrājarājakesarivarman = Rājarāja I (<foreign>circa</foreign> 992 C.E.). There is no <foreign>svasti śrī</foreign> at the beginning of this inscription.</p>
                             
                         </summary>
                     </msContents>
@@ -56,9 +56,12 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>ko Irā<hi rend="grantha">ja</hi>rā ‡ <hi rend="grantha">ja</hi>ke<unclear>ca</unclear>ri<hi rend="grantha">nma</hi>kki yāṇṭu 7-vatu va <gap reason="lost" quantity="1" unit="character"/> karai <hi rend="grantha">brahmade</hi>yam p[[e]]riya <hi rend="grantha">śrī</hi> <unclear>vā</unclear> <gap reason="lost" quantity="1" unit="character"/> vaṉ<hi rend="grantha">mahāde</hi>vi <gap reason="lost" quantity="2" unit="character"/> <hi rend="grantha">vve</hi>timaṅkalattu
+                    <lb n="1"/>kō-Irā<hi rend="grantha">ja</hi>rā ‡ <hi rend="grantha">ja</hi>ke<unclear>ca</unclear>ri<hi rend="grantha">nma</hi>kki yāṇṭu 7-vatu
+                </p>
+                <p>
+                    va<supplied reason="explanation">ṭa</supplied>-karai-<hi rend="grantha">brahmade</hi>yam p[[e]]riya <hi rend="grantha">śrī</hi> <unclear>vā</unclear> <gap reason="lost" quantity="1" unit="character"/> vaṉ<hi rend="grantha">mahāde</hi>vi <gap reason="lost" quantity="2" unit="character"/> <hi rend="grantha">vve</hi>timaṅkalattu
                     <lb n="2"/><hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi> ‡ yamaṅkalatevaṟku <hi rend="grantha">śrī</hi> vimāṉam ka <gap reason="lost" quantity="1" unit="character"/> lā Eḻuntaruḷḷuvitta Uṭaiyār peruntiṟattu ku <gap reason="lost" quantity="4" unit="character"/> muṭaiyaṉ Am
-                    <lb n="3"/>palava ‡ ṉ pa<unclear>ḻu</unclear>vūr <unclear>ṉa</unclear>kkaṉṉāṉa Irā <gap reason="lost" quantity="1" unit="character"/> rā<hi rend="grantha">ja</hi>pallar<unclear>ai</unclear>ya<unclear>ṉ</unclear> <gap reason="lost" quantity="3" unit="character"/> Ikkoyil <unclear>vimāṉa</unclear> Eḻuntaruḷḷuvit<unclear>tu</unclear> <unclear>kū</unclear>ttaperumāḷ
+                    <lb n="3"/>palava‡ṉ pa<unclear>ḻu</unclear>vūr <unclear>ṉa</unclear>kkaṉṉāṉa Irā <gap reason="lost" quantity="1" unit="character"/> rā<hi rend="grantha">ja</hi>pallar<unclear>ai</unclear>ya<unclear>ṉ</unclear> <gap reason="lost" quantity="3" unit="character"/> Ikkoyil <unclear>vimāṉa</unclear> Eḻuntaruḷḷuvit<unclear>tu</unclear> <unclear>kū</unclear>ttaperumāḷ
                     <lb n="4"/>kkum <gap reason="lost" quantity="1" unit="character"/> ‡ Umā<hi rend="grantha">bha</hi>ṭṭāla<unclear>ni</unclear>ku<unclear>m</unclear> tiruvāparaṇattuku varakkāṭṭiṉa <gap reason="lost" quantity="5" unit="character"/> niṟai poṉ Irunūṟṟuk ka<unclear>ḻaintu</unclear> <gap reason="lost" quantity="3" unit="character"/> tti<unclear>l vai</unclear>
                     <lb n="5"/>ttatu ‡ <gap reason="lost" quantity="1" unit="character"/> 
                 </p>
@@ -79,7 +82,7 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/163).</p>
                 <p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
@@ -87,7 +90,7 @@
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
                         <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="item">15</citedRange>
                     </bibl>
                 </listBibl>
                 
@@ -96,7 +99,7 @@
                         <ptr target="bib:ARIE1928-1929"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="appendix"> B/1928-1929</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="item">163</citedRange>
                     </bibl>
                 </listBibl>
                 

@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Govindapputtūr, Gaṅgājaṭādhara temple, time of ***, year **</title>
+                <title>Govindapputtūr, Gaṅgājaṭādhara temple, time of Parakesarivarman, year 10</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#2. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 170; SII 19, no. 272; SII 32, part 2, no. 84; c) personally located; d) lowest inscription on the western wall section of the southern façade of the shrine, engraved on a single stone block; e) Regnal year 10 of Kōpparakesarivarman; f) Uttamacōḻa (<foreign>circa</foreign> 981 C.E.).</p>
+                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. Lowest inscription on the western wall section of the southern façade of the shrine, engraved on a single stone block. Regnal year 10 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 981 C.E.).</p>
                             
                         </summary>
                     </msContents>
@@ -57,13 +57,13 @@
                 
                 <p>
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi> kopparakecaripa<hi rend="grantha">nma</hi>kku yāṇṭu 10 Āvatu vaṭakarai
-                    <lb n="2"/><hi rend="grantha">brahmade</hi>yam periya <hi rend="grantha">śrī </hi>vāṉavaṉ<hi rend="grantha">mahadevicatuve</hi><note>The<hi rend="grantha">v</hi> looks like a <hi rend="grantha">vu</hi> with a –<hi rend="grantha">e</hi> before, which is impossible. Perhaps it is intended for a <hi rend="grantha">vve</hi>.</note>tima
+                    <lb n="2"/><hi rend="grantha">brahmade</hi>yam periya <hi rend="grantha">śrī </hi>vāṉavaṉ<hi rend="grantha">mahadevi-catuve</hi><note>The<hi rend="grantha">v</hi> looks like a <hi rend="grantha">vu</hi> with a –<hi rend="grantha">e</hi> before, which is impossible. Perhaps it is intended for a <hi rend="grantha">vve</hi>.</note>tima
                     <lb n="3"/>ṅkalattu<hi rend="grantha">śrī vijai</hi>yamaṅkalatu <hi rend="grantha">mahāde</hi>vaṟkku Ittiru
                     <lb n="4"/>kkaṟṟaḷi ceyvitta Ampalavaṉ paḻuvūraṉāṉa<hi rend="grantha">śrī </hi>vikkira
                     <lb n="5"/>macoḻamārāyar<hi rend="grantha">cantrā</hi>tittavaṟ nantāviḷakku Oṉ
                     <lb n="6"/>ṟiṉukku vaitta Āṭu toṉṉūṟṟāṟu || – Aṇṭā
                     <lb n="7"/>ṭṭu maḻavar<hi rend="grantha">śrī </hi>vi<hi rend="grantha">jai</hi>yamaṅkalatu <hi rend="grantha">mahāde</hi>vaṟku <hi rend="grantha">ca</hi>
-                    <lb n="8"/><hi rend="grantha">ntrā</hi>tittavaṟ nantāviḷakkukkiraṇṭukku kuṭutta paṅk <gap reason="lost" quantity="1" unit="character"/> i<unclear>ra</unclear>ṇṭu Ivai pa<unclear><hi rend="grantha">nma</hi></unclear><hi rend="grantha">heśva</hi><note>The<hi rend="grantha">śva</hi> was forgotten and added above the line.</note><hi rend="grantha">ra rakṣai</hi> ||
+                    <lb n="8"/><hi rend="grantha">ntrā</hi>tittavaṟ nantāviḷakkukkiraṇṭukku kuṭutta paṅk <gap reason="lost" quantity="1" unit="character"/> i<unclear>ra</unclear>ṇṭu Ivai pa<hi rend="grantha"><unclear>nma</unclear></hi><hi rend="grantha">he<add place="above">śva</add>ra rakṣai</hi> ||
                 </p>
                 
             </div>
@@ -82,15 +82,15 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/170). </p>
+                <p>SII 19, no. 272. SII 32, part 2, no. 84. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
                         <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="item">2</citedRange>
                     </bibl>
                 </listBibl>
                 
@@ -99,7 +99,7 @@
                         <ptr target="bib:ARIE1928-1929"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="appendix"> B/1928-1929</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="item">170</citedRange>
                     </bibl>
                 </listBibl>
                 

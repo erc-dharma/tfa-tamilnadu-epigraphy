@@ -8,7 +8,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Govindapputtūr, Gaṅgājaṭādhara temple, time of ***, year **</title>
+                <!--See Gillet (forthcoming: #147)-->
+                <title>Govindapputtūr, Gaṅgājaṭādhara temple, time of Parakesarivarman, year 10</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -33,7 +34,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#3. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 173; SII 19, no. 273; Gillet (forthcoming: #147); c) personally located; d) lowest inscription on the eastern wall section of the southern façade of the shrine; e) Regnal year 10 of Kōpparakesarivarman; f) probably Uttamacōḻa (<foreign>circa</foreign> 981 C.E.); g) I have dealt with this inscription in Gillet (forthcoming: #147), and I will thus provide only the translation here.</p>
+                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. Lowest inscription on the eastern wall section of the southern façade of the shrine. Regnal year 10 of Kōpparakesarivarman = probably Uttamacōḻa (<foreign>circa</foreign> 981 C.E.). I have dealt with this inscription in Gillet (forthcoming: #147), and I will thus provide only the translation here.</p>
                             
                         </summary>
                     </msContents>
@@ -74,15 +75,15 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/173).</p>
+                <p>SII 19.273. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
                         <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="item">3</citedRange>
                     </bibl>
                 </listBibl>
                 
@@ -91,7 +92,7 @@
                         <ptr target="bib:ARIE1928-1929"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="appendix"> B/1928-1929</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="item">173</citedRange>
                     </bibl>
                 </listBibl>
                 
