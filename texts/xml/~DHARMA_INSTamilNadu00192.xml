@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruppāmpuram, Śehapurīśvara, time of Rājarāja, year 22</title>
+                <title>Tiruppāmpuram, Cēṭapurīsvarar (Śeṣapurīśvara), time of Rājarāja, year 22</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Tiruppāmpuram, Naṉṉilam taluk, Tanjavur district, Śehapurīśvara temple; on the base of the temple (?); <foreign>Naṉṉilam Kaḷveṭṭukaḷ</foreign>, no. 144/1977;<note>I have not visited the site of Tiruppāmpuram, and therefore the information I provide here is based only on the publications which mention it. It should be noted that the text provided in NK 1977, no. 144 cannot read the word which precedes the title Paḻuvēṭṭaraiyar, while the summary of the ARE 1911, no. 90 proposes without hesitation Vāṇappaṭi, rendering thus the Paḻuvēṭṭaraiyar of Vāṇappaṭi. The inscription may have been in a better state in 1911 than in 1977, which would explain the clear reading of ARE.</note> 22nd regnal year of Tirupuvaṉa Cakkaravattikaḷ Śrī Rājarājatēvar = Rājarāja II or III; I have not visited this site and could nor see any pictures of the inscription; I thus reproduce the edition published in NK, with the length of the –<foreign>e </foreign>and the –<foreign>o</foreign> restored as it is in the edition.</p>
+                        <summary><p>Tiruppāmpuram, Naṉṉilam taluk, Tanjavur district, Śeśapurīśvara temple. On the base of the temple (?).  22nd regnal year of Tirupuvaṉa Cakkaravattikaḷ Śrī Rājarājatēvar = Rājarāja II or III; I have not visited this site and could nor see any pictures of the inscription; I thus reproduce the edition published in NK, with the length of the –<foreign>e </foreign>and the –<foreign>o</foreign> restored as it is in the edition.</p>
                             
                         </summary>
                     </msContents>
@@ -56,14 +56,25 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī </hi>tirupuvaṉac cakkaravattikaḷ <hi rend="grantha">śrī </hi>rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>tēvaṟkku yāṇṭu 22 vatu <hi rend="grantha">deṣa </hi>nāyaṟṟu <hi rend="grantha">pūrva pakṣa</hi>ttu <hi rend="grantha">bantudi</hi>yam putaṉkiḻamaiyum peṟṟa pūcattu nāḷ uyyakoṇṭārvaḷanāṭṭu uṭaiyār tiruppāmpuramuṭaiyār <gap reason="lost" extent="unknown" unit="character"/> āṉa <gap reason="lost" extent="unknown" unit="character"/> pāṭṭaṭai <gap reason="lost" extent="unknown" unit="character"/> paḻuvēṭṭaraiyar nittal paṭikku Aricillāṟṟil tirumañcaṉam <unclear>tiru</unclear>kalattukkum Aimpattirucceṅkaḻaṉit tiruppaḷḷittāmattukkum Ivvūrilum paṟinta(ta) Ūrilum Ivar kāṇiyāṉa nilattum kaḷattum Uṭppaṭa piṭāri kōyilukku teṟkku na<unclear>t</unclear>ta<unclear>m</unclear> teṉkaraiyilk koṇṭu Araikkōl Akalattu pōkiṟa cā <gap reason="lost" extent="unknown" unit="character"/>vākkālukku
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>                    
+                    tirupuvaṉa-c-cakkaravattikaḷ <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-tēvaṟkku yāṇṭu <num value="22">2 <g type="numeral">10</g> 2</num>-vatu <hi rend="grantha">meṣa</hi>-nāyaṟṟu <hi rend="grantha">pūrva-pakṣa</hi>ttu <hi rend="grantha">pañcami</hi>yum putaṉ-kiḻamaiyum peṟṟa pūcattu nāḷ
+                </p>
+                <p>
+                    Uyya-k-koṇṭār-vaḷanāṭṭu Uṭaiyār tiru-p-pāmpuram-uṭaiyār <gap reason="lost" quantity="6" unit="character"/> āṉa <gap reason="lost" quantity="3" unit="character"/> pāṭṭaṭai <gap reason="lost" quantity="6" unit="character"/> paḻuvēṭṭaraiyar nittal paṭikku Aricillāṟṟil tiru-mañcaṉam <unclear>tiru</unclear>kalattukkum Aim-patt-iru-c-ceṅkaḻaṉi-t tiru-p-paḷḷittāmattukkum Ivvūrilum piṟinta(ta) Ūrilum Ivar kāṇiyāṉa nilattum kaḷattum Uṭppaṭa piṭāri kōyilukku teṟkku na<unclear>t</unclear>ta<unclear>m</unclear> teṉkaraiyilk koṇṭu Araikkōl Akalattu pōkiṟa cā <gap reason="lost" extent="unknown" unit="character"/>vākkālukku
                     <lb n="2"/>vaṭa kuḷam ciṟutu tiruntu Uḷpaṭa nilam panta <gap reason="lost" quantity="1" unit="character"/> Itil Ūr nīṅkiṉa Iṟaiyili nittalp paṭikku tiruceṅkaḻaṉi Iṭa Aṭatta <gap reason="lost" quantity="1" unit="character"/> 5<gap reason="lost" extent="unknown" unit="character"/>m tirumañcaṉam Eṭuppānukku Aṭaitta <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> m <gap reason="illegible" quantity="2" unit="character"/><note>There are 2 symbols which may represent fractions: 1/4 and 1/32. But it is not very clear what it refers to.</note>m Innilattu Oṭṭā . Ikkōyilil peruḷūr kiḻavaṉ <unclear>Eḻun</unclear>taruḷivitta tirukāmakōṭṭamuṭaiya māmalaiyāṭṭi<unclear>yā</unclear>rkku Amutu paṭikku Uṭalāka
                 </p>
                 
             </div>
             
             <div type="apparatus">
-                
+                <listApp>
+                    <app loc="1">
+                        <lem><gap reason="lost" quantity="6" unit="character"/> paḻuvēṭṭaraiyar</lem>
+                        <note>It should be noted that the text provided in NK 1977, no. 144 cannot read the word which precedes the title Paḻuvēṭṭaraiyar, while the summary of the ARE 1911, no. 90 proposes without hesitation Vāṇappaṭi, rendering thus the Paḻuvēṭṭaraiyar of Vāṇappaṭi. The inscription may have been in a better state in 1911 than in 1977, which would explain the clear reading of ARE.</note>
+                    </app>
+                </listApp>
             </div>
             
             <div type="translation" source="bib:Gillet2024_01">
@@ -77,10 +88,14 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1910-1911"/></bibl>. (ARIE/1910-1911/C/1911/90).</p>
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2016-2018</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:Patmavati1979_01"/></bibl> (Naṉṉilam 144/1977). Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on <bibl><ptr target="bib:Patmavati1979_01"/></bibl>.</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
-                <listBibl type="primary">
+                <listBibl type="primary">                   
+                    <bibl>
+                        <ptr target="bib:Patmavati1979_01"/>
+                        <citedRange unit="item">144/1977</citedRange>
+                    </bibl>
                     <bibl>
                         <ptr target="bib:Gillet2024_01"/>
                         <citedRange unit="page">269-270</citedRange>
