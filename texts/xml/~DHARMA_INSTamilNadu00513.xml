@@ -34,7 +34,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            <p>Govindaputtūr (Kōvintapputtūr), Uṭaiyārpaḷaiyam taluk, Trichy district, Gaṅgājaṭādhara temple. On the eastern wall section of the southern façade, lowest inscription.10th regnal year of Kōpparakesarivarman = probably Uttamacōḻa (c. A.D. 981). In continuation of the line 4, there is a description of another four lines of a land containing <foreign>catirattu</foreign>, <foreign>vāykkal</foreign>, <foreign>kaṇṇāṟṟu</foreign>, directions, etc. It does not seem to be connected, although it is the same writing.</p>
+                            <p>Govindaputtūr (Kōvintapputtūr), Uṭaiyārpaḷaiyam taluk, Trichy district, Gaṅgājaṭādhara temple. On the eastern wall section of the southern façade, lowest inscription. 10th regnal year of Kōpparakesarivarman = probably Uttamacōḻa (c. A.D. 981). In continuation of the line 4, there is a description of another four lines of a land containing <foreign>catirattu</foreign>, <foreign>vāykkal</foreign>, <foreign>kaṇṇāṟṟu</foreign>, directions, etc. It does not seem to be connected, although it is the same writing.</p>
                             <p>Gaṅgājaṭādhara temple of Govindapputtūr. Lowest inscription on the eastern wall section of the southern façade of the shrine. Regnal year 10 of Kōpparakesarivarman = probably Uttamacōḻa (<foreign>circa</foreign> 981 C.E.).</p>
                             
                         </summary>
@@ -61,24 +61,28 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </p>
                 <p>
-                    kō-p-parakēcar[i] pa[n]makku yāṇṭu 10 Āvatu
+                    kō-p-para-kēcar<unclear>i</unclear>-<hi rend="grantha">pa<unclear>n</unclear>ma</hi><reg>r</reg>kku yāṇṭu <num value="10"><g type="numeral">10</g></num>-Āvatu
                 </p>
                 <p>
-                    vaṭa-karai-brahma[deyam] per[i] śrī-vāṉavaṉ-mahādev[i]-ca[tu]
-                    <lb n="2" break="no"/>vvetimaṅkalattu [[śrī]]-vijaiya-maṅkalattu mahadevaṟku śantrātitta[va]l
-                    nontā-viḷakkukku Aṭikaḷ paḻu⌈
-                    <lb n="3" break="no"/>vēṭṭaraiyar maṟavaṅ ka[ṇ]ṭaṉār kaṉmi kuṉṟakkūṟṟattu Aṟaṇinallūr uṭaiya
-                    maṉpperumai cūvāmiyāṉa kuṉṟanāṭṭu
-                    <lb n="4" />kaṇṭapperuntiṇai vaitta Āṭu toṇṇūṟum
+                    vaṭa-karai-<hi rend="grantha">brahma</hi><hi rend="grantha"><unclear>de</unclear></hi><unclear>yam</unclear> per<supplied reason="lost">i</supplied><supplied reason="omitted">ya</supplied> śrī-vāṉavaṉ-<hi rend="grantha">mahāde</hi>v<supplied reason="lost">i</supplied>-<hi rend="grantha">ca</hi><unclear>tu</unclear>
+                    <lb n="2" break="no"/><hi rend="grantha"><reg>r</reg>vve</hi>ti-maṅkalattu <hi rend="grantha"><supplied reason="lost">śrī</supplied></hi>-vi<hi rend="grantha">jai</hi>ya-maṅkalattu <hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>-de</hi>vaṟku <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>antrā</hi>titta<unclear>va</unclear>l nontā-viḷakkukku Aṭikaḷ paḻu⌈
+                    <lb n="3" break="no"/>vēṭṭar<hi rend="grantha">ai</hi>yar maṟavaṅ ka<unclear>ṇ</unclear>ṭaṉār kaṉmi kuṉṟa-k-kūṟṟattu Aṟaṇi-nallūr-uṭaiya
+                    maṉapperumai c<choice><sic>ū</sic><corr>u</corr></choice>vāmi-y-āṉa kuṉṟa-nāṭṭu
+                    <lb n="4" />kaṇṭa-p-perun-tiṇai vaitta Āṭu toṇṇūṟum
                 </p>
                 <p>
-                    panmāyeśvara rakṣai
+                    panmāyē<hi rend="grantha">śvara-rakṣai</hi>
                 </p>
                 
             </div>
             
             <div type="apparatus">
-                
+                <listApp>
+                    <app loc="3">
+                        <lem>maṉapperumai</lem>
+                        <rdg source="bib:Gillet2024_01">maṉpperumai</rdg>
+                    </app>
+                </listApp>
             </div>
             
             <div type="translation" source="bib:Gillet2024_01">
@@ -90,11 +94,11 @@
                 <p>
                     <supplied reason="subaudible">This is under the</supplied>
                     protection of the Panmāheśvaras.
-                    </p>
+                </p>
             </div>
             
             <div type="commentary"/>
-                
+            
             
             
             <div type="bibliography">
@@ -104,12 +108,8 @@
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
-                    <bibl>
-                        <ptr target="bib:Gillet2023_01"/>
-                        <citedRange unit="page">75</citedRange>
-                        <citedRange unit="item">3</citedRange>
-                    </bibl>
-                    <bibl>
+                    
+                    <bibl n="G">
                         <ptr target="bib:Gillet2024_01"/>
                         <citedRange unit="page">269</citedRange>
                         <citedRange unit="item">146</citedRange>
@@ -117,6 +117,11 @@
                 </listBibl>
                 
                 <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:Gillet2023_01"/>
+                        <citedRange unit="page">75</citedRange>
+                        <citedRange unit="item">3</citedRange>
+                    </bibl>
                     <bibl>
                         <ptr target="bib:ARIE1928-1929"/>
                         <citedRange unit="page">TBC</citedRange>
