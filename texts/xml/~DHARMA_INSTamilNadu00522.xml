@@ -34,7 +34,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#12. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 164; SII 19, no, 357 (lines 41–83); c) personally located; d) begins on the northernmost wall section of the western façade and continues below on the base (lines 1–36); continues on the lowest part of the base of the southern side of the western façade and of the western side of the southern façade (lines 37–42); e) probably regnal year 7 of Rājarājadevar; f) Rājarāja I (<foreign>circa</foreign> 992 C.E.); g) this inscription provides the details of items given to the temple following the donation of Neṭuvāyil recorded in #11. It was considered by SII 19 as the same inscription than #11, but the mention of the 7th year of Rājarāja I in the inscription precludes to consider them as a single record, even if they are related; this is confirmed by the script which is different; the first number of the lines in this edition corresponds to this individual inscription while the second corresponds to the line numbering of the edition in SII 19; I do not provide a translation here because Orr (2000: 117–118) already did.</p>
+                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. SII 19, no, 357 (lines 41–83). Begins on the northernmost wall section of the western façade and continues below on the base (lines 1–36); continues on the lowest part of the base of the southern side of the western façade and of the western side of the southern façade (lines 37–42). Probably regnal year 7 of Rājarājadevar = Rājarāja I (<foreign>circa</foreign> 992 C.E.). This inscription provides the details of items given to the temple following the donation of Neṭuvāyil recorded in #11. It was considered by SII 19 as the same inscription than #11, but the mention of the 7th year of Rājarāja I in the inscription precludes to consider them as a single record, even if they are related; this is confirmed by the script which is different; the first number of the lines in this edition corresponds to this individual inscription while the second corresponds to the line numbering of the edition in SII 19; I do not provide a translation here because Orr (2000: 117–118) already did.</p>
                             
                         </summary>
                     </msContents>
@@ -117,15 +117,15 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/164).</p>
                 <p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">82-85</citedRange>
+                        <citedRange unit="item">12</citedRange>
                     </bibl>
                 </listBibl>
                 
@@ -134,7 +134,7 @@
                         <ptr target="bib:ARIE1928-1929"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="appendix"> B/1928-1929</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="item">164</citedRange>
                     </bibl>
                 </listBibl>
                 

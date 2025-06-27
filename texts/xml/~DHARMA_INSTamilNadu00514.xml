@@ -65,7 +65,10 @@
                     vaṭa-karai-<hi rend="grantha">brahmade</hi>yam periya śrī-vāṉavan
                     <lb n="2"/><hi rend="grantha">mahā-de</hi>vi-<hi rend="grantha">catuvvedi</hi>-<unclear>ma</unclear>ṅkalattu <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">jai</hi>ya-maṅkalattu <hi rend="grantha">mahā-de</hi>vaṟkku It-tirukkaṟaḷi ceyvitta
                     <lb n="3"/>Ammalavaṉ paḻuvūr nakkaṉ-āṉa <hi rend="grantha">śrī</hi>-vi<unclear>k</unclear>kirama-cōḻa-mārāyaṉ ca<hi rend="grantha">ntrādi</hi>ttavaṟ vaitta noṉtā-viḷakku 4
-                    <lb n="4"/>nālum Oru viḷakkukku nicatam Uḻakku <unclear>ne</unclear>ykku Āṭu toṇṇūṟ' āṟ' āka nālu viḷakkukku ney nicata
+                    <lb n="4"/>nālum
+                </p>
+                <p>
+                    Oru viḷakkukku nicatam Uḻakku <unclear>ne</unclear>ykku Āṭu toṇṇūṟ' āṟ' āka nālu viḷakkukku ney nicata
                     <lb n="5" break="no"/>m nāḻikku Āṭu muṉṉūṟṟu Eṇpattu nālu ca<hi rend="grantha">ntrādi</hi>ttavaṟ vaitta cāvā mūvā-p pēr-āṭu
                 </p>
                 <p>
@@ -94,9 +97,9 @@
                     Those are under the protection of the Panmāheśvaras.</p>
             </div>
             
-            <div type="commentary">
+            <div type="commentary"/>
                 
-            </div>
+            
             
             <div type="bibliography">
                 
@@ -107,7 +110,7 @@
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">75</citedRange>
                         <citedRange unit="item">4</citedRange>
                     </bibl>
                 </listBibl>

@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#5. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 172; SII 19, no. 358; c) personally located; d) upper inscription on the eastern wall section of the southern façade; e) Regnal year 14 of Kōpparakesarivarman; f) probably Uttamacōḻa (<foreign>circa</foreign> 985 C.E.).</p>
+                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. Upper inscription on the eastern wall section of the southern façade. Regnal year 14 of Kōpparakesarivarman = probably Uttamacōḻa (<foreign>circa</foreign> 985 C.E.).</p>
                             
                         </summary>
                     </msContents>
@@ -56,20 +56,26 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> kopparake<hi rend="grantha">sa</hi>ripa<hi rend="grantha">nma</hi>kku yā[[ṇṭu]] <unclear>14</unclear> Āvatu vaṭa ka
-                    <lb n="2"/>rai <unclear><hi rend="grantha">brahma</hi>te</unclear>yam periya <hi rend="grantha">śrī</hi> vāṉavan <hi rend="grantha">mah</hi><unclear><hi rend="grantha">ā</hi></unclear><hi rend="grantha">devica</hi>tu<hi rend="grantha">vve</hi>timaṅ
-                    <lb n="3"/>kalattu<hi rend="grantha">śrī</hi> koyillu U[[ṭai]]y<unclear>ān</unclear> [[kā<hi rend="grantha">śya</hi>]]van [[<hi rend="grantha">śtrā</hi>]]<unclear><hi rend="grantha">śe</hi>karan mu</unclear>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    kopparake<hi rend="grantha">sa</hi>ripa<hi rend="grantha">nma</hi>kku yā[[ṇṭu]] <unclear>14</unclear> Āvatu
+                </p>
+                <p>
+                    vaṭa-ka
+                    <lb n="2" break="no"/>rai-<hi rend="grantha"><unclear>brahma</unclear></hi><unclear>te</unclear>yam periya <hi rend="grantha">śrī</hi>-vāṉavan-<hi rend="grantha">mah</hi><hi rend="grantha"><unclear>ā</unclear></hi><hi rend="grantha">devica</hi>tu<hi rend="grantha">vve</hi>ti-maṅ
+                    <lb n="3" break="no"/>kalattu<hi rend="grantha">śrī</hi> koyillu U[[ṭai]]y<unclear>ān</unclear> [[kā<hi rend="grantha">śya</hi>]]van [[<hi rend="grantha">śtrā</hi>]]<hi rend="grantha"><unclear>śe</unclear></hi><unclear>karan mu</unclear>
                     <lb n="4"/>vāyiratt<unclear>e</unclear>ḻu <unclear>ṉū</unclear>ṟṟu va<hi rend="grantha">ha</hi><unclear>ṭṭa</unclear>neṉ I <hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi>yamaṅkala<hi rend="grantha">de</hi>va[[r]]
                     <lb n="5"/>k<unclear>o</unclear>yil<hi rend="grantha">śrī</hi> vimāna kallā eḻu[[nta]]ruḷḷuvitta kuvaḷālaiyamm uṭai
-                    <lb n="6"/>yān Ampalavan paḻuvū<unclear>r</unclear> [[nak]]kaṉāna vi<hi rend="grantha">krama</hi>coḻa<hi rend="grantha">mahā</hi>rā<hi rend="grantha">ja</hi>r<hi rend="grantha"> </hi>ka<unclear><hi rend="grantha">mmi</hi> ve</unclear>
-                    <lb n="7"/>[[ṇṇam]]<unclear>pi</unclear>kku I <unclear><hi rend="grantha">srī</hi></unclear>koyil kaṇ<unclear>p</unclear>[[pe]]rumakkaḷ v[[i]]aravall[[i]]t t[[i]]run[[i]]la <unclear>kaṇṭa</unclear> [[<hi rend="grantha">kramavi</hi>]]
-                    <lb n="8"/>tta Ivan<hi rend="grantha">sabhai</hi>yār kaṇkāṇiyāka p[[o]]n nikki piṭillikaivāri <unclear><hi rend="grantha">krahaṇ</hi></unclear> <hi rend="grantha">saṅkrā</hi>[[<hi rend="grantha">nti</hi>]]
+                    <lb n="6"/>yān Ampalavan paḻuvū<unclear>r</unclear> [[nak]]kaṉāna vi<hi rend="grantha">krama</hi>coḻa<hi rend="grantha">mahā</hi>rā<hi rend="grantha">ja</hi>r<hi rend="grantha"> </hi>ka<hi rend="grantha"><unclear>mmi</unclear></hi> <unclear>ve</unclear>
+                    <lb n="7"/>[[ṇṇam]]<unclear>pi</unclear>kku I <hi rend="grantha"><unclear>srī</unclear></hi>koyil kaṇ<unclear>p</unclear>[[pe]]rumakkaḷ v[[i]]aravall[[i]]t t[[i]]run[[i]]la <unclear>kaṇṭa</unclear> [[<hi rend="grantha">kramavi</hi>]]
+                    <lb n="8"/>tta Ivan<hi rend="grantha">sabhai</hi>yār kaṇkāṇiyāka p[[o]]n nikki piṭillikaivāri <hi rend="grantha"><unclear>krahaṇ</unclear></hi> <hi rend="grantha">saṅkrā</hi>[[<hi rend="grantha">nti</hi>]]
                     <lb n="9"/><hi rend="grantha">ṣu</hi>m Uḷḷiṭṭu Ucampotu tirunānāḻi[[yu]]m A<hi rend="grantha">ttha</hi>yām nānāḻi Iy<unclear>u</unclear>paripārkaḷu Eṭṭu[[ku]]
-                    <lb n="10"/><unclear>A</unclear><unclear>n</unclear>tiyam pot<unclear>u</unclear><hi rend="grantha">sa</hi><unclear>nti</unclear> vi<unclear>ḷakku Ekaṭa</unclear>ven [[Uḷ]] mu<unclear>nṟu <hi rend="grantha">san</hi></unclear>ti<unclear>y</unclear>iy potu Aicu <unclear>viḷa</unclear>kk<unclear>u</unclear> <unclear>Eṟaka</unclear>[[ṭaven]]
+                    <lb n="10"/><unclear>A</unclear><unclear>n</unclear>tiyam pot<unclear>u</unclear><hi rend="grantha">sa</hi><unclear>nti</unclear> vi<unclear>ḷakku Ekaṭa</unclear>ven [[Uḷ]] mu<unclear>nṟu</unclear> <hi rend="grantha"><unclear>san</unclear></hi>ti<unclear>y</unclear>iy potu Aicu <unclear>viḷa</unclear>kk<unclear>u</unclear> <unclear>Eṟaka</unclear>[[ṭaven]]
                     <lb n="11"/><unclear>nākavai</unclear>nāvum<hi rend="grantha">śrī</hi> pall[[I po]]tu Iraṇṭu vi<unclear>ḷa</unclear>kku [[eṟṟa kaṭaven tiruva]]mutukku n[[icatam Uḻakku ney]]
                     <lb n="12"/>Amutil paṭaikka <unclear>ka</unclear>venn<unclear>ā</unclear>[[ka]]<unclear>vu nicata</unclear>m Irunāḻi Uḻakku <unclear>vi</unclear>[[ḷak]]eṇṇai Amu[[tu]]kku Uḻakku neyiyam Ā Irunā
                     <lb n="13"/><unclear>ṟu</unclear>ṭi neyi Eṇṇai Ippi[[ṭi]]llikaivāri ko<unclear>ṇṇṭu</unclear> māṇi<unclear>ra</unclear>ṇṭu Iṭṭu paṇiceykaṭaven nākavū nicatamiru
-                    <lb n="14"/><unclear>ṟu</unclear>ṭi nellalāl kaṟiyamutu I <gap reason="lost" quantity="1" unit="character"/> kaṭav<unclear>e</unclear>nnākavu I<unclear>vi</unclear>raṇṭu<hi rend="grantha">sa</hi><unclear><hi rend="grantha">n</hi></unclear>ti potu Aiñcu pākku Ākapattu Aṭaikkāy mu
+                    <lb n="14"/><unclear>ṟu</unclear>ṭi nellalāl kaṟiyamutu I <gap reason="lost" quantity="1" unit="character"/> kaṭav<unclear>e</unclear>nnākavu I<unclear>vi</unclear>raṇṭu<hi rend="grantha">sa</hi><hi rend="grantha"><unclear>n</unclear></hi>ti potu Aiñcu pākku Ākapattu Aṭaikkāy mu
                     <lb n="15"/>pattu Ivaic cukku veṇṭu veṟṟi[[l]]lai Amutu Iccu<unclear>ṭṭa</unclear>paṭa Itaḷaiyum An<unclear>ṟā</unclear>ṭ<unclear>ṭu</unclear> kaṇkāṇiyoṭu Ipaṭi
                     <lb n="16"/>c[[e]]yakaṭavennāne
                 </p>
@@ -90,15 +96,15 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/172).</p>
                 <p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">75-76</citedRange>
+                        <citedRange unit="item">5</citedRange>
                     </bibl>
                 </listBibl>
                 
@@ -107,7 +113,7 @@
                         <ptr target="bib:ARIE1928-1929"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="appendix"> B/1928-1929</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="item">172</citedRange>
                     </bibl>
                 </listBibl>
                 

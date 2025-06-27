@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#13. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 158; SII 32, part 2, no. 104; c) personally located; d) on the wall section on the eastern side of the niche of Brahmā; e) regnal year 12 of Kōpparakesarivarman; f) Uttamacōḻa (<foreign>circa</foreign> 983 C.E.); g) it is apparently unfinished.</p>
+                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. On the wall section on the eastern side of the niche of Brahmā. Regnal year 12 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 983 C.E.). It is apparently unfinished.</p>
                             
                         </summary>
                     </msContents>
@@ -56,9 +56,15 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> kopparake<unclear><hi rend="grantha">ca</hi></unclear>ripamṉamārāṉa <hi rend="grantha">śrī</hi> Uttamacoḻaku
-                    <lb n="2"/>yāṇṭu 12 Āvatu vaṭakarai<hi rend="grantha">brahma</hi>teyam p<unclear>e</unclear>riya vāṉavaṉm<unclear>ā</unclear>
-                    <lb n="3"/>[[<hi rend="grantha">de</hi>]]viccatu[[<hi rend="grantha">r</hi>]]<hi rend="grantha">ve</hi>timaṅkattu <hi rend="grantha">śrī</hi> kayilā<unclear>ya</unclear>ttu parama<hi rend="grantha">śvā</hi>mika[[ḷu]]<unclear>k</unclear>ku <unclear>to</unclear>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    kō-p-parakē<hi rend="grantha"><unclear>ca</unclear></hi>ri-pamṉamār-āṉa <hi rend="grantha">śrī</hi> Uttamacoḻaku
+                    <lb n="2"/>yāṇṭu 12 Āvatu
+                </p>
+                <p>
+                    vaṭa-karai-<hi rend="grantha">brahma</hi>teyam p<unclear>e</unclear>riya vāṉavaṉ-m<unclear>ā</unclear>
+                    <lb n="3"/>[[<hi rend="grantha">de</hi>]]vi-c-catu[[<hi rend="grantha">r</hi>]]<hi rend="grantha">ve</hi>timaṅkattu <hi rend="grantha">śrī</hi> kayilā<unclear>ya</unclear>ttu parama<hi rend="grantha">śvā</hi>mika[[ḷu]]<unclear>k</unclear>ku <unclear>to</unclear>
                     <lb n="4"/>[[toṇ]]<unclear>ṭ</unclear>[[ai]]<unclear>ṉā</unclear><unclear>ṭu paḻuvūr ko</unclear>ṭṭattu [[kāvaṉṉur]] <unclear>ce</unclear>[[kkiḻān Araiyaṉ caṅkaranā]]
                     <lb n="5"/><unclear>r</unclear>āyaṇaṉāṉa coḻamuttaraiyaṉṉeṉ Iṉcu periya vāṉavaṉ māteviperuṅkuṟi
                     <lb n="6"/>yāḷḷum kaṇattāruḷ śrīcoḻa<unclear>cū</unclear>ḻamāṇiceri<hi rend="grantha">sabhai</hi>yārku Iṟaiyili m[[ikai]]
@@ -108,15 +114,15 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/158).</p>
+                <p>SII 32, part 2, no. 104. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">85-87</citedRange>
+                        <citedRange unit="item">13</citedRange>
                     </bibl>
                 </listBibl>
                 
@@ -125,7 +131,7 @@
                         <ptr target="bib:ARIE1928-1929"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="appendix"> B/1928-1929</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="item">158</citedRange>
                     </bibl>
                 </listBibl>
                 

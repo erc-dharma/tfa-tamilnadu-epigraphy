@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#9. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 166; SII 19, no. 333; SII 32, part 2, no. 123; c) personally located; d) upper inscription on the lowest stone of the southernmost wall section of the western façade of the sanctuary; e) Regnal year 13 of Kōpparakesarivarman; f) Uttamacōḻa (<foreign>circa</foreign> 984 C.E.); g) there is no <foreign>svasti śrī</foreign> at the beginning of this inscription.</p>
+                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. Upper inscription on the lowest stone of the southernmost wall section of the western façade of the sanctuary. Regnal year 13 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 984 C.E.). There is no <foreign>svasti śrī</foreign> at the beginning of this inscription.</p>
                             
                         </summary>
                     </msContents>
@@ -56,11 +56,17 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>kopparakecariva<hi rend="grantha">nma</hi>ṟku yāṇṭu 13 Āvatu Ittirukkaṟṟaḷ[[i]] Eṭuppit
-                    <lb n="2"/>ta<hi rend="grantha">ku</hi>vaḷālam uṭaiyāṉ Ampalavaṉ paḻuvūr nakkaṉāṉa vikkiramacoḻa mārā
-                    <lb n="3"/>yar Akamuṭaiyāḷ Aparāyitaṉ ceyyavāymaṇi ca<hi rend="grantha">ntrā</hi>tittaval vaitta non
-                    <lb n="4"/>taviḷakku Oṉṟukku nicata Uḻakku neyyāka vaitta Āṭu toṇṇūṟṟu Āṟu Ivai cāvā
-                    <lb n="5"/>vā perāṭu pa<hi rend="grantha">nmāheśvara rakṣai</hi> ||
+                    <lb n="1"/>kō-p-para-kēcari-va<hi rend="grantha">nma</hi>ṟku yāṇṭu 13 Āvatu
+                </p>
+                <p>
+                    It-tiru-k-kaṟṟaḷ[[i]] Eṭuppit
+                    <lb n="2" break="no"/>ta<hi rend="grantha">ku</hi>vaḷālam uṭaiyāṉ Ampalavaṉ paḻuvūr nakkaṉ-āṉa vikkirama-coḻa-mārā
+                    <lb n="3" break="no"/>yar Akamuṭaiyāḷ Aparāyitaṉ ceyyavāymaṇi ca<hi rend="grantha">ntrā</hi>tittaval vaitta non
+                    <lb n="4" break="no"/>taviḷakku Oṉṟukku nicata Uḻakku neyyāka vaitta Āṭu toṇṇūṟṟu Āṟu Ivai cāvā
+                    <lb n="5"/>vā perāṭu
+                </p>
+                <p>
+                    pa<hi rend="grantha">nmāheśvara rakṣai</hi> ||
                 </p>
                 
             </div>
@@ -79,15 +85,15 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/166).</p>
+                <p>SII 19.333. SII 32, part 2, no. 123. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">81</citedRange>
+                        <citedRange unit="item">9</citedRange>
                     </bibl>
                 </listBibl>
                 
@@ -96,7 +102,7 @@
                         <ptr target="bib:ARIE1928-1929"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="appendix"> B/1928-1929</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="item">166</citedRange>
                     </bibl>
                 </listBibl>
                 

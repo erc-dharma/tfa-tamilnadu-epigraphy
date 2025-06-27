@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#10. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 167; SII 19, no. 334; SII 32, part 2, no. 124; c) personally located; d) lowest inscription on the lowest stone of the southernmost wall section of the western façade of the sanctuary, in continuation of #9; it continues on the pilaster on the southern side; e) Regnal year 13 of Kōpparakesarivarman; f) Uttamacōḻa (<foreign>circa</foreign> 984 C.E.); g) there is no <foreign>svasti śrī</foreign> at the beginning of this inscription.</p>
+                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. Lowest inscription on the lowest stone of the southernmost wall section of the western façade of the sanctuary, in continuation of <ref target="DHARMA_INSTamilNadu00519"/>. It continues on the pilaster on the southern side. Regnal year 13 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 984 C.E.). There is no <foreign>svasti śrī</foreign> at the beginning of this inscription.</p>
                             
                         </summary>
                     </msContents>
@@ -56,18 +56,24 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>kopparakecaripa<hi rend="grantha">nma</hi>ṟku yāṇṭu 13 Āvatu Ittirukkaṟṟa
-                    <lb n="2"/>ḷi Eṭupitta kuvaḷālam uṭaiyāṉ Ampalavaṉ paḻuvūr nakkaṉ Āṉa vikkiramacoḻa mārāyar
+                    <lb n="1"/>kō-p-parakēcaripa<hi rend="grantha">nma</hi>ṟku yāṇṭu 13 Āvatu
+                </p>
+                <p>
+                    It-tiru-k-kaṟṟa
+                    <lb n="2" break="no"/>ḷi Eṭupitta kuvaḷālam uṭaiyāṉ Ampalavaṉ paḻuvūr nakkaṉ Āṉa vikkirama-coḻa-mārāyar
                     <lb n="3"/>Akamuṭaiyāḷ ciṅkapa<hi rend="grantha">nma</hi>ṉ kañci Akkaṉ vaitta nontāviḷa<unclear>kku</unclear> Oṉṟu Oṉṟukku nicatam <unclear>u</unclear>
                     <lb n="4"/><note>Continues on the pilaster, on the southern side.</note> ḻakku ney
-                    <lb n="5"/>yerikka vai
-                    <lb n="6"/>tta cāvāmu
-                    <lb n="7"/>vāp perā
+                    <lb n="5"/>y-erikka vai
+                    <lb n="6" break="no"/>tta cāvā mu
+                    <lb n="7" break="no"/>vā-p perā
                     <lb n="8"/>ṭu toṇ
                     <lb n="9"/>ṇūṟṟu Ā
-                    <lb n="10"/>ṟu Ivai<hi rend="grantha">pa</hi>
+                    <lb n="10"/>ṟu
+                </p>
+                <p>
+                    Ivai<hi rend="grantha">pa</hi>
                     <lb n="11"/><hi rend="grantha">nmāheśvara</hi>
-                    <lb n="12"/><unclear><hi rend="grantha">rakṣai</hi> ||</unclear>
+                    <lb n="12"/><hi rend="grantha"><unclear>rakṣai</unclear></hi> <unclear>||</unclear>
                 </p>
                 
             </div>
@@ -86,15 +92,15 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/167).</p>
+                <p>SII 19.334. SII 32, part 2, no. 124. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">81</citedRange>
+                        <citedRange unit="item">10</citedRange>
                     </bibl>
                 </listBibl>
                 
@@ -103,7 +109,7 @@
                         <ptr target="bib:ARIE1928-1929"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="appendix"> B/1928-1929</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="item">167</citedRange>
                     </bibl>
                 </listBibl>
                 

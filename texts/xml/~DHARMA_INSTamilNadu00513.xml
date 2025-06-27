@@ -7,8 +7,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
     <teiHeader>
         <fileDesc>
-            <titleStmt>
-                <!--See Gillet (forthcoming: #147)-->
+            <titleStmt>                
                 <title>Govindapputtūr, Gaṅgājaṭādhara temple, time of Parakesarivarman, year 10</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
@@ -34,7 +33,9 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. Lowest inscription on the eastern wall section of the southern façade of the shrine. Regnal year 10 of Kōpparakesarivarman = probably Uttamacōḻa (<foreign>circa</foreign> 981 C.E.). I have dealt with this inscription in Gillet (forthcoming: #147), and I will thus provide only the translation here.</p>
+                        <summary>
+                            <p>Govindaputtūr (Kōvintapputtūr), Uṭaiyārpaḷaiyam taluk, Trichy district, Gaṅgājaṭādhara temple. On the eastern wall section of the southern façade, lowest inscription.10th regnal year of Kōpparakesarivarman = probably Uttamacōḻa (c. A.D. 981). In continuation of the line 4, there is a description of another four lines of a land containing <foreign>catirattu</foreign>, <foreign>vāykkal</foreign>, <foreign>kaṇṇāṟṟu</foreign>, directions, etc. It does not seem to be connected, although it is the same writing.</p>
+                            <p>Gaṅgājaṭādhara temple of Govindapputtūr. Lowest inscription on the eastern wall section of the southern façade of the shrine. Regnal year 10 of Kōpparakesarivarman = probably Uttamacōḻa (<foreign>circa</foreign> 981 C.E.).</p>
                             
                         </summary>
                     </msContents>
@@ -57,6 +58,21 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    kō-p-parakēcar[i] pa[n]makku yāṇṭu 10 Āvatu
+                </p>
+                <p>
+                    vaṭa-karai-brahma[deyam] per[i] śrī-vāṉavaṉ-mahādev[i]-ca[tu]
+                    <lb n="2" break="no"/>vvetimaṅkalattu [[śrī]]-vijaiya-maṅkalattu mahadevaṟku śantrātitta[va]l
+                    nontā-viḷakkukku Aṭikaḷ paḻu⌈
+                    <lb n="3" break="no"/>vēṭṭaraiyar maṟavaṅ ka[ṇ]ṭaṉār kaṉmi kuṉṟakkūṟṟattu Aṟaṇinallūr uṭaiya
+                    maṉpperumai cūvāmiyāṉa kuṉṟanāṭṭu
+                    <lb n="4" />kaṇṭapperuntiṇai vaitta Āṭu toṇṇūṟum
+                </p>
+                <p>
+                    panmāyeśvara rakṣai
                 </p>
                 
             </div>
@@ -65,25 +81,38 @@
                 
             </div>
             
-            <div type="translation" source="bib:Gillet2023_01">
+            <div type="translation" source="bib:Gillet2024_01">
                 
-                <p>Fortune! Prosperity! This is the 10th year of Kōpparakesarivarman. To Mahādeva of Śrī Vijaiyamaṅkalam of the big Śrī Vāṉavaṉ-mahādevi-caturvedimaṅgalam, a <foreign>brahmadeya</foreign> of the northern bank, for a perpetual lamp, as long as the sun and the moon endure, an officer <supplied reason="explanation"><foreign>kaṉmi</foreign></supplied> of Aṭikaḷ Paḻuvēṭṭaraiyar Maṟavaṉ Kaṇṭaṉār, lord <supplied reason="explanation"><foreign>uṭaiya</foreign></supplied> of Aṟaṇinallūr of Kuṉṟakūṟṟam, Maṉpperumaicūvāmi alias Kaṇṭapperuntiṇai <supplied reason="explanation">accountant</supplied> of Kuṉṟanāṭu, gave ninety goats. This is under the protection of the Panmāheśvaras.</p></div>
-            
-            <div type="commentary">
-                
+                <p>Fortune! Prosperity!</p>
+                <p><supplied reason="subaudible">This is the</supplied> 10th year of Kōpparakesarivarman.</p>
+                <p>To Mahādeva (mahadeva, that is, mahādeva) of Śrī Vijaiyamaṅkalam of the big Śrī Vāṉavaṉ-mahādevi-caturvedimaṅgalam, a <foreign>brahmadeya</foreign> of the northern bank, for a perpetual lamp (nontāviḷakkukku), as long as the sun and the moon endure (śantrātittaval, that is, cantrātittaval), an officer <supplied reason="explanation"><foreign>kaṉmi</foreign></supplied> of Aṭikaḷ Paḻuvēṭṭaraiyar Maṟavaṉ Kaṇṭaṉār, lord <supplied reason="explanation"><foreign>uṭaiya</foreign></supplied> of Aṟaṇinallūr of Kuṉṟakūṟṟam, Maṉpperumaicūvāmi alias Kaṇṭapperuntiṇai <supplied reason="explanation">accountant</supplied> of Kuṉṟanāṭu, gave (vaitta) ninety (toṇṇūṟum) goats (āṭu).
+                </p>
+                <p>
+                    <supplied reason="subaudible">This is under the</supplied>
+                    protection of the Panmāheśvaras.
+                    </p>
             </div>
+            
+            <div type="commentary"/>
+                
+            
             
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/173).</p>
-                <p>SII 19.273. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>SII 19.273. Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">75</citedRange>
                         <citedRange unit="item">3</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bib:Gillet2024_01"/>
+                        <citedRange unit="page">269</citedRange>
+                        <citedRange unit="item">146</citedRange>
                     </bibl>
                 </listBibl>
                 

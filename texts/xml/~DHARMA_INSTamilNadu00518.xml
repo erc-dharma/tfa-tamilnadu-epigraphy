@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#8. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 165; SII 19, no. 332; SII 32, part 2, no. 122; c) personally located; d) on the upper part of the southernmost wall section of the western façade of the sanctuary; e) Regnal year 13 of Kōpparakesarivarman; f) Uttamacōḻa (<foreign>circa</foreign> 984 C.E.); g) the inscription is unfinished; we notice some unusual mistakes: <foreign>cōḻḻa</foreign> &gt; <foreign>cōḻa</foreign>, <foreign>vimmā</foreign> &gt; <foreign>vimāṉa</foreign>, <foreign>paḻuvuṟ</foreign> &gt; <foreign>paḻuvūr</foreign>, <foreign>hmādevaṟku</foreign> &gt; <foreign>mahādevaṟku</foreign>.</p>
+                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. On the upper part of the southernmost wall section of the western façade of the sanctuary. Regnal year 13 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 984 C.E.). The inscription is unfinished. We notice some unusual mistakes: <foreign>cōḻḻa</foreign> &gt; <foreign>cōḻa</foreign>, <foreign>vimmā</foreign> &gt; <foreign>vimāṉa</foreign>, <foreign>paḻuvuṟ</foreign> &gt; <foreign>paḻuvūr</foreign>, <foreign>hmādevaṟku</foreign> &gt; <foreign>mahādevaṟku</foreign>.</p>
                             
                         </summary>
                     </msContents>
@@ -56,11 +56,17 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi><note>The<hi rend="grantha">śrī</hi> was forgotten and added under the line, between the <hi rend="grantha">sti</hi> and the <hi rend="grantha">ko</hi>.</note><hi rend="grantha"> </hi>kopparakecaripa<hi rend="grantha">nma</hi>ṟku yāṇṭu <unclear>1</unclear>3 muṉṟāvatu vaṭakarai <hi rend="grantha">brahmade</hi>yam pe
-                    <lb n="2"/>riya<hi rend="grantha">śrī </hi>vāṉavaṉmāteviccatu<hi rend="grantha">vve</hi>timaṅkalattu <hi rend="grantha">śrī </hi>vi<hi rend="grantha">ja</hi>yamaṅkalat<unclear>e</unclear>
-                    <lb n="3"/>vaṟ koyi<hi rend="grantha">śrī </hi>vi<hi rend="grantha">m</hi>mā kallā Eḻu<unclear>nta</unclear>ruḷḷuvicceṉ <hi rend="grantha">śrī </hi>Uta<hi rend="grantha">m</hi>macoḻḻatevaṟ peru
-                    <lb n="4"/>ntiṟattu kuvaḷḷālamUṭaiyāṉ Ampalavaṉ paḻuvuṟ nakkaṉāna vi<hi rend="grantha">kra</hi>macoḻḻa
-                    <lb n="5"/>mārā<unclear>ya</unclear>nne I<hi rend="grantha">śrī </hi>vi<hi rend="grantha">ja</hi>yamaṅkalattu <hi rend="grantha">hmāde</hi>vaṟku ṉā 
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi><note>The<hi rend="grantha">śrī</hi> was forgotten and added under the line, between the <hi rend="grantha">sti</hi> and the <hi rend="grantha">ko</hi>.</note>
+                </p>
+                <p>
+                    kō-p-parakēcaripa<hi rend="grantha">nma</hi>ṟku yāṇṭu <unclear>1</unclear>3 muṉṟ-āvatu
+                </p>
+                <p>
+                    vaṭa-karai <hi rend="grantha">brahmade</hi>yam pe
+                    <lb n="2" break="no"/>riya <hi rend="grantha">śrī</hi>-vāṉavaṉ-mātevi-c-catu<hi rend="grantha">vve</hi>ti-maṅkalattu <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-maṅkala-t<unclear>ē</unclear>
+                    <lb n="3" break="no"/>vaṟ kōyi <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">m</hi>mā kallā Eḻu<unclear>nt-a</unclear>ruḷḷuvicceṉ <hi rend="grantha">śrī </hi>Uta<hi rend="grantha">m</hi>ma-coḻḻatēvaṟ peru
+                    <lb n="4" break="no"/>ntiṟattu kuvaḷḷālam Uṭaiyāṉ Ampalavaṉ paḻuvuṟ nakkaṉ-āna vi<hi rend="grantha">kra</hi>ma-coḻḻa
+                    <lb n="5" break="no"/>-mārā<unclear>ya</unclear>nnē I-<hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-maṅkalattu <hi rend="grantha">hmāde</hi>vaṟku ṉā 
                 </p>
                 
             </div>
@@ -79,15 +85,15 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/165).</p>
+                <p>SII 19.332; SII 32, part 2, no. 122. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">80</citedRange>
+                        <citedRange unit="item">8</citedRange>
                     </bibl>
                 </listBibl>
                 
@@ -96,7 +102,7 @@
                         <ptr target="bib:ARIE1928-1929"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="appendix"> B/1928-1929</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="item">165</citedRange>
                     </bibl>
                 </listBibl>
                 

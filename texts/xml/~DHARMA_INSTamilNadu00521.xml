@@ -34,7 +34,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#11. a) Gaṅgājaṭādhara temple of Govindapputtūr; b) ARE 1928–29, no. 164 (+ part 2, para 28, p. 74); SII 19, no, 357; SII 32, part 2, no. 138; c) personally located; d) begins on the westernmost wall section of the northern façade and continues on the northernmost wall section of the western façade; e) Regnal year 14 of Kōpparakesarivarman; f) Uttamacōḻa (<foreign>circa</foreign> 985 C.E.); g) the translation of this inscription is given above pp. XXX.</p>
+                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. Begins on the westernmost wall section of the northern façade and continues on the northernmost wall section of the western façade. Regnal year 14 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 985 C.E.). The translation of this inscription is given p. 68.</p>
                             
                         </summary>
                     </msContents>
@@ -116,15 +116,15 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/***).</p>
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/164) (+ part 2, para 28, p. 74).</p>
+                <p>SII 19.357. SII 32, part 2, no. 138. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">81-82</citedRange>
+                        <citedRange unit="item">11</citedRange>
                     </bibl>
                 </listBibl>
                 
@@ -133,7 +133,7 @@
                         <ptr target="bib:ARIE1928-1929"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="appendix"> B/1928-1929</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="item">164</citedRange>
                     </bibl>
                 </listBibl>
                 

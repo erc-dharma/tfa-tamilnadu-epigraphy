@@ -33,7 +33,8 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. Lowest inscription on the western wall section of the southern façade of the shrine, engraved on a single stone block. Regnal year 10 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 981 C.E.).</p>
+                        <summary>                            
+                            <p>Gaṅgājaṭādhara temple of Govindapputtūr. Lowest inscription on the western wall section of the southern façade of the shrine, engraved on a single stone block. Regnal year 10 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 981 C.E.).</p>
                             
                         </summary>
                     </msContents>
@@ -89,7 +90,7 @@
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">74</citedRange>
                         <citedRange unit="item">2</citedRange>
                     </bibl>
                 </listBibl>

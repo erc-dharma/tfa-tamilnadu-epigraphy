@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#14. a) Gaṅgājaṭādhara temple of Govindapputtūr. On the northern façade, on the wall section between the <foreign>ardha-maṇḍapa</foreign> and the sanctuary; the last ten lines are engraved on the <foreign>ardha-maṇḍapa</foreign>, on the western side of the niche containing Kālārimūrti; e) regnal year 13 of Kōpparakesarivarman; f) Uttamacōḻa (<foreign>circa</foreign> 984 C.E.).</p>
+                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. On the northern façade, on the wall section between the <foreign>ardha-maṇḍapa</foreign> and the sanctuary. The last ten lines are engraved on the <foreign>ardha-maṇḍapa</foreign>, on the western side of the niche containing Kālārimūrti. Regnal year 13 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 984 C.E.).</p>
                             
                         </summary>
                     </msContents>
@@ -56,8 +56,15 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>[[<hi rend="grantha">svasti</hi>]] <hi rend="grantha">śrī</hi> kopparakecaripa<hi rend="grantha">nma</hi>kku yāṇṭu [[10]] <unclear>3</unclear> Āvatu [[va]]
-                    <lb n="2"/>ṭaka<unclear>rai</unclear><hi rend="grantha">brahma</hi>teyam periya vāṉavaṉ<hi rend="grantha">mahādeviścatuvve</hi>[[<hi rend="grantha">di</hi>]]
+                    <lb n="1"/>[[<hi rend="grantha">svasti</hi>]] <hi rend="grantha">śrī</hi>
+                </p>
+                
+                <p>
+                    kō-p-parakēcaripa<hi rend="grantha">nma</hi>kku yāṇṭu [[10]] <unclear>3</unclear> Āvatu
+                </p>
+                <p>
+                    [[va]]
+                    <lb n="2" break="no"/>ṭa-ka<unclear>rai</unclear>-<hi rend="grantha">brahma</hi>teyam periya vāṉavaṉ-<hi rend="grantha">mahādevi-ścatuvve</hi>[[<hi rend="grantha">di</hi>]]
                     <lb n="3"/>ma[[ṅka]]lattu<hi rend="grantha">śivabrāhma</hi>ṇar kā<hi rend="grantha">śya</hi>vaṉ kuṉ[[ṟa]]ṉ ciṅkapa
                     <lb n="4"/>ṭṭa[[ṉu]]m<hi rend="grantha">bhā</hi>ra<hi rend="grantha">dvā</hi>ci koṟṟaṉ tiruvaraṅkapaṭṭaṉum Uḷḷaṭṭ<unclear>o</unclear>
                     <lb n="5"/>m <unclear>A</unclear>raiyaṉ caṅkaranārāyaṇaṉāṉa coḻamuttaraiyar
@@ -73,19 +80,34 @@
                     <lb n="15"/><note>I cannot locate this line on my pictures.</note> [[poṉ maṉṟuvatākavum Ipparicu Oṭṭik kaittiṭṭu]]
                     <lb n="16"/><note>This line is on the vertical ledge below the wall section.</note> <unclear>kuṭu</unclear>ttom coḻamuttaraiyarkku kuṉṟaṉ ciṅkapaṉu ‡ [[m]] koṟṟaṉ ‡ tiru Araṅ[[ka]]ṉum
                     <lb n="17"/><note>I cannot read this line on my pictures. It is on the horizontal part below the first ledge.</note> [[Uḷḷiṭṭom maṟṟu Ikkoyilli paṇceytu munpu niṉṟome Ippa]]
-                    <lb n="18"/><note>The following two lines are engraved on the recess, below the first ledge.</note> ṇi ceyāviṭ<unclear>i</unclear>l Ittaṇṭappaṭuvatāka Iṭṭu ‡ kuṭuttom ‡ Ivvaṉaivo
-                    <lb n="19"/>[[m]] Ivakaḷ veṇṭa Eḻutiṉe kāvirit teṉkarai Aḷanāṭ ‡ ṭu variñci ‡ yūr<hi rend="grantha">brahma</hi>te
-                    <lb n="20"/><note>These last ten lines are on the<hi rend="grantha">ardha-maṇḍapa</hi>, on the western side of the niche of the Kālārimūrti.</note> yattu <hi rend="grantha">kāśya</hi>vaṉ <hi rend="grantha">śrī </hi>kaṇṭan tā
-                    <lb n="21"/>motirapaṭṭaneṉ Ivai yeṉ
-                    <lb n="22"/>Eḻuttu Ippaṭa yoṭṭa Ip
+                    <lb n="18"/><note>The following two lines are engraved on the recess, below the first ledge.</note> ṇi ceyāviṭ<unclear>i</unclear>l Ittaṇṭappaṭuvatāka Iṭṭu ‡ kuṭuttōm ‡ Ivvaṉaivō
+                    <lb n="19"/>[[m]]
+                </p>
+                <p>
+                    Ivakaḷ veṇṭa Eḻutiṉe kāvirit teṉkarai Aḷanāṭ‡ṭu variñci‡yūr <hi rend="grantha">brahma</hi>te
+                    <lb n="20" break="no"/><note>These last ten lines are on the<hi rend="grantha">ardha-maṇḍapa</hi>, on the western side of the niche of the Kālārimūrti.</note> yattu <hi rend="grantha">kāśya</hi>vaṉ <hi rend="grantha">śrī </hi>kaṇṭan tā
+                    <lb n="21"/>motirapaṭṭaneṉ
+                </p>
+                <p>
+                    Ivai yeṉ
+                    <lb n="22"/>Eḻuttu
+                </p>
+                <p>
+                    Ippaṭa yoṭṭa Ip
                     <lb n="23"/>paṇi ceyvatāka Iṭṭukkuṭutto
                     <lb n="24"/>m<hi rend="grantha">bhāradvā</hi>ci koṟṟaṉ tiruvaraṅkkaṉu
                     <lb n="25"/>kā<hi rend="grantha">śya</hi>vaṉ kuṉṟaṉ ciṅkapaṭṭaṉum
                     <lb n="26"/>Uḷḷiṭṭa Ivvaṉaivom Ivakaḷ
                     <lb n="27"/>kammāṭṭāṅkiṉāl Eḻutiṉāṉum
                     <lb n="28"/>Iṭṭuk kuṭutteṉ kuṉṟaṉ ciṅ
-                    <lb n="29"/>kapaṭṭaṉeṉ Ivai yeṉ ṉeḻu
-                    <lb n="30"/>[ttu Ivai<hi rend="grantha">panmāheśvara rakṣai</hi>
+                    <lb n="29"/>kapaṭṭaṉeṉ
+                </p>
+                <p>
+                    Ivai yeṉṉeḻu
+                    <lb n="30"/>[ttu
+                </p>
+                <p>                    
+                    Ivai <hi rend="grantha">panmāheśvara rakṣai</hi>
                 </p>
                 
             </div>
@@ -111,7 +133,7 @@
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">87-89</citedRange>
                         <citedRange unit="item">14</citedRange>
                     </bibl>
                 </listBibl>

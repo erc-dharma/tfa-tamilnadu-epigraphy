@@ -56,14 +56,14 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>kō-Irā<hi rend="grantha">ja</hi>rā ‡ <hi rend="grantha">ja</hi>ke<unclear>ca</unclear>ri<hi rend="grantha">nma</hi>kki yāṇṭu 7-vatu
+                    <lb n="1"/>kō-Irā<hi rend="grantha">ja</hi>rā‡<hi rend="grantha">ja</hi>kē<unclear>ca</unclear>ri<hi rend="grantha">nma</hi>kki yāṇṭu 7-vatu
                 </p>
                 <p>
-                    va<supplied reason="explanation">ṭa</supplied>-karai-<hi rend="grantha">brahmade</hi>yam p[[e]]riya <hi rend="grantha">śrī</hi> <unclear>vā</unclear> <gap reason="lost" quantity="1" unit="character"/> vaṉ<hi rend="grantha">mahāde</hi>vi <gap reason="lost" quantity="2" unit="character"/> <hi rend="grantha">vve</hi>timaṅkalattu
-                    <lb n="2"/><hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi> ‡ yamaṅkalatevaṟku <hi rend="grantha">śrī</hi> vimāṉam ka <gap reason="lost" quantity="1" unit="character"/> lā Eḻuntaruḷḷuvitta Uṭaiyār peruntiṟattu ku <gap reason="lost" quantity="4" unit="character"/> muṭaiyaṉ Am
-                    <lb n="3"/>palava‡ṉ pa<unclear>ḻu</unclear>vūr <unclear>ṉa</unclear>kkaṉṉāṉa Irā <gap reason="lost" quantity="1" unit="character"/> rā<hi rend="grantha">ja</hi>pallar<unclear>ai</unclear>ya<unclear>ṉ</unclear> <gap reason="lost" quantity="3" unit="character"/> Ikkoyil <unclear>vimāṉa</unclear> Eḻuntaruḷḷuvit<unclear>tu</unclear> <unclear>kū</unclear>ttaperumāḷ
-                    <lb n="4"/>kkum <gap reason="lost" quantity="1" unit="character"/> ‡ Umā<hi rend="grantha">bha</hi>ṭṭāla<unclear>ni</unclear>ku<unclear>m</unclear> tiruvāparaṇattuku varakkāṭṭiṉa <gap reason="lost" quantity="5" unit="character"/> niṟai poṉ Irunūṟṟuk ka<unclear>ḻaintu</unclear> <gap reason="lost" quantity="3" unit="character"/> tti<unclear>l vai</unclear>
-                    <lb n="5"/>ttatu ‡ <gap reason="lost" quantity="1" unit="character"/> 
+                    va<supplied reason="explanation">ṭa</supplied>-karai-<hi rend="grantha">brahmade</hi>yam p[[e]]riya <hi rend="grantha">śrī</hi> <unclear>vā</unclear> <gap reason="lost" quantity="1" unit="character"/> vaṉ-<hi rend="grantha">mahā-de</hi>vi <gap reason="lost" quantity="2" unit="character"/> <hi rend="grantha">vve</hi>ti-maṅkalattu
+                    <lb n="2"/><hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>‡ya-maṅkala-tēvaṟku <hi rend="grantha">śrī</hi>-vimāṉam ka <gap reason="lost" quantity="1" unit="character"/> lā Eḻunt-aruḷḷuvitta Uṭaiyār perun-tiṟattu ku <gap reason="lost" quantity="4" unit="character"/> muṭaiyaṉ Am
+                    <lb n="3" break="no"/>palava‡ṉ pa<unclear>ḻu</unclear>vūr <unclear>ṉa</unclear>kkaṉṉ-āṉa Irā<supplied reason="lost"><hi rend="grantha">ja</hi></supplied>rā<hi rend="grantha">ja</hi>pallar<unclear>ai</unclear>ya<unclear>ṉ</unclear> <gap reason="lost" quantity="3" unit="character"/> Ik-kōyil <unclear>vimāṉa</unclear> Eḻunt-aruḷḷuvit<unclear>tu</unclear> <unclear>kū</unclear>ttaperumāḷ
+                    <lb n="4"/>kkum <gap reason="lost" quantity="1" unit="character"/> ‡ Umā-<hi rend="grantha">bha</hi>ṭṭāla<unclear>ni</unclear>ku<unclear>m</unclear> tiru-v-āparaṇattuku vara-k kāṭṭiṉa <gap reason="lost" quantity="5" unit="character"/> niṟai poṉ Iru-nūṟṟu-k ka<unclear>ḻaintu</unclear> <gap reason="lost" quantity="3" unit="character"/> tti<unclear>l vai</unclear>
+                    <lb n="5" break="no"/>ttatu ‡ <gap reason="lost" quantity="1" unit="character"/> 
                 </p>
                 
             </div>
@@ -89,7 +89,7 @@
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">89</citedRange>
                         <citedRange unit="item">15</citedRange>
                     </bibl>
                 </listBibl>
