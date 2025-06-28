@@ -60,20 +60,20 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </p>
                 <p>                
-                    kō-p-para-kēcari-pa<hi rend="grantha">nma</hi><reg>r</reg>kku yāṇṭu <num value="10"><g type="numeral">10</g></num> Āvatu
+                    kō-p-para-kēcari-pa<hi rend="grantha">nma</hi><reg>r</reg>kku yāṇṭu <num value="10"><g type="numeral">10</g></num>-Āvatu
                 </p>
                 <p>
                     vaṭa-karai
                     <lb n="2" break="no"/>-<hi rend="grantha">brahmade</hi>yam periya <hi rend="grantha">śrī</hi>-vāṉavaṉ-<hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>de</hi>vi-<hi rend="grantha">ca</hi>tu<hi rend="grantha"><reg>r</reg><unclear reason="eccentric_ductus">vve</unclear></hi>ti-ma
                     <lb n="3" break="no"/>ṅkalattu <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">jai</hi>ya-maṅkala<supplied reason="omitted">t</supplied>tu <hi rend="grantha">mahā-de</hi>vaṟkku It-tiru
-                    <lb n="4" break="no"/>-k-kaṟṟaḷi ceyvitta Ampalavaṉ paḻuvūraṉ-āṉa<hi rend="grantha">śrī</hi>-vikkira
+                    <lb n="4" break="no"/>-k-kaṟṟaḷi ceyvitta Ampalavaṉ paḻuvūraṉ-āṉa <hi rend="grantha">śrī</hi>-vikkira
                     <lb n="5" break="no"/>ma-cōḻa-mā-rāyar <hi rend="grantha">cantrā</hi>tittavaṟ nan=tā-viḷakku Oṉ
                     <lb n="6"/>ṟiṉukku v<hi rend="grantha">ai</hi>tta Āṭu toṉṉūṟṟ' āṟu <g type="gomutraFinal"/>
                 </p>
                 <p>
                     Aṇṭā
-                    <lb n="7"/>ṭṭu maḻavar <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">jai</hi>ya-maṅkala<supplied reason="omitted">t</supplied>tu <hi rend="grantha">mahā-de</hi>vaṟkku <hi rend="grantha">ca</hi>
-                    <lb n="8"/><hi rend="grantha">ntrā</hi>tittavaṟ nan=tāviḷa-kkukk' iraṇṭukku kuṭutta paṅk<supplied reason="lost">u</supplied> <gap reason="lost" quantity="1" unit="character"/> i<unclear>ra</unclear>ṇṭu
+                    <lb n="7" break="no"/>ṭṭu maḻavar <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">jai</hi>ya-maṅkala<supplied reason="omitted">t</supplied>tu <hi rend="grantha">mahā-de</hi>vaṟkku <hi rend="grantha">ca</hi>
+                    <lb n="8" break="no"/><hi rend="grantha">ntrā</hi>tittavaṟ nan=tāviḷa-kkukk' iraṇṭukku kuṭutta paṅk<supplied reason="lost">u</supplied> <gap reason="lost" quantity="1" unit="character"/> <seg rend="check">I</seg><unclear>ra</unclear>ṇṭu
                 </p>
                 <p>
                     Ivai pa<hi rend="grantha"><unclear>nma</unclear></hi><hi rend="grantha">he<add place="above">śva</add>ra-rakṣai</hi>
@@ -86,7 +86,7 @@
                     <app loc="2">
                         <lem><hi rend="grantha">ca</hi>tu<hi rend="grantha"><reg>r</reg><unclear reason="eccentric_ductus">vve</unclear></hi>ti</lem>
                         <rdg source="bib:Gillet2023_01"><hi rend="grantha">catuve</hi>ti</rdg>
-                        <note><ptr target="bib:Gillet2023_01"/>: <quote>The<foreign>v</foreign> looks like a <foreign>vu</foreign> with a -<foreign>e</foreign> before, which is impossible. Perhaps it is intended for a <foreign>vve</foreign>.</quote> The <foreign>vv</foreign> looks rather like a kind of <foreign>vū</foreign> preceded by medial <foreign>e</foreign> and indeed intended to be <foreign>vve</foreign>.</note>
+                        <note><ptr target="bib:Gillet2023_01"/>: <quote>The <foreign>v</foreign> looks like a <foreign>vu</foreign> with a -<foreign>e</foreign> before, which is impossible. Perhaps it is intended for a <foreign>vve</foreign>.</quote> The <foreign>vv</foreign> looks rather like a kind of <foreign>vū</foreign> preceded by medial <foreign>e</foreign> and indeed intended to be <foreign>vve</foreign>.</note>
                     </app>
                 </listApp>
             </div>
