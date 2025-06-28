@@ -56,17 +56,20 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>kō-p-para-kēcari-va<hi rend="grantha">nma</hi>ṟku yāṇṭu 13 Āvatu
+                    <lb n="1"/>kō-p-para-kēcari-va<hi rend="grantha">nma</hi>ṟku yāṇṭu <num value="13"><g type="numeral">10</g> 3</num>-Āvatu
                 </p>
                 <p>
                     It-tiru-k-kaṟṟaḷ[[i]] Eṭuppit
-                    <lb n="2" break="no"/>ta<hi rend="grantha">ku</hi>vaḷālam uṭaiyāṉ Ampalavaṉ paḻuvūr nakkaṉ-āṉa vikkirama-coḻa-mārā
+                    <lb n="2" break="no"/>ta <hi rend="grantha">ku</hi>vaḷālam-uṭaiyāṉ Ampalavaṉ paḻuvūr nakkaṉ-āṉa vikkirama-cōḻa-mā-rā
                     <lb n="3" break="no"/>yar Akamuṭaiyāḷ Aparāyitaṉ ceyyavāymaṇi ca<hi rend="grantha">ntrā</hi>tittaval vaitta non
-                    <lb n="4" break="no"/>taviḷakku Oṉṟukku nicata Uḻakku neyyāka vaitta Āṭu toṇṇūṟṟu Āṟu Ivai cāvā
-                    <lb n="5"/>vā perāṭu
+                    <lb n="4" break="no"/>t<choice><sic>a</sic><corr>ā</corr></choice>-viḷakku Oṉṟukku nicata Uḻakku neyy-āka vaitta Āṭu toṇṇūṟṟu Āṟu
                 </p>
                 <p>
-                    pa<hi rend="grantha">nmāheśvara rakṣai</hi> ||
+                    Ivai cāvā
+                    <lb n="5"/><supplied reason="omitted">mū</supplied>vā perāṭu
+                </p>
+                <p>
+                    pa<hi rend="grantha">nmāheśvara-rakṣai</hi> <g type="gomutraFinal">.</g>
                 </p>
                 
             </div>

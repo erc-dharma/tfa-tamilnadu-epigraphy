@@ -56,23 +56,28 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi><note>The<hi rend="grantha">śrī</hi> was forgotten and added under the line, between the <hi rend="grantha">sti</hi> and the <hi rend="grantha">ko</hi>.</note>
+                    <lb n="1"/><hi rend="grantha">svasti <add place="below">śrī</add></hi>
                 </p>
                 <p>
-                    kō-p-parakēcaripa<hi rend="grantha">nma</hi>ṟku yāṇṭu <unclear>1</unclear>3 muṉṟ-āvatu
+                    kō-p-para-kēcari-pa<hi rend="grantha">nma</hi>ṟku yāṇṭu <seg rend="check"><unclear>10</unclear></seg> 3 muṉṟ-āvatu
                 </p>
                 <p>
-                    vaṭa-karai <hi rend="grantha">brahmade</hi>yam pe
+                    vaṭa-karai-<hi rend="grantha">brahmade</hi>yam pe
                     <lb n="2" break="no"/>riya <hi rend="grantha">śrī</hi>-vāṉavaṉ-mātevi-c-catu<hi rend="grantha">vve</hi>ti-maṅkalattu <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-maṅkala-t<unclear>ē</unclear>
-                    <lb n="3" break="no"/>vaṟ kōyi <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">m</hi>mā kallā Eḻu<unclear>nt-a</unclear>ruḷḷuvicceṉ <hi rend="grantha">śrī </hi>Uta<hi rend="grantha">m</hi>ma-coḻḻatēvaṟ peru
-                    <lb n="4" break="no"/>ntiṟattu kuvaḷḷālam Uṭaiyāṉ Ampalavaṉ paḻuvuṟ nakkaṉ-āna vi<hi rend="grantha">kra</hi>ma-coḻḻa
-                    <lb n="5" break="no"/>-mārā<unclear>ya</unclear>nnē I-<hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-maṅkalattu <hi rend="grantha">hmāde</hi>vaṟku ṉā 
+                    <lb n="3" break="no"/>vaṟ kōyi<supplied reason="omitted">l</supplied> <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">m</hi>mā kallā Eḻu<unclear>nt-a</unclear>ruḷḷuviccēṉ <hi rend="grantha">śrī </hi>Uta<hi rend="grantha">m</hi>ma-cō<surplus>ḻ</surplus>ḻa-tēvaṟ peru
+                    <lb n="4" break="no"/>ntiṟattu kuvaḷḷālam Uṭaiyāṉ Ampalavaṉ paḻuvuṟ nakkaṉ-āna vi<hi rend="grantha">kra</hi>ma-cō<surplus>ḻ</surplus>ḻa
+                    <lb n="5" break="no"/>-mārā<unclear>ya</unclear>nnē I-<hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-maṅkalattu <supplied reason="omitted">bra</supplied><hi rend="grantha">hmāde</hi>vaṟku ṉā 
                 </p>
                 
             </div>
             
             <div type="apparatus">
-                
+                <listApp>
+                    <app loc="1">
+                        <lem><hi rend="grantha">svasti <add place="below">śrī</add></hi></lem>
+                        <note><ptr target="bib:Gillet2023_01"/>: <quote>The <foreign>śrī</foreign> was forgotten and added under the line, between the <foreign>sti</foreign> and the <foreign>ko</foreign>.</quote></note>
+                    </app>
+                </listApp>
             </div>
             
             <div type="translation" source="bib:Gillet2023_01">

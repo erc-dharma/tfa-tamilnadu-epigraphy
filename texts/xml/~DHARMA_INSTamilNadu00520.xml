@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. Lowest inscription on the lowest stone of the southernmost wall section of the western façade of the sanctuary, in continuation of <ref target="DHARMA_INSTamilNadu00519"/>. It continues on the pilaster on the southern side. Regnal year 13 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 984 C.E.). There is no <foreign>svasti śrī</foreign> at the beginning of this inscription.</p>
+                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. Lowest inscription on the lowest stone of the southernmost wall section of the western façade of the sanctuary, in continuation of <ref target="DHARMA_INSTamilNadu00519"/> (zone A). It continues on the pilaster on the southern side (zone B). Regnal year 13 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 984 C.E.). There is no <foreign>svasti śrī</foreign> at the beginning of this inscription.</p>
                             
                         </summary>
                     </msContents>
@@ -56,47 +56,57 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>kō-p-parakēcaripa<hi rend="grantha">nma</hi>ṟku yāṇṭu 13 Āvatu
+                    <milestone n="A" unit="zone" type="pagelike"/><lb n="1"/>kō-p-para-kēcari-pa<hi rend="grantha">nma</hi>ṟku yāṇṭu <num value="13"><g type="numeral">10</g> 3</num>-Āvatu
                 </p>
                 <p>
                     It-tiru-k-kaṟṟa
-                    <lb n="2" break="no"/>ḷi Eṭupitta kuvaḷālam uṭaiyāṉ Ampalavaṉ paḻuvūr nakkaṉ Āṉa vikkirama-coḻa-mārāyar
-                    <lb n="3"/>Akamuṭaiyāḷ ciṅkapa<hi rend="grantha">nma</hi>ṉ kañci Akkaṉ vaitta nontāviḷa<unclear>kku</unclear> Oṉṟu Oṉṟukku nicatam <unclear>u</unclear>
-                    <lb n="4"/><note>Continues on the pilaster, on the southern side.</note> ḻakku ney
+                    <lb n="2" break="no"/>ḷi Eṭupitta kuvaḷālam-uṭaiyāṉ Ampalavaṉ paḻuvūr nakkaṉ-Āṉa vikkirama-cōḻa-mā-rāyar
+                    <lb n="3"/>Akamuṭaiyāḷ ciṅka-pa<hi rend="grantha">nma</hi>ṉ kañci Akkaṉ vaitta nontā-viḷa<unclear>kku</unclear> Oṉṟu Oṉṟukku nicatam <unclear>u</unclear>
+                    <milestone n="B" unit="zone" break="no" type="pagelike"/><lb n="4" break="no"/>ḻakku ney
                     <lb n="5"/>y-erikka vai
-                    <lb n="6" break="no"/>tta cāvā mu
-                    <lb n="7" break="no"/>vā-p perā
-                    <lb n="8"/>ṭu toṇ
-                    <lb n="9"/>ṇūṟṟu Ā
-                    <lb n="10"/>ṟu
+                    <lb n="6" break="no"/>tta cāvā m<choice><orig>u</orig><reg>ū</reg></choice>
+                    <lb n="7" break="no"/>vā-p pērā
+                    <lb n="8" break="no"/>ṭu toṇ
+                    <lb n="9" break="no"/>ṇūṟṟu Ā
+                    <lb n="10" break="no"/>ṟu
                 </p>
                 <p>
-                    Ivai<hi rend="grantha">pa</hi>
+                    Ivai <hi rend="grantha">pa</hi>
                     <lb n="11"/><hi rend="grantha">nmāheśvara</hi>
-                    <lb n="12"/><hi rend="grantha"><unclear>rakṣai</unclear></hi> <unclear>||</unclear>
+                    <lb n="12" break="no"/>-<hi rend="grantha"><unclear>rakṣai</unclear></hi> <g type="gomutraFinal">.</g>
                 </p>
                 
             </div>
             
-            <div type="apparatus">
+            <div type="apparatus"/>
                 
-            </div>
+            
             
             <div type="translation" source="bib:Gillet2023_01">
                 
                 <p>This is the 13th regnal year of Kōpparakesarivarman. The wife <supplied reason="explanation"><foreign>akamuṭaiyāḷ</foreign></supplied> of Ampalavaṉ Paḻuvūr Nakkaṉ alias Vikkiramacōḻa Mārāyar, lord <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> of Kuvaḷālam who built <supplied reason="explanation"><foreign>eṭupitta</foreign></supplied> this stone shrine <supplied reason="explanation"><foreign>ittirukkaṟṟaḷi</foreign></supplied>, Ciṅkapanmaṉ Kañci Akkaṉ gave; for one one perpetual lamp, to burn one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> everyday she gave ninety-six undying and non ageing great goats. These are under the protection of the Panmāheśvaras.</p></div>
             
-            <div type="commentary">
+            <div type="commentary"/>
                 
-            </div>
+            
             
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/167).</p>
-                <p>SII 19.334. SII 32, part 2, no. 124. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.334), in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32, part 2, no. 124). Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
+                     <bibl n="SII19">
+                        <ptr target="bib:SrinivasaRao1967_01"/>
+                        <citedRange unit="page">168-169</citedRange>
+                        <citedRange unit="item">334</citedRange>
+                    </bibl>
+                    <bibl n="SII32">
+                        <ptr target="bib:Swaminathan2012_01"/>
+                        <citedRange unit="page">239-240</citedRange>
+                        <citedRange unit="item">124</citedRange>
+                    </bibl>
                     <bibl>
                         <ptr target="bib:Gillet2023_01"/>
                         <citedRange unit="page">81</citedRange>

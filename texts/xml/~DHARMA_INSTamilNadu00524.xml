@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. On the northern façade, on the wall section between the <foreign>ardha-maṇḍapa</foreign> and the sanctuary. The last ten lines are engraved on the <foreign>ardha-maṇḍapa</foreign>, on the western side of the niche containing Kālārimūrti. Regnal year 13 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 984 C.E.).</p>
+                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. On the northern façade, on the wall section between the <foreign>ardha-maṇḍapa</foreign> and the sanctuary (zone A). Line 16 is on the vertical ledge below the wall section (zone B). Line 17 is on the horizontal part below the first ledge (zone C<note>Not readable on the availabale pictures on my pictures.</note>). Lines 18-19 are engraved on the recess, below the first ledge (zone D). Lines 20-30 are engraved on the <foreign>ardha-maṇḍapa</foreign>, on the western side of the niche containing Kālārimūrti (zone E). Regnal year 13 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 984 C.E.).</p>
                             
                         </summary>
                     </msContents>
@@ -56,11 +56,11 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>[[<hi rend="grantha">svasti</hi>]] <hi rend="grantha">śrī</hi>
+                    <milestone n="A" unit="zone" type="pagelike"/><lb n="1"/>[[<hi rend="grantha">svasti</hi>]] <hi rend="grantha">śrī</hi>
                 </p>
                 
                 <p>
-                    kō-p-para-kēcari-pa<hi rend="grantha">nma</hi>kku yāṇṭu [[10]] <unclear>3</unclear> Āvatu
+                    kō-p-para-kēcari-pa<hi rend="grantha">nma</hi><reg>r</reg>kku yāṇṭu <num value="13">[[10]] <unclear>3</unclear></num>-Āvatu
                 </p>
                 <p>
                     [[va]]
@@ -68,55 +68,76 @@
                     <lb n="3" break="no"/>-ma[[ṅka]]lattu <hi rend="grantha">śiva-brāhma</hi>ṇar kā<hi rend="grantha">śya</hi>vaṉ kuṉ[[ṟa]]ṉ ciṅka-pa
                     <lb n="4" break="no"/>ṭṭa[[ṉu]]m <hi rend="grantha">bhā</hi>ra<hi rend="grantha">dvā</hi>ci koṟṟaṉ tiru-v-araṅka-paṭṭaṉum Uḷḷaṭṭ<unclear>ō</unclear>
                     <lb n="5" break="no"/>m <unclear>A</unclear>raiyaṉ caṅkara-nārāyaṇaṉ-āṉa cōḻa-muttaraiyar
-                    <lb n="6" break="no"/>k[[ku O]]ṭṭi-k kaittiṭṭu Iṭu-k kuṭutta paric' āvatu
+                    <lb n="6" break="no"/>k[[ku O]]ṭṭi-k kaitt<choice><orig>i</orig><reg></reg>ī</choice>ṭṭu Iṭu-k kuṭutta paric' āvatu
                 </p>
                 <p>
                     Ivv-ūr [[I]]‡var Eṭuppit‡ta <hi rend="grantha">śrī</hi>-kayil<unclear>ā</unclear>
-                    <lb n="7" break="no"/>[[yat]]<unclear>tu</unclear> Āḷvarkku vaṭak<unclear>ū</unclear>ṭi Erikkiḻ nilattil [[ni]]vantam ‡ c[[e]]yta paṭiyi‡l nāṅka
-                    <lb n="8"/>[[nilam koṇṭu <hi rend="grantha">cantrādi</hi>]]<hi rend="grantha">tya</hi>vaṟ cevvōm ā<unclear>ka</unclear> <unclear>nivantam</unclear>[[tam]] ‡ tiru-c-cenṉa‡ṭai-p-puṟamum
+                    <lb n="7" break="no"/>[[yat]]<unclear>tu</unclear> Āḷvarkku vaṭak<unclear>ū</unclear>ṭi Erikkiḻ nilattil [[ni]]vantam ‡ c[[e]]yta paṭiyi‡l nāṅka<supplied reason="omitted">ḷ</supplied>
+                    <lb n="8"/>[[nilam koṇṭu <hi rend="grantha">cantrādi</hi>]]<hi rend="grantha">tya</hi>vaṟ cevvōm ā<unclear>ka</unclear> <unclear>nivantam</unclear><surplus>tam</surplus> ‡ tiru-c-cenṉa‡ṭai-p-puṟamum
                     <lb n="9"/>n[[e]]yy-amutum kaṟi-<unclear>y-a</unclear>mutum tayir-amutum Aṭaikkāy-amutu‡m Ayaṉa-caṅkirā‡nti Iraṇṭu
-                    <lb n="10" break="no"/>[[kkum]] vi<hi rend="grantha">ṣu</hi> Iraṇṭu[[k]]kum vaiykāci vicākamum <hi rend="grantha">stapa</hi>nam āṭi ‡ [[A]]ruḷi perun tiru‡-Amutu cey
+                    <lb n="10" break="no"/>[[kkum]] vi<hi rend="grantha">ṣu</hi> Iraṇṭu[[k]]kum vaiykāci vicākamum <hi rend="grantha">s<unclear reason="eccentric_ductus">t</unclear>apa</hi>nam āṭi‡[[A]]ruḷi perun tiru‡-Amutu cey
                     <lb n="11" break="no"/>[[vu]]m tiru-p-pukaiyu<unclear>m ti</unclear>ru-c-cantaṇamum tiru-viḷakku Eṇṇai nicata‡m nāḻikkum I‡t-taṉaikkum
-                    <lb n="12"/>[[vai]]yta nilaṅ koṇṭu <hi rend="grantha">panmāheśvara</hi>-nāṟpatteṇṇāyiravar [[ka]]‡ṇkāṇi-y-āka-c ‡ ceyvit' ākavu
-                    <lb n="13"/>[[m tiru]]-Amutu Oru nāḷ <unclear>mu</unclear>ṭṭil kalanel taṇṭappaṭuvat' ākavum ‡ maṟṟum nivan ‡ m muṭṭil pa
-                    <lb n="14"/>[[ṭi]] <unclear>Iraṭṭi</unclear> ceyvit' ā[[ka]]vum It-taṉaiy<unclear>u</unclear>m tiṟampil vāriya-[[p]]‡-perumakkaḷukku ‡ Irukaḻañcu
-                    <lb n="15"/><note>I cannot locate this line on my pictures.</note> [[poṉ maṉṟuvatākavum Ip-paricu Oṭṭi-k kaittiṭṭu]]
-                    <lb n="16"/><note>This line is on the vertical ledge below the wall section.</note> <unclear>kuṭu</unclear>ttōm cōḻa-muttaraiyarkku kuṉṟaṉ ciṅka-paṉu‡[[m]] koṟṟaṉ ‡ tiru-Araṅ[[ka]]ṉum
-                    <lb n="17"/><note>I cannot read this line on my pictures. It is on the horizontal part below the first ledge.</note> [[Uḷḷiṭṭōm maṟṟu Ik-kōyilli paṇceytu munpu niṉṟome Ippa]]
-                    <lb n="18"/><note>The following two lines are engraved on the recess, below the first ledge.</note> ṇi ceyāviṭ<unclear>i</unclear>l It-taṇṭa-p-paṭuvat-āka Iṭṭu ‡ kuṭuttōm ‡ Ivvaṉaivō
-                    <lb n="19"/>[[m]]
+                    <lb n="12"/>[[vai]]yta nilaṅ koṇṭu <hi rend="grantha">panmāheśvara</hi>-nāṟpatt-eṇṇāyiravar [[ka]]‡ṇkāṇi-y-āka-c ‡ ceyvit' ākavu
+                    <lb n="13" break="no"/>[[m
+                </p>
+                <p>                    
+                    tiru]]-Amutu Oru nāḷ <unclear>mu</unclear>ṭṭil kalanel taṇṭappaṭuvat' ākavum
                 </p>
                 <p>
-                    Ivakaḷ veṇṭa Eḻutiṉe kāviri-t teṉ-karai Aḷanāṭ‡ṭu variñci‡yūr <hi rend="grantha">brahma</hi>tē
-                    <lb n="20" break="no"/><note>These last ten lines are on the<hi rend="grantha">ardha-maṇḍapa</hi>, on the western side of the niche of the Kālārimūrti.</note> yattu <hi rend="grantha">kāśya</hi>vaṉ <hi rend="grantha">śrī </hi>kaṇṭan tā
-                    <lb n="21" break="no"/>motirapaṭṭan-ēṉ
+                    ‡ maṟṟum nivan‡<supplied reason="omitted">ta</supplied>m muṭṭil pa
+                    <lb n="14"/>[[ṭi]] <unclear>Iraṭṭi</unclear> ceyvit' ā[[ka]]vum
+                </p>
+                <p>
+                    It-taṉaiy<unclear>u</unclear>m tiṟampil vāriya-[[p]]‡-perumakkaḷukku ‡ Iru-kaḻañcu
+                    <lb n="15"/><note>I cannot locate this line on my pictures.</note> [[poṉ maṉṟuvat' ākavum
+                </p>
+                <p>
+                    Ip-paricu Oṭṭi-k kai-t-t<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu]]
+                    <milestone n="B" unit="zone" type="pagelike" break="no"/>
+                    <lb n="16"/><unclear>kuṭu</unclear>ttōm cōḻa-muttaraiyarkku kuṉṟaṉ ciṅka-paṉu‡[[m]] koṟṟaṉ ‡ tiru-Araṅ[[ka]]ṉum
+                    <milestone n="C" unit="zone" type="pagelike" break="no"/>
+                    <lb n="17"/>[[Uḷḷiṭṭōm maṟṟu Ik-kōyilli paṇceytu munpu niṉṟōmē Ippa]]
+                    <milestone n="D" unit="zone" type="pagelike" break="no"/>
+                    <lb n="18" break="no"/>ṇi ceyāviṭ<unclear>i</unclear>l It-taṇṭa-p-paṭuvat-āka Iṭṭu ‡ kuṭuttōm ‡ Ivvaṉaivō
+                    <lb n="19" break="no"/>[[m]]
+                </p>
+                <p>
+                    Iva<supplied reason="omitted">r</supplied>kaḷ vēṇṭa Eḻutiṉe kāviri-t teṉ-karai Aḷanāṭ‡ṭu variñci‡yūr <hi rend="grantha">brahma</hi>tē
+                    <milestone n="E" unit="zone" type="pagelike" break="no"/>
+                    <lb n="20" break="no"/>yattu <hi rend="grantha">kāśya</hi><choice><orig>v</orig><reg>p</reg></choice>aṉ <hi rend="grantha">śrī</hi>-kaṇṭan tā
+                    <lb n="21" break="no"/>mōtirapaṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ
                 </p>
                 <p>
                     Ivai y-eṉ
                     <lb n="22"/>Eḻuttu
                 </p>
                 <p>
-                    Ippaṭa yoṭṭa Ip
-                    <lb n="23" break="no"/>paṇi ceyvatāka Iṭṭu-k kuṭuttō
-                    <lb n="24" break="no"/>m<hi rend="grantha">bhāradvā</hi>ci koṟṟaṉ tiru-v-araṅkkaṉu
-                    <lb n="25"/>kā<hi rend="grantha">śya</hi>vaṉ kuṉṟaṉ ciṅka-paṭṭaṉum
-                    <lb n="26"/>Uḷḷiṭṭa Ivvaṉaivōm Ivakaḷ
+                    Ippaṭ<choice><sic>a</sic><corr>i</corr></choice> y-oṭṭa Ip
+                    <lb n="23" break="no"/>paṇi ceyvat' āka Iṭṭu-k kuṭuttō
+                    <lb n="24" break="no"/>m <hi rend="grantha">bhāradvā</hi>ci koṟṟaṉ tiru-v-araṅkkaṉu<supplied reason="omitted">m</supplied>
+                    <lb n="25"/>kā<hi rend="grantha">śya</hi><choice><orig>v</orig><reg>p</reg></choice>aṉ kuṉṟaṉ ciṅka-paṭṭaṉum
+                    <lb n="26"/>Uḷḷiṭṭa Ivvaṉaivōm Iva<supplied reason="omitted">r</supplied>kaḷ
                     <lb n="27"/>kammāṭṭāṅkiṉāl Eḻutiṉāṉum
                     <lb n="28"/>Iṭṭu-k kuṭuttēṉ kuṉṟaṉ ciṅ
                     <lb n="29" break="no"/>kapaṭṭaṉ-ēṉ
                 </p>
                 <p>
                     Ivai y-eṉṉ eḻu
-                    <lb n="30"/>[ttu
+                    <lb n="30"/>tt<supplied reason="lost">u</supplied>
                 </p>
                 <p>                    
-                    Ivai <hi rend="grantha">panmāheśvara rakṣai</hi>
+                    Ivai <hi rend="grantha">panmāheśvara-rakṣai</hi>
                 </p>
                 
             </div>
             
             <div type="apparatus">
-                
+                <listApp>
+                    <app loc="22">
+                        <lem>Ippaṭ<choice><sic>a</sic><corr>i</corr></choice></lem>
+                        <rdg source="bib:SrinivasaRao1967_01">Ippaṭi</rdg>
+                    </app>
+                </listApp>
             </div>
             
             <div type="translation" source="bib:Gillet2023_01">
@@ -130,11 +151,16 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/157).</p>
-                <p>SII 19.331. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.331). Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
-                    <bibl>
+                    <bibl n="SII">
+                        <ptr target="bib:SrinivasaRao1967_01"/>
+                        <citedRange unit="page">167-168</citedRange>
+                        <citedRange unit="item">331</citedRange>
+                    </bibl>
+                    <bibl n="G">
                         <ptr target="bib:Gillet2023_01"/>
                         <citedRange unit="page">87-89</citedRange>
                         <citedRange unit="item">14</citedRange>
