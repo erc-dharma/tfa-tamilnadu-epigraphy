@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruppāmpuram, Cēṭapurīsvarar (Śeṣapurīśvara), time of Rājarāja, year 22</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:vagi">
+                        <forename>Valérie</forename>
+                        <surname>Gillet</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00192</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary><p>Tiruppāmpuram, Naṉṉilam taluk, Tanjavur district, Śeṣapurīśvara temple. On the base of the temple (?). 22nd regnal year of Tirupuvaṉaccakkaravattikaḷ Śrīrājarājatēvar = Rājarāja II or III.</p>
+                            
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-06-12" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+            <change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <p>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>                    
+                    tiru-puvaṉa-c-cakkaravattikaḷ <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-tēva<choice><orig>ṟ</orig><reg>r</reg></choice>kku yāṇṭu <num value="22">2 <g type="numeral">10</g> 2</num>-vatu <hi rend="grantha">meṣa</hi>-nāyaṟṟu <hi rend="grantha">pūrva-pakṣa</hi>ttu <hi rend="grantha"><choice><sic>b</sic><corr>p</corr></choice>añcami</hi>yum putaṉ-kiḻamaiyum peṟṟa pūcattu nāḷ
+                </p>
+                <p>
+                    Uyya-k-koṇṭār-vaḷanāṭṭu Uṭaiyār tiru-p-pāmpuram-uṭaiyār <gap reason="lost" quantity="6" unit="character"/> āṉa <gap reason="lost" quantity="3" unit="character"/> pāṭṭaṭai <gap reason="lost" quantity="6" unit="character"/> paḻuvēṭṭaraiyar nittal paṭikku Aricillāṟṟil tiru-mañcaṉam <unclear>tiru</unclear>-kalattukkum Aim-patt-iru-c-ceṅkaḻ<choice><sic>aṉi-t</sic><corr>unīr</corr></choice> tiru-p-paḷḷittāmattukkum Ivv-ūrilum piṟin=ta<surplus>ta</surplus> Ūrilum Ivar kāṇi-y-āṉa nilattum kuḷattum Uṭppaṭa piṭāri kōyilukku teṟkku na<unclear>t</unclear>ta<unclear>m</unclear> teṉ-karaiyil-k koṇṭu Arai-k-kōl Akalattu pōkiṟa cā <gap reason="lost" quantity="3" unit="character"/> vā<reg>y</reg>kkālukku
+                    <lb n="2"/>vaṭa-kuḷam ciṟutu tiruntu Uḷpaṭa nilam <seg rend="check">{3 fractions}</seg>
+                </p>
+                <p>
+                    Itil <list><item>Ūr nīṅkiṉa Iṟaiyili nittal-p paṭikku tiru-ceṅkaḻ<choice><sic>aṉi</sic><corr>unīr</corr></choice> Iṭa Aṭ<choice><sic>a</sic><corr>ai</corr></choice>tta <g type="nilam"/> 5 <gap reason="lost" quantity="3" unit="character"/> m</item> <item>tiru-mañcaṉam Eṭuppānukku Aṭaitta <g type="nilam"/> m <seg rend="check">{1 fraction}</seg> 1/5 m</item></list>
+                </p>
+                
+                <p>
+                    In-nilattu Oṭṭā <gap reason="lost" quantity="3" unit="character"/> Ik-kōyilil peruḷūr kiḻavaṉ <unclear>Eḻun</unclear>t-aruḷivitta tiru-kāma-kōṭṭam-uṭaiya mā-malai-y-āṭṭi<unclear>yā</unclear>rkku Amutu paṭikku Uṭal-āka
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                <listApp>
+                    <app loc="1">
+                        <lem source="bib:Patmavati1979_01"><hi rend="grantha">meṣa</hi>°</lem>
+                        <rdg source="bib:Gillet2024_01"><hi rend="grantha">deṣa</hi>°</rdg>
+                    </app>
+                    <app loc="1">
+                        <lem><hi rend="grantha"><choice><sic>b</sic><corr>p</corr></choice>añcami</hi>yum</lem>
+                        <rdg source="bib:Patmavati1979_01"><hi rend="grantha">bañcami</hi>yum</rdg>
+                        <rdg source="bib:Gillet2024_01"><hi rend="grantha">bantudi</hi>yam</rdg>
+                    </app>
+                    <app loc="1">
+                        <lem source="bib:Patmavati1979_01">Uyyakkoṇṭār</lem>
+                        <rdg source="bib:Gillet2024_01">Uyyakoṇṭār</rdg>
+                    </app>
+                    <app loc="1">
+                        <lem source="bib:Patmavati1979_01"><gap reason="lost" quantity="6" unit="character"/> paḻuvēṭṭaraiyar</lem>
+                        <rdg source="bib:ARIE1910-1911">vāṇappaṭi paḻuvēṭṭaraiyar</rdg>
+                        <note>The inscription might have been in a better state in 1911 (<ptr target="bib:ARIE1910-1911"/>) than in 1977 (<ptr target="bib:Patmavati1979_01"/>).</note>
+                    </app>
+                    <app loc="1">
+                        <lem source="bib:Patmavati1979_01">piṟin=ta<surplus>ta</surplus></lem>
+                        <rdg source="bib:Gillet2024_01">paṟin=ta<surplus>ta</surplus></rdg>
+                    </app>
+                    <app loc="1">
+                        <lem source="bib:Patmavati1979_01">kuḷattum</lem>
+                        <rdg source="bib:Gillet2024_01">kaḷattum</rdg>
+                    </app>
+                    <app loc="2">
+                        <lem>Aṭ<choice><sic>a</sic><corr>ai</corr></choice>tta</lem>
+                        <rdg source="bib:Patmavati1979_01 bib:Gillet2024_01">Aṭatta</rdg>
+                    </app>
+                    <app loc="2">
+                        <lem><seg rend="check">{1 fraction}</seg> 1/5</lem>
+                        <note><ptr target="bib:Gillet2024_01"/>: <quote>There are 2 symbols which may represent fractions: 1/4 and 1/32.</quote> The second symbol is 1/5.</note>
+                    </app>
+                    <app loc="2">
+                        <lem>Uṭalāka</lem>
+                        <note>The inscription stops here.</note>
+                    </app>
+                </listApp>
+            </div>
+            
+            <div type="translation" resp="part:vagi part:emfr">
+                
+                <p n="1">Prosperity! Fortune!</p>
+                
+                <p n="1">
+                    22nd year of Tirupuvaṉa Cakkaravattikaḷ Śrī Rājarājatēvar, on the day <supplied reason="explanation"><foreign>nāḷ</foreign></supplied> of Pūcam<note>The 8th <foreign>nakṣatra</foreign>.</note> falling <supplied reason="explanation"><foreign>peṟṟa</foreign></supplied> on Wednesday <supplied reason="explanation"><foreign>putaṉ-kiḻamaiyum</foreign></supplied>, the <foreign>pañcami</foreign> of the bright fortnight <supplied reason="explanation"><foreign>pūrva-pakṣattu</foreign></supplied> in the <foreign>meṣa</foreign> month <supplied reason="explanation"><foreign>nāyaṟṟu</foreign></supplied>.
+                </p>
+                <p n="1-2">
+                    <supplied reason="lost">To</supplied> the Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of Tiruppāmpuram, Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of Uyyakkoṇṭārvaḷanāṭu, <gap reason="lost" extent="unknown" unit="character"/> Paḻuvēṭṭaraiyar <supplied reason="lost">gave</supplied>, for a holy vessel <supplied reason="explanation"><foreign>tirukalattukku</foreign></supplied> for the sacred bath <supplied reason="explanation"><foreign>tirumañcaṉam</foreign></supplied> supplying <supplied reason="explanation"><foreign>āṟṟil</foreign>?</supplied> for one measure <supplied reason="explanation"><foreign>paṭikku</foreign></supplied> of rice <supplied reason="explanation"><foreign>aricil</foreign></supplied> continuously <supplied reason="explanation"><foreign>nittal</foreign></supplied>, and for the holy garland <supplied reason="explanation"><foreign>tiruppaḷḷittāmattukkum</foreign></supplied> of fifty-two <supplied reason="explanation"><foreign>aimpattiru</foreign></supplied> red water lily <supplied reason="explanation"><foreign>ceṅkaḻanit</foreign>, that is, <foreign>ceṅkaḻunīr</foreign></supplied>: as his <supplied reason="explanation"><foreign>ivar</foreign></supplied> <foreign>kāṇi</foreign> <supplied reason="explanation"><foreign>kāṇiyāṉa</foreign></supplied> in the disjoined <supplied reason="explanation"><foreign>piṟinta</foreign></supplied> village <supplied reason="explanation"><foreign>ūrilum</foreign></supplied> and in this village <supplied reason="explanation"><foreign>ivvūrilum</foreign></supplied>, in all lands <supplied reason="explanation"><foreign>nilattum</foreign></supplied> and ponds <supplied reason="explanation"><foreign>kuḷattum</foreign></supplied>, having taken <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> on the southern bank <supplied reason="explanation"><foreign>teṉkaraiyil</foreign></supplied> the village <supplied reason="explanation"><foreign>nattam</foreign></supplied> to the south <supplied reason="explanation"><foreign>teṟkku</foreign></supplied> of the temple of Piṭāri which is included <supplied reason="explanation"><foreign>uṭppaṭa</foreign>, that is, <foreign>uḷpaṭa</foreign></supplied>, having renovated <supplied reason="explanation"><foreign>tiruntu</foreign></supplied> the small <supplied reason="explanation"><foreign>ciṟutu</foreign>?</supplied> northern tank <supplied reason="explanation"><foreign>vaṭakuḷam</foreign></supplied> for the water channel <supplied reason="explanation"><foreign>vāykkālukku</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> which goes <supplied reason="explanation"><foreign>pōkiṟa</foreign></supplied> in the open spaces <supplied reason="explanation"><foreign>akalattu</foreign></supplied> of half a measure <supplied reason="explanation"><foreign>araikkōl</foreign></supplied>, the land <supplied reason="explanation"><foreign>nilam</foreign></supplied> included <supplied reason="explanation"><foreign>uḷpaṭa</foreign></supplied> is <seg rend="check">{3 fractions}</seg>.
+                </p>
+                <p n="2">In this <supplied reason="explanation"><foreign>itil</foreign></supplied>, <supplied reason="subaudible">there are</supplied>
+                    <list>
+                        <item>a land of 5  <gap reason="lost" extent="unknown" unit="character"/>
+                            placed <supplied reason="explanation"><foreign>aṭaitta</foreign></supplied>
+                            so as to put 
+                            red water lily <supplied reason="explanation"><foreign>tiruceṅkaḻaṉi</foreign>, that is, <foreign>tiruceṅkaḻunīr</foreign></supplied> for one measure <supplied reason="explanation"><foreign>paṭikku</foreign></supplied> continuously <supplied reason="explanation"><foreign>nittal</foreign></supplied> without the taxes <supplied reason="explanation"><foreign>iṟaiyili</foreign></supplied> removed <supplied reason="explanation"><foreign>nīṅkiṉa</foreign></supplied> <supplied reason="subaudible">for?</supplied> the village <supplied reason="explanation"><foreign>ūr</foreign></supplied>,</item>
+                        
+                        <item>
+                            a land of <seg rend="check">{2 fractions}</seg>
+                            placed <supplied reason="explanation"><foreign>aṭaitta</foreign></supplied> for he who raises <supplied reason="explanation"><foreign>eṭuppānukku</foreign></supplied> the sacred bath <supplied reason="explanation"><foreign>tirumañcaṉam</foreign></supplied> .</item>
+                    </list>
+                </p>
+                <p n="2">
+                    In this land <supplied reason="explanation"><foreign>innilattu</foreign></supplied>, in this temple <supplied reason="explanation"><foreign>ikkōyilil</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> for a measure <supplied reason="explanation"><foreign>paṭikku</foreign></supplied> of food offerings <supplied reason="explanation"><foreign>amutu</foreign></supplied> for Māmaliyāṭṭiyār, Lord <supplied reason="explanation"><foreign>uṭaiya</foreign></supplied> of Tirukkāmakkōṭṭam, whom the lord <supplied reason="explanation"><foreign>kiḻavaṉ</foreign></supplied> of Peruḷūr caused to graciously raise <supplied reason="explanation"><foreign>eḻuntaruḷivitta</foreign></supplied>, as the body <supplied reason="explanation"><foreign>uṭalāka</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/></p>
+            </div>
+            
+            <div type="commentary"/>
+            
+            
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1910-1911"/></bibl>. (ARIE/1910-1911/C/1911/90).</p>
+                <p>Edited in <bibl><ptr target="bib:Patmavati1979_01"/></bibl> (Naṉṉilam 144/1977). Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on <bibl><ptr target="bib:Patmavati1979_01"/></bibl>.</p>
+                <p>This revised edition and translation by Valérie Gillet and Emmanuel Francis, based on <bibl><ptr target="bib:Patmavati1979_01"/></bibl>.</p>
+                
+                <listBibl type="primary">                   
+                    <bibl n="NK">
+                        <ptr target="bib:Patmavati1979_01"/>
+                        <citedRange unit="item">144/1977</citedRange>
+                    </bibl>
+                    <bibl n="G">
+                        <ptr target="bib:Gillet2024_01"/>
+                        <citedRange unit="page">269-270</citedRange>
+                        <citedRange unit="item">147</citedRange>
+                    </bibl>
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1910-1911"/>
+                        <citedRange unit="page">37</citedRange>
+                        <citedRange unit="appendix">C/1911</citedRange>
+                        <citedRange unit="item">90</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
