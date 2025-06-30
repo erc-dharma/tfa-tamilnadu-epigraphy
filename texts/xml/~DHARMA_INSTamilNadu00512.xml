@@ -73,7 +73,7 @@
                 <p>
                     Aṇṭā
                     <lb n="7" break="no"/>ṭṭu maḻavar <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">jai</hi>ya-maṅkala<supplied reason="omitted">t</supplied>tu <hi rend="grantha">mahā-de</hi>vaṟkku <hi rend="grantha">ca</hi>
-                    <lb n="8" break="no"/><hi rend="grantha">ntrā</hi>tittavaṟ nan=tāviḷa-kkukk' iraṇṭukku kuṭutta paṅk<supplied reason="lost">u</supplied> <gap reason="lost" quantity="1" unit="character"/> <seg rend="check">I</seg><unclear>ra</unclear>ṇṭu
+                    <lb n="8" break="no"/><hi rend="grantha">ntrā</hi>tittavaṟ nan=tāviḷa-kkukk' iraṇṭukku kuṭutta paṅk<supplied reason="lost"><surplus>k'</surplus></supplied> <unclear>ira</unclear>ṇṭu
                 </p>
                 <p>
                     Ivai pa<hi rend="grantha"><unclear>nma</unclear></hi><hi rend="grantha">he<add place="above">śva</add>ra-rakṣai</hi>
@@ -87,6 +87,11 @@
                         <lem><hi rend="grantha">ca</hi>tu<hi rend="grantha"><reg>r</reg><unclear reason="eccentric_ductus">vve</unclear></hi>ti</lem>
                         <rdg source="bib:Gillet2023_01"><hi rend="grantha">catuve</hi>ti</rdg>
                         <note><ptr target="bib:Gillet2023_01"/>: <quote>The <foreign>v</foreign> looks like a <foreign>vu</foreign> with a -<foreign>e</foreign> before, which is impossible. Perhaps it is intended for a <foreign>vve</foreign>.</quote> The <foreign>vv</foreign> looks rather like a kind of <foreign>vū</foreign> preceded by medial <foreign>e</foreign> and indeed intended to be <foreign>vve</foreign>.</note>
+                    </app>
+                    <app loc="8">
+                        <lem>paṅk<supplied reason="lost"><surplus>k'</surplus></supplied> <unclear>ira</unclear>ṇṭu</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">paṅ<surplus>k</surplus>kiraṇṭu</rdg>
+                        <rdg source="bib:Gillet2023_01">paṅ<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><unclear>ra</unclear>ṇṭu</rdg>
                     </app>
                 </listApp>
             </div>
@@ -102,10 +107,15 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/170). </p>
-                <p>SII 19, no. 272. SII 32, part 2, no. 84. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.272). SII 32, part 2, no. 84. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
+                    <bibl n="SII">
+                        <ptr target="bib:SrinivasaRao1967_01"/>
+                        <citedRange unit="page">136</citedRange>
+                        <citedRange unit="item">272</citedRange>
+                    </bibl>
                     <bibl n="G">
                         <ptr target="bib:Gillet2023_01"/>
                         <citedRange unit="page">74</citedRange>

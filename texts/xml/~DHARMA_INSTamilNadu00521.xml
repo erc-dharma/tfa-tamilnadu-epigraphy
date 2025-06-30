@@ -57,6 +57,8 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
+                    <milestone n="A" unit="zone" type="pagelike"/>
+                    <label>Northern façade, westernmost wall section</label>
                     <lb n="1"/>|||<hi rend="grantha">svasti śrī</hi> || <hi rend="grantha">kuvalāla</hi>-<hi rend="grantha">samudbhavaḥ</hi> <hi rend="grantha">su</hi>-<hi rend="grantha">kī</hi><unclear><hi rend="grantha">r</hi></unclear><hi rend="grantha">tti</hi>-
                     <lb n="2"/><hi rend="grantha">pa</hi>ḻuvūr-<hi rend="grantha">na</hi><unclear>k</unclear>ka <hi rend="grantha">Iti</hi> <hi rend="grantha">pratīta</hi>-<hi rend="grantha">nāmā</hi> <hi rend="grantha">muravairīva</hi> <unclear><hi rend="grantha">vira</hi></unclear>
                     <lb n="3"/><hi rend="grantha">jaḥ</hi><note>Swaminathan (SII 32) reads <unclear>khya</unclear>ḥ.</note> <hi rend="grantha">jāta</hi>-<hi rend="grantha">varṇṇa</hi>-<unclear><hi rend="grantha">pra</hi></unclear><hi rend="grantha">varo</hi> <hi rend="grantha">va</hi><note>SII reads<hi rend="grantha">sa</hi> but clearly it is not.</note><hi rend="grantha">ṃśa</hi>-<hi rend="grantha">karaḥ</hi> <hi rend="grantha">sam</hi>-<hi rend="grantha">āvirāsīt</hi> <unclear>||</unclear>
@@ -77,7 +79,9 @@
                     <lb n="18"/>ruvamitukkum tiruviḷakkukkum<hi rend="grantha">śrī bali</hi>kkum tirumeypūccukkum tiruppūkaik
                     <lb n="19"/>kum tirunaṉtavānappuṟattukkum tiruviḻāvukkum<hi rend="grantha">snapa</hi>ṉaṅkaḷukkum maṟṟum
                     <lb n="20"/>I<hi rend="grantha">de</hi>varkku veṇṭum Ārātiṉaikaḷ Eppeṟpaṭṭaṉa Avaiccukkum Uttama <unclear>I</unclear> <gap reason="lost" quantity="1" unit="character"/> <note><p>This<hi rend="grantha">uttama X X</hi> (SII reads <hi rend="grantha">gram</hi> after uttama but I am not sure it is right) is written in smaller letters and may be connected to the following few lines engraved on the pilaster:</p><p>yo<hi rend="grantha">gi</hi> kalamupatu</p><p>˚iccivayo<hi rend="grantha">gi</hi></p><p><hi rend="grantha">brāhma</hi>ṇāvo X</p><p>vallor<unclear>i</unclear> ˚a<unclear>puvi</unclear></p><p>{unlegible}</p></note> 
-                    <lb n="21"/><note>There are a few words added on the pilaster before the line: ˚aka X na // X X X</note> mākaṉāṉ kuṭutta Ū<unclear>r</unclear>āva<unclear>tu</unclear> Ipperiya <hi rend="grantha">śrī</hi> vānavaṉ <hi rend="grantha">mahāde</hi>vi<hi rend="grantha">ca</hi>tu<hi rend="grantha">rvvedi</hi>ma
+                    <lb n="21"/><note>There are a few words added on the pilaster before the line: ˚aka X na // X X X</note> mākaṉāṉ kuṭutta Ū<unclear>r</unclear>āva<unclear>tu</unclear> Ip-periya <hi rend="grantha">śrī</hi>-vānavaṉ-<hi rend="grantha">mahā-de</hi>vi<hi rend="grantha">ca</hi>tu<hi rend="grantha">rvvedi</hi>ma
+                    
+                     <label>Western façade, northernmost wall section</label>
                     <lb n="22"/><note>First line of the northernmost wall section of the western façade.</note> ṅkalattu vaṭapiṭākai neṭuvāyilum
                     <lb n="23"/>Itu <gap reason="lost" quantity="1" unit="character"/> ppaṭu<note>SII reads<hi rend="grantha">ca</hi> instead of <hi rend="grantha">ṭu</hi>.</note>m Ūrtāmaraiṉal
                     <lb n="24"/>Ārum tiruccen<unclear>i</unclear>valamum ma<unclear>ṇ</unclear>kulakku
