@@ -34,7 +34,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>                            
-                            <p>Gaṅgājaṭādhara temple of Govindapputtūr. Lowest inscription on the western wall section of the southern façade of the shrine, engraved on a single stone block. Regnal year 10 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 981 C.E.).</p>
+                            <p>Lowest inscription on the western wall section of the southern façade of the shrine, engraved on a single stone block. Regnal year 10 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 981 CE).</p>
                             
                         </summary>
                     </msContents>
@@ -68,12 +68,12 @@
                     <lb n="3" break="no"/>ṅkalattu <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">jai</hi>ya-maṅkala<supplied reason="omitted">t</supplied>tu <hi rend="grantha">mahā-de</hi>vaṟkku It-tiru
                     <lb n="4" break="no"/>-k-kaṟṟaḷi ceyvitta Ampalavaṉ paḻuvūraṉ-āṉa <hi rend="grantha">śrī</hi>-vikkira
                     <lb n="5" break="no"/>ma-cōḻa-mā-rāyar <hi rend="grantha">cantrā</hi>tittavaṟ nan=tā-viḷakku Oṉ
-                    <lb n="6"/>ṟiṉukku v<hi rend="grantha">ai</hi>tta Āṭu toṉṉūṟṟ' āṟu <g type="gomutraFinal"/>
+                    <lb n="6" break="no"/>ṟiṉukku v<hi rend="grantha">ai</hi>tta Āṭu toṉṉūṟṟ' āṟu <g type="gomutraFinal"/>
                 </p>
                 <p>
                     Aṇṭā
                     <lb n="7" break="no"/>ṭṭu maḻavar <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">jai</hi>ya-maṅkala<supplied reason="omitted">t</supplied>tu <hi rend="grantha">mahā-de</hi>vaṟkku <hi rend="grantha">ca</hi>
-                    <lb n="8" break="no"/><hi rend="grantha">ntrā</hi>tittavaṟ nan=tāviḷa-kkukk' iraṇṭukku kuṭutta paṅk<supplied reason="lost"><surplus>k'</surplus></supplied> <unclear>ira</unclear>ṇṭu
+                    <lb n="8" break="no"/><hi rend="grantha">ntrā</hi>tittavaṟ n<choice><sic>a</sic><corr>o</corr></choice>n=tāviḷa-kkukk' iraṇṭukku kuṭutta paṅk<supplied reason="lost"><surplus>k'</surplus></supplied> <unclear>ira</unclear>ṇṭu
                 </p>
                 <p>
                     Ivai pa<hi rend="grantha"><unclear>nma</unclear></hi><hi rend="grantha">he<add place="above">śva</add>ra-rakṣai</hi>
@@ -98,23 +98,37 @@
             
             <div type="translation" source="bib:Gillet2023_01">
                 
-                <p>Fortune! Prosperity! This is the 10th year of Kōpparakesarivarman. To Mahādeva of Śrī Vijaiyamaṅgalam, of the big Śrī Vāṉavaṉ-mahādevi-caturvetimaṅgalam, a <foreign>brahmadeya</foreign> on the northern bank, Ampalavaṉ Paḻuvūraṉ alias Śrī Vikkiramacōḻa Mārāyar, who has made <supplied reason="explanation"><foreign>ceyvitta</foreign></supplied> this holy stone temple <supplied reason="explanation"><foreign>tirukkaṟṟaḷi</foreign></supplied>, for one perpetual lamp, as long as the sun and the moon endure, gave ninety-six goats. Aṇṭāṭṭu Maḻavar, for Mahādeva of Śrī Vijaiyamaṅgalam, for two perpetual lamps, as long as the sun and the moon endure, gave two shares. Those are under the protection of the Panmāheśvaras.</p></div>
+                <p n="1">Fortune! Prosperity!</p>
+                
+                <p n="1">This is the 10th year of Kōpparakesarivarman.</p>
+                
+                <p n="1-6">To Mahādeva of Śrī Vijaiyamaṅgalam, of the big Śrī Vāṉavaṉ-mahādevi-caturvetimaṅgalam, a <foreign>brahmadeya</foreign> on the northern bank, Ampalavaṉ Paḻuvūraṉ alias Śrī Vikkiramacōḻa Mārāyar, who has made <supplied reason="explanation"><foreign>ceyvitta</foreign></supplied> this holy stone temple <supplied reason="explanation"><foreign>tirukkaṟṟaḷi</foreign></supplied>, for one perpetual lamp, as long as the sun and the moon endure, gave ninety-six goats.
+                </p>
+                <p n="6-8">
+                    Aṇṭāṭṭu Maḻavar, for Mahādeva of Śrī Vijaiyamaṅgalam, for two perpetual lamps, as long as the sun and the moon endure, gave two shares.
+                </p>
+                <p n="8">
+                    Those are under the protection of the Panmāheśvaras.</p>
+            </div>
             
             <div type="commentary"/>
-                
-            
             
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/170). </p>
-                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.272). SII 32, part 2, no. 84. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (<ref target="DHARMA_INSSIIv19p0i0272">SII 19.272</ref>), in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (<ref target="DHARMA_INSSIIv32p2i0084">SII 32, part 2, no. 84</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
-                    <bibl n="SII">
+                    <bibl n="SII19">
                         <ptr target="bib:SrinivasaRao1967_01"/>
                         <citedRange unit="page">136</citedRange>
                         <citedRange unit="item">272</citedRange>
+                    </bibl>
+                    <bibl n="SII32">
+                        <ptr target="bib:Swaminathan2012_01"/>
+                        <citedRange unit="page">200-201</citedRange>
+                        <citedRange unit="item">84</citedRange>
                     </bibl>
                     <bibl n="G">
                         <ptr target="bib:Gillet2023_01"/>

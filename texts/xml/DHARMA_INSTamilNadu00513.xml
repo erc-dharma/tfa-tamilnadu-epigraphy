@@ -34,8 +34,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            <p>Govindaputtūr (Kōvintapputtūr), Uṭaiyārpaḷaiyam taluk, Trichy district, Gaṅgājaṭādhara temple. On the eastern wall section of the southern façade, lowest inscription. 10th regnal year of Kōpparakesarivarman = probably Uttamacōḻa (c. A.D. 981). In continuation of the line 4, there is a description of another four lines of a land containing <foreign>catirattu</foreign>, <foreign>vāykkal</foreign>, <foreign>kaṇṇāṟṟu</foreign>, directions, etc. It does not seem to be connected, although it is the same writing.</p>
-                            <p>Gaṅgājaṭādhara temple of Govindapputtūr. Lowest inscription on the eastern wall section of the southern façade of the shrine. Regnal year 10 of Kōpparakesarivarman = probably Uttamacōḻa (<foreign>circa</foreign> 981 C.E.).</p>
+                            <p>On the eastern wall section of the southern façade, lowest inscription. 10th regnal year of Kōpparakesarivarman = probably Uttamacōḻa (<foreign>circa</foreign> 981 CE). In continuation of the line 4, there is a description of another four lines of a land containing <foreign>catirattu</foreign>, <foreign>vāykkal</foreign>, <foreign>kaṇṇāṟṟu</foreign>, directions, etc. It does not seem to be connected, although it is the same writing.</p>
                             
                         </summary>
                     </msContents>
@@ -67,7 +66,7 @@
                     vaṭa-karai-<hi rend="grantha">brahma</hi><hi rend="grantha"><unclear>de</unclear></hi><unclear>yam</unclear> per<supplied reason="lost">i</supplied><supplied reason="omitted">ya</supplied> śrī-vāṉavaṉ-<hi rend="grantha">mahāde</hi>v<supplied reason="lost">i</supplied>-<hi rend="grantha">ca</hi><unclear>tu</unclear>
                     <lb n="2" break="no"/><hi rend="grantha"><reg>r</reg>vve</hi>ti-maṅkalattu <hi rend="grantha"><supplied reason="lost">śrī</supplied></hi>-vi<hi rend="grantha">jai</hi>ya-maṅkalattu <hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>-de</hi>vaṟku <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>antrā</hi>titta<unclear>va</unclear>l nontā-viḷakkukku Aṭikaḷ paḻu⌈
                     <lb n="3" break="no"/>vēṭṭar<hi rend="grantha">ai</hi>yar maṟavaṅ ka<unclear>ṇ</unclear>ṭaṉār kaṉmi kuṉṟa-k-kūṟṟattu Aṟaṇi-nallūr-uṭaiya
-                    ma<seg rend="check">ṉa</seg>-p-perumai c<choice><sic>ū</sic><corr>u</corr></choice>vāmi-y-āṉa kuṉṟa-nāṭṭu
+                    maṉa-p-perumai c<choice><sic>ū</sic><corr>u</corr></choice>vāmi-y-āṉa kuṉṟa-nāṭṭu
                     <lb n="4" />kaṇṭa-p-perun-tiṇai vaitta Āṭu toṇṇūṟum
                 </p>
                 <p>
@@ -79,7 +78,7 @@
             <div type="apparatus">
                 <listApp>
                     <app loc="3">
-                        <lem>maṉapperumai</lem>
+                        <lem source="bib:SrinivasaRao1967_01">maṉapperumai</lem>
                         <rdg source="bib:Gillet2024_01">maṉpperumai</rdg>
                     </app>
                 </listApp>
@@ -87,11 +86,11 @@
             
             <div type="translation" source="bib:Gillet2024_01">
                 
-                <p>Fortune! Prosperity!</p>
-                <p><supplied reason="subaudible">This is the</supplied> 10th year of Kōpparakesarivarman.</p>
-                <p>To Mahādeva (mahadeva, that is, mahādeva) of Śrī Vijaiyamaṅkalam of the big Śrī Vāṉavaṉ-mahādevi-caturvedimaṅgalam, a <foreign>brahmadeya</foreign> of the northern bank, for a perpetual lamp (nontāviḷakkukku), as long as the sun and the moon endure (śantrātittaval, that is, cantrātittaval), an officer <supplied reason="explanation"><foreign>kaṉmi</foreign></supplied> of Aṭikaḷ Paḻuvēṭṭaraiyar Maṟavaṉ Kaṇṭaṉār, lord <supplied reason="explanation"><foreign>uṭaiya</foreign></supplied> of Aṟaṇinallūr of Kuṉṟakūṟṟam, Maṉpperumaicūvāmi alias Kaṇṭapperuntiṇai <supplied reason="explanation">accountant</supplied> of Kuṉṟanāṭu, gave (vaitta) ninety (toṇṇūṟum) goats (āṭu).
+                <p n="1">Fortune! Prosperity!</p>
+                <p n="1"><supplied reason="subaudible">This is the</supplied> 10th year of Kōpparakesarivarman.</p>
+                <p n="1-4">To Mahādeva <supplied reason="explanation"><foreign>mahadeva</foreign>, that is, <foreign>mahādeva</foreign></supplied> of Śrī Vijaiyamaṅkalam of the big Śrī Vāṉavaṉ-mahādevi-caturvedimaṅgalam, a <foreign>brahmadeya</foreign> of the northern bank, for a perpetual lamp <supplied reason="explanation"><foreign>nontāviḷakkukku</foreign></supplied>, as long as the sun and the moon endure <supplied reason="explanation"><foreign>śantrātittaval</foreign>, that is, <foreign>cantrātittaval</foreign></supplied>, an officer <supplied reason="explanation"><foreign>kaṉmi</foreign></supplied> of Aṭikaḷ Paḻuvēṭṭaraiyar Maṟavaṉ Kaṇṭaṉār, lord <supplied reason="explanation"><foreign>uṭaiya</foreign></supplied> of Aṟaṇinallūr of Kuṉṟakūṟṟam, Maṉpperumaicūvāmi alias Kaṇṭapperuntiṇai<note>An accountant.</note> of Kuṉṟanāṭu, gave <supplied reason="explanation"><foreign>vaitta</foreign></supplied> ninety <supplied reason="explanation"><foreign>toṇṇūṟum</foreign></supplied> goats <supplied reason="explanation"><foreign>āṭu</foreign></supplied>.
                 </p>
-                <p>
+                <p n="4">
                     <supplied reason="subaudible">This is under the</supplied>
                     protection of the Panmāheśvaras.
                 </p>
@@ -104,7 +103,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/173).</p>
-                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.273). Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (<ref target="DHARMA_INSSIIv19p0i0273">SII 19.273</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
