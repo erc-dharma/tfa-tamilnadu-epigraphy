@@ -8,7 +8,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <!--See DHARMA_INStfaSIIv19p0i0357 !!!-->
+                <!--
+                    See DHARMA_INStfaSIIv19p0i0357
+                    https://dharmalekha.info/texts/INStfaSIIv19p0i0357
+                -->
                 <title>Govindapputtūr, Gaṅgājaṭādhara temple, time of Parakesarivarman, year 14</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
@@ -62,26 +65,26 @@
                     <lb n="1"/>|||<hi rend="grantha">svasti śrī</hi> || <hi rend="grantha">kuvalāla</hi>-<hi rend="grantha">samudbhavaḥ</hi> <hi rend="grantha">su</hi>-<hi rend="grantha">kī</hi><unclear><hi rend="grantha">r</hi></unclear><hi rend="grantha">tti</hi>-
                     <lb n="2"/><hi rend="grantha">pa</hi>ḻuvūr-<hi rend="grantha">na</hi><unclear>k</unclear>ka <hi rend="grantha">Iti</hi> <hi rend="grantha">pratīta</hi>-<hi rend="grantha">nāmā</hi> <hi rend="grantha">muravairīva</hi> <unclear><hi rend="grantha">vira</hi></unclear>
                     <lb n="3"/><hi rend="grantha">jaḥ</hi><note>Swaminathan (SII 32) reads <unclear>khya</unclear>ḥ.</note> <hi rend="grantha">jāta</hi>-<hi rend="grantha">varṇṇa</hi>-<unclear><hi rend="grantha">pra</hi></unclear><hi rend="grantha">varo</hi> <hi rend="grantha">va</hi><note>SII reads<hi rend="grantha">sa</hi> but clearly it is not.</note><hi rend="grantha">ṃśa</hi>-<hi rend="grantha">karaḥ</hi> <hi rend="grantha">sam</hi>-<hi rend="grantha">āvirāsīt</hi> <unclear>||</unclear>
-                    <lb n="4"/><hi rend="grantha">yam artthinas tyāga</hi><note>SII reads<hi rend="grantha">ya</hi>.</note><hi rend="grantha">m upātta-v</hi><unclear><hi rend="grantha">i</hi></unclear><hi rend="grantha">graham dvi</hi><note>SII reads<hi rend="grantha">bi</hi>.</note><hi rend="grantha">ṣat-janāḥ </hi><unclear><hi rend="grantha">śau</hi></unclear>
-                    <lb n="5"/><unclear><hi rend="grantha">r</hi></unclear><hi rend="grantha">yya-guṇaṃ śarīriṇam Anaṃgam aṃgānvayinam mṛgekṣa</hi><unclear><hi rend="grantha">ṇā</hi></unclear>
-                    <lb n="6"/><hi rend="grantha">vida</hi><unclear><hi rend="grantha">n</hi></unclear><hi rend="grantha">ti dhar</hi><unclear><hi rend="grantha">m</hi></unclear><hi rend="grantha">maṃ satan</hi><unclear><hi rend="grantha">u</hi></unclear><hi rend="grantha">m vipaścitaḥ</hi> ||| – <hi rend="grantha">soyaṃ sva-vikramā</hi><unclear><hi rend="grantha">pta</hi></unclear>-
-                    <lb n="7"/><hi rend="grantha">khilārṇṇavāṃbarākara-grahād vīryya-toṣitād v</hi><unclear><hi rend="grantha">i</hi></unclear><hi rend="grantha">krama-coḷa-nṛpāl la-</hi>
-                    <lb n="8"/><hi rend="grantha">bdha-vikrama-coḷa-mahārājābhidho ‘sya rājñaś catu</hi><unclear><hi rend="grantha">r</hi></unclear><hi rend="grantha">daśe varṣe maha-</hi>
+                    <lb n="4"/><hi rend="grantha">yam artthinas tyāga</hi><note>SII reads<hi rend="grantha">ya</hi>.</note><hi rend="grantha">m upātta-v</hi><unclear><hi rend="grantha">i</hi></unclear><hi rend="grantha">graham dvi</hi><note>SII reads<hi rend="grantha">bi</hi>.</note><hi rend="grantha">ṣat-janāḥ </hi><hi rend="grantha"><unclear>śau</unclear></hi>
+                    <lb n="5"/><hi rend="grantha"><unclear>r</unclear></hi><hi rend="grantha">yya-guṇaṃ śarīriṇam Anaṃgam aṃgānvayinam mṛgekṣa</hi><hi rend="grantha"><unclear>ṇā</unclear></hi>
+                    <lb n="6"/><hi rend="grantha">vida</hi><hi rend="grantha"><unclear>n</unclear></hi><hi rend="grantha">ti dhar</hi><hi rend="grantha"><unclear>m</unclear></hi><hi rend="grantha">maṃ satan</hi><hi rend="grantha"><unclear>u</unclear></hi><hi rend="grantha">m vipaścitaḥ</hi> ||| – <hi rend="grantha">soyaṃ sva-vikramā</hi><unclear><hi rend="grantha">pta</hi></unclear>-
+                    <lb n="7"/><hi rend="grantha">khilārṇṇavāṃbarākara-grahād vīryya-toṣitād v</hi><hi rend="grantha"><unclear>i</unclear></hi><hi rend="grantha">krama-coḷa-nṛpāl la-</hi>
+                    <lb n="8"/><hi rend="grantha">bdha-vikrama-coḷa-mahārājābhidho ‘sya rājñaś catu</hi><hi rend="grantha"><unclear>r</unclear></hi><hi rend="grantha">daśe varṣe maha-</hi>
                     <lb n="9"/><hi rend="grantha">ti śrī-vānavan-mahādevy-agrahare śrī-vijayamaṃgale vasataḥ śa-</hi>
-                    <lb n="10"/><hi rend="grantha">mbhoḥ mandiraṃ śilā-mayam vidhāyāsyaiva grāmasya svabh</hi><unclear><hi rend="grantha">ū</hi></unclear><hi rend="grantha">tāṃ ne-</hi>
+                    <lb n="10"/><hi rend="grantha">mbhoḥ mandiraṃ śilā-mayam vidhāyāsyaiva grāmasya svabh</hi><hi rend="grantha"><unclear>ū</unclear></hi><hi rend="grantha">tāṃ ne-</hi>
                     <lb n="11"/><hi rend="grantha">ṭuvāyil-nāma-grāmaṭikām mahāparṣadaḥ krītvā sva-vitta-dānād aka-</hi>
-                    <lb n="12"/><hi rend="grantha">rāñ-ca kṛtvā tasyaiva śaṃbhor ā-śaśāṃka-sthiter arccanotsavādy-arttha-</hi>
+                    <lb n="12"/><hi rend="grantha">rāñ ca kṛtvā tasyaiva śaṃbhor ā-śaśāṃka-sthiter arccanotsavādy-arttha-</hi>
                     <lb n="13"/><hi rend="grantha">m prādāt</hi> || – kopparake<hi rend="grantha">sa</hi>ripa<hi rend="grantha">nma</hi>kku yāṇṭu 14 Āvatu Uṭaiy
                     <lb n="14"/>ār peru<unclear>ṉ</unclear>tiṟattu kuvalālam uṭaiyāṉ Ampalavan paḻuvūr
                     <lb n="15"/>nakkaṉāṉa vi<hi rend="grantha">krama</hi>coḻa <hi rend="grantha">mahārāja</hi>neṉ vaṭa ka<unclear>r</unclear>ai <hi rend="grantha">brahmade</hi>ya
-                    <lb n="16"/>m periya <unclear><hi rend="grantha">śrī</hi></unclear> vanavaṉ <hi rend="grantha">mahāde</hi>vi<unclear>catu<hi rend="grantha">vvedi</hi></unclear>maṅ<unclear>ka</unclear>lattu <hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi>yamaṅkala<unclear>t</unclear>
+                    <lb n="16"/>m periya <hi rend="grantha"><unclear>śrī</unclear></hi> vanavaṉ <hi rend="grantha">mahāde</hi>vi<unclear>catu<hi rend="grantha">vvedi</hi></unclear>maṅ<unclear>ka</unclear>lattu <hi rend="grantha">śrī</hi> vi<hi rend="grantha">ja</hi>yamaṅkala<unclear>t</unclear>
                     <lb n="17"/>tu<hi rend="grantha">mahāde</hi>var <hi rend="grantha">śrī</hi> vimāṉam kallāl Eḻuṉtaruḷuvittu I<hi rend="grantha">de</hi>vark<unclear>ku</unclear>t ti
                     <lb n="18"/>ruvamitukkum tiruviḷakkukkum<hi rend="grantha">śrī bali</hi>kkum tirumeypūccukkum tiruppūkaik
                     <lb n="19"/>kum tirunaṉtavānappuṟattukkum tiruviḻāvukkum<hi rend="grantha">snapa</hi>ṉaṅkaḷukkum maṟṟum
                     <lb n="20"/>I<hi rend="grantha">de</hi>varkku veṇṭum Ārātiṉaikaḷ Eppeṟpaṭṭaṉa Avaiccukkum Uttama <unclear>I</unclear> <gap reason="lost" quantity="1" unit="character"/> <note><p>This<hi rend="grantha">uttama X X</hi> (SII reads <hi rend="grantha">gram</hi> after uttama but I am not sure it is right) is written in smaller letters and may be connected to the following few lines engraved on the pilaster:</p><p>yo<hi rend="grantha">gi</hi> kalamupatu</p><p>˚iccivayo<hi rend="grantha">gi</hi></p><p><hi rend="grantha">brāhma</hi>ṇāvo X</p><p>vallor<unclear>i</unclear> ˚a<unclear>puvi</unclear></p><p>{unlegible}</p></note> 
                     <lb n="21"/><note>There are a few words added on the pilaster before the line: ˚aka X na // X X X</note> mākaṉāṉ kuṭutta Ū<unclear>r</unclear>āva<unclear>tu</unclear> Ip-periya <hi rend="grantha">śrī</hi>-vānavaṉ-<hi rend="grantha">mahā-de</hi>vi<hi rend="grantha">ca</hi>tu<hi rend="grantha">rvvedi</hi>ma
                     
-                     <label>Western façade, northernmost wall section</label>
+                    <label>Western façade, northernmost wall section</label>
                     <lb n="22"/><note>First line of the northernmost wall section of the western façade.</note> ṅkalattu vaṭapiṭākai neṭuvāyilum
                     <lb n="23"/>Itu <gap reason="lost" quantity="1" unit="character"/> ppaṭu<note>SII reads<hi rend="grantha">ca</hi> instead of <hi rend="grantha">ṭu</hi>.</note>m Ūrtāmaraiṉal
                     <lb n="24"/>Ārum tiruccen<unclear>i</unclear>valamum ma<unclear>ṇ</unclear>kulakku
@@ -121,11 +124,16 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/164) (+ part 2, para 28, p. 74).</p>
-                <p>SII 19.357. SII 32, part 2, no. 138. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.357). SII 32, part 2, no. 138. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
-                    <bibl>
+                    <bibl n="SII">
+                        <ptr target="bib:SrinivasaRao1967_01"/>
+                        <citedRange unit="page">183-186</citedRange>
+                        <citedRange unit="item">357</citedRange>
+                    </bibl>
+                    <bibl n="G">
                         <ptr target="bib:Gillet2023_01"/>
                         <citedRange unit="page">81-82</citedRange>
                         <citedRange unit="item">11</citedRange>
