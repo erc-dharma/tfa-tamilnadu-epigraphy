@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Govindapputtūr, Gaṅgājaṭādhara temple, time of Parakesarivarman, year 13</title>
+                <title>Kōvintapputtūr (Govindapputtūr), Gaṅgājaṭādhara temple, time of Parakesarivarman, year 13</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Gaṅgājaṭādhara temple of Govindapputtūr. Lowest inscription on the lowest stone of the southernmost wall section of the western façade of the sanctuary, in continuation of <ref target="DHARMA_INSTamilNadu00519"/> (zone A). It continues on the pilaster on the southern side (zone B). Regnal year 13 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 984 C.E.). There is no <foreign>svasti śrī</foreign> at the beginning of this inscription.</p>
+                        <summary><p>Lowest inscription on the lowest stone of the southernmost wall section of the western façade of the sanctuary, in continuation of <ref target="DHARMA_INSTamilNadu00519"/> (zone A). It continues on the pilaster on the southern side (zone B). Regnal year 13 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 984 C.E.). There is no <foreign>svasti śrī</foreign> at the beginning of this inscription.</p>
                             
                         </summary>
                     </msContents>
@@ -61,11 +61,11 @@
                 <p>
                     It-tiru-k-kaṟṟa
                     <lb n="2" break="no"/>ḷi Eṭupitta kuvaḷālam-uṭaiyāṉ Ampalavaṉ paḻuvūr nakkaṉ-Āṉa vikkirama-cōḻa-mā-rāyar
-                    <lb n="3"/>Akamuṭaiyāḷ ciṅka-pa<hi rend="grantha">nma</hi>ṉ kañci Akkaṉ vaitta nontā-viḷa<unclear>kku</unclear> Oṉṟu Oṉṟukku nicatam <unclear>u</unclear>
+                    <lb n="3"/>Akamuṭaiyāḷ ciṅka-pa<hi rend="grantha">nma</hi>ṉ kañci Akkaṉ vaitta nontā-viḷa<unclear>kku</unclear> <surplus>Oṉṟu</surplus> Oṉṟukku nicatam <unclear>u</unclear>
                     <milestone n="B" unit="zone" break="no" type="pagelike"/><lb n="4" break="no"/>ḻakku ney
                     <lb n="5"/>y-erikka vai
                     <lb n="6" break="no"/>tta cāvā m<choice><orig>u</orig><reg>ū</reg></choice>
-                    <lb n="7" break="no"/>vā-p pērā
+                    <lb n="7" break="no"/>vā-p pēr-ā
                     <lb n="8" break="no"/>ṭu toṇ
                     <lb n="9" break="no"/>ṇūṟṟu Ā
                     <lb n="10" break="no"/>ṟu
@@ -84,7 +84,9 @@
             
             <div type="translation" source="bib:Gillet2023_01">
                 
-                <p>This is the 13th regnal year of Kōpparakesarivarman. The wife <supplied reason="explanation"><foreign>akamuṭaiyāḷ</foreign></supplied> of Ampalavaṉ Paḻuvūr Nakkaṉ alias Vikkiramacōḻa Mārāyar, lord <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> of Kuvaḷālam who built <supplied reason="explanation"><foreign>eṭupitta</foreign></supplied> this stone shrine <supplied reason="explanation"><foreign>ittirukkaṟṟaḷi</foreign></supplied>, Ciṅkapanmaṉ Kañci Akkaṉ gave; for one one perpetual lamp, to burn one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> everyday she gave ninety-six undying and non ageing great goats. These are under the protection of the Panmāheśvaras.</p></div>
+                <p n="1">This is the 13th regnal year of Kōpparakesarivarman.</p>
+                <p n="1-10">The wife <supplied reason="explanation"><foreign>akamuṭaiyāḷ</foreign></supplied> of Ampalavaṉ Paḻuvūr Nakkaṉ alias Vikkiramacōḻa Mārāyar, lord <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> of Kuvaḷālam who built <supplied reason="explanation"><foreign>eṭupitta</foreign></supplied> this stone shrine <supplied reason="explanation"><foreign>ittirukkaṟṟaḷi</foreign></supplied>, Ciṅkapanmaṉ Kañci Akkaṉ gave; for one one perpetual lamp, to burn one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> everyday she gave ninety-six undying and non ageing great goats.</p>
+                <p n="10-11">These are under the protection of the Panmāheśvaras.</p></div>
             
             <div type="commentary"/>
                 
@@ -93,7 +95,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/167).</p>
-                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (SII 19.334), in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32, part 2, no. 124). Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (<ref target="DHARMA_INSSIIv19p0i0334">SII 19.334</ref>), in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (SII 32, part 2, no. 124). Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
