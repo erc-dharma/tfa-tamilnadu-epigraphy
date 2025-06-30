@@ -64,7 +64,7 @@
                 <p>                
                     vaṭa-karai-<hi rend="grantha">brahmade</hi>yam periya śrī-vāṉavan
                     <lb n="2" break="no"/>-<hi rend="grantha">mahā-de</hi>vi-<hi rend="grantha">catuvvedi</hi>-<unclear>ma</unclear>ṅkalattu <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">jai</hi>ya-maṅkalattu <hi rend="grantha">mahā-de</hi>vaṟkku It-tiru-k-kaṟaḷi ceyvitta
-                    <lb n="3"/>Ammalavaṉ paḻuvūr nakkaṉ-āṉa <hi rend="grantha">śrī</hi>-vi<unclear>k</unclear>kirama-cōḻa-mārāyaṉ ca<hi rend="grantha">ntrādi</hi>ttavaṟ vaitta noṉtā-viḷakku 4
+                    <lb n="3"/>Am<choice><sic>m</sic><corr>p</corr></choice>alavaṉ paḻuvūr nakkaṉ-āṉa <hi rend="grantha">śrī</hi>-vi<unclear>k</unclear>kirama-cōḻa-mārāyaṉ ca<hi rend="grantha">ntrādi</hi>ttavaṟ vaitta noṉtā-viḷakku 4
                     <lb n="4"/>nālum
                 </p>
                 <p>
@@ -78,7 +78,14 @@
                 
             </div>
             
-            <div type="apparatus"/>
+            <div type="apparatus">
+                <listApp>
+                    <app loc="3">
+                        <lem source="bib:Gillet2023_01">Am<choice><sic>m</sic><corr>p</corr></choice>alavaṉ</lem>
+                        <rdg source="bib:SrinivasaRao1967_01 bib:SrinivasaRao1967_01">Am<supplied reason="omitted">pa</supplied>lavaṉ</rdg>
+                    </app>
+                </listApp>
+            </div>
             
             
             
@@ -90,8 +97,11 @@
                 <p n="1">
                     This is the 12th year of Kōpparakesarivarman.
                 </p>
-                <p n="1-5">
-                    For Mahādeva of Śrī Vijaiyamaṅgalam of big Śrī Vāṉavan-mahādevi-catturvedimaṅgalam, a <foreign>brahmadeya</foreign> on the northern bank, Ampalavaṉ Paḻuvūr Nakkaṉ alias Śrī Vikramacōḻa Mārāyaṉ, who made <supplied reason="explanation"><foreign>ceyvitta</foreign></supplied> this holy stone temple <supplied reason="explanation"><foreign>ittirukkaṟṟaḷi</foreign></supplied>, gave <supplied reason="subaudible">for</supplied> 4, four, perpetual lamps, as long as the sun and the moon endure; at the rate of ninety-six goats for one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> every day for one lamp, three hundred and eighty-four goats for one <foreign>nāḻi</foreign> of <foreign>ghee</foreign> every day for four lamps; as long as the sun and the moon endure, <supplied reason="subaudible">he</supplied> gave <supplied reason="subaudible">those 384</supplied> non dying non ageing great goats.
+                <p n="1-4">
+                    For Mahādeva of Śrī Vijaiyamaṅgalam of big Śrī Vāṉavan-mahādevi-catturvedimaṅgalam, a <foreign>brahmadeya</foreign> on the northern bank, Ampalavaṉ Paḻuvūr Nakkaṉ alias Śrī Vikramacōḻa Mārāyaṉ, who made <supplied reason="explanation"><foreign>ceyvitta</foreign></supplied> this holy stone temple <supplied reason="explanation"><foreign>ittirukkaṟṟaḷi</foreign></supplied>, gave <supplied reason="subaudible">for</supplied> 4, four, perpetual lamps, as long as the sun and the moon endure.
+                </p>
+                <p n="4-5">
+                    At the rate of ninety-six goats for one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> every day for one lamp, three hundred and eighty-four goats for one <foreign>nāḻi</foreign> of <foreign>ghee</foreign> every day for four lamps, as long as the sun and the moon endure, <supplied reason="subaudible">he</supplied> gave <supplied reason="subaudible">those 384</supplied> non dying non ageing great goats.
                 </p>
                 <p n="5-6">
                     Those are under the protection of the Panmāheśvaras.</p>
@@ -104,11 +114,21 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/169).</p>
-                <p>SII 19.314. SII 32, part 2, no. 103. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (<ref target="DHARMA_INSSIIv19p0i0314">SII 19.314</ref>), in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (<ref target="DHARMA_INSSIIv32p2i0103">SII 32, part 2, no. 103</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
-                    <bibl>
+                    <bibl n="SII19">
+                        <ptr target="bib:SrinivasaRao1967_01"/>
+                        <citedRange unit="page">157</citedRange>
+                        <citedRange unit="item">314</citedRange>
+                    </bibl>
+                    <bibl n="SII32">
+                        <ptr target="bib:Swaminathan2012_01"/>
+                        <citedRange unit="page">217-218</citedRange>
+                        <citedRange unit="item">103</citedRange>
+                    </bibl>
+                    <bibl n="G">
                         <ptr target="bib:Gillet2023_01"/>
                         <citedRange unit="page">75</citedRange>
                         <citedRange unit="item">4</citedRange>
