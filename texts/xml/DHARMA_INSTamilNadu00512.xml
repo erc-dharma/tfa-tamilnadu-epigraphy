@@ -73,7 +73,7 @@
                 <p>
                     Aṇṭā
                     <lb n="7" break="no"/>ṭṭu maḻavar <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">jai</hi>ya-maṅkala<supplied reason="omitted">t</supplied>tu <hi rend="grantha">mahā-de</hi>vaṟkku <hi rend="grantha">ca</hi>
-                    <lb n="8" break="no"/><hi rend="grantha">ntrā</hi>tittavaṟ n<choice><sic>a</sic><corr>o</corr></choice>n=tāviḷa-kkukk' iraṇṭukku kuṭutta paṅk<supplied reason="lost"><surplus>k'</surplus></supplied> <unclear>ira</unclear>ṇṭu
+                    <lb n="8" break="no"/><hi rend="grantha">ntrā</hi>tittavaṟ n<choice><sic>a</sic><corr>o</corr></choice>n=tāviḷa-kkukk' iraṇṭukku kuṭutta paṅ<surplus>k</surplus><supplied reason="lost">k</supplied>' <unclear>ira</unclear>ṇṭu
                 </p>
                 <p>
                     Ivai pa<hi rend="grantha"><unclear>nma</unclear></hi><hi rend="grantha">he<add place="above">śva</add>ra-rakṣai</hi>
@@ -89,8 +89,8 @@
                         <note><ptr target="bib:Gillet2023_01"/>: <quote>The <foreign>v</foreign> looks like a <foreign>vu</foreign> with a -<foreign>e</foreign> before, which is impossible. Perhaps it is intended for a <foreign>vve</foreign>.</quote> The <foreign>vv</foreign> looks rather like a kind of <foreign>vū</foreign> preceded by medial <foreign>e</foreign> and indeed intended to be <foreign>vve</foreign>.</note>
                     </app>
                     <app loc="8">
-                        <lem>paṅk<supplied reason="lost"><surplus>k'</surplus></supplied> <unclear>ira</unclear>ṇṭu</lem>
-                        <rdg source="bib:SrinivasaRao1967_01">paṅ<surplus>k</surplus>kiraṇṭu</rdg>
+                        <lem>paṅ<surplus>k</surplus><supplied reason="lost">k</supplied>' <unclear>ira</unclear>ṇṭu</lem>
+                        <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01">paṅ<surplus>k</surplus>kiraṇṭu</rdg>
                         <rdg source="bib:Gillet2023_01">paṅ<seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>i</seg><unclear>ra</unclear>ṇṭu</rdg>
                     </app>
                 </listApp>
