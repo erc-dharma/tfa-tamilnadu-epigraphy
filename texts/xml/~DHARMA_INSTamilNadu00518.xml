@@ -33,13 +33,13 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>On the upper part of the southernmost wall section of the western façade of the sanctuary. Regnal year 13 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 984 CE). The inscription is unfinished. We notice some unusual mistakes: <foreign>cōḻḻa</foreign>, that is, <foreign>cōḻa</foreign>, <foreign>vimmā</foreign>, that is, <foreign>vimāṉa</foreign>, <foreign>paḻuvuṟ</foreign>, that is, <foreign>paḻuvūr</foreign>, <foreign>hmādevaṟku</foreign>, that is, <foreign>mahādevaṟku</foreign>.</p>
+                        <summary><p>On the upper part of the southernmost wall section of the western façade of the sanctuary. Regnal year 13 of Kōpparakesarivarman = Uttamacōḻa (<foreign>circa</foreign> 984 CE).</p>
                             
                         </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p/>
+                            <p>Some mistakes are unusual: <foreign>cōḻḻa</foreign> for <foreign>cōḻa</foreign>, <foreign>vi<hi rend="bold">m</hi>mā</foreign> for <foreign>vimāṉa</foreign>, <foreign>paḻuvuṟ</foreign> for <foreign>paḻuvūr</foreign>, <foreign><hi rend="grantha">hmāde</hi>vaṟku</foreign> for <foreign><hi rend="grantha">mahāde</hi>vaṟku</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -59,14 +59,15 @@
                     <lb n="1"/><hi rend="grantha">svasti <add place="below">śrī</add></hi>
                 </p>
                 <p>
-                    kō-p-para-kēcari-pa<hi rend="grantha">nma</hi>ṟku yāṇṭu <seg rend="check"><unclear>10</unclear></seg> 3 muṉṟ-āvatu
+                    kō-p-para-kēcari-pa<hi rend="grantha">nma</hi>ṟku yāṇṭu <unclear reason="eccentric_ductus">10</unclear> 3 muṉṟ-āvatu
                 </p>
                 <p>
                     vaṭa-karai-<hi rend="grantha">brahmade</hi>yam pe
-                    <lb n="2" break="no"/>riya <hi rend="grantha">śrī</hi>-vāṉavaṉ-mātevi-c-catu<hi rend="grantha">vve</hi>ti-maṅkalattu <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-maṅkala-t<unclear>ē</unclear>
-                    <lb n="3" break="no"/>vaṟ kōyi<supplied reason="omitted">l</supplied> <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">m</hi>mā kallā Eḻu<unclear>nt-a</unclear>ruḷḷuviccēṉ <hi rend="grantha">śrī </hi>Uta<hi rend="grantha">m</hi>ma-cō<surplus>ḻ</surplus>ḻa-tēvaṟ peru
-                    <lb n="4" break="no"/>ntiṟattu kuvaḷḷālam Uṭaiyāṉ Ampalavaṉ paḻuvuṟ nakkaṉ-āna vi<hi rend="grantha">kra</hi>ma-cō<surplus>ḻ</surplus>ḻa
-                    <lb n="5" break="no"/>-mārā<unclear>ya</unclear>nnē I-<hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-maṅkalattu <supplied reason="omitted">bra</supplied><hi rend="grantha">hmāde</hi>vaṟku ṉā 
+                    <lb n="2" break="no"/>riya <hi rend="grantha">śrī</hi>-vāṉavaṉ-mā-tēvi-c-catu<hi rend="grantha"><unclear>r</unclear>vve</hi>ti-maṅkalattu <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-maṅkala-t<unclear>ē</unclear>
+                    <lb n="3" break="no"/>vaṟ kōyi<supplied reason="omitted">l</supplied> <hi rend="grantha">śrī</hi>-vi<choice><sic><hi rend="grantha">m</hi>m</sic><corr>m</corr></choice>ā<supplied reason="omitted">ṉam</supplied> kallā<supplied reason="omitted">l</supplied> Eḻu<unclear>nt-a</unclear>ruḷḷuviccēṉ <hi rend="grantha">śrī </hi>U<choice><sic>t</sic><corr>tt</corr></choice>a<choice><sic><hi rend="grantha">m</hi>ma</sic><corr>m</corr></choice>-cō<choice><sic>ḻḻ</sic><corr>ḻ</corr></choice>a-tēvaṟ peru
+                    <lb n="4" break="no"/>n-tiṟattu kuvaḷḷālam Uṭaiyāṉ Ampalavaṉ paḻuv<choice><sic>u</sic><corr>ū</corr></choice>ṟ nakkaṉ-āna vi<hi rend="grantha">kra</hi>ma-cō<choice><sic>ḻḻ</sic><corr>ḻ</corr></choice>a
+                    <lb n="5" break="no"/>-mā-rā<unclear>ya</unclear><choice><orig>nn</orig><reg>n</reg></choice>ē I-<hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-maṅkalattu 
+                    <hi rend="grantha"><choice><sic>hmā</sic><corr>mahā</corr></choice>-de</hi>vaṟku ṉā 
                 </p>
                 
             </div>
@@ -82,20 +83,36 @@
             
             <div type="translation" source="bib:Gillet2023_01">
                 
-                <p>Fortune! Prosperity! This is the 13th year of Kōpparakesarivarman. I, Ampalavaṉ Paḻuvūr Nakkaṉ alias Vikramacōḻa Mārāyan, lord <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> of Kuvaḷḷālam, of the <foreign>peruntaṟam</foreign> of Śrī Uttamacōḻatēvar, I have graciously caused to raise <supplied reason="explanation"><foreign>eḻuntaruḷḷuviccēṉ</foreign></supplied> in stone the holy sanctuary of the temple of Śrī Vijayamaṅgaladevar of the big Śrī Vāṉavaṉ-mahādevi-caturvetimaṅgalam, a <foreign>brahmadeya</foreign> of the northern bank; for Mahādeva of this Śrī Vijayamaṅkalam <gap reason="lost" extent="unknown" unit="character"/></p></div>
+                <p n="1">Fortune! Prosperity!</p>
+                
+                <p n="1">This is the 13th year of Kōpparakesarivarman.</p>
+                
+                <p n="1-5">
+                    I, Ampalavaṉ Paḻuvūr Nakkaṉ alias Vikramacōḻa Mārāyan, lord <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> of Kuvaḷḷālam, of the <foreign>peruntaṟam</foreign> of Śrī Uttamacōḻatēvar, I have graciously caused to raise <supplied reason="explanation"><foreign>eḻuntaruḷḷuviccēṉ</foreign></supplied> in stone the holy sanctuary of the temple of Śrī Vijayamaṅgaladevar of the big Śrī Vāṉavaṉ-mahādevi-caturvetimaṅgalam, a <foreign>brahmadeya</foreign> of the northern bank; for Mahādeva of this Śrī Vijayamaṅkalam <gap reason="lost" extent="unknown" unit="character"/></p>
+            </div>
             
             <div type="commentary">
-                
+                 <p n="5">The inscription is unfinished.</p>
             </div>
             
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/165).</p>
-                <p>SII 19.332; SII 32, part 2, no. 122. Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (<ref target="DHARMA_INSSIIv19p0i0332">SII 19.332</ref>), in <bibl><ptr target="bib:Swaminathan2012_01"/></bibl> (<ref target="DHARMA_INSSIIv32p2i0122">SII 32, part 2, no. 122</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
-                    <bibl>
+                    <bibl n="SII19">
+                        <ptr target="bib:SrinivasaRao1967_01"/>
+                        <citedRange unit="page">168</citedRange>
+                        <citedRange unit="item">332</citedRange>
+                    </bibl>
+                    <bibl n="SII32">
+                        <ptr target="bib:Swaminathan2012_01"/>
+                        <citedRange unit="page">238</citedRange>
+                        <citedRange unit="item">122</citedRange>
+                    </bibl>
+                    <bibl n="G">
                         <ptr target="bib:Gillet2023_01"/>
                         <citedRange unit="page">80</citedRange>
                         <citedRange unit="item">8</citedRange>
