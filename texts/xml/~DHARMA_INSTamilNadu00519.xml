@@ -62,11 +62,11 @@
                     It-tiru-k-kaṟṟaḷ[[i]] Eṭuppit
                     <lb n="2" break="no"/>ta <hi rend="grantha">ku</hi>vaḷālam-uṭaiyāṉ Ampalavaṉ paḻuvūr nakkaṉ-āṉa vikkirama-cōḻa-mā-rā
                     <lb n="3" break="no"/>yar Akamuṭaiyāḷ Aparāyitaṉ ceyyavāymaṇi ca<hi rend="grantha">ntrā</hi>tittaval vaitta non
-                    <lb n="4" break="no"/>t<choice><sic>a</sic><corr>ā</corr></choice>-viḷakku Oṉṟukku nicata Uḻakku neyy-āka vaitta Āṭu toṇṇūṟṟu Āṟu
+                    <lb n="4" break="no"/>t<choice><sic>a</sic><corr>ā</corr></choice>-viḷakku Oṉṟukku nicata<supplied reason="omitted">m</supplied> Uḻakku neyy-āka vaitta Āṭu toṇṇūṟṟu Āṟu
                 </p>
                 <p>
-                    Ivai cāvā
-                    <lb n="5"/><supplied reason="omitted">mū</supplied>vā perāṭu
+                    Ivai cāvā <supplied reason="omitted">mū</supplied>
+                    <lb n="5" break="no"/>vā pēr-āṭu
                 </p>
                 <p>
                     pa<hi rend="grantha">nmāheśvara-rakṣai</hi> <g type="gomutraFinal">.</g>
@@ -75,16 +75,45 @@
             </div>
             
             <div type="apparatus">
-                
+                <listApp>
+                    <app loc="3">
+                        <lem source="bib:Swaminathan2012_01 bib:Gillet2023_01">non
+                            <lb n="4" break="no"/>t<choice><sic>a</sic><corr>ā</corr></choice></lem>
+                        <rdg source="bib:SrinivasaRao1967_01">non
+                            <lb n="4" break="no"/>tā</rdg>
+                    </app>
+                    <app loc="4">
+                        <lem>nicata<supplied reason="omitted">m</supplied></lem>
+                        <rdg source="bib:SrinivasaRao1967_01 bib:Swaminathan2012_01">nit=ta<supplied reason="omitted">m</supplied></rdg>
+                        <rdg source="bib:Gillet2023_01">nicata</rdg>
+                    </app>
+                    <app loc="4">
+                        <lem>cāvā <supplied reason="omitted">mū</supplied>
+                    <lb n="5" break="no"/>vā</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">cāvāmu
+                    <lb n="5" break="no"/>vā</rdg>
+                        <rdg source="bib:Swaminathan2012_01">cāvā<unclear>mū</unclear>
+                    <lb n="5"/><unclear>v</unclear>ā</rdg>
+                        <rdg source="bib:Gillet2023_01">cāvā
+                    <lb n="5" break="no"/>vā</rdg>
+                    </app>
+                </listApp>
             </div>
             
             <div type="translation" source="bib:Gillet2023_01">
                 
-                <p>This is the 13th year of Kōpparakesarivarman. The wife <supplied reason="explanation"><foreign>akamuṭaiyāḷ</foreign></supplied> of Ampalavaṉ Paḻuvūr Nakkaṉ alias Vikkiramacōḻa Mārāyar, lord <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> of Kuvaḷālam who built <supplied reason="explanation"><foreign>eṭupitta</foreign></supplied> this stone shrine <supplied reason="explanation"><foreign>ittirukkaṟṟaḷi</foreign></supplied>, Aparāyitaṉ Ceyyavāymaṇi gave; as long as the sun and the moon endure, for one perpetual lamp, for one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> everyday, she gave ninety-six goats. These undying and non ageing great goats are under the protection of the Panmāheśvaras.</p></div>
-            
-            <div type="commentary">
+                <p n="1">This is the 13th year of Kōpparakesarivarman.</p>
                 
+                <p n="1-4">The wife <supplied reason="explanation"><foreign>akamuṭaiyāḷ</foreign></supplied> of Ampalavaṉ Paḻuvūr Nakkaṉ alias Vikkiramacōḻa Mārāyar, lord <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> of Kuvaḷālam who built <supplied reason="explanation"><foreign>eṭupitta</foreign></supplied> this stone shrine <supplied reason="explanation"><foreign>ittirukkaṟṟaḷi</foreign></supplied>, Aparāyitaṉ Ceyyavāymaṇi gave; as long as the sun and the moon endure, for one perpetual lamp, for one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> everyday, she gave ninety-six goats.
+                </p>
+                
+                <p n="4-5">
+                    These undying and non ageing great goats are under the protection of the Panmāheśvaras.</p>
             </div>
+            
+            <div type="commentary"/>
+            
+            
             
             <div type="bibliography">
                 
