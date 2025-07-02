@@ -75,12 +75,18 @@
                     <lb n="21" break="no"/><unclear>vi</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>ḻuvēṭṭa</unclear>rai <gap reason="lost" quantity="2" unit="character"/> <unclear>makaḷā</unclear> <gap reason="lost" quantity="3" unit="character"/> 
                     <lb n="22"/><gap reason="lost" quantity="4" unit="character"/> tēvaṭikaḷār vat <gap reason="lost" quantity="1" unit="character"/> tiru-n<supplied reason="lost">ontā</supplied>-viḷak
                     <lb n="23" break="no"/>kk' oṉṟukku <gap reason="lost" quantity="3" unit="character"/> tuṟai <gap reason="lost" quantity="2" unit="character"/> ḷūr <gap reason="lost" quantity="3" unit="character"/> 
-                    <lb n="24"/><gap reason="lost" quantity="1" unit="character"/> koṇṭa poṉ patiṉ kaḻañcu <gap reason="lost" quantity="3" unit="character"/> 
+                    <lb n="24"/><gap reason="lost" quantity="1" unit="character"/> koṇṭa poṉ patiṉ kaḻañcu <gap reason="lost" quantity="3" unit="character"/>
+                </p>
+                <p>                    
                     <lb n="25"/><gap reason="lost" quantity="1" unit="character"/> <unclear>pa</unclear>tiṉ kaḻañcum poli-y-aṭṭ-ā<unclear>ka</unclear> <gap reason="lost" quantity="2" unit="character"/> 
                     <lb n="26" break="no"/>ṇṭu ni <gap reason="lost" quantity="2" unit="character"/> m Uḻakku ney <gap reason="lost" quantity="6" unit="character"/> 
                     <lb n="27" break="no"/><unclear>ṉṟu</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>kkaṭavaṉēy</unclear> Eḻuṉā <gap reason="lost" quantity="4" unit="character"/> 
                     <lb n="28" break="no"/>ṉi <gap reason="lost" quantity="4" unit="character"/> ṉṟu <gap reason="lost" quantity="1" unit="character"/> cāma <gap reason="lost" quantity="4" unit="character"/> 
-                    <lb n="29"/><gap reason="lost" quantity="6" unit="character"/> pa<hi rend="grantha">nmāheśvara</hi> <gap reason="lost" quantity="2" unit="character"/> 
+                    <lb n="29"/><gap reason="lost" quantity="4" unit="character"/>
+                </p>
+                <p>
+                    <gap reason="lost" quantity="2" unit="character"/>                    
+                    pa<hi rend="grantha">nmāheśvara</hi> <gap reason="lost" quantity="2" unit="character"/> 
                 </p>
                 
             </div>
@@ -93,7 +99,16 @@
                 
                 <p n="1">Fortune! Prosperity!</p>
                 <p n="1-14">[<foreign>meykkīrtti</foreign> of Rājendra I Cōla]</p> 
-                <p>This is the 5th year of Kōpparakesarivarman alias Śrī Rājendracō<supplied reason="lost">ḻa</supplied>devar. For Mahādeva who possesses/of <supplied reason="explanation"><foreign>uṭaiya</foreign></supplied> Tirumutukuṉṟam in Neṟkuppai in Paruvūrkkūṟṟam of Iruṅkoḷappaṭi of Rājendrasiṃhavaḷanāṭu on the northern bank <supplied reason="explanation"><foreign>vaṭakarai</foreign></supplied>, the wife/queen <supplied reason="explanation"><foreign>devi</foreign><supplied reason="lost"><foreign>yār</foreign></supplied></supplied> of Muññai Vallavaraiyar, daughter <supplied reason="explanation"><foreign>makaḷār</foreign></supplied> of the Paḻuvēṭṭaraiyar, <gap reason="lost" extent="unknown" unit="character"/> Tēvaṭikaḷār <supplied reason="lost">gave</supplied> for one <supplied reason="lost">perpetual</supplied> lamp <supplied reason="explanation"><foreign>tirun</foreign><supplied reason="lost"><foreign>ontā</foreign></supplied><foreign>viḷakk' oṉṟukku</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> ten <foreign>kaḻañcu</foreign>s of gold taken <supplied reason="explanation"><foreign>koṇṭa</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> ten <supplied reason="explanation"><foreign>patiṉ</foreign></supplied> <foreign>kaḻañcu</foreign>s <gap reason="lost" extent="unknown" unit="character"/> one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> <supplied reason="explanation"><foreign>ney</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/>. <supplied reason="lost">this is under the protection of the</supplied> Paṉmāheśvaras.</p></div>
+                <p><supplied reason="subaudible">This is the</supplied> 5th year of Kōpparakesarivarman alias Śrī Rājendracō<supplied reason="lost">ḻa</supplied>devar.</p>
+                <p n="15-16">For Mahādeva who possesses/of <supplied reason="explanation"><foreign>uṭaiya</foreign></supplied> Tirumutukuṉṟam in Neṟkuppai in Paruvūrkkūṟṟam of Iruṅkoḷappaṭi of Rājendrasiṃhavaḷanāṭu on the northern bank <supplied reason="explanation"><foreign>vaṭakarai</foreign></supplied>, the wife/queen <supplied reason="explanation"><foreign>devi</foreign><supplied reason="lost"><foreign>yār</foreign></supplied></supplied> of Muññai Vallavaraiyar, daughter <supplied reason="explanation"><foreign>makaḷār</foreign></supplied> of the Paḻuvēṭṭaraiyar, <gap reason="lost" extent="unknown" unit="character"/> Tēvaṭikaḷār <supplied reason="lost">gave</supplied> for one <supplied reason="lost">perpetual</supplied> lamp <supplied reason="explanation"><foreign>tirun</foreign><supplied reason="lost"><foreign>ontā</foreign></supplied><foreign>viḷakk' oṉṟukku</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> ten <foreign>kaḻañcu</foreign>s of gold taken <supplied reason="explanation"><foreign>koṇṭa</foreign></supplied>
+                </p>
+                <p n="25-29">
+                    <gap reason="lost" extent="unknown" unit="character"/> ten <supplied reason="explanation"><foreign>patiṉ</foreign></supplied> <foreign>kaḻañcu</foreign>s <gap reason="lost" extent="unknown" unit="character"/> one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> <supplied reason="explanation"><foreign>ney</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/>. 
+                </p>
+                <p n="29">
+                    <supplied reason="lost">This is under the protection of the</supplied> Paṉmāheśvaras.
+                </p>
+            </div>
             
             <div type="commentary"/>
                 

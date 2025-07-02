@@ -84,16 +84,16 @@
                     <lb n="12"/>Amutil paṭaikka <unclear>ka</unclear><supplied reason="omitted">ṭa</supplied>vē<choice><orig>nn</orig><reg>ṉ</reg></choice> <unclear>ā</unclear>[[ka]]<unclear>vu</unclear><supplied reason="omitted">m</supplied>
                 </p>
                 <p>
-                    <unclear>nicata</unclear>m Iru-nāḻi Uḻak=ku <seg rend="check"><unclear>vi</unclear>[[ḷak]]'</seg> eṇṇai Amu<unclear>tu</unclear>k=ku Uḻak=ku ne<choice><orig>yi</orig><reg>y</reg></choice>y<unclear>u</unclear>m Ā<supplied reason="omitted">ka</supplied> Iru-nā
-                    <lb n="13" break="no"/><unclear>ṟu</unclear>ṭi ne<choice><orig>yi</orig><reg>y</reg></choice> Eṇṇai Ip-pi[[ṭi]]<choice><orig>ll</orig><reg>l</reg></choice>ikai-vāri <seg rend="check">ko<surplus><unclear>ṇ</unclear></surplus><unclear>ṇṭu</unclear> māṇi<unclear>ra</unclear>ṇṭ</seg>u Iṭṭu paṇi ce<choice><orig>y</orig><reg>yy</reg></choice>a kaṭavē<choice><orig>nn</orig><reg>ṉ</reg></choice> ākav<choice><sic>ū</sic><corr>u</corr></choice><supplied reason="omitted">m</supplied>
+                    <unclear>nicata</unclear>m Iru-nāḻi Uḻak=ku <unclear>vi</unclear><supplied reason="lost">ḷa</supplied><unclear>k=ku</unclear><supplied reason="omitted">k</supplied>k' eṇṇai Amu<unclear>tu</unclear>k=ku Uḻak=ku ne<choice><orig>yi</orig><reg>y</reg></choice>y<unclear>u</unclear>m Ā<supplied reason="omitted">ka</supplied> Iru-nā
+                    <lb n="13" break="no"/><unclear>ṟu</unclear>ṭi ne<choice><orig>yi</orig><reg>y</reg></choice> Eṇṇai Ip-pi[[ṭi]]<choice><orig>ll</orig><reg>l</reg></choice>ikai-vāri ko<surplus><unclear>ṇ</unclear></surplus><unclear>ṇ</unclear>ṭu māṇi <gap reason="lost" quantity="1" unit="character"/> <unclear>ra</unclear>ṇṭu Iṭṭu paṇi ce<choice><orig>y</orig><reg>yy</reg></choice>a kaṭavē<choice><orig>nn</orig><reg>ṉ</reg></choice> ākav<choice><sic>ū</sic><corr>u</corr></choice><supplied reason="omitted">m</supplied>
                 </p>
                 <p>
                     nicatam iru-<supplied reason="omitted">nā</supplied>
                     <lb n="14" break="no"/><unclear>ṟu</unclear>ṭi nel<surplus>l</surplus>lāl kaṟi-y-amutu I<supplied reason="lost">ṭa</supplied> kaṭav<unclear>ē</unclear><choice><orig>nn</orig><reg>ṉ</reg></choice> ākavu<supplied reason="omitted">m</supplied>
                 </p>
                 <p>
-                    I<unclear>v-i</unclear>raṇṭu <hi rend="grantha">sa</hi><unclear>n=</unclear>ti pōtu Aiñcu pāk=ku Āka pattu Aṭaikkāy mu
-                    <lb n="15" break="no"/>pattu Ivaiccuk=ku vēṇṭu veṟṟi[[l]]lai Amutu <seg rend="check">Iccu<supplied reason="omitted">ṭ</supplied><unclear>ṭa</unclear>pa<supplied reason="omitted">ṭ</supplied>ṭa I<supplied reason="omitted">t</supplied>taṉaiyum A<choice><orig>n</orig><reg>ṉ</reg></choice>ṟāṭ<unclear>ṭu</unclear></seg> kaṇkāṇi-y-oṭu I<supplied reason="omitted">p</supplied>paṭi
+                    I<unclear>v-i</unclear>raṇṭu <hi rend="grantha">sa</hi><unclear>n=</unclear>ti pōtu Aiñcu pāk=ku Āka pattu Aṭaikkāy amu<supplied reason="subaudible">tu</supplied>
+                    <lb n="15" />pattu Ivaiccuk=ku vēṇṭu veṟṟi[[l]]lai Amutu Iccu<supplied reason="omitted">ṭ</supplied><unclear>ṭa</unclear>pa<supplied reason="omitted">ṭ</supplied>ṭa I<supplied reason="omitted">t</supplied>taṉaiyum A<choice><orig>n</orig><reg>ṉ</reg></choice>ṟāṭu kaṇkāṇi-y-oṭu I<supplied reason="omitted">p</supplied>paṭi
                     <lb n="16"/>c[[e]]<choice><orig>y</orig><reg>yy</reg></choice>a kaṭavē<choice><orig>n</orig><reg>ṉ</reg></choice> nā<choice><orig>n</orig><reg>ṉ</reg></choice>ē
                 </p>
                 
@@ -117,14 +117,29 @@
                         <rdg source="bib:Gillet2023_01"><hi rend="grantha"><unclear>san</unclear></hi>ti<unclear>y</unclear>iy</rdg>
                     </app>
                     <app loc="12">
+                        <lem><unclear>vi</unclear><supplied reason="lost">ḷa</supplied><unclear>k=ku</unclear><supplied reason="omitted">k</supplied>keṇṇai</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">vaḷakkeṇṇe<supplied reason="omitted">y</supplied></rdg>
+                        <rdg source="bib:Gillet2023_01"><unclear>vi</unclear><supplied reason="lost">ḷak</supplied>eṇṇai</rdg>
+                        </app>
+                    <app loc="12">
                         <lem>ne<choice><orig>yi</orig><reg>y</reg></choice>y<unclear>u</unclear>m</lem>
                         <rdg source="bib:SrinivasaRao1967_01">neyyum</rdg>
                         <rdg source="bib:Gillet2023_01">neyiyam</rdg>
                     </app>
+                    <app loc="13">
+                        <lem>ko<surplus><unclear>ṇ</unclear></surplus><unclear>ṇ</unclear>ṭu māṇi <gap reason="lost" quantity="1" unit="character"/> <unclear>ra</unclear>ṇṭu</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">koṇ<surplus>ṇa</surplus>ṭu māṇi yiraṇṭu</rdg>
+                        <rdg source="bib:Gillet2023_01">ko<unclear>ṇṇṭu</unclear> māṇi<unclear>ra</unclear>ṇṭu</rdg>
+                        </app>
                     <app loc="14">
                         <lem>Iṭa</lem>
                         <rdg source="bib:SrinivasaRao1967_01">Iṭak</rdg>
                         <rdg source="bib:Gillet2023_01">I <gap reason="lost" quantity="1" unit="character"/></rdg>
+                    </app>
+                    <app loc="15">
+                        <lem>Aṭaikkāy amu<supplied reason="subaudible">tu</supplied><lb n="15" />pattu</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">Aṭaikkayamu<lb n="15" break="no"/>tu pattu</rdg>
+                        <rdg source="bib:Gillet2023_01">Aṭaikkaya mu<lb n="15" break="no"/>pattu</rdg>
                     </app>
                     <app loc="15">
                         <lem>Iccu<supplied reason="omitted">ṭ</supplied><unclear>ṭa</unclear>pa<supplied reason="omitted">ṭ</supplied>ṭa</lem>
@@ -135,6 +150,11 @@
                         <lem>I<supplied reason="omitted">t</supplied>taṉaiyum</lem>
                         <rdg source="bib:SrinivasaRao1967_01">It<supplied reason="omitted">ta</supplied>ṉaiyum</rdg>
                         <rdg source="bib:Gillet2023_01">Itaḷaiyum</rdg>
+                    </app>
+                    <app loc="15">
+                        <lem>A<choice><orig>n</orig><reg>ṉ</reg></choice>ṟāṭu</lem>
+                        <rdg source="bib:SrinivasaRao1967_01">An<seg rend="check">ṟ</seg>āṭṭu</rdg>
+                        <rdg source="bib:Gillet2023_01">An<unclear>ṟā</unclear>ṭ<unclear >ṭu</unclear></rdg>
                     </app>
                     
                 </listApp>
@@ -183,21 +203,19 @@
                     I have to place for vegetable food offering <supplied reason="explanation"><foreign>kaṟiyamutu</foreign></supplied> with two <foreign>nāḻi</foreign>s of paddy everyday.
                 </p>
                 <p n="14-16">
-                    So that there be <supplied reason="subaudible"><foreign>āka</foreign></supplied> five arecanuts <supplied reason="explanation"><foreign>pākku</foreign></supplied> at the time of the two junctures, <supplied reason="subaudible">thus</supplied> ten arecanuts <supplied reason="explanation"><foreign>aṭaikkāy</foreign></supplied>,  
+                    <supplied reason="subaudible">For</supplied>
+                    the food offering of ten arecanuts <supplied reason="explanation"><foreign>aṭaikkāy</foreign></supplied>,  
+                    so that there be <supplied reason="subaudible"><foreign>āka</foreign></supplied> five arecanuts <supplied reason="explanation"><foreign>pākku</foreign></supplied> at the time of the two junctures, 
+                    <supplied reason="subaudible">and for</supplied>
+                    the food offering of betel leaves <supplied reason="explanation"><foreign>veṟṟilai</foreign></supplied> needed <supplied reason="explanation"><foreign>vēṇṭu</foreign></supplied>                    
+                     <supplied reason="subaudible">for</supplied> those <supplied reason="explanation"><foreign>ivai</foreign></supplied> dry ginger <supplied reason="explanation"><foreign>cukku</foreign></supplied>,
                     
-                    I, myself, have to do so <supplied reason="explanation"><foreign>ippaṭi ceyya kaṭavēṉ nāṉē</foreign></supplied>
-                    
-                    with the supervisors <supplied reason="explanation"><foreign>kaṇkāṇiyōṭu</foreign></supplied> of that day <supplied reason="explanation"><foreign>aṉṟāṭṭu</foreign></supplied> 
-                    
-                    <supplied reason="subaudible">for</supplied> that much <supplied reason="explanation"><foreign>ittaṉaiyum</foreign></supplied>
-                    designated <supplied reason="explanation"><foreign>iccuṭṭapaṭa</foreign>, that is, <foreign>iccuṭṭapaṭṭa</foreign></supplied> 
-                    
-                    betel <supplied reason="explanation"><foreign>veṟṟilai</foreign></supplied> food offering needed <supplied reason="explanation"><foreign>vēṇṭu</foreign></supplied>
-                    
-                    <supplied reason="subaudible">for</supplied> those <supplied reason="explanation"><foreign>ivai</foreign></supplied> thirty <supplied reason="explanation"><foreign>mūpattu</foreign></supplied> dry ginger <supplied reason="explanation"><foreign>cukku</foreign></supplied>.                                        
-                    
-                    
-                </p></div>
+                    I, myself, have to do<note>That is, provide.</note> in that manner <supplied reason="explanation"><foreign>ippaṭi ceyya kaṭavēṉ nāṉē</foreign></supplied>
+                    that much <supplied reason="explanation"><foreign>ittaṉaiyum</foreign></supplied>
+                    designated <supplied reason="explanation"><foreign>iccuṭṭappaṭṭa</foreign>, that is, <foreign>iccuṭṭapaṭṭa</foreign></supplied>,
+                    daily <supplied reason="explanation"><foreign>aṉṟāṭu</foreign></supplied>, along with the supervisors <supplied reason="explanation"><foreign>kaṇkāṇiyōṭu</foreign></supplied>. 
+                </p>
+            </div>
             
             <div type="commentary"/>
             
@@ -207,7 +225,7 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/172).</p>
                 <p>Edited in <bibl><ptr target="bib:SrinivasaRao1967_01"/></bibl> (<ref target="DHARMA_INSSIIv19p0i0358">SII 19.358</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2023_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2018</ref>).</p>
-                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+                <p>This revised digital edition and revised translation by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl n="SII">
