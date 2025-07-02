@@ -8,6 +8,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
+                <!--
+                    change [[abc]] = lost copared to SII.
+                    update translation
+                -->
                 <title>Kōvintapputtūr (Govindapputtūr), Gaṅgājaṭādhara temple, time of Rājakesarivarman, year 5</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
@@ -88,11 +92,11 @@
                 <p>                    
                     pori-k-kaṟi-y-amutu Oṉṟu puḻukku kaṟi-y-amu<unclear>tu</unclear>
                     <lb n="15"/><unclear>Oṉṟu</unclear>m Āka kaṟi-y-amutu Iraṇṭukku miḷakum kaṭuku ciraka<choice><orig>mm</orig><reg>m</reg></choice>u<supplied reason="subaudible">m</supplied> Uḷppaṭa nālu potaik <gap reason="lost" quantity="1" unit="character"/> <unclear>O?</unclear>
-                    <lb n="16"/>[[Or āṭ]]ṭai <unclear>nā</unclear>ḷaikku nellu Iru-patt' iru-kalaṉē tūṇ<unclear>i</unclear>-p patakk<unclear>u</unclear>m 
+                    <lb n="16"/>[[Or āṭ]]ṭai <unclear>nā</unclear>ḷaikku nellu Iru-patt' iru-kalaṉē tūṇ<unclear>i</unclear>-p patak=k<unclear>u</unclear>m 
                 </p>
                 
                 <p>                    
-                    ney-amutu <seg rend="check"><unclear>patu A</unclear></seg> <gap reason="lost" quantity="3" unit="character"/><!--EF: pōtuṅ-->
+                    ney-amutu p<unclear>ō</unclear><!--kāl clear-->tu Ā<unclear>ka</unclear> <gap reason="lost" quantity="3" unit="character"/>
                     <lb n="17"/>n<unclear>ā</unclear>lu pōtukku nicatam Urikku ne<supplied reason="omitted">llu</supplied>-p patakk' āka Or āṭṭai nā<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>aikku <unclear>ne</unclear>llu Aṟu-patiṉ <supplied reason="lost">kala</supplied><surplus>m</surplus>
                     <lb n="18" break="no"/>mu<supplied reason="subaudible">m</supplied>
                 </p>
@@ -159,12 +163,12 @@
                 </p>
                 <p>
                     tiru-no<choice><sic>t</sic><corr>n</corr></choice>tā-viḷakku Ai<space type="feature"/>ñciṉukku viḷakku<unclear>k</unclear>ku Oṉ<unclear>ṟu</unclear> nicata[[m]]
-                    <lb n="40"/>[[neyi Uḻakk' āka viḷakku]] nicatam ney<unclear>i</unclear><space type="feature"/><gap reason="lost" quantity="1" unit="character"/> nāḻi <seg rend="check">{unlegible}</seg>
-                    <lb n="41"/>m nellu <unclear>Ai</unclear>ṅ-kuṟuṇi y-āka Or āṭ[[ṭ]]ai nā<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>aikku <seg rend="check">nel<space type="feature"/>llu</seg> nuṟṟu <unclear>Ai</unclear>m-patiṉ kala<choice><orig>mm</orig><reg>m</reg></choice>u<supplied reason="subaudible">m</supplied>
+                    <lb n="40"/>[[neyi Uḻakk' āka viḷakku]] nicatam ney<surplus><unclear>i</unclear></surplus> <space type="feature"/> nāḻi <gap reason="lost" quantity="12" unit="character"/>
+                    <lb n="41"/>m nellu <unclear>Ai</unclear>ṅ-kuṟuṇi y-āka Or āṭ[[ṭ]]ai nā<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>aikku ne<space type="feature"/>llu nuṟṟu <unclear>Ai</unclear>m-patiṉ kala<choice><orig>mm</orig><reg>m</reg></choice>u<supplied reason="subaudible">m</supplied>
                 </p>
                 <p>                    
                     <lb n="42"/><hi rend="grantha">sandhi</hi>-viḷakku-c ciṟu-kālai y-eṭ<unclear>ṭu</unclear> Ucciyam-pō<space type="feature"/>tu Eṭṭu Iravaikku patiṉālum Āka
-                    <lb n="43"/>viḷakku mu-p-pati<unclear>ṉu</unclear>kku nicatam [[Eṇṇai nā]]ḻi muḻak<unclear>k</unclear>ē <space type="feature"/>
+                    <lb n="43"/>viḷakku mu-p-pati<unclear>ṉu</unclear>kku nicatam [[Eṇṇai nā]]ḻi <choice><sic>mu</sic><corr>U</corr></choice>ḻak<unclear>k</unclear>ē <space type="feature"/>
                 </p>
                 
             </div>
@@ -188,10 +192,17 @@
                         <rdg source="bib:Gillet2023_01"><unclear>I</unclear>ṟukkaṭa<unclear>va</unclear></rdg>
                     </app>
                     <app loc="11">
-                        <lem>Ain=t-iraṇṭu <unclear>vaṇṇattā</unclear>l </lem>
+                        <lem>Ain=tiraṇṭu <unclear>vaṇṇattā</unclear>l </lem>
                         <rdg source="bib:SrinivasaRao1952_01">Ain=tiraṇṭuvaṇṇattāl</rdg>
                         <rdg source="bib:Gillet2023_01"><hi rend="grantha">ja<unclear>nti</unclear></hi>raṇṭu <supplied reason="lost">vaṇṇattā</supplied>l</rdg>
                     </app>
+                    
+                    <app loc="16">
+                        <lem>ney-amutu p<unclear>ō</unclear><!--kāl clear-->tu Ā<unclear>ka</unclear> <gap reason="lost" quantity="3" unit="character"/></lem>
+                        <rdg source="bib:SrinivasaRao1952_01">ne<supplied reason="omitted">y</supplied>y amutu</rdg>
+                        <rdg source="bib:Gillet2023_01">ney-amutu <unclear>patu A</unclear> <gap reason="lost" quantity="3" unit="character"/></rdg>
+                    </app>
+                    
                     <app loc="17">
                         <lem><supplied reason="lost">kala</supplied><surplus>m</surplus><lb n="18" break="no"/>mu<supplied reason="subaudible">m</supplied> <supplied reason="lost">ta</supplied>yir-a<choice><sic>mm</sic><corr>m</corr></choice>utu</lem>
                         <rdg source="bib:SrinivasaRao1952_01">kala<lb n="18" break="no"/>mu<supplied reason="subaudible">m</supplied> tayir-amutu</rdg>
@@ -227,11 +238,23 @@
                     
                     <app loc="32">
                         <lem source="bib:SrinivasaRao1952_01"><gap reason="lost" quantity="3" unit="character"/> <unclear>kala</unclear><surplus><unclear>m</unclear></surplus><unclear>mu</unclear><supplied reason="omitted">m</supplied></lem>
-                        <note>The en of line is presntly illegible. Text after SII.</note>
+                        <note>The end of line is presently illegible. Text after SII.</note>
                     </app>
                     <app loc="35">
                         <lem source="bib:SrinivasaRao1952_01">Oṉṟāka</lem>
                         <rdg source="bib:Gillet2023_01">Oṉṟuka</rdg>
+                    </app>
+                    
+                    <app loc="40">
+                        <lem>nicatam ney<surplus><unclear>i</unclear></surplus> <space type="feature"/> nāḻi <gap reason="lost" quantity="12" unit="character"/></lem>
+                        <rdg source="bib:SrinivasaRao1952_01">nicatam neyi <gap reason="lost" quantity="3" unit="character"/></rdg>
+                        <rdg source="bib:Gillet2023_01">nicatam ney<unclear>i</unclear> <space type="feature"/><gap reason="lost" quantity="1" unit="character"/> nāḻi <gap reason="lost" extent="unknown" unit="character"/></rdg>
+                    </app>
+                    
+                    <app loc="41">
+                        <lem>ne<space type="feature"/>llu</lem>
+                        <rdg source="bib:SrinivasaRao1952_01">nellu</rdg>
+                        <rdg source="bib:Gillet2023_01">nel<space type="feature"/>llu</rdg>
                     </app>
                     
                 </listApp>
@@ -279,10 +302,10 @@
                 </p>
                 
                 <p n="37-39">
-                    For the garment for the bath of the idol <supplied reason="explanation"><foreign>jala-pavittrattukku</foreign></supplied>,
-                    so that there be per year, per day
-                    three clothes <supplied reason="explanation"><foreign>puṭavai</foreign></supplied>,
-                    so that there be for three clothes <supplied reason="explanation"><foreign>puṭavai</foreign></supplied> half a <foreign>kācu</foreign>,
+                    For the garment for the bath of the idol <supplied reason="explanation"><foreign>jala-pavitrattukku</foreign></supplied>,
+                    so that there be
+                    three clothes <supplied reason="explanation"><foreign>puṭavai</foreign></supplied> per year per day,
+                    so that there be half a <foreign>kācu</foreign> for three clothes <supplied reason="explanation"><foreign>puṭavai</foreign></supplied>,
                     for half a <foreign>kācu</foreign>
                     five <foreign>kalam</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.
                 </p>
@@ -304,8 +327,8 @@
                     and fourteen for the night,
                     <supplied reason="subaudible">thus</supplied> for tirthy lamps,
                     daily 
-                    one <foreign>nāḻi</foreign> and one <foreign>uḻakku</foreign> and of oil <supplied reason="explanation"><foreign>eṇṇai</foreign></supplied>
-                    <gap reason="ellipsis"> 
+                    one <foreign>nāḻi</foreign> and one <foreign>uḻakku</foreign> of oil <supplied reason="explanation"><foreign>eṇṇai</foreign></supplied>
+                    <gap reason="ellipsis"/> 
                     <supplied reason="subaudible">are provisioned</supplied>.
                 </p>
             </div>
