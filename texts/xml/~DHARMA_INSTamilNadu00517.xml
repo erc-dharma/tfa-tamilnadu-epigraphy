@@ -144,15 +144,15 @@
                 </p>
                 
                 <p>
-                    <lb n="33"/>t[[i]]runamani[[kai]] Or āṭṭai ṉā<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>aikku Ira<space type="feature"/>ṇṭ' āka Ira<supplied reason="omitted">ṇ</supplied>ṭinukku kā[[cu]] Onṟ[[iṉu]]kku ne
+                    <lb n="33"/>t[[i]]ru-namani[[kai]] Or āṭṭai ṉā<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>aikku Ira<space type="feature"/>ṇṭ' āka Ira<supplied reason="omitted">ṇ</supplied>ṭinukku kā[[cu]] Onṟ[[iṉu]]kku ne
                     <lb n="34" break="no"/>llu pati[[ṉ]] kala<choice><orig>mm</orig><reg>m</reg></choice>um
                 </p>
                 <p>
                     tiru-ma<unclear>l</unclear>lai kaṭ<space type="feature"/>ṭi Or āṭṭai nā<choice><orig>ḷ<unclear>ḷ</unclear></orig><reg>ḷ</reg></choice><unclear>ai</unclear>kku Iraṇṭ' āka I
-                    <lb n="35" break="no"/>raṇṭi<choice><orig>n</orig><reg>ṉ</reg></choice>uk[[ku k]]ācu Oṉṟ' āka kācu Oṉṟi<space type="feature"/>nukku nellu-p patiṉ kalamu[[m]]
+                    <lb n="35" break="no"/>raṇṭi<choice><orig>n</orig><reg>ṉ</reg></choice>uk[[ku k]]ācu Oṉṟ' āka kācu Oṉṟi<space type="feature"/>nukku nellu-p patiṉ kalamu<supplied reason="lost">m</supplied>
                 </p>
                 <p>                 
-                    <seg rend="check">ṉam</seg>
+                    ṉam
                     <lb n="36"/>Or āṭṭai n[[āḷ]]ḷaikku Iraṇṭ' āka Iraṇ<space type="feature"/>ṭi<choice><orig>n</orig><reg>ṉ</reg></choice>ukku-k kācu Oṉ[[ṟu]]-k kācu Oṉṟi<choice><orig>n</orig><reg>ṉ</reg></choice>u
                     <lb n="37" break="no"/>kku nel[[lu]]-p patiṉ kala<choice><orig>mm</orig><reg>m</reg></choice>u<supplied reason="omitted">m</supplied>
                 </p>
@@ -246,9 +246,15 @@
                         <lem source="bib:SrinivasaRao1952_01"><gap reason="lost" quantity="3" unit="character"/> <unclear>kala</unclear><surplus><unclear>m</unclear></surplus><unclear>mu</unclear><supplied reason="omitted">m</supplied></lem>
                         <note>The end of line is presently illegible. Text after SII.</note>
                     </app>
+                    
                     <app loc="35">
                         <lem source="bib:SrinivasaRao1952_01">Oṉṟāka</lem>
                         <rdg source="bib:Gillet2023_01">Oṉṟuka</rdg>
+                    </app>
+                                        
+                    <app loc="35">
+                        <lem source="bib:SrinivasaRao1952_01">kalamum</lem>
+                        <rdg source="bib:Gillet2023_01">kalamu<supplied reason="lost">m</supplied> ṉam</rdg>
                     </app>
                     
                     <app loc="40">
@@ -412,11 +418,10 @@
                     two
                     ...
                     per year per day
-                    for one <foreign>kācu</foreign>, as one <foreign>kācu</foreign> for two as two
+                    for one <foreign>kācu</foreign>, <seg rend="check">as one <foreign>kācu</foreign> for two as two</seg>,
                     ten <foreign>kalam</foreign>s of paddy                    
                     <supplied reason="subaudible">are provisioned</supplied>.
-                </p>
-                
+                </p>                
                 
                 <p n="37-39">
                     For the garment for the bath of the idol <supplied reason="explanation"><foreign>jala-pavitrattukku</foreign></supplied>,
@@ -430,9 +435,8 @@
                 <p n="39-41">
                     For five perpetual lamps, 
                     so that there be one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> daily for one lamp,
-                    so that there be five <foreign>kuṟuṇi</foreign>s of paddy <gap reason="lost" extent="unknown" unit="character"/> <foreign>nāḻi</foreign>s of <foreign>ghee</foreign> everyday for a lamp <supplied reason="explanation"><foreign>viḷakku</foreign></supplied>,
-                    per year, 
-                    for one day,
+                    so that there be five <foreign>kuṟuṇi</foreign>s of paddy <gap reason="lost" extent="unknown" unit="character"/> <foreign>nāḻi</foreign>s of <foreign>ghee</foreign> daily for a lamp <supplied reason="explanation"><foreign>viḷakku</foreign></supplied>,
+                    per year per day
                     hundred and fifty <foreign>kalam</foreign>s of paddy <supplied reason="subaudible">are provisioned</supplied>.
                 </p>
                 
