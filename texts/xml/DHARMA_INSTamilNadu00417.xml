@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pirāṉmalai, X temple, time of X, year X</title>
+                <title>Pirāṉmalai, Maṅkai Pākar, temple, time of Vīrapāṇḍya, year 3</title>
                 <respStmt>
                     <resp>intellectual authorship of edition</resp>
                     <persName ref="part:vija">
@@ -88,38 +88,40 @@
         
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
-                    <lb n="1"/>svasti śrī
+                <ab>		
+                    <lb n="1"/><hi rend="grantha">svast<unclear>i</unclear> śr<unclear>ī</unclear></hi>
                 </ab>
                 <p>
-                    kō-c-caṭaiya-paṉmar-āṉa tri-bhuvaṉa-c-cakkara-va<reg>r</reg>ttikaḷ śrī-vīra-pāṇṭiya-tēvarkku yāṇṭu mū
-                    <lb n="2" break="no"/>ṉṟ-āvatu kaṉṉa-nāyaṟṟu pūrva-pakṣattu saptamiyum tiṅkaṭ-kiḻamaiyum peṟṟa Aṉiḻattu nāḷ
-                    <lb n="3"/>tiru-malai-nāṭṭu tiru-k-koṭuṅ-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉār
-                    <lb n="4"/>kōyiṟ-tēvakaṉma-śrī-mākēcura-kaṇkāṇi cī-kāriyañ ceyvārkaḷ kōyiṟ-kaṇa
+                    kō-c-ca<unclear>ṭaiya-paṉmar-āṉa</unclear> <hi rend="grantha"><unclear>tri-bhu</unclear></hi><unclear>vaṉa-c-cakkara-va</unclear><reg>r</reg><unclear>ttikaḷ</unclear> <hi rend="bold"><unclear>śrī</unclear></hi>-<unclear>vīra-pāṇṭiya-tēvarkku yāṇṭu mū</unclear>
+                    <lb n="2" break="no"/>ṉṟ-āvatu kaṉṉa-nāyaṟṟu <hi rend="grantha">pūrvva-pakṣa</hi>ttu <hi rend="grantha">saptami</hi>yum tiṅkaṭ-k<unclear>i</unclear>ḻamaiyum peṟṟa Aṉiḻattu nāḷ
+                </p>
+                <p>                    
+                    <lb n="3"/>t<unclear>i</unclear>ru-malai-nāṭṭu tiru-k-koṭuṅ-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉā<supplied reason="lost">r</supplied>
+                    <lb n="4"/><unclear>k</unclear>ōyiṟ-tēvakaṉm<choice><sic>a</sic><corr>i</corr></choice>-śrī-mākēcura-kaṇkāṇi c<choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>-kāriyañ ceyvārkaḷ kōyiṟ-kaṇa
                     <lb n="5" break="no"/>kkarōm kēraḷa-ciṅka-vaḷanāṭṭu Aḷakāpuri-y-āṉa ceḻiya-nārāyaṇa-purattu maṇaṟkkuṭai
-                    <lb n="6" break="no"/>yāṉ poṟ-patikku nāyakaṉ tiru-v-ampala-p-perumāḷ-āṉa peruñvcatira-kupērar tiru-malai mē
+                    <lb n="6" break="no"/>yāṉ poṟ-patikku nāyakaṉ tiru-v-ampala-p-perumāḷ-āṉa peruñ-catirakupērar tiru-malai mē
                     <lb n="7" break="no"/>l Ivar Eḻunt-aruḷivitta nāyaṉār tiru-v-ampala-p-perumāḷukku tiru-p-paṭimāṟṟukkum tiru-mañ
                     <lb n="8" break="no"/>caṉam tiru-vi<unclear>ḷa</unclear>kku cāttu-p-paṭi pūccu-p paṭi Uḷḷiṭṭa viñcaṉaṅkaḷ Uṭaiyār tiru-k-koṭuṅ-kuṉ
-                    <lb n="9" break="no"	/>ṟam-uṭaiya nāyaṉār cī-paṇṭārattilē Āvaṇi-mātam 5-ñcān tiyati mutal vaḷaiyiṟ kā
-                    <lb n="10" break="no"/>lāl nāḷ oṉṟukku nā-ṉāḻi Ariciyum kaṟi-yamut' uḷḷiṭṭa viñcaṉamum paṇṭārattē ce
+                    <lb n="9" break="no"/><supplied reason="lost">ṟam-uṭaiya nāyaṉār ci-paṇṭārattilē Āvaṇi-mātam 5-ñcān tiyati mutal vaḷaiyiṟ kā</supplied>
+                    <lb n="10" break="no"/>lāl <supplied reason="lost">nāḷ</supplied> Oṉṟukku nā-ṉāḻi Ariciyum kaṟi-y-amut' uḷḷiṭṭa viñcaṉamum paṇṭārattē ce
                     <lb n="11" break="no"/>luttuvat' āka Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉārkku-t tiru-p-paṭi māṟṟukku nel
-                    <lb n="12"/>koḷḷa y-i-p-peruñ catirar kupērar pakkal vāṅkiṉa cōḻiya naṟ paḻaṅ kācu <num value="70">7 <g type="numeral">10</g></num> 
+                    <lb n="12"/>koḷḷa y-i-<unclear>p-pe</unclear>ruñ-catirakupērar pakkal vāṅkiṉa cōḻiya naṟ paḻaṅ kācu <num value="70">7 <g type="numeral">10</g></num> 
                 </p>
                 <p>
                     Ip-paḻaṅ k
-                    <lb n="13" break="no"/>ācu Eḻupatum mutal nīkki kai-k-koṇṭu <unclear>palakai</unclear>-t talaiyilē Ariciyum viñcaṉaṅ kaḷu
-                    <lb n="14" break="no"/>m celuttuvat' āka Ip-paṭi kalveṭṭi-k kuṭuttōm tēvakaṉmi cī-mākēcura-kaṇkāṇi
-                    <lb n="15"/>ceyvār cī-kāriyañ ceyvār kōyil-k-kaṇakkarōm
+                    <lb n="13" break="no"/>ācu Ēḻupatum mutal n<choice><orig>i</orig><reg>ī</reg></choice>kki kai-k-koṇṭu <unclear>palakai</unclear>-t talaiyilē Ariciyum viñcaṉaṅ kaḷu
+                    <lb n="14" break="no"/>m celuttuvat' āka Ip-paṭi kalveṭṭi-k kuṭuttōm tēva-kaṉmi c<choice><orig>i</orig><reg>ī</reg></choice>-mākēcura-kaṇkāṇi
+                    <lb n="15"/>ceyvār c<choice><orig>i</orig><reg>ī</reg></choice>-kāriyañ ceyvār kōyil-k-kaṇakkarōm
                     
                     <list>
                         <item>Ariḷi-c ceyal paṭi vināyaka-tēvar Eḻu
-                            <lb n="16"/>ttu</item>
-                        <item>	Ip-paṭikku paḻaṅ kācu Eḻupatukkum tēva-kaṉmi cuppiramaṇṇiya-paṭṭa-tirunāvaṟkk-ara
-                            <lb n="17" break="no"/>cu nāṟ-patt-eṇṇ-āyira-paṭṭaṉ Eḻuttu</item>
-                        <item>p-paṭikku tiru-malai-Uṭaiyāṉ tiru-k-kai-vēl
-                            <lb n="18"/>Aḻakiya <gap reason="lost" quantity="4" unit="character" precision="low"/> Eḻuttu</item>
+                            <lb n="16" break="no"/><supplied reason="lost">ttu</supplied></item>
+                        <item>	<supplied reason="lost">Ip-paṭikku</supplied> paḻaṅ kācu Ēḻupatukkum tēva-kaṉmi cuppiramaṇṇiya-paṭṭa-tirunāvaṟkk-ara
+                            <lb n="17" break="no"/>cu nāṟ-patt' eṇṇ-āyira-paṭṭaṉ Eḻuttu</item>
+                        <item>Ip-paṭikku tiru-malai-Uṭaiyāṉ tiru-k-kai-vēl
+                            <lb n="18"/>Aḻaki<supplied reason="lost">ya</supplied> <gap reason="lost" quantity="4" unit="character" precision="low"/> Eḻuttu</item>
                         <item>Ivai kōyil-kaṇakku <gap reason="lost" quantity="4" unit="character" precision="low"/> tiru-c-ciṟṟ-ampalam-u⌈
                             <lb n="19" break="no"/>ṭaiyāṉ Eḻut <gap reason="lost" quantity="1" unit="character" precision="low"/></item>
                     </list>
@@ -129,21 +131,18 @@
             <!--<div type="apparatus">
                 
                 <listApp>
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-                </app> 
+                    <app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01">...</rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+                    </app> 
                 </listApp>
                 
-                </div>-->
+            </div>-->
             
-            <div type="translation" resp="part:emfr">
+            <!--<div type="translation">
                 
-                <p n="1">
-                    ...
-                </p>
-                
-            </div>
+            </div>-->
             
             <!--<div type="commentary">
                 
@@ -153,13 +152,17 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/144).</p>
                 
-                <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 17), with photos.</p>
+                <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.432), in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 17), with photos.</p>
                 
-                <p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
+                <p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy). Lines 1 and 9 and other letters not any more legible, after <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>.</p>
                 
                 <listBibl type="primary">
                     
-                    <!--+ SII 8.432-->
+                    <bibl n="SII">
+                        <ptr target="bib:SubrahmanyaAiyer1937_01"/>
+                        <citedRange unit="page">226</citedRange>
+                        <citedRange unit="item">432</citedRange>
+                    </bibl>
                     
                     <bibl n="V">
                         <ptr target="bib:Vijayavenugopal2022_01"/>
