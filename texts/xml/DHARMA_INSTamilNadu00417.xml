@@ -80,8 +80,8 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
-                repository</change>
+            <change who="part:emfr" when="2025-07-12" status="draft">Revision</change>
+            <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the repository</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -95,50 +95,67 @@
                 </ab>
                 <p>
                     kō-c-ca<unclear>ṭaiya-paṉmar-āṉa</unclear> <hi rend="grantha"><unclear>tri-bhu</unclear></hi><unclear>vaṉa-c-cakkara-va</unclear><reg>r</reg><unclear>ttikaḷ</unclear> <hi rend="bold"><unclear>śrī</unclear></hi>-<unclear>vīra-pāṇṭiya-tēvarkku yāṇṭu mū</unclear>
-                    <lb n="2" break="no"/>ṉṟ-āvatu kaṉṉa-nāyaṟṟu <hi rend="grantha">pūrvva-pakṣa</hi>ttu <hi rend="grantha">saptami</hi>yum tiṅkaṭ-k<unclear>i</unclear>ḻamaiyum peṟṟa Aṉiḻattu nāḷ
+                    <lb n="2" break="no"/>ṉṟ-āvatu kaṉṉa-nāyaṟṟu <hi rend="grantha">pūrvva-pa<unclear>kṣa</unclear></hi><unclear>t</unclear>tu <hi rend="grantha"><unclear>sa</unclear>ptami</hi>yum tiṅkaṭ-k<unclear>i</unclear>ḻamaiyum peṟṟa Aṉiḻattu nāḷ
                 </p>
                 <p>                    
-                    <lb n="3"/>t<unclear>i</unclear>ru-malai-nāṭṭu tiru-k-koṭuṅ-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉā<supplied reason="lost">r</supplied>
-                    <lb n="4"/><unclear>k</unclear>ōyiṟ-tēvakaṉm<choice><sic>a</sic><corr>i</corr></choice>-śrī-mākēcura-kaṇkāṇi c<choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>-kāriyañ ceyvārkaḷ kōyiṟ-kaṇa
-                    <lb n="5" break="no"/>kkarōm kēraḷa-ciṅka-vaḷanāṭṭu Aḷakāpuri-y-āṉa ceḻiya-nārāyaṇa-purattu maṇaṟkkuṭai
-                    <lb n="6" break="no"/>yāṉ poṟ-patikku nāyakaṉ tiru-v-ampala-p-perumāḷ-āṉa peruñ-catirakupērar tiru-malai mē
-                    <lb n="7" break="no"/>l Ivar Eḻunt-aruḷivitta nāyaṉār tiru-v-ampala-p-perumāḷukku tiru-p-paṭimāṟṟukkum tiru-mañ
-                    <lb n="8" break="no"/>caṉam tiru-vi<unclear>ḷa</unclear>kku cāttu-p-paṭi pūccu-p paṭi Uḷḷiṭṭa viñcaṉaṅkaḷ Uṭaiyār tiru-k-koṭuṅ-kuṉ
-                    <lb n="9" break="no"/><supplied reason="lost">ṟam-uṭaiya nāyaṉār ci-paṇṭārattilē Āvaṇi-mātam 5-ñcān tiyati mutal vaḷaiyiṟ kā</supplied>
-                    <lb n="10" break="no"/>lāl <supplied reason="lost">nāḷ</supplied> Oṉṟukku nā-ṉāḻi Ariciyum kaṟi-y-amut' uḷḷiṭṭa viñcaṉamum paṇṭārattē ce
-                    <lb n="11" break="no"/>luttuvat' āka Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉārkku-t tiru-p-paṭi māṟṟukku nel
-                    <lb n="12"/>koḷḷa y-i-<unclear>p-pe</unclear>ruñ-catirakupērar pakkal vāṅkiṉa cōḻiya naṟ paḻaṅ kācu <num value="70">7 <g type="numeral">10</g></num> 
+                    <lb n="3"/>t<unclear>i</unclear>ru-malai-nāṭṭu tiru-k-koṭuṅ-kuṉṟat<supplied reason="lost">tu</supplied> Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉā<unclear>r</unclear>
+                    <lb n="4" break="no"/>-<unclear reason="eccentric_ductus">k</unclear>ōyiṟ tēvakaṉm<choice><sic>a</sic><corr>i</corr></choice> śrī-mākēcura-<supplied reason="lost">ka</supplied>ṇkāṇi c<choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>-kāriyañ ceyvā=rkaḷ kōyiṟ-ka<unclear>ṇa</unclear>
+                    <lb n="5" break="no"/>kkar=ōm kēraḷa-c<unclear>i</unclear>ṅka-vaḷanāṭṭu A<supplied reason="lost">ḷak</supplied>āpuri-y-āṉa ceḻiya-nār=āyaṇa-purattu maṇaṟkku<supplied reason="lost">ṭ</supplied>ai
+                    <lb n="6" break="no"/>yāṉ poṟ-patikku nāyakaṉ tiru-v-am<unclear>pala</unclear>-p-perumāḷ-āṉa peruñ-catirakupēra=r tiru-malai <supplied reason="lost">m</supplied>ē
+                    <lb n="7" break="no"/>l Ivar Eḻunt-aruḷivitta nāyaṉār tiru-<unclear>v-a</unclear><supplied reason="lost">m</supplied>pala-p-perumāḷukku tiru-p-paṭimāṟṟukkum tiru-ma<supplied reason="lost">ñ</supplied>
+                    <lb n="8" break="no"/>caṉam tiru-vi<supplied reason="omitted">ḷa</supplied>kku cātt<unclear>u</unclear>-paṭi p<unclear>ū</unclear>ccu-p paṭi <unclear>Uḷḷiṭṭa viñcaṉaṅkaḷ Uṭaiyār tiru-k-koṭuṅ-kuṉ</unclear>
+                    <lb n="9" break="no"/><supplied reason="lost">ṟam-uṭaiya nāyaṉār c<choice><sic>i</sic><corr>ī</corr></choice>-paṇṭārattilē Āvaṇi-mātam 5-ñcān tiyati mutal vaḷaiyiṟ kā</supplied>
+                    <lb n="10" break="no"/>lāl <supplied reason="lost">nāḷ</supplied> Oṉṟukku <supplied reason="lost">nā-ṉā</supplied>ḻi Ariciyum kaṟi-y-amut' uḷḷiṭṭa viñcaṉamum <supplied reason="lost">pa</supplied>ṇṭā=rattē ce
+                    <lb n="11" break="no"/>luttuvat' ā<supplied reason="lost">ka</supplied> Uṭai<supplied reason="lost">yār</supplied> <unclear>tiru</unclear>-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉārkku-t tiru-p-<supplied reason="lost">pa</supplied>ṭimāṟṟu<supplied reason="omitted">k</supplied>ku nel
+                    <lb n="12"/>koḷḷa y-i-<unclear>p-pe</unclear>ruñ-catiraku<unclear>p</unclear>ēra=r pakkal vāṅki<unclear>ṉa</unclear> cō<supplied reason="lost">ḻ</supplied>iya naṟ paḻaṅ kācu <num value="70"><supplied reason="lost">7</supplied> <g type="numeral">10</g></num> 
                 </p>
                 <p>
                     Ip-paḻaṅ k
-                    <lb n="13" break="no"/>ācu Ēḻupatum mutal n<choice><orig>i</orig><reg>ī</reg></choice>kki kai-k-koṇṭu <unclear>palakai</unclear>-t talaiyilē Ariciyum viñcaṉaṅ kaḷu
-                    <lb n="14" break="no"/>m celuttuvat' āka Ip-paṭi kalveṭṭi-k kuṭuttōm tēva-kaṉmi c<choice><orig>i</orig><reg>ī</reg></choice>-mākēcura-kaṇkāṇi
-                    <lb n="15"/>ceyvār c<choice><orig>i</orig><reg>ī</reg></choice>-kāriyañ ceyvār kōyil-k-kaṇakkarōm
+                    <lb n="13" break="no"/>ācu Ēḻupatu<unclear>m</unclear> <supplied reason="lost">muta</supplied>l n<choice><orig>i</orig><reg>ī</reg></choice>kki kai-k-koṇṭu <supplied reason="lost">palakai</supplied>-t talaiyilē Ari<unclear>ci</unclear>yum <unclear>v</unclear>iñcaṉaṅkaḷu
+                    <lb n="14" break="no"/>m celuttu<supplied reason="lost">vat' āka Ip</supplied>-paṭi kalveṭṭi-k kuṭu<unclear>t</unclear><supplied reason="lost"></supplied>t<unclear>ō</unclear><supplied reason="lost">m</supplied> tēva-kaṉmi c<choice><orig>i</orig><reg>ī</reg></choice>-mākē<supplied reason="lost">cu</supplied>ra-kaṇkāṇi
+                    <lb n="15"/>ce<supplied reason="omitted">y</supplied>vār c<choice><orig>i</orig><reg>ī</reg></choice>-kā<supplied reason="lost">riyañ</supplied> <unclear>ce</unclear><supplied reason="omitted">y</supplied>vā=r kōyil-k-kaṇakkar=ōm
                     
                     <list>
-                        <item>Ariḷi-c ceyal paṭi vināyaka-tēvar Eḻu
-                            <lb n="16" break="no"/><supplied reason="lost">ttu</supplied></item>
-                        <item>	<supplied reason="lost">Ip-paṭikku</supplied> paḻaṅ kācu Ēḻupatukkum tēva-kaṉmi cuppiramaṇṇiya-paṭṭa-tirunāvaṟkk-ara
-                            <lb n="17" break="no"/>cu nāṟ-patt' eṇṇ-āyira-paṭṭaṉ Eḻuttu</item>
-                        <item>Ip-paṭikku tiru-malai-Uṭaiyāṉ tiru-k-kai-vēl
-                            <lb n="18"/>Aḻaki<supplied reason="lost">ya</supplied> <gap reason="lost" quantity="4" unit="character" precision="low"/> Eḻuttu</item>
-                        <item>Ivai kōyil-kaṇakku <gap reason="lost" quantity="4" unit="character" precision="low"/> tiru-c-ciṟṟ-ampalam-u⌈
-                            <lb n="19" break="no"/>ṭaiyāṉ Eḻut <gap reason="lost" quantity="1" unit="character" precision="low"/></item>
+                        <item>A<unclear>riḷi</unclear> ceyal paṭi v<unclear>i</unclear>n<supplied reason="lost">ā</supplied>yaka-tēvar Eḻu
+                            <lb n="16" break="no"/><unclear>ttu</unclear></item>
+                        <item>	<unclear>Ip-paṭik</unclear>ku paḻaṅ <unclear>kācu Ē</unclear><supplied reason="lost">ḻupatu</supplied>kkum <unclear>tēva-ka</unclear><supplied reason="lost">ṉmi cuppirama</supplied><unclear>ṇ</unclear><supplied reason="lost">ṇiya-paṭṭa-ti</supplied><unclear>ru</unclear>nāvaṟkk-ara
+                            <lb n="17" break="no"/><supplied reason="lost">cu nāṟ-pat</supplied>t' <supplied reason="lost">e</supplied><unclear>ṇṇ-āyira</unclear>-<supplied reason="lost">paṭṭaṉ Eḻuttu</supplied></item>
+                        <item><supplied reason="lost">Ip-paṭikku tiru-malai-Uṭaiyāṉ</supplied> t<supplied reason="lost">i</supplied>ru-k-<supplied reason="lost">k</supplied>ai-<unclear>vēl</unclear>
+                            <lb n="18"/>Aḻaki<supplied reason="lost">ya</supplied> <gap reason="lost" quantity="2" unit="character" precision="low"/> <supplied reason="lost">E</supplied>ḻuttu</item>
+                        <item>Ivai kōyil-kaṇakku <gap reason="lost" quantity="8" unit="character" precision="low"/> <supplied reason="lost">ti</supplied>ru-c-ci<unclear>ṟṟ-a</unclear>mpalam-u⌈
+                            <lb n="19" break="no"/>ṭaiyāṉ <supplied reason="lost">Eḻuttu</supplied></item>
                     </list>
                 </p>
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                    <app loc="0">
+                    <!--<app loc="0">
                         <lem>...</lem>
                         <rdg source="bib:SubrahmanyaAiyer1937_01">...</rdg>
                         <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+                    </app>-->
+                    <app loc="4">
+                        <lem><unclear reason="eccentric_ductus">k</unclear>ōyiṟ</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01"><unclear>k</unclear>oyiṟ</rdg>
+                        <!--<rdg source="bib:Vijayavenugopal2022_01">...</rdg>-->
+                        <note>The <foreign>k</foreign> looks like a <foreign>kāl</foreign>.</note>
                     </app> 
+                    <app loc="11">
+                        <lem>°māṟṟu<supplied reason="omitted">k</supplied>ku</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01">°māṟṟuk<supplied reason="omitted">ku</supplied></rdg>
+                        <!--<rdg source="bib:Vijayavenugopal2022_01">...</rdg>-->
+                    </app>
+                    <app loc="15">
+                        <lem>A<unclear>riḷi</unclear> ceyal</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01">Ariḷi<supplied reason="omitted">c</supplied> ceyal</rdg>
+                        <!--<rdg source="bib:Vijayavenugopal2022_01">...</rdg>-->
+                    </app>
+                    
                 </listApp>
                 
-            </div>-->
+            </div>
             
             <!--<div type="translation">
                 
@@ -152,9 +169,9 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/144).</p>
                 
-                <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.432), in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 17), with photos.</p>
+                <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (<ref target="DHARMA_INSSIIv08p0i0432.xml">SII 8.432</ref>), in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 17), with photos.</p>
                 
-                <p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy). Lines 1 and 9 and other letters not any more legible; text after <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>.</p>
+                <p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy). Many letters not any more legible compared to <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl>; included here after <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> but marked as unclear or lost.</p>
                 
                 <listBibl type="primary">
                     
