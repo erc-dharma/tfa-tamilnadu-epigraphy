@@ -80,7 +80,7 @@
                 <p>
                     kō-p
                     <lb n="15" break="no"/>-para-kēcari-paṉmar-āṉa <hi rend="grantha">śrī-rajentra</hi>-<hi rend="grantha"><unclear>co</unclear></hi>
-                    <lb n="16" break="no"/><hi rend="grantha"><supplied reason="lost">ḷa</supplied>-de</hi>varkku yāṇṭu <unclear reason="eccentric_ductus">5</unclear>-Āvatu vaṭa-ka⌈
+                    <lb n="16" break="no"/><hi rend="grantha"><unclear>ḷa</unclear>-de</hi>varkku yāṇṭu <unclear reason="eccentric_ductus">5</unclear>-Āvatu vaṭa-ka⌈
                     <lb n="17" break="no"/>rai-<hi rend="grantha">rājentra-si</hi><hi rend="grantha"><unclear>ṃ</unclear></hi><hi rend="grantha">ha</hi>-vaḷanāṭṭu Iru<supplied reason="omitted">ṅ</supplied>ko<unclear>ḷa</unclear>
                     <lb n="18" break="no"/>-p-pāṭi-p paruvūr-k-kūṟṟattu neṟkup
                     <lb n="19" break="no"/>pai-t tiru-mutu-kuṉṟam-uṭ<unclear>ai</unclear>ya <hi rend="grantha">mahā</hi>
@@ -94,18 +94,76 @@
                      <unclear>Ip-po</unclear>
                     <lb n="25" break="no"/><unclear>ṉ</unclear> patiṉ kaḻañcum poli-y-aṭṭ-ā<unclear>ka</unclear> <gap reason="lost" quantity="2" unit="character"/> 
                     <lb n="26" break="no"/>ṇṭu ni<unclear>cata</unclear>m Uḻakku ney <gap reason="lost" quantity="6" unit="character"/> 
-                    <lb n="27" break="no"/><unclear>ṉṟu</unclear> <gap reason="lost" quantity="2" unit="character"/> <unclear>ṭṭa</unclear>-k kaṭavaṉ-ē-y Eḻuṉā <gap reason="lost" quantity="4" unit="character"/> 
-                    <lb n="28" break="no"/>ṉi <gap reason="lost" quantity="4" unit="character"/> ṉṟu <gap reason="lost" quantity="1" unit="character"/> cāma <gap reason="lost" quantity="4" unit="character"/> 
+                    <lb n="27" break="no"/><unclear>ṉṟu</unclear> <gap reason="lost" quantity="2" unit="character"/> <unclear>ṭṭa</unclear>-k kaṭavaṉ-ē-y Ēḻu ṉā<unclear>ḻi</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>kā</unclear>
+                    <lb n="28" break="no"/>ṉi <gap reason="lost" quantity="4" unit="character"/> <unclear>O</unclear>ṉṟu <gap reason="lost" quantity="1" unit="character"/> <unclear>cā</unclear>m Ai <gap reason="lost" quantity="3" unit="character"/> 
                     <lb n="29"/><gap reason="lost" quantity="6" unit="character"/>
                 </p>
                 <p>
-                    <unclear>Itu</unclear>                 
-                    pa<hi rend="grantha">nmāheśvara-<unclear>rakṣai</unclear></hi>
+                    <unclear>Itu</unclear> pa<hi rend="grantha">nmāheśvara-<unclear>rakṣai</unclear></hi>
                 </p>
                 
             </div>
             
-            <div type="apparatus"/>
+            <div type="apparatus">
+                <listApp>
+                    
+                    <app loc="20">
+                        <lem><hi rend="grantha">de</hi><lb n="21" break="no"/><unclear>vi</unclear><supplied reason="lost">yār</supplied>
+                        </lem>
+                        <rdg source="bib:Gillet2024_01"><hi rend="grantha">de</hi><lb n="21" break="no"/><unclear>vi</unclear><gap reason="lost" quantity="2" unit="character"/></rdg>
+                    </app>
+                    
+                    <app loc="21">
+                        <lem><supplied reason="lost">pa</supplied>ḻuvēṭṭarai<unclear>yar</unclear></lem>
+                        <rdg source="bib:Gillet2024_01"><gap reason="lost" quantity="1" unit="character"/>ḻuveṭṭarai<gap reason="lost" quantity="2" unit="character"/></rdg>
+                    </app>
+                    
+                    <app loc="21">
+                        <lem><unclear>makaḷār</unclear></lem>
+                        <rdg source="bib:Gillet2024_01"><unclear>makaḷā</unclear> <gap reason="lost" quantity="1" unit="character"/></rdg>
+                    </app>
+                    
+                    <app loc="22">
+                        <lem>v<choice><sic>a</sic><corr>ai</corr></choice>tta</lem>
+                        <rdg source="bib:Gillet2024_01">vat <gap reason="lost" quantity="1" unit="character"/></rdg>
+                    </app>
+                    
+                    <app loc="22">
+                        <lem>tirun<supplied reason="lost">ont</supplied>ā°</lem>
+                        <rdg source="bib:Gillet2024_01">tirun <gap reason="lost" quantity="1" unit="character"/></rdg>
+                    </app>
+                    
+                    <app loc="24">
+                        <lem><unclear>Ip-po</unclear><lb n="25" break="no"/><unclear>ṉ</unclear></lem>
+                        <rdg source="bib:Gillet2024_01"><gap reason="lost" quantity="3" unit="character"/><lb n="25"/><gap reason="lost" quantity="1" unit="character"/></rdg>
+                    </app>
+                    
+                    <app loc="26">
+                        <lem>ni<unclear>cata</unclear>m</lem>
+                        <rdg source="bib:Gillet2024_01">ni <gap reason="lost" quantity="2" unit="character"/> m</rdg>
+                    </app>
+                    
+                    <app loc="27">
+                        <lem><unclear>ṉṟu</unclear> <gap reason="lost" quantity="2" unit="character"/> <unclear>ṭṭa</unclear>k kaṭavaṉēy Ēḻu ṉā<unclear>ḻi</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>kā</unclear></lem>
+                        <rdg source="bib:Gillet2024_01"><unclear>ṉṟu</unclear> <gap reason="lost" quantity="3" unit="character"/> kkaṭavaṉey Eḻuṉā <gap reason="lost" quantity="4" unit="character"/></rdg>
+                    </app>
+                    
+                    <app loc="28">
+                        <lem><unclear>O</unclear>ṉṟu <gap reason="lost" quantity="1" unit="character"/> <unclear>cā</unclear>m Ai <gap reason="lost" quantity="3" unit="character"/></lem>
+                        <rdg source="bib:Gillet2024_01"><gap reason="lost" quantity="1" unit="character"/> ṉṟu <gap reason="lost" quantity="1" unit="character"/> cāma <gap reason="lost" quantity="4" unit="character"/></rdg>                        
+                    </app>
+                    
+                    <app loc="29">
+                        <lem><unclear>Itu</unclear> pa<hi rend="grantha">nmāheśvara<unclear>rakṣai</unclear></hi></lem>
+                        <rdg source="bib:Gillet2024_01"><gap reason="lost" quantity="2" unit="character"/> pa<hi rend="grantha">nmāheśvara</hi> <gap reason="lost" quantity="2" unit="character"/></rdg>
+                    </app>
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Gillet2024_01"></rdg>
+                    </app>
+                </listApp>
+            </div>
             
             
             
@@ -114,7 +172,7 @@
                 <p n="1">Fortune! Prosperity!</p>
                 <p n="1-14">[<foreign>meykkīrtti</foreign> of Rājendra I Cōla]</p> 
                 <p><supplied reason="subaudible">This is the</supplied> 5th year of Kōpparakesarivarman alias Śrī Rājendracō<supplied reason="lost">ḻa</supplied>devar.</p>
-                <p n="15-16">For Mahādeva who possesses/of <supplied reason="explanation"><foreign>uṭaiya</foreign></supplied> Tirumutukuṉṟam in Neṟkuppai in Paruvūrkkūṟṟam of Iruṅkoḷappaṭi of Rājendrasiṃhavaḷanāṭu on the northern bank <supplied reason="explanation"><foreign>vaṭakarai</foreign></supplied>, the wife/queen <supplied reason="explanation"><foreign>devi</foreign><supplied reason="lost"><foreign>yār</foreign></supplied></supplied> of Muññai Vallavaraiyar, daughter <supplied reason="explanation"><foreign>makaḷār</foreign></supplied> of the Paḻuvēṭṭaraiyar, <gap reason="lost" extent="unknown" unit="character"/> Tēvaṭikaḷār <supplied reason="lost">gave</supplied> for one <supplied reason="lost">perpetual</supplied> lamp <supplied reason="explanation"><foreign>tirun<supplied reason="lost">ont</supplied>ā viḷakk' oṉṟukku</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> ten <foreign>kaḻañcu</foreign>s of gold taken <supplied reason="explanation"><foreign>koṇṭa</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/>
+                <p n="15-16">For Mahādeva who possesses/of <supplied reason="explanation"><foreign>uṭaiya</foreign></supplied> Tirumutukuṉṟam in Neṟkuppai in Paruvūrkkūṟṟam of Iruṅkoḷappāṭi of Rājendrasiṃhavaḷanāṭu on the northern bank <supplied reason="explanation"><foreign>vaṭakarai</foreign></supplied>, the wife/queen <supplied reason="explanation"><foreign>devi</foreign><supplied reason="lost"><foreign>yār</foreign></supplied></supplied> of Muññai Vallavaraiyar, daughter <supplied reason="explanation"><foreign>makaḷār</foreign></supplied> of the Paḻuvēṭṭaraiyar, <gap reason="lost" extent="unknown" unit="character"/> Tēvaṭikaḷār <supplied reason="lost">gave</supplied> for one <supplied reason="lost">perpetual</supplied> lamp <supplied reason="explanation"><foreign>tirun<supplied reason="lost">ont</supplied>ā viḷakk' oṉṟukku</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> ten <foreign>kaḻañcu</foreign>s of gold taken <supplied reason="explanation"><foreign>koṇṭa</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
                 <p n="25-29">
                     <gap reason="lost" extent="unknown" unit="character"/> ten <supplied reason="explanation"><foreign>patiṉ</foreign></supplied> <foreign>kaḻañcu</foreign>s <gap reason="lost" extent="unknown" unit="character"/> one <foreign>uḻakku</foreign> of <foreign>ghee</foreign> <supplied reason="explanation"><foreign>ney</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/>. 
@@ -131,11 +189,11 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1917-1918"/></bibl> (ARIE/1917-1918/C/1918/39).</p>
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on photographs (provided by N. Cane).</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on photographs (kindly provided by N. Cane).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
-                    <bibl>
+                    <bibl n="G">
                         <ptr target="bib:Gillet2024_01"/>
                         <citedRange unit="page">271-272</citedRange>
                         <citedRange unit="item">149</citedRange>
