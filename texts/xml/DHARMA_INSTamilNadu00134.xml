@@ -5,210 +5,210 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Kōpperu<supplied reason="lost">ñciṅkaṉ</supplied>, year 11</title>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:vija">
-						<forename>G.</forename>
-						<surname>Vijayavenugopal</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00134</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the repository</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-
-<body>
-         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī <g type="undefined">.</g><!--visarga followed by piḷḷaiyār cuḻ-->
-	</ab>	
-	
-	<p>
-		cakala-puvaṉa-c-cakkara-va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-Avaṉiyāḷa-p piṟantāṉ kō-p-peru
-		<gap reason="lost" extent="unknown" unit="character"/>
-		vaṟkku yāṇṭu <num value="11"><g type="numeral">10</g> 1</num>-Āvatu mīṉa-nāyaṟṟu-p pū<hi rend="grantha">rvva-pakṣa</hi>ttu-p pañca<hi rend="grantha">daśi</hi>yum cevvāy-k-kiḻamaiyum peṟṟa
-		
-		<lb n="2"/>Uttirattu nāḷ
-	</p>
-	<p>		
-		Uyya-k-koṇṭār vaḷa-nāṭṭu muḻaiyūr-nāṭṭu Uṭaiyār tiru-naḷḷā
-		<gap reason="lost" extent="unknown" unit="character"/>
-		viruta-rāya-payaṅkara-vaḷa-nāṭṭu mēṟkāl-nāṭṭu Erukkattampuliyūr-āṉa Irācēntira-cōḻa-purattu neṉmali
-		
-		<lb n="3" break="no"/>y-uṭaiyāṉ tēvaṉ celvāṇṭāṉ taṉakku naṉṟāka-t taṉ pērāl ceykiṟa celvā
-		<gap reason="lost" extent="unknown" unit="character"/>
-		tavaṉamuñ ceyya Uyya-k-koṇṭār-vaḷa-nāṭṭu-p putta-k-kuṭiyil koṇṭu viṭṭa nattattu Āṭṭai-t tiru-nāḷil a
-		
-		<lb n="4"/>ñcān tiru-p-pavaṉiyum tīrtta-t tiru-nāḷum Ēṟi y-aruḷa-c ceyta tiru-maṇṭapam n<choice><orig>i</orig><reg>ī</reg></choice>kki  n<choice><orig>i</orig><reg>ī</reg></choice>kki Uḷḷ
-		<gap reason="lost" extent="unknown" unit="character"/>
-		tiru-p-paḷḷi-t-tāmamum teṅku palā Uḷḷiṭṭa maraṅkaḷum ākkukiṟa tiru-t-toṇṭar kūmūr-uṭaiyār Īcāṉa-tēvaṟ
-		
-		<lb n="5" break="no"/>kum Ivar cantāṉattu-t tiru-t-toṇṭarkaḷukkum <hi rend="grantha">jī</hi>vaṉattu-k kuṭal-āka-k <unclear>kāṇṭi</unclear> <gap reason="lost" quantity="3" unit="character"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		ā mattāl Inta-c celvāṇṭāṉ <hi rend="grantha">pra</hi>yākai-t tiru-viṭai-marut-uṭaiyāṉ paṭṭaṉ pakkalum vilai-koṇ
-		
-		<lb n="6" break="no"/><supplied reason="lost">ṭu ve</supplied>ṇkāṭu tēvaṉ Iruppu <g type="nilam"/> <num value="0.325">1/4 1/20 1/40</num>-m pāṭakattu mā-tēva-paṭṭaṉ pakkal <gap reason="lost" quantity="3" unit="character"/>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		m pāṭakattu-t tiru-naḷḷāṟ-uṭaiyāṉ paṭṭaṉ pakkalum kā<hi rend="grantha">śya</hi>paṉ kulōttuṅka-cōḻa-paṭṭaṉ pakkalum vilai-ko
-		
-		<lb n="7" break="no"/><supplied reason="lost">ṇṭa</supplied> <gap reason="lost" quantity="2" unit="character"/> rāyaṅkuṭaiyāṉ Iruppu Ūṟṟu-k kēṇiyum kaṭipa
-		<gap reason="lost" extent="unknown" unit="character"/>
-		Ivaṉ pakkalukku me
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<unclear>ṭi</unclear>yāṉ pakkal vilai-koṇṭa cūvar Aṭi <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num>-m Āka <g type="nilam"/> <num value="1.066">1  1/40  3/80  1/320</num>
-		
-	</p>
-	<p>
-		In-nilam Oṉṟē Arai-mā v-a ⌈
-		<lb n="8" break="no"/><supplied reason="lost">rai-k-kā</supplied>ṇi muntirikaiyum Ūr māvinta kaṭamai kuṭimai Iṟuttu
-		<gap reason="lost" extent="unknown" unit="character"/>
-		koṇṭu <gap reason="lost" quantity="1" unit="character"/> 
-		<gap reason="lost" extent="unknown" unit="character"/>
-		<supplied reason="lost">It-tēvaṟ</supplied>ku-p piṉpum Ivar cantāṉattil Uḷḷār It-tiru-nanta-vaṉañ ceytu In-nilaṅ kāṇi-y-āka <choice><sic>vu</sic><corr>A</corr></choice>ṉupavikka-k kaṭavarkaḷ āka In
-		<lb n="9" break="no"/>-<supplied reason="lost">neṉma</supplied>li Uṭaiyāṉ tēvaṉ celvā<unclear>ṇṭāṉ</unclear>		<gap reason="lost" quantity="5" unit="character"/>
-		<unclear>ṅkaḷ O</unclear>
-		<gap reason="lost" extent="unknown" unit="character"/>
-		vē
-		<gap reason="lost" extent="unknown" unit="character"/>	
-	</p>
-</div>
-	
-<!--<div type="apparatus">
-           
-	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">...</rdg>
-		</app> 
-	</listApp>	
-	
-</div>-->
-      	
-<div type="translation" resp="part:emfr">
-      		
-	<p n="1">Prosperity! Fortune!</p>	
-	
-</div>
-      	
-<!--<div type="commentary">
-      		
-</div>-->
-      	
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1965-1966"/></bibl> (ARIE/1965-1966/B/1965-1966/456).</p>
-	
-	<p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 483); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 34), with photos. Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 483).</p>
-	
-	<p>This edition by G. Vijayavenugopal (2019). Curated by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016).</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="K+V">
-			<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
-			<citedRange unit="item">483</citedRange>
-			<citedRange unit="page">TBC</citedRange>
-		</bibl>
-		
-		<bibl n="K+al">
-			<ptr target="bib:Kuppusamy+al2010_01"/>
-			<citedRange unit="item">483</citedRange>
-			<citedRange unit="page">TBC</citedRange>
-		</bibl>
-		
-		<bibl n="V">
-			<ptr target="bib:Vijayavenugopal2017_01"/>
-			<citedRange unit="item">34</citedRange>
-			<citedRange unit="page">90-91</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1965-1966"/>
-			<citedRange unit="page">89</citedRange>
-			<citedRange unit="appendix">B/1965-1966</citedRange>
-			<citedRange unit="item">450</citedRange>
-		</bibl>
-		
-		<!--<bibl>
-			<ptr target="bib:Cuppiramaniyam1983_01"/>
-		</bibl>-->
-		
-	</listBibl>
-	
-</div>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Kōpperu<supplied reason="lost">ñciṅkaṉ</supplied>, year 11</title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:vija">
+                        <forename>G.</forename>
+                        <surname>Vijayavenugopal</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00134</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by G. Vijayavenugopal</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the repository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <lb n="1"/>svasti śrī <g type="undefined">.</g><!--visarga followed by piḷḷaiyār cuḻ-->
+                </ab>	
+                
+                <p>
+                    cakala-puvaṉa-c-cakkara-va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-Avaṉiyāḷa-p piṟantāṉ kō-p-peru
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    vaṟkku yāṇṭu <num value="11"><g type="numeral">10</g> 1</num>-Āvatu mīṉa-nāyaṟṟu-p pū<hi rend="grantha">rvva-pakṣa</hi>ttu-p pañca<hi rend="grantha">daśi</hi>yum cevvāy-k-kiḻamaiyum peṟṟa
+                    
+                    <lb n="2"/>Uttirattu nāḷ
+                </p>
+                <p>		
+                    Uyya-k-koṇṭār vaḷa-nāṭṭu muḻaiyūr-nāṭṭu Uṭaiyār tiru-naḷḷā
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    viruta-rāya-payaṅkara-vaḷa-nāṭṭu mēṟkāl-nāṭṭu Erukkattampuliyūr-āṉa Irācēntira-cōḻa-purattu neṉmali
+                    
+                    <lb n="3" break="no"/>y-uṭaiyāṉ tēvaṉ celvāṇṭāṉ taṉakku naṉṟāka-t taṉ pērāl ceykiṟa celvā
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    tavaṉamuñ ceyya Uyya-k-koṇṭār-vaḷa-nāṭṭu-p putta-k-kuṭiyil koṇṭu viṭṭa nattattu Āṭṭai-t tiru-nāḷil a
+                    
+                    <lb n="4"/>ñcān tiru-p-pavaṉiyum tīrtta-t tiru-nāḷum Ēṟi y-aruḷa-c ceyta tiru-maṇṭapam n<choice><orig>i</orig><reg>ī</reg></choice>kki  n<choice><orig>i</orig><reg>ī</reg></choice>kki Uḷḷ
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    tiru-p-paḷḷi-t-tāmamum teṅku palā Uḷḷiṭṭa maraṅkaḷum ākkukiṟa tiru-t-toṇṭar kūmūr-uṭaiyār Īcāṉa-tēvaṟ
+                    
+                    <lb n="5" break="no"/>kum Ivar cantāṉattu-t tiru-t-toṇṭarkaḷukkum <hi rend="grantha">jī</hi>vaṉattu-k kuṭal-āka-k <unclear>kāṇṭi</unclear> <gap reason="lost" quantity="3" unit="character"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    ā mattāl Inta-c celvāṇṭāṉ <hi rend="grantha">pra</hi>yākai-t tiru-viṭai-marut-uṭaiyāṉ paṭṭaṉ pakkalum vilai-koṇ
+                    
+                    <lb n="6" break="no"/><supplied reason="lost">ṭu ve</supplied>ṇkāṭu tēvaṉ Iruppu <g type="nilam"/> <num value="0.325">1/4 1/20 1/40</num>-m pāṭakattu mā-tēva-paṭṭaṉ pakkal <gap reason="lost" quantity="3" unit="character"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    m pāṭakattu-t tiru-naḷḷāṟ-uṭaiyāṉ paṭṭaṉ pakkalum kā<hi rend="grantha">śya</hi>paṉ kulōttuṅka-cōḻa-paṭṭaṉ pakkalum vilai-ko
+                    
+                    <lb n="7" break="no"/><supplied reason="lost">ṇṭa</supplied> <gap reason="lost" quantity="2" unit="character"/> rāyaṅkuṭaiyāṉ Iruppu Ūṟṟu-k kēṇiyum kaṭipa
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    Ivaṉ pakkalukku me
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <unclear>ṭi</unclear>yāṉ pakkal vilai-koṇṭa cūvar Aṭi <g type="nilam"/> <num value="20">2 <g type="numeral">10</g></num>-m Āka <g type="nilam"/> <num value="1.066">1  1/40  3/80  1/320</num>
+                    
+                </p>
+                <p>
+                    In-nilam Oṉṟē Arai-mā v-a ⌈
+                    <lb n="8" break="no"/><supplied reason="lost">rai-k-kā</supplied>ṇi muntirikaiyum Ūr māvinta kaṭamai kuṭimai Iṟuttu
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    koṇṭu <gap reason="lost" quantity="1" unit="character"/> 
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <supplied reason="lost">It-tēvaṟ</supplied>ku-p piṉpum Ivar cantāṉattil Uḷḷār It-tiru-nanta-vaṉañ ceytu In-nilaṅ kāṇi-y-āka <choice><sic>vu</sic><corr>A</corr></choice>ṉupavikka-k kaṭavarkaḷ āka In
+                    <lb n="9" break="no"/>-<supplied reason="lost">neṉma</supplied>li Uṭaiyāṉ tēvaṉ celvā<unclear>ṇṭāṉ</unclear>		<gap reason="lost" quantity="5" unit="character"/>
+                    <unclear>ṅkaḷ O</unclear>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    vē
+                    <gap reason="lost" extent="unknown" unit="character"/>	
+                </p>
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">...</rdg>
+                </app> 
+                </listApp>	
+                
+                </div>-->
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">Prosperity! Fortune!</p>	
+                
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1965-1966"/></bibl> (ARIE/1965-1966/B/1965-1966/456).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 483); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 34), with photos. Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 483).</p>
+                
+                <p>This edition by G. Vijayavenugopal (2019). Curated by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="K+V">
+                        <ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
+                        <citedRange unit="item">483</citedRange>
+                        <citedRange unit="page">TBC</citedRange>
+                    </bibl>
+                    
+                    <bibl n="K+al">
+                        <ptr target="bib:Kuppusamy+al2010_01"/>
+                        <citedRange unit="item">483</citedRange>
+                        <citedRange unit="page">TBC</citedRange>
+                    </bibl>
+                    
+                    <bibl n="V">
+                        <ptr target="bib:Vijayavenugopal2017_01"/>
+                        <citedRange unit="item">34</citedRange>
+                        <citedRange unit="page">90-91</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1965-1966"/>
+                        <citedRange unit="page">89</citedRange>
+                        <citedRange unit="appendix">B/1965-1966</citedRange>
+                        <citedRange unit="item">450</citedRange>
+                    </bibl>
+                    
+                    <!--<bibl>
+                        <ptr target="bib:Cuppiramaniyam1983_01"/>
+                        </bibl>-->
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>
