@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Label to two strokes marking a distance of approximately 16 feet.</summary>
+                        <summary>Stone inscription stating that the distance of approximately 16 feet between two vertical stokes also inscribed is the lenght of a land-measuring rod.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -82,8 +82,7 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">      
                 
-                                <p>                    
-                    
+                <p>
                     <lb n="1"/>nilam aḷavu kōl
                 </p>
             </div>      	
@@ -118,7 +117,7 @@
                 <p>Edited in <bibl><ptr target="bib:Marxiyakanti2023_01"/></bibl>.</p>
                 
                 <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Marxiyakanti2023_01"/></bibl>.</p>
-               
+                
                 <listBibl type="primary">        
                     
                     <bibl>
@@ -126,7 +125,7 @@
                         <citedRange unit="page">200</citedRange>
                         <citedRange unit="item">870/1922</citedRange>
                     </bibl>
-                                        
+                    
                 </listBibl>
                 
             </div>
