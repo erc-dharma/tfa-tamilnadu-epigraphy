@@ -5,248 +5,248 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Tirukaṇṭēcuvaram, Tirumūlanātar, time of Rājakesarivarman Kulottuṅga, year 34</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00006</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>The <foreign>repha</foreign> in conjunct is a dot above the
-								letter.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union’s Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:reda" when="2024-01-25" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-
-<body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī
-	</ab>
-	
-	<lg n="1" met="āciriyappā">	    
-		
-		<l n="1">pukaḻ cūḻnta puṇari Akaḻ cūḻnta puviyil</l>
-		<l n="2">ponnēmi Aḷavun taṉ nēmi naṭappa</l>
-		<l n="3">viḷaṅku Aiyamakaḷai Iḷaṅkō-p paṭuvattu</l>
-		<l n="4">cakkarakoṭṭatu vikkiramat toḻilāl</l>
-		<l n="5">putumaṇa<lb n="2" break="no"/>m puṇarntu mutuvarai-y iṭṭa</l>
-		<l n="6">vayirākarattu vāri Ayirmuṉai-k</l>
-		<l n="7">kontaṉa-v araicar tantaḷa miriya</l>
-		<l n="8">vāḷuṟai kaḻittu-t toḷvili kāṭṭi-p</l>
-		<l n="9">po<supplied reason="lost">r</supplied>ppari naṭātti-k kirttiyai niṟutti</l>
-		<l n="10">vaṭaticai vākai cūṭi-t teṉṟicai-t</l>
-		<l n="11">tēmaṭu kamala-p pūmakaḷ pōtumaiyum</l>
-		<l n="12">po<lb n="3" break="no"/>ṉṉi-y āṭai naṉṉila-p pāvai</l>
-		<l n="13">taṉimaiyun tavira vantu punitaṟ</l><!--@emfr: Acc. to standard version, it starts with puvimakaḷ--> 
-		<l n="14">ṟirumaṇi makuṭa muṟaimaiyiṟ cūṭi-t</l>
-		<l n="15">taṉṉaṭi Iraṇtu<supplied reason="lost">m</supplied>n taṭa muṭi-y āka-t</l>
-		<l n="16">toṉṉila ventara cūṭa muṉṉai</l>
-		<l n="17">maṉuvāṟu peruka-k kaliyāṟu vaṟuppa-c</l>
-		<l n="18">ceṅkōl<lb n="4"/> ticaitōṟum cella veṇkuṭai</l>
-		<l n="19">Irunila vaḷākam veṇkaṇun taṉatu</l>
-		<l n="20">tiruniḻal veṇṇilā-t tikaḻa Orutaṉi</l>
-		<l n="21">mēruviṟ puliviṉai yāṭa vārkaṭaṟ</l>
-		<l n="22">ṟivāntarattu-p pūpālar tiṟaiviṭu</l>
-		<l n="23">tanta kalañcori kaṉuṟumuṟai niṟppa vilaṅkiya</l><!--@emfr:Std. vers: there's an extra tanta-->
-		<l n="24">teṉṉavaṉ karuntalai <lb n="5"/><supplied reason="lost">parun</supplied>talaitti<supplied reason="lost">ṭ</supplied><lb n="6"/><supplied reason="lost">t</supplied>tan</l>
-		<l n="25">po<choice><orig>n</orig><reg>ṉ</reg></choice><lb n="7" break="no"/>ṉaka<supplied reason="lost">r</supplied><unclear>k</unclear> puṟatti<lb n="8" break="no"/>ṭaik kiṭa-p<lb n="9" break="no"/>pa Iṉṉuḷ</l>
-		<l n="26">piṟkula-p piṟaipōl niṟpiḻai yeṉṉum</l> 
-		<l n="27">pi<lb n="10" break="no"/>ṟ kulapi ai<lb n="11" break="no"/>ṟa pō<supplied reason="lost">l</supplied> naṟpi<supplied reason="lost">ḻai</supplied>yeṉṉuṅ</l><!--@emfr:this  line does not appear in std. version, seems to be part of the meykkirttis to Kulottunkacola-->
-		<l n="28">colletir koṭiṟ ṟallatu taṉkai</l>
-		<l n="29">villetir koṭā veḻkulattaracar kallatar</l>
-		<l n="30">naṅkili tuṭaṅki maṇalūr namaveṉa-t</l>
-		<l n="31">tuṅka pattirai yaḷavuṟṟu veṅkaṉum</l> <!--@emfr: ln=31 in std. version seems omitted:aḷattiyil iṭṭa kaḷiṟṟiṉatu īṭṭamum-->
-		<l n="32">paṭṭaveṅkaṉuṟu viṭṭa taṉmāṉamum</l>
-		<l n="33">kūṟiṉa v<choice><sic>i</sic><corr>ī</corr></choice>ramum kiṭappa ēṟiṉa</l>
-		<l n="34">malaikaṉu mutu<lb n="12" break="no"/>ku neḷippa Iḻinta</l>
-		<l n="35">natikaṉuñ cuḻaṉṟuṭain tōṭa viḻunta</l>
-		<l n="36">kaṭalun talai vi<supplied reason="lost">ri</supplied>-t talamarak kuṭaticai-t</l>
-		<l n="37">taṉṉuṉukantu tāṉun tāṉaiyum</l>
-		<l n="38">paṉṉuḷ iṭṭamum palapala mutukum</l>
-		<l n="39">payantetir māṟi aiyapperun tiruvum</l>
-		<l n="40">paḻiyukantu kuṭutta pukaḻum celviyum</l>
-		<l n="41">vā<unclear>ḷā</unclear>voṇkaṇ maṭantayariṭṭamu</l>
-		<l n="42"><lb n="13"/>miḷātu kuṭutta veṅkari niraiyuṅ</l>
-		<l n="43">kaṅkamaṇ ṭalamum ciṅkaṉa veṉṉum</l>
-		<l n="44">pāṇi Iraṇṭum Oru vicaik kaikkoṇṭu</l>
-		<l n="45">Īṇṭiya pukaḻ ōṭum pāṇṭi maṇṭala<supplied reason="lost">ṅ</supplied></l>
-		<l n="46">koḷḷat tiruvuḷḷat taṭaittu veḷḷa</l>
-		<l n="47">varuparit<supplied reason="lost">tara</supplied>ṅlaṉum </l>
-		<l n="48">tantira vāriyu muṭait<lb n="14" break="no"/>tāy van=tu</l>
-		<l n="49">vaṭakaṭal teṉkaṭal paṭarvatu pōla-t</l>
-		<l n="50">taṉperuñ ceṉaiyai Ēvip pañcavar</l>
-		<l n="51">aivarum poruta mokkaḷat tañci</l>
-		<l n="52">veruneḷit tōṭi Araṇaiṉap pukka</l>
-		<l n="53">kāṭaṟat tuṭaittu nāṭṭaṭi-p paṭuttu</l>
-		<l n="54">maṟṟavar <lb n="15"/>tammai vaṉacarar tiriyum</l>
-		<l n="55">poṟṟai veñcura mēṟṟi koṟṟa</l>
-		<l n="56">vicaiya<hi rend="grantha">s ta</hi>mpan ticaitōṟu niṟutti</l>
-		<l n="57">mutti<supplied reason="lost">ṉ</supplied> calāpamum muttamiḻ-p potiyilu</l>
-		<l n="58">matta<gap reason="lost" quantity="7" unit="character"/><lb n="16"/></l>
-		<l n="59">yuṅ kaikkoṇṭaruḷi teṉṉuṭṭ’ </l>
-		<l n="60">e<supplied reason="lost">l</supplied>lai kāṭṭiv malai nāṭṭuḷḷa</l>
-		<l n="61">cāveṟ ellān taṉi vicumpēṟa</l>
-		<l n="62">māvē ṟiya taṉ varu taṉit talaivarai-k</l>
-		<l n="63">kuṟukalar kulaiya-k <gap reason="lost" quantity="2" unit="character"/></l> <!--@emfr: From std version, it is missing kōṭṭā ṟuṭpaṭa-->
-		<l n="64"><lb n="17"/>nilaikaṉiṭṭ’ aruḷi tiṟakoḷa</l>
-		<l n="65">v<choice><sic>i</sic><corr>ī</corr></choice>raviṅṅā<hi rend="grantha">sa</hi>ṉan tiriyaviṭ ṭaruḷi</l>
-		<l n="66">poṅkoḷi yārmunnirum puya-t talaṅkalum viḷaṅka-p</l> <!--@emfr: part of the line 81 in standard version-->
-		<l n="67"><gap reason="lost" quantity="5" unit="character"/><lb n="18" break="no"/>-t tiyāka valli pol viramun tiyākamum </l>
-		<l n="68">puvaṉam uḻutu<supplied reason="lost">ṭai</supplied>yā ḷikuppa avaṉuṭa<choice><orig>n</orig><reg>ṅ</reg></choice></l>
-		<l n="69">kaṅkaiv<choice><sic>i</sic><corr>ī</corr></choice>ṟ ṟiruntateṉa maṅkaiyar tilatam</l>
-		<l n="70">Eḻicai vallapi Eḻulaka muṭai<supplied reason="lost">yā</supplied>ḷ</l>
-		<l n="71">vāḻi malar<supplied reason="lost">n</supplied>tiṉi tiruppa vaḻiyum</l>
-		<l n="72"><lb n="19" break="no"/>vāḷōṭum viṟṟ-irunt-aruḷiya</l>
-	</lg>
-	
-	<p>
-		kō-v-irā<hi rend="grantha">ja</hi>-kēcari-pa<hi rend="grantha">nma</hi>r-āṉa cakkara-va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-kulōttuṅka-<hi rend="grantha">de</hi>varkki yāṇṭu <num value="34">3 <g type="numeral">10</g> 4</num>-Āvatu 
-	</p>
-	
-	<p>
-		virutarāja-payaṅkara-<supplied reason="lost">vaḷa</supplied>
-		<lb n="20" break="no"/>-nāṭṭu-k kaṭampaṅkiṭaiyāṉ kūttaṉ veṇkāṭu-tēvan-ēṉ kaṅkai-koṇṭa-cōḻa-vaḷa-nā
-		<lb n="21" break="no"/>ṭṭu vākūr-nāṭṭu Aḻakiya cōḻa-c-caruppēti-maṅkalattu <hi rend="grantha">sabhai</hi> pakkal nāṉ vilai koṇ
-		<lb n="22" break="no"/>ṭu Uṭaiya nilam āvatu
-	</p>
-	<p>
-		pavit<hi rend="grantha">tra</hi>-māṇikka-vatikku kiḻakki <supplied reason="lost">rājen<choice><orig>t</orig><reg>d</reg></choice>ra</supplied>-cōḻa-vāykkālukku vaṭakki 6 kaṇṇāṟṟu 3ñ ca
-		<lb n="23" break="no"/>tirattu kiḻakk' aṭai<supplied reason="lost">ya</supplied> nilam Oru māvum 4-ñ catirattu mēṟk' aṭaiya nila mu-m-mā-v-araiyum Āka nilam nāṉ-mā
-		<lb n="24" break="no"/>varaiyum 
-	</p>
-	
-	<p>		
-		I-v-vūr Uṭaiyār <hi rend="grantha">śrī</hi>-mula<hi rend="grantha">stā</hi>ṉam-uṭaiya <hi rend="grantha">mahā-de</hi>varkku-t tiru-p-paḷḷi Eḻu
-		<lb n="25" break="no"/>cci-p puṟam-āka v-iṭṭu nila nimantañ ceyta paṭi tiru-v-amutukku Arici nā-nāḻiyum kaṟi-y-amutu
-		<lb n="26"/>Aiñcum ney Oru ceviṭai kālum tayir Uḻakkum Aṭai-k-kāy-amutu pākku munṟum veṟṟi
-		<lb n="27" break="no"/>lai Aṟum tiru-viḷakku Eṭṭukkum cantirātitta-var varai nimantu viṭṭēṉ kaṭa<supplied reason="lost">m</supplied>paṅk-uṭaiyā
-		<lb n="28" break="no"/>ṅ-kūttaṉ veṇkāṭu-tēvan-ēṉ
-		</p>
-			<p>
-		Itu <hi rend="grantha">śrī-ma<unclear>h</unclear>āgeśvara-rakṣai</hi>
-	</p>
-</div>
-	
-<!-- <div type="apparatus">
-		    
-</div>-->
-	
-<div type="translation" source="bib:Kuppusamy+al2010_01">
-		
-	<p n="1-19">Hail! Prosperity! While the wheel of his <supplied reason="subaudible">authority</supplied> went as far as the golden circle <supplied reason="explanation">i.e. Mount Mēru</supplied> on the earth, which was surrounded by the moat of the sea, that was <supplied reason="subaudible">again</supplied> surrounded by his <supplied reason="subaudible">fame</supplied>, <supplied reason="subaudible">the king</supplied> newly wedded, in the time <supplied reason="subaudible">when he was still</supplied> heir-apparent, the brilliant goddess of victory at Cakkara-k-kōṭṭam by deeds of valour and seized a herd of mountains of rut <supplied reason="explanation">i.e. rutting elephants</supplied> at Vayirgaram; <supplied reason="subaudible">he</supplied> unsheathed <supplied reason="subaudible">his</supplied> sword, showed the strength of <supplied reason="subaudible">his</supplied> arm, and spurred <supplied reason="subaudible">his</supplied> war-steed, so that the army of the king of Kuntaḷa, <supplied reason="subaudible">whose appear had</supplied> a sharp point, retreated; having established <supplied reason="subaudible">his</supplied> fame, having put on the garland of <supplied reason="subaudible">the victory over</supplied> the Northern region, and having stopped the prostitution of the goddess with the sweet and excellent lotus-flower <supplied reason="explanation">i.e. Lakṣmī</supplied> of the Southern region, and the loneliness of the goddess of the good country whose garment is the Poṉṉi, <supplied reason="subaudible">he</supplied> put on by right <supplied reason="subaudible">of inheritance</supplied> the pure royal crown of jewels, while the kings of the earth bore his two feet <supplied reason="subaudible">on their heads</supplied> as a large crown; the river <supplied reason="subaudible">of the rules</supplied> of the ancient king Manu swelled, <supplied reason="subaudible">and</supplied> the river <supplied reason="subaudible">of the sins</supplied> of the Kali <supplied reason="subaudible">age</supplied> dried up; <supplied reason="subaudible">his</supplied> scepter swayed over every <supplied reason="subaudible">quarter of</supplied> this continent; the white light of the sacred shadow of <supplied reason="subaudible">his</supplied> white parasol shone everywhere on the circle of the great earth; <supplied reason="subaudible">and his</supplied> tiger <supplied reason="subaudible">-banner</supplied> fluttered unrivalled on the Mēru <supplied reason="subaudible">mountain</supplied>; <supplied reason="subaudible">before him</supplied> stood a row of elephants showering jewels, which were presented <supplied reason="subaudible">as</supplied> tribute by the kings of remote islands whose girdle is the sea; the excellent head of the refractory king of the South <supplied reason="explanation">i.e. the Pāṇṭiya</supplied> lay outside his <supplied reason="explanation">viz., Kulōttuṅka’s</supplied> beautiful city, being pecked by kites;
-		not only did the speech of the kings of the seven clan <supplied reason="subaudible">of the Vēḷ clan?</supplied>:- after this day a permanent blemish <supplied reason="subaudible">will attach to Kulōttuṅka</supplied>, as to the crescent <supplied reason="subaudible">which is the origin</supplied> of <supplied reason="subaudible">his</supplied> family turn out wrong but the bow <supplied reason="subaudible">in</supplied> the hands of the kings of the seven clans <supplied reason="subaudible">of the Vēḷ clan?</supplied> were not <supplied reason="subaudible">even</supplied> bent against <supplied reason="subaudible">the enemy</supplied>; everywhere from Naṅkili of rocky roads –with Maṇalūr in the middle – to the Tuṅkapattirai, there were lying low the dead <supplied reason="subaudible">bodies of his</supplied> furious elephants, his lost pride and <supplied reason="subaudible">his</supplied> boasted valour; the very mountains which <supplied reason="subaudible">he</supplied> ascended bent their backs; the very rivers into which <supplied reason="subaudible">he</supplied> descended eddied and breached <supplied reason="subaudible">the banks</supplied> in their course; <supplied reason="subaudible">and</supplied> the very seas into which <supplied reason="subaudible">he</supplied> plunged became troubled and agitated; <supplied reason="subaudible">the Cōḻa king </supplied>seized simultaneously the two countries <supplied reason="explanation">pāṇi</supplied> called Kaṅkamaṇṭalam and Ciṅkaṇam, troops of furious elephants which had been irretrievably abandoned <supplied reason="explanation">by the enemy</supplied>, crowds of women, <supplied reason="explanation">the angles of</supplied> whose beautiful eyes were as pointed as daggers, the goddess of fame, who gladly brought disgrace <supplied reason="subaudible">on Vikkalaṉ</supplied>, and the great goddess of victory, who changed to the opposite <supplied reason="explanation">side</supplied> and caused <supplied reason="subaudible">Vikkalaṉ</supplied> himself and <supplied reason="explanation">his</supplied> father, who were desirous of the rule over the Western region, to turn their backs again and again on many days; having resolved in <supplied reason="explanation">his</supplied> royal mind to conquer also the Pāṇṭimaṇṭalam with great fame, <supplied reason="explanation">he</supplied> dispatched his great army – which possessed <supplied reason="subaudible">excellent horses resembling the waves of the sea</supplied>, war-elephants <supplied reason="explanation">resembling</supplied> ships, and troops <supplied reason="explanation">resembling</supplied> water, – as though the Northern ocean was overflowing the Southern ocean;
-		<supplied reason="explanation">He</supplied> completely destroyed the forest which the five Pañcavas <supplied reason="explanation">i.e. Pāṇṭiyas</supplied> had entered as refuge, when they were routed on a battlefield where <supplied reason="explanation">he</supplied> fought <supplied reason="explanation">with them</supplied>, and fled cowering with fear; <supplied reason="explanation">He</supplied> subdued <supplied reason="explanation">their</supplied> country, drove them into hot jungles in hills where woodmen roamed about, and planted pillars of victory in every region;
-		<supplied reason="explanation">He</supplied> was pleased to seize the pearl fisheries, the Potiyil <supplied reason="explanation">mountain</supplied> where the three kinds of Tamil <supplied reason="explanation">flourished</supplied>, <supplied reason="subaudible">the very centre of the mountain Caiyam</supplied> where furious rutting elephants were captured, and Kaṉṉi, and fixed the boundaries of the Southern <supplied reason="subaudible">i.e. Pāṇṭiya </supplied>country;
-		while all the heroes in the Western hill-country <supplied reason="subaudible">Kuṭamalai-nāṭu</supplied> ascended voluntarily to heaven, <supplied reason="explanation">he</supplied> was pleased to bestow on the chiefs of his army, who were mounted on horses, settlements on every road, including <supplied reason="explanation">that which passed</supplied> Kōṭṭāṟu, in order that the enemies might be scattered, and took his eat on the throne acquired in warfare;
-		He was pleased to be seated <supplied reason="explanation">on it</supplied> while <supplied reason="explanation">his</supplied> valour and liberality shone like <supplied reason="explanation">his</supplied> necklace of great splendour and <supplied reason="explanation">like</supplied> the flower-garland on <supplied reason="explanation">his</supplied> royal shoulders, <supplied reason="explanation">and</supplied> while <supplied reason="explanation">all his</supplied> enemies prostrated themselves on the ground;
-		while Tiyākavalli Puvaṉamuḻut-uṭaiyāḷ was with him, the mistress of the seven worlds, Ēḻicaivallapi, eminent among women, was present, as Umā near Śiva, – may she prosper ...</p>
-	<p n="19-24">In the year 34 <supplied reason="subaudible">of the reign</supplied> of the king Rājakēcaripanmar alias Emperor śrī-Kulōttuṅka- devar, the land I, Kaṭampaṅkuṭaiyāṉ Kūttaṉ Veṇkāṭu-tēvaṉ of Virutarājapayaṅkara-vaḷanāṭu, purchased from the assembly of Aḻakiya-cōḻa-c-caruppētimaṅkalam of Vākūr-nāṭu in Kaṅkaikoṇṭa- cōḻa-vaḷanāṭu:
-		one <foreign>mā</foreign> of land situated to the east of Pavittramāṇikkavati, to the north of Rājendracōḻaṉ canal, and the east of the third square and the sixth channel and three and a half <foreign>mās</foreign> of land to the west of the fourth square – thus the land of four and a half <foreign>mās</foreign>;</p>
-	<p n="24-28">I, Kaṭampaṅkuṭaiyāṉ Kūttaṉ Veṇkāṭu-tēvaṉ, having given as the land for the <supplied reason="subaudible">ceremony of</supplied> waking up the Lord, for the great Lord of śrī-Mūlastāṉam of this village, and according to the land endowment, I have donated four <foreign>nāḻis</foreign> of rice for food offerings, five side dishes, one <foreign>ceviṭu</foreign> and a quarter measure of ghee, one <foreign>uḻakku</foreign> of curd, three areca nuts, six betel leaves and eight sacred lamps, as long as the moon and the sun will last. This is under the protection of the Śaiva devotees.</p>
-         	    
-</div>
-	
-<!-- <div type="commentary">
-         	
-</div>-->
-
-<div type="bibliography">
-
-    <!--<p>Reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1934-1935/B/1934-1935/104).</p>-->
-    <p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 29) and translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 29).</p>
-    <p>This digital edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl>.</p>
-    
-    <listBibl type="primary">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tirukaṇṭēcuvaram, Tirumūlanātar, time of Rājakesarivarman Kulottuṅga, year 34</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00006</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>The <foreign>repha</foreign> in conjunct is a dot above the
+                                letter.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2024-01-25" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
         
-        <bibl n="PI">
-            <ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/>
-            <citedRange unit="page">38-41</citedRange>
-            <citedRange unit="item">29</citedRange>
-        </bibl>
-        
-        <bibl n="PI">
-            <ptr target="bib:Kuppusamy+al2010_01"/>
-            <citedRange unit="page">15-16</citedRange>
-            <citedRange unit="item">29</citedRange>
-        </bibl>
-        
-    </listBibl>   
-	
-</div>
-
-      </body>
-  </text>
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>		
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <lg n="1" met="āciriyappā">	    
+                    
+                    <l n="1">pukaḻ cūḻnta puṇari Akaḻ cūḻnta puviyil</l>
+                    <l n="2">ponnēmi Aḷavun taṉ nēmi naṭappa</l>
+                    <l n="3">viḷaṅku Aiyamakaḷai Iḷaṅkō-p paṭuvattu</l>
+                    <l n="4">cakkarakoṭṭatu vikkiramat toḻilāl</l>
+                    <l n="5">putumaṇa<lb n="2" break="no"/>m puṇarntu mutuvarai-y iṭṭa</l>
+                    <l n="6">vayirākarattu vāri Ayirmuṉai-k</l>
+                    <l n="7">kontaṉa-v araicar tantaḷa miriya</l>
+                    <l n="8">vāḷuṟai kaḻittu-t toḷvili kāṭṭi-p</l>
+                    <l n="9">po<supplied reason="lost">r</supplied>ppari naṭātti-k kirttiyai niṟutti</l>
+                    <l n="10">vaṭaticai vākai cūṭi-t teṉṟicai-t</l>
+                    <l n="11">tēmaṭu kamala-p pūmakaḷ pōtumaiyum</l>
+                    <l n="12">po<lb n="3" break="no"/>ṉṉi-y āṭai naṉṉila-p pāvai</l>
+                    <l n="13">taṉimaiyun tavira vantu punitaṟ</l><!--@emfr: Acc. to standard version, it starts with puvimakaḷ--> 
+                    <l n="14">ṟirumaṇi makuṭa muṟaimaiyiṟ cūṭi-t</l>
+                    <l n="15">taṉṉaṭi Iraṇtu<supplied reason="lost">m</supplied>n taṭa muṭi-y āka-t</l>
+                    <l n="16">toṉṉila ventara cūṭa muṉṉai</l>
+                    <l n="17">maṉuvāṟu peruka-k kaliyāṟu vaṟuppa-c</l>
+                    <l n="18">ceṅkōl<lb n="4"/> ticaitōṟum cella veṇkuṭai</l>
+                    <l n="19">Irunila vaḷākam veṇkaṇun taṉatu</l>
+                    <l n="20">tiruniḻal veṇṇilā-t tikaḻa Orutaṉi</l>
+                    <l n="21">mēruviṟ puliviṉai yāṭa vārkaṭaṟ</l>
+                    <l n="22">ṟivāntarattu-p pūpālar tiṟaiviṭu</l>
+                    <l n="23">tanta kalañcori kaṉuṟumuṟai niṟppa vilaṅkiya</l><!--@emfr:Std. vers: there's an extra tanta-->
+                    <l n="24">teṉṉavaṉ karuntalai <lb n="5"/><supplied reason="lost">parun</supplied>talaitti<supplied reason="lost">ṭ</supplied><lb n="6"/><supplied reason="lost">t</supplied>tan</l>
+                    <l n="25">po<choice><orig>n</orig><reg>ṉ</reg></choice><lb n="7" break="no"/>ṉaka<supplied reason="lost">r</supplied><unclear>k</unclear> puṟatti<lb n="8" break="no"/>ṭaik kiṭa-p<lb n="9" break="no"/>pa Iṉṉuḷ</l>
+                    <l n="26">piṟkula-p piṟaipōl niṟpiḻai yeṉṉum</l> 
+                    <l n="27">pi<lb n="10" break="no"/>ṟ kulapi ai<lb n="11" break="no"/>ṟa pō<supplied reason="lost">l</supplied> naṟpi<supplied reason="lost">ḻai</supplied>yeṉṉuṅ</l><!--@emfr:this  line does not appear in std. version, seems to be part of the meykkirttis to Kulottunkacola-->
+                    <l n="28">colletir koṭiṟ ṟallatu taṉkai</l>
+                    <l n="29">villetir koṭā veḻkulattaracar kallatar</l>
+                    <l n="30">naṅkili tuṭaṅki maṇalūr namaveṉa-t</l>
+                    <l n="31">tuṅka pattirai yaḷavuṟṟu veṅkaṉum</l> <!--@emfr: ln=31 in std. version seems omitted:aḷattiyil iṭṭa kaḷiṟṟiṉatu īṭṭamum-->
+                    <l n="32">paṭṭaveṅkaṉuṟu viṭṭa taṉmāṉamum</l>
+                    <l n="33">kūṟiṉa v<choice><sic>i</sic><corr>ī</corr></choice>ramum kiṭappa ēṟiṉa</l>
+                    <l n="34">malaikaṉu mutu<lb n="12" break="no"/>ku neḷippa Iḻinta</l>
+                    <l n="35">natikaṉuñ cuḻaṉṟuṭain tōṭa viḻunta</l>
+                    <l n="36">kaṭalun talai vi<supplied reason="lost">ri</supplied>-t talamarak kuṭaticai-t</l>
+                    <l n="37">taṉṉuṉukantu tāṉun tāṉaiyum</l>
+                    <l n="38">paṉṉuḷ iṭṭamum palapala mutukum</l>
+                    <l n="39">payantetir māṟi aiyapperun tiruvum</l>
+                    <l n="40">paḻiyukantu kuṭutta pukaḻum celviyum</l>
+                    <l n="41">vā<unclear>ḷā</unclear>voṇkaṇ maṭantayariṭṭamu</l>
+                    <l n="42"><lb n="13"/>miḷātu kuṭutta veṅkari niraiyuṅ</l>
+                    <l n="43">kaṅkamaṇ ṭalamum ciṅkaṉa veṉṉum</l>
+                    <l n="44">pāṇi Iraṇṭum Oru vicaik kaikkoṇṭu</l>
+                    <l n="45">Īṇṭiya pukaḻ ōṭum pāṇṭi maṇṭala<supplied reason="lost">ṅ</supplied></l>
+                    <l n="46">koḷḷat tiruvuḷḷat taṭaittu veḷḷa</l>
+                    <l n="47">varuparit<supplied reason="lost">tara</supplied>ṅlaṉum </l>
+                    <l n="48">tantira vāriyu muṭait<lb n="14" break="no"/>tāy van=tu</l>
+                    <l n="49">vaṭakaṭal teṉkaṭal paṭarvatu pōla-t</l>
+                    <l n="50">taṉperuñ ceṉaiyai Ēvip pañcavar</l>
+                    <l n="51">aivarum poruta mokkaḷat tañci</l>
+                    <l n="52">veruneḷit tōṭi Araṇaiṉap pukka</l>
+                    <l n="53">kāṭaṟat tuṭaittu nāṭṭaṭi-p paṭuttu</l>
+                    <l n="54">maṟṟavar <lb n="15"/>tammai vaṉacarar tiriyum</l>
+                    <l n="55">poṟṟai veñcura mēṟṟi koṟṟa</l>
+                    <l n="56">vicaiya<hi rend="grantha">s ta</hi>mpan ticaitōṟu niṟutti</l>
+                    <l n="57">mutti<supplied reason="lost">ṉ</supplied> calāpamum muttamiḻ-p potiyilu</l>
+                    <l n="58">matta<gap reason="lost" quantity="7" unit="character"/><lb n="16"/></l>
+                    <l n="59">yuṅ kaikkoṇṭaruḷi teṉṉuṭṭ’ </l>
+                    <l n="60">e<supplied reason="lost">l</supplied>lai kāṭṭiv malai nāṭṭuḷḷa</l>
+                    <l n="61">cāveṟ ellān taṉi vicumpēṟa</l>
+                    <l n="62">māvē ṟiya taṉ varu taṉit talaivarai-k</l>
+                    <l n="63">kuṟukalar kulaiya-k <gap reason="lost" quantity="2" unit="character"/></l> <!--@emfr: From std version, it is missing kōṭṭā ṟuṭpaṭa-->
+                    <l n="64"><lb n="17"/>nilaikaṉiṭṭ’ aruḷi tiṟakoḷa</l>
+                    <l n="65">v<choice><sic>i</sic><corr>ī</corr></choice>raviṅṅā<hi rend="grantha">sa</hi>ṉan tiriyaviṭ ṭaruḷi</l>
+                    <l n="66">poṅkoḷi yārmunnirum puya-t talaṅkalum viḷaṅka-p</l> <!--@emfr: part of the line 81 in standard version-->
+                    <l n="67"><gap reason="lost" quantity="5" unit="character"/><lb n="18" break="no"/>-t tiyāka valli pol viramun tiyākamum </l>
+                    <l n="68">puvaṉam uḻutu<supplied reason="lost">ṭai</supplied>yā ḷikuppa avaṉuṭa<choice><orig>n</orig><reg>ṅ</reg></choice></l>
+                    <l n="69">kaṅkaiv<choice><sic>i</sic><corr>ī</corr></choice>ṟ ṟiruntateṉa maṅkaiyar tilatam</l>
+                    <l n="70">Eḻicai vallapi Eḻulaka muṭai<supplied reason="lost">yā</supplied>ḷ</l>
+                    <l n="71">vāḻi malar<supplied reason="lost">n</supplied>tiṉi tiruppa vaḻiyum</l>
+                    <l n="72"><lb n="19" break="no"/>vāḷōṭum viṟṟ-irunt-aruḷiya</l>
+                </lg>
+                
+                <p>
+                    kō-v-irā<hi rend="grantha">ja</hi>-kēcari-pa<hi rend="grantha">nma</hi>r-āṉa cakkara-va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī</hi>-kulōttuṅka-<hi rend="grantha">de</hi>varkki yāṇṭu <num value="34">3 <g type="numeral">10</g> 4</num>-Āvatu 
+                </p>
+                
+                <p>
+                    virutarāja-payaṅkara-<supplied reason="lost">vaḷa</supplied>
+                    <lb n="20" break="no"/>-nāṭṭu-k kaṭampaṅkiṭaiyāṉ kūttaṉ veṇkāṭu-tēvan-ēṉ kaṅkai-koṇṭa-cōḻa-vaḷa-nā
+                    <lb n="21" break="no"/>ṭṭu vākūr-nāṭṭu Aḻakiya cōḻa-c-caruppēti-maṅkalattu <hi rend="grantha">sabhai</hi> pakkal nāṉ vilai koṇ
+                    <lb n="22" break="no"/>ṭu Uṭaiya nilam āvatu
+                </p>
+                <p>
+                    pavit<hi rend="grantha">tra</hi>-māṇikka-vatikku kiḻakki <supplied reason="lost">rājen<choice><orig>t</orig><reg>d</reg></choice>ra</supplied>-cōḻa-vāykkālukku vaṭakki 6 kaṇṇāṟṟu 3ñ ca
+                    <lb n="23" break="no"/>tirattu kiḻakk' aṭai<supplied reason="lost">ya</supplied> nilam Oru māvum 4-ñ catirattu mēṟk' aṭaiya nila mu-m-mā-v-araiyum Āka nilam nāṉ-mā
+                    <lb n="24" break="no"/>varaiyum 
+                </p>
+                
+                <p>		
+                    I-v-vūr Uṭaiyār <hi rend="grantha">śrī</hi>-mula<hi rend="grantha">stā</hi>ṉam-uṭaiya <hi rend="grantha">mahā-de</hi>varkku-t tiru-p-paḷḷi Eḻu
+                    <lb n="25" break="no"/>cci-p puṟam-āka v-iṭṭu nila nimantañ ceyta paṭi tiru-v-amutukku Arici nā-nāḻiyum kaṟi-y-amutu
+                    <lb n="26"/>Aiñcum ney Oru ceviṭai kālum tayir Uḻakkum Aṭai-k-kāy-amutu pākku munṟum veṟṟi
+                    <lb n="27" break="no"/>lai Aṟum tiru-viḷakku Eṭṭukkum cantirātitta-var varai nimantu viṭṭēṉ kaṭa<supplied reason="lost">m</supplied>paṅk-uṭaiyā
+                    <lb n="28" break="no"/>ṅ-kūttaṉ veṇkāṭu-tēvan-ēṉ
+                </p>
+                <p>
+                    Itu <hi rend="grantha">śrī-ma<unclear>h</unclear>āgeśvara-rakṣai</hi>
+                </p>
+            </div>
+            
+            <!-- <div type="apparatus">
+                
+                </div>-->
+            
+            <div type="translation" source="bib:Kuppusamy+al2010_01">
+                
+                <p n="1-19">Hail! Prosperity! While the wheel of his <supplied reason="subaudible">authority</supplied> went as far as the golden circle <supplied reason="explanation">i.e. Mount Mēru</supplied> on the earth, which was surrounded by the moat of the sea, that was <supplied reason="subaudible">again</supplied> surrounded by his <supplied reason="subaudible">fame</supplied>, <supplied reason="subaudible">the king</supplied> newly wedded, in the time <supplied reason="subaudible">when he was still</supplied> heir-apparent, the brilliant goddess of victory at Cakkara-k-kōṭṭam by deeds of valour and seized a herd of mountains of rut <supplied reason="explanation">i.e. rutting elephants</supplied> at Vayirgaram; <supplied reason="subaudible">he</supplied> unsheathed <supplied reason="subaudible">his</supplied> sword, showed the strength of <supplied reason="subaudible">his</supplied> arm, and spurred <supplied reason="subaudible">his</supplied> war-steed, so that the army of the king of Kuntaḷa, <supplied reason="subaudible">whose appear had</supplied> a sharp point, retreated; having established <supplied reason="subaudible">his</supplied> fame, having put on the garland of <supplied reason="subaudible">the victory over</supplied> the Northern region, and having stopped the prostitution of the goddess with the sweet and excellent lotus-flower <supplied reason="explanation">i.e. Lakṣmī</supplied> of the Southern region, and the loneliness of the goddess of the good country whose garment is the Poṉṉi, <supplied reason="subaudible">he</supplied> put on by right <supplied reason="subaudible">of inheritance</supplied> the pure royal crown of jewels, while the kings of the earth bore his two feet <supplied reason="subaudible">on their heads</supplied> as a large crown; the river <supplied reason="subaudible">of the rules</supplied> of the ancient king Manu swelled, <supplied reason="subaudible">and</supplied> the river <supplied reason="subaudible">of the sins</supplied> of the Kali <supplied reason="subaudible">age</supplied> dried up; <supplied reason="subaudible">his</supplied> scepter swayed over every <supplied reason="subaudible">quarter of</supplied> this continent; the white light of the sacred shadow of <supplied reason="subaudible">his</supplied> white parasol shone everywhere on the circle of the great earth; <supplied reason="subaudible">and his</supplied> tiger <supplied reason="subaudible">-banner</supplied> fluttered unrivalled on the Mēru <supplied reason="subaudible">mountain</supplied>; <supplied reason="subaudible">before him</supplied> stood a row of elephants showering jewels, which were presented <supplied reason="subaudible">as</supplied> tribute by the kings of remote islands whose girdle is the sea; the excellent head of the refractory king of the South <supplied reason="explanation">i.e. the Pāṇṭiya</supplied> lay outside his <supplied reason="explanation">viz., Kulōttuṅka’s</supplied> beautiful city, being pecked by kites;
+                    not only did the speech of the kings of the seven clan <supplied reason="subaudible">of the Vēḷ clan?</supplied>:- after this day a permanent blemish <supplied reason="subaudible">will attach to Kulōttuṅka</supplied>, as to the crescent <supplied reason="subaudible">which is the origin</supplied> of <supplied reason="subaudible">his</supplied> family turn out wrong but the bow <supplied reason="subaudible">in</supplied> the hands of the kings of the seven clans <supplied reason="subaudible">of the Vēḷ clan?</supplied> were not <supplied reason="subaudible">even</supplied> bent against <supplied reason="subaudible">the enemy</supplied>; everywhere from Naṅkili of rocky roads –with Maṇalūr in the middle – to the Tuṅkapattirai, there were lying low the dead <supplied reason="subaudible">bodies of his</supplied> furious elephants, his lost pride and <supplied reason="subaudible">his</supplied> boasted valour; the very mountains which <supplied reason="subaudible">he</supplied> ascended bent their backs; the very rivers into which <supplied reason="subaudible">he</supplied> descended eddied and breached <supplied reason="subaudible">the banks</supplied> in their course; <supplied reason="subaudible">and</supplied> the very seas into which <supplied reason="subaudible">he</supplied> plunged became troubled and agitated; <supplied reason="subaudible">the Cōḻa king </supplied>seized simultaneously the two countries <supplied reason="explanation">pāṇi</supplied> called Kaṅkamaṇṭalam and Ciṅkaṇam, troops of furious elephants which had been irretrievably abandoned <supplied reason="explanation">by the enemy</supplied>, crowds of women, <supplied reason="explanation">the angles of</supplied> whose beautiful eyes were as pointed as daggers, the goddess of fame, who gladly brought disgrace <supplied reason="subaudible">on Vikkalaṉ</supplied>, and the great goddess of victory, who changed to the opposite <supplied reason="explanation">side</supplied> and caused <supplied reason="subaudible">Vikkalaṉ</supplied> himself and <supplied reason="explanation">his</supplied> father, who were desirous of the rule over the Western region, to turn their backs again and again on many days; having resolved in <supplied reason="explanation">his</supplied> royal mind to conquer also the Pāṇṭimaṇṭalam with great fame, <supplied reason="explanation">he</supplied> dispatched his great army – which possessed <supplied reason="subaudible">excellent horses resembling the waves of the sea</supplied>, war-elephants <supplied reason="explanation">resembling</supplied> ships, and troops <supplied reason="explanation">resembling</supplied> water, – as though the Northern ocean was overflowing the Southern ocean;
+                    <supplied reason="explanation">He</supplied> completely destroyed the forest which the five Pañcavas <supplied reason="explanation">i.e. Pāṇṭiyas</supplied> had entered as refuge, when they were routed on a battlefield where <supplied reason="explanation">he</supplied> fought <supplied reason="explanation">with them</supplied>, and fled cowering with fear; <supplied reason="explanation">He</supplied> subdued <supplied reason="explanation">their</supplied> country, drove them into hot jungles in hills where woodmen roamed about, and planted pillars of victory in every region;
+                    <supplied reason="explanation">He</supplied> was pleased to seize the pearl fisheries, the Potiyil <supplied reason="explanation">mountain</supplied> where the three kinds of Tamil <supplied reason="explanation">flourished</supplied>, <supplied reason="subaudible">the very centre of the mountain Caiyam</supplied> where furious rutting elephants were captured, and Kaṉṉi, and fixed the boundaries of the Southern <supplied reason="subaudible">i.e. Pāṇṭiya </supplied>country;
+                    while all the heroes in the Western hill-country <supplied reason="subaudible">Kuṭamalai-nāṭu</supplied> ascended voluntarily to heaven, <supplied reason="explanation">he</supplied> was pleased to bestow on the chiefs of his army, who were mounted on horses, settlements on every road, including <supplied reason="explanation">that which passed</supplied> Kōṭṭāṟu, in order that the enemies might be scattered, and took his eat on the throne acquired in warfare;
+                    He was pleased to be seated <supplied reason="explanation">on it</supplied> while <supplied reason="explanation">his</supplied> valour and liberality shone like <supplied reason="explanation">his</supplied> necklace of great splendour and <supplied reason="explanation">like</supplied> the flower-garland on <supplied reason="explanation">his</supplied> royal shoulders, <supplied reason="explanation">and</supplied> while <supplied reason="explanation">all his</supplied> enemies prostrated themselves on the ground;
+                    while Tiyākavalli Puvaṉamuḻut-uṭaiyāḷ was with him, the mistress of the seven worlds, Ēḻicaivallapi, eminent among women, was present, as Umā near Śiva, – may she prosper ...</p>
+                <p n="19-24">In the year 34 <supplied reason="subaudible">of the reign</supplied> of the king Rājakēcaripanmar alias Emperor śrī-Kulōttuṅka- devar, the land I, Kaṭampaṅkuṭaiyāṉ Kūttaṉ Veṇkāṭu-tēvaṉ of Virutarājapayaṅkara-vaḷanāṭu, purchased from the assembly of Aḻakiya-cōḻa-c-caruppētimaṅkalam of Vākūr-nāṭu in Kaṅkaikoṇṭa- cōḻa-vaḷanāṭu:
+                    one <foreign>mā</foreign> of land situated to the east of Pavittramāṇikkavati, to the north of Rājendracōḻaṉ canal, and the east of the third square and the sixth channel and three and a half <foreign>mās</foreign> of land to the west of the fourth square – thus the land of four and a half <foreign>mās</foreign>;</p>
+                <p n="24-28">I, Kaṭampaṅkuṭaiyāṉ Kūttaṉ Veṇkāṭu-tēvaṉ, having given as the land for the <supplied reason="subaudible">ceremony of</supplied> waking up the Lord, for the great Lord of śrī-Mūlastāṉam of this village, and according to the land endowment, I have donated four <foreign>nāḻis</foreign> of rice for food offerings, five side dishes, one <foreign>ceviṭu</foreign> and a quarter measure of ghee, one <foreign>uḻakku</foreign> of curd, three areca nuts, six betel leaves and eight sacred lamps, as long as the moon and the sun will last. This is under the protection of the Śaiva devotees.</p>
+                
+            </div>
+            
+            <!-- <div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <!--<p>Reported in <bibl><ptr target="bib:ARIE1934-1935"/></bibl> (ARIE/1934-1935/B/1934-1935/104).</p>-->
+                <p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 29) and translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 29).</p>
+                <p>This digital edition by Renato Dávalos (2024), based on <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="PI">
+                        <ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/>
+                        <citedRange unit="page">38-41</citedRange>
+                        <citedRange unit="item">29</citedRange>
+                    </bibl>
+                    
+                    <bibl n="PI">
+                        <ptr target="bib:Kuppusamy+al2010_01"/>
+                        <citedRange unit="page">15-16</citedRange>
+                        <citedRange unit="item">29</citedRange>
+                    </bibl>
+                    
+                </listBibl>   
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
 
 <!--METADATA:
-On the south wall of the <foreign>ardhamaṇḍapa</foreign> in the temple of Tirumūlanātar at Tirukaṇṭheśvaram, Cuddalore taluk. Year 14 of king Jaṭāvarmaṉ Sundarapāṇḍya I: 1264 CE.-->
+    On the south wall of the <foreign>ardhamaṇḍapa</foreign> in the temple of Tirumūlanātar at Tirukaṇṭheśvaram, Cuddalore taluk. Year 14 of king Jaṭāvarmaṉ Sundarapāṇḍya I: 1264 CE.-->

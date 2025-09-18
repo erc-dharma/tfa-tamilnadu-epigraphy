@@ -5,177 +5,177 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa, year <unclear>9</unclear></title>
-				<respStmt>
-					<resp>Intellectual authorship of edition</resp>
-				    <persName ref="part:reda">
-				        <forename>Renato</forename>
-				        <surname>Dávalos</surname>
-				    </persName>
-				    <persName ref="part:emfr">
-				        <forename>Emmanuel</forename>
-				        <surname>Francis</surname>
-				    </persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>				
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00029</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis &amp; Vincent Tournier.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-						    <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<!-- UPDATE the link once the release is made official -->
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:reda" when="2024-10-28">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa, year <unclear>9</unclear></title>
+                <respStmt>
+                    <resp>Intellectual authorship of edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>				
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00029</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis &amp; Vincent Tournier.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2024-10-28">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
         
-      <body>
-          
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <lb n="1"/><unclear>svasti śrī</unclear>
-    </ab>
-    
-    <p>
-        <unclear>tiru-puvaṉa-ca</unclear>
-        <lb n="2" break="no"/><unclear>k</unclear>karav<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>t<unclear>i</unclear>kaḷ <hi rend="grantha">śrī</hi>-kulō<unclear>ttu</unclear>
-    	<lb n="3" break="no"/>ṅka-cōḻa-tēvarkku yāṇ<unclear>ṭu</unclear> <unclear>9</unclear>
-    	<lb n="4" break="no"/>Āva<supplied reason="omitted">tu</supplied>
-    </p>
-    <p>
-        Uṭaiyār nalla-nāya<choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice>a
-    	<lb n="5" break="no"/><choice><unclear>rkku</unclear><unclear>nār</unclear></choice> tēvaraṭiyār I <gap unit="character" quantity="1" reason="lost"></gap> <seg rend="check">vu ṟa m <supplied reason="lost">C</supplied></seg> ai <unclear cert="low">ya</unclear>
-    	<lb n="6" break="no"/><choice><unclear>ḷa</unclear><unclear>ḷ</unclear></choice> makaḷ nācc<supplied reason="lost">i</supplied>y<supplied reason="lost">ār</supplied> <gap unit="character" quantity="4" reason="lost"></gap><unclear>t</unclear> to
-    	<lb n="7"/><choice><unclear>ṉṉ</unclear><unclear>ḷḷ</unclear></choice>āyiran t<unclear>u</unclear> <unclear>t</unclear>ai <gap unit="character" quantity="2" reason="lost"></gap> k k<choice><unclear>a</unclear><unclear>o</unclear></choice>vikkum tiru<unclear>v</unclear><supplied reason="lost">ā</supplied>
-    	<lb n="8" break="no"/>ṭṭaiya<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukkum <gap unit="character" quantity="2" reason="lost"></gap> m n<choice><orig>i</orig><reg>ī</reg></choice>kki naḷḷuku
-    	<lb n="9" break="no"/>m Iṉṉāvaṟkkum <unclear>I</unclear><supplied reason="lost">n</supplied>-nāyanār kōyilil
-    	<lb n="10"/>tiruv<choice><sic>a</sic><corr>e</corr></choice><supplied reason="lost">m</supplied>p<choice><orig>a</orig><reg>ā</reg></choice>vai <unclear>mu</unclear>tal <supplied reason="lost">pāṭ</supplied>ṭu<unclear>m</unclear> t<unclear>iru</unclear>vēṭṭai
-    	<lb n="11"/><gap reason="lost" unit="line" quantity="1"></gap>
-    	<lb n="12"/><unclear>Ā</unclear>ṇṭu māṟi cempāti <seg rend="check">ce<supplied reason="omitted">y</supplied>yā <supplied reason="omitted">ka</supplied></seg>ṭavarkaḷ k<supplied reason="lost"><seg rend="check">ku</seg></supplied>
-    	<lb n="13"/>poṉ kaḻ<choice><sic>ai</sic><corr>a</corr></choice>ñc’ araiyum c<choice><sic>i</sic><corr>ī</corr></choice>-paṇṭ<choice><sic>a</sic><corr>ā</corr></choice>rattu
-    	<lb n="14"/>Oṭukku-k koṇṭu taṇṭēcura-vilai y
-    	<lb n="15" break="no"/>-<supplied reason="lost">ā</supplied>ka Ivarkaḷukku <supplied reason="omitted">ku</supplied>ṭuttōm Ik-kōyil t
-    	<lb n="16" break="no"/>ā<choice><orig>n</orig><reg>ṉ</reg></choice>attōm
-    </p>
-    
-</div>
-          
-<!--<div type="apparatus">
-<listApp>
-	
-    <app loc="0">
-        <lem>...</lem>
-        <rdg source="bib:...">...</rdg>
-    </app>    
-    
-</listApp>
-</div>-->
-          
-<div type="translation" resp="part:reda part:emfr">
- 	
-    <p n="1"> 		
-        <unclear>Prosperity! Fortune!</unclear>
-    </p>
-    
-    <p n="1-4">
-        ...
-    </p>
-    
-    <p n="4-16">
-        ...
-    </p>
- 	
- </div>
-      	
-<!--<div type="commentary">
-      		
-</div>-->
-      	
-<div type="bibliography">
-    
-    <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/143).</p>
-    <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>
-    <p>ASI transcript and estampage, if any, yet to be consulted.</p>
-    
-    <!--<listBibl type="primary">
-        
-    </listBibl>-->
-    
-    <listBibl type="secondary">
-        <bibl>
-            <ptr target="bib:ARIE1939-1943"/>
-            <citedRange unit="page">92</citedRange>
-            <citedRange unit="item">143</citedRange>
-            <citedRange unit="appendix">B/1940-1941</citedRange>
-        </bibl> 
-    </listBibl>
-    
-</div>
-      </body>
-  </text>
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha"><unclear>svasti śrī</unclear></hi>
+                </ab>
+                
+                <p>
+                    <unclear>tiru-puvaṉa-ca</unclear>
+                    <lb n="2" break="no"/><unclear>k</unclear>karav<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>t<unclear>i</unclear>kaḷ <hi rend="grantha">śrī</hi>-kulō<unclear>ttu</unclear>
+                    <lb n="3" break="no"/>ṅka-cōḻa-tēvarkku yāṇ<unclear>ṭu</unclear> <unclear>9</unclear>
+                    <lb n="4" break="no"/>Āva<supplied reason="omitted">tu</supplied>
+                </p>
+                <p>
+                    Uṭaiyār nalla-nāya<choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice>a
+                    <lb n="5" break="no"/><choice><unclear>rkku</unclear><unclear>nār</unclear></choice> tēvaraṭiyār I <gap unit="character" quantity="1" reason="lost"></gap> <seg rend="check">vu ṟa m <supplied reason="lost">C</supplied></seg> ai <unclear cert="low">ya</unclear>
+                    <lb n="6" break="no"/><choice><unclear>ḷa</unclear><unclear>ḷ</unclear></choice> makaḷ nācc<supplied reason="lost">i</supplied>y<supplied reason="lost">ār</supplied> <gap unit="character" quantity="4" reason="lost"></gap><unclear>t</unclear> to
+                    <lb n="7"/><choice><unclear>ṉṉ</unclear><unclear>ḷḷ</unclear></choice>āyiran t<unclear>u</unclear> <unclear>t</unclear>ai <gap unit="character" quantity="2" reason="lost"></gap> k k<choice><unclear>a</unclear><unclear>o</unclear></choice>vikkum tiru<unclear>v</unclear><supplied reason="lost">ā</supplied>
+                    <lb n="8" break="no"/>ṭṭaiya<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukkum <gap unit="character" quantity="2" reason="lost"></gap> m n<choice><orig>i</orig><reg>ī</reg></choice>kki naḷḷuku
+                    <lb n="9" break="no"/>m Iṉṉāvaṟkkum <unclear>I</unclear><supplied reason="lost">n</supplied>-nāyanār kōyilil
+                    <lb n="10"/>tiruv<choice><sic>a</sic><corr>e</corr></choice><supplied reason="lost">m</supplied>p<choice><orig>a</orig><reg>ā</reg></choice>vai <unclear>mu</unclear>tal <supplied reason="lost">pāṭ</supplied>ṭu<unclear>m</unclear> t<unclear>iru</unclear>vēṭṭai
+                    <lb n="11"/><gap reason="lost" unit="line" quantity="1"></gap>
+                    <lb n="12"/><unclear>Ā</unclear>ṇṭu māṟi cempāti <seg rend="check">ce<supplied reason="omitted">y</supplied>yā <supplied reason="omitted">ka</supplied></seg>ṭavarkaḷ k<supplied reason="lost"><seg rend="check">ku</seg></supplied>
+                    <lb n="13"/>poṉ kaḻ<choice><sic>ai</sic><corr>a</corr></choice>ñc’ araiyum c<choice><sic>i</sic><corr>ī</corr></choice>-paṇṭ<choice><sic>a</sic><corr>ā</corr></choice>rattu
+                    <lb n="14"/>Oṭukku-k koṇṭu taṇṭēcura-vilai y
+                    <lb n="15" break="no"/>-<supplied reason="lost">ā</supplied>ka Ivarkaḷukku <supplied reason="omitted">ku</supplied>ṭuttōm Ik-kōyil t
+                    <lb n="16" break="no"/>ā<choice><orig>n</orig><reg>ṉ</reg></choice>attōm
+                </p>
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                <listApp>
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:...">...</rdg>
+                </app>    
+                
+                </listApp>
+                </div>-->
+            
+            <div type="translation" resp="part:reda part:emfr">
+                
+                <p n="1"> 		
+                    <unclear>Prosperity! Fortune!</unclear>
+                </p>
+                
+                <p n="1-4">
+                    ...
+                </p>
+                
+                <p n="4-16">
+                    ...
+                </p>
+                
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/143).</p>
+                <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>
+                <p>ASI transcript and estampage, if any, yet to be consulted.</p>
+                
+                <!--<listBibl type="primary">
+                    
+                    </listBibl>-->
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1939-1943"/>
+                        <citedRange unit="page">92</citedRange>
+                        <citedRange unit="item">143</citedRange>
+                        <citedRange unit="appendix">B/1940-1941</citedRange>
+                    </bibl> 
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>

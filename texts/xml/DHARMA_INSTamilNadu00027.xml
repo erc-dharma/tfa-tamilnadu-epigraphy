@@ -81,128 +81,128 @@
         </revisionDesc>
     </teiHeader>
     
-<text xml:space="preserve">
+    <text xml:space="preserve">
         
-<body>
-          
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī
-	</ab>
-	
-	<lg n="1" met="kaṭṭaḷaikkalittuṟai">
-		<l n="1">Ulakam maṭantai nutal uṟantaippati y-an-nutaṟku-t</l>
-		<l n="2">tilakam paramaṉamaruñ cirāmalai yammalaivā</l>
-		<l n="3">y-alakiṉ ṉiṟainta katirmaṇi pāyalai kaṭaṉmēl</l>
-		<l n="4">vilakunatiyām poṉṉi paraṉ kaḻuttiṟ koṇṭa veḷvaṭamē</l>
-	</lg>
-	
-	<lg n="2" met="kaṭṭaḷaikkalittuṟai">
-		<l n="1"><lb n="2"/>vaṭa kayilāyamun teṉpāṉ malaiyapporuppum eṉṉun</l>
-		<l n="2">taṭavarai tām itaṉ ṟaṉmaiya v-āvatu tām uṇarntuṅ</l>
-		<l n="3">kaṭavarai mēkamuḻakkuñ cirāmalai kaṇṭa kaṇ</l>
-		<l n="4">muṭavarai y-eṉṟē maṟucāṉṟ’ eṇṇi moḻikiṉṟatē</l>
-	</lg>	
-	
-         </div>
-          
-<div type="apparatus">
-<listApp>
-	
-	<app loc="1">
-		<lem>tilakam</lem>
-		<rdg source="bib:KrishnaSastri1923_01"> tilatam</rdg><!--other references that agree with this one: RI CM TK KM-->
-	</app>
-	<!--<app loc="1">
-		<lem>y-alakiṉ</lem>
-		<rdg source="bib:KrishnaSastri1923_01"> alakil</rdg>REFERENCE HERE IS RE
-		</app>-->
-	<app loc="1">
-		<lem>pāyalai</lem>
-		<rdg source="bib:KrishnaSastri1923_01"> pāya<gap reason="undefined" quantity="2" unit="character"></gap></rdg><!--other references that agree with this one: RI CM TK KM-->
-	</app>
-	<app loc="1">
-		<lem>pāyalai</lem>
-		<rdg source="bib:KrishnaSastri1923_01"> pāya<gap reason="undefined" quantity="3" unit="character"></gap></rdg><!--other references that agree with this one: RI CM TK KM-->
-	</app>
-	<app loc="1">
-		<lem>kaṭaṉmēṉ</lem>
-		<rdg source="bib:KrishnaSastri1923_01">mēl vantatanti</rdg><!--also RI; other reading: mēl vantatantāti in CM, TK, KM; mēlvan taṇaint’ikali RE-->
-	</app>
-	<app loc="1">
-		<lem>vilakunatiyām</lem>
-		<rdg source="bib:KrishnaSastri1923_01"><gap reason="undefined" unit="character" quantity="2"></gap>p-poṉi</rdg><!--also RI CM TK KM; other reading vilakumap poṉṉi RE-->
-	</app>
-	<!--<app loc="1">
-		<lem>paraṉ kaḻuttiṟ</lem>
-		reading by RE puṟaṅkaḻuttiṟ-\->
-		</app>-->
-	
-	<app loc="2">
-		<lem>teṉpāṉ</lem><!--supported by RE-->
-		<rdg source="bib:KrishnaSastri1923_01"> teṉmāṉ</rdg><!--supported also by RI CM TK KM-->
-	</app>
-	<app loc="2">
-		<lem>yeṉṟē</lem>
-		<rdg source="bib:KrishnaSastri1923_01">yo<supplied reason="undefined">kku</supplied></rdg><!--supported also by RI CM TK KM; other reading okkum by RE-->
-	</app>
-	<app loc="2">
-		<lem>maṟucāṉṟeṇṇi</lem>
-		<rdg source="bib:KrishnaSastri1923_01"><supplied reason="undefined">maṟucāṉ</supplied>ṟeṇṇi</rdg><!--supported also by RI CM TK KM; other reading itukāṇ eṉṟeṉṉai by RE-->
-	</app>
-		
-	</listApp>
-</div>
-          
- <div type="translation" resp="part:inma">
- 	
- 	<p rend="stanza" n="1">
- 		The world <supplied reason="explanation"><foreign>ulakam</foreign></supplied> is a lady <supplied reason="explanation"><foreign>maṭantai</foreign></supplied>;
- 		the place Uṟantai <supplied reason="explanation"><foreign>uṟantaippati</foreign></supplied> is her forehead <supplied reason="explanation"><foreign>nutal</foreign></supplied>;
- 		the circular mark <supplied reason="explanation"><foreign>tilakam</foreign></supplied> on that forehead <supplied reason="explanation"><foreign>annutal+ku</foreign></supplied> is Cirāmalai, desired <supplied reason="explanation"><foreign>amarum</foreign></supplied> by Lord <supplied reason="subaudible">Śiva</supplied> <supplied reason="explanation"><foreign>paramaṉ</foreign></supplied>;
- 		in that mountain <supplied reason="explanation"><foreign>ammalaivāy</foreign></supplied>, the river <supplied reason="explanation"><foreign>nati⁓ām</foreign></supplied> Kāviri <supplied reason="explanation"><foreign>poṉṉi</foreign></supplied> spreading waves <supplied reason="explanation"><foreign>pāy-alai</foreign></supplied>, <supplied reason="subaudible">carrying</supplied> countless <supplied reason="explanation"><foreign>alaku il</foreign></supplied>, numerous/well-formed <supplied reason="explanation"><foreign>niṟainta</foreign></supplied> shining gems <supplied reason="explanation"><foreign>katir-maṇi</foreign></supplied>, moving away <supplied reason="explanation"><foreign>vilaku</foreign></supplied> towards the sea <supplied reason="explanation"><foreign>kaṭalmēl</foreign></supplied>, is the white necklace <supplied reason="explanation"><foreign>veḷvaṭam</foreign></supplied> that the Lord <supplied reason="explanation"><foreign>paraṉ</foreign></supplied> has <supplied reason="explanation"><foreign>koṇṭa</foreign></supplied> on His neck <supplied reason="explanation"><foreign>kaḻuttu-il</foreign></supplied>. 
- 	</p>
- 	<p rend="stanza" n="2">
- 		Even though it is realized <supplied reason="explanation"><foreign>tām uṇarntum</foreign></supplied> that the Kailāśa in the north <supplied reason="explanation"><foreign>vaṭa kayilāyamum</foreign></supplied> and the Potikai hill <supplied reason="explanation"><foreign>malaiyapporuppum</foreign></supplied> on the southern side <supplied reason="explanation"><foreign>teṉpāl</foreign></supplied> have the same nature as that <supplied reason="explanation"><foreign>taṉmaiya āvatu</foreign></supplied> of this <supplied reason="explanation"><foreign>itaṉ</foreign></supplied> <supplied reason="subaudible">Cirāmalai</supplied>, once the eye has seen <supplied reason="explanation"><foreign>kaṇṭa kaṇ</foreign></supplied> <supplied reason="subaudible">for itself</supplied> Cirāmalai, where the rutting cloud-elephants <supplied reason="explanation"><foreign>kaṭa varai mēkam</foreign></supplied> roar <supplied reason="explanation"><foreign>muḻakkum</foreign></supplied>, it declares <supplied reason="explanation"><foreign>moḻikiṉṟatē</foreign></supplied> that <supplied reason="subaudible">those</supplied> are really faulty mountains <supplied reason="explanation"><foreign>muṭavarai  eṉṟē</foreign></supplied> considering <supplied reason="explanation"><foreign>eṇṇi</foreign></supplied> the contradictory proof <supplied reason="explanation"><foreign>maṟucāṉṟu</foreign></supplied>.
-
- 	</p>
- 	
- </div>
-      	
-<!--<div type="commentary">
-      		
-</div>-->
-      	
-<div type="bibliography">
-    
-    <p>Reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/62).</p>
-    <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.167).</p>
-    <p>This edition by Indra Manuel, based photos (2022, by Adeline Levivier). Curated by Renato Davalos and Emmanuel Francis.</p>
-    
-    <listBibl type="primary">
-        <bibl n="SII">
-            <ptr target="bib:KrishnaSastri1923_01"/>
-            <citedRange unit="page">21-27</citedRange>
-        </bibl>
-    </listBibl>
-    
-    <listBibl type="secondary">
-        <bibl>
-            <ptr target="bib:ARIE1887-1888_01"/>
-            <citedRange unit="page">6</citedRange>
-            <citedRange unit="item">62</citedRange>
-            <citedRange unit="appendix">I/1887-1888</citedRange>
-        </bibl>
-        <bibl>
-            <ptr target="bib:Mahalingam1991_01"/>
-            <citedRange unit="page">252</citedRange>
-            <citedRange unit="item">Tp 1135</citedRange>
-        </bibl>
-    </listBibl>
-    
-</div>
-      </body>
-  </text>
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <lg n="1" met="kaṭṭaḷaikkalittuṟai">
+                    <l n="1">Ulakam maṭantai nutal uṟantaippati y-an-nutaṟku-t</l>
+                    <l n="2">tilakam paramaṉamaruñ cirāmalai yammalaivā</l>
+                    <l n="3">y-alakiṉ ṉiṟainta katirmaṇi pāyalai kaṭaṉmēl</l>
+                    <l n="4">vilakunatiyām poṉṉi paraṉ kaḻuttiṟ koṇṭa veḷvaṭamē</l>
+                </lg>
+                
+                <lg n="2" met="kaṭṭaḷaikkalittuṟai">
+                    <l n="1"><lb n="2"/>vaṭa kayilāyamun teṉpāṉ malaiyapporuppum eṉṉun</l>
+                    <l n="2">taṭavarai tām itaṉ ṟaṉmaiya v-āvatu tām uṇarntuṅ</l>
+                    <l n="3">kaṭavarai mēkamuḻakkuñ cirāmalai kaṇṭa kaṇ</l>
+                    <l n="4">muṭavarai y-eṉṟē maṟucāṉṟ’ eṇṇi moḻikiṉṟatē</l>
+                </lg>	
+                
+            </div>
+            
+            <div type="apparatus">
+                <listApp>
+                    
+                    <app loc="1">
+                        <lem>tilakam</lem>
+                        <rdg source="bib:KrishnaSastri1923_01"> tilatam</rdg><!--other references that agree with this one: RI CM TK KM-->
+                    </app>
+                    <!--<app loc="1">
+                        <lem>y-alakiṉ</lem>
+                        <rdg source="bib:KrishnaSastri1923_01"> alakil</rdg>REFERENCE HERE IS RE
+                        </app>-->
+                    <app loc="1">
+                        <lem>pāyalai</lem>
+                        <rdg source="bib:KrishnaSastri1923_01"> pāya<gap reason="undefined" quantity="2" unit="character"></gap></rdg><!--other references that agree with this one: RI CM TK KM-->
+                    </app>
+                    <app loc="1">
+                        <lem>pāyalai</lem>
+                        <rdg source="bib:KrishnaSastri1923_01"> pāya<gap reason="undefined" quantity="3" unit="character"></gap></rdg><!--other references that agree with this one: RI CM TK KM-->
+                    </app>
+                    <app loc="1">
+                        <lem>kaṭaṉmēṉ</lem>
+                        <rdg source="bib:KrishnaSastri1923_01">mēl vantatanti</rdg><!--also RI; other reading: mēl vantatantāti in CM, TK, KM; mēlvan taṇaint’ikali RE-->
+                    </app>
+                    <app loc="1">
+                        <lem>vilakunatiyām</lem>
+                        <rdg source="bib:KrishnaSastri1923_01"><gap reason="undefined" unit="character" quantity="2"></gap>p-poṉi</rdg><!--also RI CM TK KM; other reading vilakumap poṉṉi RE-->
+                    </app>
+                    <!--<app loc="1">
+                        <lem>paraṉ kaḻuttiṟ</lem>
+                        reading by RE puṟaṅkaḻuttiṟ-\->
+                        </app>-->
+                    
+                    <app loc="2">
+                        <lem>teṉpāṉ</lem><!--supported by RE-->
+                        <rdg source="bib:KrishnaSastri1923_01"> teṉmāṉ</rdg><!--supported also by RI CM TK KM-->
+                    </app>
+                    <app loc="2">
+                        <lem>yeṉṟē</lem>
+                        <rdg source="bib:KrishnaSastri1923_01">yo<supplied reason="undefined">kku</supplied></rdg><!--supported also by RI CM TK KM; other reading okkum by RE-->
+                    </app>
+                    <app loc="2">
+                        <lem>maṟucāṉṟeṇṇi</lem>
+                        <rdg source="bib:KrishnaSastri1923_01"><supplied reason="undefined">maṟucāṉ</supplied>ṟeṇṇi</rdg><!--supported also by RI CM TK KM; other reading itukāṇ eṉṟeṉṉai by RE-->
+                    </app>
+                    
+                </listApp>
+            </div>
+            
+            <div type="translation" resp="part:inma">
+                
+                <p rend="stanza" n="1">
+                    The world <supplied reason="explanation"><foreign>ulakam</foreign></supplied> is a lady <supplied reason="explanation"><foreign>maṭantai</foreign></supplied>;
+                    the place Uṟantai <supplied reason="explanation"><foreign>uṟantaippati</foreign></supplied> is her forehead <supplied reason="explanation"><foreign>nutal</foreign></supplied>;
+                    the circular mark <supplied reason="explanation"><foreign>tilakam</foreign></supplied> on that forehead <supplied reason="explanation"><foreign>annutal+ku</foreign></supplied> is Cirāmalai, desired <supplied reason="explanation"><foreign>amarum</foreign></supplied> by Lord <supplied reason="subaudible">Śiva</supplied> <supplied reason="explanation"><foreign>paramaṉ</foreign></supplied>;
+                    in that mountain <supplied reason="explanation"><foreign>ammalaivāy</foreign></supplied>, the river <supplied reason="explanation"><foreign>nati⁓ām</foreign></supplied> Kāviri <supplied reason="explanation"><foreign>poṉṉi</foreign></supplied> spreading waves <supplied reason="explanation"><foreign>pāy-alai</foreign></supplied>, <supplied reason="subaudible">carrying</supplied> countless <supplied reason="explanation"><foreign>alaku il</foreign></supplied>, numerous/well-formed <supplied reason="explanation"><foreign>niṟainta</foreign></supplied> shining gems <supplied reason="explanation"><foreign>katir-maṇi</foreign></supplied>, moving away <supplied reason="explanation"><foreign>vilaku</foreign></supplied> towards the sea <supplied reason="explanation"><foreign>kaṭalmēl</foreign></supplied>, is the white necklace <supplied reason="explanation"><foreign>veḷvaṭam</foreign></supplied> that the Lord <supplied reason="explanation"><foreign>paraṉ</foreign></supplied> has <supplied reason="explanation"><foreign>koṇṭa</foreign></supplied> on His neck <supplied reason="explanation"><foreign>kaḻuttu-il</foreign></supplied>. 
+                </p>
+                <p rend="stanza" n="2">
+                    Even though it is realized <supplied reason="explanation"><foreign>tām uṇarntum</foreign></supplied> that the Kailāśa in the north <supplied reason="explanation"><foreign>vaṭa kayilāyamum</foreign></supplied> and the Potikai hill <supplied reason="explanation"><foreign>malaiyapporuppum</foreign></supplied> on the southern side <supplied reason="explanation"><foreign>teṉpāl</foreign></supplied> have the same nature as that <supplied reason="explanation"><foreign>taṉmaiya āvatu</foreign></supplied> of this <supplied reason="explanation"><foreign>itaṉ</foreign></supplied> <supplied reason="subaudible">Cirāmalai</supplied>, once the eye has seen <supplied reason="explanation"><foreign>kaṇṭa kaṇ</foreign></supplied> <supplied reason="subaudible">for itself</supplied> Cirāmalai, where the rutting cloud-elephants <supplied reason="explanation"><foreign>kaṭa varai mēkam</foreign></supplied> roar <supplied reason="explanation"><foreign>muḻakkum</foreign></supplied>, it declares <supplied reason="explanation"><foreign>moḻikiṉṟatē</foreign></supplied> that <supplied reason="subaudible">those</supplied> are really faulty mountains <supplied reason="explanation"><foreign>muṭavarai  eṉṟē</foreign></supplied> considering <supplied reason="explanation"><foreign>eṇṇi</foreign></supplied> the contradictory proof <supplied reason="explanation"><foreign>maṟucāṉṟu</foreign></supplied>.
+                    
+                </p>
+                
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1887-1888_01"/></bibl> (ARIE/1887-1888/I/1887-1888/62).</p>
+                <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923_01"/></bibl> (SII 4.167).</p>
+                <p>This edition by Indra Manuel, based photos (2022, by Adeline Levivier). Curated by Renato Davalos and Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                    <bibl n="SII">
+                        <ptr target="bib:KrishnaSastri1923_01"/>
+                        <citedRange unit="page">21-27</citedRange>
+                    </bibl>
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1887-1888_01"/>
+                        <citedRange unit="page">6</citedRange>
+                        <citedRange unit="item">62</citedRange>
+                        <citedRange unit="appendix">I/1887-1888</citedRange>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bib:Mahalingam1991_01"/>
+                        <citedRange unit="page">252</citedRange>
+                        <citedRange unit="item">Tp 1135</citedRange>
+                    </bibl>
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>
 <!--METADATA: On the back wall of the upper rock-cut cave -->
