@@ -5,162 +5,162 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Nallūr, Vilvāraṇyeśvara, Kullotuṅga Cōḻa king, year 24</title>
-				<respStmt>
-					<resp>Intellectual authorship of edition</resp>
-				    <persName ref="part:reda">
-				        <forename>Renato</forename>
-				        <surname>Dávalos</surname>
-				    </persName>
-				    <persName ref="part:emfr">
-				        <forename>Emmanuel</forename>
-				        <surname>Francis</surname>
-				    </persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc Encoding</resp>
-					<persName ref="part:reda">
-						<forename>Renato</forename>
-						<surname>Dávalos</surname>
-					</persName>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>				
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00046</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis &amp; Vincent Tournier.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>Seems to record the appointment of Būmāḻvi, daughter of Poṟkōyil-Naṅgai, as the <foreign>devaraḍiyāḷ</foreign> of the temple for performing the <foreign>śākkai</foreign> on festival occasions and to sing the Tiruvempāvai <supplied reason="explanation"><foreign>kaṭai-k-kāppu</foreign></supplied>, before the deity on certain terms <supplied reason="explanation">details lost</supplied> on the demise of one Uṭaiyanācci, <foreign>alias</foreign> Kulottuṅga Cōḻa-māṇikkam, daughter of Tiruvēkampa-Naṅkai.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-						    <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<!-- UPDATE the link once the release is made official -->
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:reda" when="2024-11-07">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nallūr, Vilvāraṇyeśvara, Kullotuṅga Cōḻa king, year 24</title>
+                <respStmt>
+                    <resp>Intellectual authorship of edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>				
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00046</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis &amp; Vincent Tournier.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Seems to record the appointment of Būmāḻvi, daughter of Poṟkōyil-Naṅgai, as the <foreign>devaraḍiyāḷ</foreign> of the temple for performing the <foreign>śākkai</foreign> on festival occasions and to sing the Tiruvempāvai <supplied reason="explanation"><foreign>kaṭai-k-kāppu</foreign></supplied>, before the deity on certain terms <supplied reason="explanation">details lost</supplied> on the demise of one Uṭaiyanācci, <foreign>alias</foreign> Kulottuṅga Cōḻa-māṇikkam, daughter of Tiruvēkampa-Naṅkai.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2024-11-07">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
         
-      <body>
-          
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	
-     <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <lb n="1"/><gap reason="lost" quantity="1" unit="line"></gap>
-     	
-        </ab>
-    <p>
-    	<lb n="2"/>t<unclear>i</unclear>r<unclear>i</unclear>puvaṉa-c-ca<supplied reason="omitted">k</supplied>kara-va<supplied reason="omitted">r</supplied><supplied reason="omitted">t</supplied>ti<supplied reason="omitted">ka</supplied>ḷ c<choice><sic>i</sic><corr>ī</corr></choice>-kulō<unclear>t</unclear><supplied reason="omitted">tu</supplied>ṅka-cōḻa-tēvarkku
-     	<lb n="3"/>yāṇṭu <num value="24">2 <g type="numeral">10</g> 4</num>-vatu 
-    </p>
-	<p>
-		muṉ<unclear>ṉal</unclear> <choice><unclear>ārai</unclear><unclear>āṇṭu</unclear></choice> Ik-kōyi
-		<lb n="4" break="no"/>lil tēvaraṭiyā<choice><sic>l</sic><corr>ḷ</corr></choice> t<unclear>i</unclear>ru-vekama<unclear rend="check">ṭṭā</unclear> <unclear rend="check">na</unclear><supplied reason="lost">ṅ</supplied>k<unclear>ai</unclear> makaḷ Uṭaiya-nācci
-		<lb n="5" break="no"/>-y-āṉa kulōttuṅka-cō<supplied reason="lost">ḻa</supplied>-māṇikkam mari<choice><orig>cc</orig><reg>tt</reg></choice>u I
-		<lb n="6"/><gap reason="lost" unit="line" quantity="1"></gap>
-		<lb n="7"/>nāyanār-k kōyil tēva<supplied reason="lost">raṭi</supplied>yāril nācci-y-āṉa
-		<lb n="8"/>poṟ-<unclear>kōyil</unclear> <unclear rend="check">naṅkai ma</unclear>kaḷ pūmāḻvi-y-āṉa
-		<lb n="9"/>Aṉa <gap reason="lost" quantity="11" unit="character"></gap> kattukku tiruv<choice><orig>a</orig><reg>ē</reg></choice>mpā<supplied reason="omitted">vai</supplied>
-		<lb n="10"/>kaṭu-k kaṭai-<unclear>k</unclear>-kāppu <supplied reason="lost">tiru</supplied>-v-eḻucci tiru-c-cā
-		<lb n="11" break="no"/>kk<choice><orig>a</orig><reg>ai</reg></choice> kāṇ <gap reason="lost" unit="character" quantity="1"></gap> <unclear>ṅ kaṭu</unclear> <gap reason="lost" unit="character" quantity="2"></gap> Ivaḷ <gap reason="lost" unit="character" quantity="2"></gap>ṇṭāka
-
-	</p>
-    
-    
-    
-</div>
-          
-<!--<div type="apparatus">
-<listApp>
-	
-    <app loc="0">
-		<lem>...</lem>
-		<rdg source="bib:..."/>
-		<note>...</note>
-	</app>      
-    
-</listApp>
-</div>-->
-          
-<!--<div type="translation" resp="part:reda part:emfr">
- 	    	
-</div>-->
-      	
-<!--<div type="commentary">
-      		
-</div>-->
-      	
-<div type="bibliography">
-    
-    <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/160).</p>
-    <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
-    
-    <!--<listBibl type="primary">
-        
-    </listBibl>-->
-    
-    <listBibl type="secondary">
-        <bibl n="ARIE">
-            <ptr target="bib:ARIE1939-1943"/>
-            <citedRange unit="page">94</citedRange>
-            <citedRange unit="item">160</citedRange>
-            <citedRange unit="appendix">B/1940-1941</citedRange>
-        </bibl> 
-    </listBibl>
-    
-</div>
-      </body>
-  </text>
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <p>
+                    <lb n="1"/><gap reason="lost" quantity="1" unit="line"/>
+                </p>
+                
+                <p>
+                    <lb n="2"/>t<unclear>i</unclear>r<unclear>i</unclear>puvaṉa-c-ca<supplied reason="omitted">k</supplied>kara-va<supplied reason="omitted">r</supplied><supplied reason="omitted">t</supplied>ti<supplied reason="omitted">ka</supplied>ḷ c<choice><sic>i</sic><corr>ī</corr></choice>-kulō<unclear>t</unclear><supplied reason="omitted">tu</supplied>ṅka-cōḻa-tēvarkku
+                    <lb n="3"/>yāṇṭu <num value="24">2 <g type="numeral">10</g> 4</num>-vatu 
+                </p>
+                <p>
+                    muṉ<unclear>ṉal</unclear> <choice><unclear>ārai</unclear><unclear>āṇṭu</unclear></choice> Ik-kōyi
+                    <lb n="4" break="no"/>lil tēvaraṭiyā<choice><sic>l</sic><corr>ḷ</corr></choice> t<unclear>i</unclear>ru-vekama<unclear rend="check">ṭṭā</unclear> <unclear rend="check">na</unclear><supplied reason="lost">ṅ</supplied>k<unclear>ai</unclear> makaḷ Uṭaiya-nācci
+                    <lb n="5" break="no"/>-y-āṉa kulōttuṅka-cō<supplied reason="lost">ḻa</supplied>-māṇikkam mari<choice><orig>cc</orig><reg>tt</reg></choice>u I
+                    <lb n="6"/><gap reason="lost" unit="line" quantity="1"></gap>
+                    <lb n="7"/>nāyanār-k kōyil tēva<supplied reason="lost">raṭi</supplied>yāril nācci-y-āṉa
+                    <lb n="8"/>poṟ-<unclear>kōyil</unclear> <unclear rend="check">naṅkai ma</unclear>kaḷ pūmāḻvi-y-āṉa
+                    <lb n="9"/>Aṉa <gap reason="lost" quantity="11" unit="character"></gap> kattukku tiruv<choice><orig>a</orig><reg>ē</reg></choice>mpā<supplied reason="omitted">vai</supplied>
+                    <lb n="10"/>kaṭu-k kaṭai-<unclear>k</unclear>-kāppu <supplied reason="lost">tiru</supplied>-v-eḻucci tiru-c-cā
+                    <lb n="11" break="no"/>kk<choice><orig>a</orig><reg>ai</reg></choice> kāṇ <gap reason="lost" unit="character" quantity="1"></gap> <unclear>ṅ kaṭu</unclear> <gap reason="lost" unit="character" quantity="2"></gap> Ivaḷ <gap reason="lost" unit="character" quantity="2"></gap>ṇṭāka
+                    
+                </p>
+                
+                
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                <listApp>
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:..."/>
+                <note>...</note>
+                </app>      
+                
+                </listApp>
+                </div>-->
+            
+            <!--<div type="translation" resp="part:reda part:emfr">
+                
+                </div>-->
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/160).</p>
+                <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
+                
+                <!--<listBibl type="primary">
+                    
+                    </listBibl>-->
+                
+                <listBibl type="secondary">
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1939-1943"/>
+                        <citedRange unit="page">94</citedRange>
+                        <citedRange unit="item">160</citedRange>
+                        <citedRange unit="appendix">B/1940-1941</citedRange>
+                    </bibl> 
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>

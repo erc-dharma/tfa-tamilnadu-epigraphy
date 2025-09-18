@@ -99,8 +99,8 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-                    <lb n="1"/><g type="ddanda"/> <g type="pc"/> svasti śrī
+                <ab>
+                    <lb n="1"/><g type="ddanda"/> <g type="pc"/> <hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
                 <p>
