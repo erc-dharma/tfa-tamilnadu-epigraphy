@@ -83,9 +83,9 @@
                 <div type="textpart" subtype="zone" n="A">
                     <head xml:lang="eng">Verso of the plate</head>
                     
-                    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <ab>
                         <pb n="1v"/>
-                        <lb n="1"/><g type="pc"/> svasti śrī
+                        <lb n="1"/><g type="pc"/> <hi rend="grantha">svasti śrī</hi>
                     </ab>
                     
                     <p>
@@ -98,8 +98,8 @@
                         <lb n="7"/><gap reason="ellipsis"/> ceṉmapattiṟikā <g type="pc">.</g>
                     </p>
                     
-                    <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                        svasti śrī
+                    <ab>
+                        <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                     </ab>
                     
                     <p>

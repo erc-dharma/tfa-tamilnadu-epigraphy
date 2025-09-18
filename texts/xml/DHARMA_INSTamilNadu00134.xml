@@ -88,8 +88,8 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <lb n="1"/>svasti śrī <g type="undefined">.</g><!--visarga followed by piḷḷaiyār cuḻ-->
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <g type="undefined">.</g> <g type="circleDouble">.</g><g type="pc">.</g>
                 </ab>	
                 
                 <p>

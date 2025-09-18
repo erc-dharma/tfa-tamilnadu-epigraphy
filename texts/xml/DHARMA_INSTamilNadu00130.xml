@@ -5,184 +5,184 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Rājarāja, year 25</title>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:vija">
-						<forename>G.</forename>
-						<surname>Vijayavenugopal</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00130</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p><hi rend="bold">Tamil script</hi>. No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-						<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the repository</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-
-<body>
-         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>
-		<milestone n="A" unit="zone" type="gridlike"/>
-		<unclear>svasti srī</unclear> <g type="gomutraFinal">.</g>
-	</ab>	
-	
-	<p>
-		t<supplied reason="lost">i</supplied>ri-puvaṉa-<unclear>c-cakk</unclear>ara-va<reg>r</reg>ttikaḷ <hi rend="grantha">srī</hi>
-		<milestone n="B" unit="zone" type="gridlike" break="no"/>
-		<hi rend="grantha">-rāja-rāja-de</hi>vaṟku yāṇṭu <num value="25">2 <g type="numeral">10</g> 5</num>-vatiṉ
-		<milestone n="C" unit="zone" type="gridlike"/>
-		Etir-ām āṇṭu tulā-nāyaṟṟu <hi rend="grantha"><unclear>p</unclear>ū<unclear>rvva</unclear>-pakṣa</hi>t<unclear>tu</unclear> <supplied reason="lost"><hi rend="grantha">da</hi></supplied>
-		<milestone n="D" unit="zone" type="gridlike" break="no"/>
-		śamiyum putaṉ-k<unclear>i</unclear>ḻamaiyum peṟṟa catayattu nā
-		<milestone n="E" unit="zone" type="gridlike" break="no"/>
-		<supplied reason="lost">ḷ</supplied>
-	</p>
-	<p>
-		Uyya-k-koṇṭār-vaḷa-<supplied reason="lost">n</supplied>]āṭṭu mu⌈
-		<milestone n="F" unit="zone" type="gridlike" break="no"/>
-		ḻaiyūr-nāṭṭu Uṭaiyār tirunaḷḷāṟu<supplied reason="lost">ṭai</supplied>
-		
-		<lb n="2" break="no"/>
-		<milestone n="A" unit="zone" type="gridlike"/>
-		
-	</p>
-</div>
-	
-<!--<div type="apparatus">
-           
-	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">...</rdg>
-		</app> 
-	</listApp>	
-	
-</div>-->
-      	
-<!--<div type="translation" resp="part:emfr">
-      		
-	<p n="1">...</p>	
-	
-</div>-->
-      	
-<!--<div type="commentary">
-      		
-</div>-->
-      	
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1968-1969"/></bibl> (ARIE/1968-1969/B/1968-1969/114).</p>
-	
-	<p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 479); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 30), with photos. Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 479).</p>
-	
-	<p>This edition by G. Vijayavenugopal (2019). Curated by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016).</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="K+V">
-			<ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
-			<citedRange unit="item">479</citedRange>
-			<citedRange unit="page">TBC</citedRange>
-		</bibl>
-		
-		<bibl n="K+al">
-			<ptr target="bib:Kuppusamy+al2010_01"/>
-			<citedRange unit="item">479</citedRange>
-			<citedRange unit="page">TBC</citedRange>
-		</bibl>
-		
-		<bibl n="V">
-			<ptr target="bib:Vijayavenugopal2017_01"/>
-			<citedRange unit="item">30</citedRange>
-			<citedRange unit="page">85</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1968-1969"/>
-			<citedRange unit="page">35</citedRange>
-			<citedRange unit="appendix">B/1968-1969</citedRange>
-			<citedRange unit="item">114</citedRange>
-		</bibl>
-		
-		<!--<bibl>
-			<ptr target="bib:Cuppiramaniyam1983_01"/>
-		</bibl>-->
-		
-	</listBibl>
-	
-</div>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Rājarāja, year 25</title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:vija">
+                        <forename>G.</forename>
+                        <surname>Vijayavenugopal</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00130</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by G. Vijayavenugopal</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><hi rend="bold">Tamil script</hi>. No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the repository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/>
+                    <milestone n="A" unit="zone" type="gridlike"/>
+                    <hi rend="grantha"><unclear>svasti srī</unclear></hi> <g type="gomutraFinal">.</g>
+                </ab>	
+                
+                <p>
+                    t<supplied reason="lost">i</supplied>ri-puvaṉa-<unclear>c-cakk</unclear>ara-va<reg>r</reg>ttikaḷ <hi rend="grantha">srī</hi>
+                    <milestone n="B" unit="zone" type="gridlike" break="no"/>
+                    <hi rend="grantha">-rāja-rāja-de</hi>vaṟku yāṇṭu <num value="25">2 <g type="numeral">10</g> 5</num>-vatiṉ
+                    <milestone n="C" unit="zone" type="gridlike"/>
+                    Etir-ām āṇṭu tulā-nāyaṟṟu <hi rend="grantha"><unclear>p</unclear>ū<unclear>rvva</unclear>-pakṣa</hi>t<unclear>tu</unclear> <supplied reason="lost"><hi rend="grantha">da</hi></supplied>
+                    <milestone n="D" unit="zone" type="gridlike" break="no"/>
+                    śamiyum putaṉ-k<unclear>i</unclear>ḻamaiyum peṟṟa catayattu nā
+                    <milestone n="E" unit="zone" type="gridlike" break="no"/>
+                    <supplied reason="lost">ḷ</supplied>
+                </p>
+                <p>
+                    Uyya-k-koṇṭār-vaḷa-<supplied reason="lost">n</supplied>]āṭṭu mu⌈
+                    <milestone n="F" unit="zone" type="gridlike" break="no"/>
+                    ḻaiyūr-nāṭṭu Uṭaiyār tirunaḷḷāṟu<supplied reason="lost">ṭai</supplied>
+                    
+                    <lb n="2" break="no"/>
+                    <milestone n="A" unit="zone" type="gridlike"/>
+                    
+                </p>
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">...</rdg>
+                </app> 
+                </listApp>	
+                
+                </div>-->
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <p n="1">...</p>	
+                
+                </div>-->
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1968-1969"/></bibl> (ARIE/1968-1969/B/1968-1969/114).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 479); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 30), with photos. Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 479).</p>
+                
+                <p>This edition by G. Vijayavenugopal (2019). Curated by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="K+V">
+                        <ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/> 
+                        <citedRange unit="item">479</citedRange>
+                        <citedRange unit="page">TBC</citedRange>
+                    </bibl>
+                    
+                    <bibl n="K+al">
+                        <ptr target="bib:Kuppusamy+al2010_01"/>
+                        <citedRange unit="item">479</citedRange>
+                        <citedRange unit="page">TBC</citedRange>
+                    </bibl>
+                    
+                    <bibl n="V">
+                        <ptr target="bib:Vijayavenugopal2017_01"/>
+                        <citedRange unit="item">30</citedRange>
+                        <citedRange unit="page">85</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1968-1969"/>
+                        <citedRange unit="page">35</citedRange>
+                        <citedRange unit="appendix">B/1968-1969</citedRange>
+                        <citedRange unit="item">114</citedRange>
+                    </bibl>
+                    
+                    <!--<bibl>
+                        <ptr target="bib:Cuppiramaniyam1983_01"/>
+                        </bibl>-->
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>

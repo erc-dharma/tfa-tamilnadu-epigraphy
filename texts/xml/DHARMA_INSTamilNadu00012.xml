@@ -87,8 +87,8 @@
 			
 <div type="edition">
 	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/><supplied reason="lost">śrī</supplied>ḥ
+	<ab>
+		<lb n="1"/><hi rend="grantha"><supplied reason="lost">śrī</supplied></hi> <g type="circleDouble">.</g>
 	</ab>
 	
 	<lg met="vasantatilakā" n="1" xml:lang="san-Latn" rendition="class:grantha maturity:83215">

@@ -89,8 +89,8 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <lb n="1"/><unclear>svasti śrī</unclear>
+                <ab>
+                    <lb n="1"/><hi rend="grantha"><unclear>svasti śrī</unclear></hi>
                 </ab>
                 
                 <lg n="1" met="āciriyappā">

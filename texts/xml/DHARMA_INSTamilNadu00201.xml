@@ -5,186 +5,186 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Kāñcīpuram copper plate, Jovian year Vikāri</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00201</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-<sourceDesc>
-	<msDesc>
-		<msIdentifier>
-			<repository>DHARMAbase</repository>
-			<idno/>
-		</msIdentifier>
-		<msContents>
-			<summary>...</summary>
-		</msContents>
-		<physDesc>
-			<handDesc>
-				<p>...</p>
-			</handDesc>
-		</physDesc>
-	</msDesc>
-</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-                        under the European Union's Horizon 2020 research and innovation programme (grant
-                        agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                            ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-04-19" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-      <body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-         	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<pb n="1r"/>
-		<lb n="1r1=1"/>śubham astu
-	</ab>
-	
-	<lg n="1" met="anuṣṭubh">
-		
-		<l n="a">yāvac <unclear>c</unclear>andrasya sūryyau</l>
-		<l n="b">tāvad ṭiṣṭadi medani</l>
-		<l n="c">yāvad rāma-kathā lo<lb n="1r2=2" break="no"/>ke</l>
-		<l n="d">tāvad rāñjyaṃ vibhiṣaṇaṃ <g type="gomutraFinalComplex">.</g></l>
-
-	</lg>	
-	
-	<p>
-		Alakil aṇṭamuñ cila vaḻintu maṟṟ’ aṇṭā<lb n="1r3=3" break="no"/>ṇṭamuñ ...
-	</p>
-	
-	<p>
-		<pb n="1v"/><lb n="1v1=55"/>...
-	</p>
-	
-	<p>
-		kāmāṭci
-		<lb n="1v55=99" break="no"/>-y-ammaṉ ca<unclear>ṉi</unclear>ya-tāṉ<unclear>attiṟ</unclear> kaluṅ kāvēriy<choice><sic>i</sic><corr>u</corr></choice>m pullum pūmiyum uḷḷa varaikkum āṇṭaṉ a
-		<lb n="1v56=100" break="no"/><unclear>ṉ</unclear>upa<unclear>vi</unclear>ttu-k koḷvīr ākavum
-	</p>
-	
-	<p>
-		eṉṟu Eḻuti-k kuṭuṭta tāmpūra-cātaṉa[m/ñ] cāṭṣi kāṃāṭci-y-amma
-		<lb n="1v57=101" break="no"/>ṉ <unclear>Ā</unclear>kāca<unclear>p</unclear>āṇi pū-mā-tēvi cantira-cūriyāḷ ivāḷ cāṭṣi-y-āka
-		cāṟanta-kulam iruva
-		<lb n="1v58=102" break="no"/>tti-ṉālu<supplied reason="subaudible">m</supplied> ma<unclear>ṉ</unclear>aiyārun tāmpūra-cātaṉam eḻuti kuṭuttōm
-	</p>
-	
-	<p>
-		inta-t taṟma[t/tt]uku vākku-c-cakā
-		<lb n="1v59=103" break="no"/><unclear>yañ ca</unclear>rīra-cakāyam aṟtta-cakāyam inta-t taṟma paripāli<unclear>ṉa</unclear><reg>ñ</reg> ceyta pērkaḷ kāci-keṅkaiyil 
-		<lb n="1v60=104"/><unclear>ṣ</unclear>[t/n]āṉa ce<unclear>y</unclear>tu kā<unclear>c</unclear>i-vicuva-ṉātaraiyum viṣālāṣṣiyaiyuñ cevi<unclear>tta</unclear> palaṉ peṟuv<unclear>ā</unclear>
-		<lb n="1v61=105" break="no"/><unclear>r</unclear> ākavun ta<unclear>ṉu</unclear>-k-koṭiyil ṣtāṉa ceytu rāma-liṅkattaiyum pacuv[ātā]-pattiṉi
-		<lb n="1v62=106" break="no"/><unclear>yai</unclear>yuñ cevi<unclear>tta</unclear> palaṉ peṟuvār ākavum
-	</p>
-	
-	<p>
-		intat taṟma<unclear>tt</unclear>ukku y-iṭaṅ-kēṭu ceyta pērkaḷu
-		<lb n="1v63=107" break="no"/>m nintiṉai cey<unclear>ta</unclear> pērkaḷuṅ k<unclear>ā</unclear>ṣi-pār[u/ā]vatattil 68 civālaiyattil <num value="108"><g type="numeral">100</g> 8</num>-t tiru-p-patiyil-k 
-		<lb n="1v64=108"/>keṅkai-k karaiyil-p piramaṇaṉaiyuṅ kār-ām-pacuvaiyuṅ koṉṟa tōṣattilē[y/yu] mā
-		<lb n="1v65=109" break="no"/>tā-p-pitāvaiyuṅ kuruvaiyuṅ kuruvaiyuṅ koṉṟa tōṣattil aṭaivār ākavum
-	</p>
-	
-	<p>
-		<unclear>a</unclear>
-		<lb n="1v66=110" break="no"/><unclear>p-paṭi</unclear> v<unclear>ā</unclear>rāmal <unclear>a</unclear>ttaṟma-paripāliṉ<unclear>a</unclear><reg>ñ</reg> ceytu varuvār āk<choice><sic>i</sic><corr>a</corr></choice>vum
-	</p>
-	<p>
-		y-ēkāmp[ār/arar] kāmāṣṣi-y-am
-		<lb n="1v67=111" break="no"/>maṉ cakā<unclear>[y]</unclear>am <g type="gomutraFinalComplex">.</g>
-	</p>
-	<p>
-		śrī-rāma-cuvāmi cakāyam <g type="gomutraFinalComplex">.</g>
-	</p>
-		
-</div>
-
-<!--<div type="apparatus">
-	
-	<listApp>
-		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Isvaran2009_01">...</rdg>
-		</app>
-		
-	</listApp>
-      		
-</div>-->
-      	
-<div type="translation" resp="part:emfr">	
-
-		
-	<p n="1">Let ther be goodness!</p>	
-	
-</div>
-      	
-<!--<div type="commentary">
-	
-</div>-->
-      	
-<div type="bibliography">
-		
-	<p>Edited and translated here by Emmanuel Francis (2024), based on photos (Melikian Foundation, 2014).</p>
-	
-	<!--<listBibl type="primary"/>		
-		
-	<listBibl type="secondary"/>-->
-   
-</div>
-
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kāñcīpuram copper plate, Jovian year Vikāri</title>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00201</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>...</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>...</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-04-19" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <pb n="1r"/>
+                    <lb n="1r1=1"/><hi rend="grantha">śubham astu</hi>
+                </ab>
+                
+                <lg n="1" met="anuṣṭubh">
+                    
+                    <l n="a">yāvac <unclear>c</unclear>andrasya sūryyau</l>
+                    <l n="b">tāvad ṭiṣṭadi medani</l>
+                    <l n="c">yāvad rāma-kathā lo<lb n="1r2=2" break="no"/>ke</l>
+                    <l n="d">tāvad rāñjyaṃ vibhiṣaṇaṃ <g type="gomutraFinalComplex">.</g></l>
+                    
+                </lg>	
+                
+                <p>
+                    Alakil aṇṭamuñ cila vaḻintu maṟṟ’ aṇṭā<lb n="1r3=3" break="no"/>ṇṭamuñ ...
+                </p>
+                
+                <p>
+                    <pb n="1v"/><lb n="1v1=55"/>...
+                </p>
+                
+                <p>
+                    kāmāṭci
+                    <lb n="1v55=99" break="no"/>-y-ammaṉ ca<unclear>ṉi</unclear>ya-tāṉ<unclear>attiṟ</unclear> kaluṅ kāvēriy<choice><sic>i</sic><corr>u</corr></choice>m pullum pūmiyum uḷḷa varaikkum āṇṭaṉ a
+                    <lb n="1v56=100" break="no"/><unclear>ṉ</unclear>upa<unclear>vi</unclear>ttu-k koḷvīr ākavum
+                </p>
+                
+                <p>
+                    eṉṟu Eḻuti-k kuṭuṭta tāmpūra-cātaṉa[m/ñ] cāṭṣi kāṃāṭci-y-amma
+                    <lb n="1v57=101" break="no"/>ṉ <unclear>Ā</unclear>kāca<unclear>p</unclear>āṇi pū-mā-tēvi cantira-cūriyāḷ ivāḷ cāṭṣi-y-āka
+                    cāṟanta-kulam iruva
+                    <lb n="1v58=102" break="no"/>tti-ṉālu<supplied reason="subaudible">m</supplied> ma<unclear>ṉ</unclear>aiyārun tāmpūra-cātaṉam eḻuti kuṭuttōm
+                </p>
+                
+                <p>
+                    inta-t taṟma[t/tt]uku vākku-c-cakā
+                    <lb n="1v59=103" break="no"/><unclear>yañ ca</unclear>rīra-cakāyam aṟtta-cakāyam inta-t taṟma paripāli<unclear>ṉa</unclear><reg>ñ</reg> ceyta pērkaḷ kāci-keṅkaiyil 
+                    <lb n="1v60=104"/><unclear>ṣ</unclear>[t/n]āṉa ce<unclear>y</unclear>tu kā<unclear>c</unclear>i-vicuva-ṉātaraiyum viṣālāṣṣiyaiyuñ cevi<unclear>tta</unclear> palaṉ peṟuv<unclear>ā</unclear>
+                    <lb n="1v61=105" break="no"/><unclear>r</unclear> ākavun ta<unclear>ṉu</unclear>-k-koṭiyil ṣtāṉa ceytu rāma-liṅkattaiyum pacuv[ātā]-pattiṉi
+                    <lb n="1v62=106" break="no"/><unclear>yai</unclear>yuñ cevi<unclear>tta</unclear> palaṉ peṟuvār ākavum
+                </p>
+                
+                <p>
+                    intat taṟma<unclear>tt</unclear>ukku y-iṭaṅ-kēṭu ceyta pērkaḷu
+                    <lb n="1v63=107" break="no"/>m nintiṉai cey<unclear>ta</unclear> pērkaḷuṅ k<unclear>ā</unclear>ṣi-pār[u/ā]vatattil 68 civālaiyattil <num value="108"><g type="numeral">100</g> 8</num>-t tiru-p-patiyil-k 
+                    <lb n="1v64=108"/>keṅkai-k karaiyil-p piramaṇaṉaiyuṅ kār-ām-pacuvaiyuṅ koṉṟa tōṣattilē[y/yu] mā
+                    <lb n="1v65=109" break="no"/>tā-p-pitāvaiyuṅ kuruvaiyuṅ kuruvaiyuṅ koṉṟa tōṣattil aṭaivār ākavum
+                </p>
+                
+                <p>
+                    <unclear>a</unclear>
+                    <lb n="1v66=110" break="no"/><unclear>p-paṭi</unclear> v<unclear>ā</unclear>rāmal <unclear>a</unclear>ttaṟma-paripāliṉ<unclear>a</unclear><reg>ñ</reg> ceytu varuvār āk<choice><sic>i</sic><corr>a</corr></choice>vum
+                </p>
+                <p>
+                    y-ēkāmp[ār/arar] kāmāṣṣi-y-am
+                    <lb n="1v67=111" break="no"/>maṉ cakā<unclear>[y]</unclear>am <g type="gomutraFinalComplex">.</g>
+                </p>
+                <p>
+                    śrī-rāma-cuvāmi cakāyam <g type="gomutraFinalComplex">.</g>
+                </p>
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:Isvaran2009_01">...</rdg>
+                </app>
+                
+                </listApp>
+                
+                </div>-->
+            
+            <div type="translation" resp="part:emfr">	
+                
+                
+                <p n="1">Let ther be goodness!</p>	
+                
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Edited and translated here by Emmanuel Francis (2024), based on photos (Melikian Foundation, 2014).</p>
+                
+                <!--<listBibl type="primary"/>		
+                    
+                    <listBibl type="secondary"/>-->
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
