@@ -83,82 +83,82 @@
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
-	<body>
-		
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-	             	
-    <ab xml:lang="san-Latn" rendition="class:grantha maturity:regional">
-        <lb n="1"/>svasti śrī
-    </ab>
-    
-    <p>
-        matirai koṇṭa kō-p-para-kē<hi rend="grantha">sa</hi>ri-<hi rend="grantha">panma</hi>rkku
-        <lb n="2"/>yāṇṭu Irupat-āvatu
-    </p>
-    <p>
-        vaṭa-karai nal-vayalūr-k-kūṟṟattu
-        <lb n="3" break="no"/>-t tēva-tāṉam uṟum<choice><orig>u</orig><reg>ū</reg></choice>r ciṟu-t-tiru-k-kōyil <hi rend="grantha">mahā-de</hi>varkku
-        <lb n="4"/>Ivv-ūr va<unclear>ṭa</unclear>-cēri Uṭaiyar nilakaṇṭaṉ <unclear>cāt</unclear>taṉ kuṭu<unclear>t</unclear>
-        <lb n="5" break="no"/>ta Āṭu toṇṇūṟu
-    </p>
-    <p>Ivaṉ kuṭutta n<unclear>i</unclear>lai-viḷakku
-        <lb n="6"/> niṟai Iru-nūṟṟu-p palam
-    </p>
-    <p>ivv-<unclear>ā</unclear>ṭu koṇṭu nicatam Uḻāku ne
-        <lb n="7" break="no"/>yāl Oru nantā-viḷakku <hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rāditya</hi>vaṟ Erippip<unclear>pōm ā</unclear>ṉō<unclear>m</unclear>
-        <lb n="8"/>Uṟum<choice><orig>u</orig><reg>ū</reg></choice>r <hi rend="grantha">sabhai</hi>yōm
-    </p>
-    <p>
-        Itu <hi rend="grantha">panmāheśva</hi>rar ira<hi rend="grantha">kṣai</hi> <g type="gomutraFinal">.</g>
-    </p>
-          
-</div>	
-	
-<!--<div type="apparatus">
-			
-    <listApp>
-        <app loc="1">
-            <lem>...</lem>
-            <rdg source="bib:...">...</rdg>
-        </app>
-    </listApp>
-	
-</div>-->
-		
-<div type="translation" resp="part:emfr">
-				
-    <p n="1">Prosperity! Fortune!</p>
-    			
-</div>	
-		
-<!--<div type="commentary">
-	
-</div>-->
-		
-<div type="bibliography">
-	        
-    <p>Reported in <bibl><ptr target="bib:ARIE1913-1914"/></bibl> (ARIE/1913-1914/B/1913/382).</p>
-    <p>This edition by Emmanuel Francis (2024), based on autopsy (2024) and photos (E. Francis, 2024).</p>
-	
-    <!--<listBibl type="primary">               
-        
-    </listBibl>-->           
-    
-    <listBibl type="secondary">
-        
-        <bibl>
-            <ptr target="bib:ARIE1913-1914"/>
-            <citedRange unit="page">43</citedRange>
-            <citedRange unit="appendix">B/1913</citedRange>
-            <citedRange unit="item">382</citedRange>
-        </bibl>	
-        
-    </listBibl>
-</div>
-	</body>
-	</text>
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <p>
+                    matirai koṇṭa kō-p-para-kē<hi rend="grantha">sa</hi>ri-<hi rend="grantha">panma</hi>rkku
+                    <lb n="2"/>yāṇṭu Irupat-āvatu
+                </p>
+                <p>
+                    vaṭa-karai nal-vayalūr-k-kūṟṟattu
+                    <lb n="3" break="no"/>-t tēva-tāṉam uṟum<choice><orig>u</orig><reg>ū</reg></choice>r ciṟu-t-tiru-k-kōyil <hi rend="grantha">mahā-de</hi>varkku
+                    <lb n="4"/>Ivv-ūr va<unclear>ṭa</unclear>-cēri Uṭaiyar nilakaṇṭaṉ <unclear>cāt</unclear>taṉ kuṭu<unclear>t</unclear>
+                    <lb n="5" break="no"/>ta Āṭu toṇṇūṟu
+                </p>
+                <p>Ivaṉ kuṭutta n<unclear>i</unclear>lai-viḷakku
+                    <lb n="6"/> niṟai Iru-nūṟṟu-p palam
+                </p>
+                <p>ivv-<unclear>ā</unclear>ṭu koṇṭu nicatam Uḻāku ne
+                    <lb n="7" break="no"/>yāl Oru nantā-viḷakku <hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rāditya</hi>vaṟ Erippip<unclear>pōm ā</unclear>ṉō<unclear>m</unclear>
+                    <lb n="8"/>Uṟum<choice><orig>u</orig><reg>ū</reg></choice>r <hi rend="grantha">sabhai</hi>yōm
+                </p>
+                <p>
+                    Itu <hi rend="grantha">panmāheśva</hi>rar ira<hi rend="grantha">kṣai</hi> <g type="gomutraFinal">.</g>
+                </p>
+                
+            </div>	
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                <app loc="1">
+                <lem>...</lem>
+                <rdg source="bib:...">...</rdg>
+                </app>
+                </listApp>
+                
+                </div>-->
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">Prosperity! Fortune!</p>
+                
+            </div>	
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1913-1914"/></bibl> (ARIE/1913-1914/B/1913/382).</p>
+                <p>This edition by Emmanuel Francis (2024), based on autopsy (2024) and photos (E. Francis, 2024).</p>
+                
+                <!--<listBibl type="primary">               
+                    
+                    </listBibl>-->           
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1913-1914"/>
+                        <citedRange unit="page">43</citedRange>
+                        <citedRange unit="appendix">B/1913</citedRange>
+                        <citedRange unit="item">382</citedRange>
+                    </bibl>	
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
 </TEI>
 
 <!--METADATA:
-	
+    
 -->
