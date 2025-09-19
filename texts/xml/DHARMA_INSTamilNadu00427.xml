@@ -90,8 +90,8 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
-		<lb n="1"/>s<supplied reason="lost">vasti śrī</supplied>
+	<ab>		
+		<lb n="1"/><hi rend="grantha">s<supplied reason="lost">vasti śrī</supplied></hi>
 	</ab>
 	<p>
 		<gap reason="lost" quantity="4" unit="character" precision="low"/> c-ca <gap reason="lost" quantity="3" unit="character" precision="low"/>

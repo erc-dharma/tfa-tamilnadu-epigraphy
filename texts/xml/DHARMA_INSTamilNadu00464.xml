@@ -97,7 +97,8 @@
 		<l n="d"><unclear>ka</unclear>ṭhoragiri-vāsina<unclear reason="eccentric_ductus">ḥ</unclear></l>
 	</lg>
 	
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">svasti
+	<ab>
+	    <hi rend="grantha">svasti</hi>
 	</ab>
 	<p>
 		<lb n="2"/>sakābtam <num value="1565"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 6 <g type="numeral">10</g> 5</num> Itaṉ mel cellā niṉṟa piramātita <g type="varuṣam"/> vaikāci

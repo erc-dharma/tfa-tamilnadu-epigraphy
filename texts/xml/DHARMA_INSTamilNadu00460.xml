@@ -90,8 +90,8 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
-		<lb n="1"/>śubham astu śubhasti
+	<ab>		
+		<lb n="1"/><hi rend="grantha">śubham astu śubhasti</hi>
 	</ab>
 	<p>
 		śrīman-<hi rend="grantha">ma</hi>kā-maṇṭalēcuraṉ Irāya-vipā <gap reason="lost" quantity="2" unit="character" precision="low"/> pā<hi rend="grantha"><unclear>ṣ</unclear>ai</hi> <gap reason="lost" quantity="2" unit="character" precision="low"/>

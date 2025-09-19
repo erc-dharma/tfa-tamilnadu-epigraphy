@@ -90,8 +90,8 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
-		<lb n="1"/>śrī
+	<ab>		
+		<lb n="1"/><hi rend="grantha">śrī</hi>
 	</ab>
 	<p>
 		kō-māṟa-paṉmar-āṉa <hi rend="grantha">tribhu</hi>vaṉa-ca<hi rend="grantha">kra</hi>-va<reg>r</reg>ttikaḷ Em maṇṭalamuṅ koṇṭ-aruḷiya <hi rend="grantha">śrī</hi>-kulacēkara-tēvarkku yāṇ

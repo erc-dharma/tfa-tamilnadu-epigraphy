@@ -5,233 +5,236 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Pirāṉmalai, Maṅkai Pākar, time of Naraciṅkarāya, Śaka year 1422</title>
-			    <respStmt>
-			        <resp>intellectual authorship of edition</resp>
-			        <persName ref="part:vija">
-			            <forename>G.</forename>
-			            <surname>Vijayavenugopal</surname>
-			        </persName>
-			    </respStmt>
-			    <respStmt>
-			        <resp>EpiDoc encoding</resp>
-			        <persName ref="part:emfr">
-			            <forename>Emmanuel</forename>
-			            <surname>Francis</surname>
-			        </persName>
-			    </respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00446</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
-				repository</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-
-<body>
-         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	
-	<!--check variant readings between VVG and SII--> 
-		
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
-		<lb n="1"/><unclear>śu</unclear>bham astu svasti
-	</ab>
-	
-	<p>
-		<hi rend="grantha">śrīmaṉ-mahā</hi>-maṇṭalīcuraṉ Ariya-rāya-vipāṭan mētiṉi-mīcara-kaṇṭa-kaṭṭāri
-		<lb n="2" break="no"/>-cāḷuva-Immaṭi-nara-ciṅka-rāya-taṉma-rāya<unclear>r</unclear> piṟutuvi-rācciyam paṇṇi-Aruḷā niṉṟa cakāttam
-		<lb n="3"/><num value="1422"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 2 <g type="numeral">10</g> 2</num>-ṉ mēl cellā niṉṟa Iravuttira-<hi rend="grantha">saṃsamsa</hi>rattu <hi rend="grantha">dakṣi</hi>ṇ<unclear>ā</unclear>yanat=tu <hi rend="grantha">dha</hi>nu<unclear>r</unclear>-mā<hi rend="grantha">sa</hi>ttu pavurṇa<unclear>mi</unclear>
-		<lb n="4" break="no"/>yum <hi rend="grantha">bṛhaspa</hi>ti-vāramum peṟṟa kā<reg>r</reg>ttikai nāḷ cōma-k-kirāṇa-puṇya-<unclear>kā</unclear>lat=tu
-	</p>
-	<p>
-		Ayyaṉ
-		<lb n="5"/>tipparaca-Ayyaṉ taṉmam-āka Ēppuli-nāyakkar vaiytta viruppa-rāya-kiri-y-āṉa y-irāy-ampala-p-paṟṟil
-		<lb n="6"/>pūlāṅ kuḷam-āṉa tipparaca-puram cōma-k-kirāṇa-puṇya-kālattu Ēppuli-nāyakkar cakira<hi rend="grantha">ṇya</hi> U<hi rend="grantha">da</hi>ka-<hi rend="grantha">dhā</hi>rā-pūṟu
-		<lb n="7" break="no"/>va-<hi rend="grantha">dham<supplied reason="omitted">·</supplied>ma-dā</hi>ṉam-āka koṭutta kīḻ-maṅkala-nāṭṭu cunta<unclear>ra</unclear>-pāṇ<unclear>ṭiya</unclear>-c-catu<reg>r</reg>v<supplied reason="omitted">·</supplied>vēti-maṅkalattu
-		<lb n="8"/><unclear>kā</unclear>ttiyāyaṉa-<hi rend="grantha">gotra</hi>ttu Āculāyaṉa-<hi rend="grantha">sūtra</hi>ttu peruṅ-ka <gap reason="lost" quantity="3" unit="character" precision="low"/> nallūr Aruḷ-uṭai-p
-		<lb n="9" break="no"/>-perumāḷ pēr-aruḷāḷa-p-paṭṭaṉukku pākam-āka Ivaṉ-uṭaiya kaṉuṭṭā <gap reason="lost" quantity="4" unit="character" precision="low"/> tārā
-		<lb n="10" break="no"/>-paṭṭa<unclear>ṉukku</unclear> pākam I-Uṟu<!--check--> <gap reason="lost" quantity="4" unit="character" precision="low"/> tāḻaiyūr nāṭṭu v<unclear>ē</unclear>ppaṅ kuḷam-āṉa māḷuva-tuṅka-caturvēti
-		<lb n="11" break="no"/>-ma<unclear>ṅkalat</unclear>tu mā<unclear>ṭa</unclear>la-kōttiṟat=tu Aculāyaṉa-<hi rend="grantha">sū</hi>ttiṟattu kūmūr Eṭuttakai Aḻakiyār cavari-rāca
-		<lb n="12" break="no"/>-paṭṭaṉukku pākam-āka Ivar puttiṟaṉ tiru-māliruñ-cōlai paṭṭaṉukku pākam I varu<!--check--> pā
-		<lb n="13" break="no"/>kam <gap reason="lost" quantity="4" unit="character" precision="low"/> k koṭutta pūlāṅ kuḷam-āṉa tipparaca-purattukku Ellai
-		
-		<list>
-			<item>
-				pūvaṉ ciṟumpi <gap reason="lost" quantity="3" unit="character" precision="low"/>
-				<lb n="14" break="no"/>kuḷattu <gap reason="lost" quantity="6" unit="character" precision="low"/> laikku mēṟku</item>
-			<item>
-				teṉ-pāṟk' ellai tiru-c-cūla-kallukku vaṭakku
-			</item>
-			<item>
-				mēl-pāṟ
-				<lb n="15"/>kk' ellai cūriyaṉ vayalukku kiḻakku
-			</item>			
-			<item>vaṭa-pāṟk' ellai maṭṭiyūr kuḷattukku <unclear>vel</unclear>
-				<lb n="16" break="no"/><gap reason="lost" quantity="6" unit="character" precision="low"/> varukiṟa kālukku teṟkum
-			</item>
-		</list> 
-		
-		Icainta peru-nāṉk' ellaikk' uṭ-paṭ
-		<lb n="17" break="no"/>ṭa nañcai puñcai kuḷam kuḷa-p-parappu nattam natta-p-parappu kīḷ nōkkiya kiṇaṟu<supplied reason="subaudible">m</supplied>
-		<lb n="18"/>mēl nōkkiya maramum niti-ni<hi rend="grantha">kṣe</hi>pa-pā<hi rend="grantha">ṣā</hi>ṇa maṟṟum uḷḷa <hi rend="grantha">sa</hi>matta-piṟāttikaḷum canta
-		<lb n="19" break="no"/>ti-pira<unclear>v</unclear>ē<unclear>camē</unclear> cantirātittiya-vaṟ cella tāṉā tamaṉa [vini]<!--check-->maya vik<unclear>ki</unclear>ṟaiyaṅkaḷum yōkki
-		<lb n="20" break="no"/>yam-āka koḷḷavum
-	</p>
-	<p>
-		Itukku patinta ku<unclear>ṭi</unclear> caṟuva-māni<unclear>yam-ā</unclear>ka Aṉupavittu-k koḷḷavum
-	</p>
-	<p>		
-		<lb n="21"/>Inta-t taṉmattukku A<hi rend="grantha"><unclear>hi</unclear></hi><unclear>ta</unclear>m ceyta<unclear>vaṉ</unclear> keṅkai-k karaiyilē kuruvum mātā-pitāvaiyum vatai
-		<lb n="22"/>ceytavāḷ pāpattilē pōka<!--check--> ka<unclear>ṭavar ā</unclear>kavum
-	</p>
-	
-    <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:tamil maturity:83215">
-        <l n="a"><hi rend="grantha">dā</hi>na-pālaṉaiyo mattiyē</l>
-        <l n="b"><hi rend="grantha">dā</hi>ṉā cēyo <supplied reason="subaudible">'</supplied><hi rend="grantha">nu</hi>pāla
-            <lb n="23" break="no"/>nam</l>
-        <l n="c"><hi rend="grantha">dā</hi>nā<hi rend="grantha"><unclear>t·</unclear> sva</hi>ṟk<hi rend="grantha">am ā</hi>ppunōti</l>
-        <l n="d">pālanātaccutam pa<hi rend="grantha">dam·</hi></l>
-    </lg>
-	
-    <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:tamil maturity:83215">
-        <l n="a"><hi rend="grantha">s<choice><sic>t</sic><corr>v</corr></choice>a-da</hi>ttā<supplied reason="omitted">t</supplied> tuvikuṇam <hi rend="grantha">puṇya</hi>m</l>
-        <l n="b">para<hi rend="grantha">da</hi>tt
-            <lb n="24" break="no"/>ā<hi rend="grantha"><unclear>nu</unclear></hi>pālanam</l>
-        <l n="c">para<hi rend="grantha">da</hi>ttāpa<hi rend="grantha">hāre</hi>ṇa</l>
-        <l n="d"><hi rend="grantha"><unclear>s</unclear><choice><sic><unclear>t</unclear></sic><corr>v</corr></choice><unclear>a</unclear>-da</hi>t=ta<unclear>n</unclear> ni<hi rend="grantha"><unclear>ś</unclear><choice><sic><unclear>v</unclear></sic><corr>ph</corr></choice><unclear>a</unclear>la<unclear>m·</unclear> bha</hi>ve<hi rend="grantha">t·</hi></l>	
-    </lg>
-    
-</div>
-	
-<div type="apparatus">
-           
-<listApp>
-	
-	<!--<app loc="0">
-		<lem>...</lem>
-		<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-		<rdg source="bib:SubrahmanyaAiyer1937_01">...</rdg>
-	</app>-->
-	
-	<app loc="1">
-		<lem><hi rend="grantha">śrīmaṉ</hi>°</lem>
-		<rdg source="bib:Vijayavenugopal2022_01"/>
-		<rdg source="bib:SubrahmanyaAiyer1937_01"><hi rend="grantha">śrīman·</hi></rdg>
-	</app>
-	
-</listApp>
-	
-</div>
-      	
-<!--<div type="translation" resp="part:emfr">
-      		
-      		<p n="1">
-      			...
-      		</p>
-      		
-</div>-->
-	
-<div type="commentary">
-	
-	<p>The final two formulaic stanzas are examples of Sanskrit Stanzas written in both alternating Grantha and Tamil scripts, with, as a result, some metrical irregularity in respect of Sanskrit prosody, like for instance <foreign>mattiyē</foreign> for <foreign>madhye</foreign>, <foreign>tuvikuṇam</foreign> for <foreign>dviguṇam</foreign>. Note also <foreign>dāṉā cēyo</foreign> for <foreign>dānāc chreyo</foreign> and <foreign>niśvalam</foreign> for <foreign>niṣphalaṁ</foreign>.</p>
-	
-</div>
-      	
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/151).</p>
-	
-	<p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.439), in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 46), with photos.</p>
-		
-	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
-	
-	<listBibl type="primary">		
-		
-		<bibl n="SII">
-			<ptr target="bib:SubrahmanyaAiyer1937_01"/>
-			<citedRange unit="item">439</citedRange>
-			<citedRange unit="page">229-230</citedRange>
-		</bibl>
-		
-		<bibl n="V">
-			<ptr target="bib:Vijayavenugopal2022_01"/>
-			<citedRange unit="item">46</citedRange>
-			<citedRange unit="page">109-110</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1903-1904"/>
-			<citedRange unit="page">19</citedRange>
-			<citedRange unit="appendix">A/1903</citedRange>
-			<citedRange unit="item">151</citedRange>
-		</bibl>
-		
-	</listBibl>
-      		
-        </div>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pirāṉmalai, Maṅkai Pākar, time of Naraciṅkarāya, Śaka year 1422</title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:vija">
+                        <forename>G.</forename>
+                        <surname>Vijayavenugopal</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00446</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by G. Vijayavenugopal</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
+                repository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <!--check variant readings between VVG and SII--> 
+                
+                <ab>		
+                    <lb n="1"/><hi rend="grantha"><unclear>śu</unclear>bham astu</hi>
+                </ab>
+                <ab>	    
+                    <hi rend="grantha">svasti</hi>
+                </ab>
+                
+                <p>
+                    <hi rend="grantha">śrīmaṉ-mahā</hi>-maṇṭalīcuraṉ Ariya-rāya-vipāṭan mētiṉi-mīcara-kaṇṭa-kaṭṭāri
+                    <lb n="2" break="no"/>-cāḷuva-Immaṭi-nara-ciṅka-rāya-taṉma-rāya<unclear>r</unclear> piṟutuvi-rācciyam paṇṇi-Aruḷā niṉṟa cakāttam
+                    <lb n="3"/><num value="1422"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 2 <g type="numeral">10</g> 2</num>-ṉ mēl cellā niṉṟa Iravuttira-<hi rend="grantha">saṃsamsa</hi>rattu <hi rend="grantha">dakṣi</hi>ṇ<unclear>ā</unclear>yanat=tu <hi rend="grantha">dha</hi>nu<unclear>r</unclear>-mā<hi rend="grantha">sa</hi>ttu pavurṇa<unclear>mi</unclear>
+                    <lb n="4" break="no"/>yum <hi rend="grantha">bṛhaspa</hi>ti-vāramum peṟṟa kā<reg>r</reg>ttikai nāḷ cōma-k-kirāṇa-puṇya-<unclear>kā</unclear>lat=tu
+                </p>
+                <p>
+                    Ayyaṉ
+                    <lb n="5"/>tipparaca-Ayyaṉ taṉmam-āka Ēppuli-nāyakkar vaiytta viruppa-rāya-kiri-y-āṉa y-irāy-ampala-p-paṟṟil
+                    <lb n="6"/>pūlāṅ kuḷam-āṉa tipparaca-puram cōma-k-kirāṇa-puṇya-kālattu Ēppuli-nāyakkar cakira<hi rend="grantha">ṇya</hi> U<hi rend="grantha">da</hi>ka-<hi rend="grantha">dhā</hi>rā-pūṟu
+                    <lb n="7" break="no"/>va-<hi rend="grantha">dham<supplied reason="omitted">·</supplied>ma-dā</hi>ṉam-āka koṭutta kīḻ-maṅkala-nāṭṭu cunta<unclear>ra</unclear>-pāṇ<unclear>ṭiya</unclear>-c-catu<reg>r</reg>v<supplied reason="omitted">·</supplied>vēti-maṅkalattu
+                    <lb n="8"/><unclear>kā</unclear>ttiyāyaṉa-<hi rend="grantha">gotra</hi>ttu Āculāyaṉa-<hi rend="grantha">sūtra</hi>ttu peruṅ-ka <gap reason="lost" quantity="3" unit="character" precision="low"/> nallūr Aruḷ-uṭai-p
+                    <lb n="9" break="no"/>-perumāḷ pēr-aruḷāḷa-p-paṭṭaṉukku pākam-āka Ivaṉ-uṭaiya kaṉuṭṭā <gap reason="lost" quantity="4" unit="character" precision="low"/> tārā
+                    <lb n="10" break="no"/>-paṭṭa<unclear>ṉukku</unclear> pākam I-Uṟu<!--check--> <gap reason="lost" quantity="4" unit="character" precision="low"/> tāḻaiyūr nāṭṭu v<unclear>ē</unclear>ppaṅ kuḷam-āṉa māḷuva-tuṅka-caturvēti
+                    <lb n="11" break="no"/>-ma<unclear>ṅkalat</unclear>tu mā<unclear>ṭa</unclear>la-kōttiṟat=tu Aculāyaṉa-<hi rend="grantha">sū</hi>ttiṟattu kūmūr Eṭuttakai Aḻakiyār cavari-rāca
+                    <lb n="12" break="no"/>-paṭṭaṉukku pākam-āka Ivar puttiṟaṉ tiru-māliruñ-cōlai paṭṭaṉukku pākam I varu<!--check--> pā
+                    <lb n="13" break="no"/>kam <gap reason="lost" quantity="4" unit="character" precision="low"/> k koṭutta pūlāṅ kuḷam-āṉa tipparaca-purattukku Ellai
+                    
+                    <list>
+                        <item>
+                            pūvaṉ ciṟumpi <gap reason="lost" quantity="3" unit="character" precision="low"/>
+                            <lb n="14" break="no"/>kuḷattu <gap reason="lost" quantity="6" unit="character" precision="low"/> laikku mēṟku</item>
+                        <item>
+                            teṉ-pāṟk' ellai tiru-c-cūla-kallukku vaṭakku
+                        </item>
+                        <item>
+                            mēl-pāṟ
+                            <lb n="15"/>kk' ellai cūriyaṉ vayalukku kiḻakku
+                        </item>			
+                        <item>vaṭa-pāṟk' ellai maṭṭiyūr kuḷattukku <unclear>vel</unclear>
+                            <lb n="16" break="no"/><gap reason="lost" quantity="6" unit="character" precision="low"/> varukiṟa kālukku teṟkum
+                        </item>
+                    </list> 
+                    
+                    Icainta peru-nāṉk' ellaikk' uṭ-paṭ
+                    <lb n="17" break="no"/>ṭa nañcai puñcai kuḷam kuḷa-p-parappu nattam natta-p-parappu kīḷ nōkkiya kiṇaṟu<supplied reason="subaudible">m</supplied>
+                    <lb n="18"/>mēl nōkkiya maramum niti-ni<hi rend="grantha">kṣe</hi>pa-pā<hi rend="grantha">ṣā</hi>ṇa maṟṟum uḷḷa <hi rend="grantha">sa</hi>matta-piṟāttikaḷum canta
+                    <lb n="19" break="no"/>ti-pira<unclear>v</unclear>ē<unclear>camē</unclear> cantirātittiya-vaṟ cella tāṉā tamaṉa [vini]<!--check-->maya vik<unclear>ki</unclear>ṟaiyaṅkaḷum yōkki
+                    <lb n="20" break="no"/>yam-āka koḷḷavum
+                </p>
+                <p>
+                    Itukku patinta ku<unclear>ṭi</unclear> caṟuva-māni<unclear>yam-ā</unclear>ka Aṉupavittu-k koḷḷavum
+                </p>
+                <p>		
+                    <lb n="21"/>Inta-t taṉmattukku A<hi rend="grantha"><unclear>hi</unclear></hi><unclear>ta</unclear>m ceyta<unclear>vaṉ</unclear> keṅkai-k karaiyilē kuruvum mātā-pitāvaiyum vatai
+                    <lb n="22"/>ceytavāḷ pāpattilē pōka<!--check--> ka<unclear>ṭavar ā</unclear>kavum
+                </p>
+                
+                <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:tamil maturity:83215">
+                    <l n="a"><hi rend="grantha">dā</hi>na-pālaṉaiyo mattiyē</l>
+                    <l n="b"><hi rend="grantha">dā</hi>ṉā cēyo <supplied reason="subaudible">'</supplied><hi rend="grantha">nu</hi>pāla
+                        <lb n="23" break="no"/>nam</l>
+                    <l n="c"><hi rend="grantha">dā</hi>nā<hi rend="grantha"><unclear>t·</unclear> sva</hi>ṟk<hi rend="grantha">am ā</hi>ppunōti</l>
+                    <l n="d">pālanātaccutam pa<hi rend="grantha">dam·</hi></l>
+                </lg>
+                
+                <lg n="2" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:tamil maturity:83215">
+                    <l n="a"><hi rend="grantha">s<choice><sic>t</sic><corr>v</corr></choice>a-da</hi>ttā<supplied reason="omitted">t</supplied> tuvikuṇam <hi rend="grantha">puṇya</hi>m</l>
+                    <l n="b">para<hi rend="grantha">da</hi>tt
+                        <lb n="24" break="no"/>ā<hi rend="grantha"><unclear>nu</unclear></hi>pālanam</l>
+                    <l n="c">para<hi rend="grantha">da</hi>ttāpa<hi rend="grantha">hāre</hi>ṇa</l>
+                    <l n="d"><hi rend="grantha"><unclear>s</unclear><choice><sic><unclear>t</unclear></sic><corr>v</corr></choice><unclear>a</unclear>-da</hi>t=ta<unclear>n</unclear> ni<hi rend="grantha"><unclear>ś</unclear><choice><sic><unclear>v</unclear></sic><corr>ph</corr></choice><unclear>a</unclear>la<unclear>m·</unclear> bha</hi>ve<hi rend="grantha">t·</hi></l>	
+                </lg>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <!--<app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01">...</rdg>
+                        </app>-->
+                    
+                    <app loc="1">
+                        <lem><hi rend="grantha">śrīmaṉ</hi>°</lem>
+                        <rdg source="bib:Vijayavenugopal2022_01"/>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01"><hi rend="grantha">śrīman·</hi></rdg>
+                    </app>
+                    
+                </listApp>
+                
+            </div>
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                ...
+                </p>
+                
+                </div>-->
+            
+            <div type="commentary">
+                
+                <p>The final two formulaic stanzas are examples of Sanskrit Stanzas written in both alternating Grantha and Tamil scripts, with, as a result, some metrical irregularity in respect of Sanskrit prosody, like for instance <foreign>mattiyē</foreign> for <foreign>madhye</foreign>, <foreign>tuvikuṇam</foreign> for <foreign>dviguṇam</foreign>. Note also <foreign>dāṉā cēyo</foreign> for <foreign>dānāc chreyo</foreign> and <foreign>niśvalam</foreign> for <foreign>niṣphalaṁ</foreign>.</p>
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/151).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.439), in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 46), with photos.</p>
+                
+                <p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
+                
+                <listBibl type="primary">		
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:SubrahmanyaAiyer1937_01"/>
+                        <citedRange unit="item">439</citedRange>
+                        <citedRange unit="page">229-230</citedRange>
+                    </bibl>
+                    
+                    <bibl n="V">
+                        <ptr target="bib:Vijayavenugopal2022_01"/>
+                        <citedRange unit="item">46</citedRange>
+                        <citedRange unit="page">109-110</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1903-1904"/>
+                        <citedRange unit="page">19</citedRange>
+                        <citedRange unit="appendix">A/1903</citedRange>
+                        <citedRange unit="item">151</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>

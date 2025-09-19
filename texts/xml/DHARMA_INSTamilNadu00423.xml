@@ -90,8 +90,8 @@
          
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
-		<lb n="1"/>svasti
+	<ab>		
+		<lb n="1"/><hi rend="grantha">svasti</hi>
 	</ab>
 	
 	<p><hi rend="grantha">samasta-jagadā<!--check-->dhāra-somakula</hi>-t<choice><sic>a</sic><corr>i</corr></choice><hi rend="grantha">la<add place="below">ka</add>-madhurāpura-mādhava-keraḷa</hi>-va<hi rend="grantha">ṃśa</hi>-ni<hi rend="grantha">rmmalan laṃkā-dvīpaluṇḍa</hi>na<!--check-->-<hi rend="grantha">dvi</hi>tīya-<hi rend="grantha">rāma-cōḷa-kula-śaila-kuliśa-karṇāṭa<!--check-->-rāja</hi>vi<hi rend="grantha">drā</hi>vaṇa-<hi rend="grantha">karikkarikūṭapākala</hi>-vivi<hi rend="grantha">da-ripu-durgga-<!--check-->marddha</hi>na-vī<hi rend="grantha">ra-gaṇṭagopāla</hi>-vi<hi rend="grantha">pi</hi>na-<hi rend="grantha">dā</hi>va<hi rend="grantha">da-ha</hi>na <hi rend="grantha">kāñcīpura</hi>-va<hi rend="grantha">rādīśvara-gaṇapa</hi>t<unclear>i</unclear> <hi rend="grantha">hariṇa śā<reg>r</reg>dūḷa</hi>-nellū<hi rend="grantha">r pura</hi>-vi<hi rend="grantha">raci</hi>ta-vī<hi rend="grantha">rābhiṣeka-praṇa</hi>ta-<hi rend="grantha">rājādhirāja-paramēśvara-tri-<supplied reason="lost">bhuva</supplied></hi><unclear>ṉa</unclear>-c-ca<hi rend="grantha">kra</hi>-va<reg>r</reg>tti-<hi rend="grantha">śrī-sundara-pāṇḍya-de</hi>var tiru-malai-nāṭṭu tiru-k-koṭuṅ-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉār-kōyil tāṉa <gap reason="lost" quantity="6" unit="character" precision="low"/> cuntara-pāṇṭi <gap reason="lost" quantity="4" unit="character" precision="low"/> ṭataṟkum Amutu-paṭi cāttu-paṭi Uḷḷuṭṭu

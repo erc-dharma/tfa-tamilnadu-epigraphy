@@ -5,179 +5,179 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Pirāṉmalai, Maṅkai Pākar, time of Accutatēvamahārāya, Śaka year 1452</title>
-			    <respStmt>
-			        <resp>intellectual authorship of edition</resp>
-			        <persName ref="part:vija">
-			            <forename>G.</forename>
-			            <surname>Vijayavenugopal</surname>
-			        </persName>
-			    </respStmt>
-			    <respStmt>
-			        <resp>EpiDoc encoding</resp>
-			        <persName ref="part:emfr">
-			            <forename>Emmanuel</forename>
-			            <surname>Francis</surname>
-			        </persName>
-			    </respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00455</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by G. Vijayavenugopal</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union's Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
-				repository</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-
-<body>
-         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
-		<lb n="1"/>svasti
-	</ab>
-	<p>
-		<hi rend="grantha">śrīman·-mahāmaṇṭalīśvaran· A</hi><hi rend="grantha"><unclear>r</unclear>i</hi>ya-rāyar vi<hi rend="grantha">bhā</hi><supplied reason="omitted">ṭa</supplied><hi rend="grantha">n· bhāṣai</hi>kku-t tappu-v-arāyaru kaṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice> mūvarāyara kaṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice> kaṇṭa nāṭu koṇṭu koṇṭa nāṭu kuṭātāṉ <hi rend="grantha">rājādhirājan· rāja-parameśvara-pūrvva-dakṣa</hi>ṇa-pacci<hi rend="grantha">ma</hi>-Utta<hi rend="grantha">ra-catus-samudrādhipati-śrī</hi>-vī<hi rend="grantha">ra-pradāpa-śrīmat·</hi>-Accuta-<hi rend="grantha">de</hi>va-<hi rend="grantha">mahā-rā</hi>ya
-		<lb n="2" break="no"/><hi rend="grantha">r pṛdhivi-rājyam·</hi> paṇṇi-Aruḷā niṉṟa <hi rend="grantha">śakāb<supplied reason="omitted">·</supplied>dam·</hi> <num value="1452"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 5 <g type="numeral">10</g> 2</num>-ṉ mēl cellā niṉ<supplied reason="lost">ṟa</supplied> vikuṟuti-<hi rend="grantha">samvat·sara</hi>t=tu Ut=ta<hi rend="grantha">rā</hi>yanat=tu <hi rend="grantha">hema</hi>-ritu-v-āṉa <hi rend="grantha">maka</hi>ra-nāyiṟu <hi rend="grantha">śukla-pakṣa</hi>t=tu <hi rend="grantha">pañcami-y re</hi>vati na<hi rend="grantha">kṣatra</hi>mu=M <hi rend="grantha">p<unclear>u</unclear>dha</hi>-vā<hi rend="grantha">ra</hi>mu=M <hi rend="grantha">siddha</hi>-yō<hi rend="grantha">ga</hi>mu=M peṟṟa <hi rend="grantha">saṃkrama-puṇya-kāla</hi>t=tu
-	</p>
-	<p>		
-		<lb n="3"/>tiru-malai-nāṭṭu-t= tiru-k-koṭu<unclear reason="eccentric_ductus">ṅ=-ku</unclear>ṉṟam-āṉa <hi rend="grantha">dakṣi</hi>ṇa-<hi rend="grantha">ka</hi>yilā<hi rend="grantha">sa</hi>t=tu <hi rend="grantha">pradi</hi>caiyil-<hi rend="grantha">k ka</hi>llā<hi rend="grantha">ra</hi>-maṭat=tu <hi rend="grantha">bhikṣā-maṭha-sa</hi><unclear>n=tā</unclear>ṉa-<hi rend="grantha">mā</hi>na-<hi rend="grantha">lakṣā<unclear>ddhyā</unclear></hi>yi-<hi rend="grantha">sa</hi>n=tāṉat=tu <hi rend="grantha">go</hi>ḷa<hi rend="grantha">ki-dham<supplied reason="omitted">·</supplied>ma</hi>t=tu <hi rend="grantha">gā</hi>ya<hi rend="grantha">tri-gotra</hi>t=tu ya<hi rend="grantha">j<choice><sic>a</sic><corr>u</corr></choice>r</hi>-vē<hi rend="grantha">da</hi>t=tu <hi rend="grantha">paripāla</hi>-ta<hi rend="grantha">rā</hi>ṉa <gap reason="lost" quantity="6" unit="character" precision="low"/> li <hi rend="grantha">maṇ<unclear>ḍ</unclear>alādhipa</hi>ti pāṇ=ṭi-nāṭṭu mutali-y
-		<lb n="4" break="no"/>-<unclear>ā</unclear>ṉa Ī<hi rend="grantha">śā</hi>na-<hi rend="grantha">śi</hi>van· <hi rend="grantha">dham<supplied reason="omitted">·</supplied>ma-śāsa</hi>na-p-paṭṭaiyaṅ koṭut=ta pa=ṭi kēraḷa-ci<choice><orig>ñ</orig><reg>ṅ</reg></choice>ka-vaḷanāṭṭu me <gap reason="lost" quantity="6" unit="character" precision="low"/> <supplied reason="lost">ni</supplied>rupa-<hi rend="grantha">śe<choice><orig>k</orig><reg>kh</reg></choice>a</hi>ra-<hi rend="grantha">ca</hi><supplied reason="lost">tu<hi rend="grantha">rvve</hi></supplied>ti-<hi rend="grantha">maṃkala</hi>t=tu <hi rend="grantha">sa<unclear>bh</unclear>ai ka</hi>vucika-<hi rend="grantha">gotra</hi>t=tu Ā<supplied reason="lost">cuva</supplied>lāya<supplied reason="omitted">na</supplied>-<hi rend="grantha">sūtra</hi>t=tu <unclear>I</unclear> <gap reason="lost" quantity="1" unit="character" precision="low"/> nātar <hi rend="grantha"><unclear reason="eccentric_ductus">pu</unclear>tran· Ā</hi> vācaka-nāraṇa-valaṅkāra-nampi <gap reason="lost" quantity="5" unit="character" precision="low"/> kuṭutta Ūr <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="5"/>kēraḷa-ciṅka-vaḷanāṭṭu piraiyūr paṟṟu namm uṭai maṭa-p-puram-āṉa maṭattūr peru nāṉk' ellaikk' uṭ-paṭṭa nañcai puñ(cai) kuḷamum miḷa <gap reason="lost" quantity="3" unit="character" precision="low"/> ṉa peru nāṉ <gap reason="lost" quantity="6" unit="character" precision="low"/> kuḷamum vayalu nañcai puñcaiyaḷum nattañ ceyttalai kuṭā paṭukai viṭṭa Āṟṟukkālūṟṟu <gap reason="lost" quantity="5" unit="character" precision="low"/> māvaṭai maravaṭai
-		<lb n="6"/>maṟṟum<!--check--> Uḷḷa n<supplied reason="lost">i</supplied><hi rend="grantha">dhi</hi>-ni<hi rend="grantha">kṣe</hi>pa-<hi rend="grantha">jala-pā<supplied reason="lost">ṣ</supplied>ā</hi>ṇā<hi rend="grantha">dyaṣabhoga</hi>-tēca-cuvā<hi rend="grantha">mi</hi>yamu=M Uḷ-pa=ṭ=ṭa <hi rend="grantha">dā</hi>nā<hi rend="grantha">di</hi> vini<hi rend="grantha">ma</hi>ya<unclear>ṅ</unclear><supplied reason="lost">ka</supplied>ḷukku=M yō<hi rend="grantha">gyam-ā</hi>ka <hi rend="grantha">sa</hi>n=tati <hi rend="grantha">pra</hi>vē<hi rend="grantha">śam-ā</hi>ka Ā<hi rend="grantha">candrā<reg>r</reg>kkasthāyi</hi> Āka Aṉu<hi rend="grantha">bha</hi>vi<supplied reason="omitted">k</supplied>ka<supplied reason="omitted">vum</supplied>
-	</p>
-	
-	<lg n="1" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">dāna-pālanayo<reg>r</reg> m<supplied reason="omitted">·</supplied>maddhye</l>
-		<l n="b">dānāt· ścreyo 'nup<choice><sic>o</sic><corr>ā</corr></choice><unclear>lana=M</unclear></l>
-		<l n="c"><unclear>dā</unclear>nāt· sva<reg>r</reg>gam· <lb n="7"/> v-āpnoti</l>
-		<l n="d">pālanād ac<choice><sic>cira</sic><corr>yu</corr></choice>taṁ pa<supplied reason="lost">da</supplied>ṃ</l>
-	</lg>
-	
-	<lg n="2" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">sva-dattāt· dviguṇa-puṇyam·</l>
-		<l n="b">para-dattānupāla<choice><sic>n·</sic><corr>nam·</corr></choice></l>
-		<l n="c">pa<supplied reason="lost">ra</supplied>dattāpahā<seg rendition="class:tamil maturity:83215">reṇa</seg></l>	
-		<l n="d">svadattam· niṣphalam· bhavēt·</l>
-	</lg>
-	<p xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		Evam pāṇ<unclear>ḍi</unclear>-maṇ<unclear>ḍa</unclear>lādhipa<seg rendition="class:tamil maturity:83215">ti</seg>-Īśā<seg rendition="class:tamil maturity:83215">na</seg>-ś<unclear>i</unclear>vasa <seg rendition="class:tamil maturity:83215">li</seg>khi<unclear>ta=M</unclear>
-	</p>
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		śubham astu				
-	</ab>
-</div>
-	
-<div type="apparatus">
-           
-	<listApp>
-		<app loc="1">
-			<lem><hi rend="grantha">A</hi><hi rend="grantha"><unclear>r</unclear>i</hi>ya-rāyar</lem>
-			<rdg source="bib:Vijayavenugopal2022_01">A<gap reason="lost" quantity="1" unit="character"/>varāyar</rdg>
-		</app> 
-	</listApp>
-	
-</div>
-      	
-<!--<div type="translation" resp="part:emfr">
-      		
-      		<p n="1">
-      			...
-      		</p>
-      		
-</div>-->
-	
-<!--<div type="commentary">
-      		
-</div>-->
-      	
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/193).</p>
-	
-	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 55), with photos.</p>
-		
-	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="V">
-			<ptr target="bib:Vijayavenugopal2022_01"/>
-			<citedRange unit="item">55</citedRange>
-			<citedRange unit="page">133-135</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-      			<bibl>
-      				<ptr target="bib:ARIE1923-1924"/>
-      				<citedRange unit="page">58</citedRange>
-      				<citedRange unit="appendix">C/1924</citedRange>
-      				<citedRange unit="item">193</citedRange>
-      			</bibl>
-      			
-      		</listBibl>
-	
-        </div>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pirāṉmalai, Maṅkai Pākar, time of Accutatēvamahārāya, Śaka year 1452</title>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <persName ref="part:vija">
+                        <forename>G.</forename>
+                        <surname>Vijayavenugopal</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00455</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by G. Vijayavenugopal</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
+                repository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>		
+                    <lb n="1"/><hi rend="grantha">svasti</hi>
+                </ab>
+                <p>
+                    <hi rend="grantha">śrīman·-mahāmaṇṭalīśvaran· A</hi><hi rend="grantha"><unclear>r</unclear>i</hi>ya-rāyar vi<hi rend="grantha">bhā</hi><supplied reason="omitted">ṭa</supplied><hi rend="grantha">n· bhāṣai</hi>kku-t tappu-v-arāyaru kaṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice> mūvarāyara kaṇṭa<choice><orig>n</orig><reg>ṉ</reg></choice> kaṇṭa nāṭu koṇṭu koṇṭa nāṭu kuṭātāṉ <hi rend="grantha">rājādhirājan· rāja-parameśvara-pūrvva-dakṣa</hi>ṇa-pacci<hi rend="grantha">ma</hi>-Utta<hi rend="grantha">ra-catus-samudrādhipati-śrī</hi>-vī<hi rend="grantha">ra-pradāpa-śrīmat·</hi>-Accuta-<hi rend="grantha">de</hi>va-<hi rend="grantha">mahā-rā</hi>ya
+                    <lb n="2" break="no"/><hi rend="grantha">r pṛdhivi-rājyam·</hi> paṇṇi-Aruḷā niṉṟa <hi rend="grantha">śakāb<supplied reason="omitted">·</supplied>dam·</hi> <num value="1452"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 5 <g type="numeral">10</g> 2</num>-ṉ mēl cellā niṉ<supplied reason="lost">ṟa</supplied> vikuṟuti-<hi rend="grantha">samvat·sara</hi>t=tu Ut=ta<hi rend="grantha">rā</hi>yanat=tu <hi rend="grantha">hema</hi>-ritu-v-āṉa <hi rend="grantha">maka</hi>ra-nāyiṟu <hi rend="grantha">śukla-pakṣa</hi>t=tu <hi rend="grantha">pañcami-y re</hi>vati na<hi rend="grantha">kṣatra</hi>mu=M <hi rend="grantha">p<unclear>u</unclear>dha</hi>-vā<hi rend="grantha">ra</hi>mu=M <hi rend="grantha">siddha</hi>-yō<hi rend="grantha">ga</hi>mu=M peṟṟa <hi rend="grantha">saṃkrama-puṇya-kāla</hi>t=tu
+                </p>
+                <p>		
+                    <lb n="3"/>tiru-malai-nāṭṭu-t= tiru-k-koṭu<unclear reason="eccentric_ductus">ṅ=-ku</unclear>ṉṟam-āṉa <hi rend="grantha">dakṣi</hi>ṇa-<hi rend="grantha">ka</hi>yilā<hi rend="grantha">sa</hi>t=tu <hi rend="grantha">pradi</hi>caiyil-<hi rend="grantha">k ka</hi>llā<hi rend="grantha">ra</hi>-maṭat=tu <hi rend="grantha">bhikṣā-maṭha-sa</hi><unclear>n=tā</unclear>ṉa-<hi rend="grantha">mā</hi>na-<hi rend="grantha">lakṣā<unclear>ddhyā</unclear></hi>yi-<hi rend="grantha">sa</hi>n=tāṉat=tu <hi rend="grantha">go</hi>ḷa<hi rend="grantha">ki-dham<supplied reason="omitted">·</supplied>ma</hi>t=tu <hi rend="grantha">gā</hi>ya<hi rend="grantha">tri-gotra</hi>t=tu ya<hi rend="grantha">j<choice><sic>a</sic><corr>u</corr></choice>r</hi>-vē<hi rend="grantha">da</hi>t=tu <hi rend="grantha">paripāla</hi>-ta<hi rend="grantha">rā</hi>ṉa <gap reason="lost" quantity="6" unit="character" precision="low"/> li <hi rend="grantha">maṇ<unclear>ḍ</unclear>alādhipa</hi>ti pāṇ=ṭi-nāṭṭu mutali-y
+                    <lb n="4" break="no"/>-<unclear>ā</unclear>ṉa Ī<hi rend="grantha">śā</hi>na-<hi rend="grantha">śi</hi>van· <hi rend="grantha">dham<supplied reason="omitted">·</supplied>ma-śāsa</hi>na-p-paṭṭaiyaṅ koṭut=ta pa=ṭi kēraḷa-ci<choice><orig>ñ</orig><reg>ṅ</reg></choice>ka-vaḷanāṭṭu me <gap reason="lost" quantity="6" unit="character" precision="low"/> <supplied reason="lost">ni</supplied>rupa-<hi rend="grantha">śe<choice><orig>k</orig><reg>kh</reg></choice>a</hi>ra-<hi rend="grantha">ca</hi><supplied reason="lost">tu<hi rend="grantha">rvve</hi></supplied>ti-<hi rend="grantha">maṃkala</hi>t=tu <hi rend="grantha">sa<unclear>bh</unclear>ai ka</hi>vucika-<hi rend="grantha">gotra</hi>t=tu Ā<supplied reason="lost">cuva</supplied>lāya<supplied reason="omitted">na</supplied>-<hi rend="grantha">sūtra</hi>t=tu <unclear>I</unclear> <gap reason="lost" quantity="1" unit="character" precision="low"/> nātar <hi rend="grantha"><unclear reason="eccentric_ductus">pu</unclear>tran· Ā</hi> vācaka-nāraṇa-valaṅkāra-nampi <gap reason="lost" quantity="5" unit="character" precision="low"/> kuṭutta Ūr <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="5"/>kēraḷa-ciṅka-vaḷanāṭṭu piraiyūr paṟṟu namm uṭai maṭa-p-puram-āṉa maṭattūr peru nāṉk' ellaikk' uṭ-paṭṭa nañcai puñ(cai) kuḷamum miḷa <gap reason="lost" quantity="3" unit="character" precision="low"/> ṉa peru nāṉ <gap reason="lost" quantity="6" unit="character" precision="low"/> kuḷamum vayalu nañcai puñcaiyaḷum nattañ ceyttalai kuṭā paṭukai viṭṭa Āṟṟukkālūṟṟu <gap reason="lost" quantity="5" unit="character" precision="low"/> māvaṭai maravaṭai
+                    <lb n="6"/>maṟṟum<!--check--> Uḷḷa n<supplied reason="lost">i</supplied><hi rend="grantha">dhi</hi>-ni<hi rend="grantha">kṣe</hi>pa-<hi rend="grantha">jala-pā<supplied reason="lost">ṣ</supplied>ā</hi>ṇā<hi rend="grantha">dyaṣabhoga</hi>-tēca-cuvā<hi rend="grantha">mi</hi>yamu=M Uḷ-pa=ṭ=ṭa <hi rend="grantha">dā</hi>nā<hi rend="grantha">di</hi> vini<hi rend="grantha">ma</hi>ya<unclear>ṅ</unclear><supplied reason="lost">ka</supplied>ḷukku=M yō<hi rend="grantha">gyam-ā</hi>ka <hi rend="grantha">sa</hi>n=tati <hi rend="grantha">pra</hi>vē<hi rend="grantha">śam-ā</hi>ka Ā<hi rend="grantha">candrā<reg>r</reg>kkasthāyi</hi> Āka Aṉu<hi rend="grantha">bha</hi>vi<supplied reason="omitted">k</supplied>ka<supplied reason="omitted">vum</supplied>
+                </p>
+                
+                <lg n="1" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">dāna-pālanayo<reg>r</reg> m<supplied reason="omitted">·</supplied>maddhye</l>
+                    <l n="b">dānāt· ścreyo 'nup<choice><sic>o</sic><corr>ā</corr></choice><unclear>lana=M</unclear></l>
+                    <l n="c"><unclear>dā</unclear>nāt· sva<reg>r</reg>gam· <lb n="7"/> v-āpnoti</l>
+                    <l n="d">pālanād ac<choice><sic>cira</sic><corr>yu</corr></choice>taṁ pa<supplied reason="lost">da</supplied>ṃ</l>
+                </lg>
+                
+                <lg n="2" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">sva-dattāt· dviguṇa-puṇyam·</l>
+                    <l n="b">para-dattānupāla<choice><sic>n·</sic><corr>nam·</corr></choice></l>
+                    <l n="c">pa<supplied reason="lost">ra</supplied>dattāpahā<seg rendition="class:tamil maturity:83215">reṇa</seg></l>	
+                    <l n="d">svadattam· niṣphalam· bhavēt·</l>
+                </lg>
+                <p xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    Evam pāṇ<unclear>ḍi</unclear>-maṇ<unclear>ḍa</unclear>lādhipa<seg rendition="class:tamil maturity:83215">ti</seg>-Īśā<seg rendition="class:tamil maturity:83215">na</seg>-ś<unclear>i</unclear>vasa <seg rendition="class:tamil maturity:83215">li</seg>khi<unclear>ta=M</unclear>
+                </p>
+                <ab>
+                    <hi rend="grantha">śubham astu</hi>				
+                </ab>
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    <app loc="1">
+                        <lem><hi rend="grantha">A</hi><hi rend="grantha"><unclear>r</unclear>i</hi>ya-rāyar</lem>
+                        <rdg source="bib:Vijayavenugopal2022_01">A<gap reason="lost" quantity="1" unit="character"/>varāyar</rdg>
+                    </app> 
+                </listApp>
+                
+            </div>
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                ...
+                </p>
+                
+                </div>-->
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/193).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 55), with photos.</p>
+                
+                <p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="V">
+                        <ptr target="bib:Vijayavenugopal2022_01"/>
+                        <citedRange unit="item">55</citedRange>
+                        <citedRange unit="page">133-135</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1923-1924"/>
+                        <citedRange unit="page">58</citedRange>
+                        <citedRange unit="appendix">C/1924</citedRange>
+                        <citedRange unit="item">193</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>
