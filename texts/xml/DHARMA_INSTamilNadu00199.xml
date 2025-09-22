@@ -183,10 +183,18 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1917-1918"/></bibl> (ARIE/1917-1918/C/1918/23).</p>
-                <p>This edition by Emmanuel Francis (2024), based on autopsy (2024) and photos (2024).</p>
+                <p>Edited in <bibl><ptr target="bib:Swaminathan2024_01"/></bibl> (SII 44.23).</p>
+                <p>This edition by Emmanuel Francis, based on autopsy (2024) and photos (2024).</p>
                 <p>ASI transcript and estampage(s), if any, yet to be consulted.</p>
                 
-                <!--<listBibl type="primary"/>-->
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Swaminathan2024_01"/>
+                        <citedRange unit="item">23</citedRange>
+                        <citedRange unit="page">34-35</citedRange>
+                    </bibl>
+                </listBibl>
                 
                 <listBibl type="secondary">        
                     

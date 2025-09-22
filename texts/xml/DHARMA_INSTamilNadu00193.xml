@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Vṛddhācalam (Viruttācalam), Vṛddhāgirīśvara temple, time of Parakesarivarman Rājendra Cōḻa, year 5</title>
+                <title>Vṛddhācalam / Viruttācalam, Vṛddhāgirīśvara temple, time of Parakesarivarman Rājendra Cōḻa, year 5</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -91,7 +91,7 @@
                     <lb n="24"/><gap reason="lost" quantity="1" unit="character"/> koṇṭa poṉ patiṉ kaḻañcu
                 </p>
                 <p>                    
-                     <unclear>Ip-po</unclear>
+                    <unclear>Ip-po</unclear>
                     <lb n="25" break="no"/><unclear>ṉ</unclear> patiṉ kaḻañcum poli-y-aṭṭ-ā<unclear>ka</unclear> <gap reason="lost" quantity="2" unit="character"/> 
                     <lb n="26" break="no"/>ṇṭu ni<unclear>cata</unclear>m Uḻakku ney <gap reason="lost" quantity="6" unit="character"/> 
                     <lb n="27" break="no"/><unclear>ṉṟu</unclear> <gap reason="lost" quantity="2" unit="character"/> <unclear>ṭṭa</unclear>-k kaṭavaṉ-ē-y Ēḻu ṉā<unclear>ḻi</unclear> <gap reason="lost" quantity="3" unit="character"/> <unclear>kā</unclear>
@@ -189,7 +189,10 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1917-1918"/></bibl> (ARIE/1917-1918/C/1918/39).</p>
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on photographs (kindly provided by N. Cane).</p>
+                <p>
+                    Edited in <bibl><ptr target="bib:Swaminathan2024_01"/></bibl> (SII 44.39).
+                    Edited and translated in <bibl><ptr target="bib:Gillet2024_01"/></bibl>, based on photographs (kindly provided by N. Cane).
+                </p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
@@ -198,6 +201,13 @@
                         <citedRange unit="page">271-272</citedRange>
                         <citedRange unit="item">149</citedRange>
                     </bibl>
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:Swaminathan2024_01"/>
+                        <citedRange unit="item">39</citedRange>
+                        <citedRange unit="page">52-54</citedRange>
+                    </bibl>
+                    
                 </listBibl>
                 
                 <listBibl type="secondary">                    
