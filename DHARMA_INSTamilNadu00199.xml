@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruviṭaivācal, Puṇyanāthasvāmin, time of Tribhuvanacakravartin Kulōttuṅga Cōḻa, year 5</title>
+                <title>Tiruviṭaivācal, Puṇyanāthasvāmin temple, time of Tribhuvanacakravartin Kulōttuṅga Cōḻa, year 5</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -119,7 +119,7 @@
                     <lb n="2"/>
                     <milestone n="1" unit="block" type="gridlike"/>Irukkum veḷḷāla<choice><orig>n</orig><reg>ṉ</reg></choice> nāṭṭiyattāṅk-uṭai<milestone n="2" unit="block" type="gridlike" break="no"/>yā<choice><orig>n</orig><reg>ṉ</reg></choice> tiru
                     <milestone n="3" unit="block" type="gridlike" break="no"/>
-                    varaṅkamuṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> nampi pakka
+                    varaṅkam-uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> nampi pakka
                     <milestone n="4" unit="block" break="no" type="gridlike"/>		
                     l nāṅkaḷ Upayam-āka koṇṭa <hi rend="grantha">sa</hi>n=ti-viḷakku
                     <milestone n="5" unit="block" type="gridlike"/>
@@ -136,12 +136,12 @@
                     <milestone n="7" unit="block" break="no" type="gridlike"/>
                     <choice><orig>r</orig><reg>ṟ</reg></choice>um nāṅkaḷum Eṅkaḷ vaṅ<hi rend="grantha">śa</hi>ttarum Ik-kōyilil <hi rend="grantha">śrī-māheśva</hi>
                     <milestone n="8" unit="block" break="no" type="gridlike"/>
-                    <hi rend="grantha">ra</hi>r Āriya Ic-canti-vi<supplied reason="lost">ḷak</supplied><unclear>ku</unclear> Oṉṟu
+                    <hi rend="grantha">ra</hi>r Ariya Ic-canti-vi<supplied reason="lost">ḷak</supplied><unclear>ku</unclear> Oṉṟu
                     
                     <milestone n="9" unit="block" break="no" type="gridlike"/>
                     m <unclear>nāṅ</unclear>kaḷum Eṅ<unclear>ka</unclear>
                     <milestone n="10" unit="block" break="no" type="gridlike"/>
-                    ḷ vaṅcattārum cantirātittavaṟ cācutikam<!--cf. Sanskrit śāśvatika, "Eternal" + śāśvati(ka)m in another inscription at Tiruviṭaivācal--> E
+                    ḷ vaṅcattārum cantirātittavaṟ cācutikam E
                     <milestone n="11" unit="block" break="no" type="gridlike"/>
                     <unclear>ri</unclear>kka kaṭāvōm āka-c cammatit
                     <milestone n="12" unit="block" break="no" type="gridlike"/>
@@ -176,38 +176,45 @@
                 </p>
                 
                 <p n="1">
-                    5th year of the emperor of the three worlds the glorious king Kulottuṅga Cōḻa.
+                    5th year of the emperor of the three worlds, the glorious king Kulottuṅga Cōḻa.
                 </p>
                 
                 <p n="1-2">
-                    In the temple of ...
+                    <supplied reason="subaudible">In</supplied> Tiruviṭaivāyil
                     ...
+                    in the temple of Mahādeva, Lord of Tiruviṭaivāyil, ...
+                    Panmāheśvarapaṭṭaṉ ...,
+                    Nāṟpatteṇṇāyirapaṭṭaṉ ...
+                    Paṭṭāṉ,
+                    We, the three thus named,                    
                     <supplied reason="subaudible">there is</supplied>
                     1 twilight lamp
                     that we obtained
                     as gift
                     from
+                    Nampi
                     ...
                 </p>
                 
                 <p n="2">
-                    <supplied reason="subaudible">there is</supplied>
+                    <supplied reason="subaudible">There is</supplied>
                     4 <foreign>kācu</foreign>s
                     that we obtained
-                    for one lamp
+                    for this single lamp.
                 </p>
                 
                 <p n="2">
-                    Having agreed that
-                    with these four <foreign>kācu</foreign>s
-                    <supplied reason="subaudible">for</supplied> this lamp
-                    We and our descendants are due/appointed to 
+                    With these four <foreign>kācu</foreign>s,
+                    <supplied reason="subaudible">for</supplied> this single lamp,
+                    We and our descendants,
+                    having agreed that
+                    We and our descendants
+                    are due/appointed to burn
+                    as long as the sun and the moon permanently <supplied reason="explanation"><foreign>cācutikam</foreign><note>Sanskrit <foreign>śāśvatika</foreign>.</note></supplied>
+                    for this single twilight lamp,
                     ...
-                    we have taken these four <foreign>kācu</foreign>s.
-                </p>
-                
-                <p n="1">
-                    
+                    we have taken these four <foreign>kācu</foreign>s,
+                    We who are such.
                 </p>
                 
             </div>
