@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Nallūr, Vilvāraṇyeśvara, time of Rājarādeva Cōḻa, year 19</title>
                 <respStmt>
-                    <resp>Intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
@@ -19,18 +19,11 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
+                    <persName ref="part:matr">
+                        <forename>Margherita</forename>
+                        <surname>Trento</surname>
                     </persName>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>				
+                </respStmt>    			
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -59,7 +52,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                            <p>Consonants aligned horizontally rather than vertically in Grantha ligature <foreign>sva</foreign>. No distinction between Tamil <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -98,7 +91,7 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <ab>
-                    <hi rend="grantha">svasti śrī</hi>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
                 <p>
@@ -108,40 +101,48 @@
                 
                 <p>        
                     <lb n="3"/><unclear>Ā</unclear>ḷappiṟan=tā<choice><orig>n</orig><reg>ṉ</reg></choice> mōkaṉ-āṉa kā
-                    <lb n="4" break="no"/>ṭavarāyaṉ eṉṉu<unclear>n</unclear> nallūr Uṭai
-                    <lb n="5" break="no"/>yār nalla nāyaṉāṟku tiruppa
+                    <lb n="4" break="no"/>ṭavarāyaṉ-ēṉ nallūr Uṭai
+                    <lb n="5" break="no"/>yār nalla-nāyaṉāṟku tiruppa
                     <lb n="6" break="no"/>ṇikkum tiru-p-paṭimāṟṟukkum ā
                     <lb n="7" break="no"/>ka v-iṭṭaṉ nallūr āllai Aṭa
                     <lb n="8" break="no"/><unclear>ṅ</unclear>ka n<unclear>i</unclear>lam munnūṟṟ’ aṟu-<supplied reason="lost">patu vē</supplied>li
                     <lb n="9" break="no"/>yum vaṭa-v-āṟṟaṅkarai-t tiru-nan=tava
-                    <lb n="10"/>ṉam 5 vēliyum k<choice><unclear>ara</unclear><unclear>ā</unclear></choice>ccuva-k-kuṭi
+                    <lb n="10"/>ṉam 5 vēliyum kāccuva-k-kuṭi
                     <lb n="11" break="no"/>yil nilam Ai-vē<unclear>l</unclear>iyum vali
-                    <lb n="12" break="no"/>yar caiyil nilam muṉ<unclear>ṟu</unclear>
+                    <lb n="12" break="no"/>y<unclear>ō<!--kāl clear--></unclear>caiyil nilam muṉ<unclear>ṟu</unclear>
                     <lb n="13"/>māvum puñcaṉūril nilam <hi rend="grantha">sa</hi>ma
-                    <lb n="14" break="no"/>yar putu-k-kuṭi nilam {nāṉku-mā}-<unclear>m</unclear> nakari
-                    <lb n="15"/>nilam {kāl}-m Āka In-nilaṅkaḷil pā
-                    <lb n="16" break="no"/>ṭi-kāval <gap quantity="1" unit="character" reason="lost"/> <unclear>u</unclear>ḷḷiṭ=ṭa mākkal naku ḷam <gap quantity="3" unit="character" reason="lost"/>
-                    <lb n="17" break="no"/>r Āva <gap quantity="7" unit="character" reason="lost"/> vēllaiy<choice><unclear>a</unclear><unclear>i</unclear></choice> <gap quantity="1" unit="character" reason="lost"/> ya <gap quantity="2" unit="character" reason="lost"></gap>
-                    <lb n="18" break="no"/>kācu taṟi <gap quantity="2" unit="character" reason="lost"></gap> <supplied reason="lost">Eppēr</supplied>paṭ=ṭa kīḻ iṟaip pāṭ<supplied reason="lost">ṭa</supplied>
-                    <lb n="19" break="no"/>ṅka<unclear>ḷum</unclear> <gap quantity="1" unit="character" reason="lost"></gap> Aṭa <gap quantity="3" unit="character" reason="lost"></gap> nalla-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>āruk<supplied reason="lost">ku</supplied>
+                    <lb n="14" break="no"/><unclear>yar</unclear> putu-k-kuṭi nilam 1/5-<unclear>m</unclear> nakari
+                    <lb n="15"/>nilam 1/4-m Āka In-nilaṅkaḷil pā
+                    <lb n="16" break="no"/>ṭi-kāva<unclear>l u</unclear>ḷḷiṭ=ṭa <seg rend="check">mākkal naku ḷam</seg> <unclear>maṟṟuḷ</unclear>
+                    <lb n="17" break="no"/>ḷa Ā<supplied reason="lost">yaṅkaḷum It-tiru</supplied>vēllaiy<unclear>il</unclear> <unclear>mā</unclear> <gap quantity="4" unit="character" reason="lost"/>
+                    <lb n="18"/>kācu taṟi-<unclear>y</unclear>-<supplied reason="lost">iṟai U</supplied>ṭpaṭ=ṭa kīḻ iṟai-p pāṭ<supplied reason="lost">ṭa</supplied>
+                    <lb n="19" break="no"/>ṅkaḷu<unclear>m</unclear> Aṭa<supplied reason="lost">ṅka</supplied> nalla-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>āruk<supplied reason="lost">ku</supplied>
                     <lb n="20"/>v-iṭṭēṉ
                 </p>
                 <p>
-                    I<unclear>tu</unclear> <supplied reason="lost">panm</supplied>ā<hi rend="grantha">heśva<unclear>ra</unclear>-rakṣai</hi>    
+                    I<unclear>tu</unclear> <supplied reason="lost">pa</supplied><hi rend="grantha">nmāheśva<unclear>ra</unclear>-rakṣai</hi>    
                 </p>
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 <listApp>
-                
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:...">...</rdg>
-                </app>    
-                
+                    
+                    <app loc="17">
+                        <lem>Ā<supplied reason="lost">yaṅkaḷum It-tiru</supplied>vēllaiy<unclear>il</unclear> <unclear>mā</unclear> <gap quantity="4" unit="character" reason="lost"/></lem>
+                        <note>Reading based on ASI transcript: <foreign>Āyaṅkaḷum Ittiruvēlliyil mā <gap quantity="2" unit="character" reason="lost"/></foreign></note>
+                    </app> 
+                    <app loc="18">
+                        <lem>taṟi-<unclear>y</unclear>-<supplied reason="lost">iṟai U</supplied>ṭpaṭ=ṭa</lem>
+                        <note>Reading after ASI transcript.</note>
+                    </app>   
+                    <app loc="19">
+                        <lem>Aṭa<supplied reason="lost">ṅka</supplied></lem>
+                        <note>Reading after ASI transcript.</note>
+                    </app>
+                    
                 </listApp>
-                </div>-->
+            </div>
             
             <div type="translation" resp="part:reda part:emfr">
                 
@@ -162,9 +163,9 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/145).</p>
-                <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>
-                <p>ASI transcript and estampage, if any, yet to be consulted.</p>
-                
+                <p>This edition by Renato Dávalos, Emmanuel Francis, and Margherita Trento, based on autopsy, photos (E. Francis, 2024), and ASI transcript.</p>
+                <p>ASI transcript consulted in Mysore by Renato Dávalos (September 2025) with the kind permission of the Director of Epigraphy.</p>
+                              
                 <!--<listBibl type="primary">
                     
                     </listBibl>-->

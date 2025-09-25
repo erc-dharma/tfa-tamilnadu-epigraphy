@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa, 9th year</title>
                 <respStmt>
-                    <resp>Intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
@@ -19,18 +19,11 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
+                    <persName ref="part:matr">
+                        <forename>Margherita</forename>
+                        <surname>Trento</surname>
                     </persName>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>				
+                </respStmt>                		
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -59,7 +52,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                            <p>Consonants aligned horizontally rather than vertically in Grantha ligature <foreign>sva</foreign>. No distinction between Tamil <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -98,22 +91,22 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <ab>
-                    <lb n="1"/><hi rend="grantha"><unclear>suva</unclear>st<unclear>i</unclear> śr<supplied reason="lost">ī</supplied></hi>
+                    <lb n="1"/><hi rend="grantha"><unclear>sva</unclear>st<unclear>i</unclear> śr<supplied reason="lost">ī</supplied></hi>
                 </ab>
                 
                 <p>
-                    t<supplied reason="lost">i</supplied>r<supplied reason="lost">u</supplied>-puva<choice><sic>pā</sic><corr>ṉa</corr></choice>-c-cakkara-<unclear>v</unclear>
-                    <lb n="2" break="no"/>vaṟtikaḷ <hi rend="grantha">śrī</hi>-k<choice><sic>o</sic><corr>u</corr></choice>lōttuṅka-<supplied reason="lost">cō</supplied>
+                    t<unclear>i</unclear>r<unclear>i</unclear>-puva<choice><sic>pā</sic><corr>ṉa</corr></choice>-c-cakkara
+                    <lb n="2" break="no"/>vaṟtikaḷ <hi rend="grantha">śrī</hi>-k<choice><orig>o</orig><reg>u</reg></choice>lōttuṅka-<supplied reason="lost">cō</supplied>
                     <lb n="3" break="no"/>ḻa-tēvarkku yāṇṭu 9-Āvatu
                 </p>
                 <p>
                     <unclear>U</unclear>
                     <lb n="4" break="no"/>ṭaiyār nalla-nāyanār kō<unclear>y</unclear>i<supplied reason="lost">li</supplied>
-                    <lb n="5" break="no"/><supplied reason="lost">l</supplied> t<unclear>ē</unclear><unclear>var A</unclear>ṭ<supplied reason="lost">i</supplied>yāḷ mātu<gap unit="character" reason="lost" quantity="3"/>
+                    <lb n="5" break="no"/><supplied reason="lost">l</supplied> t<unclear>ē</unclear><unclear>var A</unclear>ṭ<supplied reason="lost">i</supplied>yāḷ mātu<gap unit="character" reason="lost" quantity="3" precision="low"/><seg type="aksara"><unclear>m</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg>
                     <lb n="6" break="no"/>-Āṉa kōvaṇavarkulāvukku t<choice><sic>a</sic><corr>i</corr></choice>ruv<choice><sic>a</sic><corr>e</corr></choice>m
                     <lb n="7" break="no"/>pāvai mutal-pāṭṭun tiru-vēṭṭai
-                    <lb n="8"/>mun neṟavum tiru-t-tēr mu<reg>ṉ</reg> neṟavu
-                    <lb n="9" break="no"/>m 5 Āṇṭu māṟi-c ce<unclear>m</unclear>
+                    <lb n="8"/>mu<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ēṟavum tiru-t-tēr mu<choice><orig>n</orig><reg>ṉṉ</reg></choice>ēṟavu
+                    <lb n="9" break="no"/>m I<supplied reason="omitted">vai</supplied> Āṇṭu māṟi-c ce<unclear>m</unclear>
                 </p>
                 
             </div>
@@ -122,13 +115,13 @@
                 <listApp>
                     
                     <app loc="5">
-                        <lem>mātu<gap unit="character" reason="lost" quantity="3"/></lem>
+                        <lem>mātu<gap unit="character" reason="lost" quantity="3" precision="low"/><seg type="aksara"><unclear>m</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg></lem>
                         <rdg source="bib:ARIE1939-1943">mātu<unclear>mai</unclear></rdg>
                     </app>
                     
                     <app loc="9">
                         <lem>Āṇṭu māṟi-c ce<unclear>m</unclear></lem>
-                        <note>The inscription appears to stop short here. The intended, but never inscribed, is probably similar to that found in line 13 of inscription <ref target="DHARMA_INSTamilNadu00029.xml">Tamil Nadu 29</ref>.</note>
+                        <note>The inscription appears to stop short here. The intended, but never inscribed text is probably similar to that found in lines 11-12 of inscription <ref target="DHARMA_INSTamilNadu00029.xml">Tamil Nadu 29</ref>: <foreign>Ivai Āṇṭu māṟi cempāti</foreign>.</note>
                     </app>      
                     
                 </listApp>
@@ -157,9 +150,9 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/144).</p>
-                <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>
-                <p>ASI transcript and estampage, if any, yet to be consulted.</p>
-                
+                <p>This edition by Renato Dávalos, Emmanuel Francis, and Margherita Trento, based on autopsy, photos (E. Francis, 2024), and ASI transcript.</p>
+                <p>ASI transcript consulted in Mysore by Renato Dávalos (September 2025) with the kind permission of the Director of Epigraphy.</p>
+              
                 <!--<listBibl type="primary">
                     
                     </listBibl>-->
