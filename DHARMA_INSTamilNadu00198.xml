@@ -106,11 +106,11 @@
                         <supplied reason="lost">r iriyaluṟ ṟiḻitarat</supplied></l>
                     <l n="6"><supplied reason="lost">tikkaṉai</supplied>
                         <milestone n="3" unit="block" break="no" type="gridlike"/>
-                        t tumta<choice><orig>n</orig><reg>ṉ</reg></choice> cakkara naṭātti</l>
+                        -t tum ta<choice><orig>n</orig><reg>ṉ</reg></choice> cakkara naṭātti</l>
                     <l n="7">v<choice><orig>i</orig><reg>ī</reg></choice>ra-<hi rend="grantha">siṃhāsa</hi>nattu</l>
                     <l n="8">
                         <milestone n="4" unit="block" break="no" type="gridlike"/>
-                        puvanimuḻutuṭaiyāl
+                        puvani-muḻut-uṭaiyāl
                         <lb n="3" break="no"/><milestone n="1" unit="block" type="gridlike"/>oṭum
                     </l>
                     <l n="9">
@@ -119,9 +119,7 @@
                 </lg>
                 
                 <p>	
-                    kō-v-i<hi rend="grantha">rājake</hi>
-                    <gap extent="unknown" reason="lost"/>
-                    <hi rend="grantha">r</hi>-āna
+                    kō-v-i<hi rend="grantha">rājake</hi><supplied reason="lost"><hi rend="grantha">saripanma</hi></supplied><hi rend="grantha">r</hi>-āna
                     <hi rend="grantha">tribhu</hi>va                    
                     <milestone n="2" unit="block" break="no" type="gridlike"/>
                     <supplied reason="lost">ṉa-c-cakkaravattikaḷ <hi rend="grantha">śrī</hi>-kulōttu</supplied>
@@ -133,25 +131,23 @@
                 <p>                    
                     <milestone n="4" unit="block" break="no" type="gridlike"/>
                     Arumoḻitēva
-                    
                     <lb n="4" break="no"/>
-                    <milestone n="1" unit="block" type="gridlike"/>
-                    -nāṭṭu maṅ
+                    <milestone n="1" unit="block" type="gridlike" break="no"/>
+                    -<supplied reason="lost">vaḷa</supplied>nāṭṭu maṅ<supplied reason="lost">kala</supplied>-nāṭṭu
                     <gap reason="lost" quantity="4" unit="character"/>
                     putukkuṭi
                     <milestone n="2" unit="block" type="gridlike"/>
                     <gap reason="lost" quantity="8" unit="character"/>
                     <milestone n="3" unit="block" type="gridlike"/>
                     <gap reason="lost" quantity="2" unit="character"/>
-                    kkuṭaiyān pirāntaka<unclear>ṉ</unclear> kalaṅkari
+                    kkuṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> pirāntaka<unclear>ṉ</unclear> kalaṅkari
                     <gap reason="lost" quantity="1" unit="character"/>
                     <milestone n="4" unit="block" type="gridlike" break="no"/>
                     ṭ<supplied reason="lost">ai</supplied>yāṉ <hi rend="grantha">rājarāja</hi>
                     
-                    <lb n="5"/>
-                    <milestone n="1" unit="block" type="gridlike"/>
-                    <gap reason="lost" quantity="2" unit="character"/>
-                    kalanāṭṭu
+                    <lb n="5" break="no"/>
+                    <milestone n="1" unit="block" type="gridlike" break="no"/>
+                    <supplied reason="lost">maṅ</supplied>kalanāṭṭu
                     <gap reason="lost" quantity="1" unit="character"/>
                     <unclear>viḻu</unclear>p<unclear>parai</unclear>yaṉum putukkuṭi <unclear>Uṭaiyā</unclear>
                     <milestone n="2" unit="block" type="gridlike" break="no"/>
@@ -162,19 +158,57 @@
                     <unclear>ṟam</unclear>palam-uṭaiyāṉ-āṉa<!--SII: ...pala Uṭai...--> Utta
                     <milestone n="4" unit="block" type="gridlike" break="no"/>ma-cōḻa-maṅka
                     
-                    <lb n="6"/>lanāṭṭu
+                    <lb n="6"/><unclear>la</unclear>nāṭṭu
                     <gap reason="lost" quantity="8" unit="character"/>
-                    nāṭṭukko
+                    nāṭṭukkō
+                    
                     <lb n="7"/>
-                    ṉum keraḷāntak va
+                    ṉum kēraḷāntaka va
                     <gap reason="lost" quantity="3" unit="character"/>
                     ṭṭu
                     <gap reason="lost" quantity="5" unit="character"/>
                     āṟṟum
                     <gap reason="lost" quantity="10" unit="character"/>
-                    nāṭṭu-t tiruviṭaivāyi<supplied reason="lost">lu</supplied>
+                    nāṭṭu-t tiruviṭaivāyi<supplied reason="omitted">lu</supplied>
+                    
+                    <lb n="8"/>
+                    ṭaiya <hi rend="grantha">ma<unclear>hā</unclear></hi><unclear>tēvar</unclear> Ādi
+                    <gap reason="lost" quantity="10" unit="character"/>
+                    nāṅkaḷ viṟṟu
+                    <gap reason="lost" quantity="8" unit="character"/>
+                    ttil
+                    <gap reason="lost" quantity="7" unit="character"/>
+                    ruvi
                     
                     
+                    
+                    ṭaivāy ....kaḷ kāṇiya. .... vaṭa .... lukkum kiḻ <unclear>pāṟkel</unclear>lai
+                    
+                    ṟom nilattukku meṟkum teṉpāṟkellai... Iddevar tevatānattukku
+                    vaṭakku. .... pāṟkellai
+                    <gap reason="lost" quantity="6" unit="character"/>
+                    
+                    ṇṇa kā. .... kutum vaṭapāṟkellai tevartāṉam. .... ṇṇayakut. .... m Ivvicai<unclear>n=ta</unclear>
+                    <gap reason="lost" quantity="7" unit="character"/>
+                    l
+                                        
+                    laikkuṭpaṭṭa nilamum mukkāl. .... kālukkum Idevarkaṉmikaḷ pakkal viṟṟuk <unclear>ku</unclear>ṭuttu nāṅkaḷ koṇṭa kācu
+                    .. poṉ mukkaḻañcum Innilam .... kak koṇṭakācu muppatte. .... poṉ Aṟukaḻañcum koṇṭu nilam <unclear>viṟ</unclear>-
+                    
+                    ṟuk kuṭuttom Ivvūrom Iṉnila ........ Iṟaiyum .... vācalilponta kuṭimai Eppeṟppa[ṭṭa]tum ca
+                    
+                    .... ceyyakkaṭavomāka sa<supplied reason="omitted">m</supplied>matit
+                    <gap reason="lost" quantity="6" unit="character"/>
+                    kuṭuttōm Ittēvaṟkku Ivvūrom inilattu.... .... 
+                                        
+                    .... lam nālumā ....nāṭṭu .... ri aḻacapākkamuṭiyāṉ tilaiyāḷi
+                    kuttaṉ tirunon=tāvi .... <unclear>ku</unclear>
+                    <gap reason="lost" quantity="1" unit="character"/>
+                    
+                    ṟamākak koḷḷa Idevakanmikaḷ pakkal
+                    <gap reason="lost" quantity="6" unit="character"/>
+                    pān Oṉpatin kaḻañcu Ippoṉ Oṉpatiṉ kaḻañcukkum inilaṅ
+                    <gap reason="lost" quantity="6" unit="character"/>. .... 
                 </p>
             </div>      	
             
@@ -201,7 +235,7 @@
                 
                 <p>According to <bibl><ptr target="bib:ARIE1917-1918"/></bibl>, the inscription is on the south wall of the <foreign>maṇḍapa</foreign> in front of the central shrine, which seems to mean the southern wall of the <foreign>mahāmaṇḍapa</foreign>.</p>
                 
-                <p>In July 2024, we observed that two inscribed blocks making this inscription are found disonnected and disordered. The blocks no. 1 and no. 3 were found on the western wall of the <foreign>mahāmaṇḍapa</foreign>, respectively on its southern edge and on its northern edge. Other blocks could not be traced. We presume that there were at least four blocks. The temple indeed has been renovated in 1960. This would account for the fact that these blocks are now found disonnected and disordered.</p>
+                <p>In July 2024, we observed that two inscribed blocks bearing portions of the first five lines of this inscription are found disonnected and disordered. The blocks no. 1 and no. 3 were found on the western wall of the <foreign>mahāmaṇḍapa</foreign>, respectively on its southern edge and on its northern edge. Other blocks could not be traced. We presume that there were at least four blocks. The temple indeed has been renovated in 1960. This would account for the fact that these blocks are now found disonnected and disordered.</p>
                 
                 <p>There are presently (2024) two gaps in the inscription, consisting in two missing inscribed blocks: block no. 2 and block no. 4. The latter could also be missing before block no. 1, in which case, the present block numbering should be revised (no. 4 becoming no. 1 and nos. 1-3 becoming nos. 2-4).</p>
                 
