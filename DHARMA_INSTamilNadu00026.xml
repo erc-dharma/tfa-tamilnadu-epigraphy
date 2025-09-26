@@ -87,6 +87,7 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <!--Check metre in TVG edition-->
+                
                 <lg n="1" met="kaliviruttam">
                     <l n="1"><lb n="1"/>maṟiyār karatt-entai y-am-māt-umaiyōṭum</l>
                     <l n="2">piṟiyāta pem
@@ -270,15 +271,17 @@
                 </div>-->
             
             <!--<div type="apparatus">
+                
+                Check SII 44 edition
                 <listApp>
-                
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:..."></rdg>
-                </app>
-                
+                    
+                    <app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:..."></rdg>
+                    </app>
+                    
                 </listApp>
-                </div>-->
+            </div>-->
             
             <div type="translation" source="bib:SubrahmanyaAiyar+al_2007_01">
                 
@@ -354,7 +357,7 @@
                 <p>
                     Edited in <bibl><ptr target="bib:SwaminathaUpadhyaya1918_01"/></bibl>, <bibl><ptr target="bib:ComacuntaraTecikar1918-1919_01"/></bibl>, <bibl><ptr target="bib:SwaminathaUpadhyaya1921_01"/></bibl>.
                     Edited in <bibl><ptr target="bib:Aravamuthan1933-1934_01"/></bibl>, based on autopsy (1919-06, 1921-12) and two ASI estampages (<bibl><ptr target="bib:Aravamuthan1933-1934_01"/><citedRange unit="page">268</citedRange><citedRange unit="note">17</citedRange></bibl>).
-                    Edited in <bibl><ptr target="bib:Swaminathan2024_01"/></bibl> (SII 44.9).
+                    Edited in <bibl><ptr target="bib:Swaminathan2024_01"/></bibl> (SII 44.8).
                 </p>
                 <p>This edition by Renato Dávalos and Emmanuel Francis, based on <bibl><ptr target="bib:Aravamuthan1933-1934_01"/></bibl>, autopsy (2024) and photos (2024). This translation adapted from <bibl><ptr target="bib:SubrahmanyaAiyar+al_2007_01"/></bibl>.</p>
                 

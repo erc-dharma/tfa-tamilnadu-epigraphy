@@ -62,10 +62,10 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 <lg n="1" met="āciriyappā">
-                    <l n="1">tiru maṉṉi vaḷara <unclear>Iru</unclear>-<choice><orig>ṉ</orig><reg>n</reg></choice>ila<lb n="2" break="no"/>-maṭan=taiyum</l>
+                    <l n="1">tiru maṉṉ<choice><sic>ī</sic><corr>i</corr></choice> vaḷara <unclear>Iru</unclear>-<choice><orig>ṉ</orig><reg>n</reg></choice>ila<lb n="2" break="no"/>-maṭan=taiyum</l>
                     <l n="2">pō<supplied reason="omitted">r</supplied>-ccaya-p-<unclear>pā</unclear><supplied reason="lost">vai</supplied>yum c<choice><orig>i</orig><reg>ī</reg></choice><lb n="3" break="no"/>r-t-taṉi-c-celviyu<supplied reason="omitted">m</supplied></l>
                     <l n="3">taṉ <unclear>pe</unclear>run= tē<lb n="4" break="no"/>viyar āki y-iṉpuṟa</l>
-                    <l n="4">neṭituyal Ū<lb n="5" break="no"/>ḻiyuḷ iṭai-tuṟai-<choice><orig>ñ</orig><reg>n</reg></choice>āṭum</l>
+                    <l n="4">neṭitu<choice><sic><unclear>rai</unclear></sic><corr>yal</corr></choice> Ū<lb n="5" break="no"/>ḻiyuḷ iṭai-tuṟai-<choice><orig>ñ</orig><reg>n</reg></choice>āṭun=</l>
                     <l n="5">tuṭarvaṉa <lb n="6"/>vēli-p paṭarvaṉa vā<unclear>ci</unclear>yuñ</l>
                     <l n="6">cuḷḷi<lb n="7" break="no"/>c cūḻ-matiṭ-k koḷḷi-p-pākkaiyu<lb n="8" break="no"/><supplied reason="subaudible">m</supplied></l>
                     <l n="7">naṇṇaṟk’ arumuraṇ maṇṇai-k-ka<lb n="9" break="no"/>ṭakkamum</l>
@@ -105,7 +105,24 @@
             </div>
             
             <div type="apparatus">
+                
+                <!--Check SII 44 edition-->
+                
                 <listApp>
+                    
+                    <app loc="1">
+                        <lem source="bib:Swaminathan2024_01">maṉṉ<choice><sic>ī</sic><corr>i</corr></choice></lem>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>celviyu<supplied reason="omitted">m</supplied></lem>
+                        <rdg source="bib:Swaminathan2024_01">celviyu<unclear>m</unclear></rdg>
+                    </app>
+                    
+                    <app loc="4">
+                        <lem>neṭitu<choice><sic><unclear>rai</unclear></sic><corr>yal</corr></choice></lem>
+                        <rdg source="bib:Swaminathan2024_01">neṭituṟai</rdg>
+                    </app>
                     
                     <app loc="20">
                         <lem><hi rend="grantha">de</hi><lb n="21" break="no"/><unclear>vi</unclear><supplied reason="lost">yār</supplied>
@@ -162,10 +179,10 @@
                         <lem></lem>
                         <rdg source="bib:Gillet2024_01"></rdg>
                     </app>
+                    
                 </listApp>
+                
             </div>
-            
-            
             
             <div type="translation" source="bib:Gillet2024_01">
                 
