@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>According to <bibl><ptr target="bib:ARIE1917-1918"/></bibl>
+                        <summary><bibl><ptr target="bib:ARIE1917-1918"/></bibl>:
                             <quote>Damaged. Registers a sale of land to the same temple [that is, the the temple of Tiruviṭaivāyiluṭaiyār in Maṅkalanāṭu, a subdivision of Arumoḻitēvavaḷanāṭu].</quote></summary>
                     </msContents>
                     <physDesc>
@@ -101,7 +101,7 @@
                     <l n="4"><supplied reason="lost">mīṉa</supplied>
                         <lb n="2" break="no"/><milestone n="1" unit="block" type="gridlike" break="no"/>
                         <supplied reason="lost">var</supplied> nilaikeṭa villavar kulaitara</l>
-                    <l n="5">Ēṉai ma<choice><sic>n</sic><corr>ṉṉ</corr></choice>ava
+                    <l n="5">Ēṉai ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ava
                         <milestone n="2" unit="block" break="no" type="gridlike"/>
                         <supplied reason="lost">r iriyaluṟ ṟiḻitarat</supplied></l>
                     <l n="6"><supplied reason="lost">tikkaṉai</supplied>
@@ -133,7 +133,7 @@
                     Arumoḻitēva
                     <lb n="4" break="no"/>
                     <milestone n="1" unit="block" type="gridlike" break="no"/>
-                    -<supplied reason="lost">vaḷa</supplied>nāṭṭu maṅ<supplied reason="lost">kala</supplied>-nāṭṭu
+                    -<supplied reason="lost">vaḷanā</supplied>ṭṭu maṅ<supplied reason="lost">kala</supplied>-nāṭṭu
                     <gap reason="lost" quantity="4" unit="character"/>
                     putukkuṭi
                     <milestone n="2" unit="block" type="gridlike"/>
@@ -148,7 +148,6 @@
                     <lb n="5" break="no"/>
                     <milestone n="1" unit="block" type="gridlike" break="no"/>
                     -<supplied reason="lost">maṅ</supplied>kalanāṭṭu
-                    <gap reason="lost" quantity="1" unit="character"/>
                     <unclear>viḻu</unclear>p<unclear>parai</unclear>yaṉum putukkuṭi <unclear>Uṭaiyā</unclear>
                     <milestone n="2" unit="block" type="gridlike" break="no"/>
                     ṉ
@@ -279,16 +278,21 @@
                 </p>
             </div>      	
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 <listApp>
-                
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:..."></rdg>
-                </app>
-                
+                    
+                    <app loc="4">
+                        <lem><supplied reason="lost">vaḷanā</supplied>ṭṭu</lem>
+                        <rdg source="bib:Swaminathan2024_01"><unclear>nā</unclear>ṭṭu</rdg>
+                    </app>
+                    
+                    <app loc="5">
+                        <lem><supplied reason="lost">maṅ</supplied>kalanāṭṭu <unclear>viḻu</unclear>p<unclear>parai</unclear>yaṉum</lem>
+                        <rdg source="bib:Swaminathan2024_01"><gap reason="lost" quantity="2" unit="character"/> kalanāṭṭu <gap reason="lost" quantity="1" unit="character"/> <unclear>viḻu</unclear>p<unclear>parai</unclear>yaṉum</rdg>
+                    </app>
+                    
                 </listApp>
-                </div>-->
+            </div>
             
             <!--<div type="translation" resp="part:emfr">
                 
@@ -312,7 +316,7 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1917-1918"/></bibl> (ARIE/1917-1918/C/1918/13).</p>
                 <p>Edited in <bibl><ptr target="bib:Swaminathan2024_01"/></bibl> (SII 44.13).</p>
-                <p>This edition by Emmanuel Francis, based on autopsy and photos (2024 by Emmanuel Francis), on <bibl><ptr target="bib:Swaminathan2024_01"/></bibl> for the presently missing portions.</p>
+                <p>This edition by Emmanuel Francis, based on autopsy and photos (2024 by Emmanuel Francis) and on <bibl><ptr target="bib:Swaminathan2024_01"/></bibl> for lines 1-5, on <bibl><ptr target="bib:Swaminathan2024_01"/></bibl> for lines 6-17 presently (2024) missing.</p>
                 <p>ASI transcript and estampage(s), if any, yet to be consulted.</p>
                 
                 <listBibl type="primary">                    
