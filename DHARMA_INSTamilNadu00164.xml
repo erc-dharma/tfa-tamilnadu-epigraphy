@@ -8,24 +8,13 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Vaḻuvūr, Vīraṭṭāṉēśvara, time of Tribhuvanacakravartin Rājādhirāja, year 5</title>
+                <title>Vaḻuvūr, Vīraṭṭāṉēśvara temple, time of Tribhuvanacakravartin Rājādhirāja, year 5</title>
                 <respStmt>
-                    <resp>EpiDoc encoding</resp>
-                    <persName>
-                        <forename>S.</forename>
-                        <surname>Swaminathan</surname>
-                    </persName>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Davalos</surname>
                     </persName>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
@@ -112,9 +101,6 @@
                     vanta kācu pati<choice><orig>n</orig><reg>ṉ</reg></choice> oṉṟē kāl Ik-kācu-p <unclear>paṭi</unclear>
                     <lb n="5" break="no"/><unclear>ṉ oṉṟē</unclear> <gap reason="lost" quantity="4" unit="character"></gap> <unclear>m</unclear> A<choice><orig>ṇ</orig><reg>ṉ</reg></choice>ṟāṭu tēva<unclear>ka</unclear><choice><orig>n</orig><reg>ṉ</reg></choice><unclear>mikaḷ</unclear> <gap reason="lost" quantity="2" unit="character"></gap> ñ <gap reason="lost" quantity="1" unit="character"></gap> <hi rend="grantha">śrī</hi>-mā<hi rend="grantha">h<unclear>e</unclear></hi>śvara-k ka<unclear>ṇ</unclear>kāṇi ce<unclear>yv</unclear>ārkaḷ <gap reason="lost" extent="unknown"></gap> ṭu Itirunāḷ<unclear>āl</unclear> * Eḻunta<supplied reason="omitted">ru</supplied>ḷuvikka-k kaṭavōm ā<choice><orig>n</orig><reg>ṉ</reg></choice>amaikku kālveṭṭu <g type="ddanda"/> <g type="pc"/>
                 </p>
-                
-                <p>...</p>
-                
             </div>	
             
             <div type="apparatus">
