@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nākappaṭṭiṉam, Kāyārōkaṇam temple, time of Rājendra Cōḻa, year [lost]</title>
+                <title>Nākappaṭṭiṉam, Kāyārōkaṇam temple, time of Rājendra Cōḻa, year lost</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -91,60 +91,85 @@
                 
                 <p>
                     <gap reason="lost" quantity="10" unit="character"/>
-                    ttu nākapaṭṭi<choice><orig>n</orig><reg>ṉ</reg></choice>attu tiru-k-kārōṇam-uṭaiya ma<hi rend="grantha">hāde</hi>var tiru<supplied reason="undefined">-cu</supplied>ṟṟu-māḷikai vācal <hi rend="grantha">kṣatri</hi>ya-<hi rend="grantha">śikhā</hi>maṇi yi
+                    ttu nāka-paṭṭi<choice><orig>n</orig><reg>ṉ</reg></choice>attu tiru-k-kārōṇam-uṭaiya ma<hi rend="grantha">hā-de</hi>var tiru<supplied reason="undefined">-cu</supplied>ṟṟu-māḷikai vācal <hi rend="grantha">kṣatri</hi>ya-<hi rend="grantha">śikhā</hi>maṇi yi
                     <lb n="3" break="no"/>
                     <gap reason="lost" quantity="18" unit="character"/>
-                    koṇṭu <supplied reason="undefined">mēyvittān</supplied> <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ṣa</hi>yatt' arayaṉ kaṇṭaṉimalaṉakattī<hi rend="grantha">śvara</hi>raṉ It-taṉmam cantirātittavaṟ
-                    <lb n="4" break="no"/>
+                    koṇṭu <supplied reason="undefined">mēyvittān</supplied> <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ṣa</hi>yatt' arayaṉ kaṇṭaṉimalaṉ akattī<hi rend="grantha">śvara</hi>raṉ It-taṉmam cantirātittavaṟ
+                    <lb n="4"/>
                     <gap reason="lost" quantity="18" unit="character"/>
                     kalveṭṭi-k kuṭukka v-eṉṟu Ivv-āṇṭu <hi rend="grantha">śrī</hi>-kāryam ceykiṉar Aḷanāṭṭu-p putta-maṅkalam-uṭaiyāṉ
                     <lb n="5"/><supplied reason="undefined">nā</supplied>kaṉ kumarāṉum <supplied reason="undefined"><hi rend="grantha">śrī</hi>-pāta-mūla</supplied>-p-pañcācāriya-t-tēvakaṉmikaḷ collavum Ip-paricu kalveṭṭiṉēṉ Ivv-ūr taccaṉ Ēṟaṉ
                     <lb n="6"/>caṭaiyaṉ-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tēvar kaṇta Ācāriyaṉ <gap reason="lost" quantity="6" unit="character"/>
                 </p>
                 <p>
-                    mu-c-cāṇē mū-viral nīḷattu viḷakku Oṉṟu
-                    <gap reason="lost" quantity="6" unit="character"/> nīḷattu viḷakku Iraṇṭu                    
-                    mu-c-cāṇīḷattu maṭṭa viḷakku Oṉṟu
-                    <lb n="7"/><gap reason="lost" quantity="6" unit="character"/> -c-cāṇē Ēḻu viral nīḷattu viḷakku Oṉṟu
-                    <gap reason="lost" quantity="6" unit="character"/> viral nīḷattu <gap reason="lost" quantity="6" unit="character"/>
-                    viḷakku Oṉṟu
-                    <gap reason="lost" quantity="6" unit="character"/> ṇīḷattu pāvai viḷakku Oṉṟu
-                    Iru-cāṇīḷattu kurakku viḷakku
-                    <lb n="8"/>niṟai <gap reason="lost" quantity="6" unit="character"/> ttil kuṟai veṭṭiyatu veḷḷi-k kalaca-p-pāvai Oṉṟu
-                    kācu niṟai Iru-nūṟṟu nāṟpattu nāṟ-kaḻañc' arai veḷḷi maṭal Oṉṟu
-                    kācu 
-                    <lb n="9"/>niṟai patt' oṉpatiṉ kaḻañcu veḷḷiyiṉ ciṟu-<supplied reason="undefined">c-cappari</supplied> Oṉṟu
-                    kācu niṟai patiṉ mu-k-kaḻañcē kal veḷḷiyiṉ pali-t-tālam Oṉṟu
-                    kācu nā
-                    <lb n="10" break="no"/>ṉ-ṉūṟṟ' aimpatt' aṟu kaḻañcē mu-k-kālum veḷḷi-k-koḷkai tēvar
-                    kācu niṟai ṉāṟ-pattu nāṟ-kaḻañcē mu-k-kālum Āka
-                    Iru-nūṟṟ' aiṅ
-                    <lb n="11" break="no"/>-kaḻañc' arai veḷḷi-t-taṭṭam Oṉṟiṉāṟ kācu niṟai mu-p-pattiṉ kaḻañcē kāl cāmarai-k-kai Oṉṟu
-                    veḷḷi muppatt' eṇ-kaḻañc' arai cāmarai-k
-                    <lb n="12" break="no"/>-kai Oṉṟu
-                    veḷḷi muppatt' eṇ-kaḻañce mukkāl I-<hi rend="grantha">śrī</hi>-kōyi<choice><orig>ll</orig><reg>l</reg></choice>-uṭaiya <hi rend="grantha">śi</hi>va<hi rend="grantha">brāhm</hi>aṇaṉ kamutuvaṉ paṭṭāri kaḷatattaṉ Iṭṭa veḷḷi-c cāvara
-                    ni
-                    <lb n="13" break="no"/>ṟai kācu...
-                    <lb n="14"/>...
-                    <lb n="15"/>...
-                    <lb n="16"/>...
-                    <lb n="17"/>...
-                    <lb n="18"/>...
-                    <lb n="19"/>...
-                    <lb n="20"/>...
-                    <lb n="21"/>...
-                    <lb n="22"/>
-                    viḷakku Oṉṟu 1
-                    Iru-cāṇīḷattu maṭṭa viḷakku Oṉṟu
-                    cāṇē Ēḻu-viral nīḷattu viḷakku Oṉṟu
-                    cāṇē mū-viral nīḷattu viḷakku Oṉṟu
-                    nākapaṭṭiṉattu Ūrār Iṭṭa pa
-                    <lb n="23" break="no"/>ṉniru-cāṇīḷattu viḷakku Iraṇṭum
+                    <list>
+                        <item>mu-c-cāṇē mū-viral nīḷattu viḷakku Oṉṟu</item>
+                        <item><gap reason="lost" quantity="6" unit="character"/> nīḷattu viḷakku Iraṇṭu</item>                    
+                        <item>mu-c-cāṇīḷattu maṭṭa-viḷakku Oṉṟu</item>
+                        <item><lb n="7"/><gap reason="lost" quantity="6" unit="character"/> -c-cāṇē Ēḻu viral nīḷattu viḷakku Oṉṟu</item>
+                        <item><gap reason="lost" quantity="6" unit="character"/> viral nīḷattu <gap reason="lost" quantity="6" unit="character"/>
+                            viḷakku Oṉṟu</item>
+                        <item><gap reason="lost" quantity="6" unit="character"/> ṇīḷattu pāvai-viḷakku Oṉṟu</item>
+                        <item>Iru-cāṇīḷattu kurakku-viḷakku</item>
+                        <item><lb n="8"/>niṟai <gap reason="lost" quantity="6" unit="character"/> ttil kuṟai veṭṭiyatu veḷḷi-k kalaca-p-pāvai Oṉṟu</item>
+                        <item>kācu niṟai Iru-nūṟṟu nāṟ-pattu nāṟ-kaḻañc' arai veḷḷi-maṭal Oṉṟu</item>
+                        <item>kācu 
+                            <lb n="9"/>niṟai patt' oṉpatiṉ kaḻañcu veḷḷiyiṉ ciṟu-<supplied reason="undefined">c-cappari</supplied> Oṉṟu</item>
+                        <item>kācu niṟai patiṉ mu-k-kaḻañcē kal veḷḷiyiṉ pali-t-tālam Oṉṟu</item>
+                        <item>kācu nā
+                            <lb n="10" break="no"/>ṉ-ṉūṟṟ' aim-patt' aṟu kaḻañcē mu-k-kālum veḷḷi-k-koḷkai tēvar</item>
+                        <item>kācu niṟai ṉāṟ-pattu nāṟ-kaḻañcē mu-k-kālum Āka
+                            Iru-nūṟṟ' aiṅ
+                            <lb n="11" break="no"/>-kaḻañc' arai veḷḷi-t-taṭṭam Oṉṟiṉāṟ kācu niṟai mu-p-pattiṉ kaḻañcē kāl cāmarai-k-kai Oṉṟu</item>
+                        <item>veḷḷi mu-p-patt' eṇ-kaḻañc' arai cāmarai-k
+                            <lb n="12" break="no"/>-kai Oṉṟu</item>
+                        <item>veḷḷi mu-p-patt' eṇ-kaḻañce mu-k-kāl I-<hi rend="grantha">śrī</hi>-kōyi<choice><orig>ll</orig><reg>l</reg></choice>-uṭaiya <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhm</hi>aṇaṉ kamutuvaṉ paṭṭāri kaḷatattaṉ Iṭṭa veḷḷi-c cāvara</item>
+                        <item>ni
+                            <lb n="13" break="no"/>ṟai kācu niṟai mu-p-patt' iru-kaḻañcu nāka-paṭṭiṉattu viyāpāri Uṭaiyār tiru-māl Iṭṭa rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>ṉ veḷḷi-k-kāḷam Iraṇṭu</item>
+                        <item>kācu niṟai muṉṉūṟṟ' eṇ<supplied reason="undefined">patu</supplied>
+                            <lb n="14"/>kaḻañcu mēṟpaṭiyāṉa Iṭṭa kuḻi-t-taṭṭu Oṉṟu</item>
+                        <item>k<supplied reason="omitted">ācu ni</supplied>rai veḷḷi toḷḷāyiratt' orupatt' eṇ-kaḻañcē kāl mēṟpaṭiyāṉa Iṭṭa veḷḷi palittālam Oṉṟu</item>
+                        <item>kācu niṟai
+                            <lb n="15"/>muṉ-ṉūṟṟ' eḻu-pat<supplied reason="undefined">t' aiṅ</supplied>-kaḻañcu mēṟpaṭi-y-āṉa Iṭṭa taḷikai Oṉṟu</item>
+                        <item>kācu niṟai veḷḷi muṉ-ṉūṟṟ' eṇ-patiṉ kaḻañcu mēṟpaṭi-y-āṉa Iṭṭa maṇṭai Oṉṟu</item>
+                        <item>kācu niṟai veḷ
+                            <lb n="16" break="no"/>ḷi muṉ-ṉūṟṟ' iru-patt' iru-kaḻañcē kāl mēṟpaṭi-y-āṉa Iṭṭa Otukku maṭal Oṉṟu</item>
+                        <item>kācu niṟai veḷḷi Aim-patt'aṟu kaḻañc' aṟai mēṟpaṭi-y-āṉa Iṭṭa nitta-viṉōtaṉ Ilai-t-taṭṭu
+                            <lb n="17"/>Oṉṟu</item>
+                        <item>veḷḷi kācu niṟai ṉūṟṟ' oru-patt' oru kaḻañcu mēṟpaṭi-y-āṉa Iṭṭa tiru-v-ārātaṉai caṅku Oṉṟu</item>
+                        <item>veḷḷi Aim-patt' oru kaḻañc' arai Aru-cāṇē Ai
+                            <lb n="18" break="no"/>-viral nīḷattu viḷakku Oṉṟu</item>
+                        <item>Aṟu-cāṇē mū-viral nīḷattu viḷakku Oṉṟu</item>
+                        <item>Aṟu-cāṇīḷattu viḷakku Oṉṟu</item>
+                        <item>Aiñ-cāṇē Eṇ-viral nīḷaṭṭu viḷakku Oṉṟu</item>
+                        <item>Aiñ-c
+                            <lb n="19"/>āṇē Aiy-viral nīḷattu viḷakku Iraṇṭu</item>
+                        <item>Aiñ-cāṇīḷattu viḷakku Ēḻu</item>
+                        <item>nāṟ-cāṇē Eṇ-viral nīḷattu viḷakku Iraṇṭu</item>
+                        <item>nālu cāṇē Ēḻu-viral nīḷaṭṭu viḷakku Oṉṟu</item>
+                        <item><lb n="20"/>nāṟ-cāṇē Ēḻu-viral nīḷattu paṭi-t-talai viḷakku Oṉṟu</item>
+                        <item>nāṟ-cāṇē Ai-viral nīḷattu viḷak<supplied reason="undefined">ku Oṉṟu</supplied></item>
+                        <item>nāṟ-cāṇē nāl-viral nīḷattu viḷakku Oṉṟu</item>
+                        <item>nāṟ
+                            <lb n="21" break="no"/>cāṇe <gap reason="lost" quantity="6" unit="character"/> nīḷattu viḷakku Oṉṟu</item>
+                        <item><gap reason="lost" quantity="6" unit="character"/> cānīḷattu viḷakku Iraṇṭu</item>
+                        <item><supplied reason="undefined">Iru</supplied>-cāṇē Eṇ-viral nīḷattu <gap reason="lost" quantity="9" unit="character"/></item>
+                        <item><gap reason="lost" quantity="9" unit="character"/> nīḷattu <gap reason="lost" quantity="6" unit="character"/>
+                        </item>
+                        <item><lb n="22"/>
+                            viḷakku Oṉṟu 1</item>
+                        <item>Iru-cāṇīḷattu maṭṭa viḷakku Oṉṟu</item>
+                        <item>cāṇē Ēḻu-viral nīḷattu viḷakku Oṉṟu</item>
+                        <item>cāṇē mū-viral nīḷattu viḷakku Oṉṟu</item>
+                        <item>nāka-paṭṭiṉattu Ūrār Iṭṭa pa
+                            <lb n="23" break="no"/>ṉniru-cāṇīḷattu viḷakku Iraṇṭum</item>
+                        
+                    </list>
                 </p>
                 <p>
-                    mūvāyiratt-ēḻu-nūṟṟu <gap reason="lost" quantity="6" unit="character"/>
-                    kalveṭṭuka v-eṉṟu Ivv-āṇ<supplied reason="undefined">ṭu <hi rend="grantha">śrī</hi>-kāriyañ</supplied> ceykiṉṟa Aḻanāṭṭu nā
-                    <lb n="24" break="no"/>kaṉ kumaraṉum patipātamūla-paṭṭ-uṭaiya pañcācār<hi rend="grantha">yya</hi>-t-tēva-kaṉmikaḷ <supplied reason="undefined">collavum Ip-paricu</supplied> kalveṭṭi<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ Ivv-ūr taccaṉ <supplied reason="undefined">Ēṟaṉ caṭaiyā</supplied><choice><orig><supplied reason="undefined">n</supplied></orig><reg>ṉ</reg></choice><supplied reason="undefined">ēṉ tē</supplied>var kaṇṭa Ācāriyaṉ<surplus>n</surplus>ēṉ <g type="pc"/>                    
+                    mū-v-āyiratt-ēḻu-nūṟṟu <gap reason="lost" quantity="6" unit="character"/>
+                    kalveṭṭuka v-eṉṟu Ivv-āṇ<supplied reason="undefined">ṭu <hi rend="grantha">śrī</hi>-kāriyañ</supplied> ceykiṉṟa Aḻa-nāṭṭu nā
+                    <lb n="24" break="no"/>kaṉ kumaraṉum pati-pāta-mūla-paṭṭ-uṭaiya pañcācār<hi rend="grantha">yya</hi>-t-tēva-kaṉmikaḷ <supplied reason="undefined">collavum Ip-paricu</supplied> kalveṭṭi<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ Ivv-ūr taccaṉ <supplied reason="undefined">Ēṟaṉ caṭaiyā</supplied><choice><orig><supplied reason="undefined">n</supplied></orig><reg>ṉ</reg></choice><supplied reason="undefined">ēṉ tē</supplied>var kaṇṭa Ācāriyaṉ<surplus>n</surplus>ēṉ <g type="pc"/>                    
                 </p>
                 
             </div>	
@@ -170,10 +195,12 @@
                 <p n="1-2">
                     <gap reason="lost"/> year of the glorious Rajendra Cōḻa <hi rend="italic">alias</hi> the king Parakesarivarman.
                 </p>
-                <p n="2-23">
-                    
+                <p n="2-6">
+                    ...
                 </p>
-                
+                <p n="6-23">
+                    ...
+                </p>
                 <p n="23-24">
                     While the Pañcācārya temple officers
                     said that <quote>the Mūvāyirattēḻunūṟṟuvars<note>That is the group of the 3700, which seems to be the subject of <foreign>kalveṭṭuka</foreign>.</note> should engrave <supplied reason="subaudible">this</supplied></quote>,
@@ -192,7 +219,7 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1956-1957/B/1956-1957/161).</p>
                 <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
-                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>. The extent of lacunae is very approximate.</p>
                 
                 <listBibl type="primary">
                     
@@ -218,7 +245,3 @@
         </body>
     </text>
 </TEI>
-
-<!--METADATA:
-    On the south wall of the maṇḍapa in front of the central shrine in the Vīraṭṭāṉēśvara temple at Valuvur.
--->
