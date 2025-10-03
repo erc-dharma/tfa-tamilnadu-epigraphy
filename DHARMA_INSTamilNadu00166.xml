@@ -113,18 +113,22 @@
                 
             </div>	
             
-            <div type="apparatus">
+            
                 
-                <!--<listApp>   
+                <div type="apparatus">
                     
-                    <app loc="0">
-                    <lem>...</lem>
-                    <note><ptr target="bib:..."/></note>
-                    </app>
-                    
+                    <!--<listApp>   
+                        
+                        <app loc="0">
+                            <lem source="bib:Mārkciyakānti+al2007_01">...</lem>
+                            <note><ptr target="bib:Karashima+Subbarayalu2009_01"/></note>
+                            </app>
+                        
                     </listApp>-->
+                    
+                </div>
                 
-            </div>
+            
             
             <div type="translation" resp="part:emfr">
                 
@@ -168,7 +172,8 @@
                     Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>, with facsimile.
                     Edited (with many variants) and translated in <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl> (pp. 276-277).
                 </p>
-                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>. The extent of lacunae is very approximate.</p>
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl>. The extent of lacunae in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> is very approximate.</p>
+                <p>ASI estampage and transcript yet to be consulted.</p>
                 
                 <listBibl type="primary">
                     
