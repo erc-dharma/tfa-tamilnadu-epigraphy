@@ -91,7 +91,7 @@
                 
                 <p>
                     <gap reason="lost" quantity="10" unit="character"/>
-                    ttu nāka-paṭṭi<choice><orig>n</orig><reg>ṉ</reg></choice>attu tiru-k-kārōṇam-uṭaiya ma<hi rend="grantha">hā-de</hi>var tiru<supplied reason="undefined">-cu</supplied>ṟṟu-māḷikai vācal <hi rend="grantha">kṣatri</hi>ya-<hi rend="grantha">śikhā</hi>maṇi yi
+                    ttu nāka-paṭṭi<choice><orig>n</orig><reg>ṉ</reg></choice>attu tiru-k-kārōṇam-uṭaiya ma<hi rend="grantha">hā-de</hi>var tiru-<supplied reason="undefined">cu</supplied>ṟṟu-māḷikai vācal <hi rend="grantha">kṣatri</hi>ya-<hi rend="grantha">śikhā</hi>maṇi yi
                     <lb n="3" break="no"/>
                     <gap reason="lost" quantity="18" unit="character"/>
                     koṇṭu <supplied reason="undefined">mēyvittān</supplied> <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ṣa</hi>yatt' arayaṉ kaṇṭaṉimalaṉ akattī<hi rend="grantha">śvara</hi>raṉ It-taṉmam cantirātittavaṟ
@@ -218,7 +218,10 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1956-1957/B/1956-1957/161).</p>
-                <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
+                <p>
+                    Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.
+                    Partially edited (with many variants) and translated in <bibl><ptr target="bib:Karashima+Subbarayalu2009_0"/></bibl> (pp. 275-276).
+                </p>
                 <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>. The extent of lacunae is very approximate.</p>
                 
                 <listBibl type="primary">
@@ -227,6 +230,10 @@
                         <ptr target="bib:Mārkciyakānti+al2007_01"/>
                         <citedRange unit="page">227-229</citedRange>
                         <citedRange unit="item">32/1998</citedRange>
+                    </bibl>
+                    
+                    <bibl n="K">
+                        <ptr target="bib:Karashima+Subbarayalu2009_01"/>
                     </bibl>
                     
                 </listBibl>           

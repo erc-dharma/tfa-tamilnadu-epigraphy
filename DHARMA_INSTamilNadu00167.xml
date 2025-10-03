@@ -200,7 +200,10 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1956-1957/B/1956-1957/166).</p>
-                <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>, with facsimile.</p>
+                <p>
+                    Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>, with facsimile.
+                    Edited (with many variants) and translated in <bibl><ptr target="bib:Karashima+Subbarayalu2009_0"/></bibl> (pp. 277-278).
+                </p>
                 <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>. The extent of lacunae is very approximate.</p>
                 
                 <listBibl type="primary">
@@ -209,6 +212,10 @@
                         <ptr target="bib:Mārkciyakānti+al2007_01"/>
                         <citedRange unit="page">230-231</citedRange>
                         <citedRange unit="item">33/1998</citedRange>
+                    </bibl>
+                    
+                    <bibl n="K">
+                        <ptr target="bib:Karashima+Subbarayalu2009_01"/>
                     </bibl>
                     
                 </listBibl>           
