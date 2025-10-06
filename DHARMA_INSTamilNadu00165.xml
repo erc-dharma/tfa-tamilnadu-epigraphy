@@ -91,13 +91,13 @@
                 
                 <p>
                     <gap reason="lost" quantity="10" unit="character"/>
-                    ttu nāka-paṭṭiṉattu tiru-k-kārōṇam-uṭaiya ma<hi rend="grantha">hā-de</hi>var tiru-<unclear>cu</unclear>ṟṟu-māḷikai vācal <hi rend="grantha">kṣatri</hi>ya-<hi rend="grantha">śikhā</hi>maṇi yi
+                    ttu nāka-paṭṭiṉattu tiru-k-kārōṇam-uṭaiya ma<hi rend="grantha">hā-de</hi>var tiru-c-cuṟṟu-māḷikai vācal <hi rend="grantha">kṣatri</hi>ya-cikāmaṇi yi <gap reason="lost" quantity="8" unit="character"/>
                     <lb n="3" break="no"/>
-                    <gap reason="lost" quantity="17" unit="character"/> <unclear>koṇṭa ceyvittāṉ</unclear> <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ṣa</hi>yatt' arayaṉ kaṇṭaṉimalaṉ akattī<hi rend="grantha">śvara</hi>raṉ It-taṉmam cantirātittavaṟ
+                    <gap reason="lost" quantity="17" unit="character"/> <unclear>koṇṭa ceyvittāṉ</unclear> <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ṣai</hi>yatt' arayar kaṉmi <hi rend="bold">śrī</hi>-mūlaṉakattī<hi rend="bold">śa</hi>raṉ It-taṉmam cantirātittavaṟ ni
                     <lb n="4"/>
-                    <gap reason="lost" quantity="18" unit="character"/>
-                    kalveṭṭi-k kuṭukka v-eṉṟu Ivv-āṇṭu <hi rend="grantha">śrī</hi>-kāryam ceykiṉṟa Aḷanāṭṭu-p putta-maṅkalam-uṭaiyāṉ
-                    <lb n="5"/><unclear>nā</unclear>kaṉ kumarāṉum <unclear><hi rend="grantha">śrī</hi>-pāta-mūla</unclear>-p-pañcācāriya-t-tēva-kaṉmikaḷ collavum Ip-paricu kalveṭṭiṉēṉ Ivv-ūr taccaṉ Ēṟaṉ
+                    Itiṉukku <gap reason="lost" quantity="8" unit="character"/>
+                    kalveṭṭi-k kuṭukka v-eṉṟu Ivv-āṇṭu <hi rend="grantha">śrī</hi>-kāriyaṉ ceykiṉṟa Aḷanāṭṭu-p putta-maṅkalam-uṭaiyāṉ
+                    <lb n="5"/>nakkaṉ kumarāṉ ceṅ <gap reason="lost" quantity="12" unit="character"/> tamu  <gap reason="lost" quantity="5" unit="character"/> pañcācāriya-t-tēva-kaṉmikaḷ collavum Ip-paricu kalveṭṭiṉēṉ Ivv-ūr taccaṉ Ēṟaṉ
                     <lb n="6"/>caṭaiyaṉ-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a tēvar kaṇta Ācāriyaṉ <gap reason="lost" quantity="6" unit="character"/>
                 </p>
                 <p>
@@ -167,7 +167,7 @@
                 </p>
                 <p>
                     mū-v-āyiratt-ēḻu-nūṟṟu <gap reason="lost" quantity="6" unit="character"/>
-                    kalveṭṭuka v-eṉṟu Ivv-āṇ<unclear>ṭu <hi rend="grantha">śrī</hi>-kāriyañ</unclear> ceykiṉṟa Aḻa-nāṭṭu nā
+                    kalveṭṭuka v-eṉṟu Ivv-āṇ<unclear>ṭu</unclear> <hi rend="grantha"><unclear>śrī</unclear></hi>-<unclear>kāriyañ</unclear> ceykiṉṟa Aḻa-nāṭṭu nā
                     <lb n="24" break="no"/>kaṉ kumaraṉum pati-pāta-mūla-paṭṭ-uṭaiya pañcācār<hi rend="grantha">yya</hi>-t-tēva-kaṉmikaḷ <unclear>collavum Ip-paricu</unclear> kalveṭṭi<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ Ivv-ūr taccaṉ <unclear>Ēṟaṉ caṭaiyā</unclear><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice><unclear>ēṉ tē</unclear>var kaṇṭa Ācāriyaṉ<surplus>n</surplus>ēṉ <g type="pc"/>                    
                 </p>
                 
@@ -183,13 +183,13 @@
                         </app>-->
                     
                     <app loc="1">
-                        <lem source="bib:Karashima+Subbarayalu2009_01">°kēcari-paṉmar-āṉa</lem>
-                        <rdg source="bib:Mārkciyakānti+al2007_01">°kē<hi rend="grantha">sa</hi>ri-pa<hi rend="grantha">nma</hi>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a</rdg>
+                        <lem source="bib:Karashima+Subbarayalu2009_01">°kēcaripaṉmarāṉa</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">°kē<hi rend="grantha">sa</hi>ripa<hi rend="grantha">nma</hi>rā<choice><orig>n</orig><reg>ṉ</reg></choice>a</rdg>
                     </app>
                     
                     <app loc="1">
-                        <lem source="bib:Karashima+Subbarayalu2009_01">°rā<hi rend="grantha">je</hi>ntira-cōḻarkku</lem>
-                        <rdg source="bib:Mārkciyakānti+al2007_01">°rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻaṟku</rdg>
+                        <lem source="bib:Karashima+Subbarayalu2009_01">°rā<hi rend="grantha">je</hi>ntiracōḻarkku</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">°rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>cōḻaṟku</rdg>
                     </app>
                     
                     <app loc="2">
@@ -204,27 +204,66 @@
                     </app>
                     
                     <app loc="2">
-                        <lem source="bib:Karashima+Subbarayalu2009_01">...</lem>
-                        <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
-                    </app>
-                         
-                    <app loc="2">
-                        <lem source="bib:Karashima+Subbarayalu2009_01">...</lem>
-                        <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
-                    </app>
-                         
-                    <app loc="2">
-                        <lem source="bib:Karashima+Subbarayalu2009_01">...</lem>
-                        <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
+                        <lem source="bib:Karashima+Subbarayalu2009_01">tiruccuṟṟu°</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">tiru<unclear>cu</unclear>ṟṟu°</rdg>
                     </app>
                     
-                     <app loc="3">
+                    <app loc="2">
+                        <lem source="bib:Karashima+Subbarayalu2009_01">°ciḵāmaṇi</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">°<hi rend="grantha">śikhā</hi>maṇi</rdg>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem source="bib:Karashima+Subbarayalu2009_01">yi <gap reason="lost" quantity="8" unit="character"/></lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">yi</rdg>
+                    </app>
+                    
+                    <app loc="3">
                         <lem source="bib:Karashima+Subbarayalu2009_01"><gap reason="lost" quantity="17" unit="character"/> <unclear>koṇṭa ceyvittāṉ</unclear></lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01"><gap reason="lost" quantity="18" unit="character"/>
-                    koṇṭu <unclear>mēyvittān</unclear></rdg>
+                            koṇṭu <unclear>mēyvittān</unclear></rdg>
                     </app>
-                        
-                        
+                    
+                    <app loc="3">
+                        <lem source="bib:Karashima+Subbarayalu2009_01"><hi rend="grantha">śrī</hi>vi<hi rend="grantha">ṣai</hi>yattarayar</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"><hi rend="grantha">śrī</hi>vi<hi rend="grantha">ṣa</hi>yattarayaṉ</rdg>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem source="bib:Karashima+Subbarayalu2009_01">kaṉmi <hi rend="grantha">śrī</hi> mūlaṉakattī<hi rend="grantha">śa</hi>raṉ</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">kaṇṭaṉimalaṉakattī<hi rend="grantha">śvara</hi>raṉ</rdg>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem source="bib:Karashima+Subbarayalu2009_01">cantirātittavaṟ ni</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">cantirātittavaṟ</rdg>
+                    </app>
+                    
+                    <app loc="4">
+                        <lem source="bib:Karashima+Subbarayalu2009_01">Itiṉukku <gap reason="lost" quantity="8" unit="character"/></lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"><gap reason="lost" quantity="18" unit="character"/></rdg>
+                    </app>
+                    
+                    <app loc="4">
+                        <lem source="bib:Karashima+Subbarayalu2009_01"><hi rend="grantha">śrī</hi>kāriyaṉ</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"><hi rend="grantha">śrī</hi>kāryam</rdg>
+                    </app>
+                    
+                    <app loc="5">
+                        <lem source="bib:Karashima+Subbarayalu2009_01">nakkaṉ kumarāṉ ceṅ <gap reason="lost" quantity="12" unit="character"/> tamu  <gap reason="lost" quantity="5" unit="character"/> pañcācāriyat tēva kaṉmikaḷ</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"><unclear>nā</unclear>kaṉ kumarāṉum <hi rend="grantha"><unclear>śrī</unclear></hi>-<unclear>pāta-mūla</unclear>-p-pañcācāriya-t-tēva-kaṉmikaḷ</rdg>
+                    </app>
+                    
+                    <app loc="6">
+                        <lem source="bib:Mārkciyakānti+al2007_01">caṭaiyaṉāna</lem>
+                        <rdg source="bib:Karashima+Subbarayalu2009_01">caṭaiyaṉēṉ</rdg>
+                    </app>
+                    
+                    <app loc="6">
+                        <lem source="bib:Mārkciyakānti+al2007_01">Ācāriyaṉ <gap reason="lost" quantity="6" unit="character"/></lem>
+                        <rdg source="bib:Karashima+Subbarayalu2009_01">ācāriyēṉ e <gap reason="lost" quantity="3" unit="character"/></rdg>
+                    </app>
+                    
                 </listApp>
                 
             </div>

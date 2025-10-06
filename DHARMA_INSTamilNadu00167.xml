@@ -140,14 +140,16 @@
             
             <div type="apparatus">
                 
+                <!--Include K readings-->
+                
                 <!--<listApp>   
                     
                     <app loc="0">
-                        <lem source="bib:Karashima+Subbarayalu2009_01">...</lem>
-                        <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
+                    <lem source="bib:Karashima+Subbarayalu2009_01">...</lem>
+                    <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
                     </app>
                     
-                </listApp>-->
+                    </listApp>-->
                 
             </div>
             
