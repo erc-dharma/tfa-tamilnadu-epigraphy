@@ -107,7 +107,7 @@
                     <p>
                         kō-p-para-kēcari
                         <lb n="17" break="no"/>-pa<hi rend="grantha">nma</hi>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-<hi rend="grantha">de</hi>vaṟku yāṇṭu
-                        <lb n="18"/><supplied reason="undefined">Ē</supplied>ḻ-āvatu
+                        <lb n="18"/><unclear>Ē</unclear>ḻ-āvatu
                     </p>
                     
                     <p>
@@ -127,11 +127,11 @@
                 <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                     
                     <ab>
-                        <lb n="1"/>rikaḷukku tiru-v-amit' arici pōtu Iru-nāḻi-y-ā<supplied reason="undefined">ka</supplied>
-                        <lb n="2"/>Arici Aṟu nāḻikai Añc' iraṇṭu vaṇ<supplied reason="undefined">ṇa</supplied>
-                        <lb n="3" break="no"/>m nellu kuṟuṇi Ēḻu nāḻiyum ney-y-a<supplied reason="undefined">mu</supplied>
-                        <lb n="4" break="no"/>tu Āḻākkiṉukku nellu nā-nāḻiyum-āka <supplied reason="undefined">pō</supplied>
-                        <lb n="5" break="no"/><supplied reason="undefined">tu</supplied> mūṉṟ' irukku nellu <gap reason="lost" quantity="6" unit="character"/> nāḻiyum ta<supplied reason="undefined">yi</supplied>
+                        <lb n="1"/>rikaḷukku tiru-v-amit' arici pōtu Iru-nāḻi-y-ā<unclear>ka</unclear>
+                        <lb n="2"/>Arici Aṟu nāḻikai Añc' iraṇṭu vaṇ<unclear>ṇa</unclear>
+                        <lb n="3" break="no"/>m nellu kuṟuṇi Ēḻu nāḻiyum ney-y-a<unclear>mu</unclear>
+                        <lb n="4" break="no"/>tu Āḻākkiṉukku nellu nā-nāḻiyum-āka <unclear>pō</unclear>
+                        <lb n="5" break="no"/><unclear>tu</unclear> mūṉṟ' irukku nellu <gap reason="lost" quantity="6" unit="character"/> nāḻiyum ta<unclear>yi</unclear>
                         <lb n="6" break="no"/>r-amutu nāḻiyum <gap reason="lost" quantity="6" unit="character"/> nāḻiyu <gap reason="lost" quantity="6" unit="character"/> yu
                         <lb n="7"/>Aṭai-k-kāy <gap reason="lost" quantity="6" unit="character"/> pātiri <gap reason="lost" quantity="6" unit="character"/>
                     </ab>
@@ -143,8 +143,8 @@
                 <!--<listApp>   
                     
                     <app loc="0">
-                        <lem source="bib:Mārkciyakānti+al2007_01">...</lem>
-                        <note><ptr target="bib:Karashima+Subbarayalu2009_01"/></note>
+                        <lem source="bib:Karashima+Subbarayalu2009_01">...</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
                     </app>
                     
                 </listApp>-->

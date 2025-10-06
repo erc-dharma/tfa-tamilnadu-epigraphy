@@ -120,10 +120,10 @@
                     <!--<listApp>   
                         
                         <app loc="0">
-                            <lem source="bib:Mārkciyakānti+al2007_01">...</lem>
-                            <note><ptr target="bib:Karashima+Subbarayalu2009_01"/></note>
-                            </app>
-                        
+                        <lem source="bib:Karashima+Subbarayalu2009_01">...</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
+                    </app>
+                    
                     </listApp>-->
                     
                 </div>
