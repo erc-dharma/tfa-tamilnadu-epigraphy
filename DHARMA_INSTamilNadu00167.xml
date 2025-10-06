@@ -124,9 +124,9 @@
                         <lb n="25"/><hi rend="grantha">Ardha</hi>nāri-tēvar kōyilil Uttamā<hi rend="grantha">gra</hi>m Iraṇṭu kala <gap reason="lost" quantity="6" unit="character"/>
                     </p>
                 </div>
+                
                 <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-                    
-                    <ab>
+                    <p>
                         <lb n="1"/>rikaḷukku tiru-v-amit' arici pōtu Iru-nāḻi-y-ā<unclear>ka</unclear>
                         <lb n="2"/>Arici Aṟu nāḻikai Añc' iraṇṭu vaṇ<unclear>ṇa</unclear>
                         <lb n="3" break="no"/>m nellu kuṟuṇi Ēḻu nāḻiyum ney-y-a<unclear>mu</unclear>
@@ -134,7 +134,7 @@
                         <lb n="5" break="no"/><unclear>tu</unclear> mūṉṟ' irukku nellu <gap reason="lost" quantity="6" unit="character"/> nāḻiyum ta<unclear>yi</unclear>
                         <lb n="6" break="no"/>r-amutu nāḻiyum <gap reason="lost" quantity="6" unit="character"/> nāḻiyu <gap reason="lost" quantity="6" unit="character"/> yu
                         <lb n="7"/>Aṭai-k-kāy <gap reason="lost" quantity="6" unit="character"/> pātiri <gap reason="lost" quantity="6" unit="character"/>
-                    </ab>
+                    </p>
                 </div>
             </div>	
             

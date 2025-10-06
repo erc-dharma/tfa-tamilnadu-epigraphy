@@ -230,7 +230,7 @@
                     </app>
                     
                     <app loc="3">
-                        <lem source="bib:Karashima+Subbarayalu2009_01">kaṉmi <hi rend="grantha">śrī</hi> mūlaṉakattī<hi rend="grantha">śa</hi>raṉ</lem>
+                        <lem source="bib:Karashima+Subbarayalu2009_01">kaṉmi <hi rend="grantha">śrī</hi>-mūlaṉakattī<hi rend="grantha">śa</hi>raṉ</lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01">kaṇṭaṉimalaṉakattī<hi rend="grantha">śvara</hi>raṉ</rdg>
                     </app>
                     
@@ -250,8 +250,8 @@
                     </app>
                     
                     <app loc="5">
-                        <lem source="bib:Karashima+Subbarayalu2009_01">nakkaṉ kumarāṉ ceṅ <gap reason="lost" quantity="12" unit="character"/> tamu  <gap reason="lost" quantity="5" unit="character"/> pañcācāriyat tēva kaṉmikaḷ</lem>
-                        <rdg source="bib:Mārkciyakānti+al2007_01"><unclear>nā</unclear>kaṉ kumarāṉum <hi rend="grantha"><unclear>śrī</unclear></hi>-<unclear>pāta-mūla</unclear>-p-pañcācāriya-t-tēva-kaṉmikaḷ</rdg>
+                        <lem source="bib:Karashima+Subbarayalu2009_01">nakkaṉ kumarāṉ ceṅ <gap reason="lost" quantity="12" unit="character"/> tamu  <gap reason="lost" quantity="5" unit="character"/> pañcācāriyattēvakaṉmikaḷ</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"><unclear>nā</unclear>kaṉ kumarāṉum <hi rend="grantha"><unclear>śrī</unclear></hi><unclear>pātamūla</unclear>ppañcācāriyattēvakaṉmikaḷ</rdg>
                     </app>
                     
                     <app loc="6">
