@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Inscription recording the pious donation (<foreign>dharma</foreign>) of Nācciyāṇaṉ. Engraved on the pedestal of a bronze Buddha statue kept in the Chicago Art Institute (access no. 2021.240).</summary>
+                        <summary>Inscription recording the pious donation (<foreign>dharma</foreign>) of Nācciyāṇaṉ. Engraved on the pedestal of a <ref target="https://www.artic.edu/artworks/153517/buddha-with-left-hand-in-gesture-of-gift-giving-varadamudra">bronze Buddha statue kept in the Chicago Art Institute (access no. 2021.240)</ref>.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -87,24 +87,32 @@
             </div>	
             
             <div type="apparatus">                
-                               
-                <!--<listApp>   
+                
+                <listApp>   
                     
-                    <app loc="0">
-                    <lem source="bib:Karashima+Subbarayalu2009_01">...</lem>
-                    <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
+                    <app loc="1">
+                        <lem>°nācciyā
+                    <lb n="2" break="no"/>ṇaṉ</lem>
+                        <rdg source="bib:Cox2025_01">nācciyā
+                    <lb n="2" break="no"/>ṇa<choice><unclear>ṉ</unclear><unclear>ṉa</unclear></choice></rdg>
+                        <note><ptr target="bib:Cox2025_01"/> notes: <quote>Given the label’s lack of the <foreign>puḷḷi</foreign>, it is undecidable whether the name ends in its stem consonant or with the adjectival/genitive ending <foreign>-a</foreign>; the possessive sense is, at any rate, clear.</quote></note>
                     </app>
                     
-                    </listApp>-->
+                    <app loc="2">
+                        <lem><hi rend="grantha">dha<unclear>r</unclear>mmaM</hi></lem>
+                        <rdg source="bib:Cox2025_01"><hi rend="grantha">dh</hi>ammam</rdg>
+                    </app>
+                    
+                </listApp>
                 
             </div>
             
             <div type="translation" resp="part:emfr">                
                 
                 <p n="1-2">
-                   <supplied reason="subaudible">This is the</supplied> 
-                   pious donation of
-                   Nācciyāṇaṉ, the coin tester <supplied reason="explanation"><foreign>vaṇṇakkaṉ</foreign></supplied>.
+                    <supplied reason="subaudible">This is the</supplied> 
+                    pious donation of
+                    Nācciyāṇaṉ, the coin tester <supplied reason="explanation"><foreign>vaṇṇakkaṉ</foreign></supplied>.
                 </p>
                 
             </div>	

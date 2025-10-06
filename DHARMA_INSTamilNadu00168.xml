@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Inscription recording the foundation of a tank. Engraved on the back of a stone Buddha statue kept in the Chicago Art Institute (access no. 1964.556).</summary>
+                        <summary>Inscription recording the foundation of a tank. Engraved on the back of a <ref target="https://www.artic.edu/artworks/21023/buddha-shakyamuni-seated-in-meditation-dhyanamudra">stone Buddha statue kept in the Chicago Art Institute (access no. 1964.556)</ref>.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -97,8 +97,8 @@
                 <!--<listApp>   
                     
                     <app loc="0">
-                    <lem source="bib:Karashima+Subbarayalu2009_01">...</lem>
-                    <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
+                    <lem>...</lem>
+                    <rdg source="bib:Cox2025_01"></rdg>
                     </app>
                     
                     </listApp>-->
