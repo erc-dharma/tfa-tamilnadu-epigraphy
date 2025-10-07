@@ -95,7 +95,7 @@
                 <p>
                     rācamā<unclear>nya</unclear>
                     <lb n="6" break="no"/>rāca-<hi rend="grantha">śrī</hi>-mallāri-rāyar
-                    <lb n="7"/>peḷai<supplied reason="omitted">k</supplied>kuṭi kuḷam ve
+                    <lb n="7"/>peḷai<supplied reason="omitted">k</supplied>kuṭi-<supplied reason="omitted">k</supplied> kuḷam ve
                     <lb n="8" break="no"/>ṭṭivicca paṭiyiṇālē
                     <lb n="9"/>Inta k<choice><orig>o</orig><reg>u</reg></choice>ḷattilē tai
                     <lb n="10"/>mātam mutal yā<unclear>t</unclear>ām <choice><sic>e</sic><corr>o</corr></choice>
@@ -131,8 +131,8 @@
                     </app>
                     
                     <app loc="7">
-                        <lem>peḷai<supplied reason="omitted">k</supplied>kuṭi</lem>
-                        <rdg source="bib:Cox2025_01">peḷaikuṭi</rdg>
+                        <lem>peḷai<supplied reason="omitted">k</supplied>kuṭi<supplied reason="omitted">k</supplied></lem>
+                        <rdg source="bib:Cox2025_01">peḷaikuṭi<supplied reason="omitted">k</supplied></rdg>
                     </app>
                     
                     <app loc="12">
