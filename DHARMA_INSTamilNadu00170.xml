@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Chicago Art Institute bronze Buddha statue, label</title>
+                <title>Ireland bronze Buddha statue, label</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSTamilNadu00169</idno>
+                <idno type="filename">DHARMA_INSTamilNadu00170</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Inscription recording the pious donation (<foreign>dharma</foreign>) of Nācciyāṇaṉ. Engraved on the pedestal of a bronze Buddha statue kept in the Chicago Art Institute (<ref target="https://www.artic.edu/artworks/153517/buddha-with-left-hand-in-gesture-of-gift-giving-varadamudra">access no. 2021.240</ref>).</summary>
+                        <summary>Inscription recording the pious donation (<foreign>dharma</foreign>) of Buddhāditya. Engraved on the pedestal of a bronze Buddha statue kept in a private collection in Ireland.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -78,11 +78,10 @@
     <text xml:space="preserve">
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+            <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>vaṇṇakkanācciyā
-                    <lb n="2" break="no"/>ṇaṉ <hi rend="grantha">dha<unclear>r</unclear>mmaM</hi>
+                    <lb n="1"/>buddhā<choice><sic><unclear reason="eccentric_ductus">dh</unclear></sic><corr>d</corr></choice>ityasya dha<unclear>r</unclear>mma<supplied reason="lost">ḥ</supplied> <unclear><g type="ddanda">.</g></unclear>
                 </p>
             </div>	
             
@@ -91,16 +90,13 @@
                 <listApp>   
                     
                     <app loc="1">
-                        <lem>°nācciyā
-                    <lb n="2" break="no"/>ṇaṉ</lem>
-                        <rdg source="bib:Cox2025_01">nācciyā
-                    <lb n="2" break="no"/>ṇa<choice><unclear>ṉ</unclear><unclear>ṉa</unclear></choice></rdg>
-                        <note><ptr target="bib:Cox2025_01"/> notes: <quote>Given the label’s lack of the <foreign>puḷḷi</foreign>, it is undecidable whether the name ends in its stem consonant or with the adjectival/genitive ending <foreign>-a</foreign>; the possessive sense is, at any rate, clear.</quote></note>
+                        <lem>buddhā<choice><sic><unclear reason="eccentric_ductus">dh</unclear></sic><corr>d</corr></choice>ityasya</lem>
+                        <rdg source="bib:Cox2025_01">buddhādityasya</rdg>
                     </app>
                     
-                    <app loc="2">
-                        <lem><hi rend="grantha">dha<unclear>r</unclear>mmaM</hi></lem>
-                        <rdg source="bib:Cox2025_01"><hi rend="grantha">dh</hi>ammam</rdg>
+                    <app loc="1">
+                        <lem>dha<unclear>r</unclear>mma<supplied reason="lost">ḥ</supplied> <unclear><g type="ddanda">.</g></unclear></lem>
+                        <rdg source="bib:Cox2025_01">dharmma<supplied reason="lost">ḥ</supplied></rdg>
                     </app>
                     
                 </listApp>
@@ -112,7 +108,7 @@
                 <p n="1-2">
                     <supplied reason="subaudible">This is the</supplied> 
                     pious donation of
-                    Nācciyāṇaṉ, the coin tester <supplied reason="explanation"><foreign>vaṇṇakkaṉ</foreign></supplied>.
+                    Buddhāditya.
                 </p>
                 
             </div>	
@@ -123,11 +119,10 @@
             
             <div type="bibliography">
                 
-                
                 <p>
-                    Edited and translated in <bibl><ptr target="bib:Cox2025_01"/></bibl> (p. 485), with photograph (fig. 8, p. 503).
+                    Edited and translated in <bibl><ptr target="bib:Cox2025_01"/></bibl> (p. 484), with photograph (fig. 6, p. 502).
                 </p>
-                <p>This digital edition by Emmanuel Francis based on documentation kindly supplied by Nicolas Revire and on <bibl><ptr target="bib:Cox2025_01"/></bibl>.</p>
+                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Cox2025_01"/></bibl>.</p>
                 
                 <listBibl type="primary">
                     
