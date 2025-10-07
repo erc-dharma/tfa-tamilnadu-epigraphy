@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nākappaṭṭiṉam, tank foundation, Śaka year 15<unclear>6</unclear>0</title>
+                <title>Pōḻakkuṭi, tank foundation, Śaka year 1580</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Inscription recording the foundation of a tank. Engraved on the back of a <ref target="https://www.artic.edu/artworks/21023/buddha-shakyamuni-seated-in-meditation-dhyanamudra">stone Buddha statue kept in the Chicago Art Institute (access no. 1964.556)</ref>.</summary>
+                        <summary>17th-century inscription recording the foundation of a tank. Engraved on the back of a 12th-century stone Buddha statue first noticed in Pōḻakkuṭi, possibly brought there from Nākappaṭṭiṉam, and presently kept in the Chicago Art Institute (<ref target="https://www.artic.edu/artworks/21023/buddha-shakyamuni-seated-in-meditation-dhyanamudra">access no. 1964.556</ref>).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -85,23 +85,72 @@
                 </ab>
                 
                 <p>
-                    cālivāka
-                    <lb n="2" break="no"/>...
-                    
+                    cāli-vāka
+                    <lb n="2" break="no"/>ṉa-<unclear>ca</unclear>kāt=tam <num value="1580"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 8 <g type="numeral">10</g></num>
+                    <lb n="3"/>Itan mēl-c cell<unclear>ā</unclear> <supplied reason="lost">ni</supplied>
+                    <lb n="4" break="no"/>ṉṟa pi<unclear>ṟa</unclear>māti <g type="varuṣam"/> Āṭi <g type="mācam"/>
+                    <lb n="5"/>mutal <g type="tēti"/>
+                </p>
+                
+                <p>
+                    rācamā<unclear>nya</unclear>
+                    <lb n="6" break="no"/>rāca-<hi rend="grantha">śrī</hi>-mallāri-rāyar
+                    <lb n="7"/>peḷai<supplied reason="omitted">k</supplied>kuṭi kuḷam ve
+                    <lb n="8" break="no"/>ṭṭivicca paṭiyiṇālē
+                    <lb n="9"/>Inta k<choice><orig>o</orig><reg>u</reg></choice>ḷattilē tai
+                    <lb n="10"/>mātam mutal yā<unclear>t</unclear>ām <choice><sic>e</sic><corr>o</corr></choice>
+                    <lb n="11" break="no"/>ruvar kūṭai-<supplied reason="omitted">t</supplied> taṇṇīr
+                    <lb n="12" break="no"/>Ē<unclear>ṟ</unclear>ṟaccālum cuṟṟi ma<unclear>ra</unclear>
+                    <lb n="13" break="no"/>ṅkaḷai veṭṭ<unclear>i</unclear>ṉ<unclear>ā</unclear>lum
+                    <lb n="14"/>keṅkai-karaiyi<unclear>l</unclear>ē <unclear>kār-ā</unclear>
+                    <lb n="15" break="no"/>m-pacuvai-k koṉ<supplied reason="explanation">ṟ</supplied>a tō
                     <lb n="16" break="no"/><hi rend="grantha">ṣa</hi>ttiḷē pōka-k-kaṭavar ā<unclear>kavum</unclear>
                 </p>
             </div>	
             
             <div type="apparatus">
                 
-                <!--<listApp>   
+                <!--Add Rabe's variant readings.-->
+                
+                <listApp>   
                     
                     <app loc="0">
-                    <lem>...</lem>
-                    <rdg source="bib:Cox2025_01"></rdg>
+                        <lem></lem>
+                        <rdg source="bib:Cox2025_01"></rdg>
                     </app>
                     
-                    </listApp>-->
+                    <app loc="2">
+                        <lem><num value="1580"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 8 <g type="numeral">10</g></num></lem>
+                        <rdg source="bib:Cox2025_01"><num value="1560"><g type="numeral">1000</g> <g type="numeral">500</g> <corr><g type="numeral">60</g></corr></num></rdg>
+                        <note>The figure is clearly legible to me in <ref target="https://www.artic.edu/videos/26/buddha-shakyamuni-art-institute-essentials-tour">an online video from the Chicago Art Institute.</ref></note>
+                    </app>
+                    
+                    <app loc="4">
+                        <lem>pi<unclear>ṟa</unclear>māti</lem>
+                        <rdg source="bib:Cox2025_01">piṟamāti</rdg>
+                    </app>
+                    
+                    <app loc="7">
+                        <lem>peḷai<supplied reason="omitted">k</supplied>kuṭi</lem>
+                        <rdg source="bib:Cox2025_01">peḷaikuṭi</rdg>
+                    </app>
+                    
+                    <app loc="12">
+                        <lem>Ē<unclear>ṟ</unclear>ṟaccālum</lem>
+                        <rdg source="bib:Cox2025_01">eṟaiccalum</rdg>
+                    </app>
+                    
+                    <app loc="13">
+                        <lem>veṭṭ<unclear>i</unclear>ṉ<unclear>ā</unclear>lum</lem>
+                        <rdg source="bib:Cox2025_01">veṭṭiṉalum</rdg>
+                    </app>
+                    
+                    <app loc="16">
+                        <lem>pōkakkaṭavar</lem>
+                        <rdg source="bib:Cox2025_01">pokakkattu [?]</rdg>
+                    </app>
+                    
+                </listApp>
                 
             </div>
             
@@ -111,19 +160,33 @@
                     Prosperity! Fortune!
                 </p>
                 
-                <p n="1-16">
-                    ...
+                <p n="1-5">
+                    Year 1580 of the Cālivākaṉa-Caka <supplied reason="subaudible">era</supplied>,
+                    <supplied reason="explanation">that is</supplied>, date first of the month of Āṭi of the year Piṟamāti,<note>That is, Jovian 60-year cycle year Pramāthin or Pramādin, as pointed out by <bibl><ptr target="bib:Cox2025_01"/></bibl> (p. 491).</note> 
+                    which was current upon it.
+                </p>
+                
+                <p n="5-16">
+                    According to the manner in which
+                    the glorious Mallārirāyar<note>On this being the Tamil endring of Marathi Malhār Rao, see <bibl><ptr target="bib:Cox2025_01"/></bibl> (p. 492).</note> had the tank in Peḷaikkuṭi dug,
+                    in this tank, 
+                    starting from the month of Tai,                   
+                    if he lifts up water <supplied reason="subaudible">with</supplied> baskets
+                    or if he cuts sourrounding trees,
+                    whoever <supplied reason="explanation"><foreign>yātam oruvar</foreign></supplied> <supplied reason="subaudible">does that</supplied>
+                    should be deemed to undergo the sin of killing a black cow on the bank of the Ganges.                    
                 </p>
                 
             </div>	
             
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p>The date is problematic. Śaka 1580, that is 1658/59 CE, does not match any Jovian 60-year cycle year Piṟamāti, that is, Pramāthin (1639/40 CE) or Pramādin (1603/04, 1663/64 CE). See discussion in <bibl><ptr target="bib:Cox2025_01"/></bibl> (p. 491), who suggests that <quote>the simplest solution is thus to
+understand the year as <foreign>pramāthin</foreign>, equivalent to Śaka 1560 or 1638 CE.</quote></p>
+            </div>
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:Ghose2022_01"/></bibl>, with photograph.</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1950-1951"/></bibl> (ARIE/1950-1951/B/1950-1951/255); in <bibl><ptr target="bib:Ghose2022_01"/></bibl>, with photograph.</p>
                 <p>
                     Edited and translated in <bibl><ptr target="bib:Cox2025_01"/></bibl> (pp. 493-494), with photograph (fig. 10, p. 504).
                 </p>
@@ -138,6 +201,13 @@
                 </listBibl>           
                 
                 <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1950-1951"/>
+                        <citedRange unit="page">31</citedRange>
+                        <citedRange unit="appendix">B/1950-1951</citedRange>
+                        <citedRange unit="item">255</citedRange>
+                    </bibl>	
                     
                     <bibl>
                         <ptr target="bib:Ghose2022_01"/>
