@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Chicago Art Institute stone Buddha statue, tank foundation, Śaka year 1580</title>
+                <title>Art Institute of Chicago stone Buddha statue, tank foundation, Śaka year 1580</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>17th-century inscription recording the foundation of a tank. Engraved on the back of a 12th-century stone Buddha statue first noticed in Pōḻakkuṭi, possibly brought there from Nākappaṭṭiṉam, and presently kept in the Chicago Art Institute (<ref target="https://www.artic.edu/artworks/21023/buddha-shakyamuni-seated-in-meditation-dhyanamudra">access no. 1964.556</ref>).</summary>
+                        <summary>17th-century inscription recording the foundation of a tank. Engraved on the back of a 12th-century stone Buddha statue first noticed in Pōḻakkuṭi, possibly brought there from Nākappaṭṭiṉam, and presently kept in the Art Institute of Chicago (<ref target="https://www.artic.edu/artworks/21023/buddha-shakyamuni-seated-in-meditation-dhyanamudra">access no. 1964.556</ref>).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -122,7 +122,7 @@
                     <app loc="2">
                         <lem><num value="1580"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 8 <g type="numeral">10</g></num></lem>
                         <rdg source="bib:Cox2025_01"><num value="1560"><g type="numeral">1000</g> <g type="numeral">500</g> <corr><g type="numeral">60</g></corr></num></rdg>
-                        <note>The figure is clearly legible to me in <ref target="https://www.artic.edu/videos/26/buddha-shakyamuni-art-institute-essentials-tour">an online video from the Chicago Art Institute.</ref></note>
+                        <note>The figure is clearly legible to me in <ref target="https://www.artic.edu/videos/26/buddha-shakyamuni-art-institute-essentials-tour">an online video from the Art Institute of Chicago.</ref></note>
                     </app>
                     
                     <app loc="4">

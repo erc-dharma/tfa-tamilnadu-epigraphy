@@ -105,23 +105,23 @@
                     </p>
                     
                     <p>
-                        kō-p-para-kēcari
-                        <lb n="17" break="no"/>-pa<hi rend="grantha">nma</hi>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-<hi rend="grantha">de</hi>vaṟku yāṇṭu
-                        <lb n="18"/><unclear>Ē</unclear>ḻ-āvatu
+                        kō-p-para-kēca
+                        <lb n="17" break="no"/>ri-paṉmar-āṉa <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">je</hi>tira-cōḻa-tēvaṟku yāṇṭu <unclear>7</unclear>
+                        <lb n="18"/>Āvatu
                     </p>
                     
                     <p>
-                        <hi rend="grantha">kṣatri</hi>ya-<hi rend="grantha">śikhā</hi>maṇi-vaḷanāṭṭu paṭ
-                        <lb n="19" break="no"/>ṭiṉa-k-kūṟ<unclear>ṟa</unclear>ttu nāka-paṭṭiṉaṭṭu tiru-k-kārōṇam-u
-                        <lb n="20" break="no"/>ṭaiya <hi rend="grantha">mahā-de</hi>var kōyilil kiṭāratt' araiyar ka<hi rend="grantha">nmi</hi>
-                        <lb n="21"/><gap reason="lost" quantity="6" unit="character"/> kuruttaṉ kēcuvaṉ<surplus>n</surplus>-āṉa <hi rend="grantha">Agra</hi>lēkai <gap reason="lost" quantity="6" unit="character"/> mu
-                        <lb n="22"/><gap reason="lost" quantity="6" unit="character"/> <hi rend="grantha">Ardha</hi>nārikaḷukku Avi-paliyu
-                        <lb n="23"/><gap reason="lost" quantity="6" unit="character"/> vara-k kāṭṭiṉa cīna-k-kanakam
-                        <lb n="24"/>Eṇpatt' ēḻu kaḻañcē mukkālum 
+                        <hi rend="grantha">kṣatri</hi>ya-cikāmaṇi-vaḷanāṭṭu paṭ
+                        <lb n="19" break="no"/>ṭiṉa-k-kūṟ<unclear>ṟa</unclear>ttu nāka-paṭṭiṉaṭṭu tiru-k-kārōṇa
+                        <lb n="20" break="no"/><supplied reason="explanation">m-u</supplied>ṭaiya <hi rend="grantha">mahā-de</hi>var kōyilil kiṭāratt' araiyar ka<hi rend="grantha">nmi</hi>
+                        <lb n="21"/><hi rend="grantha">śrī</hi>-kuruttaṉ kēcuvaṉ<surplus>n</surplus>-āṉa <hi rend="grantha">Agra</hi>lēkai Eḻunt-aru
+                        <lb n="22"/>ḷuvitta Arttanārikaḷukku Avi-<hi rend="grantha">ba</hi>li Arccaṉaikku
+                        <lb n="23"/>Eṉṟu mēṟpaṭiyāṉ vara-k kāṭṭiṉa cīna-k-kanakam E
+                        <lb n="24" break="no"/>ṇpatt' ēḻu kaḻañcē mukkālum 
                     </p>
                     <p>
-                        mēṟpaṭi
-                        <lb n="25"/><hi rend="grantha">Ardha</hi>nāri-tēvar kōyilil Uttamā<hi rend="grantha">gra</hi>m Iraṇṭu kala <gap reason="lost" quantity="6" unit="character"/>
+                        mēṟpaṭiyā<unclear>ṉ</unclear>
+                        <lb n="25"/>It-tēvar kōyilil Uttamā<hi rend="grantha">kra</hi>m Iraṇṭu kala <gap reason="lost" quantity="6" unit="character"/>
                     </p>
                 </div>
                 
@@ -142,14 +142,86 @@
                 
                 <!--Include K readings-->
                 
-                <!--<listApp>   
+                <listApp>   
                     
                     <app loc="0">
-                    <lem source="bib:Karashima+Subbarayalu2009_01">...</lem>
-                    <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
+                        <lem source="bib:Karashima+Subbarayalu2009_01"></lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
                     </app>
                     
-                    </listApp>-->
+                    <app loc="16">
+                        <lem source="bib:Karashima+Subbarayalu2009_01"> kōpparakēca
+                            <lb n="17" break="no"/>ripaṉmarāṉa <hi rend="grantha">śrī</hi>rā<hi rend="grantha">je</hi>tiracōḻatēvaṟku</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">
+                            kōpparakēcari
+                            <lb n="17" break="no"/>pa<hi rend="grantha">nma</hi>rā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">śrī</hi>rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>cōḻa<hi rend="grantha">de</hi>vaṟku</rdg>
+                    </app>
+                    <app loc="17">
+                        <lem source="bib:Karashima+Subbarayalu2009_01">yāṇṭu <unclear>7</unclear>
+                            <lb n="18"/>Āvatu</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">yāṇṭu
+                            <lb n="18"/><unclear>Ē</unclear>ḻāvatu</rdg>
+                    </app>
+                    <app loc="18">
+                        <lem source="bib:Karashima+Subbarayalu2009_01">°cikāmaṇi°</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">°<hi rend="grantha">śikhā</hi>maṇi°</rdg>
+                    </app>
+                    <app loc="19">
+                        <lem>tirukkārōṇa
+                            <lb n="20" break="no"/><supplied reason="explanation">mu</supplied>ṭaiya</lem>
+                        <rdg source="bib:Karashima+Subbarayalu2009_01">tirukkārōṇa
+                            <lb n="20" break="no"/><gap reason="lost" quantity="2" unit="character"/> ṭaiya</rdg>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">tirukkārōṇamu
+                            <lb n="20" break="no"/>ṭaiya</rdg>
+                    </app>
+                    <app loc="21">
+                        <lem source="bib:Karashima+Subbarayalu2009_01"><hi rend="grantha">śrī</hi> kuruttaṉ</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"><gap reason="lost" quantity="6" unit="character"/> kuruttaṉ</rdg>
+                    </app>
+                    
+                    <app loc="21">
+                        <lem source="bib:Karashima+Subbarayalu2009_01">Eḻunt-aru
+                            <lb n="22"/>ḷuvitta</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"><gap reason="lost" quantity="6" unit="character"/> mu
+                            <lb n="22"/><gap reason="lost" quantity="6" unit="character"/>
+                        </rdg>
+                    </app>
+                    
+                    <app loc="22">
+                        <lem source="bib:Karashima+Subbarayalu2009_01">Arttanārikaḷukku</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"><hi rend="grantha">Ardha</hi>nārikaḷukku
+                        </rdg>
+                    </app>
+                    
+                    <app loc="22">
+                        <lem source="bib:Karashima+Subbarayalu2009_01">Avi<hi rend="grantha">ba</hi>li Arccaṉaikku</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">Avipaliyu</rdg>
+                    </app>
+                    
+                    
+                    <app loc="23">
+                        <lem source="bib:Karashima+Subbarayalu2009_01">Eṉṟu mēṟpaṭiyāṉ varakkāṭṭiṉa</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"><gap reason="lost" quantity="6" unit="character"/> varak kāṭṭiṉa</rdg>
+                    </app>
+                    
+                    <app loc="23">
+                        <lem source="bib:Karashima+Subbarayalu2009_01">E
+                        <lb n="24" break="no"/>ṇpattēḻu</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">
+                            <lb n="24"/>Eṇpattēḻu</rdg>
+                    </app>
+                    
+                    <app loc="24">
+                        <lem source="bib:Karashima+Subbarayalu2009_01">mēṟpaṭiyā<unclear>ṉ</unclear></lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">mēṟpaṭi</rdg>
+                    </app>
+                    
+                    <app loc="25">
+                        <lem source="bib:Karashima+Subbarayalu2009_01">Ittēvar kōyilil Uttamā<hi rend="grantha">kra</hi>m Iraṇṭu kala <gap reason="lost" quantity="6" unit="character"/></lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"><hi rend="grantha">Ardha</hi>nāritēvar kōyilil Uttamā<hi rend="grantha">gra</hi>m Iraṇṭu kala</rdg>
+                    </app>
+                    
+                </listApp>
                 
             </div>
             

@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Chicago Art Institute bronze Buddha statue, label</title>
+                <title>Art Institute of Chicago bronze Buddha statue, label</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Inscription recording the pious donation (<foreign>dharma</foreign>) of Nācciyāṇaṉ. Engraved on the pedestal of a bronze Buddha statue kept in the Chicago Art Institute (<ref target="https://www.artic.edu/artworks/153517/buddha-with-left-hand-in-gesture-of-gift-giving-varadamudra">access no. 2021.240</ref>).</summary>
+                        <summary>Inscription recording the pious donation (<foreign>dharma</foreign>) of Nācciyāṇaṉ. Engraved on the pedestal of a bronze Buddha statue kept in the Art Institute of Chicago (<ref target="https://www.artic.edu/artworks/153517/buddha-with-left-hand-in-gesture-of-gift-giving-varadamudra">access no. 2021.240</ref>).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
