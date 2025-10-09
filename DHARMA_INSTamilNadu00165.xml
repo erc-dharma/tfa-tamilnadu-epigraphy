@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>Foundation of a gateway (<foreign>vācal</foreign>) in the compound wall of the the Tirukkārōṇam temple in Nākapaṭṭiṉam by an officer (<foreign>kaṉmi</foreign>) of the king of Śrīvijaya (Śrīviṣaiyam), named Śrīmūlaṉ Akattīśvaraṉ, and donation of vessels and lamps probably by the same individual.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -303,7 +303,7 @@
                     Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.
                     Partially edited (with many variants) and translated in <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl> (pp. 275-276).
                 </p>
-                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl>. The extent of lacunae in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> is very approximate.</p>
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl>. The extent of lacunae in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> is very approximate. The distinction between initial and medial vowels, and between Grantha and Tamil letters could not be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
                 <p>ASI estampage and transcript yet to be consulted.</p>
                 
                 <listBibl type="primary">

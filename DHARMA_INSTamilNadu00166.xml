@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>Donation of gold by an officer (<foreign>kaṉmi</foreign>) of the king of Śrīvijaya (Śrīvijaiyam) to offer jewels―rubies (<foreign>māṇikkam</foreign>) and emeralds (<foreign>marakatam</foreign>)―for a silver statue (<foreign>veḷḷittirumēṉi</foreign>) of Nākaiyaḻakaṉ in the Tirukkārōṇam temple in Nākapaṭṭiṉam.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -222,12 +222,12 @@
                     </app>
                     
                     <app loc="7">
-                        <lem source="bib:Karashima+Subbarayalu2009_01">-ka <gap reason="lost" quantity="5" unit="character"/>rattu kaṇṭiyūr-uṭayār cēntaṉ ca <gap reason="lost" quantity="4" unit="character"/> It-tēva-kaṉmikaḷum</lem>
-                        <rdg source="bib:Mārkciyakānti+al2007_01">-k-kūṟṟattu kaṇṭiyūr-uṭaiyāṉ cēn=taṉ cātta <gap reason="lost" quantity="6" unit="character"/> tēva-kaṉmikaḷum</rdg>
+                        <lem source="bib:Karashima+Subbarayalu2009_01">ka <gap reason="lost" quantity="5" unit="character"/>rattu kaṇṭiyūruṭayār cēntaṉ ca <gap reason="lost" quantity="4" unit="character"/> Ittēvakaṉmikaḷum</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">kkūṟṟattu kaṇṭiyūr-uṭaiyāṉ cēn=taṉ cātta <gap reason="lost" quantity="6" unit="character"/> tēva-kaṉmikaḷum</rdg>
                     </app>
                     
                     <app loc="7">
-                        <lem source="bib:Mārkciyakānti+al2007_01">Ēṟaṉ caṭaiyāṉ-āṉa tēvar kaṇṭācāriyaṉēṉ <g type="pc"/></lem>
+                        <lem source="bib:Mārkciyakānti+al2007_01">Ēṟaṉ caṭaiyāṉāṉa tēvar kaṇṭācāriyaṉēṉ <g type="pc"/></lem>
                         <rdg source="bib:Karashima+Subbarayalu2009_01">ēṟañcaṭaiyāṉāṉa <lb n="8"/> kaṇṭā<unclear>cā</unclear>riyaṉēṉ</rdg>
                     </app>
                     
@@ -243,8 +243,8 @@
                 <p n="1">
                     3rd year of the glorious king Rajendra Cōḻa <hi rend="italic">alias</hi> the king Parakesarivarman.
                 </p>
-                <p n="1-2">
-                    For Nākaiyaḻakaṉ<note>That is, the beautiful one (<foreign>aḻakaṉ</foreign>) from Nākai.</note>, a glorious body in silver<note>That is, a silver statue.</note>, in the Kṣatraśikhāmaṇivaḷanāṭu,
+                <p n="1-3">
+                    For Nākaiyaḻakaṉ<note>That is, the beautiful one (<foreign>aḻakaṉ</foreign>) from Nākai.</note>, a glorious body in silver<note>That is, a silver statue.</note>, in the Kṣatriyaśikhāmaṇivaḷanāṭu,
                     <supplied reason="subaudible">there are</supplied>
                     fourteen <foreign>kaḻañcu</foreign>s and a half <supplied reason="lost">of gold</supplied>
                     that
@@ -277,7 +277,7 @@
                     Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>, with facsimile.
                     Edited (with many variants different line-split) and translated in <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl> (pp. 276-277).
                 </p>
-                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl>. The extent of lacunae in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> is very approximate.</p>
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl>. The extent of lacunae in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> is very approximate. The distinction between initial and medial vowels, and between Grantha and Tamil letters could not be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
                 <p>ASI estampage and transcript yet to be consulted.</p>
                 
                 <listBibl type="primary">

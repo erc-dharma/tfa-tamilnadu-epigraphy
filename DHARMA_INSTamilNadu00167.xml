@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>Donation of gold, including Chinese gold by an officer (<foreign>kaṉmi</foreign>) of the king of Kiṭāram, named Agralēkai alias Kuruttaṉ Kēcuvaṉ, (<foreign>cinakkanakam</foreign>) for offering rituals (<foreign>avipali arccaṉai</foreign>) to the Ardhanāri that he had installed in the Tirukkārōṇam temple in Nākapaṭṭiṉam.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -83,57 +83,85 @@
                 <div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                     
                     <ab>
-                        <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                        <lb n="A1"/><hi rend="grantha">svasti śrī</hi>
                     </ab>
                     
                     <p>
-                        <lb n="2"/>tirumaṉni varai Iru-nila-maṭaṉtai
-                        <lb n="3"/>pōr <gap reason="lost" quantity="18" unit="character"/>
-                        <lb n="4"/>perun-tēviyār āki y-iṉpuṟa neṭutiyal ūḻi
-                        <lb n="5"/>ṭai-tuṟai <gap reason="lost" quantity="6" unit="character"/> vēlippaṭar vaṉa
-                        <lb n="6"/>vāciyu <gap reason="lost" quantity="6" unit="character"/> ḷḷi <gap reason="lost" quantity="6" unit="character"/> ḷḷi-p-pākkai
-                        <lb n="7"/><gap reason="lost" quantity="6" unit="character"/> ṉai-k-kaṭakkamum
-                        <lb n="8"/><gap reason="lost" quantity="6" unit="character"/> māṅkavar tēvi
-                        <lb n="9"/><gap reason="lost" quantity="6" unit="character"/> muṉnavar pakkal ⌈
-                        <lb n="10"/><gap reason="lost" quantity="6" unit="character"/> vaitta cuntara-muṭiyum In=ti
-                        <lb n="11"/><gap reason="lost" quantity="6" unit="character"/> rai Īḻa-maṇṭalamumu <gap reason="lost" quantity="6" unit="character"/>
-                        <lb n="12"/><gap reason="lost" quantity="1" unit="line"/>
-                        <lb n="13"/><gap reason="lost" quantity="1" unit="line"/>
-                        <lb n="14"/><gap reason="lost" quantity="1" unit="line"/>
-                        <lb n="15"/>taṇṭāṟ koṇṭu laṅkē
-                        <lb n="16"/><gap reason="lost" quantity="6" unit="character"/> ṟaiñca Initaṅ tirun=ta
+                        <lb n="A2"/>tirumaṉni varai Iru-nila-maṭaṉtai
+                        <lb n="A3"/>pōr <gap reason="lost" quantity="18" unit="character"/>
+                        <lb n="A4"/>perun-tēviyār āki y-iṉpuṟa neṭutiyal ūḻi
+                        <lb n="A5"/>ṭai-tuṟai <gap reason="lost" quantity="6" unit="character"/> vēlippaṭar vaṉa
+                        <lb n="A6"/>vāciyu <gap reason="lost" quantity="6" unit="character"/> ḷḷi <gap reason="lost" quantity="6" unit="character"/> ḷḷi-p-pākkai
+                        <lb n="A7"/><gap reason="lost" quantity="6" unit="character"/> ṉai-k-kaṭakkamum
+                        <lb n="A8"/><gap reason="lost" quantity="6" unit="character"/> māṅkavar tēvi
+                        <lb n="A9"/><gap reason="lost" quantity="6" unit="character"/> muṉnavar pakkal ⌈
+                        <lb n="A10"/><gap reason="lost" quantity="6" unit="character"/> vaitta cuntara-muṭiyum In=ti
+                        <lb n="A11"/><gap reason="lost" quantity="6" unit="character"/> rai Īḻa-maṇṭalamumu <gap reason="lost" quantity="6" unit="character"/>
+                        <lb n="A12"/><gap reason="lost" quantity="1" unit="line"/>
+                        <lb n="A13"/><gap reason="lost" quantity="1" unit="line"/>
+                        <lb n="A14"/><gap reason="lost" quantity="1" unit="line"/>
+                        <lb n="A15"/>taṇṭāṟ koṇṭu laṅkē
+                        <lb n="A16"/><gap reason="lost" quantity="6" unit="character"/> ṟaiñca Initaṅ tirun=ta
                     </p>
                     
                     <p>
                         kō-p-para-kēca
-                        <lb n="17" break="no"/>ri-paṉmar-āṉa <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">je</hi>tira-cōḻa-tēvaṟku yāṇṭu <unclear>7</unclear>
-                        <lb n="18"/>Āvatu
+                        <lb n="A17" break="no"/>ri-paṉmar-āṉa <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">je</hi>ntira-cōḻa-tēvaṟku yāṇṭu <unclear>7</unclear>
+                        <lb n="A18"/>Āvatu
                     </p>
                     
                     <p>
                         <hi rend="grantha">kṣatri</hi>ya-cikāmaṇi-vaḷanāṭṭu paṭ
-                        <lb n="19" break="no"/>ṭiṉa-k-kūṟ<unclear>ṟa</unclear>ttu nāka-paṭṭiṉaṭṭu tiru-k-kārōṇa
-                        <lb n="20" break="no"/><supplied reason="explanation">m-u</supplied>ṭaiya <hi rend="grantha">mahā-de</hi>var kōyilil kiṭāratt' araiyar ka<hi rend="grantha">nmi</hi>
-                        <lb n="21"/><hi rend="grantha">śrī</hi>-kuruttaṉ kēcuvaṉ<surplus>n</surplus>-āṉa <hi rend="grantha">Agra</hi>lēkai Eḻunt-aru
-                        <lb n="22"/>ḷuvitta Arttanārikaḷukku Avi-<hi rend="grantha">ba</hi>li Arccaṉaikku
-                        <lb n="23"/>Eṉṟu mēṟpaṭiyāṉ vara-k kāṭṭiṉa cīna-k-kanakam E
-                        <lb n="24" break="no"/>ṇpatt' ēḻu kaḻañcē mukkālum 
+                        <lb n="A19" break="no"/>ṭiṉa-k-kūṟ<unclear>ṟa</unclear>ttu nāka-paṭṭiṉaṭṭu tiru-k-kārōṇa
+                        <lb n="A20" break="no"/><supplied reason="explanation">m-u</supplied>ṭaiya <hi rend="grantha">mahā-de</hi>var kōyilil
+                        
+                        
+                        <list>
+                            
+                            <item>
+                                kiṭāratt' araiyar ka<hi rend="grantha">nmi</hi>
+                                <lb n="A21"/><hi rend="grantha">śrī</hi>-kuruttaṉ kēcuvaṉ<surplus>n</surplus>-āṉa <hi rend="grantha">Agra</hi>lēkai Eḻunt-aru
+                                <lb n="A22" break="no"/>ḷuvitta Arttanārikaḷukku Avi-<hi rend="grantha">ba</hi>li-Arccaṉaikku
+                                <lb n="A23"/>Eṉṟu mēṟpaṭiyāṉ vara-k-kāṭṭiṉa cīna-k-kanakam E
+                                <lb n="A24" break="no"/>ṇpatt' ēḻu kaḻañcē mukkālum
+                            </item>
+                            <item>
+                                mēṟpaṭiyā<unclear>ṉ</unclear>
+                                <lb n="A25"/>It-tēvar kōyilil Uttamā<hi rend="grantha">kra</hi>m Iraṇṭu kala                        
+                                <lb n="A26" break="no"/>m uṇṇa pōkattukku Eṉṟu vara-k-kāṭṭiṉa cī
+                                <lb n="A27" break="no"/>ṉa-k-kaṉakam eṇpatt' ēḻu kaḻañcē mukkālum
+                            </item>
+                            <item>
+                                <lb n="A28"/>mēṟpaṭiyāṉ tēvarkkum <hi rend="grantha">bra</hi>maṇarkkum
+                                <lb n="A29"/><gap reason="lost" quantity="5" unit="character"/> tayiru <gap reason="lost" quantity="6" unit="character"/> Eṉṟu vara-k-ḵāṭṭiṉa Untikai poṉ
+                                <lb n="A30"/><unclear>A</unclear>ru-patiṉ kaḻañcē mukkālum
+                            </item>
+                        </list>
+                        
+                        Āka
+                        
+                        Ip-poṉ
+                        <lb n="A31"/>Iru-nūṟṟu muppatt' aṟu kaḻañcē kālum
                     </p>
+                    
                     <p>
-                        mēṟpaṭiyā<unclear>ṉ</unclear>
-                        <lb n="25"/>It-tēvar kōyilil Uttamā<hi rend="grantha">kra</hi>m Iraṇṭu kala <gap reason="lost" quantity="6" unit="character"/>
+                        tiru-k
+                        <lb n="A32" break="no"/>-kārōṇām-uṭaiyārkku vēṇṭum tiru-v-apara
+                        <lb n="A33" break="no"/>ṇam Uḷliṭṭaṉa ceyya-k koṇṭu It-tēvar
+                        <lb n="A34"/>paṇṭārattai <gap reason="lost" quantity="7" unit="character"/>                        
+                        
                     </p>
                 </div>
                 
                 <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                     <p>
-                        <lb n="1"/>rikaḷukku tiru-v-amit' arici pōtu Iru-nāḻi-y-ā<unclear>ka</unclear>
-                        <lb n="2"/>Arici Aṟu nāḻikai Añc' iraṇṭu vaṇ<unclear>ṇa</unclear>
-                        <lb n="3" break="no"/>m nellu kuṟuṇi Ēḻu nāḻiyum ney-y-a<unclear>mu</unclear>
-                        <lb n="4" break="no"/>tu Āḻākkiṉukku nellu nā-nāḻiyum-āka <unclear>pō</unclear>
-                        <lb n="5" break="no"/><unclear>tu</unclear> mūṉṟ' irukku nellu <gap reason="lost" quantity="6" unit="character"/> nāḻiyum ta<unclear>yi</unclear>
-                        <lb n="6" break="no"/>r-amutu nāḻiyum <gap reason="lost" quantity="6" unit="character"/> nāḻiyu <gap reason="lost" quantity="6" unit="character"/> yu
-                        <lb n="7"/>Aṭai-k-kāy <gap reason="lost" quantity="6" unit="character"/> pātiri <gap reason="lost" quantity="6" unit="character"/>
+                        <lb n="B1"/>rikaḷukku tiru-v-amit' arici pōtu Iru-nāḻi-y-ā<unclear>ka</unclear>
+                        <lb n="B2"/>Arici Aṟu nāḻikai Añc' iraṇṭu vaṇ<unclear>ṇa</unclear>
+                        <lb n="B3" break="no"/>m nellu kuṟuṇi Ēḻu nāḻiyum ney-y-a<unclear>mu</unclear>
+                        <lb n="B4" break="no"/>tu Āḻākkiṉukku nellu nā-nāḻiyum-āka <unclear>pō</unclear>
+                        <lb n="B5" break="no"/><unclear>tu</unclear> mūṉṟ' irukku nellu <gap reason="lost" quantity="6" unit="character"/> nāḻiyum ta<unclear>yi</unclear>
+                        <lb n="B6" break="no"/>r-amutu nāḻiyum <gap reason="lost" quantity="6" unit="character"/> nāḻiyu <gap reason="lost" quantity="6" unit="character"/> yu
+                        <lb n="B7"/>Aṭai-k-kāy <gap reason="lost" quantity="6" unit="character"/> pātiri <gap reason="lost" quantity="6" unit="character"/>
                     </p>
                 </div>
             </div>	
@@ -151,7 +179,7 @@
                     
                     <app loc="16">
                         <lem source="bib:Karashima+Subbarayalu2009_01"> kōpparakēca
-                            <lb n="17" break="no"/>ripaṉmarāṉa <hi rend="grantha">śrī</hi>rā<hi rend="grantha">je</hi>tiracōḻatēvaṟku</lem>
+                            <lb n="17" break="no"/>ripaṉmarāṉa <hi rend="grantha">śrī</hi>rā<hi rend="grantha">je</hi>ntiracōḻatēvaṟku</lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01">
                             kōpparakēcari
                             <lb n="17" break="no"/>pa<hi rend="grantha">nma</hi>rā<choice><orig>n</orig><reg>ṉ</reg></choice>a <hi rend="grantha">śrī</hi>rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>cōḻa<hi rend="grantha">de</hi>vaṟku</rdg>
@@ -206,7 +234,7 @@
                     
                     <app loc="23">
                         <lem source="bib:Karashima+Subbarayalu2009_01">E
-                        <lb n="24" break="no"/>ṇpattēḻu</lem>
+                            <lb n="24" break="no"/>ṇpattēḻu</lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01">
                             <lb n="24"/>Eṇpattēḻu</rdg>
                     </app>
@@ -217,7 +245,7 @@
                     </app>
                     
                     <app loc="25">
-                        <lem source="bib:Karashima+Subbarayalu2009_01">Ittēvar kōyilil Uttamā<hi rend="grantha">kra</hi>m Iraṇṭu kala <gap reason="lost" quantity="6" unit="character"/></lem>
+                        <lem source="bib:Karashima+Subbarayalu2009_01">Ittēvar kōyilil Uttamā<hi rend="grantha">kra</hi>m Iraṇṭu kala</lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01"><hi rend="grantha">Ardha</hi>nāritēvar kōyilil Uttamā<hi rend="grantha">gra</hi>m Iraṇṭu kala</rdg>
                     </app>
                     
@@ -232,36 +260,51 @@
                     <p n="1">
                         Prosperity! Fortune!
                     </p>
-                    <p n="16-17">
+                    <p n="16-18">
                         Seventh year of the glorious king Rajendra Cōḻa <hi rend="italic">alias</hi> the king Parakesarivarman,
                     </p>
                     <p n="2-16">
                         who <gap reason="ellipsis"/> [<foreign>meykkīrtti</foreign> of Rājendra I Coḻa]
                     </p>
                     
-                    <p n="18-24">
+                    <p n="18-31">
                         In the temple of Mahādeva, Lord of the glorious Kārōṇam, in Nākappaṭṭiṉam in the Pāṭṭiṉakkūṟṟam in the Kṣatriya-śikhāmaṇi-vaḷanāṭu,
-                        the Chinese gold <supplied reason="explanation"><foreign>cīna-k-kanakam</foreign></supplied>
-                        that
-                        Agralēkai<note>Sanskrit Agralekhai.</note> <gap reason="lost"/>
-                        <hi rend="italic">alias</hi> <gap reason="lost"/>
-                        Kuruttaṉ Kēcuvaṉ,
-                        the officer of the king of Kiṭāram,
-                        has sent  
-                        for the <foreign>avipali</foreign><note>Sanskrit <foreign>havirbali</foreign>.</note>
-                        for Ardhanāri
-                        <supplied reason="subaudible">is</supplied>
-                        eighty seven <foreign>kaḻañcu</foreign>s three quarters.
+                        so that there be <supplied reason="explanation"><foreign>āka</foreign></supplied>
+                        
+                        <list>
+                            <item>for the <foreign>avipali</foreign><note>Sanskrit <foreign>havirbali</foreign>.</note> <foreign>arcanā</foreign><note>Sanskrit <foreign>arcanā</foreign>.</note> of 
+                                the Ardhanāri
+                                that 
+                                Agralēkai<note>Sanskrit Agralekhai.</note> 
+                                <hi rend="italic">alias</hi> the glorious Kuruttaṉ Kēcuvaṉ,
+                                the officer of the king of Kiṭāram,
+                                had installed,
+                                eighty seven <foreign>kaḻañcu</foreign>s three quarters
+                                of Chinese gold <supplied reason="explanation"><foreign>cīna-k-kanakam</foreign></supplied>
+                                that the above-mentioned                        
+                                has sent/offered</item>
+                            
+                            <item>for 
+                                ...
+                                eighty seven <foreign>kaḻañcu</foreign>s three quarters
+                                of Chinese gold <supplied reason="explanation"><foreign>cīna-k-kanakam</foreign></supplied></item>
+                            
+                            <item>for 
+                                ...
+                                sixty seven <foreign>kaḻañcu</foreign>s three quarters
+                                of <foreign>uṇṭikai</foreign> gold</item>
+                        </list>
+                        
+                        this gold amounts to two hundred thirty-six <foreign>kaḻañcu</foreign>s three quarters.
                     </p>
-                    <p n="24-25">
-                        In the temple of the above-mentioned Ardhanāri
-                        <gap reason="ellipsis"/>
+                    <p n="31-34">
+                        ...
                     </p>
                     
                 </div>
                 
                 <div type="textpart" n="B">
-                    <p n="1-6">so that there be two <foreign>nāḻi</foreign>s at the timeof therice food-offering <supplied reason="lost">for Ardhanā</supplied>ri <gap reason="ellipsis"/></p>
+                    <p n="1-6">so that there be two <foreign>nāḻi</foreign>s at the time of therice food-offering <supplied reason="lost">for Ardhanā</supplied>ri <gap reason="ellipsis"/></p>
                 </div>
                 
                 
@@ -275,10 +318,10 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1956-1957/B/1956-1957/166).</p>
                 <p>
-                    Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>, with facsimile.
-                    Edited (with many variants) and translated in <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl> (pp. 277-278).
+                    Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>, with facsimile (part A = 25 lines).
+                    Edited (with many variants) and translated in <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl> (pp. 277-278) (part A = 34 lines; no part B).
                 </p>
-                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl>. The extent of lacunae in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> is very approximate.</p>
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl>. The extent of lacunae in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> is very approximate. The distinction between initial and medial vowels, and between Grantha and Tamil letters could not be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
                 <p>ASI estampage and transcript yet to be consulted.</p>
                 
                 <listBibl type="primary">
