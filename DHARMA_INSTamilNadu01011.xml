@@ -45,8 +45,7 @@
                     <physDesc>
                         <handDesc>
                             <p>Two hands (?): hand #1 (p1v, p2r) and hand #1 (p2v, p3rv).</p>
-                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-                                nor between <foreign>o</foreign> and <foreign>ō</foreign>. Interchangeable <foreign>n</foreign> and <foreign>ṉ</foreign>.</p>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>, <foreign>i</foreign> and <foreign>ī</foreign>, <foreign>u</foreign> and <foreign>ū</foreign>. Interchangeable <foreign>n</foreign> and <foreign>ṉ</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -111,39 +110,62 @@
                     <lb n="1v6=6" break="no"/>t' araiyaṉ kēyamāṇikka-vaḷanāṭṭu-p paṭṭaṉa-k-kūṟṟattu cōḻa-kula-valli-paṭṭaṉattu Eṭuppitta <hi rend="grantha">rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cō
                     <lb n="1v7=7" break="no"/>a-p-perumpaḷḷikkum <hi rend="grantha">rājarāja</hi>-p-perumpaḷḷikkum paḷḷi-c-caṅtam-āṉa Ūrkaḷ paḻampaṭi y-antarāyamum vīra
                     <lb n="1v8=8" break="no"/>-<hi rend="grantha">śeṣai</hi>yum paṇmai-paṇṭai-veṭṭiyum kuntāl[ī]yum cuṅka-mērāmum Uḷḷiṭṭaṉa v-ellām tavirn
-                    <lb n="1v9=9" break="no"/>t’ amaikkum muṉpu paḷḷiccantaṅkaḷ kāṇi-y-uṭaiya kāṇi-Āḷarait tavira Ip-paḷḷiccaṅkattārkkē kāṇi                    
+                    <lb n="1v9=9" break="no"/>t’ amaikkum muṉpu paḷḷiccantaṅkaḷ kāṇi-y-uṭaiya kāṇi-Āḷarait tavira Ip-paḷḷi-c-caṅkattārkkē kāṇi                    
                     <lb n="1v10=10" break="no"/>-y-āka-p peṟṟamaikkum tā<hi rend="grantha">mra-śāsa</hi>ṉam paṇṇi-t tara vēṇṭum eṉṟu kīṭaratt' araiyar tūtaṉ <hi rend="grantha">rāja</hi>-vi               
                     <lb n="1v11=11" break="no"/><hi rend="grantha">dyadhara-śrī-sāma</hi>n=taṉum A<hi rend="grantha">bhimā</hi>not=tu<hi rend="grantha">ṃga-śrī-sā</hi>mantaṉum viṇṇappam ceyya Ip-paṭi <hi rend="grantha">sandhi</hi>-vi<hi rend="grantha">grahi</hi>
-                    <lb n="1v12=12" break="no"/><hi rend="grantha">rāja</hi>va<hi rend="grantha">llbha</hi>-p-pallavaraiyaṉōṭuṅ kūṭa Iruntu tā<hi rend="grantha">mra-śāsa</hi>nam paṇṇi-k kuṭukka v-eṉṟu Atikāri
+                    <lb n="1v12=12" break="no"/><hi rend="grantha">rāja</hi>va<hi rend="grantha">llabha</hi>-p-pallavaraiyaṉōṭuṅ kūṭa Iruntu tā<hi rend="grantha">mra-śāsa</hi>nam paṇṇi-k kuṭukka v-eṉṟu Atikāri
                     <lb n="1v13=13" break="no"/>kaḷ <hi rend="grantha">rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-ciṅka-mūvēntavēḷārkku-t tiru-mukam <hi rend="grantha">prasāda</hi>ñ ceyt-aruḷi vara-t tā<hi rend="grantha">mra-śāsa</hi>nañ ceyta paṭi                    
                 </p>
                 <p>
                     kaṭāratt' a
                     <lb n="1v14=14" break="no"/>raiyaṉ keyamāṇikka-vaḷanāṭṭu-<supplied reason="omitted">p</supplied> paṭṭaṉa-k-kūṟṟattu-c cōḻa-kula-valli-paṭṭaṉattu Eṭuppitta <hi rend="grantha">rājarāja</hi>-<supplied reason="omitted">p</supplied>-perumpa<add place="right"><supplied reason="omitted">ḷ</supplied>ḷi</add>                    
-                    <lb n="1v15=15" break="no"/><add place="left">kku</add> paḷḷi-c-cantam ...
+                    <lb n="1v15=15" break="no"/><add place="left">kku</add> paḷḷi-c-cantam keyamāṇikka-vaḷanāṭṭu-p paṭṭaṉa-k-kūṟṟattu Āṉaimaṅkalam nilan toṇṇūṟ<add place="below">ṟ' ē</add>ḻē Iraṇ
                     <pb n="2r" break="no"/>                
-                    <lb n="2r1=16" break="no"/>
+                    <lb n="2r1=16" break="no"/>ṭu mā-k-kāṇi Arai-k-kāṇiyum muṉp-uṭaiya kāṇi-Āḷarai-t tavira Ip-paḷḷi-c-caṅkattārkkē kāṇi y-ākavum
+                </p>
+                <p>
+                    Itu kāṇi-k-kaṭaṉ nellu
+                    <lb n="2r2=17"/>Eṇṇ-āyirattu ...
+                    <lb n="2r3=18"/>
+                    <lb n="2r4=19"/>
+                    <lb n="2r5=20"/>
+                    <lb n="2r6=21"/>
+                    <lb n="2r7=22"/>
+                    <lb n="2r8=23"/>
+                    <lb n="2r9=24"/>
+                    <lb n="2r10=25"/>
+                    <lb n="2r11=26"/>
+                    <lb n="2r12=27"/>
+                    <lb n="2r13=28"/>
+                    <lb n="2r14=29"/>
+                    <lb n="2r15=30"/>
                     
                     <pb n="2v"/>                
                     <lb n="2v1=31"/>
-                    
-                    <pb n="3r" break="no"/>                
+                    <lb n="2v2=32"/>
+                    <lb n="2v3=33"/>
+                    <lb n="2v4=34"/>
+                    <lb n="2v5=35"/>
+                    <lb n="2v6=36"/>...
+                     Ip-paḷḷik
+                     
+                    <pb n="3r" break="no"/>                   
                     <lb n="3r1=37" break="no"/>ku vēṇṭum nivan=taṅkalukku Iṟuppat-āka Iṟai-y-ili Iṭṭamaikkum
                 </p>
                 <p>Ip-pāḷḷi-c-cantaṅkaḷ muṉ
                     
-                    <lb n="3r2=38" break="no"/>p-uṭaiya kāṇi-Āḷarai-t tavira-k kuṭi n<choice><orig>i</orig><reg>ī</reg></choice>kki Ip-paḷḷi-c-caṅkattārkkē kāṇièy-āka kuṭittōm eṉṟum
+                    <lb n="3r2=38" break="no"/>p-uṭaiya kāṇi-Āḷarai-t tavira-k kuṭi n<choice><orig>i</orig><reg>ī</reg></choice>kki Ip-paḷḷi-c-caṅkattārkkē kāṇi-y-āka kuṭuttōm eṉṟum
                     <lb n="3r3=39"/>keyamāṇik=ka-vaḷanāṭṭu-p paṭṭaṉa-k-kūṟṟattu-c cōḻa-kula-valli-paṭṭaṉattu <hi rend="grantha">śrī-śailendra-cūḍama</hi>ṇiva
                     <lb n="3r4=40"/><hi rend="grantha">rmma</hi>-vi<hi rend="grantha">hāra</hi>m-āṉa <hi rend="grantha">rājarāja</hi>-p-perumpaḷḷikku-p paḷḷi-nilaiyam paḷḷi-viḻākamum Uṭpaṭṭa Ellai
                     
                     <list>
                         
                         <item>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ
-                            <lb n="3r5=41"/>-pārk' ellai ...</item>
+                            <lb n="3r5=41"/>-pārk' ellai kaṭaṟ-karai ...</item>
                         
-                        <item>teṉ-pāṟk' ellai ...
-                            <lb n="3r6=42" break="no"/>
-                            <lb n="3r7=43" break="no"/>
+                        <item>teṉ-pāṟk' ellai pukai
+                            <lb n="3r6=42" break="no"/>-<choice><orig>U</orig><reg>y-u</reg></choice><supplied reason="omitted">ṇ</supplied>ṇi-k-kiṇaṟṟukku ... nilattu
+                            <lb n="3r7=43" break="no"/>kku vaṭakkum ...
                             <lb n="3r8=44"/>...</item>
                         
                         <item>mēl-pāṟk' ellai ...</item>
@@ -153,15 +175,20 @@
                     
                     Āka Iṉ
                     <pb n="3v" break="no"/>                
-                    <lb n="3v1=46" break="no"/>-ṉāṅk' ellaikk' uṭ<surplus>p</surplus>paṭṭa nilam ...
+                    <lb n="3v1=46" break="no"/>-ṉāṅk' ellaikk' uṭ<surplus>p</surplus>paṭṭa nilam muppatt' oṉṟē mukkālē Iraṇṭu mā muntirikai
                 </p>
                 <p>
                     Itu An
-                    <lb n="3v2=47" break="no"/>tarāyamum ...
-                    <lb n="3v3=48" break="no"/>
-                    <lb n="3v4=49" break="no"/>
-                    <lb n="3v5=50" break="no"/>
-                    <lb n="3v6=51" break="no"/>
+                    <lb n="3v2=47" break="no"/>tarāyamum paṉmai-paṇṭa-veṭṭiyum maṟṟum Eppērppaṭṭ<choice><sic>i</sic><corr>a</corr></choice>tum Uṭpaṭa Ip-paḷḷikkē Iṟai-y-i
+                    <lb n="3v3=48" break="no"/>li kuṭuttōm
+                </p>
+                <p>Ip-paṭi ceytu kuṭukka v-e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu tiru-vāy-moḻint-aruḷi-t tiru-mukam <hi rend="grantha">prasā</hi>tañ ceyt-aru                   
+                    <lb n="3v4=49" break="no"/>ḷi vantatu
+                </p>
+                <p>
+                    tā<hi rend="grantha">mra-sāsa</hi>ṉam paṇṇi kuṭukka v-e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu <hi rend="grantha">sa</hi>n=t<choice><sic>u</sic><corr>i</corr></choice>vi<choice><sic><hi rend="grantha">griha</hi></sic><corr><hi rend="grantha">grahi</hi></corr></choice>kaḷ <hi rend="grantha">rāja</hi>-vallava-p-pallavaraiyarum A
+                    <lb n="3v5=50" break="no"/>tikarikaḷ <hi rend="grantha">rāje</hi>ntira-ciṅka-m<choice><orig>u</orig><reg>ū</reg></choice>vēntavēḷārum colla It-tā<hi rend="grantha">mra-sāsa</hi>nam Eḻuti
+                    <lb n="3v6=51" break="no"/>nēṉ Uṭkkōṭi vikkiramaparaṇa-t terinta valavalaṅkai vēḷaikkāṟaril nilai-y-uṭaiya paṇai
                     <lb n="3v7=52" break="no"/>yāṉ ṉikarili-cōḻa<choice><orig>n</orig><reg>ṉ</reg></choice> maturā<choice><orig>ṉ</orig><reg>n</reg></choice>takaṉ-ēṉ Ivai Eṉ Eluttu <g type="gomutraFinal">.</g>
                 </p>
                 
