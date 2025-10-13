@@ -147,8 +147,8 @@
                     <lb n="2v4=34"/>
                     <lb n="2v5=35"/>
                     <lb n="2v6=36"/>...
-                     Ip-paḷḷik
-                     
+                    Ip-paḷḷik
+                    
                     <pb n="3r" break="no"/>                   
                     <lb n="3r1=37" break="no"/>ku vēṇṭum nivan=taṅkalukku Iṟuppat-āka Iṟai-y-ili Iṭṭamaikkum
                 </p>
@@ -161,16 +161,16 @@
                     <list>
                         
                         <item>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ
-                            <lb n="3r5=41"/>-pārk' ellai kaṭaṟ-karai ...</item>
+                            <lb n="3r5=41" break="no"/>-pārk' ellai kaṭaṟ-karai maṇaṟ-kuṉṟ' uṭpaṭa mēṟkum</item>
                         
                         <item>teṉ-pāṟk' ellai pukai
-                            <lb n="3r6=42" break="no"/>-<choice><orig>U</orig><reg>y-u</reg></choice><supplied reason="omitted">ṇ</supplied>ṇi-k-kiṇaṟṟukku ... nilattu
-                            <lb n="3r7=43" break="no"/>kku vaṭakkum ...
-                            <lb n="3r8=44"/>...</item>
+                            <lb n="3r6=42" break="no"/>-<choice><orig>U</orig><reg>y-u</reg></choice><supplied reason="omitted">ṇ</supplied>ṇi-k-kiṇaṟṟukku vaṭakkum Itaṉ mēṟkku-p tiru-v<choice><orig>i</orig><reg>ī</reg></choice>raṭṭāṉam-uṭaiya <hi rend="grantha">mahāde</hi>var nilattu
+                            <lb n="3r7=43" break="no"/>kku vaṭakkum Itaṉ mēṟku-p paravai-k-kuḷattu mārāyaṉ kalluvitta kuḷattil vaṭa-karai mērku nō
+                            <lb n="3r8=44" break="no"/>kki kāraikkār-p-peru-vaḻi y-uṟa vaṭakkum</item>
                         
-                        <item>mēl-pāṟk' ellai ...</item>
+                        <item>mēl-pāṟk' ellai kāraikkār-p-peru-vaḻikku-k kiḻakkum</item>
                         
-                        <item><lb n="3r9=45"/>vaṭa-pāṟk' ellai ...</item>
+                        <item><lb n="3r9=45"/>vaṭa-pāṟk' ellai cōḻa-kula-valli-paṭṭaṉattu nilam vaṭa-kāṭaṉ pāṭi ellaikku-y teṟkum</item>
                     </list>
                     
                     Āka Iṉ
@@ -188,7 +188,7 @@
                 <p>
                     tā<hi rend="grantha">mra-sāsa</hi>ṉam paṇṇi kuṭukka v-e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu <hi rend="grantha">sa</hi>n=t<choice><sic>u</sic><corr>i</corr></choice>vi<choice><sic><hi rend="grantha">griha</hi></sic><corr><hi rend="grantha">grahi</hi></corr></choice>kaḷ <hi rend="grantha">rāja</hi>-vallava-p-pallavaraiyarum A
                     <lb n="3v5=50" break="no"/>tikarikaḷ <hi rend="grantha">rāje</hi>ntira-ciṅka-m<choice><orig>u</orig><reg>ū</reg></choice>vēntavēḷārum colla It-tā<hi rend="grantha">mra-sāsa</hi>nam Eḻuti
-                    <lb n="3v6=51" break="no"/>nēṉ Uṭkkōṭi vikkiramaparaṇa-t terinta valavalaṅkai vēḷaikkāṟaril nilai-y-uṭaiya paṇai
+                    <lb n="3v6=51" break="no"/>nēṉ Uṭkkōṭi vikkiramaparaṇa-t terinta <surplus>vala</surplus>valaṅkai vēḷaikkāṟaril nilai-y-uṭaiya paṇai
                     <lb n="3v7=52" break="no"/>yāṉ ṉikarili-cōḻa<choice><orig>n</orig><reg>ṉ</reg></choice> maturā<choice><orig>ṉ</orig><reg>n</reg></choice>takaṉ-ēṉ Ivai Eṉ Eluttu <g type="gomutraFinal">.</g>
                 </p>
                 
@@ -197,19 +197,27 @@
             <div type="apparatus">
                 
                 <listApp>
-                    <!--<app loc="0">
-                        <lem>...</lem>
-                        <rdg source="bib:SubrahmanyaAiyer1933-1934_02">...</rdg>
-                        </app>-->
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:SubrahmanyaAiyer1933-1934_02"></rdg>
+                    </app>
+                    
                     <app loc="1">
                         <lem>puṇara</lem>
                         <rdg source="bib:SubrahmanyaAiyer1933-1934_02">pu<unclear>ṇa</unclear>ra</rdg>
                     </app> 
                     
-                    <app loc="1">
+                     <app loc="51">
+                        <lem source="bib:SubrahmanyaAiyer1933-1934_02"><surplus>vala</surplus>valaṅkai</lem>
+                        <rdg source="bib:Burgess+NatesaSastri1886_01">pala pala vakai</rdg>
+                    </app>
+                    
+                    <app loc="52">
                         <lem>ṉikarili°</lem>
                         <rdg source="bib:SubrahmanyaAiyer1933-1934_02">nikarili°</rdg>
-                    </app> 
+                    </app>
+                    
                 </listApp>
                 
             </div>
