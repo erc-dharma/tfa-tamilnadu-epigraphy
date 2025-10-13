@@ -46,7 +46,7 @@
                         <handDesc>
                             <p>Two hands (?): hand #1 (p1v, p2r) and hand #1 (p2v, p3rv).</p>
                             <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>. Interchangeable <foreign>n</foreign> and <foreign>ṉ</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -118,19 +118,51 @@
                     <lb n="1v13=13" break="no"/>kaḷ <hi rend="grantha">rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-ciṅka-mūvēntavēḷārkku-t tiru-mukam <hi rend="grantha">prasāda</hi>ñ ceyt-aruḷi vara-t tā<hi rend="grantha">mra-śāsa</hi>nañ ceyta paṭi                    
                 </p>
                 <p>
-                    
-                    <pb n="2r"/>                
-                    <lb n="2r1=16"/>
+                    kaṭāratt' a
+                    <lb n="1v14=14" break="no"/>raiyaṉ keyamāṇikka-vaḷanāṭṭu-<supplied reason="omitted">p</supplied> paṭṭaṉa-k-kūṟṟattu-c cōḻa-kula-valli-paṭṭaṉattu Eṭuppitta <hi rend="grantha">rājarāja</hi>-<supplied reason="omitted">p</supplied>-perumpa<add place="right"><supplied reason="omitted">ḷ</supplied>ḷi</add>                    
+                    <lb n="1v15=15" break="no"/><add place="left">kku</add> paḷḷi-c-cantam ...
+                    <pb n="2r" break="no"/>                
+                    <lb n="2r1=16" break="no"/>
                     
                     <pb n="2v"/>                
                     <lb n="2v1=31"/>
                     
-                    <pb n="3r"/>                
-                    <lb n="3r1=37"/>
+                    <pb n="3r" break="no"/>                
+                    <lb n="3r1=37" break="no"/>ku vēṇṭum nivan=taṅkalukku Iṟuppat-āka Iṟai-y-ili Iṭṭamaikkum
+                </p>
+                <p>Ip-pāḷḷi-c-cantaṅkaḷ muṉ
                     
-                    <pb n="3v"/>                
-                    <lb n="3v1=46"/> 
+                    <lb n="3r2=38" break="no"/>p-uṭaiya kāṇi-Āḷarai-t tavira-k kuṭi n<choice><orig>i</orig><reg>ī</reg></choice>kki Ip-paḷḷi-c-caṅkattārkkē kāṇièy-āka kuṭittōm eṉṟum
+                    <lb n="3r3=39"/>keyamāṇik=ka-vaḷanāṭṭu-p paṭṭaṉa-k-kūṟṟattu-c cōḻa-kula-valli-paṭṭaṉattu <hi rend="grantha">śrī-śailendra-cūḍama</hi>ṇiva
+                    <lb n="3r4=40"/><hi rend="grantha">rmma</hi>-vi<hi rend="grantha">hāra</hi>m-āṉa <hi rend="grantha">rājarāja</hi>-p-perumpaḷḷikku-p paḷḷi-nilaiyam paḷḷi-viḻākamum Uṭpaṭṭa Ellai
                     
+                    <list>
+                        
+                        <item>k<choice><orig>i</orig><reg>ī</reg></choice>ḻ
+                            <lb n="3r5=41"/>-pārk' ellai ...</item>
+                        
+                        <item>teṉ-pāṟk' ellai ...
+                            <lb n="3r6=42" break="no"/>
+                            <lb n="3r7=43" break="no"/>
+                            <lb n="3r8=44"/>...</item>
+                        
+                        <item>mēl-pāṟk' ellai ...</item>
+                        
+                        <item><lb n="3r9=45"/>vaṭa-pāṟk' ellai ...</item>
+                    </list>
+                    
+                    Āka Iṉ
+                    <pb n="3v" break="no"/>                
+                    <lb n="3v1=46" break="no"/>-ṉāṅk' ellaikk' uṭ<surplus>p</surplus>paṭṭa nilam ...
+                </p>
+                <p>
+                    Itu An
+                    <lb n="3v2=47" break="no"/>tarāyamum ...
+                    <lb n="3v3=48" break="no"/>
+                    <lb n="3v4=49" break="no"/>
+                    <lb n="3v5=50" break="no"/>
+                    <lb n="3v6=51" break="no"/>
+                    <lb n="3v7=52" break="no"/>yāṉ ṉikarili-cōḻa<choice><orig>n</orig><reg>ṉ</reg></choice> maturā<choice><orig>ṉ</orig><reg>n</reg></choice>takaṉ-ēṉ Ivai Eṉ Eluttu <g type="gomutraFinal">.</g>
                 </p>
                 
             </div>
@@ -145,6 +177,11 @@
                     <app loc="1">
                         <lem>puṇara</lem>
                         <rdg source="bib:SubrahmanyaAiyer1933-1934_02">pu<unclear>ṇa</unclear>ra</rdg>
+                    </app> 
+                    
+                    <app loc="1">
+                        <lem>ṉikarili°</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1933-1934_02">nikarili°</rdg>
                     </app> 
                 </listApp>
                 
