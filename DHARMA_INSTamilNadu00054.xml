@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Puḷḷalūr, Kailāsanātha temple, Kāmākshi-Ammaṉ shrine, time of Uṭaiyār Śrīrājendra, year 9</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>                    
+                </respStmt>			
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00054</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis &amp; Vincent Tournier.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary></summary> 
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2025-10-14">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha"><supplied reason="lost">śrī</supplied>r<unclear>i</unclear></hi>
+                </ab>
+                
+                <p>                    
+                    viruttikkuṟai paṭi pottakkattiṉ peṟapaṭṭa nilam mukkāliṉāl kuḻi
+                    muṉṉūṟum Āka-p paḻam paṭi kuḻi Ēḻu-nūṟum
+                </p>
+                <p>
+                    Uṭaiyār <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra-de</hi>varkku yāṇṭu 9-Āvatu
+                </p>
+                <p>                    
+                    <lb n="2"/>In-nilattukku <del rend="strikeout"><gap reason="illegible" quantity="1" unit="character"/></del> <gap reason="illegible" quantity="1" unit="character"/> <hi rend="grantha">dravya</hi>m aṟa-k koṇṭu Ila<hi rend="grantha">kṣa</hi><add place="below">ṇa</add>m paṉṉi-k kuṭuttamaiyil pottakattiṉ mēṟpaṭṭa kuḻi mikuti-k kuṟai v-uḷḷ aṭaṅka-t taṭi Iraṇṭum
+                </p>
+                <p>
+                    Emm-<choice><orig>u</orig><reg>ū</reg></choice>rkku <hi rend="grantha">mahā</hi>-pārata-viri<choice><sic>tu</sic><corr>tti</corr></choice>
+                    
+                    <lb n="3" break="no"/>-y-āka In-nilattukku vanta Iṟai Eppērpaṭṭatum <hi rend="grantha">mahāsabhai</hi>yōmēy iṟuttu-k kuṭukka kaṭavōm āka <hi rend="grantha">śrīri</hi>-pārata-virutti can=tirātit<hi rend="grantha">tya</hi><surplus>ya</surplus>varaiyum niṟppat-āka <hi rend="grantha">śilālekai</hi> paṇṇi-k kuṭuttō
+                    <lb n="4" break="no"/>m <hi rend="grantha">mahāsabhai</hi>yōm                    
+                </p>
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                <listApp>
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:..."/>
+                <note>...</note>
+                </app>      
+                
+                </listApp>
+                </div>-->
+            
+            <div type="translation" resp="part:reda part:emfr">
+                
+                <p n="1">Prosperity!</p>
+                <p n="1">...</p>
+                
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1922-1923"/></bibl> (ARIE/1922-1923/C/1923/48).</p>
+                <p>This edition by Renato Dávalos and Emmanuel Francis based on the estampage under the copyright of ASI, kindly supplied by the Director of epigraphy, Mysore.</p>                
+                
+                <!--<listBibl type="primary">
+                    
+                    </listBibl>-->
+                
+                <listBibl type="secondary">
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1922-1923"/>
+                        <citedRange unit="page">48</citedRange>
+                        <citedRange unit="appendix">C/1923</citedRange>
+                        <citedRange unit="item">48</citedRange>                        
+                    </bibl> 
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
