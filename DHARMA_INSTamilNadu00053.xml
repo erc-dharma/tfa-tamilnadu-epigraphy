@@ -91,15 +91,15 @@
                 </ab>
                 
                 <p>                    
-                    <hi rend="grantha">tribhu</hi>vaṉa-c-cakkaravattikaḷ <hi rend="grantha">śrī</hi>-ku<supplied reason="lost">lot</supplied>tu<supplied reason="lost">ṅka</supplied>-cōḻa-<hi rend="grantha">de</hi>varkku yāṇtu Irāṇṭ-āvatu
+                    <hi rend="grantha">tribhu</hi>vaṉa-c-cakkaravattikaḷ <hi rend="grantha">śrī</hi>-ku<supplied reason="lost">lōt</supplied>tu<supplied reason="lost">ṅka</supplied>-cōḻa-<hi rend="grantha">de</hi>varkku yāṇtu Irāṇṭ-āvatu
                 </p>
                 
                 <p>
-                    Uttuṅka * * * * * * * * ṭukukaṟa-kūṟṟattu-p pērakaḻiyil irukkum puttūr-uṭaiyān <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> * * * * * * * ān <hi rend="grantha">de</hi>vatāṉam Iṭṭa paṭi y-āvatu
+                    Uttuṅka <gap reason="lost" quantity="12" unit="character"/> ṭukuka<choice><unclear>ṟa</unclear><unclear>ṟ</unclear></choice>-kūṟṟattu-p pērakaḻiyil irukkum puttūr-uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="10" unit="character"/> ā<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">de</hi>vatāṉam Iṭṭa paṭi y-āvatu
                 </p>
                 <p>
                     Eṅkaḷ pitākkaḷ koṇṭ-uṭaiya kāṇi-y-āy varukiṟa Ip-pērakaḻiyilē civa-liṅka-p-piratiṭṭaiyum paṇṇi Upāṉāti-tūpi
-                    <lb n="2" break="no"/>-pūri-y-antam-āka-t tiru-k-kaṟṟaḷiyuñ cātti viṉāyaka-p-piḷḷaiyār <hi rend="grantha">kṣetra</hi>pāla-p-piḷḷaiyār mutal-āṉa cilar murttaṅkaḷu<unclear>m</unclear> Eḻuntaruḷ<supplied reason="lost">uvit</supplied>tu tiru-mēṉi nāyaṉmāraiyum Eḻuntaruḷuvittu I<supplied reason="lost">n</supplied>nāy<choice><sic><unclear>u</unclear></sic><corr>a</corr></choice>ṉār Aḻa * * * * * t<supplied reason="lost">ē</supplied>vatāṉam patināl <unclear>aṭi</unclear>yum vilakkaṭiyum-āna kōlāl Ivv-ūr mēlai-k kaḻaṉiyiṟ kāṟ-ceyyum mēlai-k kiḻai-k kaḻaṉiyiṟ kāṟ-ceyyum Ik-kōlāl                    
+                    <lb n="2" break="no"/>-puriyantam-āka-t tiru-k-kaṟṟaḷiyuñ cātti viṉāyaka-p-piḷḷaiyār <hi rend="grantha">kṣetra</hi>pāla-p-piḷḷaiyār mutal-āṉa cilar m<choice><orig>u</orig><reg>ū</reg></choice>rttaṅkaḷu<unclear>m</unclear> Eḻunt-aruḷ<supplied reason="lost">uvit</supplied>tu tiru-mēṉi nāyaṉmāraiyum Eḻunt-aruḷuvittu I<supplied reason="lost">n</supplied>nāy<choice><sic><unclear>u</unclear></sic><corr>a</corr></choice>ṉār Aḻa <gap reason="lost" quantity="12" unit="character"/> t<supplied reason="lost">ē</supplied>vatāṉam patināl <unclear>aṭi</unclear>yum vilakkaṭ<unclear>i</unclear>yumāna kōlāl Ivv-ūr mēlai-k kaḻaṉiyiṟ kāṟ-ceyyum kiḻai-k kaḻaṉiyiṟ kāṟ-ceyyum Ik-kōlāl                    
                 </p>
                 
             </div>
@@ -116,9 +116,23 @@
                 </listApp>
                 </div>-->
             
-            <!--<div type="translation" resp="part:reda part:emfr">
+            <div type="translation" resp="part:reda part:emfr">
                 
-                </div>-->
+                <p n="1">Prosperity! Fortune!</p>
+                <p n="1">Second year of the glorious king Kulottuṅga Cōḻa, emperor of the three worlds.</p>
+                <p n="1">This is the manner in which <gap reason="lost"/>, Lord of Puttūr, who resides in Pērakaḻi in the <gap reason="lost"/>kūṟṟam <gap reason="lost"/> gave a <foreign>devadāna</foreign>.</p>
+                <p n="1-2">In this Pērakaḻi, which comes as a property <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> owned by our father,
+                    after having made the installation of a <foreign>liṅga</foreign> of Śiva,
+                    having built a glorious stone-temple ...,
+                    having installed some images such as Viṉāyaka and Kṣetrapāla,
+                    having installed glorious images of the Nāyaṉmārs,
+                    <supplied reason="subaudible">he gave</supplied> as <foreign>devadāna</foreign>
+                    <gap reason="ellipsis"/>
+                    a quarter <foreign>cey</foreign> of land in the west of this village and a quarter a quarter <foreign>cey</foreign> of land in the east as per this <supplied reason="subaudible">measuring</supplied> rod.
+                    
+                </p>
+                
+            </div>
             
             <!--<div type="commentary">
                 
