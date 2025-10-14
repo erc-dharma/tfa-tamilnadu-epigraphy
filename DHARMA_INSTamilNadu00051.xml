@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Nallūr, Vilvāraṇyeśvara, Kōpperuñ-ciṅkatēva, no year</title>
                 <respStmt>
-                    <resp>Intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
@@ -18,18 +18,7 @@
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
+                    </persName>                    
                 </respStmt>				
             </titleStmt>
             <publicationStmt>
@@ -136,8 +125,8 @@
                     <bibl n="ARIE">
                         <ptr target="bib:ARIE1939-1943"/>
                         <citedRange unit="page">94</citedRange>
-                        <citedRange unit="item">165</citedRange>
                         <citedRange unit="appendix">B/1940-1941</citedRange>
+                        <citedRange unit="item">165</citedRange>
                     </bibl> 
                 </listBibl>
                 
