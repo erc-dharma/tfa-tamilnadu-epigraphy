@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary> 
+                        <summary>Stone-inscription recording the donation of land for establishing a <foreign>pāratavirutti</foreign> (Sanskrit <foreign>bhāratavṛtti</foreign>) for the one who recites <foreign>purāṇa</foreign>s, including the <title>Mahāhārata</title> and the <title>Rāmāyaṇa</title>, in the Tiruvaiyyōtti.<note>This must be a temple or shrine, presumably in Puḷḷalūr, named after Ayōtti, that is,  Ayodhyā.</note></summary> 
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -106,7 +106,26 @@
                     <lb n="3" break="no"/>-y-āka In-nilattukku vanta Iṟai Eppērpaṭṭatum <hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice>hāsabhai</hi>yōmēy iṟuttu-k kuṭukka kaṭavōm āka <hi rend="grantha">śrīri</hi>-pārata-virutti can=tirāti<surplus>t</surplus><hi rend="grantha">tya</hi><surplus>ya</surplus>varaiyum niṟppat-āka <hi rend="grantha">śilālekai</hi> paṇṇi-k kuṭuttō
                     <lb n="4" break="no"/>m <hi rend="grantha">m<choice><sic>ā</sic><corr>a</corr></choice>hāsabhai</hi>yōm                    
                 </p>
-                
+                <p>
+                    Ivv-ūr tiruvaiyyōttiyillēy Iru-k-kāllum <hi rend="grantha">śrīri-bhā</hi>rata-<hi rend="grantha">śrīri-rāmā</hi>yaṇam Uḷ<supplied reason="omitted">ḷ</supplied><choice><orig>I</orig><reg>i</reg></choice>ṭṭa purāṇam vā<hi rend="grantha">śi</hi>kka-k kaṭavaṉ Iv-virutti Uṇpāṉ
+                </p>
+                <p>
+                    It-tamatukku vi
+                    <lb n="5" break="no"/>rōtam paṇṇuvār keṅkai y-iṭai-k kumari y-iṭai paṭṭa pāvattu-p pa<supplied reason="lost">ṭu</supplied>vār
+                </p>
+                <p>
+                    It-taṉmam y-ira<hi rend="grantha">kṣi</hi>kkiṟa tiruvaṭi <hi rend="grantha">śrīri</hi>-pātaṅka<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice> eṉ talai mē<surplus>l</surplus>li<surplus>n</surplus>ṉa
+                </p>
+                <p>
+                    Aṟamaṟaveṟkka Aṟam allatu
+                    <lb n="6"/>tuṇai y-illai
+                </p>
+                <p>
+                    <hi rend="grantha">mahāsabhai</hi>-t tiruvaṭiyār paṇi-p <surplus>pp</surplus>paṇi kēṭṭ' eḻuti<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ Ivv-ūr ma<hi rend="grantha">ddhyasta</hi>ṉ koṟṟava-pōttaṉ kaṇṇālaṉ <hi rend="grantha">śrī</hi>-māyavar-ēṉ
+                </p>
+                <p>
+                    Ivai E<choice><orig>nn</orig><reg>n</reg></choice> e<supplied reason="omitted">ḻuttu</supplied>
+                </p>
             </div>
             
             <!--<div type="apparatus">
@@ -126,14 +145,18 @@
                 <p n="1">Prosperity!</p>
                 <p n="1">...</p>
                 <p n="2">...</p>
-                <p n="2-3">
+                <p n="2-4">
                     So that there be a livelihood for <supplied reason="subaudible">the recitation of</supplied> the <title>Mahābhārata</title> in our village,
                     so that we, the members of the great assembly, are appointed/due to give whatever taxes coming for this land, 
                     so that <supplied reason="subaudible">this</supplied> livelihood for <supplied reason="subaudible">the recitation of</supplied> the glorious <title>Bhārata</title> remains as long as the moon and the sun,
                     having made <supplied reason="subaudible">this</supplied> stone inscription, we have given, we, the members of the great assembly.
                 </p>
-                <p n="1">...</p>
-                
+                <p n="4">The one appointed to recite two times in the Tiruvaiyyōtti in this village the <foreign>purāṇa</foreign>s, including the glorious <title>Bhārata</title> and the glorious <title>Rāmāyaṇa</title>, will enjoy this livelihood.</p>
+                <p n="4-5">...</p>
+                <p n="5">...</p>
+                <p n="5-6">...</p>
+                <p n="6">Listening to the orders of the honourable ones of the great assembly, I wrote <supplied reason="subaudible">this</supplied>, I, Koṟṟavapōttaṉ Kaṇṇālaṉ Śrīmāyavar, the <foreign>madhyastha</foreign> of this village.</p>
+                <p n="7">These <supplied reason="subaudible">are</supplied> my <supplied reason="subaudible">hand-</supplied>writing.</p>                
             </div>
             
             <!--<div type="commentary">
