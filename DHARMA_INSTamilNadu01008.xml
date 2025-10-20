@@ -81,10 +81,22 @@
         
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+            <div type="edition">
                 
-                <div type="textpart" n="A">
-                    <head>Sanskrit portion</head>
+                <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Seal</head>
+                    <lg n="1" met="anuṣṭubh">
+                        <l n="a"><lb n="1"/>Etad rājendra-coḷasya</l>
+                        <l n="b">para-kesari-va<unclear>r</unclear>mmanaḥ</l>
+                        <l n="c" enjamb="yes">rājad-rājanya-makuṭa</l>
+                        <l n="d">-śreṇi-ratneṣu śāsanaM</l>
+                    </lg>
+                </div>
+                
+                <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Ring</head>
+                    <p><lb n="1"/>Āṉai-maṅkalam <g type="ddanda">.</g></p>
+                </div>
+                
+                <div type="textpart" n="C" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion</head>
                     
                     <ab>
                         <pb n="1r"/>
@@ -122,7 +134,7 @@
                         <lb n="4r7=76" break="no"/>-varmmā sva-sāmrājya-varṣe Eka-viṃśatitame nikhila-dharaṇi-tilakāyamāne kṣa
                         <lb n="4r7=77" break="no"/>triya-śikhāmaṇi-vaḷanāḍu-nāmni mahati janapada-nivahe <seg rendition="class:tamil maturity:vernacular">paṭṭana-k-kūṟṟa</seg>-nāmni janapa
                         <lb n="4r7=78" break="no"/>de ’neka-sura-sadana-satra-prapārāmābhirāme vividha-saudh<del>ā</del><add place="unspecified">a</add>-rāji-rājamāne nā
-                                                
+                        
                         <pb n="4v" break="no"/>                
                         <lb n="4v1=79" break="no"/>gī-pattane nija-mati-vibhava-vijita-suraguruṇā budha-jana-kamala-vana-marīcimālinā
                         <lb n="4v2=80" break="no"/>rtthi-jana-kalpapādapena śailendra-vaṃśa-saMbhūtena śrīviṣayādhipati
@@ -144,9 +156,7 @@
                     </p>
                 </div>
                 
-                <div type="textpart" n="B">
-                    <head>Tamil portion</head>
-                    
+                <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion</head>
                     
                     <ab>
                         <pb n="1r"/>
@@ -189,22 +199,31 @@
             
             <div type="apparatus">
                 
-                <div type="textpart" n="A">
-                    <head>Sanskrit portion</head>
+                <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Seal</head>
+                    <listApp>
+                        <app loc="1">
+                            <lem>°va<unclear>r</unclear>mmanaḥ</lem>
+                            <rdg source="bib:SubrahmanyaAiyer1933-1934_01">°varmanaḥ</rdg>
+                        </app>
+                    </listApp>
+                </div>
+                
+                <div type="textpart" n="C">
+                    <head>Plates: Sanskrit portion</head>
                     <listApp>
                         <app loc="0">
-                            <lem>...</lem>
-                            <rdg source="bib:SubrahmanyaAiyer1933-1934_01">...</rdg>
+                            <lem></lem>
+                            <rdg source="bib:SubrahmanyaAiyer1933-1934_01"></rdg>
                         </app>                   
                     </listApp>
                 </div>
                 
-                <div type="textpart" n="B">
-                    <head>Tamil portion</head>
+                <div type="textpart" n="D">
+                    <head>Plates: Tamil portion</head>
                     <listApp>
                         <app loc="0">
-                            <lem>...</lem>
-                            <rdg source="bib:SubrahmanyaAiyer1933-1934_01">...</rdg>
+                            <lem></lem>
+                            <rdg source="bib:SubrahmanyaAiyer1933-1934_01"></rdg>
                         </app>                   
                     </listApp>
                 </div>

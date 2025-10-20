@@ -85,97 +85,116 @@
     <text xml:space="preserve">
         
         <body>
-            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+            
+            <div type="edition">
                 
-                <pb n="1r"/>
+                <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Seal</head>
+                    <lg n="1" met="anuṣṭubh">
+                        <l n="a">...</l>
+                        <l n="b">...</l>
+                        <l n="c">...</l>
+                        <l n="d">....</l>
+                    </lg>
+                </div>
                 
-                <p>
-                    <pb n="1v"/>
-                    <lb n="1v1=1"/>svasti śrī
-                </p>
-                <p>
+                <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates</head>
                     
-                    <pb n="2r"/>
+                    <pb n="1r"/>
                     
-                    <pb n="2v"/>		
+                    <p>
+                        <pb n="1v"/>
+                        <lb n="1v1=1"/>svasti śrī
+                    </p>
+                    <p>
+                        
+                        <pb n="2r"/>
+                        
+                        <pb n="2v"/>		
+                        
+                        <pb n="3r"/>
+                        
+                        <pb n="3v"/>
+                        
+                        <pb n="4r"/>
+                        
+                        <pb n="4v"/>
+                        
+                        <pb n="5r"/>
+                        
+                        <pb n="5v"/>
+                        
+                        <pb n="6r"/>
+                        
+                        <pb n="6v"/>
+                        
+                        <pb n="7r"/>
+                    </p>
                     
-                    <pb n="3r"/>
+                    <lg n="84" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                        <l n="a">sāmānyo ’yaṁ dha<unclear>r</unclear>mmam eta<supplied reason="omitted">n</supplied> nṛpāṇām</l>
+                        <l n="b">kāle kāle <lb n="7r11=202"/> pāl<choice><sic>i</sic><corr>a</corr></choice>n<choice><orig>i</orig><reg>ī</reg></choice>yo bhava<choice><orig>t</orig><reg>d</reg></choice>bhis</l>
+                        <l n="c">tasmād etān bhāvinaḥ pārtthivendrān·</l>
+                        <l n="d">bhūyo bhūyo yāca<lb n="7r12=203" break="no"/>te rāmabhadra<supplied reason="omitted">ḥ</supplied> <g type="gomutraFinal">.</g></l>
+                    </lg>
                     
-                    <pb n="3v"/>
+                    <lg n="85" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                        <l n="a">sukṛtam idam ajasraṃ rakṣyate<choice><sic>diṣu d<choice><orig>i</orig><reg>ī</reg></choice>śān·</sic><corr>ti kṣitīśās</corr></choice></l>
+                        <l n="b">sakala-nṛp<choice><sic>i</sic><corr>a</corr></choice>ti-vandyas so <lb n="7r13=204"/> ’yam āgamino vaḥ</l>
+                        <l n="c">hara-caraṇa-saro<supplied reason="omitted">jo</supplied>tt<surplus>v</surplus>aṃsa-cihnena mūrddh<supplied reason="omitted">n</supplied>ā</l>
+                        <l n="d">muk<choice><sic>a</sic><corr>u</corr></choice>ḷita-kara-pa<choice><sic>n</sic><corr>d</corr></choice>mo <lb n="7r14=205"/> vand<surplus>y</surplus>ate rājarājaḥ <g type="gomutraFinal">.</g></l>
+                    </lg>
                     
-                    <pb n="4r"/>
+                    <lg n="86" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                        <l n="a">bahubhir vvasudhā datt<choice><sic>a<unclear>ṃ</unclear></sic><corr>ā</corr></choice></l>
+                        <l n="b">rājabhis sagarādibhiḥ</l>
+                        <l n="c">yasya yasya yadā <lb n="7r15=206"/> bhūmis</l>
+                        <l n="d">tasya tasya tadā phalam· <g type="gomutraFinal">.</g></l>
+                    </lg>
                     
-                    <pb n="4v"/>
+                    <lg n="87" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                        <l n="ab">pariṇatan adhiśaya<unclear>ṃ</unclear> madhurāntaka-brahmādhirājan a<pb n="7v"/><lb n="7v1=207"/><unclear>tanva</unclear> śāsanam eva</l>
+                        <l n="cd">deśa-madhye sva-pati-kāryya-viniścyārtthaṃ buddhiḥ kṛta <unclear>śaśi</unclear>-bhūṣaṇa<lb n="7v2=208" break="no"/>-paṇḍitena sārddhaṃ <g type="gomutraFinal">.</g></l>
+                    </lg>
                     
-                    <pb n="5r"/>
+                    <p>	
+                        tiru-vāy-moḻin=t-aruḷa I-<hi rend="grantha">śāsa</hi>na-Eḻuttu veṭṭi⌈
+                        <lb n="7v3=209" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice> kuvaḷāḷa-nāṭṭu-k kuvaḷāḷatt’ irukkun= taccācāriya<choice><orig>n</orig><reg>ṉ</reg></choice> caṅkaraṉ kāṭāṭi
+                        <lb n="7v4=210"/>y-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a karuṇākara-Ācāriyaṉ <g type="gomutraFinal">.</g>
+                    </p>
                     
-                    <pb n="5v"/>
-                    
-                    <pb n="6r"/>
-                    
-                    <pb n="6v"/>
-                    
-                    <pb n="7r"/>
-                </p>
-                
-                <lg n="84" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">sāmānyo ’yaṁ dha<unclear>r</unclear>mmam eta<supplied reason="omitted">n</supplied> nṛpāṇām</l>
-                    <l n="b">kāle kāle <lb n="7r11=202"/> pāl<choice><sic>i</sic><corr>a</corr></choice>n<choice><orig>i</orig><reg>ī</reg></choice>yo bhava<choice><orig>t</orig><reg>d</reg></choice>bhis</l>
-                    <l n="c">tasmād etān bhāvinaḥ pārtthivendrān·</l>
-                    <l n="d">bhūyo bhūyo yāca<lb n="7r12=203" break="no"/>te rāmabhadra<supplied reason="omitted">ḥ</supplied> <g type="gomutraFinal">.</g></l>
-                </lg>
-                
-                <lg n="85" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">sukṛtam idam ajasraṃ rakṣyate<choice><sic>diṣu d<choice><orig>i</orig><reg>ī</reg></choice>śān·</sic><corr>ti kṣitīśās</corr></choice></l>
-                    <l n="b">sakala-nṛp<choice><sic>i</sic><corr>a</corr></choice>ti-vandyas so <lb n="7r13=204"/> ’yam āgamino vaḥ</l>
-                    <l n="c">hara-caraṇa-saro<supplied reason="omitted">jo</supplied>tt<surplus>v</surplus>aṃsa-cihnena mūrddh<supplied reason="omitted">n</supplied>ā</l>
-                    <l n="d">muk<choice><sic>a</sic><corr>u</corr></choice>ḷita-kara-pa<choice><sic>n</sic><corr>d</corr></choice>mo <lb n="7r14=205"/> vand<surplus>y</surplus>ate rājarājaḥ <g type="gomutraFinal">.</g></l>
-                </lg>
-                
-                <lg n="86" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">bahubhir vvasudhā datt<choice><sic>a<unclear>ṃ</unclear></sic><corr>ā</corr></choice></l>
-                    <l n="b">rājabhis sagarādibhiḥ</l>
-                    <l n="c">yasya yasya yadā <lb n="7r15=206"/> bhūmis</l>
-                    <l n="d">tasya tasya tadā phalam· <g type="gomutraFinal">.</g></l>
-                </lg>
-                
-                <lg n="87" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="ab">pariṇatan adhiśaya<unclear>ṃ</unclear> madhurāntaka-brahmādhirājan a<pb n="7v"/><lb n="7v1=207"/><unclear>tanva</unclear> śāsanam eva</l>
-                    <l n="cd">deśa-madhye sva-pati-kāryya-viniścyārtthaṃ buddhiḥ kṛta <unclear>śaśi</unclear>-bhūṣaṇa<lb n="7v2=208" break="no"/>-paṇḍitena sārddhaṃ <g type="gomutraFinal">.</g></l>
-                </lg>
-                
-                <p>	
-                    tiru-vāy-moḻin=t-aruḷa I-<hi rend="grantha">śāsa</hi>na-Eḻuttu veṭṭi⌈
-                    <lb n="7v3=209" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ē<choice><orig>n</orig><reg>ṉ</reg></choice> kuvaḷāḷa-nāṭṭu-k kuvaḷāḷatt’ irukkun= taccācāriya<choice><orig>n</orig><reg>ṉ</reg></choice> caṅkaraṉ kāṭāṭi
-                    <lb n="7v4=210"/>y-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a karuṇākara-Ācāriyaṉ <g type="gomutraFinal">.</g>
-                </p>
-                
-                <p>
-                    Aṟa<supplied reason="subaudible">m</supplied> maṟavaṟ<unclear>k</unclear>ka <supplied reason="omitted">A</supplied>ṟam allatu tuṇai
-                    <lb n="7v5=211"/>y-illai <g type="gomutraFinal">.</g>
-                </p>
-                <p>
-                    prāṇi parihar<unclear>i</unclear>kka <g type="gomutraFinal">.</g>
-                </p>
-                
+                    <p>
+                        Aṟa<supplied reason="subaudible">m</supplied> maṟavaṟ<unclear>k</unclear>ka <supplied reason="omitted">A</supplied>ṟam allatu tuṇai
+                        <lb n="7v5=211"/>y-illai <g type="gomutraFinal">.</g>
+                    </p>
+                    <p>
+                        prāṇi parihar<unclear>i</unclear>kka <g type="gomutraFinal">.</g>
+                    </p>
+                </div>
             </div>
+            
             
             <div type="apparatus">
                 
-                <listApp>
-                    
-                    <!--<app loc="0">
-                        <lem>...</lem>
-                        <rdg source="bib:RamanathaAyyar+1939-1940_01">...</rdg>
-                        </app>-->
-                    
-                    <app loc="7r12=203">
-                        <lem>sukṛtam idam <gap reason="ellipsis"/></lem>
-                        <note>As noted by <ptr target="bib:RamanathaAyyar+1939-1940_01"/>, this verse is corrupted. See suggestions of emendations in <ptr target="bib:RamanathaAyyar+1939-1940_01"/> (p. 264, fn. 5), with further suggestions by Chhabra, the editor of EI 25. This verse is in fact borrowed from Pallava charters. See e.g. IP 121<!--add link-->, st. 29, where the verse is correct.</note>
-                    </app> 
-                    
-                </listApp>
+                <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Seal</head>
+                </div>
                 
+                <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates</head>
+                    <listApp>
+                        
+                        <app loc="0">
+                            <lem></lem>
+                            <rdg source="bib:RamanathaAyyar+1939-1940_01">
+                            </rdg>
+                        </app>
+                        
+                        <app loc="7r12=203">
+                            <lem>sukṛtam idam <gap reason="ellipsis"/></lem>
+                            <note>As noted by <ptr target="bib:RamanathaAyyar+1939-1940_01"/>, this verse is corrupted. See suggestions of emendations in <ptr target="bib:RamanathaAyyar+1939-1940_01"/> (p. 264, fn. 5), with further suggestions by Chhabra, the editor of EI 25. This verse is in fact borrowed from Pallava charters. See e.g. IP 121<!--add link-->, st. 29, where the verse is correct.</note>
+                        </app> 
+                        
+                    </listApp>
+                    
+                </div>
             </div>
             
             <!--<div type="translation" source="bib:RamanathaAyyar+1939-1940_01">
