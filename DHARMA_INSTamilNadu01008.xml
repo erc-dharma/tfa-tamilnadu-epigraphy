@@ -104,29 +104,50 @@
                     </ab>
                     
                     <lg n="1" met="śārdūlavikrīḍita">
-                        <l n="a">...</l>
+                        <l n="a">lakṣmī-pīna-payodhara-dvaya-taṭī-kāśmīra-paṃk-āṃkitā</l>
+                        <l n="b"><lb n="1r2=2"/>bhrāmyan-mandara-tuṃga-śṛṃga-kaṣaṇa-bhrājiṣṇu-hem-āṃgadaḥ</l>
+                        <l n="c">rakṣanto ha<lb n="1r3=3" break="no"/>ri-nīlanīla-vapuṣo loka-trayaṃ śarṅgiṇaś</l>
+                        <l n="d">śārṅg-ādy-āyudha-śobhina<lb n="1r4=4" break="no"/>ś śriyam alaM pūṣṇantu vo bāhavaḥ <g type="ddanda">.</g></l>
                     </lg>
                     
                     <p>
+                        <lb n="1r5=5"/>...
+                        <lb n="1r6=6"/>...
+                        <lb n="1r7=7"/>...
+                        <lb n="1r8=8"/>...
+                        <lb n="1r9=9"/>...
+                        <lb n="1r10=10"/>...
+                        
                         <pb n="1v"/>                
-                        <lb n="1v1=11"/>                   
+                        <lb n="1v1=11"/>...                   
                         
                         <pb n="2r"/>                
-                        <lb n="2r1=21"/>
+                        <lb n="2r1=21"/>...
                         
                         <pb n="2v"/>                
-                        <lb n="2v1=32"/>
+                        <lb n="2v1=32"/>...
                         
                         <pb n="3r"/>                
-                        <lb n="3r1=43"/>
+                        <lb n="3r1=43"/>...
                         
                         <pb n="3v"/>                
-                        <lb n="3v1=55"/> 
+                        <lb n="3v1=55"/>... 
                         
                         <pb n="4r"/>                
                         <lb n="4r1=67"/>...
-                        <lb n="4r7=73"/>... <g type="ddanda"/>
+                        <lb n="4r2=68"/>...
+                        <lb n="4r3=69"/>...
+                        <lb n="4r4=70"/>...
+                        <lb n="4r5=71"/>...
                     </p>
+                    <lg n="34" met="upajāti">
+                        <l n="a">yatas sa rājā nija-pā
+                            <lb n="4r6=72" break="no"/>da-bhājāṃ</l>
+                        <l n="b">rājñām udāro bahudh-āśrayo ’bhūt·</l>
+                        <l n="c">Ataḥ pṛthivyām amita
+                            <lb n="4r7=73" break="no"/>-prabhāvaṃ rājāśrayan tan nigadanti santāḥ <g type="ddanda"/>
+                        </l>
+                    </lg>
                     <p>
                         so ’yam akhila-kalā-kalāpa
                         <lb n="4r7=74" break="no"/>pārāvāra-pāradṛśv āśeśa-nṛpa-cakra-cāru-cāmīkara-kirīṭa-koṭi-gha
@@ -143,16 +164,29 @@
                         <lb n="4v5=83" break="no"/>rīkṛta-kanaka-gir<choice><sic>ī</sic><corr>i</corr></choice>-samunnati-vibhavam atiramaṇīyañ cūḷā-maṇi-varmma-vihāram-adhiva
                         <lb n="4v6=84" break="no"/> sate buddhāya tasminn eva janapada-nivahe <seg rendition="class:tamil maturity:vernacular">paṭṭaṉa-k-kūṟṟa</seg>-nāmni janapa
                         <lb n="4v7=85" break="no"/>de kariṇī-parikramaṇa-vispaṣṭa-sīmā-catuṣṭayam aṉaimaṃgal-ābhi
-                        <lb n="4v8=86" break="no"/>dhānaṃ grāmam adāt· <g type="ddanda"/>
+                        <lb n="4v8=86" break="no"/>dhānaṃ grāmam adāt· <g type="ddanda">.</g>
                     </p>
-                    <p>     
-                        ...
-                        <lb n="4v9=86"/>...
-                        <lb n="4v10=87"/>...
-                        <lb n="4v11=88"/>...
-                        <lb n="4v12=89"/>... sa
-                        <lb n="4v13=90" break="no"/>hāvanau <g type="ddanda">.</g>
-                    </p>
+                    
+                    <lg n="35" met="anuṣṭubh">
+                        <l n="a">Itthan devena dattasya</l>
+                        <l n="b">sva-pitrā cakravarttinā</l>
+                        <l n="c">grāmasy-āsya ga⌈<lb n="4v9=87" break="no"/>te tasmin</l>
+                        <l n="d">devabhūyam mahaujasi <g type="ddanda">.</g></l>
+                    </lg>
+                    
+                    <lg n="36" met="anuṣṭubh">
+                        <l n="a">tat-siṃhāsanam ārūḍhas</l>
+                        <l n="b">tat-putro madhurāntakaḥ</l>
+                        <l n="c"><lb n="4v10=88"/>śāsanaṃ śāsvatan· dhīmān</l>
+                        <l n="d">kārayitvādiśa<supplied reason="omitted">n</supplied> nṛpaḥ <g type="ddanda">.</g></l>
+                    </lg>
+                    
+                    <lg n="37" met="anuṣṭubh">
+                        <l n="a">śeṣo śeṣam mahīṃ yāva<lb n="4v11=89" break="no"/>d</l>
+                        <l n="b">dhatte śeṣorageśvaraḥ</l>
+                        <l n="c">stheyāt tāvan vihāro</l>
+                        <l n="d">yaM vibhavena sa<lb n="4v12=90" break="no"/>h-āvanau <g type="ddanda">.</g></l>
+                    </lg>
                     
                     <lg n="38" met="upajāti">
                         <l n="a">so ’yam kaṭāh-ādhipati<supplied reason="omitted">r</supplied> gguṇānān</l>
@@ -180,7 +214,7 @@
                         <l n="c">Aṇukka Iti vikhyataś</l>
                         <l n="d">śrīman atikaḷ ātmajāḥ <g type="gomutraFinal">.</g></l>
                     </lg>
-                    <lg n="43" met="anuṣṭubh">
+                    <lg n="44" met="anuṣṭubh">
                         <l n="a"><pb n="5v"/><lb n="5v2=101"/>vinīto guṇa-saMpannas</l>
                         <l n="b">svāmi-kāryya-hite rataḥ</l>
                         <l n="c">śāsanaṃ śāśvatam idam</l>
@@ -241,6 +275,7 @@
                     <listApp>
                         <app loc="1">
                             <lem>°va<unclear>r</unclear>mmanaḥ</lem>
+                            <rdg source="bib:Burgess+NatesaSastri1886_01">°varmmanaḥ</rdg>
                             <rdg source="bib:SubrahmanyaAiyer1933-1934_01">°varmanaḥ</rdg>
                         </app>
                     </listApp>
