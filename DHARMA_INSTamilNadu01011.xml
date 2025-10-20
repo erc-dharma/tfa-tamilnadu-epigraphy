@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Leiden plates, smaller set</title>
+                <title>Smaller Leiden plates, time of Rājakesarivarman Kulottuṅga Cōḻa, year 20</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -239,7 +239,7 @@
                     
                 </div>
                 
-                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Seal</head>
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates</head>
                     
                     <listApp>
                         
@@ -268,13 +268,31 @@
                 
             </div>
             
-            <!--<div type="translation" resp="part:emfr">
+            <div type="translation" resp="part:emfr">
                 
-                <p n="1">
-                ...
-                </p>
+                <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Seal</head>
+                    
+                    <p n="1" rend="stanza">
+                        <l><supplied reason="subaudible">This is</supplied> a meritorious order by the glorious Kulottuṅga Cōḻa Rājakesarivarman, <supplied reason="subaudible">which is borne on</supplied> the crest-jewels of the assembly of the kings.<note>This translation, which parallels that of other legends on Cōḻa seals, is based on assuming that <foreign>ratnāya</foreign> ('for the jewel') stands for <foreign>ratneṣu</foreign> ('on the jewels'). However, <ptr target="bib:SubrahmanyaAiyer1933-1934_02"/> notes: <quote>It seems to me, however, that
+the compound must have specific reference to the <foreign>saṅgha</foreign> of the Buddhist church (<foreign>paḷḷi</foreign>) erected
+at Nāgapaṭṭaṉam by king Cūḍāmaṇivarman of Kaṭāha. <foreign>Sabhā</foreign> in the legend is no doubt a
+synonym of <foreign>saṅgha</foreign>: and the term <foreign>ratna</foreign>, which is often applied to the Buddha, Dharma and
+Saṅgha, the sole resorts of the Buddhists, is highly suggestive of and favourable to connecting
+<foreign>sabhā</foreign> with the Buddhist shrine and creed. There is yet another suggestion contained in the
+terms used in the same compound: <foreign>cūḍāratna</foreign> may be taken to stand for <foreign>cūḍāmāṇi</foreign>, perhaps a
+contracted form of <foreign>cūḍāmaṇivarma-vihāra</foreign>, which was the name of the Buddhist monument called
+after its royal founder Cūḍāmaṇivarman: but the intervening position of the word <foreign>sabhā</foreign> between
+<foreign>ksoṇīśvara</foreign> and <foreign>cūḍaratna</foreign> makes the interpretation difficult. Had the word <foreign>sabhā</foreign> with the appropriate termination been used at the end of the compound, it would have been quite easy
+to interpret the word into "to the <foreign>saṅgha</foreign> of (the <foreign>vihāra</foreign> erected by) king Cūḍāmaṇivarman"
+which, it seems, was intended to be conveyed by the legend.</quote></note></l>
+                    </p>
+                    
+                </div>
                 
-                </div>-->
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates</head>
+                    
+                </div>
+            </div>
             
             <!--<div type="commentary">
                 

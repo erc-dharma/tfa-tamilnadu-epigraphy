@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Leiden plates, larger set</title>
+                <title>Larger Leiden plates, time of Rajakesarivarman Rājarāja / Kōneriṉmaikoṇṭāṉ, year 21</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -145,15 +145,53 @@
                         <lb n="4v7=85" break="no"/>de kariṇī-parikramaṇa-vispaṣṭa-sīmā-catuṣṭayam aṉaimaṃgal-ābhi
                         <lb n="4v8=86" break="no"/>dhānaṃ grāmam adāt· <g type="ddanda"/>
                     </p>
-                    <p>                        
+                    <p>     
                         ...
-                        <pb n="5r"/>                
-                        <lb n="5r1=91"/>
-                        
-                        <pb n="5v"/>                
-                        <lb n="5v1=100"/> 
-                        
+                        <lb n="4v9=86"/>...
+                        <lb n="4v10=87"/>...
+                        <lb n="4v11=88"/>...
+                        <lb n="4v12=89"/>... sa
+                        <lb n="4v13=90" break="no"/>hāvanau <g type="ddanda">.</g>
                     </p>
+                    
+                    <lg n="38" met="upajāti">
+                        <l n="a">so ’yam kaṭāh-ādhipati<supplied reason="omitted">r</supplied> gguṇānān</l>
+                        <l n="b">nivāsa-bhūmi<unclear>r</unclear> mmahita-pra
+                            <pb n="5r" break="no"/>                
+                            <lb n="5r1=91" break="no"/>bhāvaḥ</l>
+                        <l n="c">Āgāminaḥ prārtthayate narendrān</l>
+                        <l n="d">dharmmaṃ sad emam mama rakṣat-eti <g type="ddanda">.</g></l>
+                    </lg>
+                    
+                    <p>
+                        <lb n="5r2=92"/>...
+                        <lb n="5r3=93"/>...
+                        <lb n="5r4=94"/>...
+                        <lb n="5r5=95"/>...
+                        <lb n="5r6=96"/>...
+                        <lb n="5r7=97"/>...
+                        <lb n="5r8=98"/>...
+                        <lb n="5r9=99"/>...
+                    </p>
+                    
+                    <lg n="43" met="anuṣṭubh">
+                        <l n="a"><pb n="5v"/><lb n="5v1=100"/>kaṭāh-ādhipates tasya</l>
+                        <l n="b">niyogāt tuvavūravan·</l>
+                        <l n="c">Aṇukka Iti vikhyataś</l>
+                        <l n="d">śrīman atikaḷ ātmajāḥ <g type="gomutraFinal">.</g></l>
+                    </lg>
+                    <lg n="43" met="anuṣṭubh">
+                        <l n="a"><pb n="5v"/><lb n="5v2=101"/>vinīto guṇa-saMpannas</l>
+                        <l n="b">svāmi-kāryya-hite rataḥ</l>
+                        <l n="c">śāsanaṃ śāśvatam idam</l>
+                        <l n="d">acīkarad udāra-dhīḥ <g type="gomutraFinal">.</g></l>
+                    </lg>
+                    
+                    <p>
+                        <lb n="5v3=102"/>...
+                        <lb n="5v12=111"/>...
+                    </p>
+                    
                 </div>
                 
                 <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion</head>
