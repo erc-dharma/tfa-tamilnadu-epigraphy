@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Nallūr, Vilvāraṇyeśvara, Kullotuṅga Cōḻa king, year 22</title>
                 <respStmt>
-                    <resp>Intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
@@ -19,18 +19,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>				
+                </respStmt>		
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -103,8 +92,8 @@
                 </ab>
                 
                 <p>
-                    tiru<hi rend="grantha">bhu</hi>vaṉa-c-<unclear>cakk</unclear>ara-va<supplied reason="omitted">r</supplied>tt<unclear>i</unclear>ka
-                    <lb n="2" break="no"/>ḷ śrī-kulōttuṅka-<unclear>c</unclear>ōḻa-tēvaṟku yā<unclear>ṇ</unclear>
+                    tiru<hi rend="grantha">bhu</hi>vaṉa-c-ca<unclear>k</unclear>kara-va<supplied reason="omitted">r</supplied>tt<unclear>i</unclear>ka
+                    <lb n="2" break="no"/>ḷ <hi rend="grantha">śrī</hi>-kulōttuṅka-<unclear>c</unclear>ōḻa-tēvaṟku yā<unclear>ṇ</unclear>
                     <lb n="3" break="no"/>ṭu <num value="22">2 <g type="numeral">10</g> 2</num> Āvatu Uṭaiy<unclear>ār</unclear> nalla nāyanār kō
                     <lb n="4" break="no"/><supplied reason="lost">yil</supplied><gap reason="lost" quantity="1" unit="line"></gap>
                     <lb n="5" break="no"/>ṉ pati<supplied reason="lost">ṉ</supplied>eṇ-pū<unclear>mi</unclear> naṅkai In<surplus>ā</surplus>-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ar kōyil <unclear>tiru</unclear>
@@ -117,7 +106,7 @@
                     <lb n="8"/>Iraṇṭā<supplied reason="lost">m</supplied> <unclear rend="check">p</unclear><supplied reason="lost">āṭṭu pā</supplied>ṭavōr-k kaṭavaḷ āka Ippaṭikku In-<supplied reason="lost">nā</supplied>
                     <lb n="9" break="no"/>yaṉār c<choice><sic>i</sic><corr>ī</corr></choice>-pa<supplied reason="lost">ṇṭāra</supplied>tt’ oṭukkiṉa veṭṭu māṟi po<unclear>ṉ</unclear> mu-<unclear>k- ka</unclear><add place="right">ḻañ</add>
                     <lb n="10" break="no"/><add place="left">cum</add> c<choice><sic>i</sic><corr>ī</corr></choice>-paṇṭ<unclear>ārat</unclear>t’ aṭukka * * * * *  Āti-caṇṭēcura-tē<unclear>va</unclear>
-                    <lb n="11"/>t<choice><unclear>i</unclear><unclear>a</unclear></choice>ru<unclear>varu</unclear> <gap reason="lost" unit="character" quantity="2"></gap>ḷ <gap reason="lost" unit="character" quantity="2"></gap> <choice><unclear>Aṭu</unclear><unclear>varu</unclear></choice>kku kā <gap reason="lost" unit="character" quantity="2"></gap> yā <gap reason="lost" unit="character" quantity="1"></gap> <unclear>ku</unclear>ṭuttōm I<choice><orig>ṉ</orig><reg>n</reg></choice>-nāyanā
+                    <lb n="11"/>t<unclear>i</unclear>ruvaru <gap reason="lost" unit="character" quantity="2"></gap>ḷ <gap reason="lost" unit="character" quantity="2"></gap> <choice><unclear>Aṭu</unclear><unclear>varu</unclear></choice>kku kā <gap reason="lost" unit="character" quantity="2"></gap> yā <gap reason="lost" unit="character" quantity="1"></gap> <unclear>ku</unclear>ṭuttōm I<choice><orig>ṉ</orig><reg>n</reg></choice>-nāyanā
                     <lb n="12" break="no"/>r kōyil tāṉattōm
                 </p>
                 <p>
@@ -152,7 +141,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/161).</p>
-                <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
+                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy and photos (E. Francis, 2024), ASI estampage kindly supplied by the Director of Epigraphy in Mysore.</p>
                 
                 <!--<listBibl type="primary">
                     

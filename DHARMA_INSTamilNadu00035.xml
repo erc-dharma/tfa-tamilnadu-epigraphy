@@ -10,18 +10,7 @@
             <titleStmt>
                 <title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa, year 20</title>
                 <respStmt>
-                    <resp>Intellectual authorship of edition</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
@@ -102,7 +91,7 @@
                 </ab>
                 
                 <p>
-                    t<supplied reason="lost">i</supplied>r<supplied reason="lost">i</supplied>-puva<unclear>ṉa -c</unclear>-ca<supplied reason="lost">kkara</supplied>
+                    t<supplied reason="lost">i</supplied>r<supplied reason="lost">i</supplied>-puva<unclear>ṉa-c</unclear>-ca<supplied reason="lost">kkara</supplied>
                     <lb n="2"/><supplied reason="lost">va</supplied>rtt<unclear>i</unclear>kaḷ <supplied reason="lost">śrī</supplied>-<unclear>kulō</unclear><supplied reason="lost">ttuṅ</supplied>
                     <lb n="3" break="no"/><unclear>ka</unclear>-<supplied reason="lost">cō</supplied><unclear>ḻa</unclear>-tēva<supplied reason="lost">ṟku</supplied> <supplied reason="lost">yā</supplied>
                     <lb n="4" break="no"/><supplied reason="lost">ṇṭu</supplied> …
@@ -166,8 +155,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/149).</p>
-                <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>
-                <p>ASI transcript and estampage, if any, yet to be consulted.</p>
+                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy and photos (E. Francis, 2024), ASI estampage kindly supplied by the Director of Epigraphy in Mysore.</p>
                 
                 <!--<listBibl type="primary">
                     
