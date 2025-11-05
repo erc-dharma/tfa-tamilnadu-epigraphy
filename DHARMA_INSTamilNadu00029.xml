@@ -93,19 +93,19 @@
                 <p>
                     tiru-pu<unclear>va</unclear>ṉa-cak
                     <lb n="2" break="no"/>kkara-v<choice><sic>ā</sic><corr>a</corr></choice>tt<unclear>i</unclear>kaḷ <hi rend="grantha">śrī</hi>-kulōttu
-                    <lb n="3" break="no"/>ṅka-cōḻa-tēvarkku yāṇ<unclear>ṭu</unclear> <unclear>9</unclear>
+                    <lb n="3" break="no"/>ṅka-cōḻa-tēvarkku yāṇṭu <unclear>9</unclear>
                     <lb n="4" break="no"/>Āva<supplied reason="omitted">tu</supplied>
                 </p>
                 <p>
                     Uṭaiyār nalla-nāy<unclear>ya</unclear>
                     <lb n="5" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ār tēvaraṭiyāri<unclear>l</unclear> Aṟam-uṭaiyā
-                    <lb n="6" break="no"/>ḷ makaḷ nācc<supplied reason="lost">i</supplied>y<unclear>y-āṉa</unclear> nāṟpatt-e
-                    <lb n="7" break="no"/>ṇṇ-āyira-naṅkai<supplied reason="lost">k</supplied>ku kovikkum tiru-v
-                    <lb n="8" break="no"/>-Uṭaiya<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukkum tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>ikki naḷḷuku
-                    <lb n="9" break="no"/>m Iṉṉāvaṟkkum I<supplied reason="lost">n</supplied>-nāyanār kōyilil
-                    <lb n="10"/>tiruv<choice><sic>a</sic><corr>e</corr></choice><supplied reason="omitted">m</supplied>p<choice><orig>a</orig><reg>ā</reg></choice>vai m<supplied reason="lost">u</supplied>tal <supplied reason="lost">pā</supplied>ṭṭum tiru-vēṭṭai
-                    <lb n="11"/>muṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ēṟṟamum tirut<supplied reason="omitted">t</supplied>ēr mu<choice><orig>n</orig><reg>ṉṉ</reg></choice>ēṟavum I<unclear>vai</unclear>
-                    <lb n="12"/><choice><sic>A</sic><corr>Ā</corr></choice>ṇṭu māṟi cempāti ce<supplied reason="omitted">y</supplied>yāṭavarkaḷak
+                    <lb n="6" break="no"/>ḷ makaḷ nācc<supplied reason="lost">i</supplied>yy-āṉa nāṟpatt-e
+                    <lb n="7" break="no"/>ṇṇ-āyira-naṅkaiku kovikkum tiru-v
+                    <lb n="8" break="no"/>-Uṭaiya<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukkum <unclear>tiru</unclear>-mē<choice><orig>n</orig><reg>ṉ</reg></choice>ikki naḷḷukku
+                    <lb n="9" break="no"/>m Iṉṉāvaṟkkum In-nāyanār kōyilil
+                    <lb n="10"/>tiruv<choice><sic>a</sic><corr>e</corr></choice><supplied reason="omitted">m</supplied>p<choice><orig>a</orig><reg>ā</reg></choice>vai mutal <unclear>p</unclear>āṭṭum tiru-vēṭṭai
+                    <lb n="11"/>muṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ēṟṟamum tiru-t-<supplied reason="omitted">t</supplied>ēr mu<choice><orig>n</orig><reg>ṉ</reg></choice>ēṟavum I<unclear>vai</unclear>
+                    <lb n="12"/><choice><sic>A</sic><corr>Ā</corr></choice>ṇṭu māṟi cempāti ce<supplied reason="omitted">y</supplied>yāṭavarkaḷ <surplus>k</surplus>
                     <lb n="13"/>poṉ kaḻ<choice><sic>ai</sic><corr>a</corr></choice>ñc’ araiyum c<choice><sic>i</sic><corr>ī</corr></choice>-paṇṭ<choice><sic>a</sic><corr>ā</corr></choice>rattu
                     <lb n="14"/>Oṭukku-k koṇṭu taṇṭēcura-vilai y
                     <lb n="15" break="no"/>-<supplied reason="lost">ā</supplied>ka Ivarkaḷukku <supplied reason="omitted">ku</supplied>ṭuttōm Ik-kōyi<choice><sic>lali</sic><corr>lil</corr></choice> t
@@ -120,13 +120,12 @@
                     <app loc="0">
                         <lem></lem>
                         <note></note>
-                    </app>    
+                    </app>   
                     
-                    <app loc="10">
+                   <app loc="10">
                         <lem>...</lem>
-                        <note>This line is presently almost entirely lost. Reading after ASI transcript.</note>
-                    </app>  
-                    
+                        <note>This line is presently almost entirely lost and is preserved on the ASI estampage.</note>
+                    </app> 
                 </listApp>
             </div>
             
@@ -137,11 +136,18 @@
                 </p>
                 
                 <p n="1-4">
-                    <unclear>9</unclear>th year of ...
+                    <unclear>9</unclear>th year of the glorious king Kulottuṅga Cōḻa, the emperor of the three worlds.
                 </p>
                 
                 <p n="4-16">
+                    Among the <foreign>tēvaraṭiyār</foreign>s<note>Literally: slaves of god.</note> of the Lord Nallanāyaṉār
                     ...
+                    <supplied reason="subaudible">singing</supplied> the first decade of the Tiruvempāvai <supplied reason="explanation"><foreign>tiruvapavai</foreign>, that is, <foreign>tiruvempāvai</foreign></supplied>,
+                    proceeding ahead during the hunt festival,
+                    climbing the glorious car
+                    ...
+                    having got i, payment half a <foreign>kaḻañcu</foreign> of gold in the glorious treasure as the price <supplied reason="subaudible">fixed</supplied> by Taṇṭēcurar<note>, Sanskrit Caṇḍeśvara</note>
+                    we have given <supplied reason="subaudible">these prerogatives</supplied> to these, we, the <foreign>tāṉattār</foreign>s<note>Temple officers.</note> in this temple.
                 </p>
                 
             </div>
@@ -153,7 +159,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/143).</p>
-                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy and photos (E. Francis, 2024), ASI transcript, and online documentation (<ref target="https://maps.app.goo.gl/DePA4mJtfzgRM8qH6">photo</ref> by Aragalur Pon. Venkatesan, accessed 2025-11-05).</p>
+                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy and photos (E. Francis, 2024), ASI estampage kindly supplied by the Director of Epigraphy in Mysore, and online documentation (<ref target="https://maps.app.goo.gl/DePA4mJtfzgRM8qH6">photo</ref> by Aragalur Pon. Venkatesan, accessed 2025-11-05).</p>
                 
                 <!--<listBibl type="primary">
                     
