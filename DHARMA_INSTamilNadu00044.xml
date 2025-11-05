@@ -87,35 +87,13 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">śubham astu</hi>
-                </p>
-                <p>
-                    <hi rend="grantha"><unclear>śrī</unclear></hi>
+                    <lb n="1"/><hi rend="grantha">śubham as<unclear>tu</unclear></hi>
+                    <hi rend="grantha">śr<unclear>ī</unclear></hi>
                 </p>
                 
                 <p>        
-                    <lb n="2"/>I<hi rend="grantha">soma</hi>-vāramum I<gap unit="character" reason="lost" quantity="1"></gap>
-                    <lb n="3"/><unclear>U</unclear> <gap unit="character" reason="lost" quantity="1"></gap> <choice><unclear>ca</unclear><unclear>ka</unclear></choice> <unclear>pūr</unclear>va<gap unit="character" reason="lost" quantity="1"></gap><choice><unclear>ca</unclear><unclear>ka</unclear></choice>ka
-                    <lb n="4" break="no"/>ka <gap unit="character" reason="lost" quantity="1"></gap> nampi nal<unclear>la</unclear>
-                    <lb n="5" break="no"/><unclear>ki</unclear> <gap unit="character" reason="lost" quantity="2"></gap> <unclear>naka</unclear>re<gap unit="character" reason="lost" quantity="2"></gap> ka<choice><unclear>ca</unclear><unclear>ka</unclear></choice>
-                    <lb n="6"/> <gap reason="lost" quantity="1" unit="line"></gap>
-                    <lb n="7"/> <unclear>na</unclear>pa <gap reason="lost" extent="unknown"></gap>
-                    <lb n="8"/><gap unit="character" reason="lost" quantity="1"></gap> la<unclear>kku</unclear> <choice><unclear>U</unclear><unclear>va</unclear></choice> <gap unit="character" reason="lost" quantity="2"></gap>ṭṭara
-                    <lb n="9" break="no"/>ki <unclear>naka</unclear><choice><unclear>ka</unclear><unclear>ta</unclear></choice> <gap unit="character" reason="lost" quantity="1"></gap> <unclear>ṉa</unclear> ma<choice><unclear>ka</unclear><unclear>ra</unclear></choice>
-                    <lb n="10"/><choice><unclear>ṉe</unclear><unclear>ṉai</unclear></choice> cevap <gap unit="character" reason="lost" quantity="2"></gap> ṉa cevap <gap unit="character" reason="lost" quantity="2"></gap>ṉa ceva
-                    <lb n="11" break="no"/><gap unit="character" reason="lost" quantity="1"></gap>ka <gap unit="character" reason="lost" quantity="1"></gap> <choice><unclear>mai</unclear><unclear>vem</unclear></choice> <gap unit="character" reason="lost" quantity="2"></gap> <unclear>maṭai</unclear> <gap unit="character" reason="lost" quantity="1"></gap>
-                    <lb n="12"/><gap unit="character" reason="lost" quantity="4"></gap> <choice><unclear>va</unclear><unclear>vu</unclear></choice> <gap unit="character" reason="lost" quantity="1"></gap> <unclear>i</unclear>ye<unclear>n</unclear> <gap unit="character" reason="lost" quantity="1"></gap>
-                    <lb n="13"/><gap reason="lost" unit="line" quantity="1"></gap>
-                    <lb n="14"/><choice><unclear>mer</unclear><unclear>mo</unclear></choice><gap unit="character" reason="lost" quantity="1"></gap> kaṭamai <gap unit="character" reason="lost" quantity="1"></gap>
-                    <lb n="15"/>tu ta <gap unit="character" reason="lost" quantity="1"></gap> ṇi Āka-<unclear>t</unclear>
-                    <lb n="16"/><unclear>tu</unclear>na <gap unit="character" reason="lost" quantity="2"></gap> kitakiṭapa<unclear>va</unclear>
-                    <lb n="17"/>ṇir <unclear>ya</unclear> <gap unit="character" reason="lost" quantity="1"></gap> <unclear>ma</unclear>naṭakki cu <gap unit="character" reason="lost" quantity="1"></gap>
-                    <lb n="18"/><gap unit="character" reason="lost" quantity="1"></gap> <unclear>ra</unclear>ma <gap unit="character" reason="lost" quantity="1"></gap>va  cuvai <gap unit="character" reason="lost" quantity="1"></gap>e
-                    <lb n="19"/><gap unit="character" reason="lost" quantity="4"></gap> kame<choice><unclear>v</unclear><unclear>c</unclear></choice>e <gap unit="character" reason="lost" quantity="1"></gap> e
-                    <lb n="20"/><gap reason="lost" quantity="1" unit="line"></gap>
-                    <lb n="21" break="no"/>ḻa m peṟuṇc<choice><unclear>a</unclear><unclear>u</unclear></choice><unclear>ka</unclear><gap reason="lost" quantity="1" unit="line"></gap>
-                    <lb n="22"/><gap reason="lost" quantity="1" unit="line"></gap>ṇṇa canti ṉātit
-                    
+                    cakāttam <num value="1415"><g type="numeral">1000</g> 4 <supplied reason="omitted"><g type="numeral">100</g></supplied> <g type="numeral">10</g> 5</num> ṉ mēl ce<unclear>llā niṉṟa</unclear> Āṉanta-<hi rend="grantha">sa<unclear>ṃ</unclear>vaTsa</hi>rattu kumpa-nāyaṟṟu Amara-<hi rend="grantha">pakṣa</hi>ttu <hi rend="grantha"><unclear>ca</unclear></hi><unclear>tu</unclear> <gap reason="lost" quantity="10" unit="character"/>
+                    <lb n="2"/>cōma-vāramum peṟṟa puṇar-pūcattu nāḷ ...
                 </p>
                 
                 
