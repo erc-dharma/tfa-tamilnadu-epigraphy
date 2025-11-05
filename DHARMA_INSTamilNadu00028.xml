@@ -91,11 +91,15 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <ab>
-                    <lb n="1"/>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> 
                 </ab>
                 
                 <p>
-                    
+                    It-turk⌈
+                    <lb n="2" break="no"/>kaiyāṟai Eḻunt-aruḷavi
+                    <lb n="3" break="no"/>ttān vaikā-v-uṭaiy
+                    <lb n="4" break="no"/>ān ce<choice><orig>nn</orig><reg>ṉṉ</reg></choice>i nalla nāka⌈
+                    <lb n="5" break="no"/>vēḷāṉ                    
                 </p>
                 
             </div>
@@ -111,13 +115,17 @@
                 </listApp>
                 </div>-->
             
-            <!--<div type="translation" resp="part:reda part:emfr">
+            <div type="translation" resp="part:reda part:emfr">
                 
                 <p n="1"> 		
-                
+                    Prosperity! Fortune!
                 </p>
                 
-                </div>-->
+                <p n="1-5">
+                    He who had this Turkkaiyār<note>Sanskrit Durgā.</note> installed is Vaikāvuṭaiyāṉ Ceṉṉi Nalla Nākavēḷāṉ
+                </p>
+                
+            </div>
             
             <div type="commentary">
                 <p>The middle of the inscription was covered by a later construction in 2024.</p>
@@ -126,8 +134,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/142).</p>
-                <p>This edition by Renato Dávalos, Emmanuel Francis, and Margherita Trento, based on autopsy, photos (E. Francis, 2024), and ASI transcript.</p>
-                <p>ASI transcript consulted in Mysore by Renato Dávalos (September 2025) with the kind permission of the Director of Epigraphy.</p>
+                <p>This edition by Renato Dávalos, Emmanuel Francis, and Margherita Trento, based on autopsy (2024), photos (E. Francis, 2024), and ASI transcript. ASI transcript consulted in Mysore by Renato Dávalos (September 2025) with the kind permission of the Director of Epigraphy.</p>
                 
                 <!--<listBibl type="primary">
                     
