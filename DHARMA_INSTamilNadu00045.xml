@@ -8,9 +8,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, no king, no year</title>
+                <title>Nallūr, Vilvāraṇyeśvara, time of Rājarāja Poṉparappiṉāṉ, no year</title>
                 <respStmt>
-                    <resp>Intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
@@ -19,18 +19,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>				
+                </respStmt>	
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -55,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>States that this maṇḍapa is <supplied reason="subaudible">the gift of</supplied> Rājarājadevaṉ alias Poṉparappināṉ and that it was constructed by Cuntaṉ-Paṭṭaṉ alias Tillaināyaka-Vēḷāṉ of Āṟṟūr.</summary>
+                        <summary>Stone inscription recording the foundation of a <foreign>maṇḍapa</foreign><note>A pillared hall</note> named after Poṉparappināṉ alias Rājarāja and constructed by Cuntarapaṭṭaṉ alias Tillai Nāyaka Vēḷāṉ of Āṟṟūr.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -102,44 +91,50 @@
                 </ab>
                 
                 <p>
-                    Inta nitta
-                    <lb n="2" break="no"/>maṇṭapañ ceyvi
-                    <lb n="3" break="no"/>t<unclear>t</unclear>āṉ Āṟṟuṭai
-                    <lb n="4"/><unclear>y</unclear>āṉ <choice><unclear>cu</unclear><unclear>ta</unclear></choice>nta<choice><orig>n</orig><reg>ṉ</reg></choice> paṭṭa     
-                    <lb n="5" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa tillai nāyaka
-                    <lb n="6" break="no"/>-vēḻāṉ
-                    
-                    
+                    It-tiru-maṇṭapam I<expan><abbr>rā</abbr><ex>ja</ex><abbr>rā</abbr><ex>ja</ex></expan>-tēvaṉ-āṉa
+                    <lb n="2"/>poṉparapp<choice><sic>a</sic><corr>i</corr></choice>ṉāṉ
                 </p>
-                
-                
+                <p>
+                    Itu ceytā<unclear>ṉ</unclear> Āṟ
+                    <lb n="3" break="no"/>ṟūr-u<choice><sic>p</sic><corr>ṭ</corr></choice>aiyāṉ cunta<supplied reason="omitted">ra</supplied>-paṭṭaṉ-āṉa tillai-nāyaka-vēḷāṉ
+                </p>
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 <listApp>
-                
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:..."/>
-                <note>...</note>
-                </app>      
-                
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <note></note>
+                    </app>      
+                    
                 </listApp>
-                </div>-->
+            </div>
             
-            <!--<div type="translation" resp="part:reda part:emfr">
+            <div type="translation" resp="part:reda part:emfr">
                 
-                </div>-->
+                <p n="1"> 		
+                    Prosperity! Fortune!
+                </p>
+                
+                <p n="1-2">
+                    This glorious <foreign>maṇḍapa</foreign><note>A pillared hall</note> <supplied reason="subaudible">is named after</supplied> Poṉparappiṉāṉ <hi rend="italic">alias</hi> the king Rājarāja.
+                </p>
+                <p n="2-3">
+                    He who made this is Tillai Nāyaka Vēḷāṉ <hi rend="italic">alias</hi> Cuntarapaṭṭaṉ, lord of Āṟṟūr.
+                </p>
+                
+            </div>
             
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p>It is not clear if the <foreign>maṇḍapa</foreign> is a gift by Poṉparappiṉāṉ who had it constructed by Cuntarapaṭṭaṉ (see <ptr target="bib:ARIE1939-1943"/>) or if it is a gift by Cuntarapaṭṭaṉ who had it named after Poṉparappiṉāṉ.</p>
+                </div>
             
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/159).</p>
-                <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
+                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy (2024), photos (E. Francis, 2024), ASI estampage and transcript kindly supplied by the Director of Epigraphy in Mysore (2025).</p>	
                 
                 <!--<listBibl type="primary">
                     
