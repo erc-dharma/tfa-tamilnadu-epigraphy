@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa, year <unclear>9</unclear></title>
                 <respStmt>
-                    <resp>Intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
@@ -20,17 +20,6 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>				
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -98,43 +87,48 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <ab>
-                    <lb n="1"/><hi rend="grantha"><unclear>svasti śrī</unclear></hi>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
                 <p>
-                    <unclear>tiru-puvaṉa-ca</unclear>
-                    <lb n="2" break="no"/><unclear>k</unclear>karav<choice><sic><unclear>ā</unclear></sic><corr>a</corr></choice>t<unclear>i</unclear>kaḷ <hi rend="grantha">śrī</hi>-kulō<unclear>ttu</unclear>
+                    tiru-pu<unclear>va</unclear>ṉa-cak
+                    <lb n="2" break="no"/>kkara-v<choice><sic>ā</sic><corr>a</corr></choice>tt<unclear>i</unclear>kaḷ <hi rend="grantha">śrī</hi>-kulōttu
                     <lb n="3" break="no"/>ṅka-cōḻa-tēvarkku yāṇ<unclear>ṭu</unclear> <unclear>9</unclear>
                     <lb n="4" break="no"/>Āva<supplied reason="omitted">tu</supplied>
                 </p>
                 <p>
-                    Uṭaiyār nalla-nāya<choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice>a
-                    <lb n="5" break="no"/><choice><unclear>rkku</unclear><unclear>nār</unclear></choice> tēvaraṭiyār I <gap unit="character" quantity="1" reason="lost"></gap> <seg rend="check">vu ṟa m <supplied reason="lost">C</supplied></seg> ai <unclear cert="low">ya</unclear>
-                    <lb n="6" break="no"/><choice><unclear>ḷa</unclear><unclear>ḷ</unclear></choice> makaḷ nācc<supplied reason="lost">i</supplied>y<supplied reason="lost">ār</supplied> <gap unit="character" quantity="4" reason="lost"></gap><unclear>t</unclear> to
-                    <lb n="7"/><choice><unclear>ṉṉ</unclear><unclear>ḷḷ</unclear></choice>āyiran t<unclear>u</unclear> <unclear>t</unclear>ai <gap unit="character" quantity="2" reason="lost"></gap> k k<choice><unclear>a</unclear><unclear>o</unclear></choice>vikkum tiru<unclear>v</unclear><supplied reason="lost">ā</supplied>
-                    <lb n="8" break="no"/>ṭṭaiya<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukkum <gap unit="character" quantity="2" reason="lost"></gap> m n<choice><orig>i</orig><reg>ī</reg></choice>kki naḷḷuku
-                    <lb n="9" break="no"/>m Iṉṉāvaṟkkum <unclear>I</unclear><supplied reason="lost">n</supplied>-nāyanār kōyilil
-                    <lb n="10"/>tiruv<choice><sic>a</sic><corr>e</corr></choice><supplied reason="lost">m</supplied>p<choice><orig>a</orig><reg>ā</reg></choice>vai <unclear>mu</unclear>tal <supplied reason="lost">pāṭ</supplied>ṭu<unclear>m</unclear> t<unclear>iru</unclear>vēṭṭai
-                    <lb n="11"/><gap reason="lost" unit="line" quantity="1"></gap>
-                    <lb n="12"/><unclear>Ā</unclear>ṇṭu māṟi cempāti <seg rend="check">ce<supplied reason="omitted">y</supplied>yā <supplied reason="omitted">ka</supplied></seg>ṭavarkaḷ k<supplied reason="lost"><seg rend="check">ku</seg></supplied>
+                    Uṭaiyār nalla-nāy<unclear>ya</unclear>
+                    <lb n="5" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>ār tēvaraṭiyāri<unclear>l</unclear> Aṟam-uṭaiyā
+                    <lb n="6" break="no"/>ḷ makaḷ nācc<supplied reason="lost">i</supplied>y<unclear>y-āṉa</unclear> nāṟpatt-e
+                    <lb n="7" break="no"/>ṇṇ-āyira-naṅkai<supplied reason="lost">k</supplied>ku kovikkum tiru-v
+                    <lb n="8" break="no"/>-Uṭaiya<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukkum tiru-mē<choice><orig>n</orig><reg>ṉ</reg></choice>ikki naḷḷuku
+                    <lb n="9" break="no"/>m Iṉṉāvaṟkkum I<supplied reason="lost">n</supplied>-nāyanār kōyilil
+                    <lb n="10"/>tiruv<choice><sic>a</sic><corr>e</corr></choice><supplied reason="omitted">m</supplied>p<choice><orig>a</orig><reg>ā</reg></choice>vai m<supplied reason="lost">u</supplied>tal <supplied reason="lost">pā</supplied>ṭṭum tiru-vēṭṭai
+                    <lb n="11"/>muṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ēṟṟamum tirut<supplied reason="omitted">t</supplied>ēr mu<choice><orig>n</orig><reg>ṉṉ</reg></choice>ēṟavum I<unclear>vai</unclear>
+                    <lb n="12"/><choice><sic>A</sic><corr>Ā</corr></choice>ṇṭu māṟi cempāti ce<supplied reason="omitted">y</supplied>yāṭavarkaḷak
                     <lb n="13"/>poṉ kaḻ<choice><sic>ai</sic><corr>a</corr></choice>ñc’ araiyum c<choice><sic>i</sic><corr>ī</corr></choice>-paṇṭ<choice><sic>a</sic><corr>ā</corr></choice>rattu
                     <lb n="14"/>Oṭukku-k koṇṭu taṇṭēcura-vilai y
-                    <lb n="15" break="no"/>-<supplied reason="lost">ā</supplied>ka Ivarkaḷukku <supplied reason="omitted">ku</supplied>ṭuttōm Ik-kōyil t
+                    <lb n="15" break="no"/>-<supplied reason="lost">ā</supplied>ka Ivarkaḷukku <supplied reason="omitted">ku</supplied>ṭuttōm Ik-kōyi<choice><sic>lali</sic><corr>lil</corr></choice> t
                     <lb n="16" break="no"/>ā<choice><orig>n</orig><reg>ṉ</reg></choice>attōm
                 </p>
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 <listApp>
-                
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:...">...</rdg>
-                </app>    
-                
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <note></note>
+                    </app>    
+                    
+                    <app loc="10">
+                        <lem>...</lem>
+                        <note>This line is presently almost entirely lost. Reading after ASI transcript.</note>
+                    </app>  
+                    
                 </listApp>
-                </div>-->
+            </div>
             
             <div type="translation" resp="part:reda part:emfr">
                 
@@ -143,7 +137,7 @@
                 </p>
                 
                 <p n="1-4">
-                    ...
+                    <unclear>9</unclear>th year of ...
                 </p>
                 
                 <p n="4-16">
@@ -159,8 +153,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/143).</p>
-                <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>
-                <p>ASI transcript and estampage, if any, yet to be consulted.</p>
+                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy and photos (E. Francis, 2024), ASI transcript, and online documentation (<ref target="https://maps.app.goo.gl/DePA4mJtfzgRM8qH6">photo</ref> by Aragalur Pon. Venkatesan, accessed 2025-11-05).</p>
                 
                 <!--<listBibl type="primary">
                     
