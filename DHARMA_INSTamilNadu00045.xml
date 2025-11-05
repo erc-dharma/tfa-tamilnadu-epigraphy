@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Stone inscription recording the foundation of a <foreign>maṇḍapa</foreign><note>A pillared hall</note> named after Poṉparappināṉ alias Rājarāja and constructed by Cuntarapaṭṭaṉ alias Tillai Nāyaka Vēḷāṉ of Āṟṟūr.</summary>
+                        <summary>Stone inscription (wall) recording the foundation of a <foreign>maṇḍapa</foreign><note>A pillared hall.</note> named after Poṉparappināṉ alias Rājarāja and constructed by Cuntapaṭṭaṉ alias Tillai Nāyaka Vēḷāṉ, lord of Āṟṟūr.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -96,7 +96,7 @@
                 </p>
                 <p>
                     Itu ceytā<unclear>ṉ</unclear> Āṟ
-                    <lb n="3" break="no"/>ṟūr-u<choice><sic>p</sic><corr>ṭ</corr></choice>aiyāṉ cunta<supplied reason="omitted">ra</supplied>-paṭṭaṉ-āṉa tillai-nāyaka-vēḷāṉ
+                    <lb n="3" break="no"/>ṟūr-u<choice><sic>p</sic><corr>ṭ</corr></choice>aiyāṉ cunta-paṭṭaṉ-āṉa tillai-nāyaka-vēḷāṉ
                 </p>
                 
             </div>
@@ -119,16 +119,18 @@
                 </p>
                 
                 <p n="1-2">
-                    This glorious <foreign>maṇḍapa</foreign><note>A pillared hall</note> <supplied reason="subaudible">is named after</supplied> Poṉparappiṉāṉ <hi rend="italic">alias</hi> the king Rājarāja.
+                    This glorious <foreign>maṇḍapa</foreign> <supplied reason="subaudible">is named after</supplied> Poṉparappiṉāṉ <hi rend="italic">alias</hi> the king Rājarāja.
                 </p>
                 <p n="2-3">
-                    He who made this is Tillai Nāyaka Vēḷāṉ <hi rend="italic">alias</hi> Cuntarapaṭṭaṉ, lord of Āṟṟūr.
+                    He who made this is Tillai Nāyaka Vēḷāṉ <hi rend="italic">alias</hi> Cuntapaṭṭaṉ,<note>That is, Cuntarapaṭṭaṉ? But see Cuntaṉ Paṭṭaṉ in <ref target="DHARMA_INSTamilNadu00052"/>.</note> lord of Āṟṟūr.
                 </p>
                 
             </div>
             
             <div type="commentary">
-                <p>It is not clear if the <foreign>maṇḍapa</foreign> is a gift by Poṉparappiṉāṉ who had it constructed by Cuntarapaṭṭaṉ (see <ptr target="bib:ARIE1939-1943"/>) or if it is a gift by Cuntarapaṭṭaṉ who had it named after Poṉparappiṉāṉ.</p>
+                <p>Compare with <ref target="DHARMA_INSTamilNadu00052"/>, also mentioning Cuntaṉ Paṭṭaṉ. It is not clear if the <foreign>maṇḍapa</foreign> referred to in both inscriptions is the same one.</p>
+                <p>It is not clear if the <foreign>maṇḍapa</foreign> is a gift by Poṉparappiṉāṉ who had it constructed by Cuntapaṭṭaṉ (see <ptr target="bib:ARIE1939-1943"/>) or if it is a gift by Cuntapaṭṭaṉ (see  <ref target="DHARMA_INSTamilNadu00052"/>) who had it named after Poṉparappiṉāṉ.</p>
+                
                 </div>
             
             <div type="bibliography">
