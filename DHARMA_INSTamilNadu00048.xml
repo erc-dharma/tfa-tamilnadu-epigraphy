@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Nallūr, Vilvāraṇyeśvara, Vikrama-Pāṇḍya king, year 8</title>
                 <respStmt>
-                    <resp>Intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
@@ -20,17 +20,6 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>				
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>

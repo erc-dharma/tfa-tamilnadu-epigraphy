@@ -84,7 +84,7 @@
         <!--@Renato: Grantha to be added!!!-->
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <ab>
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
@@ -93,7 +93,7 @@
                 <p>
                     <supplied reason="lost"><hi rend="grantha">śubham a</hi></supplied><hi rend="grantha">stu</hi>
                 </p>
-                <p>        
+                <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">        
                     samasta-jagadādhāra <gap reason="lost" quantity="2" unit="character"></gap> k-kula-tilaka-madhurā-puri <gap reason="lost" quantity="3" unit="character"></gap> <unclear cert="low">keraḷa</unclear>-vaṃśa <gap reason="lost" quantity="1" unit="character"></gap> <unclear cert="low">ma ma mru</unclear>
                     <lb n="2" break="no"/>la n laṃkā <gap reason="lost" quantity="1" unit="character"></gap> pa lya ṇaṃ nad … ma yo ḷa ku <gap reason="lost" quantity="3" unit="character"></gap> śa la ku laṃ śa ka <gap reason="lost" quantity="3" unit="character"></gap> ja<unclear>pid</unclear> rāvaṇa … kala
                     <lb n="3"/>… da n virakaṇaṃ gop … <supplied reason="lost">c</supplied>u la dā <gap reason="lost" quantity="1" unit="character"></gap> da ha na kā <gap reason="lost" quantity="1" unit="character"></gap> pura parām … t-kula

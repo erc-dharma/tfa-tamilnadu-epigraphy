@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Nallūr, Vilvāraṇyeśvara, no king, no year</title>
                 <respStmt>
-                    <resp>Intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
@@ -19,18 +19,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>				
+                </respStmt>                			
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -107,7 +96,7 @@
                     <lb n="4"/><supplied reason="lost">U</supplied><unclear>ṭ</unclear>ai<unclear>y</unclear>ār na<supplied reason="lost">l</supplied>la nāyaṉār kōy<supplied reason="lost">il</supplied><gap reason="lost" extent="unknown"></gap>
                     <lb n="5"/><gap reason="lost" extent="unknown"></gap>ttu<gap reason="lost" extent="unknown"></gap>
                     <lb n="6"/>paḻam-paṭṭiṉattu <gap reason="lost" quantity="1" unit="character"></gap> c<supplied reason="lost">e</supplied>mpōti villa <supplied reason="lost">vatavaraiyar</supplied>
-                    <lb n="7"/><gap reason="lost" extent="unknown"></gap><supplied reason="lost">Māṇikkanāyaṉ Gangayarāyaṉ</supplied><gap reason="lost" extent="unknown"></gap>
+                    <lb n="7"/><gap reason="lost" extent="unknown"></gap><supplied reason="lost">māṇikkanāyaṉ gangayarāyaṉ</supplied><gap reason="lost" extent="unknown"></gap>
                     <lb n="8"/><gap reason="lost" unit="line" quantity="1"></gap>
                     <lb n="9" break="no"/>kku Oṉṟum ca<hi rend="grantha">ṃtr<supplied reason="lost">ādi</supplied>tya</hi>varaiyum Ā<gap reason="lost" unit="character" quantity="1"></gap> <supplied reason="lost">c</supplied>ā<hi rend="grantha">rāstra</hi>mum
                     <lb n="10"/>Erivat’ āk viṭṭa nila<supplied reason="lost">m</supplied> āvatu malāṭ-ākiya <hi rend="grantha">ja</hi>naṉāta

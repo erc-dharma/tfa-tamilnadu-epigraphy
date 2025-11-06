@@ -11,6 +11,10 @@
                 <title>Trichy, Cirāmalai Antāti</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
+                    <persName ref="part:inma">
+                        <forename>Indra</forename>
+                        <surname>Manuel</surname>
+                    </persName>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>

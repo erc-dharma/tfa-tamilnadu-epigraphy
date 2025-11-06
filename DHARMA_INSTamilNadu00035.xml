@@ -121,18 +121,11 @@
             <div type="apparatus">
                 <listApp>
                     
-                    <app loc="6">
-                        <lem><gap reason="lost" extent="unknown" unit="character"></gap></lem>
-                        <note>Following the summary in <ptr target="bib:ARIE1939-1943"/>, the name of the female singer should appear here: Uṭaiyanācci.</note>
+                    <app loc="0">
+                        <lem></lem>
+                        <note></note>
                     </app>      
-                    <app loc="8">
-                        <lem><gap reason="lost" extent="unknown" unit="character"></gap></lem>
-                        <note>Following the summary in <ptr target="bib:ARIE1939-1943"/>, the section of the text to be recited appears here: <foreign>kaṭai-k-kāppu</foreign>.</note>
-                    </app>
-                    <app loc="9">
-                        <lem><gap reason="lost" extent="unknown" unit="character"></gap></lem>
-                        <note>Following the summary in <ptr target="bib:ARIE1939-1943"/>, the other part of the name should appear here: <foreign>kulōttuṅka-cōla</foreign>.</note>
-                    </app>
+                    
                 </listApp>
             </div>
             
@@ -155,7 +148,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/149).</p>
-                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy and photos (E. Francis, 2024), ASI estampage kindly supplied by the Director of Epigraphy in Mysore.</p>
+                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy (2024), photos (E. Francis, 2024), ASI estampage kindly supplied by the Director of Epigraphy in Mysore.</p>
                 
                 <!--<listBibl type="primary">
                     

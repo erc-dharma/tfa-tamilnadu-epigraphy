@@ -8,9 +8,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa III, year 6th (in words)</title>
+                <title>Nallūr, Vilvāraṇyeśvara, time of Vīra Rājendra, year 6</title>
                 <respStmt>
-                    <resp>Intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
@@ -19,18 +19,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>				
+                </respStmt>                	
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -55,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Records the construction of a shrine for and consecration of the image of Kṣētrapāla in the temple of Nalla-Nāyaṉār at Nallūr by Āḍavalla-Nambi of Koṭumpuṉam, who is stated also to have endowed a quarter <foreign>vēli</foreign> of wet land for offerings and lamps to the deity.
+                        <summary>Vīra Rājendra = Kulottuṅga Cōḻa III. Records the construction of a shrine for and consecration of the image of Kṣētrapāla in the temple of Nalla-Nāyaṉār at Nallūr by Āḍavalla-Nambi of Koṭumpuṉam, who is stated also to have endowed a quarter <foreign>vēli</foreign> of wet land for offerings and lamps to the deity.
                         </summary>
                     </msContents>
                     <physDesc>
@@ -103,7 +92,7 @@
                 </ab>
                 
                 <p>
-                    vī<hi rend="grantha">ra- rāj<unclear>e</unclear>ndra-de</hi>vaṟku yāṇṭu Āṟ-āvatu
+                    vī<hi rend="grantha">ra-rāj<unclear>e</unclear>ndra-de</hi>vaṟku yāṇṭu Āṟ-āvatu
                 </p>
                 <p>
                     <lb n="2"/>Uṭaiyār nal=la-nāya<supplied reason="lost">ṉa</supplied>r kōyililē koṭumpuṉa <unclear>va</unclear> <hi rend="grantha"><unclear>je</unclear></hi> <gap reason="lost" unit="character" quantity="2"/>
@@ -120,6 +109,8 @@
                     <lb n="10" break="no"/>rom <gap reason="lost" unit="character" quantity="2"></gap>  ṇaiyar <hi rend="grantha">śrī</hi>-pātattē nīr vārttu kallu veṭ=ṭi <supplied reason="lost">kuṭu</supplied>
                     <lb n="11"/>ṭ=ṭōm <unclear>I</unclear>vv-aṉaivōm Itumāṟu vānta<choice><unclear>nu</unclear><unclear>ṅ</unclear></choice>kaḷ ammaikku <gap reason="lost" unit="character" quantity="2"></gap> 
                     <lb n="12"/>tā <supplied reason="lost">c</supplied>e <gap reason="lost" unit="character" quantity="1"></gap> ṇa vāḷan vallavaṉāyanacat=tiyam can=tirātit=ta<unclear>va</unclear><choice><unclear>ṟ</unclear><unclear>l</unclear></choice>
+                </p>
+                <p>                    
                     <lb n="13"/><supplied reason="lost">Itu paṉma</supplied><hi rend="grantha"><unclear>h</unclear></hi><supplied reason="lost"><hi rend="grantha">e</hi></supplied><hi rend="grantha"><unclear>śvara-rakṣai</unclear></hi> 
                 </p>
                 

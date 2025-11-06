@@ -114,22 +114,25 @@
                 <p>
                     Ippaṭikku
                     <lb n="14"/>nalla-nāyaṉār <hi rend="grantha">śrī</hi> <gap unit="character" quantity="1" reason="lost"></gap> tattē n<choice><sic>i</sic><corr>ī</corr></choice>r vārttu kuṭuttē
-                    <lb n="15"/><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice><gap unit="character" quantity="2" reason="lost"></gap> <unclear>ṟu</unclear> <unclear>pakka</unclear>m <gap unit="character" quantity="3" reason="lost"></gap> makatai<unclear>nā</unclear>ṭā<unclear>ḻ</unclear>vāṉ ṉav<choice><unclear>ar</unclear><unclear>ā</unclear></choice> ‡ <hi rend="grantha">ra-ra<unclear>kṣai</unclear></hi>
+                    <lb n="15"/><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice><gap unit="character" quantity="2" reason="lost"></gap> <unclear>ṟu</unclear> <unclear>pakka</unclear>m <gap unit="character" quantity="3" reason="lost"></gap> makatai<unclear>nā</unclear>ṭā<unclear>ḻ</unclear>vā
+                    <lb n="16" break="no"/>ṇa-k-kōvaraiyaṉ-ē<choice><orig>n</orig><reg>ṉ</reg></choice>
+                </p>
+                <p>
+                    Itu <hi rend="grantha">panmāheśvara-rakṣai</hi>
                 </p>
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 <listApp>
-                
-                <app loc="6">
-                <lem><gap reason="lost" extent="unknown" unit="character"></gap></lem>
-                <rdg source="bib:ARIE1939-1943"/>
-                <note>Following the summary in ARIE, the name of the female singer  should appear here: Uṭaiyanācci.</note>
-                </app>      
-                
+                    
+                    <app loc="16">
+                        <lem>...</lem>
+                        <note>The line 16 is presently (2024) lost coverer by cement, except for a few letters at its end, engraved on the right pilaster.</note>
+                    </app>      
+                    
                 </listApp>
-                </div>-->
+            </div>
             
             <div type="translation" resp="part:reda part:emfr">
                 
@@ -150,7 +153,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/151).</p>
-                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy and photos (E. Francis, 2024), ASI estampage kindly supplied by the Director of Epigraphy in Mysore.</p>
+                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy (2024), photos (E. Francis, 2024), ASI estampage kindly supplied by the Director of Epigraphy in Mysore.</p>
                 
                 <!--<listBibl type="primary">
                     

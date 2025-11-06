@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary>Sale of ritual and temple prerogatives.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -126,6 +126,12 @@
                         <lem>...</lem>
                         <note>This line is presently almost entirely lost and is preserved on the ASI estampage.</note>
                     </app> 
+                    
+                    <app loc="12">
+                        <lem><choice><sic>A</sic><corr>Ā</corr></choice>ṇṭu</lem>
+                        <note>Compare <foreign>Āṇṭu māṟi-c ce<unclear>m</unclear></foreign> in <ref target="DHARMA_INSTamilNadu00030.xml"/> (line 9).</note>
+                    </app>
+                    
                 </listApp>
             </div>
             
@@ -146,7 +152,7 @@
                     proceeding ahead during the hunt festival,
                     climbing the glorious car
                     ...
-                    having got i, payment half a <foreign>kaḻañcu</foreign> of gold in the glorious treasure as the price <supplied reason="subaudible">fixed</supplied> by Taṇṭēcurar<note>, Sanskrit Caṇḍeśvara</note>
+                    having got in payment half a <foreign>kaḻañcu</foreign> of gold in the glorious treasure as the price <supplied reason="subaudible">fixed</supplied> by Taṇṭēcurar,<note>Sanskrit Caṇḍeśvara</note>
                     we have given <supplied reason="subaudible">these prerogatives</supplied> to these, we, the <foreign>tāṉattār</foreign>s<note>Temple officers.</note> in this temple.
                 </p>
                 

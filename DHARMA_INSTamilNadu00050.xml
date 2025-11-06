@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Nallūr, Vilvāraṇyeśvara, no king, no year</title>
                 <respStmt>
-                    <resp>Intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
@@ -20,17 +20,6 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-                <respStmt>
-                    <resp>EpiDoc Encoding</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>				
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -103,7 +92,7 @@
                     <lb n="3" break="no"/>ttit tāṉē nilāl ‡ ṇa talai ta <gap unit="character" reason="lost" quantity="1"></gap> valla paruvūr
                     <lb n="4"/>nāṭṭu nampiyē ta ṇa <gap unit="character" reason="lost" quantity="1"></gap> ‡ l mālai puvaṉa caiva <gap unit="character" reason="lost" quantity="2"></gap> 
                     <lb n="5"/>Eṇ kaviñar pōṟṟun ‡ <unclear>n</unclear>āṉen pullā ta nā ḷ ā
-                    <lb n="6"/><gap reason="lost" extent="unknown"></gap><g type="pc">.</g>
+                    <lb n="6"/><gap reason="lost" extent="unknown"> </gap><g type="pc">.</g>
                 </p>
                 
             </div>
