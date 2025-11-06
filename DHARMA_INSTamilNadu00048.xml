@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Incomplete. Seems to record a gift of land to the temple of Kaiyilāsamuṭaiya-Nāyaṉār <supplied reason="subaudible">at Vaṇṇattūr</supplied>.</summary>
+                        <summary><ptr target="bib:ARIE1939-1943"/>: <quote>Incomplete. Seems to record a gift of land to the temple of Kaiyilāsamuṭaiya-Nāyaṉār <supplied reason="subaudible">at Vaṇṇattūr</supplied>.</quote></summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -91,7 +91,7 @@
                 </ab>                
                 
                 <p>
-                    kō-c-caṭ<choice><sic>a</sic><corr>ai</corr></choice>-paṉmar <hi rend="grantha">tri-bhu</hi>va<choice><orig>n</orig><reg>ṉ</reg></choice>a-c-cakrava‡<supplied reason="omitted">r</supplied>ttikaḷ <unclear>vikrama-pāṇḍya</unclear>-tēvaṟku  Āvatu vaṉā <gap reason="lost" unit="character" quantity="1"></gap> ttūr
+                    kō-c-caṭ<choice><sic>a</sic><corr>ai</corr></choice>-paṉmar <hi rend="grantha">tri-bhu</hi>va<choice><orig>n</orig><reg>ṉ</reg></choice>a-c-cakrava‡<supplied reason="omitted">r</supplied>ttikaḷ <unclear>vikrama-pāṇḍya</unclear>-tēvaṟku * * Āvatu vaṉā <gap reason="lost" unit="character" quantity="1"></gap> ttūr
                     <lb n="2"/>Uṭaiyār <hi rend="grantha">śrī</hi>-kaiyilāsa<unclear>r</unclear> Uṭaiya <gap reason="lost" unit="character" quantity="3"></gap> tā‡ṉam āka <unclear rend="check">Ā…</unclear>
                     
                 </p>
