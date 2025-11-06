@@ -87,51 +87,68 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <ab>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <gap reason="lost" extent="unknown"/>
                 </ab>
                 
                 <p>
-                    <lb n="2"/>vicuvā-varu<hi rend="grantha">ṣa</hi>ttu malāt-ākiya <supplied reason="lost">janaṉāta</supplied>
-                    <lb n="3"/>vaḷanāṭṭu Ā<supplied reason="lost">l</supplied>aṟṟūr-kūṟṟattu na<supplied reason="lost">llūr</supplied><gap reason="lost" extent="unknown"></gap>
-                    <lb n="4"/><supplied reason="lost">U</supplied><unclear>ṭ</unclear>ai<unclear>y</unclear>ār na<supplied reason="lost">l</supplied>la nāyaṉār kōy<supplied reason="lost">il</supplied><gap reason="lost" extent="unknown"></gap>
-                    <lb n="5"/><gap reason="lost" extent="unknown"></gap>ttu<gap reason="lost" extent="unknown"></gap>
-                    <lb n="6"/>paḻam-paṭṭiṉattu <gap reason="lost" quantity="1" unit="character"></gap> c<supplied reason="lost">e</supplied>mpōti villa <supplied reason="lost">vatavaraiyar</supplied>
-                    <lb n="7"/><gap reason="lost" extent="unknown"></gap><supplied reason="lost">māṇikkanāyaṉ gangayarāyaṉ</supplied><gap reason="lost" extent="unknown"></gap>
-                    <lb n="8"/><gap reason="lost" unit="line" quantity="1"></gap>
-                    <lb n="9" break="no"/>kku Oṉṟum ca<hi rend="grantha">ṃtr<supplied reason="lost">ādi</supplied>tya</hi>varaiyum Ā<gap reason="lost" unit="character" quantity="1"></gap> <supplied reason="lost">c</supplied>ā<hi rend="grantha">rāstra</hi>mum
-                    <lb n="10"/>Erivat’ āk viṭṭa nila<supplied reason="lost">m</supplied> āvatu malāṭ-ākiya <hi rend="grantha">ja</hi>naṉāta
-                    <lb n="11"/>vaḷaṉāṭṭu Ālāṟṟ<supplied reason="lost">ū</supplied><unclear>r</unclear>-kūṟṟattu pa
-                    <lb n="12"/><gap reason="lost" quantity="1" unit="line"></gap>
-                    <lb n="13" break="no"/>la ṉa <gap unit="character" quantity="1" reason="lost"></gap> lāṉ villavarāyarum <gap unit="character" quantity="1" reason="lost"></gap> kaliyāṉāyaṉ
-                    <lb n="14" break="no"/>nā ci<gap unit="character" quantity="1" reason="lost"></gap> -t tēvarum Āṉaivīrā<unclear>ya</unclear>rum cellaṉ
-                    <lb n="15"/><gap reason="lost" extent="unknown"></gap>ṉum pakkal <unclear>nāṉ</unclear> koṇṭa <unclear>kācu</unclear>
-                    <lb n="16"/><gap reason="lost" unit="line" quantity="1"></gap>
-                    <lb n="17" break="no"/>vār <unclear>10</unclear> Aṭu … c ce(p/y)ta ṭiṇai … t·<gap unit="character" quantity="1" reason="lost"></gap>
-                    <lb n="18"/><choice><unclear>A</unclear><unclear>vu</unclear></choice> Āka taṭi Iraṇṭum tiru-ṉāmattu-k-kāṇi Iṟai-<unclear>y-i</unclear>
+                    <lb n="2"/>vicuvā-varu<hi rend="grantha">ṣa</hi>ttu malāt-ākiya <supplied reason="lost"><hi rend="grantha">ja</hi>naṉāta</supplied>
+                    <lb n="3" break="no"/>-vaḷanāṭṭu Ā<supplied reason="lost">l</supplied>aṟṟūr-kūṟṟattu na<supplied reason="lost">llūr</supplied> <gap reason="lost" extent="unknown"/>
+                    <lb n="4"/><supplied reason="lost">U</supplied><unclear>ṭ</unclear>ai<unclear>y</unclear>ār na<supplied reason="lost">l</supplied>la nāyaṉār kōy<supplied reason="lost">il</supplied> <gap reason="lost" extent="unknown"/>
+                    <lb n="5"/><gap reason="lost" extent="unknown"/> ttu <gap reason="lost" extent="unknown"/>
+                    <lb n="6"/>paḻam-paṭṭiṉattu c<supplied reason="lost">e</supplied>mpōti villa<supplied reason="lost">vatavaraiyar</supplied>
+                    <lb n="7"/><gap reason="lost" extent="unknown"/> māṇikkaṉāyaṉ kaṅkaya <gap reason="lost" extent="unknown"/>
+                    <lb n="8"/> ṉāyaṉār tiru-muṉpē nān vaitta tiru-nontā-viḷa
+                    <lb n="9" break="no"/>kku Oṉṟum ca<hi rend="grantha"><choice><sic>tre</sic><corr>ntrā</corr></choice><supplied reason="lost">di</supplied>tya</hi>-varaiyum <hi rend="grantha">Ahorā<surplus>s</surplus>tra</hi>mum
+                    <lb n="10"/>Erivat’ āka v-iṭṭa nila<supplied reason="lost">m</supplied> āvatu
+                </p>
+                <p>
+                    malāṭ-ākiya <hi rend="grantha">ja</hi>naṉāta
+                    <lb n="11" break="no"/>-vaḷaṉāṭṭu Ālāṟṟ<supplied reason="lost">ū</supplied><unclear>r</unclear>-kūṟṟattu p<supplied reason="lost">ā</supplied><unclear>ṇ</unclear>ṭapura-p pa
+                    <lb n="12"/><gap reason="lost" quantity="1" unit="line"/>
+                    <lb n="13"/><gap reason="lost" extent="unknown"/> villavarāyarum <supplied reason="lost">m</supplied>utaliyar ṉāyaṉ
+                    <lb n="14"/>naraci<supplied reason="lost">ṅ</supplied>ka-tēvarum Āṉai-vīra-r<supplied reason="lost">ā</supplied><unclear>ya</unclear>rum cellaṉ
+                    <lb n="15"/><gap reason="lost" extent="unknown"/> ṉum pakkal <unclear>nāṉ</unclear> koṇṭa <unclear>kācu</unclear>
+                    <lb n="16"/><gap reason="lost" unit="line" quantity="1"/>
+                    <lb n="17" break="no"/>vār <unclear>10</unclear> <gap reason="lost" extent="unknown"/>
+                    <lb n="18"/>vu Āka taṭi Iraṇṭum tiru-ṉāmattu-k-kāṇi Iṟai-<unclear>y-i</unclear>
                     <lb n="19" break="no"/>li Āka Utakam paṇṇi tiru-c-cūla-t-tāpaṇamum pa<supplied reason="lost">ṇ</supplied>
-                    <lb n="20" break="no"/>ṇi-k koṇṭu ta na m pa<unclear>c</unclear>āṉamum Iru pūvu <gap unit="character" quantity="2" reason="lost"></gap>
-                    <lb n="21"/><gap reason="lost" unit="line" quantity="1"></gap>
-                    <lb n="22"/><gap unit="character" quantity="2" reason="lost"></gap> viḷakku Oṉṟum <unclear>ca</unclear>n<unclear>ti</unclear><gap unit="character" quantity="4" reason="lost"></gap>rai <gap unit="character" quantity="1" reason="lost"></gap> Ā <supplied reason="lost">C</supplied>o <gap unit="character" quantity="1" reason="lost"></gap>
-                    <lb n="23" break="no"/>tra <gap unit="character" quantity="1" reason="lost"></gap> m Erivat’ āka kallilum cempilum veṭṭi-k
-                    <lb n="24" break="no"/>koḷ<unclear>ḷu</unclear> maṭṭakku koppaṇa Uṭaiyar nirupaṅ kuṭu
-                    <lb n="25" break="no"/>tta <gap unit="character" quantity="1" reason="lost"></gap><unclear>ṉ</unclear> vukku Im<choice><unclear>ma</unclear><unclear>aṭi</unclear></choice> <gap unit="character" quantity="8" reason="lost"></gap> naṭatti koḷḷavum
-                    <lb n="26"/><gap unit="character" quantity="2" reason="lost"></gap> <supplied reason="lost">pacu</supplied>vai koṉ<unclear>ṟa</unclear> pāvattai ‡ <unclear>A</unclear>ṉupavi<unclear>k</unclear>
+                    <lb n="20" break="no"/>ṇi-k koṇṭu * * m pa<unclear>c</unclear>āṉamum Iru-pūvu<supplied reason="lost">m</supplied> <gap unit="character" quantity="2" reason="lost"/>
+                    <lb n="21"/><gap reason="lost" unit="line" quantity="1"/>
+                    <lb n="22"/><gap unit="character" quantity="2" reason="lost"/> viḷakku Oṉṟum <unclear>ca</unclear>n<unclear>ti</unclear><supplied reason="lost">rātitta-va</supplied>rai <gap unit="character" quantity="1" reason="lost"></gap> <hi rend="grantha">Ahorā</hi>
+                    <lb n="23" break="no"/><hi rend="grantha">tra</hi>mum Erivat’ āka kallilum cempilum veṭṭi-k
+                    <lb n="24" break="no"/>koḷḷum paṭikku koppaṇa Uṭaiyar nirupaṅ kuṭu
+                    <lb n="25" break="no"/>tta <gap unit="character" quantity="1" reason="lost"/><unclear>ṉ</unclear> vukku Im-mariyāti tāḻvaṟa naṭatti koḷḷavum
+                </p>
+                <p>
+                    <lb n="26"/><gap reason="lost" extent="unknown"/> <supplied reason="lost">paṇṇiṉavarkaḷ kaṅkai-k-karaiyiṟ kurāṟ</supplied>‡pacuvai koṉṟa pāvattai Aṉupavi<unclear>t</unclear><supplied reason="lost">tu kaṭava
+                        <lb n="27" break="no"/>rkaḷ</supplied>
+                </p>
+                <p>
+                    <supplied reason="lost"><hi rend="grantha">panmāheśvara-rakṣai</hi></supplied>
                     
                 </p>
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 <listApp>
-                
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:..."/>
-                <note>...</note>
-                </app>      
-                
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <note></note>
+                    </app> 
+                    
+                    <app loc="8">
+                        <lem>...</lem>
+                        <note>Line presently (2024) lost/illegible. Text after ASI trasncript.</note>
+                    </app> 
+                    <app loc="26-27">
+                        <lem>...</lem>
+                        <note>Most of these 2 lines presently (2024) lost/illegible. Text after ASI trasncript.</note>
+                    </app> 
+                    
                 </listApp>
-                </div>-->
+            </div>
             
             <!--<div type="translation" resp="part:reda part:emfr">
                 
