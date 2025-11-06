@@ -84,26 +84,43 @@
         
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
-                <p>        
-                    [text not available]
+                <ab>        
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                <p>
+                    tiri-puva<choice><orig>n</orig><reg>ṉ</reg></choice>a-c-cakkara-vattikaḷ <hi rend="grantha">śrī</hi>-vīra-rā<hi rend="grantha">je</hi>ntira-cōḻa-tēvaṟ<supplied reason="omitted">ku</supplied> yāṇṭu Āṟ-āvatu
                 </p>
-                
-                
+                <p>
+                    Uṭaiyār nalla nāyanār Āḷ-uṭaiya nācciyāṟku-t tiru-v-amutu-paṭikkum tiru-c-cāḻaṟ paṭi v-iṭṭ’ amutu Uḷḷiṭṭaṉ avaiyiṟṟukku kōva<choice><orig>n</orig><reg>ṉ</reg></choice> vaḷaiyamaḻakiyā<choice><orig>n</orig><reg>ṉ</reg></choice>-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a vāṇa-rāya-p-pēraiyan v-iṭṭa vipavam āvatu
+                </p>
+                <p>
+                    In-nayanaṟ tēvatānaṅkaḷil muṉṉaṭi kūvi Enṟu vēli nalvaṟk’ āka-k koṇṭu varukiṟa vāku
+                    <lb n="2"/>y-aṭaṅka v-iṭṭu Āḷ-uṭaiya-nācciyār <hi rend="grantha">śrī</hi>-pātattilē n<choice><orig>i</orig><reg>ī</reg></choice>r vārttu-k kalveṭṭi viṭṭē<choice><orig>n</orig><reg>ṉ</reg></choice> Iva<choice><orig>n</orig><reg>ṉ</reg></choice> vaḷaiyamaḻakiyā<choice><orig>n</orig><reg>ṉ</reg></choice>-āṉa vāṇa-rāya-p-pēr-araiya<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ
+                </p>
+                <p>
+                    Itu vilakkivā<choice><orig>n</orig><reg>ṉ</reg></choice> keṅkai-karaiyil āyiraṅ kurāṟ pacu konṟā<choice><orig>n</orig><reg>ṉ</reg></choice> pāvaṅ koḷvā<choice><orig>n</orig><reg>ṉ</reg></choice>
+                </p>
+                <p>                    
+                    vallavaraiya<choice><orig>n</orig><reg>ṉ</reg></choice> cattiyam
+                </p>
+                <p>
+                    <hi rend="grantha">śrī-māheśvara-rakṣai</hi>                    
+                </p>
+                                
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 <listApp>
-                
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:..."/>
-                <note>...</note>
-                </app>      
-                
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <note></note>
+                    </app>      
+                    
                 </listApp>
-                </div>-->
+            </div>
             
             <!--<div type="translation" resp="part:reda part:emfr">
                 
