@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, Vikrama-Pāṇḍya king, year 8</title>
+                <title>Nallūr, Vilvāraṇyeśvara, time of Vikrama Pāṇḍya, year 8</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -91,9 +91,13 @@
                 </ab>                
                 
                 <p>
-                    kō-c-caṭ<choice><sic>a</sic><corr>ai</corr></choice>-paṉmar <hi rend="grantha">tri-bhu</hi>va<choice><orig>n</orig><reg>ṉ</reg></choice>a-c-cakrava‡<supplied reason="omitted">r</supplied>ttikaḷ <unclear>vikrama-pāṇḍya</unclear>-tēvaṟku * * Āvatu vaṉā <gap reason="lost" unit="character" quantity="1"></gap> ttūr
-                    <lb n="2"/>Uṭaiyār <hi rend="grantha">śrī</hi>-kaiyilāsa<unclear>r</unclear> Uṭaiya <gap reason="lost" unit="character" quantity="3"></gap> tā‡ṉam āka <unclear rend="check">Ā…</unclear>
-                    
+                    kō-c-caṭ<choice><sic>a</sic><corr>ai</corr></choice>-paṉmar <hi rend="grantha">tri-bhu</hi>va<choice><orig>n</orig><reg>ṉ</reg></choice>a-c-cakrava‡<reg>r</reg>ttikaḷ <hi rend="grantha"><unclear>śrī</unclear></hi>-<unclear>vikrama-pāṇḍya</unclear>-tēvaṟku * * Āvatu
+                </p>
+                <p>
+                    vaṉā <gap reason="lost" unit="character" quantity="1"></gap> ttūr
+                    <lb n="2"/>Uṭaiyār <hi rend="grantha">śrī</hi>-kaiyilā<hi rend="grantha">sa</hi><unclear>r</unclear> Uṭaiya ...
+                    <lb n="3"/>...
+                    <lb n="4"/>...
                 </p>
                 
             </div>
@@ -114,14 +118,14 @@
                 
                 </div>-->
             
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p>The lines 3-4 are presently (2024) built in the floor. The text is given after the ASI transcript.</p>
+                </div>
             
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/162).</p>
-                <!--<p>This edition by Renato Davalos and Emmanuel Francis (2024).</p>-->	
+                 <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy (2024), photos (E. Francis, 2024), ASI transcript kindly supplied by the Director of Epigraphy in Mysore (2025).</p>	
                 
                 <!--<listBibl type="primary">
                     
