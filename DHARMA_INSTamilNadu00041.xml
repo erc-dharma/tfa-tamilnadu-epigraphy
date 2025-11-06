@@ -93,19 +93,17 @@
                 <p>
                     <supplied reason="lost"><hi rend="grantha">śubham a</hi></supplied><hi rend="grantha">stu</hi>
                 </p>
-                <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">        
-                    samasta-jagadādhāra <gap reason="lost" quantity="2" unit="character"></gap> k-kula-tilaka-madhurā-puri <gap reason="lost" quantity="3" unit="character"></gap> <unclear cert="low">keraḷa</unclear>-vaṃśa <gap reason="lost" quantity="1" unit="character"></gap> <unclear cert="low">ma ma mru</unclear>
-                    <lb n="2" break="no"/>la n laṃkā <gap reason="lost" quantity="1" unit="character"></gap> pa lya ṇaṃ nad … ma yo ḷa ku <gap reason="lost" quantity="3" unit="character"></gap> śa la ku laṃ śa ka <gap reason="lost" quantity="3" unit="character"></gap> ja<unclear>pid</unclear> rāvaṇa … kala
-                    <lb n="3"/>… da n virakaṇaṃ gop … <supplied reason="lost">c</supplied>u la dā <gap reason="lost" quantity="1" unit="character"></gap> da ha na kā <gap reason="lost" quantity="1" unit="character"></gap> pura parām … t-kula
-                    <lb n="4"/>... <supplied reason="lost">vī</supplied>r<unclear>ā</unclear>bhiṣeka … ti kṣā pakka maha …
-                </p>
+                <p>        
+                    <hi rend="grantha">samasta-jagadādhāra</hi>- <gap reason="lost" quantity="4" unit="character"></gap> -<hi rend="grantha">kula-tilaka-madhurā-puri</hi>- ...
+                    <lb n="2"/>...
+                    <lb n="3"/>… 
+                    <lb n="4"/>... 
                 
-                <p>
-                    <lb n="5"/> … <supplied reason="lost">tē</supplied>vaṟku <supplied reason="lost">yāṇ</supplied><unclear>ṭu</unclear> <supplied reason="lost">15</supplied> Āvatu puraṭṭ<unclear>ā</unclear>t<supplied reason="lost">i</supplied><unclear> m</unclear> <gap reason="lost" quantity="2" unit="character"></gap> ttu <gap reason="lost" quantity="3" unit="character"></gap>
-                    <lb n="6"/><unclear>ṭu n</unclear>=tu t’ a<unclear>ru</unclear>ḷiya tiru-mukappaṭ<supplied reason="lost">i</supplied> <gap reason="lost" quantity="2" unit="character"></gap> <supplied reason="lost">c</supplied>i <gap reason="lost" quantity="1" unit="character"></gap> … c<supplied reason="lost">U</supplied><unclear>yi</unclear>l nallūr-uṭaiyār nalla ṉāyaṉār kōyil tāṉattāṟ
-                    <lb n="7"/><gap reason="lost" quantity="1" unit="character"></gap> <unclear>na</unclear>mmaṭai … kaṭṭiṉa canti-<unclear>t t</unclear> <gap reason="lost" quantity="4" unit="character"></gap> na ta na ṉāḻukku m <gap reason="lost" quantity="3" unit="character"></gap> k Iṉ <gap reason="lost" quantity="2" unit="character"></gap>
-                    <lb n="8"/><gap reason="lost" quantity="1" unit="character"></gap> ta ru ṉā m<unclear>u</unclear>ttu <unclear>kk</unclear> <gap reason="lost" quantity="4" unit="character"></gap> va tā y<unclear>ā</unclear> <gap reason="lost" quantity="2" unit="character"></gap> n <gap reason="lost" quantity="2" unit="character"></gap> r na <gap reason="lost" quantity="1" unit="character"></gap> mi <gap reason="lost" quantity="4" unit="character"></gap> mi ca yu m <gap reason="lost" quantity="3" unit="character"></gap> yavaṟ ka <unclear>ṭum</unclear> Uḷḷa <gap reason="lost" quantity="4" unit="character"></gap>
-                    <lb n="9"/><unclear>Uṉa</unclear>ttu <unclear>vaṭu</unclear>ka mummuca<unclear>l</unclear> aṭaṅka <supplied reason="lost">I</supplied>ṟai-y-ili-y-āka pativaṉañ cāva <gap reason="lost" quantity="2" unit="character"></gap> mutal tanattōm Ippa<supplied reason="lost">ṭi</supplied>kku
+                    <lb n="5"/>… <hi rend="grantha">śrī</hi> ... -<supplied reason="lost">tē</supplied>vaṟku <supplied reason="lost">yāṇ</supplied><unclear>ṭu</unclear> <num value="15"><supplied reason="lost"><g type="numeral">10</g> 5</supplied></num> Āvatu puraṭṭ<unclear>ā</unclear>t<supplied reason="lost">i</supplied>-<unclear>māta</unclear>ttu ...
+                    <lb n="6"/><unclear>ṭun</unclear>=tut’ a<unclear>ru</unclear>ḷiya tiru-muka-p-paṭ<supplied reason="lost">i</supplied> ... nallūr-uṭaiyār nalla ṉāyaṉār kōyil tāṉattāṟ
+                    <lb n="7"/>...
+                    <lb n="8"/>...
+                    <lb n="9"/>ṉaittu vaṟkamum muta<unclear reason="eccentric_ductus">l</unclear> aṭaṅka <supplied reason="lost">I</supplied>ṟai-y-ili-y-āka patiṉ aiñcāva<supplied reason="lost">tu</supplied> mutal tanattōm Ip-pa<supplied reason="lost">ṭi</supplied>kku
                     <lb n="10"/>Ivv-ōlai piṭipāṭ’ āka-k ko<unclear>ṇ</unclear>ṭu kalliluñ cempilum veṭṭi-<supplied reason="lost">k</supplied> koḷka
                 </p>
                 <p>
@@ -149,8 +147,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/155).</p>
-                <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>
-                <p>ASI transcript and estampage, if any, yet to be consulted.</p>
+                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy (2024), photos (E. Francis, 2024), ASI transcript kindly supplied by the Director of Epigraphy in Mysore (2025).</p>
                 
                 <!--<listBibl type="primary">
                     
