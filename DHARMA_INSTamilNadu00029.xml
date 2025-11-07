@@ -102,7 +102,7 @@
                     <lb n="6" break="no"/>ḷ makaḷ nācc<supplied reason="lost">i</supplied>yy-āṉa nāṟpatt-e
                     <lb n="7" break="no"/>ṇṇ-āyira-naṅkaiku kovikkum tiru-v
                     <lb n="8" break="no"/>-Uṭaiya<choice><orig>ḷḷ</orig><reg>ḷ</reg></choice>ukkum <unclear>tiru</unclear>-mē<choice><orig>n</orig><reg>ṉ</reg></choice>ikki naḷḷukku
-                    <lb n="9" break="no"/>m Iṉṉāvaṟkkum In-nāyanār kōyilil
+                    <lb n="9" break="no"/>m Iṉṉā<supplied reason="omitted">l</supplied>vaṟkkum In-nāyanār kōyilil
                     <lb n="10"/>tiruv<choice><sic>a</sic><corr>e</corr></choice><supplied reason="omitted">m</supplied>p<choice><orig>a</orig><reg>ā</reg></choice>vai mutal <unclear>p</unclear>āṭṭum tiru-vēṭṭai
                     <lb n="11"/>muṉ<choice><orig>n</orig><reg>ṉ</reg></choice>ēṟṟamum tiru-t-<supplied reason="omitted">t</supplied>ēr mu<choice><orig>n</orig><reg>ṉ</reg></choice>ēṟavum I<unclear>vai</unclear>
                     <lb n="12"/><choice><sic>A</sic><corr>Ā</corr></choice>ṇṭu māṟi cempāti ce<supplied reason="omitted">y</supplied>yāṭavarkaḷ <surplus>k</surplus>
@@ -122,11 +122,6 @@
                         <note></note>
                     </app>   
                     
-                   <app loc="10">
-                        <lem>...</lem>
-                        <note>This line is presently almost entirely lost and is preserved on the ASI estampage.</note>
-                    </app> 
-                    
                     <app loc="12">
                         <lem><choice><sic>A</sic><corr>Ā</corr></choice>ṇṭu</lem>
                         <note>Compare <foreign>Āṇṭu māṟi-c ce<unclear>m</unclear></foreign> in <ref target="DHARMA_INSTamilNadu00030.xml"/> (line 9).</note>
@@ -142,7 +137,7 @@
                 </p>
                 
                 <p n="1-4">
-                    <unclear>9</unclear>th year of the glorious king Kulottuṅga Cōḻa, the emperor of the three worlds.
+                    This is the <unclear>9</unclear>th year of the glorious king Kulottuṅga Cōḻa, emperor of the three worlds.
                 </p>
                 
                 <p n="4-16">
