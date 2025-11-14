@@ -72,7 +72,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr" when="2025-10-06" status="draft">Creation of the file</change>
+            <change who="part:emfr" when="2025-11-13" status="draft">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -119,22 +119,36 @@
             
             <div type="bibliography">
                 
-                <p>
-                    ARIE/1907–1908/C/1908/24.
-                    ARIE 1907–1908, 65.
-                    Srinivasan 1987, 23.
-                    Nilakanta Sastri, Cōḷas, vol. 1, 1935, 275-6; 1975, 255.
-                    Davis 1997, 51–87.
-                </p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1907-1908/C/1908/24).</p>
+                <p>Edited and translated in <bibl><ptr target="bib:NilakantaSastri1955_01"/></bibl>, in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>.</p>
+                <!--Nilakanta Sastri, Cōḷas, vol. 1, 1935, 275-6; 1975, 255.
+                    Davis 1997, 51–87.-->
+                
                 <p>This digital edition by Emmanuel Francis based on photos (E. Francis, 2013).</p>
                 
-                <listBibl type="secondary">
+                <listBibl type="primary">
                     
-                    <bibl>
-                        
-                    </bibl>	
+                    <bibl n="S">
+                        <ptr target="bib:NilakantaSastri1955_01"/>
+                        <citedRange unit="page">255</citedRange>
+                    </bibl>
                     
+                    <bibl n="S">
+                        <ptr target="bib:Srinivasan1987_01"/>
+                        <citedRange unit="page">22</citedRange>
+                        <citedRange unit="item">a.I</citedRange>
+                    </bibl>
                 </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1907-1908"/>
+                        <citedRange unit="page">42</citedRange>
+                        <citedRange unit="appendix"> C/1908</citedRange>
+                        <citedRange unit="item">24</citedRange>
+                    </bibl>
+                </listBibl>
+                
             </div>
         </body>
     </text>
