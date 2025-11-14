@@ -85,7 +85,7 @@
                 </ab>
                 <p>
                     Uṭaiyār <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">ja</hi>ya-rā<hi rend="grantha">jendra-de</hi>var
-                    <lb n="2"/>ka<hi rend="grantha">lyā</hi><choice><sic>yā</sic><corr>ṇa</corr></choice>puram Eṟin=tu koṭu-van=ta tuvārapālakam
+                    <lb n="2"/>ka<hi rend="grantha">lyā</hi><unclear reason="eccentric_ductus">ṇa</unclear>puram Eṟin=tu koṭu-van=ta tuvārapālakam
                 </p>
             </div>	
             
@@ -96,6 +96,16 @@
                     <app loc="0">
                         <lem></lem>
                         <note></note>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>ka<hi rend="grantha">lyā</hi><unclear reason="eccentric_ductus">ṇa</unclear>puram</lem>
+                        <note>The <foreign>ṇa</foreign> looks like <foreign>yā</foreign>.</note>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>koṭu-van=ta</lem>
+                        <note><foreign>koṇṭuvanta</foreign> in modern Tamil.</note>
                     </app>
                     
                 </listApp>
@@ -124,7 +134,7 @@
                 <!--Nilakanta Sastri, Cōḷas, vol. 1, 1935, 275-6; 1975, 255.
                     Davis 1997, 51–87.-->
                 
-                <p>This digital edition by Emmanuel Francis based on photos (E. Francis, 2013).</p>
+                <p>This digital edition by Emmanuel Francis based on photos (<ref target=" https://didomena.ehess.fr/concern/data_sets/ng451s63x">E. Francis, 2013</ref>).</p>
                 
                 <listBibl type="primary">
                     
