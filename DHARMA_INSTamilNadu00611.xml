@@ -119,10 +119,25 @@
             
             <div type="bibliography">
                 
-                <p>Edited and translated in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>.</p>
-                                
+                <p>
+                    Edited in <bibl><ptr target="bib:Subramaniam1954_01"/></bibl> (SITI 2.563) after Mackenzie MS (GOML D.2728, 219).
+                    Edited and translated in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>.
+                </p>
+                
                 <p>This digital edition by Emmanuel Francis based on photos (E. Francis, 2025).</p>
-                                                
+                
+                <bibl n="Su">
+                    <ptr target="bib:Subramaniam1954_01"/>
+                    <citedRange unit="page">557-558</citedRange>
+                    <citedRange unit="item">563</citedRange>
+                </bibl>
+                
+                <bibl n="Sr">
+                    <ptr target="bib:Srinivasan1987_01"/>
+                    <citedRange unit="page">28</citedRange>
+                    <citedRange unit="item">a.X11</citedRange>
+                </bibl>
+                
             </div>
         </body>
     </text>

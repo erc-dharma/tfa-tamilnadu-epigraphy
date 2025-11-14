@@ -88,7 +88,7 @@
                 </p>
                 <p>
                     nāḷil Ip-pattiyil <hi rend="grantha">śrī</hi>-<supplied reason="lost">mā<hi rend="grantha">heśva</hi>ra</supplied>-k
-                    <lb n="2" break="no"/>kaṇkāṇi ...
+                    <lb n="2" break="no"/>kaṇkāṇi paḻaiyaṉūr-uṭaiyār po<supplied reason="omitted">y</supplied>yātta<unclear>m</unclear>iḻ<unclear>ar</unclear> Eḻunt-aruḷa viṇṇappam ce<supplied reason="lost">yya U</supplied>
                 </p>
             </div>	
             
@@ -122,13 +122,22 @@
             
             <div type="bibliography">
                 
-                <p>Edited and translated in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>.</p>
+                <p>
+                    Edited in <bibl><ptr target="bib:Subramaniam1954_01"/></bibl> (SITI 2.562) after Mackenzie MS (GOML D.2728, 225).
+                    Edited and translated in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>.
+                </p>
                                 
                 <p>This digital edition by Emmanuel Francis based on photos (E. Francis, 2025).</p>
                 
                 <listBibl type="primary">
                                         
-                    <bibl n="S">
+                    <bibl n="Su">
+                        <ptr target="bib:Subramaniam1954_01"/>
+                        <citedRange unit="page">557</citedRange>
+                        <citedRange unit="item">562</citedRange>
+                    </bibl>
+                    
+                    <bibl n="Sr">
                         <ptr target="bib:Srinivasan1987_01"/>
                         <citedRange unit="page">27-28</citedRange>
                         <citedRange unit="item">a.X</citedRange>
