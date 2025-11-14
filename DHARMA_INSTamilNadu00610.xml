@@ -127,15 +127,17 @@
             
             <div type="bibliography">
                 
+                <p>Reported in <bibl><ptr target="bib:ARIE1978-1979"/></bibl> (ARIE/1978-1979/B/1978-1979/293 ).</p>
+                
                 <p>
                     Edited in <bibl><ptr target="bib:Subramaniam1954_01"/></bibl> (SITI 2.562) after Mackenzie MS (GOML D.2728, 225).
                     Edited and translated in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>.
                 </p>
-                                
+                
                 <p>This digital edition by Emmanuel Francis based on photos (E. Francis, 2025).</p>
                 
                 <listBibl type="primary">
-                                        
+                    
                     <bibl n="Su">
                         <ptr target="bib:Subramaniam1954_01"/>
                         <citedRange unit="page">557</citedRange>
@@ -148,7 +150,15 @@
                         <citedRange unit="item">a.X</citedRange>
                     </bibl>
                 </listBibl>
-                                
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1978-1979"/>
+                        <citedRange unit="page">105</citedRange>
+                        <citedRange unit="appendix">B/1978-1979</citedRange>
+                        <citedRange unit="item">293</citedRange>
+                    </bibl>
+                </listBibl>
             </div>
         </body>
     </text>
