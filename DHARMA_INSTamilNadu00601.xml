@@ -128,7 +128,12 @@
                 
                 <listBibl type="primary">
                     
-                    <bibl n="S">
+                    <bibl n="S1">
+                        <ptr target="bib:NilakantaSastri1935_02"/>
+                        <citedRange unit="page">275-276</citedRange>
+                    </bibl>
+                    
+                    <bibl n="S2">
                         <ptr target="bib:NilakantaSastri1955_01"/>
                         <citedRange unit="page">255</citedRange>
                     </bibl>
