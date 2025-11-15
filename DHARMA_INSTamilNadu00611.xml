@@ -84,7 +84,7 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 <p>
-                    kō-māṟ<choice><sic>ā</sic><corr>a</corr></choice>-parmmaṉ tiru-puvaṉa- ...
+                    kō-māṟ<choice><sic>ā</sic><corr>a</corr></choice>-parmmaṉ tiru-puvaṉa-c-cakkaravattikaḷ <hi rend="grantha">śrī</hi>-vallava-tēvaṟkku yāṇṭu 9-Āvatu tai-mātam <num value="14"><g type="numeral">10</g> 4</num> ti<unclear>ka</unclear>ti <gap reason="lost" extent="unknown" unit="character"/> ttuṅka-<supplied reason="omitted">cōḻa</supplied>-vaḷanāṭṭu Ūṟṟattūr nā<unclear>ṭ</unclear>ṭavarōm I<expan><abbr>rā</abbr><ex>ja</ex><abbr>rā</abbr><ex>ja</ex></expan>curattu periya
                     <lb n="2"/>nāṭṭ-āṉa-k kāvil ...
                     <lb n="3" break="no"/>kku Arai-y-āka ...
                     <lb n="4" break="no"/>ppaṉa ...
@@ -127,9 +127,10 @@
                     Edited and translated in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>.
                 </p>
                 
-                <p>This digital edition by Emmanuel Francis based on photos (E. Francis, 2025).</p>
+                <p>This digital edition by Emmanuel Francis based on previous editions and photos (E. Francis, 2025).</p>
                 
-                <bibl n="Su">
+                <listBibl type="primary">
+                    <bibl n="Su">
                     <ptr target="bib:Subramaniam1954_01"/>
                     <citedRange unit="page">557-558</citedRange>
                     <citedRange unit="item">563</citedRange>
@@ -140,7 +141,7 @@
                     <citedRange unit="page">28</citedRange>
                     <citedRange unit="item">a.X11</citedRange>
                 </bibl>
-                
+                </listBibl>
             </div>
         </body>
     </text>
