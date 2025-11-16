@@ -84,11 +84,30 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 <p>
-                    kō-māṟ<choice><sic>ā</sic><corr>a</corr></choice>-parmmaṉ tiru-puvaṉa-c-cakkaravattikaḷ <hi rend="grantha">śrī</hi>-vallava-tēvaṟkku yāṇṭu 9-Āvatu tai-mātam <num value="14"><g type="numeral">10</g> 4</num> ti<unclear>ka</unclear>ti <gap reason="lost" extent="unknown" unit="character"/> ttuṅka-<supplied reason="omitted">cōḻa</supplied>-vaḷanāṭṭu Ūṟṟattūr nā<unclear>ṭ</unclear>ṭavarōm I<expan><abbr>rā</abbr><ex>ja</ex><abbr>rā</abbr><ex>ja</ex></expan>curattu periya
-                    <lb n="2"/>nāṭṭ-āṉa-k kāvil ...
-                    <lb n="3" break="no"/>kku Arai-y-āka ...
-                    <lb n="4" break="no"/>ppaṉa ...
-                    <lb n="5" break="no"/>-t taṇṭ<unclear>i</unclear> ...
+                    kō-māṟ<choice><sic>ā</sic><corr>a</corr></choice>-parmmaṉ tiru-puvaṉa-c-cakkaravattikaḷ <hi rend="grantha">śrī</hi>-vallava-tēvaṟkku yāṇṭu 9-Āvatu tai-mātam <num value="14"><g type="numeral">10</g> 4</num> ti<unclear>ka</unclear>ti
+                </p>
+                <p>
+                    <gap reason="lost" quantity="4" unit="character"/> ttuṅka-<supplied reason="omitted">cōḻa</supplied>-vaḷanāṭṭu Ūṟṟattūr nā<unclear>ṭ</unclear>ṭavarōm I<expan><abbr>rā</abbr><ex>ja</ex><abbr>rā</abbr><ex>ja</ex></expan>curattu periya
+                    <lb n="2"/>nāṭṭ-āṉa-k kāvil niṟaivuṟa niṟaintu kuṟai vaṟa-k kuṭi y-iruntu <gap reason="lost" extent="unknown" unit="character"/> ṭaiyar I<expan><abbr>rā</abbr><ex>ja</ex><abbr>rā</abbr><ex>ja</ex></expan>curam-uṭaiyar nāyaṉāṟku tiru-p-paṇikkum tiru-nāḷukkum
+                    Uṭal-āka nāṅkaḷ paṇṇi-k kuṭutta camaiyam Āvatu
+                </p>
+                <p>
+                    pēr mutal-p paṭi pēr Oṉṟu
+                    <lb n="3" break="no"/>kku Arai-y-āka vanta paṇamum kaṉṟu <choice><sic>kolu</sic><corr>kāli</corr></choice>kku pēr
+                    Oṉṟukku Oṉṟā <gap reason="lost" quantity="3" unit="character"/> ta paṇamum pala ta<surplus>l</surplus>laikkum pēr Oṉṟukku
+                    Arai-y-āka vanta paṇamum Eṟucāttu Iṟaṅkucāttukku nūṟṟukku Aiñc-āka vanta paṇam peṟavum
+                </p>
+                <p>
+                    Ala
+                    <lb n="4" break="no"/>ppaṉa mukappaṉavukkum Im-mā<unclear>tiri</unclear> peṟavum
+                </p>
+                <p>
+                    Iv-vakai-p paṭi taṇṭik <gap reason="lost" quantity="5" unit="character"/> m Iṭattu Aṭaitta katavu taḷḷiyum maṇkalantakattūm
+                    veṇkalam Eṭuttum Ippaṭi taṇṭikkoḷḷavum
+                </p>
+                <p>Ippaṭikku
+                    <lb n="5" break="no"/>-t taṇṭ<unclear>i</unclear> vantavar<unclear>ka</unclear>ḷukku <gap reason="lost" quantity="2" unit="character"/> lavi <gap reason="lost" quantity="2" unit="character"/> kkappāvāṉa <gap reason="lost" quantity="10" unit="character"/> ciru
+                    Arici pa <gap reason="lost" quantity="7" unit="character"/> ppaṭi veṟṟilai Ippaṭi veṉtun kuṟaivaṟuppukaḷu <gap reason="lost" quantity="3" unit="character"/> kuṟaivaṟukkakkaṭa <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
             </div>	
             
@@ -110,15 +129,31 @@
                 <p n="1">
                     Prosperity! Fortune!
                 </p>
-                <p n="1-5">
+                <p n="1">
+                    9th year of ...
+                    month of Tai, day 14.
+                </p>
+                <p n="1-2">
+                    ...
+                </p>
+                <p n="2-3">
+                    They should get ...
+                </p>
+                <p n="3-4">
+                    They should get ...
+                </p>
+                <p n="4">
+                    ...
+                </p>
+                <p n="4-5">
                     ...
                 </p>
                 
             </div>	
             
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p n="5">The end of the inscription is lost.</p>
+                </div>
             
             <div type="bibliography">
                 
@@ -127,20 +162,20 @@
                     Edited and translated in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>.
                 </p>
                 
-                <p>This digital edition by Emmanuel Francis based on previous editions and photos (E. Francis, 2025).</p>
+                <p>This digital edition by Emmanuel Francis based on previous editions and photos (E. Francis, 2025). The distinction between initial and medial vowels, and between Grantha and Tamil letters could not be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
                 
                 <listBibl type="primary">
                     <bibl n="Su">
-                    <ptr target="bib:Subramaniam1954_01"/>
-                    <citedRange unit="page">557-558</citedRange>
-                    <citedRange unit="item">563</citedRange>
-                </bibl>
-                
-                <bibl n="Sr">
-                    <ptr target="bib:Srinivasan1987_01"/>
-                    <citedRange unit="page">28</citedRange>
-                    <citedRange unit="item">a.X11</citedRange>
-                </bibl>
+                        <ptr target="bib:Subramaniam1954_01"/>
+                        <citedRange unit="page">557-558</citedRange>
+                        <citedRange unit="item">563</citedRange>
+                    </bibl>
+                    
+                    <bibl n="Sr">
+                        <ptr target="bib:Srinivasan1987_01"/>
+                        <citedRange unit="page">28</citedRange>
+                        <citedRange unit="item">a.X11</citedRange>
+                    </bibl>
                 </listBibl>
             </div>
         </body>
