@@ -88,7 +88,7 @@
                 
                 <div type="textpart" n="B" ><head>Label (painted) to N15</head>                    
                     <p>
-                        <lb n="1"/>murukaṉ
+                        <lb n="1"/>murukāṉ
                     </p>                                       
                 </div>
                 
@@ -241,9 +241,12 @@
                     <bibl>
                         <ptr target="bib:Sivaramamurti1960_01"/>
                         <citedRange unit="page">37-43</citedRange>
-                    </bibl>                    
+                    </bibl> 
                     
-                    
+                   <bibl>
+                        <ptr target="bib:LHernault1987_01"/>
+                        <citedRange unit="page">96-107</citedRange>
+                    </bibl> 
                 </listBibl>
                 
             </div>
