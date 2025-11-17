@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tārācuram/Darasuram, Airavateśvara temple, labels to Nāyaṉmārs' frieze</title>
+                <title>Tārācuram/Darasuram, Airavateśvara temple, labels to Nāyaṉmārs’ frieze</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -115,17 +115,17 @@
                 
             </div>	
             
-            <!--<div type="commentary">
+            <div type="commentary">
                 
-                </div>-->
+            </div>
             
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/C/1908/16).</p>
                 
-                <p>Edited and translated in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl> (separating engraved and painted labels).</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl> in two discrete groups, on for engraved labels (a.XV) an the other for painted labels (a.XVI).</p>
                 
-                <p>This digital edition by Emmanuel Francis based on previous editions and partial phot coverage (E. Francis, 2025). The labels are here given in counterclockwise order with their number in <bibl><ptr target="bib:Marr1979_01"/></bibl> (G for group of saints, N for Nāyaṉmār).</p>
+                <p>This digital edition by Emmanuel Francis based on previous editions and partial photo coverage (E. Francis, 2025). The labels are here given in counterclockwise order with their number in <bibl><ptr target="bib:Marr1979_01"/></bibl> (G for group of saints, N for Nāyaṉmār).</p>
                 
                 <listBibl type="primary">
                     
