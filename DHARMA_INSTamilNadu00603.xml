@@ -158,7 +158,7 @@
                 
                 <p>Edited and translated in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>.</p>
                 
-                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>.The distinction between initial and medial vowels, and between Grantha and Tamil letters could not be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
+                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>. The distinction between initial and medial vowels, and between Grantha and Tamil letters could not be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
                 
                 <listBibl type="primary">
                     
@@ -174,7 +174,7 @@
                         <ptr target="bib:ARIE1907-1908"/>
                         <citedRange unit="page">42</citedRange>
                         <citedRange unit="appendix">C/1908</citedRange>
-                        <citedRange unit="item">26A</citedRange>
+                        <citedRange unit="item">26B</citedRange>
                     </bibl>
                 </listBibl>
             </div>
