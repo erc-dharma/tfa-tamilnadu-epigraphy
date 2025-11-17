@@ -202,16 +202,18 @@
             </div>	
             
             <div type="commentary">
-                
+                <p>The Nāyaṉmārs’ frieze comprised 78 panels, as described in <bibl><ptr target="bib:Marr1979_01"/></bibl>: 62 panels for 62 different Nāyaṉmārs (N1 to N62), 7 panels for Cuntarar (N63.1 to N63.7), 9 panels for groups of saints (G1 to G9). They are distributed clockwise as follows: G1, N1-N38, G2, N39-N55, G3-G9, N56-N62, N63.1-N63.7. Most of the Nāyaṉmārs' panels are labelled, with engraved or red-painted labels. Some red-painted labels seem to have escaped attention so far (N1, N10, N15).</p>
+                <p>The label for N19 and N26 are engraved, not painted, <hi rend="italic">pace</hi> <bibl><ptr target="bib:Marr1979_01"/></bibl>.</p>                
+                <p>The palaeography of the engraved and painted labels is similar. It is possible that the painted labels have been reproduced exactly in the course of the past centuries. Note that some engraved labels have also been painted, which explains that some have been taken for painted labels only.</p>            
             </div>
             
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/C/1908/16).</p>
                 
-                <p>Edited in  <bibl><ptr target="bib:Marr1979_01"/></bibl>. Edited and translated in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl> in two discrete groups, on for engraved labels (a.XV) an the other for painted labels (a.XVI).</p>
+                <p>Edited in <bibl><ptr target="bib:Marr1979_01"/></bibl>. Edited and translated in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl> in two discrete groups, on for engraved labels (a.XV) an the other for painted labels (a.XVI).</p>
                 
-                <p>This digital edition by Emmanuel Francis based on previous editions and partial photo coverage (E. Francis, 2025). The labels are here given in counterclockwise order with their number in <bibl><ptr target="bib:Marr1979_01"/></bibl> (G for group of saints, N for Nāyaṉmār).</p>
+                <p>This digital edition by Emmanuel Francis based on previous editions and photos (E. Francis, 2025). The labels are here given in clockwise order with their number in <bibl><ptr target="bib:Marr1979_01"/></bibl> (N for Nāyaṉmār, from 1 to 63).</p>
                 
                 <listBibl type="primary">
                     
@@ -228,25 +230,34 @@
                 </listBibl>
                 
                 <listBibl type="secondary">
+                    
                     <bibl>
                         <ptr target="bib:ARIE1907-1908"/>
                         <citedRange unit="page">41</citedRange>
                         <citedRange unit="appendix">C/1908</citedRange>
                         <citedRange unit="item">16</citedRange>
                     </bibl>
+                    
                     <bibl>
                         <ptr target="bib:ARIE1919-1920"/>
                         <citedRange unit="mixed">pp. 102-107 and pl. II-VI</citedRange>
                     </bibl>
+                    
                     <bibl>
                         <ptr target="bib:Sivaramamurti1960_01"/>
                         <citedRange unit="page">37-43</citedRange>
                     </bibl> 
                     
-                   <bibl>
+                    <bibl>
+                        <ptr target="bib:Sivaramamurti1992_01"/>
+                        <citedRange unit="page">40-46</citedRange>
+                    </bibl> 
+                    
+                    <bibl>
                         <ptr target="bib:LHernault1987_01"/>
                         <citedRange unit="page">96-107</citedRange>
                     </bibl> 
+                    
                 </listBibl>
                 
             </div>
