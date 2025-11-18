@@ -146,9 +146,39 @@
                     </p>                                       
                 </div>
                 
+                <div type="textpart" n="12" ><head>Panel N11</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                    </p>                                       
+                </div>
+                
+                <div type="textpart" n="13" ><head>Panel N12</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                    </p>                                       
+                </div>
+                
+                <div type="textpart" n="14" ><head>Panel N13</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                    </p>                                       
+                </div>
+                
+                <div type="textpart" n="15" ><head>Panel N14</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                    </p>                                       
+                </div>
+                
                 <div type="textpart" n="16" ><head>Label (painted) to panel N15</head>                    
                     <p>
                         <lb n="1"/>murukāṉ
+                    </p>                                       
+                </div>
+                
+                <div type="textpart" n="17" ><head>Panel N16</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
                 </div>
                 
@@ -170,6 +200,42 @@
                     </p>
                 </div>
                 
+                <div type="textpart" n="21" ><head>Panel N20</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                    </p>                                       
+                </div>
+                
+                <div type="textpart" n="22" ><head>Panel N21</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                    </p>                                       
+                </div>
+                
+                <div type="textpart" n="23" ><head>Panel N22</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                    </p>                                       
+                </div>
+                
+                <div type="textpart" n="24" ><head>Panel N23</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                    </p>                                       
+                </div>
+                
+                <div type="textpart" n="25" ><head>Panel N24</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                    </p>                                       
+                </div>
+                
+                <div type="textpart" n="26" ><head>Panel N25</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                    </p>                                       
+                </div>
+                
                 <div type="textpart" n="27" ><head>Label (engraved) to panel N26</head>
                     <p>
                         <lb n="1"/>namina<choice><orig>ṉ</orig><reg>n</reg></choice>ti Atikaḷ
@@ -188,9 +254,33 @@
                     </p>
                 </div>
                 
+                <div type="textpart" n="30" ><head>Panel N29</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                    </p>                                       
+                </div>
+                
+                <div type="textpart" n="31" ><head>Panel N30</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                    </p>                                       
+                </div>
+                
+                <div type="textpart" n="32" ><head>Panel N31</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                    </p>                                       
+                </div>
+                
                 <div type="textpart" n="33" ><head>Label (painted) to panel N32</head>
                     <p>
                         <lb n="1"/>cōmācimāṟaṉār
+                    </p>
+                </div>
+                
+                <div type="textpart" n="34" ><head>Label (painted) to panel N33</head>
+                    <p>
+                        <lb n="1"/>
                     </p>
                 </div>
                 
@@ -200,17 +290,64 @@
                     </p>
                 </div>
                 
+                <div type="textpart" n="36" ><head>Label (painted) to panel N35</head>
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                                
                 <div type="textpart" n="37" ><head>Label (engraved) to panel N36</head>
                     <p>
                         <lb n="1"/>cēramāṉ perumāḷ katai <unclear><g type="pc">.</g></unclear>
                     </p>
-                </div>
+                </div>                
                 
+                <div type="textpart" n="38" ><head>Label (painted) to panel N37</head>
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                                
+                <div type="textpart" n="39" ><head>Label (painted) to panel N38</head>
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>                
+                
+                <div type="textpart" n="40" ><head>Label (painted) to panel G2</head>
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>         
+                <div type="textpart" n="41" ><head>Label (painted) to panel N39</head>
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                                
+                <div type="textpart" n="42" ><head>Label (painted) to panel N40</head>
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                                
                 <div type="textpart" n="43" ><head>Label (engraved) to panel N41</head>                    
                     <p>
                         <lb n="1"/>Atipattar katai
                     </p>
                 </div>
+                                
+                <div type="textpart" n="44" ><head>Label (painted) to panel N42</head>
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="45" ><head>Label (painted) to panel N43</head>
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div> 
                 
                 <div type="textpart" n="46" ><head>Label (engraved) to panel N44</head>                    
                     <p>
@@ -218,9 +355,21 @@
                     </p>
                 </div>
                 
+                <div type="textpart" n="47" ><head>Label (painted) to panel N45</head>
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                                
                 <div type="textpart" n="48" ><head>Label (engraved) to panel N46</head>                    
                     <p>
                         <lb n="1"/>kaṇampulāṇṭār
+                    </p>
+                </div>
+                
+                <div type="textpart" n="49" ><head>Label (engraved) to panel N47</head>                    
+                    <p>
+                        <lb n="1"/>
                     </p>
                 </div>
                 
@@ -234,8 +383,98 @@
                     <p>
                         <lb n="1"/>vāyilār
                     </p>
+                </div>                
+                
+                <div type="textpart" n="52" ><head>Label (engraved) to panel N50</head>                    
+                    <p>
+                        <lb n="1"/>
+                    </p>
                 </div>
                 
+                <div type="textpart" n="53" ><head>Label (engraved) to panel N51</head>                    
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="54" ><head>Label (engraved) to panel N52</head>                    
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="55" ><head>Label (engraved) to panel N53</head>                    
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="56" ><head>Label (engraved) to panel N54</head>                    
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="57" ><head>Label (engraved) to panel N55</head>                    
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="58" ><head>Label (engraved) to panel G3</head>                    
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="59" ><head>Label (engraved) to panel G4</head>                    
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="60" ><head>Panel G5</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="61" ><head>Label (engraved) to panel G6</head>                    
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="62" ><head>Label (engraved) to panel G7</head>                    
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                
+                 <div type="textpart" n="63" ><head>Label (engraved) to panel G8</head>                    
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                
+                 <div type="textpart" n="64" ><head>Label (engraved) to panel G9</head>                    
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="65" ><head>Panel N56</head>                    
+                    <p>
+                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                    </p>
+                </div>
+                                
+                <div type="textpart" n="66" ><head>Label (engraved) to panel N57</head>                    
+                    <p>
+                        <lb n="1"/>
+                    </p>
+                </div>
+                                
                 <div type="textpart" n="67" ><head>Label (engraved) to panel N58</head>                    
                     <p>
                         <lb n="1"/>necāṇṭār
