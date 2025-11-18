@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Labels engraved or painted above panels of the Nāyaṉmārs' frieze.</summary>
+                        <summary>Labels engraved and/or painted above panels of the Nāyaṉmārs' frieze.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -80,9 +80,9 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
-                <div type="textpart" n="1" ><head>Panel G1</head>                    
+                <div type="textpart" n="1" ><head>Label (painted) to panel G1</head>                    
                     <p>
-                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
+                        <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"/>
                     </p>                                       
                 </div>
                 
@@ -92,49 +92,49 @@
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="3" ><head>Panel N2</head>                    
+                <div type="textpart" n="3" ><head>Label (painted) to panel N2</head>                    
+                    <p>
+                        <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"/>
+                    </p>                                       
+                </div>
+                
+                <div type="textpart" n="4" ><head>Label (engraved) to panel N3</head>                    
+                    <p>
+                        <lb n="1"/>Iḷaiyamāṟaṅkuṭi māṟar katai
+                    </p>                                       
+                </div>
+                
+                <div type="textpart" n="5" ><head>Label (painted) to panel N4</head>                    
+                    <p>
+                        <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"/>
+                    </p>                                       
+                </div>
+                
+                <div type="textpart" n="6" ><head>Label (painted) to panel N5</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="4" ><head>Label (painted) to panel N3</head>                    
-                    <p>
-                        <lb n="1"/>Iḷaiyamāṟaṅkuṭimāṟar katai
-                    </p>                                       
-                </div>
-                
-                <div type="textpart" n="5" ><head>Panel N4</head>                    
+                <div type="textpart" n="7" ><head>Label (painted) to panel N6</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="6" ><head>Panel N5</head>                    
+                <div type="textpart" n="8" ><head>Label (painted) to panel N7</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="7" ><head>Panel N6</head>                    
+                <div type="textpart" n="9" ><head>Label (painted) to panel N8</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="8" ><head>Panel N7</head>                    
-                    <p>
-                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
-                    </p>                                       
-                </div>
-                
-                <div type="textpart" n="9" ><head>Panel N8</head>                    
-                    <p>
-                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
-                    </p>                                       
-                </div>
-                
-                <div type="textpart" n="10" ><head>Panel N9</head>                    
+                <div type="textpart" n="10" ><head>Label (painted) to panel N9</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
@@ -142,29 +142,29 @@
                 
                 <div type="textpart" n="11" ><head>Label (painted) to panel N10</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"/>
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="12" ><head>Panel N11</head>                    
+                <div type="textpart" n="12" ><head>Label (painted) to panel N11</head>                    
+                    <p>
+                         <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"/>
+                    </p>                                       
+                </div>
+                
+                <div type="textpart" n="13" ><head>Label (painted) to panel N12</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="13" ><head>Panel N12</head>                    
+                <div type="textpart" n="14" ><head>Label (painted) to panel N13</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="14" ><head>Panel N13</head>                    
-                    <p>
-                        <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
-                    </p>                                       
-                </div>
-                
-                <div type="textpart" n="15" ><head>Panel N14</head>                    
+                <div type="textpart" n="15" ><head>Label (painted) to panel N14</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
@@ -176,61 +176,61 @@
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="17" ><head>Panel N16</head>                    
+                <div type="textpart" n="17" ><head>Label (painted) to panel N16</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="18" ><head>Label (painted) to panel N17</head>
+                <div type="textpart" n="18" ><head>Label (engraved) to panel N17</head>
                     <p>
                         <lb n="1"/>tirunāḷaippōvār
                     </p>
                 </div>
                 
-                <div type="textpart" n="19" ><head>Label (painted) to panel N18</head>
+                <div type="textpart" n="19" ><head>Label (engraved) to panel N18</head>
                     <p>
-                        <lb n="1"/>tirukkuṟipputtoṇṭar
+                        <lb n="1"/><unclear>tirukkuṟipputtoṇṭar</unclear>
                     </p>
                 </div>
                 
                 <div type="textpart" n="20" ><head>Label (engraved) to panel N19</head>
                     <p>
-                        <lb n="1"/>ceynallūr piḷḷaiyār katai
+                        <lb n="1"/>ce<supplied reason="omitted">y</supplied>nallūr piḷḷaiyār katai
                     </p>
                 </div>
                 
-                <div type="textpart" n="21" ><head>Panel N20</head>                    
+                <div type="textpart" n="21" ><head>Label (painted) to panel N20</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="22" ><head>Panel N21</head>                    
+                <div type="textpart" n="22" ><head>Label (painted) to panel N21</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="23" ><head>Panel N22</head>                    
+                <div type="textpart" n="23" ><head>Label (painted) to panel N22</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="24" ><head>Panel N23</head>                    
+                <div type="textpart" n="24" ><head>Label (painted) to panel N23</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="25" ><head>Panel N24</head>                    
+                <div type="textpart" n="25" ><head>Label (painted) to panel N24</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="26" ><head>Panel N25</head>                    
+                <div type="textpart" n="26" ><head>Label (painted) to panel N25</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
@@ -254,19 +254,19 @@
                     </p>
                 </div>
                 
-                <div type="textpart" n="30" ><head>Panel N29</head>                    
+                <div type="textpart" n="30" ><head>Label (painted) to panel N29</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="31" ><head>Panel N30</head>                    
+                <div type="textpart" n="31" ><head>Label (painted) to panel N30</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
                 </div>
                 
-                <div type="textpart" n="32" ><head>Panel N31</head>                    
+                <div type="textpart" n="32" ><head>Label (painted) to panel N31</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>                                       
@@ -278,9 +278,9 @@
                     </p>
                 </div>
                 
-                <div type="textpart" n="34" ><head>Label (painted) to panel N33</head>
+                <div type="textpart" n="34" ><head>Label (engraved) to panel N33</head>
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>cākkiyaṉār <gap reason="illegible" quantity="3" unit="character"/>
                     </p>
                 </div>
                 
@@ -290,52 +290,54 @@
                     </p>
                 </div>
                 
-                <div type="textpart" n="36" ><head>Label (painted) to panel N35</head>
+                <div type="textpart" n="36" ><head>Label (engraved) to panel N35</head>
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>ciṟuttoṇṭar katai <g type="gomutraFinal">.</g>
                     </p>
                 </div>
                                 
                 <div type="textpart" n="37" ><head>Label (engraved) to panel N36</head>
                     <p>
-                        <lb n="1"/>cēramāṉ perumāḷ katai <unclear><g type="pc">.</g></unclear>
+                        <lb n="1"/>cēramāṉ perumāḷ katai <g type="pc">.</g>
                     </p>
                 </div>                
                 
-                <div type="textpart" n="38" ><head>Label (painted) to panel N37</head>
+                <div type="textpart" n="38" ><head>Label (engraved) to panel N37</head>
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>kaṇanātāṇṭā<supplied reason="omitted">r</supplied> katai <g type="pc">.</g>
                     </p>
                 </div>
                                 
-                <div type="textpart" n="39" ><head>Label (painted) to panel N38</head>
+                <div type="textpart" n="39" ><head>Label (engraved) to panel N38</head>
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>kūṟṟuvaṉār <g type="gomutraFinal">.</g>
                     </p>
                 </div>                
                 
-                <div type="textpart" n="40" ><head>Label (painted) to panel G2</head>
+                <div type="textpart" n="40" ><head>Label (engraved) to panel G2</head>
                     <p>
-                        <lb n="1"/>
-                    </p>
-                </div>         
-                <div type="textpart" n="41" ><head>Label (painted) to panel N39</head>
-                    <p>
-                        <lb n="1"/>
+                        <lb n="1"/>poyyātimaiyillāta ‡ pulavar <g type="gomutraFinal">.</g>
                     </p>
                 </div>
                                 
-                <div type="textpart" n="42" ><head>Label (painted) to panel N40</head>
+                <div type="textpart" n="41" ><head>Label (engraved) to panel N39</head>
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>pukaḻccōḻaṉār
                     </p>
                 </div>
-                                
+                
+                <div type="textpart" n="42" ><head>Label (engraved) to panel N40</head>
+                    <p>
+                        <lb n="1"/><unclear>nara</unclear>ciṅka<unclear>muṉaiya</unclear>raiyar
+                    </p>
+                </div>
+                
                 <div type="textpart" n="43" ><head>Label (engraved) to panel N41</head>                    
                     <p>
                         <lb n="1"/>Atipattar katai
                     </p>
                 </div>
+                
                                 
                 <div type="textpart" n="44" ><head>Label (painted) to panel N42</head>
                     <p>
@@ -433,7 +435,7 @@
                     </p>
                 </div>
                 
-                <div type="textpart" n="60" ><head>Panel G5</head>                    
+                <div type="textpart" n="60" ><head>Label (painted) to panel G5</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>
@@ -463,7 +465,7 @@
                     </p>
                 </div>
                 
-                <div type="textpart" n="65" ><head>Panel N56</head>                    
+                <div type="textpart" n="65" ><head>Label (painted) to panel N56</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>
@@ -567,10 +569,9 @@
             </div>	
             
             <div type="commentary">
-                <p>The Nāyaṉmārs’ frieze comprised 78 panels, as described in <bibl><ptr target="bib:Marr1979_01"/></bibl>: 62 panels for 62 different Nāyaṉmārs (N1 to N62), 7 panels for Cuntarar (N63.1 to N63.7), 9 panels for groups of saints (G1 to G9). They are distributed clockwise, from eastern edge of southern base of the <foreign>maṇḍapa</foreign> up to the eastern edge of northern base of the <foreign>maṇḍapa</foreign>, as follows: G1, N1-N38, G2, N39-N55, G3-G9, N56-N62, N63.1-N63.7. Most of the Nāyaṉmārs' panels are labelled, with engraved or red-painted labels. Some red-painted labels seem to have escaped attention so far (N1, N10, N15).</p>
-                <p>It is possible that all panels were intended to be labelled and first received a painted label to be converted into an engraved label, which was started from the eastern edge of northern base of the <foreign>maṇḍapa</foreign> with the panels concerning Cuntarar and, for some reasons, not completed up to the eastern edge of southern base of the <foreign>maṇḍapa</foreign>. All the panels are thus represented in the above edition, some with a possibly lost label.</p>
-                <p>The label for N19 and N26 are engraved, not painted, <hi rend="italic">pace</hi> <bibl><ptr target="bib:Marr1979_01"/></bibl>.</p>
-                <p>The palaeography of the engraved and painted labels appears to be similar. It is possible that the painted labels have been reproduced exactly in the course of the past centuries. Note that some engraved labels have also been painted, which explains that some have been taken for painted labels only.</p>            
+                <p>The Nāyaṉmārs’ frieze comprised 78 panels, as described in <bibl><ptr target="bib:Marr1979_01"/></bibl>: 62 panels for 62 different Nāyaṉmārs (N1 to N62), 7 panels for Cuntarar (N63.1 to N63.7), 9 panels for groups of saints (G1 to G9). They are distributed clockwise, from eastern edge of southern base of the <foreign>maṇḍapa</foreign> up to the eastern edge of northern base of the <foreign>maṇḍapa</foreign>, as follows: G1, N1-N38, G2, N39-N55, G3-G9, N56-N62, N63.1-N63.7. Most of the Nāyaṉmārs' panels are labelled, with engraved and/or red-painted labels.</p>
+                <p>The palaeography of the engraved and painted labels appears to be similar. It is possible that all panels were intended to be labelled and first received a painted label to be converted into an engraved label. The conversion from painted to engraved labels was started from the eastern edge of northern base of the <foreign>maṇḍapa</foreign> with the panels concerning Cuntarar and, for some reasons, not completed up to the eastern edge of southern base of the <foreign>maṇḍapa</foreign>. All the 78 panels are thus represented in the above edition even though presently no trace of painted label is visible.</p>
+                <p>As for the existing painted labels, it is possible that they have been reproduced exactly in the course of the past centuries. Note that some engraved labels have also been painted, that is, the engraved letters have been enhanced with paintings.<note>The label for panel N17 is peculiar in that the painted label starts on the left of the shallowly engraved label.</note> This might explain why some engraved labels have been wrongly taken for painted labels only.<note>For instance, the labels for panels N3, N19 and N26 are engraved, not only painted, <hi rend="italic">pace</hi> <bibl><ptr target="bib:Marr1979_01"/></bibl>.</note> Some red-painted labels seem to have escaped attention so far (for instance, N1 and N15) and might be exact reproductions of earlier painted labels or additions.</p> 
                 
             </div>
             
@@ -580,7 +581,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Marr1979_01"/></bibl>. Edited and translated in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl> in two discrete groups, on for engraved labels (a.XV) an the other for painted labels (a.XVI).</p>
                 
-                <p>This digital edition by Emmanuel Francis based on previous editions and photos (E. Francis, 2025). The labels are here given in clockwise order with their number in <bibl><ptr target="bib:Marr1979_01"/></bibl> (N for Nāyaṉmār, from 1 to 63).</p>
+                <p>This digital edition by Emmanuel Francis based on previous editions and photos (E. Francis, 2025). The labels are here given in clockwise order following the nomenclature in <bibl><ptr target="bib:Marr1979_01"/></bibl> (N for Nāyaṉmār, from 1 to 63).</p>
                 
                 <listBibl type="primary">
                     
