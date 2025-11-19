@@ -341,13 +341,13 @@
                                 
                 <div type="textpart" n="44" ><head>Label (painted) to panel N42</head>
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/><g type="gomutraInitial"/> kalikkampāṇṭār katai
                     </p>
                 </div>
                 
                 <div type="textpart" n="45" ><head>Label (painted) to panel N43</head>
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>kaliya<choice><orig>n</orig><reg>ṉ</reg></choice>ār
                     </p>
                 </div> 
                 
@@ -359,7 +359,7 @@
                 
                 <div type="textpart" n="47" ><head>Label (painted) to panel N45</head>
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>Aiyyaṭikaḷ kāṭavar kō<choice><orig>n</orig><reg>ṉ</reg></choice>ār
                     </p>
                 </div>
                                 
@@ -371,7 +371,7 @@
                 
                 <div type="textpart" n="49" ><head>Label (engraved) to panel N47</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>kāriyār
                     </p>
                 </div>
                 
@@ -389,49 +389,49 @@
                 
                 <div type="textpart" n="52" ><head>Label (engraved) to panel N50</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>muṉaiyaṭuvar
                     </p>
                 </div>
                 
                 <div type="textpart" n="53" ><head>Label (engraved) to panel N51</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>kalaṟcinka<choice><orig>n</orig><reg>ṉ</reg></choice>ār
                     </p>
                 </div>
                 
                 <div type="textpart" n="54" ><head>Label (engraved) to panel N52</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>Iṭaṅkaḻiyāṇṭār
                     </p>
                 </div>
                 
                 <div type="textpart" n="55" ><head>Label (engraved) to panel N53</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>ceruttuṇaiyāṇṭār
                     </p>
                 </div>
                 
                 <div type="textpart" n="56" ><head>Label (engraved) to panel N54</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>pukaḻttuṇaiyār
                     </p>
                 </div>
                 
                 <div type="textpart" n="57" ><head>Label (engraved) to panel N55</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>koḻppuliyāṇṭār <g type="gomutraFinal">.</g>
                     </p>
                 </div>
                 
                 <div type="textpart" n="58" ><head>Label (engraved) to panel G3</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>pattarāyppaṇivār
                     </p>
                 </div>
                 
                 <div type="textpart" n="59" ><head>Label (engraved) to panel G4</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>paramaṉaiyē pāṭuvār
                     </p>
                 </div>
                 
@@ -443,29 +443,29 @@
                 
                 <div type="textpart" n="61" ><head>Label (engraved) to panel G6</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>tiruvārūr piṟantār
                     </p>
                 </div>
                 
                 <div type="textpart" n="62" ><head>Label (engraved) to panel G7</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>mukkālum tirumēṉi t<choice><orig>i</orig><reg>ī</reg></choice>ṇṭuvār
                     </p>
                 </div>
                 
                  <div type="textpart" n="63" ><head>Label (engraved) to panel G8</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>muḻun<choice><orig>i</orig><reg>ī</reg></choice>ṟupūciya muṉivar
                     </p>
                 </div>
                 
                  <div type="textpart" n="64" ><head>Label (engraved) to panel G9</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>Appālum Aṭiccarnta Aṭiyār
                     </p>
                 </div>
                 
-                <div type="textpart" n="65" ><head>Label (painted) to panel N56</head>                    
+                <div type="textpart" n="65" ><head>Label (painted) to panel N56 (Pūcalār)</head>                    
                     <p>
                         <gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
                     </p>
@@ -473,7 +473,7 @@
                                 
                 <div type="textpart" n="66" ><head>Label (engraved) to panel N57</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>pāṇṭimātēvi
                     </p>
                 </div>
                                 
@@ -485,61 +485,61 @@
                 
                 <div type="textpart" n="68" ><head>Label (engraved) to panel N59</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>kō-ciṅka-p-perumāḷ
                     </p>
                 </div>
                 
                 <div type="textpart" n="69" ><head>Label (engraved) to panel N60</head>                    
                     <p>
-                        <lb n="1"/>tirun<choice><orig>i</orig><reg>ī</reg></choice>lakaṇṭapperumpāṇaṉār
+                        <lb n="1"/>tiru-n<choice><orig>i</orig><reg>ī</reg></choice>lakaṇṭa-p-perum-pāṇaṉār
                     </p>
                 </div>
                 
                 <div type="textpart" n="70" ><head>Label (engraved) to panel N61</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>caṭaiyaṉār
                     </p>
                 </div>
                 
                 <div type="textpart" n="71" ><head>Label (engraved) to panel N62</head>                    
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>Icaiñāṉiyār
                     </p>
                 </div>
                 
                 <div type="textpart" n="72" ><head>Label (engraved) to panel N63.1</head>
                     <p>
-                        <lb n="1"/>Uṭaiyanampi Eḻuntaruḻukiṟār
+                        <lb n="1"/>Uṭaiya-nampi Eḻuntaruḻukiṟār
                     </p>
                 </div>
                 
                 <div type="textpart" n="73" ><head>Label (engraved) to panel N63.2</head>
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>Āvaṇa-Olai kāṭṭiṉa paṭi
                     </p>
                 </div>
                 
                 <div type="textpart" n="74" ><head>Label (engraved) to panel N63.3</head>
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>Uṭaiya-nampiyai Āṇṭu koṇṭ-aruḷiṉa paṭi
                     </p>
                 </div>
                 
                 <div type="textpart" n="75" ><head>Label (engraved) to panel N63.4</head>
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>Uṭaiya-nampikku Ō<choice><orig>ll</orig><reg>l</reg></choice> eṉṟ-aruḷiṉa paṭi <g type="gomutraFinal"/>
                     </p>
                 </div>
                 
                 <div type="textpart" n="76" ><head>Label (engraved) to panel N63.5</head>
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>Uṭaiya-nampiyai vēṭar vaḻi pāritta v-iṭam
                     </p>
                 </div>
                 
                 <div type="textpart" n="77" ><head>Label (engraved) to panel N63.6</head>
                     <p>
-                        <lb n="1"/>
+                        <lb n="1"/>tiru-murukaṉ-pūṇṭiyil peṟṟa paṭi <g type="gomutraFinal"/>
                     </p>
                 </div>
                 
