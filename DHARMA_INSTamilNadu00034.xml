@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, time of Rājendra Cōḻa, no year</title>
+                <title>Nallūr, Vilvāraṇyeśvara, no king, no year</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>In characters of about the 12th century A.D. Records the consecration of the image of Dakśiṇāmūrtti and an endowment of wet lands for worship to the deity by a certain Maṇḍai Ponnaṉ alias .... śōḻa-Malaiyamāṉ of <supplied reason="subaudible">the village of</supplied> Śāttiyakkam.</summary>
+                        <summary></summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -135,7 +135,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/148).</p>
-                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy (2024), photos (E. Francis, 2024), ASI estampage kindly supplied by the Director of Epigraphy in Mysore.</p>
+                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy (2024), photos (E. Francis, 2024), ASI estampage and transcript kindly supplied (2025) by the Director of Epigraphy in Mysore.</p>
                 
                 <!--<listBibl type="primary">
                     
