@@ -95,14 +95,14 @@
                 </ab>
                 
                 <p>
-                    t<unclear>i</unclear>r<unclear>i</unclear>-puva<choice><sic>pā</sic><corr>ṉa</corr></choice>-c-cakkara
+                    t<supplied reason="lost">i</supplied>r<supplied reason="lost">i</supplied>-puvaṉa-c-cakkara
                     <lb n="2" break="no"/>vaṟtikaḷ <hi rend="grantha">śrī</hi>-k<choice><orig>o</orig><reg>u</reg></choice>lōttuṅka-<supplied reason="lost">cō</supplied>
                     <lb n="3" break="no"/>ḻa-tēvarkku yāṇṭu 9-Āvatu
                 </p>
                 <p>
                     <unclear>U</unclear>
-                    <lb n="4" break="no"/>ṭaiyār nalla-nāyanār kō<unclear>y</unclear>i<supplied reason="lost">li</supplied>
-                    <lb n="5" break="no"/><supplied reason="lost">l</supplied> t<unclear>ē</unclear><unclear>var A</unclear>ṭ<supplied reason="lost">i</supplied>yāḷ mātu<gap unit="character" reason="lost" quantity="3" precision="low"/><seg type="aksara"><unclear>m</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg>
+                    <lb n="4" break="no"/>ṭaiyār nalla-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār kō<unclear>y</unclear>i<unclear>li</unclear>
+                    <lb n="5" break="no"/><supplied reason="lost">l</supplied> t<unclear>ē</unclear><unclear>var-A</unclear>ṭ<supplied reason="lost">i</supplied>yāḷ mātu<supplied reason="lost">m</supplied><unclear>ai</unclear> <gap reason="lost" quantity="1" unit="character"/> <choice><unclear>m</unclear><unclear>ṭi</unclear></choice>
                     <lb n="6" break="no"/>-Āṉa kōvaṇavarkulāvukku t<choice><sic>a</sic><corr>i</corr></choice>ruv<choice><sic>a</sic><corr>e</corr></choice>m
                     <lb n="7" break="no"/>pāvai mutal-pāṭṭun tiru-vēṭṭai
                     <lb n="8"/>mu<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ēṟavum tiru-t-tēr mu<choice><orig>n</orig><reg>ṉṉ</reg></choice>ēṟavu
@@ -115,7 +115,7 @@
                 <listApp>
                     
                     <app loc="5">
-                        <lem>mātu<gap unit="character" reason="lost" quantity="3" precision="low"/><seg type="aksara"><unclear>m</unclear><seg type="component" subtype="vowel"><gap reason="lost" quantity="1" unit="component"/></seg></seg></lem>
+                        <lem>mātu<supplied reason="lost">m</supplied><unclear>ai</unclear> <gap reason="lost" quantity="1" unit="character"/> <choice><unclear>m</unclear><unclear>ṭi</unclear></choice></lem>
                         <rdg source="bib:ARIE1939-1943">mātu<unclear>mai</unclear></rdg>
                     </app>
                     
