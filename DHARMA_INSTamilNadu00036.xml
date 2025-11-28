@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, time of Vīra Rājendra, year 6</title>
+                <title>Nallūr, Vilvāraṇyeśvara, time of Vīrarājendra, year 6</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -44,7 +44,9 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Vīra Rājendra = Kulottuṅga Cōḻa III. Records the construction of a shrine for and consecration of the image of Kṣētrapāla in the temple of Nalla-Nāyaṉār at Nallūr by Āḍavalla-Nambi of Koṭumpuṉam, who is stated also to have endowed a quarter <foreign>vēli</foreign> of wet land for offerings and lamps to the deity.
+                        <summary>Vīrarājendra = Kulottuṅga Cōḻa III. Record of the construction of the temple, the consecration of the Kṣetrapāla
+                            
+                            Records the construction of a shrine for and consecration of the image of Kṣētrapāla in the temple of Nalla-Nāyaṉār at Nallūr by Āṭavalla-Nambi of Koṭumpuṉam, who is stated also to have endowed a quarter <foreign>vēli</foreign> of wet land for offerings and lamps to the deity.
                         </summary>
                     </msContents>
                     <physDesc>
@@ -95,23 +97,44 @@
                     vī<hi rend="grantha">ra-rāj<unclear>e</unclear>ndra-de</hi>vaṟku yāṇṭu Āṟ-āvatu
                 </p>
                 <p>
-                    <lb n="2"/>Uṭaiyār nal=la-nāya<supplied reason="lost">ṉa</supplied>r kōyililē koṭumpuṉa <unclear>va</unclear> <hi rend="grantha"><unclear>je</unclear></hi> <gap reason="lost" unit="character" quantity="2"/>
-                    <lb n="3" break="no"/><choice><unclear>ta</unclear><unclear>n</unclear></choice> Aṭavall<choice><unclear>ar</unclear><unclear>ān=</unclear></choice> <choice><unclear>ṉ</unclear><unclear>t</unclear></choice>am<supplied reason="lost">pi</supplied> yen=ta la <unclear>yān</unclear> nal=la-nāyanāṟ-k <hi rend="grantha">kṣe</hi>t
-                    <lb n="4" break="no"/><supplied reason="lost">tra</supplied>-<unclear>pāla</unclear> <gap reason="lost" unit="character" quantity="3"></gap> yāṉ <unclear>Eḻun</unclear>tar<choice><sic>u</sic><corr>i</corr></choice><unclear>vi</unclear>ttu-k k<unclear>ōyilu</unclear> <gap reason="lost" unit="character" quantity="4"></gap>
-                    <lb n="5" break="no"/>tu-t tiru-v-amutu-paṭikkun= tiruviḷakku-kkum Ai<choice><unclear>vā</unclear><unclear>var</unclear></choice> pu<unclear>tu</unclear><supplied reason="lost">k</supplied>kuṭiyi
+                    <lb n="2"/>Uṭaiyār nal=la-nāya<supplied reason="lost">ṉa</supplied>r kōyililē koṭumpuṉavan= tēva
+                    
+                    <lb n="3" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice> Aṭavallā<choice><orig>n</orig><reg>ṉ</reg></choice>= nam<supplied reason="lost">pi</supplied>ye<choice><orig>n</orig><reg>ṉ</reg></choice>= nal=la-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>āṟ-k<unclear>u</unclear> <hi rend="grantha">kṣe</hi>t
+                    
+                    <lb n="4" break="no"/><supplied reason="lost">tra</supplied>-<unclear>pāla</unclear>-p p<supplied reason="lost">i</supplied>ḷḷaiyāṉ <unclear>E</unclear>ḻuntar<choice><sic>u</sic><corr>i</corr></choice><unclear>vi</unclear>ttu-k k<unclear>ōyilu</unclear><supplied reason="lost">m eṭuppi</supplied>
+                    
+                    <lb n="5" break="no"/><supplied reason="omitted">t</supplied>tu-t tiru-v-amutu-paṭikkun= tiruviḷakku-kkum Aivar pu<unclear>tu</unclear><supplied reason="lost">k</supplied>kuṭiyi
+                    
                     <lb n="6"/><unclear>l</unclear> v-iṭ=ṭa na<choice><sic>n</sic><corr>ñ</corr></choice>ce<supplied reason="omitted">y</supplied> nilaṅ kāl
                 </p>
+                
                 <p>        
-                    Itu Ivv-ūr koṭumpuṉa<unclear>m</unclear> <gap reason="lost" unit="character" quantity="1"></gap> <unclear>na</unclear> ci
-                    <lb n="7"/><gap reason="lost" unit="character" quantity="2"></gap> tēvar ciriya malaiyamāṉum paṭaiya<choice><orig>n</orig><reg>ṉ</reg></choice> ceyaṅ <supplied reason="lost">ko</supplied>ṇṭa
-                    <lb n="8"/><gap reason="lost" unit="line" quantity="1"></gap>
-                    <lb n="9"/><choice><unclear>A</unclear><unclear>vu</unclear></choice>m a tu <gap reason="lost" unit="character" quantity="3"></gap> <unclear>kū</unclear>vāṉum paṭiya<choice><orig>n</orig><reg>ṉ</reg></choice> <choice><unclear>n</unclear><unclear>t</unclear></choice>āṭaṉum uḷḷiṭ=ṭa koṭumpuṉa <gap reason="lost" unit="character" quantity="1"></gap>
-                    <lb n="10" break="no"/>rom <gap reason="lost" unit="character" quantity="2"></gap>  ṇaiyar <hi rend="grantha">śrī</hi>-pātattē nīr vārttu kallu veṭ=ṭi <supplied reason="lost">kuṭu</supplied>
-                    <lb n="11"/>ṭ=ṭōm <unclear>I</unclear>vv-aṉaivōm Itumāṟu vānta<choice><unclear>nu</unclear><unclear>ṅ</unclear></choice>kaḷ ammaikku <gap reason="lost" unit="character" quantity="2"></gap> 
-                    <lb n="12"/>tā <supplied reason="lost">c</supplied>e <gap reason="lost" unit="character" quantity="1"></gap> ṇa vāḷan vallavaṉāyanacat=tiyam can=tirātit=ta<unclear>va</unclear><choice><unclear>ṟ</unclear><unclear>l</unclear></choice>
+                    Itu Ivv-ūr koṭumpuṉa<unclear>va</unclear><choice><orig>n</orig><reg>ñ</reg></choice> ci
+                    <lb n="7" break="no"/>ṅka<unclear>n</unclear>=tēvar ciriya malaiyamāṉum paṭaiya<choice><orig>n</orig><reg>ṉ</reg></choice> ceyaṅ <supplied reason="lost">ko</supplied>ṇṭa
+                    
+                    <lb n="8" break="no"/><supplied reason="lost">malaiyamāṉum tēva-tirucciṟṟampala-malaiyamāṉum</supplied><note>Line 8 is covered by cement. Reading from ASI transcript</note>
+                    
+                    <lb n="9"/><supplied reason="lost">Amattai</supplied>-<unclear>kū</unclear>vāṉum paṭiya<choice><orig>n</orig><reg>ṉ</reg></choice> nāṭaṉum uḷḷiṭ=ṭa koṭumpuṉa<unclear>va</unclear> Ū
+                    
+                    <lb n="10" break="no"/>rōm <supplied reason="lost">piḷ</supplied>ḷaiyar <hi rend="grantha">śrī</hi>-pātattē nīr vārttu kallu veṭ=ṭi <supplied reason="lost">vi</supplied>
+                    
+                    <lb n="11" break="no"/>ṭ=ṭōm <unclear>I</unclear>vv-aṉaivōm 
                 </p>
-                <p>                    
-                    <lb n="13"/><supplied reason="lost">Itu paṉma</supplied><hi rend="grantha"><unclear>h</unclear></hi><supplied reason="lost"><hi rend="grantha">e</hi></supplied><hi rend="grantha"><unclear>śvara-rakṣai</unclear></hi> 
+                
+                <p>
+                    Itumāṟu vānta<choice><unclear>nu</unclear><unclear>ṅ</unclear></choice>kaḷ ammaikku-<supplied reason="lost">t</supplied> 
+                    
+                    <lb n="12"/>tā<supplied reason="lost">ṉ</supplied>ē <supplied reason="lost">ma</supplied>ṇavāḷa<choice><orig>n</orig><reg>ṉ</reg></choice> 
+                    
+                </p>
+                <p>
+                    
+                    vallavaraiya<choice><orig>n</orig><reg>ṉ</reg></choice> cat=tiyam
+                    </p>
+                <p>
+                    
+                    can=tirātit=ta<unclear>va</unclear><choice><unclear>ṟ</unclear><unclear>l</unclear></choice>            
+                    <lb n="13"/><supplied reason="lost">ṟ paṉma</supplied><hi rend="grantha"><unclear>h</unclear></hi><supplied reason="lost"><hi rend="grantha">e</hi></supplied><hi rend="grantha"><unclear>śvara-rakṣai</unclear></hi> 
                 </p>
                 
             </div>
@@ -134,8 +157,37 @@
                     Prosperity! Fortune!
                 </p>
                 
+                <p n="1">
+                    This is the sixth year of king Vīrarājendra <supplied reason="explanation">Kulottuṅga III</supplied>.
+                </p>
+                
+                <p n="2-6">
+                    I, Koṭumpuṉavantēvaṉ Aṭavallaṉ Nampi, have set up the guardian deity <supplied reason="explanation"><foreign>kṣetrapāla piḷḷai</foreign></supplied> for the  god Nalla-nāyaṉār of Nallūr, built the shrine <supplied reason="explanation"><foreign>kōyilum eṭuppitu</foreign></supplied>, and endowed <supplied reason="explanation"><foreign>iṭṭa</foreign></supplied> a quarter of wet-land–situated in the settlements of [these] five people–for the sacred lamp <supplied reason="explanation"><foreign>tiruviḷakku</foreign></supplied> and the food offering <supplied reason="explanation"><foreign>tiruvamutu paṭi</foreign> </supplied>in the temple of the Lord Nalla-nāyaṉār.
+                    
+                </p>
+                
+                <p n="6-11">
+                    We, the residents of Koṭumpuṉavam
+                    <list>
+                    <item>Koṭumpuṉavaṉ Ciṅkantēvar Ciriya Malaiyamāṉ,</item> 
+                    <item>Paṭaiyaṉ Ceyaṅkoṇṭa Malaiyamāṉ,</item>
+                    <item>Tēvatirucciṟṟampala Malaiyamāṉ,</item> 
+                    <item>Amattai Kūvāṉ, and</item>
+                    <item>Paṭiyaṉ Nāṭaṉ,</item>
+                    </list>
+                    have given this <supplied reason="subaudible">endowment for</supplied> this town <supplied reason="explanation"><foreign>itu ivvūr</foreign></supplied> after we, such people <supplied reason="explanation"><foreign>ivv-aṉaivōm</foreign></supplied>, poured water on the holy feet of the deity <supplied reason="explanation"><foreign>piḷḷai</foreign></supplied>
+                </p>
+                
+                <p n="11-12">
+                    Whoever alters this <supplied reason="explanation">itu māṟuvāṉ</supplied> will become the husband of his own mother <supplied reason="explanation"><foreign>ammaikku tāṉē</foreign></supplied>.
+                </p>
+                
+                <p n="12">
+                  <supplied reason="subaudible">This is</supplied> the oath <supplied reason="explanation"><foreign>cattiyam</foreign></supplied> of Vallavaraiyaṉ.  
+                </p>
+                
                 <p>
-                    Sixth year of ...
+                     This will be under the protection of the Śaiva devotees as long as the sun and the moon remain.
                 </p>
                 
             </div>
