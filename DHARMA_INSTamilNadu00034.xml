@@ -93,19 +93,35 @@
                 </ab>
                 
                 <p>
-                    It-<hi rend="grantha">dakṣi</hi>ṇām<choice><orig>u</orig><reg>ū</reg></choice><supplied reason="omitted">r</supplied>tti te <gap reason="lost" unit="character" quantity="1"></gap>
+                    It-<hi rend="grantha">dakṣi</hi>ṇām<choice><orig>u</orig><reg>ū</reg></choice><supplied reason="omitted">r</supplied>tti te<unclear>va</unclear><supplied reason="lost">⌈</supplied>
                     
+                    <lb n="2" break="no"/><supplied reason="lost">rai</supplied> Eḻu<choice><orig>ṉ</orig><reg>n</reg></choice>taruḷi vittāṉ cātti<supplied reason="lost">yak</supplied>
                     
+                    <lb n="3" break="no"/><supplied reason="lost">kam u</supplied>ṭaiyāṉ maṇṭai-poṉ<choice><orig>n</orig><reg>ṉ</reg></choice>aṉ <hi rend="grantha"><unclear>śrī</unclear></hi>
                     
-                    <lb n="2"/><gap reason="lost" unit="character" quantity="1"></gap> ḻu<choice><orig>ṉ</orig><reg>n</reg></choice>t-aruḷi-vittāṉ cātti
-                    <lb n="3"/><gap reason="lost" unit="character" quantity="3"></gap><choice><unclear>yām</unclear><unclear>māṉ</unclear></choice> maṇṭai poṉa<choice><orig>n</orig><reg>ṉ</reg></choice> <choice><unclear>ṉaṭa</unclear><unclear>ṭai</unclear></choice>
-                    <lb n="4"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="5"/><gap reason="lost" unit="character" quantity="7"></gap> ta ta ta<gap reason="lost" unit="character" quantity="3"></gap> ‡ <gap reason="lost" unit="character" quantity="2"></gap> <unclear cert="low">ṭaṟaṉa</unclear>
-                    <lb n="6"/><gap reason="lost" unit="character" quantity="7"></gap> ttiya ka ka tuvi ‡ tiyakk<choice><unclear>a</unclear><unclear>u</unclear></choice>
-                    <lb n="7"/><gap reason="lost" quantity="7" unit="character"/> viṭṭe cāta ‡ <unclear>ṉ</unclear> <choice><unclear>m</unclear><unclear>ḻ</unclear></choice>uṭi <gap reason="lost" quantity="1" unit="character"/>
-                    <lb n="8"/><gap reason="lost" quantity="7" unit="character"/> <unclear>ṇ</unclear>ṭ<choice><unclear>a</unclear><unclear>ai</unclear></choice> po<choice><orig>n</orig><reg>ṉ</reg></choice> <gap reason="lost" quantity="1" unit="character"/> ‡ I<unclear>(tuku)</unclear> <gap reason="lost" quantity="1" unit="character"/>
-                    <lb n="9"/><gap reason="lost" quantity="10" unit="character"/> te <gap reason="lost" quantity="1" unit="line"/> ‡ <gap reason="lost" quantity="5" unit="character"/>
+                    <lb n="4"/><gap reason="lost" quantity="4" unit="character"/> cōḻa- <unclear>malai</unclear>yamāṉ <gap reason="lost" quantity="2" unit="character"/>
+                </p>
+                <p>
+                    <lb n="5"/><gap reason="lost" unit="character" quantity="3"></gap> vat' āka
+                    <supplied reason="lost">canti</supplied>rātittavaṟ cel‡vat’ āka  
+                </p>
+                <p>  
+                    Amu
+                    <lb n="6" break="no"/><supplied reason="lost">tu-pa</supplied>ṭi cel<unclear>va</unclear><gap reason="lost" unit="character" quantity="3"></gap> <unclear>c</unclear>āttiyakka<supplied reason="omitted">t</supplied>tu ‡ v-iṭṭa naṉ ⌈
                     
+                    <lb n="7"/><supplied reason="lost">c</supplied>ai <supplied reason="lost">ni</supplied>lam kā <gap reason="lost" unit="character" quantity="3"/> viṭṭē<supplied reason="omitted">ṉ</supplied> ‡ 
+                </p>
+                <p>
+                    
+                    cāttiyakka
+                    <lb n="8"/><supplied reason="lost">m uṭai</supplied>yā<supplied reason="lost">ṉ ma</supplied>ṇṭai-po<choice><orig>nn</orig><reg>ṉṉ</reg></choice>a ‡ <unclear reason="eccentric_ductus">n</unclear> muṭi <gap reason="lost" unit="character" quantity="1"/>
+                    
+                    <lb n="9"/><gap reason="lost" unit="character" quantity="1"/> <supplied reason="lost">cōḻa malaiyam</supplied>ā<choice><orig>n</orig><reg>ṉ</reg></choice>ē<unclear>ṉ</unclear> 
+                </p>
+                <p>
+                    
+                    Itu <gap reason="lost" unit="character" quantity="2"></gap>
+                    <lb n="10"/><gap reason="lost" quantity="1" unit="line"></gap>
                 </p>
                 
             </div>
@@ -127,8 +143,19 @@
                     <supplied reason="lost">Prosperity!</supplied> Fortune!
                 </p>
                 
-                <p>
-                    ...
+                <p n="1-4">
+                    Maṇṭai Poṉṉaṉ from Cāttiyakkam built this image of Dakṣiṇā.
+                </p>
+                
+                <p n="5">
+                    <gap reason="undefined"></gap> as long as the sun and the moon remain <gap reason="undefined"></gap>
+                </p>
+                
+                <p n="5-7">
+                    I have given <gap reason="undefined"></gap> a field of wetland, which was taken from Cāttiyakkam <gap reason="undefined"></gap> as food offering <supplied reason="explanation"><foreign>amutu-paṭi</foreign></supplied> <gap reason="undefined"></gap>
+                </p>
+                <p n="7-9">
+                    I, Muṭi*cōḻa Malaiyamāṉ, alias Maṇṭai Poṉṉaṉ, land-owner <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> from Cāttiyakkam <gap reason="undefined"></gap>
                 </p>
                 
             </div>
@@ -153,7 +180,7 @@
                         <citedRange unit="item">148</citedRange>
                         <citedRange unit="appendix">B/1940-1941</citedRange>
                     </bibl> 
-                   
+                    
                     
                 </listBibl>
                 
