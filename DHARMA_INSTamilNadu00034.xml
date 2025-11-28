@@ -44,7 +44,9 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>Installation of the image of Dakṣiṇā <supplied reason="explanation"><foreign>dakṣiṇamūrtti</foreign></supplied> and endowment of wet lands both made by Maṇṭai Poṉṉaṉ, alias Muṭi<gap reason="undefined" extent="unknown"></gap>cōḻa Malaiyamāṉ from Cāttiyakkam. 
+                            
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -87,11 +89,14 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <ab>
-                    <lb n="1"/><supplied reason="lost"><hi rend="grantha">svas</hi></supplied><unclear>ti</unclear> <hi rend="grantha">śrī</hi>
+                    <lb n="1"/><supplied reason="lost"><hi rend="grantha">svas</hi></supplied><hi rend="grantha">ti</hi> <hi rend="grantha">śrī</hi>
                 </ab>
                 
                 <p>
                     It-<hi rend="grantha">dakṣi</hi>ṇām<choice><orig>u</orig><reg>ū</reg></choice><supplied reason="omitted">r</supplied>tti te <gap reason="lost" unit="character" quantity="1"></gap>
+                    
+                    
+                    
                     <lb n="2"/><gap reason="lost" unit="character" quantity="1"></gap> ḻu<choice><orig>ṉ</orig><reg>n</reg></choice>t-aruḷi-vittāṉ cātti
                     <lb n="3"/><gap reason="lost" unit="character" quantity="3"></gap><choice><unclear>yām</unclear><unclear>māṉ</unclear></choice> maṇṭai poṉa<choice><orig>n</orig><reg>ṉ</reg></choice> <choice><unclear>ṉaṭa</unclear><unclear>ṭai</unclear></choice>
                     <lb n="4"/><gap reason="lost" quantity="1" unit="line"/>
@@ -148,6 +153,8 @@
                         <citedRange unit="item">148</citedRange>
                         <citedRange unit="appendix">B/1940-1941</citedRange>
                     </bibl> 
+                   
+                    
                 </listBibl>
                 
             </div>
