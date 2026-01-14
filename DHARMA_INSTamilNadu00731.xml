@@ -81,34 +81,36 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>kālaiyukta <g type="varuṣam"></g> Āṭi <g type="mācam"></g>
+                    <lb n="1"/>kā<choice><orig>lai</orig><reg>ḷa</reg></choice>yu<choice><orig>t</orig><reg>k</reg></choice>ta <g type="varuṣam"></g> Āṭi <g type="mācam"></g>
                     <lb n="2"/><num value="13"> <g type="numeral">10</g> 3</num> <g type="tēti"></g> tirupperuntuṟai
-                    <lb n="3"/>Āḷuṭaiyaparamacuvā
+                    <lb n="3"/>Āḷuṭaiya-paramacuvā
                     <lb n="4" break="no"/>mi <hi rend="grantha">śrī</hi>-paṇṭāra<seg type="aksara">t=tu</seg><seg type="aksara">k=ku</seg> ka
-                    <lb n="5" break="no"/>ṭavĀRku Irakuṉātanāya
-                    <lb n="6/"/>kka ttoṇṭaimāṉārum 
-                    <lb n="7"/>m Accutappa nāyakkka ttō
-                    <lb n="8"/>ṇṭaimāṉārumō
-                    <lb n="9"/>m muṟk=kuṭuttapaṭii nāṉkaḷ I
-                    <lb n="10"/>raṇṭu peṟkum Iṉimēl ca
-                    <lb n="11"/>ṇṭai viro(taṅkaḷ) vant
-                    <lb n="12"/>ālum cuvāmiyār caṉṉatiyi
-                    <lb n="13"/>lē tirupperuntuṟai el
-                    <lb n="14"/>lai naṭanta paṟṟukkuḷḷē t
-                    <lb n="15"/>āṇaiyam Eṉṟy Iraṇṭu
-                    <lb n="16"/>vakaic cēvakarum ceṉṟu
+                    <lb n="5" break="no"/>ṭavāṟku Irakuṉātanāya
+                    <lb n="6/" break="no"/>kka t-toṇṭaimāṉāru 
+                    <lb n="7" break="no"/>m Accutappa nāyakkka ttō
+                    <lb n="8" break="no"/>ṇṭaimāṉārumō
+                    <lb n="9" break="no"/>m muṟk=kuṭuttapaṭi nāṉkaḷ I
+                    <lb n="10" break="no"/>raṇṭu peṟkum Iṉimēl ca
+                    <lb n="11" break="no"/>ṇṭai virotaṅkaḷ vant
+                    <lb n="12" break="no"/>ālum cuvāmiyār caṉṉatiyi
+                    <lb n="13" break="no"/>lē tirupperuntuṟai El
+                    <lb n="14" break="no"/>lai naṭanta paṟṟukkuḷḷē t
+                    <lb n="15" break="no"/>āṇaiyam Eṉṟu Iraṇṭu
+                    <lb n="16"/>vakai-c cēvakarum ceṉṟu
                     <lb n="17"/>Iṟaṅkāmal Irukka kaṭavō
-                    <lb n="18"/>mākavum Intaரppaṭi Ivvaṟu
-                    <lb n="19"/>tē mīṟi tāṇaiyam Iṟaṅki
-                    <lb n="20"/>ṉa pēr keṅkaik karaiyil
-                    <lb n="21"/>kārāmpacuvaiyum kuruvaiyu
-                    <lb n="22"/>m pirāmaṇaṉaiyum mātā
+                    <lb n="18"/>mākavum
+                </p>
+                <p>
+                    Intappaṭi yallā
+                    <lb n="19" break="no"/>tē mīṟi tāṇaiyam Iṟaṅki
+                    <lb n="20" break="no"/>ṉa pēr keṅkai-k-karaiyil
+                    <lb n="21"/>kārām-pacuvaiyum kuruvaiyu
+                    <lb n="22" break="no"/>m pirāmaṇaṉaiyum mātā
                     <lb n="23"/>pitāvaiyum koṉṟa tōṣa
-                    <lb n="24"/>ttilē pōkkakkaţavārākavum
-                    <lb n="25"/>Ippaṭikku Ituvum Allātē
-                    <lb n="26"/>īṉa cātiyāka pōkak kaṭavō
-                    <lb n="27"/>mākavum <g type="pc"></g>
-                    
+                    <lb n="24" break="no"/>ttilē pōka-k kaţavārākavum
+                    <lb n="25"/>Iṟpaṭikku Ituvum Allātē
+                    <lb n="26"/><choice><orig>I</orig><reg>Ī</reg></choice>ṉa-cātiyāka pōka-k kaṭavō
+                    <lb n="27"/>mākavum <g type="pc"></g> 
                 </p>
             </div>	
             
@@ -126,6 +128,10 @@
             </div>
             
             <div type="translation" resp="part:matr">
+                <p n="1">
+                    Fortune!
+                </p>
+                
                 
             </div>	
             
@@ -136,7 +142,7 @@
             <div type="bibliography">
                 <p>Edited in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>.</p>
                 
-                <p>This digital edition by Margherita based on autopsy and on <bibl><ptr target="bib:Irācu_2008"/></bibl>. The distinction between initial and medial vowels, and between Grantha and Tamil letters could not be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
+                <p>This digital edition by Margherita based on autopsy and on <bibl><ptr target="bib:Irācu_2008"/></bibl>.</p>
                 
                 <listBibl type="primary">
                     
