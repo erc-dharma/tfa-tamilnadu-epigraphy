@@ -11,7 +11,7 @@
                 <title>Ātmanāthasvāmi temple, Āvuṭaiyārkōyil, stone slab, 17th century </title>
                 <respStmt>
                     <resp>author of digital edition</resp>
-                    <persName ref="part:emfr">
+                    <persName ref="part:matr">
                         <forename>Margherita</forename>
                         <surname>Trento</surname>
                     </persName>
@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>This inscription is carved on stone slab on the left side of the entrance of the main gopuram in the Ātmanāthasvāmi temple at Āvuṭiayārkōyil, in today's Pudukottai district. The inscription is not explicitely dated to the Śaka (or other) era, but it is likely from the early 17th century as it records a promise to the temple made by two subsequent Toṇṭaimāṉ rulers of Aṟantaṅki, Accutappa Nāyakkar (1672-1614) and Irakunāta Nāyakkar (1614-1640).</summary>
+                        <summary>This inscription is carved on a stone slab on the left side of the entrance of the main gopuram in the Ātmanāthasvāmi temple at Āvuṭiayārkōyil, in today's Pudukottai district. The inscription is not explicitely dated to the Śaka (or other) era, but it is likely from the early 17th century as it records a promise to the temple made by two subsequent Toṇṭaimāṉ rulers of Aṟantaṅki, Accutappa Nāyakkar (1672-1614) and Irakunāta Nāyakkar (1614-1640).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -72,7 +72,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr" when="2025-11-13" status="draft">Creation of the file</change>
+            <change who="part:matr" when="2026-01-13" status="draft">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -81,10 +81,34 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><gap reason="lost" quantity="10" unit="character"/>
-                    <lb n="2"/>yan <gap reason="lost" quantity="5" unit="character"/> kaḷ inta <gap reason="lost" quantity="1" unit="character"/> <unclear>ṇa</unclear> <gap reason="lost" quantity="2" unit="character"/>
-                    <lb n="3"/>tiru-nantā-viḷakku Eriya-k kaṭava <gap reason="lost" quantity="4" unit="character"/>
-                    <lb n="4"/><gap reason="lost" quantity="1" unit="character"/> yāḻvān <gap reason="lost" quantity="4" unit="character"/> vapaṭa
+                    <lb n="1"/>kālaiyukta <g type="varuṣam"></g> Āṭi <g type="mācam"></g>
+                    <lb n="2"/><num value="13"> <g type="numeral">10</g> 3</num> <g type="tēti"></g> tirupperuntuṟai
+                    <lb n="3"/>Āḷuṭaiyaparamacuvā
+                    <lb n="4" break="no"/>mi <hi rend="grantha">śrī</hi>-paṇṭāra<seg type="aksara">t=tu</seg><seg type="aksara">k=ku</seg> ka
+                    <lb n="5" break="no"/>ṭavĀRku Irakuṉātanāya
+                    <lb n="6/"/>kka ttoṇṭaimāṉārum 
+                    <lb n="7"/>m Accutappa nāyakkka ttō
+                    <lb n="8"/>ṇṭaimāṉārumō
+                    <lb n="9"/>m muṟk=kuṭuttapaṭii nāṉkaḷ I
+                    <lb n="10"/>raṇṭu peṟkum Iṉimēl ca
+                    <lb n="11"/>ṇṭai viro(taṅkaḷ) vant
+                    <lb n="12"/>ālum cuvāmiyār caṉṉatiyi
+                    <lb n="13"/>lē tirupperuntuṟai el
+                    <lb n="14"/>lai naṭanta paṟṟukkuḷḷē t
+                    <lb n="15"/>āṇaiyam Eṉṟy Iraṇṭu
+                    <lb n="16"/>vakaic cēvakarum ceṉṟu
+                    <lb n="17"/>Iṟaṅkāmal Irukka kaṭavō
+                    <lb n="18"/>mākavum Intaரppaṭi Ivvaṟu
+                    <lb n="19"/>tē mīṟi tāṇaiyam Iṟaṅki
+                    <lb n="20"/>ṉa pēr keṅkaik karaiyil
+                    <lb n="21"/>kārāmpacuvaiyum kuruvaiyu
+                    <lb n="22"/>m pirāmaṇaṉaiyum mātā
+                    <lb n="23"/>pitāvaiyum koṉṟa tōṣa
+                    <lb n="24"/>ttilē pōkkakkaţavārākavum
+                    <lb n="25"/>Ippaṭikku Ituvum Allātē
+                    <lb n="26"/>īṉa cātiyāka pōkak kaṭavō
+                    <lb n="27"/>mākavum <g type="pc"></g>
+                    
                 </p>
             </div>	
             
@@ -101,7 +125,7 @@
                 
             </div>
             
-            <div type="translation" resp="part:emfr">
+            <div type="translation" resp="part:matr">
                 
             </div>	
             
@@ -112,7 +136,7 @@
             <div type="bibliography">
                 <p>Edited in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>.</p>
                 
-                <p>This digital edition by Margherita based on autopsy and on <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>. The distinction between initial and medial vowels, and between Grantha and Tamil letters could not be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
+                <p>This digital edition by Margherita based on autopsy and on <bibl><ptr target="bib:Irācu_2008"/></bibl>. The distinction between initial and medial vowels, and between Grantha and Tamil letters could not be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
                 
                 <listBibl type="primary">
                     
