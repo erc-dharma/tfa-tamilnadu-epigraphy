@@ -82,7 +82,10 @@
                 
                 <p>
                     <lb n="1"/>kā<choice><orig>lai</orig><reg>ḷa</reg></choice>yu<choice><orig>t</orig><reg>k</reg></choice>ta <g type="varuṣam"></g> Āṭi <g type="mācam"></g>
-                    <lb n="2"/><num value="13"> <g type="numeral">10</g> 3</num> <g type="tēti"></g> tirupperuntuṟai
+                    <lb n="2"/><num value="13"> <g type="numeral">10</g> 3</num> <g type="tēti"></g>
+                </p>
+                <p> 
+                     tirupperuntuṟai
                     <lb n="3"/>Āḷuṭaiya-paramacuvā
                     <lb n="4" break="no"/>mi <hi rend="grantha">śrī</hi>-paṇṭāra<seg type="aksara">t=tu</seg><seg type="aksara">k=ku</seg> ka
                     <lb n="5" break="no"/>ṭavāṟku Irakuṉātanāya
@@ -108,6 +111,8 @@
                     <lb n="22" break="no"/>m pirāmaṇaṉaiyum mātā
                     <lb n="23"/>pitāvaiyum koṉṟa tōṣa
                     <lb n="24" break="no"/>ttilē pōka-k kaţavārākavum
+                </p>
+                <p>
                     <lb n="25"/>Iṟpaṭikku Ituvum Allātē
                     <lb n="26"/><choice><orig>I</orig><reg>Ī</reg></choice>ṉa-cātiyāka pōka-k kaṭavō
                     <lb n="27"/>mākavum <g type="pc"></g> 
@@ -128,10 +133,18 @@
             </div>
             
             <div type="translation" resp="part:matr">
-                <p n="1">
-                    Fortune!
+                <p n="1-2">
+                    In the year <foreign xml:lang="tam-Latn">kāḷayukti</foreign>, on the 13th day ofr the month of <foreign xml:lang="tam-Latn">āṭi</foreign>,
                 </p>
-                
+              <p n="2-18">
+                  To the official in charge of the holy treasure of the the Supreme Lord who has rulership over Tirupperuntuṟai: As previously granted, we, Irakuṉāta Nāyakka Toṇṭaimāṉār and Accutappa Nāyakkka Tōṇṭaimāṉār, hereby order that, even if we both experience the animosity of war, the two types of warriors that consistute our army that may be within the borders of Tirupperuntuṟai will not come and impel payment from the holy house of the Lord.
+                  </p>
+                <p n="18-24">
+                  Anyone in the army who may break such an order, and compel payment, will incur in the same sin of killing a black cow, their teacher, a Brahman, or their mother and father on the shore of the Ganges. 
+                </p>
+                <p>
+              We order things to be in this way, and not only, that: People should enter according to group and caste.  
+                </p>
                 
             </div>	
             
