@@ -120,7 +120,14 @@
                         <pb n="4v"/>
                         
                         <pb n="5r"/>
-                        
+                    </p>
+                    <lg n="72" met=" vasantatilakā " xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                        <l n="a">Ullaṃghit-āMbuddhibhir uddhata-bāhu-v<choice><orig>i</orig><reg>ī</reg></choice>ryyair</l>
+                        <l n="b">nnirdhūta-<unclear reason="eccentric_ductus">v</unclear>airi-nara-nātha-bala-prapañcaiḥ</l>
+                        <l n="c"><lb n="5r12=138"/>sainyair ddadāha sa kaṭāham ada<choice><sic>d</sic><corr>g</corr></choice>dham anyai</l>
+                        <l n="d">rājendra-coḷa-nṛpatiḥ kim asāddhyam asya <g type="gomutraFinal">.</g> <num value="72">7 <g type="numeral">10</g> 2</num> <g type="gomutraFinal">.</g></l>
+                    </lg>
+                    <p>
                         <pb n="5v"/>
                         
                         <pb n="6r"/>
