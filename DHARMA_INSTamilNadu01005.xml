@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruvālaṅkāṭu plates, time of Madhurāntaka, Rājendracoḷa, year 6</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>	
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu01005</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by G. Vijayavenugopal</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-04-17" status="draft">Creation of the file on the repository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition">
+                <!--change (halanta) m· to M. Check n· and t· -->
+                
+                <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Seal</head>
+                    <p><lb n="1"/>...</p>
+                </div>
+                
+                <div type="textpart" n="B"><head>Plates: Sanskrit Portion</head>
+                    
+                    <pb n="1r"/>
+                    
+                    <ab xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <pb n="1r"/>                
+                        <lb n="1r1=1"/>svasti śr<choice><orig>i</orig><reg>ī</reg></choice>
+                    </ab>
+                    
+                    <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">    ...
+                        
+                        <pb n="1v"/>                
+                        <lb n="1v1=16"/>
+                        
+                        <pb n="2r"/>                
+                        <lb n="2r1=30"/>
+                        
+                        <pb n="2v"/>                
+                        <lb n="2v1=44"/>
+                        
+                        <pb n="3r"/>                
+                        <lb n="3r1=58"/>
+                        
+                        <pb n="3v"/>                
+                        <lb n="3v1=72"/> 
+                        
+                        <pb n="4r"/>                
+                        <lb n="4r1=86"/>
+                        
+                        <pb n="4v"/>                
+                        <lb n="4v1=101"/>
+                        
+                        <pb n="5r"/>
+                        <lb n="5r1=116"/>
+                    </p>
+                    
+                    <lg n="65"  xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <l n="ab">deva-str<choice><sic>a</sic><corr>i</corr></choice>bhir alobhi
+                            <lb n="5r13=128" break="no"/>to bhavati me yavat· patis sundaras tava<choice><orig>t</orig><reg>d</reg></choice>· gantum ahaM pravṛtta-mati
+                            <lb n="5r14=129" break="no"/>r ity ākhyātavatyādarāt·</l>
+                        <l n="cd">sārddha tena gata <unclear>niṣa</unclear>di<choice><sic>ṇ</sic><corr>n</corr></choice>am iva tyaktvā <surplus>s</surplus>sva<surplus>ya</surplus>
+                            <pb n="5v" break="no"/><lb n="5v1=130" break="no"/>kīyañjanaM devi tasya pativratā guṇagaṇais sā<unclear>kṣā</unclear>d arundhaty esau
+                            <g type="gomutraFinal">.</g></l>
+                    </lg>
+                    
+                    <p>
+                        
+                        <pb n="6r"/>                
+                        <lb n="6r1=144"/>
+                        
+                        <pb n="6v"/>                
+                        <lb n="6v1=159"/>
+                        
+                        <pb n="7r"/>                
+                        <lb n="7r1=173"/>
+                        
+                        <pb n="7v"/>                
+                        <lb n="7v1=187"/>
+                        
+                        <pb n="8r"/>                
+                        <lb n="8r1=202"/>
+                        
+                        <pb n="8v"/>                
+                        <lb n="8v1=217"/>
+                        
+                        <pb n="9r"/>                
+                        <lb n="9r1=232"/>
+                        
+                        <pb n="9v"/>                
+                        <lb n="9v1=248"/>
+                        
+                        <pb n="10r"/>                
+                        <lb n="10r1=263"/>...
+                        <lb n="10r9=271"/>
+                        
+                    </p>
+                    
+                </div>
+                
+                <div type="textpart" n="D"><head>Plates: Detached Tamil Portion</head>
+                    
+                    <p>
+                        <pb n="10r"/>                
+                        <lb n="10r10=1"/>...
+                        
+                        <pb n="10v"/>                
+                        <lb n="10v1=7"/>
+                        
+                    </p>
+                </div>
+                
+                <div type="textpart" n="D"><head>Plates: Tamil Portion</head>
+                    
+                    <p> 
+                        
+                        <pb n="1r"/>                
+                        <lb n="1r1=1"/>...
+                        
+                        <pb n="21v"/>                
+                        <lb n="21v1=513"/>...
+                    </p>
+                    
+                </div>
+                
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <div type="textpart" n="B"><head>Plates</head>
+                <listApp>
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:...">...</rdg>
+                </app>
+                </listApp>
+                </div>
+                
+                </div>-->
+            
+            
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">                
+                
+                <p>Edited and translated in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (<ref target="DHARMA_INSSIIv03p0i0205">SII 3.205</ref>), with visual documentation.</p>
+                <p>This edition by Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:KrishnaSastri1920_01"/>
+                        <citedRange unit="item">205</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
