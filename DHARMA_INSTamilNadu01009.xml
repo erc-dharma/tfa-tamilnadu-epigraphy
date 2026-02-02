@@ -102,6 +102,11 @@
                         <lb n="2v1=49"/>
                     </p>
                     
+                    <lg n="37" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <l n="ab">Alabhata ca suvarṇṇa-<unclear>vrā</unclear>ta-saṃ<lb n="2v12=60" break="no"/>pūrṇṇam ante nihitam atha sa dhīman urvvarāyāḥ kaṭāham·</l>
+                        <l n="cd">gaja-turaga-padātīn nirdayaṃ sannihatya pracura-balam amu<unclear>ṣya</unclear> prāsya<lb n="2v13=61"/>saṃrakṣitāram·<g type="dash">.</g></l>
+                    </lg>
+                    
                     <lg n="38" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                         <l n="a">tatas tasyābhavat· palī</l>
                         <l n="b">śuddhamallī śucisthi<!--TNSDA: smi?-->tā</l>
@@ -158,7 +163,7 @@
                         <lb n="8r1=248"/>
                         
                         <pb n="8v"/>
-                        <lb n="8v1=271"/>vīra-rājendranamno rajñaḥ ...
+                        <lb n="8v1=271"/>vīra-rājendranāmno rajñaḥ ...
                         <lb n="8v2=272"/>... tāmrapatre
                         
                     </p>
