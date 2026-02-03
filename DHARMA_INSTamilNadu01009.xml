@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvālaṅkāṭu plates, time of Madhurāntaka, Rājendracoḷa, year 6</title>
+                <title>Tiruvintaḷūr plates, time of Rājādhirāja I Cōḻa</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSTamilNadu01005</idno>
+                <idno type="filename">DHARMA_INSTamilNadu01009</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -73,7 +73,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr" when="2020-01-30" status="draft">Creation of the file on the repository</change>
+            <change who="part:emfr" when="2026-01-02" status="draft">Creation of the file on the repository</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -81,7 +81,6 @@
         <body>
             
             <div type="edition">
-                <!--change (halanta) m· to M. Check n· and t· -->
                 
                 <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Seal</head>
                     <p><lb n="1"/>...</p>
@@ -89,104 +88,98 @@
                 
                 <div type="textpart" n="B"><head>Plates: Sanskrit Portion</head>
                     
-                    <pb n="1r"/>
-                    
-                    <ab xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
-                        <pb n="1r"/>                
-                        <lb n="1r1=1"/>svasti śr<choice><orig>i</orig><reg>ī</reg></choice>
-                    </ab>
-                    
-                    <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">    ...
-                        
-                        <pb n="1v"/>                
-                        <lb n="1v1=16"/>
-                        
-                        <pb n="2r"/>                
-                        <lb n="2r1=30"/>
-                        
-                        <pb n="2v"/>                
-                        <lb n="2v1=44"/>
-                        
-                        <pb n="3r"/>                
-                        <lb n="3r1=58"/>
-                        
-                        <pb n="3v"/>                
-                        <lb n="3v1=72"/> 
-                        
-                        <pb n="4r"/>                
-                        <lb n="4r1=86"/>
-                        
-                        <pb n="4v"/>                
-                        <lb n="4v1=101"/>
-                        
-                        <pb n="5r"/>
-                        <lb n="5r1=116"/>
-                    </p>
-                    
-                    <lg n="65"  xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
-                        <l n="ab">deva-str<choice><sic>a</sic><corr>i</corr></choice>bhir alobhi
-                            <lb n="5r13=128" break="no"/>to bhavati me yavat· patis sundaras tava<choice><orig>t</orig><reg>d</reg></choice>· gantum ahaM pravṛtta-mati
-                            <lb n="5r14=129" break="no"/>r ity ākhyātavatyādarāt·</l>
-                        <l n="cd">sārddha tena gata <unclear>niṣa</unclear>di<choice><sic>ṇ</sic><corr>n</corr></choice>am iva tyaktvā <surplus>s</surplus>sva<surplus>ya</surplus>
-                            <pb n="5v" break="no"/><lb n="5v1=130" break="no"/>kīyañjanaM devi tasya pativratā guṇagaṇais sā<unclear>kṣā</unclear>d arundhaty esau
-                            <g type="gomutraFinal">.</g></l>
-                    </lg>
-                    
-                    <p>
-                        
-                        <pb n="6r"/>                
-                        <lb n="6r1=144"/>
-                        
-                        <pb n="6v"/>                
-                        <lb n="6v1=159"/>
-                        
-                        <pb n="7r"/>                
-                        <lb n="7r1=173"/>
-                        
-                        <pb n="7v"/>                
-                        <lb n="7v1=187"/>
-                        
-                        <pb n="8r"/>                
-                        <lb n="8r1=202"/>
-                        
-                        <pb n="8v"/>                
-                        <lb n="8v1=217"/>
-                        
-                        <pb n="9r"/>                
-                        <lb n="9r1=232"/>
-                        
-                        <pb n="9v"/>                
-                        <lb n="9v1=248"/>
-                        
-                        <pb n="10r"/>                
-                        <lb n="10r1=263"/>...
-                        <lb n="10r9=271"/>
-                        
-                    </p>
-                    
-                </div>
-                
-                <div type="textpart" n="D"><head>Plates: Detached Tamil Portion</head>
-                    
-                    <p>
-                        <pb n="10r"/>                
-                        <lb n="10r10=1"/>...
-                        
-                        <pb n="10v"/>                
-                        <lb n="10v1=7"/>
-                        
-                    </p>
-                </div>
-                
-                <div type="textpart" n="D"><head>Plates: Tamil Portion</head>
-                    
-                    <p> 
-                        
+                    <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                         <pb n="1r"/>                
                         <lb n="1r1=1"/>...
                         
-                        <pb n="21v"/>                
-                        <lb n="21v1=513"/>...
+                        <pb n="1v"/>                
+                        <lb n="1v1=17"/>
+                        
+                        <pb n="2r"/>                
+                        <lb n="2r1=33"/>
+                        
+                        <pb n="2v"/>                
+                        <lb n="2v1=49"/>
+                    </p>
+                    
+                    <lg n="37" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <l n="ab">Alabhata ca suvarṇṇa-<unclear>vrā</unclear>ta-saṃ<lb n="2v12=60" break="no"/>pūrṇṇam ante nihitam atha sa dhīman urvvarāyāḥ kaṭāham·</l>
+                        <l n="cd">gaja-turaga-padātīn nirdayaṃ sannihatya pracura-balam amu<unclear>ṣya</unclear> prāsya<lb n="2v13=61"/>saṃrakṣitāram·<g type="dash">.</g></l>
+                    </lg>
+                    
+                    <lg n="38" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <l n="a">tatas tasyābhavat· palī</l>
+                        <l n="b">śuddhamallī śucisthi<!--TNSDA: smi?-->tā</l>
+                        <l n="c">pṛth·vīva pṛthivī-bharttuḥ</l>
+                        <l n="d">prathitā prathitair guṇaiḥ <g type="dash">.</g></l>
+                    </lg>
+                    
+                    <p>                        
+                        ...
+                        <lb n="2v14=62"/>...
+                        <lb n="2v15=63"/>...
+                        <lb n="2v16=64"/>...
+                    </p>
+                    
+                    <lg n="42" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <l n="ab">tatas samudrair iva taiś caturbhir gguṇais sa ratnai<pb n="3r" break="no"/><lb n="3r1=65" break="no"/>r iva pūjyamaṇaḥ</l>
+                        <l n="cd">babhau catur-vvargga-phalasya goptā catur-ddigantāntadharaikanāthaḥ <g type="dash">.</g></l>
+                    </lg>
+                    
+                    <lg n="43" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <l n="ab">tanayam atha sa rājā śrī-jayaṅ<lb n="3r2=66" break="no"/>-koṇḍa-coḷam vinaya-vinatam uccair unnataṃ sannatāriḥ</l>
+                        <l n="cd">vimala-vipula-hāra-śrī-samudbhāsitāyāḥ patim akṛta la<lb n="3r3=67" break="no"/>kṣmyāḥ pāṇḍya-vaṃṣo<choice><orig>t</orig><reg>d</reg></choice>bhavāyāḥ <g type="dash">.</g></l>
+                    </lg>
+                    
+                    <p>
+                        <pb n="3v"/>                
+                        <lb n="3v1=82"/> 
+                        
+                        <pb n="4r"/>                
+                        <lb n="4r1=100"/>
+                        
+                        <pb n="4v"/>                
+                        <lb n="4v1=117"/>
+                        
+                        <pb n="5r"/>
+                        <lb n="5r1=134"/>
+                        
+                        <pb n="5v"/>
+                        <lb n="5v1=150"/>
+                        
+                        <pb n="6r"/>                
+                        <lb n="6r1=167"/>
+                        
+                        <pb n="6v"/>                
+                        <lb n="6v1=187"/>
+                        
+                        <pb n="7r"/>                
+                        <lb n="7r1=207"/>
+                        
+                        <pb n="7v"/>                
+                        <lb n="7v1=227"/>
+                        
+                        <pb n="8r"/>                
+                        <lb n="8r1=248"/>
+                        
+                        <pb n="8v"/>
+                        <lb n="8v1=271"/>vīra-rājendranāmno rajñaḥ ...
+                        <lb n="8v2=272"/>... tāmrapatre
+                        
+                    </p>
+                    
+                </div>                               
+                
+                <div type="textpart" n="C"><head>Plates: Tamil Portion</head>
+                    
+                    <ab>                        
+                        <lb n="8v2=272=1"/><hi rend="grantha">svasti śrī</hi> 
+                    </ab>
+                    
+                    <p>
+                        kōnerIṉmai koṇṭan <hi rend="grantha">rājadhirāja</hi>-vaḷanā
+                        <lb n="8v3=273=1"/>ṭṭu ...
+                        
                     </p>
                     
                 </div>
@@ -215,17 +208,16 @@
             
             <div type="bibliography">                
                 
-                <p>Edited and translated in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (<ref target="DHARMA_INSSIIv03p0i0205">SII 3.205</ref>), with visual documentation.</p>
+                <p>Edited and translated in ***, with visual documentation.</p>
                 <p>This edition by Emmanuel Francis.</p>
                 
-                <listBibl type="primary">
+                <!--<listBibl type="primary">
                     
-                    <bibl n="SII">
-                        <ptr target="bib:KrishnaSastri1920_01"/>
-                        <citedRange unit="item">205</citedRange>
+                    <bibl n="***">
+                    <ptr target="bib:***"/>
                     </bibl>
                     
-                </listBibl>
+                    </listBibl>-->
                 
                 <listBibl type="secondary">
                     
