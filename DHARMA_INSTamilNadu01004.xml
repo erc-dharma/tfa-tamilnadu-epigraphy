@@ -81,28 +81,52 @@
         <body>
             
             <div type="edition">
-                <!--change (halanta) m· to M. Check n· and t· -->
                 
                 <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Seal</head>
                     <p><lb n="1"/>...</p>
+                    
                 </div>
                 
-                <div type="textpart" n="B"><head>Plates</head>
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion</head>
                     
-                    <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">    ...
-                        
-                        <pb n="1r"/>                
-                        <lb n="1r1=1"/>
-                        
+                    <p>
+                        <pb n="1r"/>
+                        <lb n="1r1=1"/><lb n="1"/>yati sma <supplied reason="undefined"><g type="ddanda">.</g></supplied>
                     </p>
                     
+                    <p>sa ca teṣāṁ yugma-vaṁśa-paṭṭaśālinānteṣv eva karuvuḷān·pāṭi-kaṁsahappā
+                        <lb n="1r2=2" break="no"/>dy-atimānappādy-e<seg rendition="class:tamil maturity:vernacular">ṟṟuvaḻicce</seg>rīty ākhyāteṣu vāṭakeṣu tathā taddhema-śata-dvayan nyadha
+                        <lb n="1r3=3" break="no"/>tta teṣv <choice><sic>a</sic><corr>e</corr></choice>va vāṭakeṣv atimānappāṭi-karuvu<seg rendition="class:tamil maturity:vernacular">ḷā</seg>n·pāṭīti vāṭaka-dvayajātāṁstantuvā<unclear>y</unclear>ā
+                        <lb n="1r4=4" break="no"/>ntasyaiva hares tulā-prasthādi-mānasaMbhūteṣv arttheṣu hema-vṛddhy-upanateṣv artthe<supplied reason="omitted">ṣu</supplied>
+                        <lb n="1r5=5"/>cāyavyayālokināṁ śrī-kāryya-kṛtām abhāvāt· sa E<supplied reason="omitted">va</supplied> rājā śrī-kāryya-kara
+                        <lb n="1r6=6" break="no"/>ṇāya tān eva sva<supplied reason="omitted">ya</supplied>nnyayuṅkta<surplus>ḥ</surplus> <g type="ddanda">.</g> 
+                    </p>
+                    <lg n="1" met="sragdharā ">
+                        <l n="b">dātavyam māsamātre kuḍubaka-sahitan taṇḍu
+                            <lb n="1r7=7" break="no"/>la-prastha-yugman</l>
+                        <l n="n">taila-prasthañ ca <seg rendition="class:tamil maturity:vernacular">coḻā</seg>niyama-nilayanair ūraka-sthatri-dhāmne <supplied reason="undefined"><g type="danda">.</g></supplied></l>
+                        <l n="c">nā
+                            <lb n="1r8=8" break="no"/>deyaṁ rājabhāvyaṁ karam iti madhuronmāthinā śūnyabhāvāc</l>
+                        <l n="d">coḷenājñāpitai
+                            <lb n="1r9=9" break="no"/>s tair atha nagara-janair apy anujñātam etat· <g type="ddanda">.</g></l>
+                    </lg>
+                    <lg n="2">
+                        <l n="ab">Āyavyayāvathālikhya co<seg rendition="class:tamil maturity:vernacular">ḻā</seg>niyam avā
+                            <lb n="1r10=10" break="no"/>sibhiḥ <supplied reason="undefined"><g type="danda">.</g></supplied></l>
+                        <l n="cd">māsakrameṇa caikaikan darśanīyau kuḍuMbibhiḥ <supplied reason="undefined"><g type="ddanda">.</g></supplied></l>
+                    </lg>
+                    <lg n="3">
+                        <l n="ab">rāja-vastra-kṛtām eṣāñ catu
+                            <lb n="1r11=11" break="no"/>r-vvāṭa-nivāsināM <supplied reason="undefined"><g type="danda">.</g></supplied></l>
+                        <l n="cd">hareḥ kāryyani-yuktaiś ca sārddha-mūraka-vāsinaḥ <g type="ddanda">.</g></l>
+                    </lg>
                     
-                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                </div>
+                <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tami portion</head>
+                    <p>
                         <lb n="1r11=11"/>
                         
                     </p>
-                    
-                    
                     
                     
                 </div>
@@ -147,7 +171,7 @@
                         <citedRange unit="plate">IX-X</citedRange>
                     </bibl>
                     
-                    </listBibl>
+                </listBibl>
                 
                 <listBibl type="secondary">
                     
