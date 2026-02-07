@@ -87,39 +87,43 @@
                     <p><lb n="1"/>prabhumeru</p>
                 </div>
                 
-                <div type="textpart" n="B"><head>Plates</head>
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 1 of 2</head>
                     
-                    <ab xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <ab >
                         <pb n="1v"/>                
                         <lb n="1v1=1"/>svasti śr<choice><orig>i</orig><reg>ī</reg></choice>
                     </ab>
                     
-                    <lg n="1" met="vasantatilakā" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <lg n="1" met="vasantatilakā">
                         <l n="a">yasyāṣṭa-mū<reg>r</reg>ttir abhavat· svayam-arddha-mū<reg>r</reg>tti<reg>r</reg></l>
                         <l n="b">yyan-nābhi-paṁ
-                            <lb n="1v1=2" break="no"/>kaja-bh<choice><sic>ū</sic><corr>a</corr></choice>v<choice><sic>o</sic><corr>ā</corr></choice> jagatām· prasūtiḥ</l>
+                            <lb n="1v2=2" break="no"/>kaja-bh<choice><sic>ū</sic><corr>a</corr></choice>v<choice><sic>o</sic><corr>ā</corr></choice> jagatām· prasūtiḥ</l>
                         <l n="c">yasyāniśam· prathama-vāg vivṛ
-                            <lb n="1v1=3" break="no"/>ṇoti tatvaṁ</l>
+                            <lb n="1v3=3" break="no"/>ṇoti tatvaṁ</l>
                         <l n="d">sa śr<choice><sic>i</sic><corr>ī</corr></choice>-dharo diśatu viśva-pati<supplied reason="omitted">ḥ</supplied> śriya<choice><sic>m·</sic><corr>ṁ</corr></choice> va<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g><g type="danda">.</g><g type="danda">.</g></l>
                     </lg>
                     
                     <p>
-                        ...
-                        <pb n="2r"/>                
-                        <lb n="2r1=8"/>
+                        <lb n="1v4=4"/>...
                     </p>
                     
-                    <lg n="8" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
-                        <l n="a">yaḥ pulomata<lb n="2r5=19" break="no"/>nayām iva śakraḥ</l>
+                    <p>
+                        <pb n="2r"/>                
+                        <lb n="2r1=8"/>...
+                        
+                        <pb n="2v"/>                
+                        <lb n="2v1=15"/>...
+                        <lb n="2v4=18"/>...
+                    </p>
+                    
+                    <lg n="8">
+                        <l n="a">yaḥ pulomata<lb n="2v5=19" break="no"/>nayām iva śakraḥ</l>
                         <l n="b">parvvatendra-tanujām iva śarvvaḥ</l>
-                        <l n="c">kaiṭabhāriṟ iva sagara-ka<lb n="2r6=20" break="no"/>nyām</l>
-                        <l n="d">keraḷeśvara-sutām upayeme <g type="gumutraFinal">.</g></l>
+                        <l n="c">kaiṭabhāriṟ iva sagara-ka<lb n="2v6=20" break="no"/>nyām</l>
+                        <l n="d">keraḷeśvara-sutām upayeme <g type="gomutraFinal">.</g></l>
                     </lg>                    
                     
-                    <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
-                                                
-                        <pb n="2v"/>                
-                        <lb n="2v1=15"/>
+                    <p>
                         
                         <pb n="3r"/>                
                         <lb n="3r1=23"/>
@@ -140,21 +144,21 @@
                         <lb n="5v1=64"/>ṇā nṛipeṇa <g type="gomutraFinal">.</g>
                     </p>
                     
-                    <lg n="25" met="vasantatilakā" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <lg n="25" met="vasantatilakā">
                         <l n="a">puṇyaṁ samaṁ kṛitavatāM parirakṣatāñ ca</l>
                         <l n="b">ta<lb n="5v2=65" break="no"/>d raksateti sa parāntaka Ekavīra<supplied reason="omitted">ḥ</supplied></l>
                         <l n="c">Āgāmina<supplied reason="omitted">ḥ</supplied> kṣitipatin· <lb n="5v3=66"/>praṇamaty ajasram</l>
                         <l n="d">mūrddhnā sm<choice><sic>ā</sic><corr>a</corr></choice>rāricaraṇāM bujaśekhareṇa <g type="ddanda">.</g></l>
                     </lg>
                     
-                    <lg n="26" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <lg n="26" met="anuṣṭubh">
                         <l n="a"><lb n="5v4=67"/>bhūmiṁ sa dattavān asmai</l>
                         <l n="b">ka<choice><sic>ṭ</sic><corr>ḍ</corr></choice>aikkoṭṭūr iti śrutām·</l>
                         <l n="c" enjamb="yes">Udayenducaturvve<lb n="5v5=68" break="no"/>di</l>
                         <l n="d">maṁgalāya ca pārtthiva<supplied reason="omitted">ḥ</supplied></l>
                     </lg>
                     
-                    <lg n="27" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <lg n="27" met="anuṣṭubh">
                         <l n="a">Atra vidyādh<choice><sic>i</sic><corr>a</corr></choice>rīpaṭṭi<reg>r</reg></l>
                         <l n="b">ddevapaṭṭir iti
                             <lb n="5v6=69"/>śrutam·</l>
@@ -162,7 +166,7 @@
                         <l n="d">bhujyamānan digam<choice><sic>p</sic><corr>b</corr></choice>araiḥ</l>
                     </lg>
                     
-                    <lg n="28" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <lg n="28" met="anuṣṭubh">
                         <l n="a">dvayam eta<choice><sic>t·</sic><corr>d</corr></choice>
                             <lb n="5v7=70"/>vihāyātra</l>
                         <l n="b">dattavāṁś ca sa pārtthivaḥ</l>
@@ -170,14 +174,16 @@
                         <l n="d">pūrvvaṁ
                             <lb n="5v8=71"/>kṣapaṇakānvitam·</l>
                     </lg>
-                    
-                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                </div>
+                
+                <div type="textpart" n="C" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Tamil portion</head>
+                    <p>
                         <!--check the original from here; split words; add ē, ō-->
-                        matirai koṇṭa kō-p-parakē<hi rend="grantha">sa</hi>riva<hi rend="grantha">rmma</hi>ṟku yāṇṭu
+                        <lb n="5v8=71"/>matirai koṇṭa kō-p-parakē<hi rend="grantha">sa</hi>riva<hi rend="grantha">rmma</hi>ṟku yāṇṭu
                         <pb n="6r"/>                 
                         <lb n="6r1=72"/>patiṉ aint-āvataṟku
                     </p>
-                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                    <p>
                         cempiyaṉ māvalivāṇarāyar viṇṇappattā
                         <lb n="6r2=73" break="no"/>ṟ perumāṉaṭikaḷ tam pērāṟ ceyta <hi rend="grantha">brahmade</hi>yam paṭuvūr-k-kōṭṭattu mēl-aṭai
                         <lb n="6r3=74" break="no"/>yāṟu-nāṭṭu-k kaṭai-k-koṭṭūrai U<hi rend="grantha">da</hi>yacantira-maṅkalattoṭēy kūṭa vīra-nārāyaṇa-c-ceri
@@ -222,7 +228,7 @@
                                 <lb n="7r4=95"/>mattakattu-p paṭar pāṟaiyumm itaṉ kiḻakku nōkki y-iḻiya-k kārai kaṭaṟumm ita
                                 <lb n="7r5=96" break="no"/>ṉ kiḻakku nōkki y-iḻiya-p pālāṟṟ' aḷavum</item></list>
                     </p>
-                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                    <p>
                         Ip-paricu nāṭṭaikkūṭṭi nila
                         <lb n="7r6=97" break="no"/>naṭappittu-k kalluṅ kaḷḷiyu nāṭṭi paḻam paḷḷiccantam-āṉa viccā
                         <lb n="7r7=98" break="no"/>tiripaṭṭiyun tēvarpaṭṭiyum-āṉa Ivv-iraṇṭu paṭṭiyu<supplied reason="subaudible">m</supplied> nīkki In-nāṟ-pāl-el
@@ -230,8 +236,11 @@
                         <lb n="7r9=100" break="no"/>lattāṟkēy kūṭa Ip-paricēy Aṟai-y-ōlai-p-paṭi <hi rend="grantha">śāsa</hi>ṉañ ceyvittu-k
                         <lb n="7r10=101" break="no"/>kuṭuttēṉ cempiyaṉ māvalivāṇarāyaṉ-ēṉ
                     </p>
-                    <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
-                        On namo nārāyaṇāya <unclear><g type="ddanda">.</g></unclear>
+                </div>
+                
+                <div type="textpart" n="D" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 2 of 2</head>
+                    <p>
+                        <lb n="7r10=101"/>On namo nārāyaṇāya <unclear><g type="ddanda">.</g></unclear>
                     </p>
                     
                     <pb n="7v"/>

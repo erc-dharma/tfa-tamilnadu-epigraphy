@@ -87,14 +87,15 @@
                     <p><lb n="1"/>...</p>
                 </div>
                 
-                <div type="textpart" n="B"><head>Plates</head>
-                   
-                    <ab xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 1 of 2</head>
+                    
+                    <ab>
                         <pb n="1r"/>                
                         <lb n="1r1=1"/>svasti śr<choice><orig>i</orig><reg>ī</reg></choice>
                     </ab>
                     
-                    <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">    ...
+                    <p >
+                        ...
                         
                         <pb n="1v"/>                
                         <lb n="1v1=8"/>
@@ -115,27 +116,27 @@
                         <lb n="4r1=48"/>
                         
                         <pb n="4v"/>                
-                        <lb n="4v1=56"/>
+                        <lb n="4v1=56"/>...
+                        <lb n="4v5=60"/>...
                     </p>                    
                     
-                    <lg n="22"  xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
-                        <l n="a">paḷuveṭṭarayar parā<lb n="4v5=61" break="no"/>hvayasya</l>
+                    <lg n="22">
+                        <l n="a">paḷuveṭṭarayar parā<lb n="4v6=61" break="no"/>hvayasya</l>
                         <l n="b">kṣitibharttu<unclear>ḥ</unclear> kila keraḷeśvarasya</l>
-                        <l n="c">tanayām uduvāha r<unclear>ā</unclear><lb n="4v6=62" break="no"/>ja-lakṣmīm</l>
+                        <l n="c">tanayām uduvāha r<unclear>ā</unclear><lb n="4v7=62" break="no"/>ja-lakṣmīm</l>
                         <l n="d">iva mūrttām avanipatissa Eṣāḥ <g type="gomutraFinal">.</g></l>
                     </lg>
                     
-                    <lg n="23"  xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <lg n="23">
                         <l n="a">... <pb n="5r"/><lb n="5r1=64"/>... <g type="gomutraFinal">.</g></l>
                     </lg>
                     
-                    <lg n="24"  xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <lg n="24">
                         <l n="a">vai<choice><orig>t</orig><reg>d</reg></choice>uMbasya kulodbhavān narapa<lb n="5r2=65" break="no"/>ter aṃśasya kāladviṣaḥ</l>
                         <l n="b">sindho<unclear>r</unclear> bandhuritoruyu<choice><orig>k</orig><reg>g</reg></choice>mayugaḷāṃ lakṣmīm ivā<lb n="5r3=66" break="no"/>dyaḥ pumān</l>
                         <l n="c">viśveśas tanayām ivācalapater bhāgirathī-śekharaḥ</l>
                         <l n="d">ka<lb n="5r4=67" break="no"/>lyaṇīm uduvāha bhū-dhara-patiḥ pātraṃ guṇanāM paramaM <g type="gomutraFinal">.</g></l>
                     </lg>
-                    
                     
                     <p>
                         
@@ -160,8 +161,10 @@
                         <pb n="8v"/>                
                         <lb n="8v1=121"/>
                     </p>
-                    
-                    <p xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                </div>
+                
+                <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion</head>
+                    <p>
                         
                         <pb n="9r"/>                
                         <lb n="9r1=131"/>
@@ -181,8 +184,11 @@
                         <pb n="11v"/>                
                         <lb n="11v1=189"/>
                     </p>
-                    
-                    
+                </div>
+                
+                <div type="textpart" n="D" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 2 of 2</head>
+                    <p>
+                        <lb n="11v11=199"/>vīracoḷa Iti khyāto ...</p>
                 </div>
             </div>
             

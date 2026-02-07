@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Madras Museum plates, time of Uttama Cōḻa, year 16</title>
+                <title>Vēḷañcēri plates, time of Parāntaka I Cōḻa, year 25</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSTamilNadu01004</idno>
+                <idno type="filename">DHARMA_INSTamilNadu01002</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>An incomplete set of 5 copper plates. At least one plate at the beginning and probably one plate only at the end are missing.</summary>
+                        <summary/>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -73,74 +73,91 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr" when="2026-02-06" status="draft">Creation of the file on the repository</change>
+            <change who="part:emfr" when="2026-01-30" status="draft">Creation of the file on the repository</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
         
         <body>
             
-            <div type="edition">
+            <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                 
                 <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Seal</head>
-                    <lg n="1" met="anuṣṭubh">
-                        <l n="a"><lb n="1"/>nyāyānāṃ śāsanaṃ kurvvat</l>
-                        <l n="b">trāsanaṃ <unclear>catra</unclear>bhūbhṛtāṃ</l>
-                        <l n="c">śāsanaM bhūpater etat∙</l>
-                        <l n="d">parakesarivarmmaṇaḥ</l>
-                    </lg>
-                    
+                    <p><lb n="1"/>...</p>
                 </div>
                 
-                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion</head>
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 1 of 2</head>
                     
-                    <p>
-                        <pb n="1r"/>
-                        <lb n="1r1=1"/>yati sma <supplied reason="undefined"><g type="ddanda">.</g></supplied>
+                    <ab xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <pb n="1r"/>                
+                        <lb n="1r1=1"/>svasti śr<choice><orig>i</orig><reg>ī</reg></choice>
+                    </ab>
+                    
+                    <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">    ...
+                        
+                        <pb n="1v"/>                
+                        <lb n="1v1=9"/>
+                        
+                        <pb n="2r"/>                
+                        <lb n="2r1=18"/>
+                        
+                        <pb n="2v"/>                
+                        <lb n="2v1=27"/>
+                        
+                        <pb n="3r"/>                
+                        <lb n="3r1=35"/>
+                        
                     </p>
-                    
-                    <p>sa ca teṣāṁ yugma-vaṁśa-paṭṭaśālinān teṣv eva karuvuḷān·pāṭi-kaṁsahappā
-                        <lb n="1r2=2" break="no"/>dy-atimānappādy-e<seg rendition="class:tamil maturity:vernacular">ṟṟuvaḻicce</seg>rīty ākhyāteṣu vāṭakeṣu tathā tad dhema-śata-dvayan nyadha
-                        <lb n="1r3=3" break="no"/>tta teṣv <choice><sic>a</sic><corr>e</corr></choice>va vāṭakeṣv atimānappāṭi-karuvu<seg rendition="class:tamil maturity:vernacular">ḷā</seg>n·pāṭīti vāṭaka-dvaya-jātāṁs tantuvā<unclear>y</unclear>ā
-                        <lb n="1r4=4" break="no"/>ntasy-aiva hares tulā-prasthādi-mānasaMbhūteṣv arttheṣu hema-vṛddhy-upanateṣv artthe<supplied reason="omitted">ṣu</supplied>
-                        <lb n="1r5=5"/>cāyavyayālokināṁ śrī-kāryya-kṛtām abhāvāt· sa E<supplied reason="omitted">va</supplied> rājā śrī-kāryya-kara
-                        <lb n="1r6=6" break="no"/>ṇāya tān eva sva<supplied reason="omitted">ya</supplied>n nyayuṅkta<surplus>ḥ</surplus> <g type="ddanda">.</g> 
-                    </p>
-                    <lg n="1" met="sragdharā ">
-                        <l n="b">dātavyam māsa-mātre kuḍubaka-sahitan taṇḍu
-                            <lb n="1r7=7" break="no"/>la-prastha-yugman</l>
-                        <l n="n">taila-prasthañ ca <seg rendition="class:tamil maturity:vernacular">coḻā</seg>niyama-nilayanair ūraka-stha-tridhāmne <supplied reason="undefined"><g type="danda">.</g></supplied></l>
-                        <l n="c">nā
-                            <lb n="1r8=8" break="no"/>deyaṁ rāja-bhāvyaṁ karam iti madhur-onmāthinā śūnya-bhāvāc</l>
-                        <l n="d">coḷen-ājñāpitai
-                            <lb n="1r9=9" break="no"/>s tair atha nagara-janair apy anujñātam etat· <g type="ddanda">.</g></l>
-                    </lg>
-                    <lg n="2">
-                        <l n="ab">Āyavyayāv ath-ālikhya co<seg rendition="class:tamil maturity:vernacular">ḻā</seg>niyama-vā
-                            <lb n="1r10=10" break="no"/>sibhiḥ <supplied reason="undefined"><g type="danda">.</g></supplied></l>
-                        <l n="cd">māsa-krameṇa c-aikaikan darśanīyau kuḍuMbibhiḥ <supplied reason="undefined"><g type="ddanda">.</g></supplied></l>
-                    </lg>
-                    <lg n="3">
-                        <l n="ab">rāja-vastra-kṛtām eṣāñ catu
-                            <lb n="1r11=11" break="no"/>r-vvāṭa-nivāsināM <supplied reason="undefined"><g type="danda">.</g></supplied></l>
-                        <l n="cd">hareḥ kāryya-niyuktaiś ca sārddham ūraka-vāsinaḥ <g type="ddanda">.</g></l>
-                    </lg>
-                    
                 </div>
-                <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion</head>
+                
+                <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion</head>
                     <p>
-                        <lb n="1r11=11"/><hi rend="grantha">śrī</hi>-kō-p-para
-                        <lb n="1r12=12" break="no"/>-kēcari-pa<hi rend="grantha">nma</hi>rāṉa <hi rend="grantha">śrī</hi>Uttama-cōḻa<hi rend="grantha">de</hi>varkku yāṇṭu patiṉ āṟāvatu Uṭ<hi rend="grantha">ai</hi>
                         
-                        <pb n="1v"/><lb n="1v1=13" break="no"/>yār kaccippēṭṭu kōyiliṉuḷaḷāl teṟkil cittira-maṇṭapatt' eḻun
-                        <lb n="1v2=14" break="no"/>t-aruḷi ...
+                        <lb n="3r8=42"/>yāṇṭu Irupatt’ aintu nāḷ nūṟṟu-t toṇṇūṟṟu mūnṟu kōṉōniṉ
+                        <lb n="3r9=43" break="no"/>mai koṇṭōṉ kuṉṟavattaṉa-kōṭṭattu naṭuviṉ malai Illattūr nāṭṭām                        
                         
-                        <lb n="6r13=121" break="no"/>ṉakarattōm
+                        <pb n="3v"/>                
+                        <lb n="3v1=44"/> 
+                        
+                        <pb n="4r"/>                
+                        <lb n="4r1=52"/>
+                        
+                        <pb n="4v"/>                
+                        <lb n="4v1=61"/>
+                        
+                        <pb n="5r"/>                
+                        <lb n="5r1=70"/>Uḷḷiṭṭu Eppērppaṭṭaṉavum Iṭappeṟuvat’ ākavum
                     </p>
-                    <p>Inta <hi rend="grantha">śāsa</hi>nam Eḻuttu veṭṭiṉa Aṟantāṅki porm<choice><sic>i</sic><corr>u</corr></choice>kaviraṉā 
-                        
+                    <p>
+                        I<hi rend="grantha">brahmade</hi>ya<supplied reason="omitted">t</supplied>tukku <unclear>Ē</unclear>
+                        <lb n="5r2=71" break="no"/>ri nīrkku Īnta v-āṟu Uḷḷūrk karaiyaṭṭi nīr kōkkumaḷavum koḷḷa Aṭaikka-p
+                        <lb n="5r3=72"/>peṟuvat’ ākavum
                     </p>
-                    
+                    <p>
+                        I<hi rend="grantha">brahmade</hi>yattu Āṟṟukkāl nīrkk' <choice><sic>iy</sic><corr>ī</corr></choice>nta v-āṟu kāl kutti-k
+                        <lb n="5r4=73"/>koḷḷa-p peṟuvat’ ākavum
+                    </p>
+                    <p>
+                        Ivvāykkāl A<hi rend="grantha">nya</hi>r kuṟaṅkaṟuttu viṭavum
+                        <lb n="5r5=74"/>kūṭainīr Iṟaikkavum kuṟṟēttam Eṭukkavum peṟātār ākavum
+                    </p>
+                    <p>
+                        <lb n="5r6=75"/>Ic-collappaṭṭa pari<hi rend="grantha">hā</hi>rattōṭu nallūr naṟpārppār āyiṉa mēliruñceṟṟu
+                        <lb n="5r7=76"/><hi rend="grantha">sabhai</hi>yārkku taṅkaḷūrōṭē kalant’ ēṟṟi oṉṟ-ākki 
+                        <lb n="5r8=77"/>Āṭṭāṇṭu tōṟum mūvāyirak kāṭi nellum Oṉpatiṉ kaḻañcu poṉṉum Aṭṭi Uṇpatāka <hi rend="grantha">pa</hi>ra
+                        <lb n="5r9=78" break="no"/><hi rend="grantha">da</hi>tti ceṉṟatu
+                    </p>
+                </div>
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 2 of 2</head>
+                    <p>
+                        
+                        <lb n="5r9=78"/>...
+                        <pb n="5v"/>                
+                        <lb n="5v1=79"/>
+                        
+                        <lb n="5v7=85"/>                        
+                        
+                    </p>      
                     
                 </div>
             </div>
@@ -172,17 +189,13 @@
             
             <div type="bibliography">                
                 
-                <p>Described by E. Hultzsch in <bibl><ptr target="bib:ARIE1890-1891_01"/></bibl> (p. 4, § 9).</p>
-                <p>Edited and translated in <bibl><ptr target="bib:KrishnaSastri1920_01"/></bibl> (<ref target="DHARMA_INSSIIv03p0i0128.xml">SII 3.128</ref>), with visual documentation.</p>
-                <p>This revised edition by Emmanuel Francis.</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Nagaswamy1979_01"/></bibl>, with visual documentation.</p>
+                <p>This edition by Emmanuel Francis, based on <bibl><ptr target="bib:Nagaswamy1979_01"/></bibl>.</p>
                 
                 <listBibl type="primary">
                     
-                    <bibl n="SII">
-                        <ptr target="bib:KrishnaSastri1920_01"/>
-                        <citedRange unit="page">264-276</citedRange>
-                        <citedRange unit="item">128</citedRange>
-                        <citedRange unit="plate">IX-X</citedRange>
+                    <bibl n="N">
+                        <ptr target="bib:Nagaswamy1979_01"/>
                     </bibl>
                     
                 </listBibl>
@@ -190,7 +203,7 @@
                 <listBibl type="secondary">
                     
                     <bibl>
-                        <ptr target="bib:ARIE1890-1891_01"/>                   
+                        
                     </bibl>
                     
                 </listBibl>

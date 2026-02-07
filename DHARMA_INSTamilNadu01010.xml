@@ -97,7 +97,7 @@
                     </lg>
                 </div>
                 
-                <div type="textpart" n="B" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates</head>
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 1 of 2</head>
                     
                     <pb n="1r"/>
                     
@@ -129,15 +129,34 @@
                     </lg>
                     <p>
                         <pb n="5v"/>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion 1 of 3</head>
+                    <p>
                         
                         <pb n="6r"/>
                         
                         <pb n="6v"/>
+                    </p>
+                </div>
+                
+                <div type="textpart" n="D" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 2 of 3</head>
+                    
+                    <p>...</p>
+                </div>
+                
+                
+                <div type="textpart" n="E" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion 2 of 3</head>
+                    <p>                   
                         
                         <pb n="7r"/>
                     </p>
+                </div>
+                
+                <div type="textpart" n="D" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 3 of 3</head>
                     
-                    <lg n="84" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <lg n="84" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                         <l n="a">sāmānyo ’yaṁ dha<unclear>r</unclear>mmam eta<supplied reason="omitted">n</supplied> nṛpāṇām</l>
                         <l n="b">kāle kāle <lb n="7r11=202"/> pāl<choice><sic>i</sic><corr>a</corr></choice>n<choice><orig>i</orig><reg>ī</reg></choice>yo bhava<choice><orig>t</orig><reg>d</reg></choice>bhis</l>
                         <l n="c">tasmād etān bhāvinaḥ pārtthivendrān·</l>
@@ -162,6 +181,11 @@
                         <l n="ab">pariṇatan adhiśaya<unclear>ṃ</unclear> madhurāntaka-brahmādhirājan a<pb n="7v" break="no"/><lb n="7v1=207" break="no"/><unclear>tanva</unclear> śāsanam eva</l>
                         <l n="cd">deśa-madhye sva-pati-kāryya-viniścyārtthaṃ buddhiḥ kṛta <unclear>śaśi</unclear>-bhūṣaṇa<lb n="7v2=208" break="no"/>-paṇḍitena sārddhaṃ <g type="gomutraFinal">.</g></l>
                     </lg>
+                    
+                </div>
+                
+                
+                <div type="textpart" n="E" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion 3 of 3</head>
                     
                     <p>	
                         tiru-vāy-moḻin=t-aruḷa I-<hi rend="grantha">śāsa</hi>na-Eḻuttu veṭṭi⌈
