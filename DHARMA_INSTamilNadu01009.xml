@@ -45,7 +45,7 @@
                     <physDesc>
                         <handDesc>
                             <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>. Tamil <foreign>n</foreign> and <foreign>ṉ</foreign> interchnageable.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -86,7 +86,11 @@
                     <p><lb n="1"/>...</p>
                 </div>
                 
-                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 1of 2</head>
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Ring</head>
+                    <p><lb n="1"/>...</p>
+                </div>
+                
+                <div type="textpart" n="C" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 1of 2</head>
                     
                     <p>
                         <pb n="1r"/>                
@@ -170,7 +174,7 @@
                     
                 </div>                               
                 
-                <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion</head>
+                <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion</head>
                     
                     <ab>                        
                         <pb n="8v"/>
@@ -182,13 +186,46 @@
                         <lb n="8v3=273=1"/>ṭṭu ...
                         
                         
+                        <pb n="85v"/>
+                        <lb n="85v1"/>...
+                        
+                    </p>
+                    
+                    <ab><lb n="85v25"/><hi rend="grantha">svasti</hi></ab>
+                    
+                    <p>
+                        Ippaṭi <hi rend="grantha">śāsa</hi>ṉa
+                        <pb n="86r" break="no"/>
+                        <lb n="86r1" break="no"/>ñ ceyvitt-aruḷi I-<hi rend="grantha">śāsa</hi>ṉattilē perumāṉāṭikaḷ yāṇṭu Oṉpat-āva
+                        <lb n="86r2" break="no"/><choice><orig>ṉ</orig><reg>n</reg></choice>āḷ muṉṉ<choice><orig>u</orig><reg>ū</reg></choice>ṟṟu Aimpatiṉāl kaṅkai-koṇṭa-cōḻa-purattu-k kōyili
+                        <lb n="86r3" break="no"/>ṉ Uḷḷāl-k kaṅkai-koṇṭa-cōḻaṉ māḷikai-t tiru-mañcaṉa-cālai-p paḷḷi  
+                        <lb n="86r4" break="no"/>p-pīṭam <hi rend="grantha">rājendra-cōḻa</hi>-mā-vali-vāṇa-rājaṉil Eḻunt-aruḷi Iru<choice><orig>ṉ</orig><reg>n</reg></choice>tu I-<hi rend="grantha">brahmade</hi>yat
+                        <lb n="86r5" break="no"/>tukku Akara-<hi rend="grantha">brahmade</hi>yam <hi rend="grantha">śrī-rājendra-c-caturvve</hi>ti-maṅkalam e<choice><orig>n</orig><reg>ṉ</reg></choice>ṟu tirunāmamum
+                        <lb n="86r6"/>kuṭutt-aruḷi I-<hi rend="grantha">brahmade</hi>yattu <hi rend="grantha">sabhai</hi>yāraiyum maṟṟum Aṉaittu <choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭ’ uḷḷa
+                        <lb n="86r7"/>vi<hi rend="grantha">dvā</hi>ṉkaḷaiyum Aṉaittu <hi rend="grantha">rājā</hi>kkaḷaiyum <hi rend="grantha">rāja</hi>-ma<hi rend="grantha">ntri</hi>kaḷaiyum vayttu-k koṇ
+                        <lb n="86r8" break="no"/>ṭ’ eḻu<choice><orig>ṉ</orig><reg>n</reg></choice>t-aruḷi Iru<choice><orig>ṉ</orig><reg>n</reg></choice>tu <hi rend="grantha">vya</hi>va<hi rend="grantha">stai</hi> paṇṇi-Aruḷi<choice><orig>n</orig><reg>ṉ</reg></choice>a paṭi
+                    </p>
+                    
+                    <p>
+                        I-<hi rend="grantha">brahmade</hi>yattukku <choice><orig>ṉ</orig><reg>n</reg></choice>aṉ
+                        <lb n="86r9" break="no"/>mai ceytārkkum <choice><orig>ṉ</orig><reg>n</reg></choice>āṉ ceyta paṭiyē paripālittārkkum <hi rend="grantha">sūryya-graha</hi>
+                        <lb n="86r10" break="no"/>ṇattu <hi rend="grantha">gaṃ<unclear>ga</unclear>-sā<choice><orig>k</orig><reg>g</reg></choice>ara-saṃga</hi>mattilum va<choice><sic>ṇā<hi rend="grantha">ra</hi></sic><corr><hi rend="grantha">raṇ</hi>ā</corr></choice>siyilum <hi rend="grantha">sāḷagrāma</hi>ttilu
+                        <lb n="86r11" break="no"/>m <hi rend="grantha">kurukṣetra</hi>ttilum Uḷḷiṭṭa <hi rend="grantha">puṇya-s<choice><orig>t</orig><reg>th</reg></choice>ā</hi>naṅkalilē pallāyiraṅ kurā
+                        <lb n="86r12" break="no"/>l-p-pacu U<hi rend="grantha">bha</hi>ya<hi rend="grantha">mukhi</hi>yāy Iruppa<choice><orig>n</orig><reg>ṉ</reg></choice>avē <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>aturvve</hi>ti-<hi rend="grantha">bha</hi>ṭṭa-<hi rend="grantha">sarvvak<choice><sic>ṛ</sic><corr>ra</corr></choice>tu</hi>-yā<hi rend="grantha">ji</hi>kaḷāy
+                        <lb n="86r13"/><hi rend="grantha">daridra</hi>rāy <hi rend="grantha">bahu-kuḍu<choice><sic>ma</sic><corr>M</corr></choice>bi</hi>kaḷāy <hi rend="grantha">brahma</hi>vittukaḷāy Iruppārkku va<hi rend="grantha">str-āla</hi>ṅkā<hi rend="grantha">ra-bhu-sahi</hi>tam-ā
+                        <lb n="86r14" break="no"/>ka <hi rend="grantha">dā</hi>nam  paṇṇiṉārkk’ uḷḷa puṇyam Uṇṭāvat’ ākavum
+                    </p>
+                    
+                    <p>...</p>
+                    
+                    <p>                        
                         <pb n="86v"/>
                         <lb n="86v21"/>ttē <g type="gomutraFinal">.</g>
                     </p>
                     
                 </div>
                 
-                <div type="textpart" n="D" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 2 of 2</head>
+                <div type="textpart" n="E" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 2 of 2</head>
                     <ab>                        
                         <pb n="86v"/>
                         <lb n="86v21"/>svasti <g type="gomutraFinal">.</g>
@@ -227,9 +264,24 @@
                 
                 </div>-->
             
-               <div type="translation" resp="part:emfr">
+            <div type="translation" resp="part:emfr">
                 
-                <div type="textpart" n="D"><head>Plates: Sanskrit portion 2 of 2</head>
+                <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion</head>
+                    
+                    <p n="85r8-86r14">
+                        To those who do good to this <foreign>brahmadeya</foreign> and to those who protect it the way I did it,
+                        there should be the merit of those who<note>That is, their merit should be equal to that of those who</note>,
+                        at the time of a solar eclipse,
+                        in sacred places such as ...,
+                        make a donation, 
+                        so that there be clothes, ornaments and land,
+                        in favour of those who ...
+                        
+                    </p>
+                    
+                </div>
+                
+                <div type="textpart" n="E"><head>Plates: Sanskrit portion 2 of 2</head>
                     
                     <p n="21"><!--Update n-->
                         Prosperity!
@@ -247,11 +299,11 @@
                         Prosperity! Fortune!
                     </p>
                 </div>
-                </div>
+            </div>
             
             <div type="commentary">
                 
-                </div>
+            </div>
             
             <div type="bibliography">                
                 
