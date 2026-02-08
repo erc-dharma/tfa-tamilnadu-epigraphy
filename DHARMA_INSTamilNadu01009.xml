@@ -183,7 +183,7 @@
                         
                         
                         <pb n="86v"/>
-                        <lb n="86v21"/>ttē <g type="gomutraFinal">.</g> <g type="gomutraFinal">.</g>
+                        <lb n="86v21"/>ttē <g type="gomutraFinal">.</g>
                     </p>
                     
                 </div>
@@ -191,7 +191,7 @@
                 <div type="textpart" n="D" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 2 of 2</head>
                     <ab>                        
                         <pb n="86v"/>
-                        <lb n="86v21"/>svasti 
+                        <lb n="86v21"/>svasti <g type="gomutraFinal">.</g>
                     </ab>
                     
                     <lg n="203" met="anuṣṭubh">
@@ -203,7 +203,7 @@
                     
                     <lg n="204" met="anuṣṭubh">
                         <l n="a" enjamb="yes"><lb n="86v22"/>Etat· śrī-vīra-rajendra</l>
-                        <l n="b">-niyogāc candra-bhuṣaṇaḥ</l>
+                        <l n="b">-niyogāc candra-bh<choice><sic>u</sic><corr>ū</corr></choice>ṣaṇaḥ</l>
                         <l n="c">śāsanaṃ śāśvataṃ śrīmad</l>
                         <l n="d">akarot tāmru-patrake</l>
                     </lg>
@@ -240,7 +240,7 @@
                     </p>
                     
                     <p n="204" rend="stanza">
-                        <l>At the order of the glorious Vīrarājendra, Candrabhuṣaṇa made this glorious eternal order on copper-plates.</l>
+                        <l>At the order of the glorious Vīrarājendra, Candrabhūṣaṇa made this glorious eternal order on a copper leaf.<note>That is, on copper plates.</note></l>
                     </p>
                     
                     <p>                        
