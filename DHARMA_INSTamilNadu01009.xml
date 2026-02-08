@@ -183,17 +183,34 @@
                         
                         
                         <pb n="86v"/>
-                        <lb n="86v21"/>ttē <g type="gomutraFinal"/>
+                        <lb n="86v21"/>ttē <g type="gomutraFinal">.</g> <g type="gomutraFinal">.</g>
                     </p>
                     
                 </div>
                 
                 <div type="textpart" n="D" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 2 of 2</head>
-                <p>
-                    <pb n="86v"/>
-                    <lb n="86v21"/>...
-                    <lb n="86v22"/>...
-                </p>
+                    <ab>                        
+                        <pb n="86v"/>
+                        <lb n="86v21"/>svasti 
+                    </ab>
+                    
+                    <lg n="203" met="anuṣṭubh">
+                        <l n="a" enjamb="yes">śrīmac-cāsanam urvvīśa</l>
+                        <l n="b">-śirobhiḥ śekharī-kṛtaM</l>
+                        <l n="c">Etad rājendra-devasya</l>
+                        <l n="d">para-kesari-varmmaṇaḥ</l>
+                    </lg>
+                    
+                    <lg n="204" met="anuṣṭubh">
+                        <l n="a" enjamb="yes"><lb n="86v22"/>Etat· śrī-vīra-rajendra</l>
+                        <l n="b">-niyogāc candra-bhuṣaṇaḥ</l>
+                        <l n="c">śāsanaṃ śāśvataṃ śrīmad</l>
+                        <l n="d">akarot tāmru-patrake</l>
+                    </lg>
+                    
+                    <ab>                        
+                        svasti śrī
+                    </ab>
                 </div>
             </div>
             
@@ -210,16 +227,36 @@
                 
                 </div>-->
             
-            
-            
-            <!--<div type="commentary">
+               <div type="translation" resp="part:emfr">
                 
-                </div>-->
+                <div type="textpart" n="D"><head>Plates: Sanskrit portion 2 of 2</head>
+                    
+                    <p n="21"><!--Update n-->
+                        Prosperity!
+                    </p>
+                    
+                    <p n="203" rend="stanza">
+                        <l>This glorious order of the king Rājendra Parakesarivarman is made into a diadem on the heads of the kings of the earth.</l>
+                    </p>
+                    
+                    <p n="204" rend="stanza">
+                        <l>At the order of the glorious Vīrarājendra, Candrabhuṣaṇa made this glorious eternal order on copper-plates.</l>
+                    </p>
+                    
+                    <p>                        
+                        Prosperity! Fortune!
+                    </p>
+                </div>
+                </div>
+            
+            <div type="commentary">
+                
+                </div>
             
             <div type="bibliography">                
                 
                 <p>Edited and translated in ..., with visual documentation.</p>
-                <p>This edition by Emmanuel Francis.</p>
+                <p>This edition by Emmanuel Francis based on ...</p>
                 
                 <!--<listBibl type="primary">
                     
