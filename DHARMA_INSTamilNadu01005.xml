@@ -87,7 +87,7 @@
                     <p><lb n="1"/>...</p>
                 </div>
                 
-                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit Portion</head>
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 1 of 2</head>
                     
                     <ab>
                         <pb n="1r"/>                
@@ -165,7 +165,7 @@
                     
                 </div>
                 
-                <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Detached Tamil Portion</head>
+                <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil Portion 1 of 2</head>
                     
                     <p>
                         <pb n="10r"/>                
@@ -177,7 +177,7 @@
                     </p>
                 </div>
                 
-                <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil Portion</head>
+                <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion 2 of 2</head>
                     
                     <p> 
                         
@@ -186,11 +186,19 @@
                         
                         <pb n="21v"/>                
                         <lb n="21v1=513"/>...
+                        <lb n="21v5=517"/>variyiṭattu <g type="gomutraFinal"/>
                     </p>
                     
                 </div>
                 
-                
+                <div type="textpart" n="E" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 1 of 2</head>
+                    
+                    <p>
+                        <pb n="21v"/>                
+                        <lb n="21v5=517"/>...
+                        <lb n="21v11=524"/>...
+                    </p>
+                </div>
             </div>
             
             <!--<div type="apparatus">

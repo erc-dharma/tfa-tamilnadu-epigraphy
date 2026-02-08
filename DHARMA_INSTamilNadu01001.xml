@@ -89,6 +89,8 @@
                 
                 <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 1 of 2</head>
                     
+                    <pb n="1r"/>
+                    
                     <ab >
                         <pb n="1v"/>                
                         <lb n="1v1=1"/>svasti śr<choice><orig>i</orig><reg>ī</reg></choice>
@@ -97,10 +99,10 @@
                     <lg n="1" met="vasantatilakā">
                         <l n="a">yasyāṣṭa-mū<reg>r</reg>ttir abhavat· svayam-arddha-mū<reg>r</reg>tti<reg>r</reg></l>
                         <l n="b">yyan-nābhi-paṁ
-                            <lb n="1v2=2" break="no"/>kaja-bh<choice><sic>ū</sic><corr>a</corr></choice>v<choice><sic>o</sic><corr>ā</corr></choice> jagatām· prasūtiḥ</l>
-                        <l n="c">yasyāniśam· prathama-vāg vivṛ
+                            <lb n="1v2=2" break="no"/>kaja-bh<choice><sic>ū</sic><corr>a</corr></choice>v<choice><sic>o</sic><corr>ā</corr></choice> jagatāM prasūtiḥ</l>
+                        <l n="c">yasyāniśaM prathama-vāg vivṛ
                             <lb n="1v3=3" break="no"/>ṇoti tatvaṁ</l>
-                        <l n="d">sa śr<choice><sic>i</sic><corr>ī</corr></choice>-dharo diśatu viśva-pati<supplied reason="omitted">ḥ</supplied> śriya<choice><sic>m·</sic><corr>ṁ</corr></choice> va<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g><g type="danda">.</g><g type="danda">.</g></l>
+                        <l n="d">sa śr<choice><sic>i</sic><corr>ī</corr></choice>-dharo diśatu viśva-pati<supplied reason="omitted">ḥ</supplied> śriya<choice><orig>M</orig><reg>ṁ</reg></choice> va<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g><g type="danda">.</g><g type="danda">.</g></l>
                     </lg>
                     
                     <p>
@@ -153,7 +155,7 @@
                     
                     <lg n="26" met="anuṣṭubh">
                         <l n="a"><lb n="5v4=67"/>bhūmiṁ sa dattavān asmai</l>
-                        <l n="b">ka<choice><sic>ṭ</sic><corr>ḍ</corr></choice>aikkoṭṭūr iti śrutām·</l>
+                        <l n="b">ka<choice><sic>ṭ</sic><corr>ḍ</corr></choice>aikkoṭṭūr iti śrutāM</l>
                         <l n="c" enjamb="yes">Udayenducaturvve<lb n="5v5=68" break="no"/>di</l>
                         <l n="d">maṁgalāya ca pārtthiva<supplied reason="omitted">ḥ</supplied></l>
                     </lg>
@@ -161,7 +163,7 @@
                     <lg n="27" met="anuṣṭubh">
                         <l n="a">Atra vidyādh<choice><sic>i</sic><corr>a</corr></choice>rīpaṭṭi<reg>r</reg></l>
                         <l n="b">ddevapaṭṭir iti
-                            <lb n="5v6=69"/>śrutam·</l>
+                            <lb n="5v6=69"/>śrutaM</l>
                         <l n="c">Etat paṭṭi-dvayaṁ pūrvvaṁ</l>
                         <l n="d">bhujyamānan digam<choice><sic>p</sic><corr>b</corr></choice>araiḥ</l>
                     </lg>
@@ -172,13 +174,14 @@
                         <l n="b">dattavāṁś ca sa pārtthivaḥ</l>
                         <l n="c">Eta<choice><sic>t·</sic><corr>d</corr></choice> dvayaṁ prasiddhaṁ hi</l>
                         <l n="d">pūrvvaṁ
-                            <lb n="5v8=71"/>kṣapaṇakānvitam·</l>
+                            <lb n="5v8=71"/>kṣapaṇakānvitaM</l>
                     </lg>
                 </div>
                 
                 <div type="textpart" n="C" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Tamil portion</head>
                     <p>
                         <!--check the original from here; split words; add ē, ō-->
+                        <pb n="5v"/>
                         <lb n="5v8=71"/>matirai koṇṭa kō-p-parakē<hi rend="grantha">sa</hi>riva<hi rend="grantha">rmma</hi>ṟku yāṇṭu
                         <pb n="6r"/>                 
                         <lb n="6r1=72"/>patiṉ aint-āvataṟku
@@ -240,6 +243,7 @@
                 
                 <div type="textpart" n="D" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 2 of 2</head>
                     <p>
+                        <pb n="7r"/>
                         <lb n="7r10=101"/>On namo nārāyaṇāya <unclear><g type="ddanda">.</g></unclear>
                     </p>
                     
@@ -249,7 +253,7 @@
             
             <!--<div type="apparatus">
                 
-                <div type="textpart" n="B"><head>Plates</head>
+                <div type="textpart" n="B"><head>...</head>
                 <listApp>
                 <app loc="0">
                 <lem>...</lem>

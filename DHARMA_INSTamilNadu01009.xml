@@ -86,9 +86,9 @@
                     <p><lb n="1"/>...</p>
                 </div>
                 
-                <div type="textpart" n="B"><head>Plates: Sanskrit Portion</head>
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 1of 2</head>
                     
-                    <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <p>
                         <pb n="1r"/>                
                         <lb n="1r1=1"/>...
                         
@@ -102,12 +102,12 @@
                         <lb n="2v1=49"/>
                     </p>
                     
-                    <lg n="37" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <lg n="37">
                         <l n="ab">Alabhata ca suvarṇṇa-<unclear>vrā</unclear>ta-saṃ<lb n="2v12=60" break="no"/>pūrṇṇam ante nihitam atha sa dhīman urvvarāyāḥ kaṭāham·</l>
                         <l n="cd">gaja-turaga-padātīn nirdayaṃ sannihatya pracura-balam amu<unclear>ṣya</unclear> prāsya<lb n="2v13=61"/>saṃrakṣitāram·<g type="dash">.</g></l>
                     </lg>
                     
-                    <lg n="38" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <lg n="38">
                         <l n="a">tatas tasyābhavat· palī</l>
                         <l n="b">śuddhamallī śucisthi<!--TNSDA: smi?-->tā</l>
                         <l n="c">pṛth·vīva pṛthivī-bharttuḥ</l>
@@ -121,7 +121,7 @@
                         <lb n="2v16=64"/>...
                     </p>
                     
-                    <lg n="42" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <lg n="42">
                         <l n="ab">tatas samudrair iva taiś caturbhir gguṇais sa ratnai<pb n="3r" break="no"/><lb n="3r1=65" break="no"/>r iva pūjyamaṇaḥ</l>
                         <l n="cd">babhau catur-vvargga-phalasya goptā catur-ddigantāntadharaikanāthaḥ <g type="dash">.</g></l>
                     </lg>
@@ -170,9 +170,10 @@
                     
                 </div>                               
                 
-                <div type="textpart" n="C"><head>Plates: Tamil Portion</head>
+                <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion</head>
                     
                     <ab>                        
+                        <pb n="8v"/>
                         <lb n="8v2=272=1"/><hi rend="grantha">svasti śrī</hi> 
                     </ab>
                     
@@ -180,16 +181,25 @@
                         kōnerIṉmai koṇṭan <hi rend="grantha">rājadhirāja</hi>-vaḷanā
                         <lb n="8v3=273=1"/>ṭṭu ...
                         
+                        
+                        <pb n="86v"/>
+                        <lb n="86v21"/>ttē <g type="gomutraFinal"/>
                     </p>
                     
                 </div>
                 
-                
+                <div type="textpart" n="D" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 2 of 2</head>
+                <p>
+                    <pb n="86v"/>
+                    <lb n="86v21"/>...
+                    <lb n="86v22"/>...
+                </p>
+                </div>
             </div>
             
             <!--<div type="apparatus">
                 
-                <div type="textpart" n="B"><head>Plates</head>
+                <div type="textpart" n="B"><head>...</head>
                 <listApp>
                 <app loc="0">
                 <lem>...</lem>
@@ -208,7 +218,7 @@
             
             <div type="bibliography">                
                 
-                <p>Edited and translated in ***, with visual documentation.</p>
+                <p>Edited and translated in ..., with visual documentation.</p>
                 <p>This edition by Emmanuel Francis.</p>
                 
                 <!--<listBibl type="primary">

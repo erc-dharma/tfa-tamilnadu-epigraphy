@@ -159,13 +159,17 @@
                         <lb n="8r1=112"/>
                         
                         <pb n="8v"/>                
-                        <lb n="8v1=121"/>
+                        <lb n="8v1=121"/>...
+                        <lb n="8v2=122"/>...
+                        <lb n="8v3=123"/>...
                     </p>
                 </div>
                 
                 <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion</head>
                     <p>
                         
+                        <pb n="8v"/>
+                        <lb n="8v3=123"/>...
                         <pb n="9r"/>                
                         <lb n="9r1=131"/>
                         
@@ -194,7 +198,7 @@
             
             <!--<div type="apparatus">
                 
-                <div type="textpart" n="B"><head>Plates</head>
+                <div type="textpart" n="B"><head>...</head>
                 <listApp>
                 <app loc="0">
                 <lem>...</lem>

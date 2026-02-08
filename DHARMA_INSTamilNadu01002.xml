@@ -112,7 +112,7 @@
                 
                 <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion</head>
                     <p>
-                        
+                        <pb n="3r"/>
                         <lb n="3r8=42"/>yāṇṭu Irupatt’ aintu nāḷ nūṟṟu-t toṇṇūṟṟu mūnṟu kōṉōniṉ
                         <lb n="3r9=43" break="no"/>mai koṇṭōṉ kuṉṟavattaṉa-kōṭṭattu naṭuviṉ malai Illattūr nāṭṭām                        
                         
@@ -199,9 +199,10 @@
                         <lb n="5r9=78" break="no"/><hi rend="grantha">da</hi>tti ceṉṟatu
                     </p>
                 </div>
-                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 2 of 2</head>
+                
+                <div type="textpart" n="D" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 2 of 2</head>
                     <p>
-                        
+                        <pb n="5r"/>
                         <lb n="5r9=78"/>...
                         <pb n="5v"/>                
                         <lb n="5v1=79"/>
@@ -215,7 +216,7 @@
             
             <!--<div type="apparatus">
                 
-                <div type="textpart" n="B"><head>Plates</head>
+                <div type="textpart" n="B"><head>...</head>
                 <listApp>
                 <app loc="0">
                 <lem>...</lem>
