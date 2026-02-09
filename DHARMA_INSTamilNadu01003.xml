@@ -108,9 +108,18 @@
                         
                         <pb n="3r"/>                
                         <lb n="3r1=32"/>
-                        
-                        <pb n="3v"/>                
-                        <lb n="3v1=40"/> 
+                        <lb n="3r7=38"/>...
+                    </p>
+                    <lg n="22" met="sragdharā">
+                        <l n="a">tad-vaṃśe śenni-kiḷ·ḷi-prbhṛtiṣu karikāl-ādike
+                            <lb n="3r8=39" break="no"/><unclear>śv a</unclear>py ananyāM</l>
+                        <l n="b">bhuktvā <unclear>pṛthvīṃ</unclear> samastām amarapati-purīm rājasu
+                            <pb n="3v"/> <lb n="3v1=40"/>prāptavatsu</l>
+                        <l n="c">jajñe kocceṃkaṇān ity akhila-jana-padā-kḷ<unclear>pta</unclear><lb n="3v2=41" break="no"/>-gaurīśa-dhāmā</l>
+                        <l n="d">kṣmāpaḥ kṣmāp-endra-cūḷā-maṇir atha samabhūn nallaṭi-k-kon amuṣmāt·</l>
+                    </lg>
+                    
+                    <p>                               
                         
                         <pb n="4r"/>                
                         <lb n="4r1=48"/>
@@ -120,21 +129,21 @@
                         <lb n="4v5=60"/>...
                     </p>                    
                     
-                    <lg n="22">
-                        <l n="a">paḷuveṭṭarayar parā<lb n="4v6=61" break="no"/>hvayasya</l>
-                        <l n="b">kṣitibharttu<unclear>ḥ</unclear> kila keraḷeśvarasya</l>
+                    <lg n="22" met="sundarī">
+                        <l n="a">paḷuveṭṭarayar par-ā<lb n="4v6=61" break="no"/>hvayasya</l>
+                        <l n="b">kṣiti-bharttu<unclear>ḥ</unclear> kila keraḷ-eśvarasya</l>
                         <l n="c">tanayām uduvāha r<unclear>ā</unclear><lb n="4v7=62" break="no"/>ja-lakṣmīm</l>
-                        <l n="d">iva mūrttām avanipatissa Eṣāḥ <g type="gomutraFinal">.</g></l>
+                        <l n="d">iva mūrttām avani-patis sa Eṣāḥ <g type="gomutraFinal">.</g></l>
                     </lg>
                     
-                    <lg n="23">
+                    <lg n="23" met="āryā">
                         <l n="a">... <pb n="5r"/><lb n="5r1=64"/>... <g type="gomutraFinal">.</g></l>
                     </lg>
                     
-                    <lg n="24">
-                        <l n="a">vai<choice><orig>t</orig><reg>d</reg></choice>uMbasya kulodbhavān narapa<lb n="5r2=65" break="no"/>ter aṃśasya kāladviṣaḥ</l>
-                        <l n="b">sindho<unclear>r</unclear> bandhuritoruyu<choice><orig>k</orig><reg>g</reg></choice>mayugaḷāṃ lakṣmīm ivā<lb n="5r3=66" break="no"/>dyaḥ pumān</l>
-                        <l n="c">viśveśas tanayām ivācalapater bhāgirathī-śekharaḥ</l>
+                    <lg n="24" met="śārdūlavikrīḍita">
+                        <l n="a">vai<choice><orig>t</orig><reg>d</reg></choice>uMbasya kul-odbhavān nara-pa<lb n="5r2=65" break="no"/>ter aṃśasya kāla-dviṣaḥ</l>
+                        <l n="b">sindho<unclear>r</unclear> bandhurit-oru-yu<choice><orig>k</orig><reg>g</reg></choice>ma-yugaḷāṃ lakṣmīm ivā<lb n="5r3=66" break="no"/>dyaḥ pumān</l>
+                        <l n="c">viśveśas tanayām iv-ācala-pater bhāgirathī-śekharaḥ</l>
                         <l n="d">ka<lb n="5r4=67" break="no"/>lyaṇīm uduvāha bhū-dhara-patiḥ pātraṃ guṇanāM paramaM <g type="gomutraFinal">.</g></l>
                     </lg>
                     
@@ -156,8 +165,17 @@
                         <lb n="7v1=104"/>
                         
                         <pb n="8r"/>                
-                        <lb n="8r1=112"/>
-                        
+                        <lb n="8r1=112"/>...
+                        <lb n="8r7=118"/>...
+                    </p>
+                    
+                    <lg n="45" met="svāgatā">
+                        <l n="a">rakṣeta kṣiti-bhujo mama dharmmaM bhāvino ’pi sakalān iti bhūp<supplied reason="omitted">ā</supplied>
+                            <lb n="8r8=119" break="no"/>n·</l>
+                        <l n="c">yācati vinata-bhūpati-cakraś cakravartty api parāntaka-nāmā  <g type="gomutraFinal">.</g></l>
+                    </lg>
+                    
+                    <p>
                         <pb n="8v"/>                
                         <lb n="8v1=121"/>...
                         <lb n="8v2=122"/>...
