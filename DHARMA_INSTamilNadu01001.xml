@@ -118,20 +118,38 @@
                         <lb n="2v4=18"/>...
                     </p>
                     
-                    <lg n="8">
+                    <lg n="8" met="svāgatā">
                         <l n="a">yaḥ pulomata<lb n="2v5=19" break="no"/>nayām iva śakraḥ</l>
                         <l n="b">parvvatendra-tanujām iva śarvvaḥ</l>
-                        <l n="c">kaiṭabhāriṟ iva sagara-ka<lb n="2v6=20" break="no"/>nyām</l>
+                        <l n="c">kaiṭabhāriṟ iva sāgara-ka<lb n="2v6=20" break="no"/>nyām</l>
                         <l n="d">keraḷeśvara-sutām upayeme <g type="gomutraFinal">.</g></l>
                     </lg>                    
                     
                     <p>
                         
                         <pb n="3r"/>                
-                        <lb n="3r1=23"/>
+                        <lb n="3r1=23"/>...
+                        <lb n="3r7=29"/>...
+                    </p>
+                    
+                    <lg n="12" met="vasantatilakā">
+                        <l n="a">yasy-ābhavat pravara-kāśyapa-vaṃśajo ’gre</l>
+                        <l n="b">ka
+                            <lb n="3r8=30" break="no"/>ṇvo mahā-mun<choice><sic>ī</sic><corr>i</corr></choice>r analpa-tapaḥ prabhāva<supplied reason="omitted">ḥ</supplied></l>
+                        <l n="c">ya<supplied reason="omitted">h</supplied> siṃha-nandi-mahi<supplied reason="omitted">ma</supplied>-pra<lb n="3r9=31" break="no"/>tilabdha-v<choice><sic>it</sic><corr>ṛd</corr></choice>dhir</l>
+                        <l n="d">ggaṃg-ānvayo vijayatāñ <unclear>ca</unclear> jayatāM vara<unclear>s saḥ</unclear></l>
+                    </lg>
+                    
+                    <lg n="13" met="vasantatilakā">
+                        <l n="a"><pb n="3v"/><lb n="3v1=32"/>śrī-vāsa-dhāmni kuvaḷāla-pure viśāle</l>
+                        <l n="b">k<unclear>ā</unclear>ṇvāyanas sakala<lb n="3v2=33" break="no"/>-gaṅga-kul-ā<choice><sic>t</sic><corr>d</corr></choice>i-bhūtaḥ</l>
+                        <l n="c">rāja babhūva bhuvi koṃkaṇ<choice><sic>ī</sic><corr>i</corr></choice>-nāmadhe<lb n="3v3=34" break="no"/>yo</l>
+                        <l n="d">yo bāṇa-maṇḍala-jayāya kṛt-ābhiṣeka<supplied reason="omitted">ḥ</supplied> <g type="gomutraFinal"/></l>
+                    </lg>
+
+                    <p>
                         
-                        <pb n="3v"/>                
-                        <lb n="3v1=32"/> 
+                        
                         
                         <pb n="4r"/>                
                         <lb n="4r1=40"/>
@@ -148,15 +166,15 @@
                     
                     <lg n="25" met="vasantatilakā">
                         <l n="a">puṇyaṁ samaṁ kṛitavatāM parirakṣatāñ ca</l>
-                        <l n="b">ta<lb n="5v2=65" break="no"/>d raksateti sa parāntaka Ekavīra<supplied reason="omitted">ḥ</supplied></l>
-                        <l n="c">Āgāmina<supplied reason="omitted">ḥ</supplied> kṣitipatin· <lb n="5v3=66"/>praṇamaty ajasram</l>
-                        <l n="d">mūrddhnā sm<choice><sic>ā</sic><corr>a</corr></choice>rāricaraṇāM bujaśekhareṇa <g type="ddanda">.</g></l>
+                        <l n="b">ta<lb n="5v2=65" break="no"/>d raksat-eti sa parāntaka Eka-vīra<supplied reason="omitted">ḥ</supplied></l>
+                        <l n="c">Āgāmina<supplied reason="omitted">ḥ</supplied> kṣiti-patin· <lb n="5v3=66"/>praṇamaty ajasram</l>
+                        <l n="d">mūrddhnā sm<choice><sic>ā</sic><corr>a</corr></choice>r-āri-caraṇ-āMbuja-śekhareṇa <g type="ddanda">.</g></l>
                     </lg>
                     
                     <lg n="26" met="anuṣṭubh">
                         <l n="a"><lb n="5v4=67"/>bhūmiṁ sa dattavān asmai</l>
                         <l n="b">ka<choice><sic>ṭ</sic><corr>ḍ</corr></choice>aikkoṭṭūr iti śrutāM</l>
-                        <l n="c" enjamb="yes">Udayenducaturvve<lb n="5v5=68" break="no"/>di</l>
+                        <l n="c" enjamb="yes">Udayendu-caturvve<lb n="5v5=68" break="no"/>di</l>
                         <l n="d">maṁgalāya ca pārtthiva<supplied reason="omitted">ḥ</supplied></l>
                     </lg>
                     
@@ -174,7 +192,7 @@
                         <l n="b">dattavāṁś ca sa pārtthivaḥ</l>
                         <l n="c">Eta<choice><sic>t·</sic><corr>d</corr></choice> dvayaṁ prasiddhaṁ hi</l>
                         <l n="d">pūrvvaṁ
-                            <lb n="5v8=71"/>kṣapaṇakānvitaM</l>
+                            <lb n="5v8=71"/>kṣapaṇak-ānvitaM</l>
                     </lg>
                 </div>
                 
