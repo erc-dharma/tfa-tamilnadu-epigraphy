@@ -241,21 +241,26 @@
             
             <div type="translation" resp="part:emfr">
                 
-                <p n="1">
-                    Prosperity! Fortune!
-                </p>
-                <p>...</p>
+                <div type="textpart" n="B"><head>Plates: Sanskrit portion 1 of 2</head>
+                    <p n="1">
+                        Prosperity! Fortune!
+                    </p>
+                    <p>...</p>
+                </div>
                 
-                <p n="209">
-                    I, Karuṇākara Ācārya, alias Saṅkara Kāṭāṭi, master carpenter residing in Kuvaḷālam<note>That is, Kōlār, in Karnataka.</note> in Kuvaḷālanāṭu, I have engraved the letters of this order while <supplied reason="subaudible">the king</supplied> graciously uttered <supplied reason="subaudible">it</supplied> with his glorious mouth.
-                </p>
-                <p n="210">
-                    Do not forget virtue/<foreign>dharma</foreign> <supplied reason="explanation"><foreign>aṟam</foreign></supplied>. Other than virtue/<foreign>dharma</foreign> <supplied reason="explanation"><foreign>aṟam</foreign></supplied>, there is no refuge/help/support <supplied reason="explanation"><foreign>tuṇai</foreign></supplied>.
-                </p>
+                <div type="textpart" n="E"><head>Plates: Tamil portion 3 of 3</head>
+                    <p n="209">
+                        I, Karuṇākara Ācārya, alias Saṅkara Kāṭāṭi, master carpenter residing in Kuvaḷālam<note>That is, Kōlār, in Karnataka.</note> in Kuvaḷālanāṭu, I have engraved the letters of this order while <supplied reason="subaudible">the king</supplied> graciously uttered <supplied reason="subaudible">it</supplied> with his glorious mouth.
+                    </p>
+                    <p n="210">
+                        Do not forget virtue/<foreign>dharma</foreign> <supplied reason="explanation"><foreign>aṟam</foreign></supplied>. Other than virtue/<foreign>dharma</foreign> <supplied reason="explanation"><foreign>aṟam</foreign></supplied>, there is no refuge/help/support <supplied reason="explanation"><foreign>tuṇai</foreign></supplied>.
+                    </p>
+                    
+                    <p n="211">
+                        Sentient beings should protect <supplied reason="subaudible">this donation</supplied>!
+                    </p>
+                </div>
                 
-                <p n="211">
-                    Sentient beings should protect <supplied reason="subaudible">this donation</supplied>!
-                </p>
                 
             </div>
             
