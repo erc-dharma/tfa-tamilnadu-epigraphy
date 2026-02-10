@@ -99,13 +99,13 @@
                     <lb n="13" break="no"/>lē tirupperuntuṟai El
                     <lb n="14" break="no"/>lai naṭanta paṟṟukkuḷḷē t
                     <lb n="15" break="no"/>āṇaiyam Eṉṟu Iraṇṭu
-                    <lb n="16"/>vakai-c cēvakarum ceṉṟu
+                    <lb n="16"/>vakai-c cēvakarum ceṉṟu <!-- here VVG reads cevvai -->
                     <lb n="17"/>Iṟaṅkāmal Irukka kaṭavō
                     <lb n="18"/>mākavum
                 </p>
                 <p>
                     Intappaṭi yallā
-                    <lb n="19" break="no"/>tē mīṟi tāṇaiyam Iṟaṅki
+                    <lb n="19" break="no"/>tē mīṟi tāṇaiyam <!-- VVG reads miṣkaṇayam --> </-->Iṟaṅki
                     <lb n="20" break="no"/>ṉa pēr keṅkai-k-karaiyil
                     <lb n="21"/>kārām-pacuvaiyum kuruvaiyu
                     <lb n="22" break="no"/>m pirāmaṇaṉaiyum mātā
@@ -114,7 +114,7 @@
                 </p>
                 <p>
                     <lb n="25"/>Iṟpaṭikku Ituvum Allātē
-                    <lb n="26"/><choice><orig>I</orig><reg>Ī</reg></choice>ṉa-cātiyāka pōka-k kaṭavō
+                    <lb n="26"/><choice><orig>I</orig><reg>Ī</reg></choice>ṉa-cātiyāka <!-- īṉacāti is the low caste, according to VVG --> pōka-k kaṭavō
                     <lb n="27"/>mākavum <g type="pc"></g> 
                 </p>
             </div>	
@@ -134,6 +134,7 @@
             
             <div type="translation" resp="part:matr">
                 <p n="1-2">
+                    <!--
                     On the 13th day of the month of <foreign xml:lang="tam-Latn">āṭi</foreign>, in the year <foreign xml:lang="tam-Latn">kāḷayukti</foreign>,
                 </p>
                 <p n="2-18">
@@ -143,7 +144,7 @@
                     Anyone in the army who may break such an order, and compel payment, will incur in the same sin of killing a black cow, their teacher, a Brahman, or their mother and father on the shore of the Ganges. 
                 </p>
                 <p n="25-27">
-                    <supplied reason="subaudible">We order things to be</supplied> in this way, and not only that: People should go (in?) according to group and caste.  
+                    <supplied reason="subaudible">Those who will not beahve like that will become low caste people. -->
                 </p>
                 
             </div>	
