@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ātmanāthasvāmi temple, Āvuṭaiyārkōyil, no king, no date</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:matr">
+                        <forename>Margherita</forename>
+                        <surname>Trento</surname>
+                    </persName>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                    <persName ref="part:vija">
+                        <forename>G.</forename>
+                        <surname>Vijayavenugopal</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00712</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Margherita Trento.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Built in. Seems to record a provision of rights to cultivate <supplied reason="subaudible"><foreign>kāraṇmai</foreign></supplied> for the recitation of the <foreign>tiruvācakam</foreign> in front of the image of Tiruvātavūr Mutaliyār. This record seems to provide what may be the earliest inscriptional attestation of the title <foreign>Tiruvācakam</foreign>. </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2026-02-10" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                
+               <ab>
+  <lb n="1"/>maṟka<gap reason="lost" extent="unknown"></gap><choice><unclear>nti</unclear><unclear>kki</unclear><unclear>tti</unclear></choice><gap reason="lost" extent="unknown"></gap> <hi rend="grantha">śrī</hi> komāṟa<gap reason="lost" extent="unknown"></gap>tipaṟ <gap reason="lost" extent="unknown"></gap> <unclear>Āvatu</unclear><gap reason="lost" extent="unknown"></gap> kumpanāyaṟṟu pūrvappakkattu
+
+  <lb n="2"/><gap reason="lost" extent="unknown"></gap><hi rend="grantha">śa</hi>n tan<unclear>i</unclear><supplied reason="omitted">yūr ti</supplied>rup<supplied reason="omitted">pe</supplied>runtu<unclear>rai</unclear>yāṉa-<unclear>p pavi</unclear>tt<unclear>i</unclear>ra<supplied reason="omitted">mā</supplied>ṇ<unclear>i</unclear>kka <supplied reason="lost">māṇi</supplied><unclear>k</unclear>ka śatuvet<unclear>i</unclear>maṅkalattu Āḷuṭaiyanāyaṉār kaṉm<unclear>i</unclear>kaḷukku kiḻkūṟṟu mañcakkuṭaiyāṉ uyyavantāṉ tiru n<choice><orig>e</orig><reg>o</reg></choice>
+
+  <lb n="3"/><gap reason="lost" extent="unknown"></gap>ai <gap reason="lost" extent="unknown"></gap><supplied reason="omitted">u</supplied>ttama kālattil tiruvantikkāppu yeṭuttāl tiruvaṭi viḷa<supplied reason="omitted">k</supplied>ki Amutu ce<choice><orig>v</orig><reg>y</reg></choice>taruḷa yeṉperāl kaṭṭiṉa t<unclear>o</unclear>ṇṭ<unclear>ai</unclear>māṉ cantikku Amutupaṭi cāttuppaṭi Uḷḷi<supplied reason="omitted">ṭṭa</supplied> <gap reason="lost" extent="unknown"></gap>
+
+  <lb n="4"/><gap reason="lost" extent="unknown"></gap>lil <supplied reason="lost">tiru</supplied>vātavūr mutaliyārai yeṉpi<supplied reason="omitted">ṟa</supplied>nta nāḷ mātav āca<unclear>ṟu</unclear>tiy avv<choice><orig>a</orig><reg>i</reg></choice>t<supplied reason="omitted">ta</supplied>ttu nāḷ y-eḻuntaruḷuvikkavum tirumuṉpu tiruvācakam ota niccayitta nimantattukkum nāṉ kārāṇ<supplied reason="omitted">m</supplied>ai <gap reason="lost" extent="unknown"></gap>
+
+  <lb n="5"/><gap reason="lost" extent="unknown"></gap>le kārāṇmaiyākak kuṭutt<unclear>eṉ</unclear><gap reason="lost" extent="unknown"></gap> yivvūril vīramaṅkalattil n<supplied reason="lost">ā</supplied>yaṉār vīracekara yīsvaramuṭaiyaṉārku payirpartta nilattukku muṉpil āṇṭukaḷ kaṭamai yiṟukkum paṭi <unclear>ka</unclear><gap reason="lost" extent="unknown"></gap>
+
+  <lb n="6"/><gap reason="lost" extent="unknown"></gap>
+
+  <lb n="7"/><supplied reason="omitted">kallilum cempi</supplied><unclear>lu</unclear>m veṭṭikkoḷvatākavum ippaṭi cammatittu piṭipāṭu paṇṇik kuṭutte<supplied reason="lost">ṉ</supplied> Āḷuṭaiya nāyaṉārkku ka<supplied reason="lost">ṭa</supplied>m<supplied reason="lost">ai</supplied>kaḷukku tt<supplied reason="lost">oṇṭai</supplied>māṉ ippaṭikku ivai
+
+  <lb n="8"/>kup pa<unclear>c</unclear>cai viṉiyokam eṉṟu veyyur maṅkalattil nāṅ kai koṇṭu potumavaiyuṇṭākilun toṇṭaimān cantikku Iṟaiyiliyāka cantirātittavaṟ celvatākayiṟai
+
+  <lb n="9"/>ippaṭikku ivai mātavarāyaṉ eḻuttu <g type="pc"></g> poṉakaṉ civakki eḻuttu <g type="pc"></g> ippaṭikkuc cīvatēva pāṭṭaṉ eḻuttu <g type="pc"></g> ippaṭikku ivai cīmāṟaṉ eḻuttu <g type="pc"></g> <supplied reason="lost">ippaṭikku</supplied> kumaṇarāyaṉ eḻuttu
+</ab>
+
+               
+                 
+            </div>	
+            
+            <div type="apparatus">                
+                
+                <listApp>   
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <note></note>
+                    </app>
+                    
+                </listApp>
+                
+            </div>
+            
+            <div type="translation">
+              
+                
+            </div>	
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                <p>Reported in <bibl><ptr target="bib:ARIE1986-1987"/></bibl> (ARIE/1925-1926/B/1925/503).</p>
+                
+                <p>This edition by Renato Dávalos, Margherita Trento, and G. Vijayavenugopal based on autopsy, photographs (N. Ramaswamy, R. Dávalos; M. Trento), and transcripts under the copyright of ASI, kindly supplied by the Director of Epigraphy, Mysore.</p>       
+                
+                <listBibl type="primary">
+                    
+                    <bibl>
+                        <ptr target="bib:Irācu_2008"/>
+                        <citedRange unit="page">51</citedRange>
+                    </bibl>
+                </listBibl> 
+               
+                    
+                     <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1986-1987"/>
+                        <citedRange unit="page">22</citedRange>
+                        <citedRange unit="item">503</citedRange>
+                    </bibl>
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
