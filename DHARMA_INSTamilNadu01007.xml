@@ -111,7 +111,30 @@
                         <pb n="3v"/>                
                         <lb n="3v1=61"/>
                         
+                        <pb n="4r"/>
+                        <lb n="4r1=73"/>
+                        
+                        <lb n="4r3=75"/>...
                     </p>
+                    
+                    
+                    <lg n="33" met="vasantatilakā">
+                        <l n="a">Āgāmi<lb n="4r4=76" break="no"/>no nara-pat<choice><sic>i</sic><corr>ī</corr></choice>n abhiyācate</l>
+                        <l n="b"><supplied reason="subaudible">’</supplied>s<choice><orig>o</orig><reg>au</reg></choice>
+                            rājendra-cola-ṇṛpatir jjana-nātha-sūnuḥ</l>
+                        <l n="c" enjamb="yes"><lb n="4r5=77"/>dharmmo yam astu paripālya Iti 
+                            pratāpa</l>
+                        <l n="d">-namr-āvan-īndra-makuṭ-<choice><sic>ā</sic><corr>o</corr></choice>
+                            <lb n="4r6=78" break="no"/>llasad-aṃghri-pīthaḥ <g type="dash">.</g></l>
+                    </lg>
+                    
+                    <lg n="34" met="anuṣṭubh">
+                        <l n="a">śaṃkarasya tanujena</l>
+                        <l n="b">pā<unclear>r</unclear>śva-grāma-nivāsin<lb n="4r7=79" break="no"/>ā</l>
+                        <l n="c">nārāyaṇena kavinā</l>
+                        <l n="d">śāsanaṃ śāśvatāṃ kṛtaM <g type="gomutraFinal">.</g></l>
+                    </lg>
+                    
                 </div>
                 
                 <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion</head>
@@ -176,18 +199,36 @@
                 </div>
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
-                <div type="textpart" n="B"><head>...</head>
-                <listApp>
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:...">...</rdg>
-                </app>
-                </listApp>
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion</head>
+                    <listApp>
+                        <app loc="0">
+                            <lem></lem>
+                            <rdg source="bib:Nagaswamy1987_01"></rdg>
+                        </app>
+                        <app loc="76">
+                            <lem><supplied reason="subaudible">’</supplied></lem>
+                            <rdg source="bib:Nagaswamy1987_01">’sau</rdg>
+                        </app>
+                        <app loc="76">
+                            <lem>ṇṛpatir jjana°</lem>
+                            <rdg source="bib:Nagaswamy1987_01">ṇṛpatiḥ jana°</rdg>
+                        </app>
+                        <app loc="77">
+                            <lem>dharmmo</lem>
+                            <rdg source="bib:Nagaswamy1987_01">dharmo</rdg>
+                        </app>
+                        <app loc="77">
+                            <lem>°<choice><sic>ā</sic><corr>o</corr></choice>
+                                <lb n="4r6=78" break="no"/>llasad°</lem>
+                            <rdg source="bib:Nagaswamy1987_01"><choice><sic>ā</sic><corr>o</corr></choice>
+                                <lb n="4r6=78" break="no"/>lasad</rdg>
+                        </app>
+                    </listApp>
                 </div>
                 
-                </div>-->
+            </div>
             
             <!--<div type="translation" resp="part:emfr">
                 
@@ -197,13 +238,13 @@
                 
                 </div>-->
             
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p>Nārāyaṇa, the poet of the present Sanskrit <foreign>praśasti</foreign>, is also that of the <ref target="DHARMA_INSTamilNadu01006">Karantai Tamil Caṅkam plates</ref>. Compare stanzas 33-34 here with stanzas 73 and 76 of the Karantai Tamil Caṅkam plates.</p>
+            </div>
             
             <div type="bibliography">                
                 
-                <p>Edited and translated in <bibl><ptr target="bib:Nagaswamy1987_01"/></bibl>, with visual documentation.</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Nagaswamy1987_01"/></bibl>, with visual documentation (Sanskrit text normalised). Tamil portion edited in <bibl><ptr target="bib:Kasinathan1994_02"/></bibl></p>
                 <p>This edition by Emmanuel Francis.</p>
                 
                 <listBibl type="primary">

@@ -111,9 +111,47 @@
                         <lb n="3r1=90"/>
                         
                         <pb n="3v"/>                
-                        <lb n="3v1=112"/> 
-                        
-                        <lb n="20v1=11" break="no"/>tām śilp-āgama-tatva-kuṣalau dvau <g type="gomutraFinal">.</g> <g type="gomutraFinal">.</g> <g type="gomutraFinal">.</g> <g type="gomutraFinal">.</g>
+                        <lb n="3v1=112"/>...
+                        <lb n="3v12=123"/>...
+                    </p>
+                    
+                    <lg n="73" met="vasantatilakā">
+                        <l n="a">Āgāmino nara-pat<choice><sic>i</sic><corr>ī</corr></choice>n abhi<choice><sic>v</sic><corr>y</corr></choice>āca<lb n="3v13=124" break="no"/>te</l>
+                        <l n="b">sau rājendra-coḷa-nṛpatir nnamit-ottam-āṅgaḥ</l>
+                        <l n="c" enjamb="yes">grāmo ’yam astu paripālya Iti pratīta</l>
+                        <l n="d">-namr-āvan-īndra-<lb n="3v14=125" break="no"/>makuṭ-ollasad-aṃghripīṭhaḥ <g type="ddanda">.</g></l>
+                    </lg>
+                    
+                    <lg n="74" met="praharṣiṇī">
+                        <l n="a" enjamb="yes">grāmo ’yaM vividha-makha-jvalat·-kṛśānu</l>
+                        <l n="b">-jvālābhiḥ prakaṭita-divya-puṇya-mārggaḥ</l>
+                        <l n="c" enjamb="yes">Ā
+                            <lb n="3v15=126" break="no"/>kalpam vilasatu sat·-path-opadeśa</l>
+                        <l n="d">-vyāpāra-sthira-mati-bhūsur-opasevyaḥ <g type="ddanda">.</g></l>
+                    </lg>
+                    
+                    <lg n="75" met="sragdharā">
+                        <l n="a" enjamb="yes">
+                            trailoky-āṇḍ-ātirikta-sva-
+                            <lb n="3v16=127" break="no"/>guṇa-maṇi-gaṇas sarva-śāstr-ātirikta</l>
+                        <l n="b">-prajñaḥ prajña<supplied reason="omitted">ḥ</supplied> kalāsu kṣiti-pati-makuṭa-śreṇi-ghṛṣṭ-āṃghri-pīṭhaḥ</l>
+                        <l n="c">śrī-
+                            <lb n="3v17=128" break="no"/>mān· rājendra-coḷa<supplied reason="omitted">s</supplied> sphurad-uru-mahima-stutya-paryyāpta-kāvyaḥ</l>
+                        <l n="d">pāyād ā-
+                            candra-tāraM sakala-vasumatī-maṇḍalaṃ
+                            <lb n="3v18=129"/>khaṇḍit-āri<supplied reason="omitted">ḥ</supplied> <g type="ddanda">.</g></l>
+                    </lg>
+                    
+                    <lg n="76" met="anuṣṭubh">
+                        <l n="a">śaṃkar-ār<choice><sic>iy</sic><corr>y</corr></choice>>-ātmajen=edaM</l>
+                        <l n="b">pārśva-grama-nivāsinā</l>
+                        <l n="c">nārāyaṇena kavinā</l>
+                        <l n="d">śāsanaṃ śāśvataM kṛtaM</l>
+                    </lg>
+                    
+                    <p>
+                        <lb n="3v19=130"/>tri-bhuvana-mahā-devi-mahācā<supplied reason="omitted">r</supplied>yyo rājendra-siṃha-per-ācāryyaś ca śāsanam idam alikha                      
+                        <lb n="3v20=131" break="no"/>tāM śilp-āgama-tatva-kuṣalau dvau <g type="gomutraFinal">.</g> <g type="gomutraFinal">.</g> <g type="gomutraFinal">.</g> <g type="gomutraFinal">.</g>
                         
                     </p>
                     
@@ -208,24 +246,22 @@
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
-                <div type="textpart" n="B"><head>...</head>
-                <listApp>
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:...">...</rdg>
-                </app>
-                </listApp>
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit Portion</head>
+                    <listApp>
+                        <app loc="124">
+                            <lem>paripālaya</lem>
+                            <rdg source="bib:Krishnan1984_01">paripālya</rdg>
+                        </app>
+                    </listApp>
                 </div>
                 
-                </div>-->
+            </div>  
             
-            
-            
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p>Nārāyaṇa, the poet of the present Sanskrit <foreign>praśasti</foreign>, is also that of the <ref target="DHARMA_INSTamilNadu01007">Ecālam plates</ref>. Compare stanzas 73 and 76 here with stanzas 33-34 of the Ecālam plates.</p>
+            </div>
             
             <div type="bibliography">                
                 
