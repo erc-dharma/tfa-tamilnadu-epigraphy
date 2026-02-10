@@ -241,16 +241,16 @@
             
             <div type="bibliography">                
                 
-                <p>Edited and translated in ... (EI 15.15), with visual documentation.</p>
+                <p>Edited and translated in <bibl><ptr target="bib:GopinathaRao1921-1922_01"/></bibl> (EI 15.15), with visual documentation.</p>
                 <p>This edition by Emmanuel Francis.</p>
                 
-                <!--<listBibl type="primary">
+                <listBibl type="primary">
                     
                     <bibl n="EI">
-                    <ptr target="bib:..."/>
+                    <ptr target="bib:GopinathaRao1921-1922_01"/>
                     </bibl>
                     
-                    </listBibl>-->
+                    </listBibl>
                 
                 <listBibl type="secondary">
                     
