@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tirukkaḷar plate, time of Rājendra I Cōja, year 18</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>	
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu01014</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by G. Vijayavenugopal</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2026-02-12" status="draft">Creation of the file on the repository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition">
+                
+                <!--Text after SII. To clean!-->
+                <ab>
+                    <pb n="1r"/>                
+                    <lb n="1r1=1"/><hi rend="grantha">svasti śr<choice><orig>i</orig><reg>ī</reg></choice></hi> <unclear><g type="gomutraFinal">.</g></unclear>
+                </ab>
+                
+                <p>
+                    <lb n="1"/>tiru maṉṉi vaḷara Iru-nila-maṭantaiyum por-c-cāya-p-pāvaiyum cīr-t-ta
+                    <lb n="2" break="no"/>ṉi-c celviyun taṉ peruntēviyar āki y-iṉpuṟa neṭitiyal ūḻiyuḷ iṭai-tuṟai
+                    <lb n="3"/>nāṭum tuṭarvaṉavelip paṭar vaṉavāciyum c<choice><sic>ū</sic><corr>u</corr></choice>ḷḷic cūḻūmatiṭ koḷḷippākkaiyu
+                    <lb n="4" break="no"/>m naṇṇaṟ karumaraṇ maṇṇai kkaṭakkamum porutaṭarīḻattaraiyarta muṭiyu māṅkavar teviya
+                    <lb n="5"/>roṅkeḻiṉmuṭiyu muṉṉavar <unclear>pa</unclear>kkaṟ ṟeṉṉavar vaitta cuntaramuṭiyu mintiranāramun te
+                    <lb n="6" break="no"/>ṇṭirai yīḻamaṇṭala muḻuvatum Eṟipaṭaik ke<supplied reason="omitted">ra</supplied>ḷar muṟaimaiyiṟ cūṭuṅ kulataṉa
+                    <lb n="7" break="no"/>mākiya palar pukaḻ muṭiyum ceṅkatirmālaiyum caṅkatir velait tolpe
+                    <lb n="8" break="no"/>ruṅkāvaṟ pala paḻantīvum ceruviṟ ciṉavi lirupattorukā laraicukaḷai kaṭṭa paracurā
+                    <lb n="9" break="no"/>maṉ mevaruñ cāntimattīvaraṇ karuti yiruttiya cempoṟ ṟiruttaku muṭiyum payaṅko
+                    <lb n="10" break="no"/>ṭu paḻi mika muyaṅkiyil mutukiṭṭoḷitta cayaciṅkaṉ Aḷapperum pukaḻoṭu piṭiy<choice><sic>i</sic><corr>a</corr></choice>liraṭṭapāṭi yeḻa
+                    <lb n="11" break="no"/>rai yilakkamum navaṉetikkulapperumalaikaḷum v<choice><sic>ī</sic><corr>i</corr></choice>kkiramavīrar cakkarakoṭṭamu mutirvaṭavallai matu
+                    <lb n="12" break="no"/>ra maṇṭalamum kāmiṭaivaḷa nāmaṇai<surplus>y</surplus>kkoṇaiyum veñcilai vīrar pañcappaḷḷiyum pācaṭaippa
+                    <lb n="13" break="no"/>ḻaṉa mācuṇitecamum Ayarvilvaṇpūrttiyaiyātiñakaravaiyiṟ cantiraṉ ṟolkulattintirātaṉai <unclear>vi</unclear>
+                    <lb n="14" break="no"/>ḷaiyamarkkaḷattuk kiḷaiyoṭum piṭittup palataṉattoṭu niṟaikulataṉakkuvaiyum kiṭ ṭaruñce
+                    
+                    <pb n="1v"/>                
+                    <lb n="1v1=15" break="no"/>ṟimiḷai <unclear>y</unclear>oṭṭavi<hi rend="grantha">ṣai</hi>yamum pūcurar cer nalk kocalaiñāṭum taṉmapālaṉai vemmuṉai yaḻittu va
+                    <lb n="16" break="no"/>ṇṭuṟai colait taṇṭaputtiyum Iraṇacūraṉai muraṇuka ttākkit tikkaṇai kīrttit takkaṇalāṭamum ko
+                    <lb n="17" break="no"/>vintacantaṉ māviḻintoṭat taṅkāta cāral vaṅkāḷatecamum toṭukaḻaṟ caṅkuvoṭṭal mayipālaṉai ve
+                    <lb n="18" break="no"/>ñcamar viḷākat tañcuvittaruḷi yoṇṭiṟal yāṉaiyum peṇṭir paṇṭāramum nittila neṭuṅkaṭalu
+                    <lb n="19" break="no"/>ttiralāṭamum veṟimalarttīrat teṟipuṉaṟ kaṅkaiyum Alaikaṭaṉaṭuvaṭ palakalañ celuttic caṅkirāma
+                    <lb n="20" break="no"/><hi rend="grantha">vijai</hi>yottuṅkapaṉmaṉākiya kaṭārattaraiyaṉai vākaiyam poru<unclear>ka</unclear>ṭakku<unclear>mpa</unclear>kkari 
+                    <lb n="21" break="no"/>yoṭu makappaṭu<unclear>t turi</unclear>maiyiṟ piṟakkiya perunetip piṟakkamum Ārttavaṉakaṉakarp po
+                    <lb n="22" break="no"/>rttoḻil vācalil viccātara <surplus>to</surplus>toraṇamu moyttoḷir puṉaimaṇipputavamum kaṉa
+                    <lb n="23" break="no"/>maṇikkatavamum niṟai <hi rend="grantha">śrī</hi>vi<hi rend="grantha">jai</hi>yamum tuṟainīrppaṉṉaiyu maṉmalaiyūreyiṟ ṟoṉ malai<unclear>yū</unclear>
+                    <lb n="24" break="no"/>rum Āḻkaṭalakaḻcūḻ māyiruṭiṅkamum kalaṅkā valviṉai yilaṅkācopamum kāppuṟu niṟai
+                    <lb n="25" break="no"/>puṉal māppappāḷamum kāvalampuricai mevilimpaṅkamum viḷaippain tūṟuṭai vaḷaippaintū
+                    <lb n="26" break="no"/>ṟum kalaittakkor pukaḻ talaittakkolamum tīyatamāvalviṉai mātamaliṅka<unclear>muṅ kalā</unclear>mutir kaṭuntiṟal Ilāmu
+                    <lb n="27" break="no"/>ritēcamum teṉakkalar poḻil māṉakkavāramun toṭukaḻaṟkāvaṟ kaṭumuraṭ kaṭāramu mā-p-poru taṇṭāṟ ko<supplied reason="omitted">ṇ</supplied>ṭa kō
+                    <lb n="28" break="no"/>p-para-kēcari-paṉmar-āṉa Uṭaiyār <hi rend="grantha">śrī-rāje</hi>ntira-cōḻa-tēvarkku yāṇṭu patiṉ eṭṭāvatu Arumoḻitēva-<unclear>va</unclear>
+                    <lb n="29" break="no"/>ḷanāṭṭu puṟaṅkarampai nāṭṭu veṅkūr-k-kaḷa tirukkaḷar <hi rend="grantha">mahāde</hi>var <hi rend="grantha">de</hi>vatānam nilam 1/2
+                    <lb n="30"/><num value="19"><g type="numeral">10</g> 9</num> <hi rend="grantha">khamapa</hi>nṉilam<!--EF: 1/4 1/80 1/20 + one more symbol between pa and n, which itself seems to be a symbol--> vaḷai<unclear>yi</unclear>ṟcuṟṟu mik<choice><sic>i</sic><corr>u</corr></choice>tikkuṟaivu Uḷḷaṭaṅka <g type="ddanda">.</g> <g type="pc">.</g>
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <div type="textpart" n="B"><head>...</head>
+                    <listApp>
+                        <app loc="0">
+                            <lem></lem>
+                            <rdg source="bib:KrishnaSastri1929_01"></rdg>
+                        </app>
+                    </listApp>
+                </div>
+                
+            </div>
+            
+            <div type="translation">
+                
+            </div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">                
+                
+                <p>Edited and translated in <bibl><ptr target="bib:KrishnaSastri1929_01"/></bibl> (<ref target="DHARMA_INSSIIv03p0i0207">SII 3.207</ref>), with visual documentation.</p>
+                <p>This revised edition by Emmanuel Francis base on published visual documentation.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:KrishnaSastri1929_01"/>
+                        <citedRange unit="page">465-469</citedRange>
+                        <citedRange unit="item">207</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
