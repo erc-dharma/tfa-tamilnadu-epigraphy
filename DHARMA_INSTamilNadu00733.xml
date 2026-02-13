@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ādikailāsanāthasvāmin temple, Āvuṭaiyārkōyil, reign of Kulottuṅga III, year 34</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:matr">
+                        <forename>Margherita</forename>
+                        <surname>Trento</surname>
+                    </persName>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00733</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Margherita Trento.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>ARIE: Records the royal order, communicated through the feudatory Kalvāyi-Nāḍāḻvāṉ, remitting the taxes due on a village called Karuṅkāḍu alias Śaṅkaranārāyaṇa-maṅgalam, a dēvadāna of the temple of Śrī-Kuvalayachandira-yīśvaram-uḍaiya-Nāyaṉār of Śrī-Kayilāsam at Tirupperunduṟai alias Pavitramāṇikka-chaturvēdimaṅgalam.
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:matr" when="2026-02-13" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+    
+    <ab>
+        <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+    </ab>
+    <p>
+        kal <gap reason="lost" unit="character" quantity="4"></gap>
+        <lb n="2" break="no"/>āyi nāṭāḻvā <gap reason="lost" unit="character" quantity="3"></gap>
+        <lb n="3" break="no"/>lai tirupperu<unclear>n</unclear>
+        <lb n="4" break="no"/>tuṟai-y-āna pavi
+        <lb n="5" break="no"/><hi rend="grantha">tra</hi>-māṇikkac catu
+        <lb n="6" break="no"/><hi rend="grantha">rvē</hi>ti-maṅkalat
+        <lb n="7" break="no"/>tu <hi rend="grantha">śrī</hi> kayilā<hi rend="grantha">sa</hi>
+        <lb n="8" break="no"/>t=tu<unclear>ku va</unclear>laya can
+        <lb n="9" break="no"/>tirayi<hi rend="grantha">śvaram</hi> <surplus>m</surplus>u
+        <lb n="10" break="no"/>ṭaiya nāyanā
+        <lb n="11" break="no"/>r kōyilil <hi rend="grantha">de</hi>
+        <lb n="12" break="no"/>varkaṉmikaḷum
+        <lb n="13"/><hi rend="grantha">śrī</hi> kāriyañ ce
+        <lb n="14" break="no"/>yvārkaḷum <hi rend="grantha">śrī</hi>
+        <lb n="15" break="no"/>māheśvara-k ka
+        <lb n="16" break="no"/>ṇkāṇi cey
+        <lb n="17" break="no"/>yvārkaḷum kaṇ
+        <lb n="18" break="no"/>ṭu y-iṉṉāyanār 
+        <lb n="19"/><hi rend="grantha">de</hi>vatāṉamāy y-i
+        <lb n="20" break="no"/>ṟai y-iṟuttu va
+        <lb n="21" break="no"/>ru<choice><unclear>ci</unclear><unclear>ki</unclear></choice>ṟa kaṟu
+        <lb n="22" break="no"/>ṅkāṭu caṅkara-nāra
+        <lb n="23" break="no"/>āyaṇa-maṅ
+        <lb n="24" break="no"/>kalam tiripu
+        <lb n="25" break="no"/>vana v<choice><sic>i</sic><corr>ī</corr></choice>ra<hi rend="grantha">deva</hi>
+        <lb n="26" break="no"/>ṟku yāṇ
+        <lb n="27" break="no"/>ṭu muppattu
+        <lb n="28"/>nāl āvatu mu
+        <lb n="29" break="no"/>tal y-iṉṉā
+        <lb n="30" break="no"/>yanāṟku n
+        <lb n="31" break="no"/>āṭṭ' ellai
+        <lb n="32" break="no"/>muṉpu ill
+        <lb n="33" break="no"/>ā maiyāl ta
+        <lb n="34" break="no"/>vintōm y-i
+        <lb n="35" break="no"/>vvāṇṭu mu
+        <lb n="36" break="no"/>tal <hi rend="grantha">candradi</hi>tta
+        <lb n="37" break="no"/>vaṟ cellavat' ā
+        <lb n="38" break="no"/>ka kallilum
+        <lb n="39" break="no"/>cempilum ve
+        <lb n="40" break="no"/>ṭṭi-k ko
+        <lb n="41" break="no"/>ḷka y-ivai
+        <lb n="42"/>v<choice><sic>i</sic><corr>ī</corr></choice>ra-nārayaṇa
+        <lb n="43" break="no"/>muvēnta-ve
+        <lb n="44" break="no"/>ḷāṉ Eḻut
+        <lb n="45" break="no"/>tu Uttama
+        <lb n="46"/>cōḻa mu
+        <lb n="47" break="no"/>vēnta-ve
+        <lb n="48" break="no"/>ḷān Eḻut
+        <lb n="49" break="no"/>tu
+        
+    </p> 
+              
+            </div>	
+            
+            <div type="apparatus">                
+                
+                <listApp>   
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <note></note>
+                    </app>
+                    
+                </listApp>
+                
+            </div>
+            
+            <div type="translation" resp="part:matr">
+                <p n="1-2">
+                    <!--
+                    On the 13th day of the month of <foreign xml:lang="tam-Latn">āṭi</foreign>, in the year <foreign xml:lang="tam-Latn">kāḷayukti</foreign>,
+                </p>
+                <p n="2-18">
+                    As previously granted to the official in charge of the holy treasure of the the Supreme Lord who has rulership over Tirupperuntuṟai, we, Irakuṉāta Nāyakka Toṇṭaimāṉār and Accutappa Nāyakkka Tōṇṭaimāṉār, hereby order that, even if we both experience the animosity of war, the two types of warriors that consistute our army that may be within the borders of Tirupperuntuṟai will not come and impel payment from the temple of the Lord.
+                </p>
+                <p n="18-24">
+                    Anyone in the army who may break such an order, and compel payment, will incur in the same sin of killing a black cow, their teacher, a Brahman, or their mother and father on the shore of the Ganges. 
+                </p>
+                <p n="25-27">
+                    <supplied reason="subaudible">Those who will not beahve like that will become low caste people. -->
+                </p>
+                
+            </div>	
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                <p>First edited in <bibl><ptr target="bib:Irācu_2008"/></bibl>, p. 51.</p>
+                
+                <p>This digital edition by Margherita based on autopsy and on <bibl><ptr target="bib:Irācu_2008"/></bibl>.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl>
+                        <ptr target="bib:Irācu_2008"/>
+                        <citedRange unit="page">51</citedRange>
+                    </bibl>
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
