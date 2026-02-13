@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirukkaḷar plate, time of Rājendra I Cōja, year 18</title>
+                <title>Tirukkaḷar plate, time of Rājendra I Cōḻa, year 18</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -88,7 +88,6 @@
             
             <div type="edition">
                 
-                <!--Text after SII. Cleaned. Check against facsimile-->
                 <ab>
                     <pb n="1r"/>                
                     <lb n="1r1=1"/><hi rend="grantha">svasti śrī</hi> <unclear><g type="gomutraFinal">.</g></unclear>
@@ -96,49 +95,49 @@
                 
                 <lg>
                     <l n="1">tiru maṉṉi vaḷara Iru-nila-maṭantaiyum</l>
-                    <l n="2">pōr-c-cāya-p-pāvaiyum cīr-t-ta<lb n="2" break="no"/>ṉi-c celviyun</l>
+                    <l n="2">pōr-c-cāya-p-pāvaiyum cīr-t-ta<lb n="1r2=2" break="no"/>ṉi-c celviyun</l>
                     <l n="3">taṉ perun tēviyar āki y-iṉpuṟa</l>
-                    <l n="4">neṭit’ iyal ūḻiyuḷ iṭai-tuṟai<lb n="3" break="no"/>-nāṭum</l>
+                    <l n="4">neṭit’ iyal ūḻiyuḷ iṭai-tuṟai<lb n="1r3=3" break="no"/>-nāṭum</l>
                     <l n="5">tuṭar vaṉa vēli-p paṭar vaṉavāciyum</l>
                     <l n="6">c<choice><sic>ū</sic><corr>u</corr></choice>ḷḷi-c cū<choice><sic>ḻū</sic><corr>ḻ</corr></choice>mati-ṭ koḷḷi-p-pākkaiyu
-                        <lb n="4" break="no"/>m</l>
+                        <lb n="1r4=4" break="no"/>m</l>
                     <l n="7">naṇṇaṟk’ arum araṇ maṇṇai-k-kaṭak=kamum</l>
                     <l n="8">poru taṭar īḻatt’ araiyar ta<supplied reason="subaudible">m</supplied> muṭiyum</l><!--variant-->
                     <l n="9">āṅkavar tēviya
-                        <lb n="5" break="no"/>r oṅk’ eḻiṉ muṭiyu<supplied reason="subaudible">m</supplied></l>
+                        <lb n="1r5=5" break="no"/>r oṅk’ eḻiṉ muṭiyu<supplied reason="subaudible">m</supplied></l>
                     <l n="10">muṉṉavar <unclear>pa</unclear>kkaṟ ṟeṉṉavar vaitta</l>
                     <l n="11">cuntara-muṭiyum intira<choice><orig>n</orig><reg>ṉ</reg></choice> āramun</l>
                     <l n="12">te
-                        <lb n="6" break="no"/>ṇ-ṭirai y-īḻa-maṇṭala-muḻuvatum</l>
+                        <lb n="1r6=6" break="no"/>ṇ-ṭirai y-īḻa-maṇṭala-muḻuvatum</l>
                     <l n="13">Eṟi paṭai-k ke<supplied reason="omitted">ra</supplied>ḷar muṟaimaiyiṟ cūṭuṅ</l>
                     <l n="14">kula-taṉa
-                        <lb n="7" break="no"/>m-ākiya palar pukaḻ muṭiyum</l>
+                        <lb n="1r7=7" break="no"/>m-ākiya palar pukaḻ muṭiyum</l>
                     <l n="15">ceṅ-katir mālaiyum caṅ-katir vēlai-t</l>
                     <l n="16">tol-pe
-                        <lb n="8" break="no"/>ruṅ-kāvaṟ pala-paḻantīvum</l>
+                        <lb n="1r8=8" break="no"/>ruṅ-kāvaṟ pala-paḻantīvum</l>
                     <l n="17">ceruviṟ ciṉavil irupatt’ oru-kāl</l>
                     <l n="18">araicukaḷai kaṭṭa paracurā
-                        <lb n="9" break="no"/>maṉ</l>
+                        <lb n="1r9=9" break="no"/>maṉ</l>
                     <l n="19">mēvaruñ cāntimattīv’ araṇ karuti</l>
                     <l n="20">y-iruttiya cem-poṟ ṟiru-t-taku muṭiyum</l>
                     <l n="21">payaṅ-ko
-                        <lb n="10" break="no"/>ṭu paḻ<choice><orig>i</orig><reg>ī</reg></choice> mika muyaṅkiyil mutukiṭṭ’</l>
+                        <lb n="1r10=10" break="no"/>ṭu paḻ<choice><orig>i</orig><reg>ī</reg></choice> mika muyaṅkiyil mutukiṭṭ’</l>
                     <l n="22">oḷitta caya-ciṅkaṉ Aḷa-p perum pukaḻ-oṭu</l>
                     <l n="23">p<choice><orig>i</orig><reg>ī</reg></choice>ṭiy<choice><sic>i</sic><corr>a</corr></choice>l iraṭṭa-pāṭi y-ēḻ a
-                        <lb n="11" break="no"/>rai</l>
+                        <lb n="1r11=11" break="no"/>rai</l>
                     <l n="24">y-ilakkamum nava-<choice><orig>ṉ</orig><reg>n</reg></choice>eti-k-kula-p-peru-malaikaḷum</l>
                     <l n="25">v<choice><orig>ī</orig><reg>i</reg></choice>kkirama-vīrar cakkara-kōṭṭamu<supplied reason="subaudible">m</supplied></l>
                     <l n="26">
                         mutir <choice><orig>v</orig><reg>p</reg></choice>aṭa vallai matu
-                        <lb n="12" break="no"/>ra-maṇṭalamum</l>
+                        <lb n="1r12=12" break="no"/>ra-maṇṭalamum</l>
                     <l n="27">kāmiṭai vaḷa nāmaṇai<surplus>y</surplus>-k-kōṇaiyum</l><!--variant-->
                     <l n="28">veñ-cilai vīrar pañca-p-paḷḷiyum</l>
                     <l n="29">pācaṭai-p pa
-                        <lb n="13" break="no"/>ḻaṉa mācuṇi-tēcamum</l>
+                        <lb n="1r13=13" break="no"/>ḻaṉa mācuṇi-tēcamum</l>
                     <l n="30">Ayarv-il-vaṇ pūrttiyai y-āti<choice><orig>ñ</orig><reg>n</reg></choice>akar-avaiyiṟ</l><!--variant-->
                     <l n="31">cantiraṉ ṟol-kulatt’ intira-rataṉai</l>
                     <l n="32"><unclear>vi</unclear>
-                        <lb n="14" break="no"/>ḷai-y-amar-k-kaḷattu-k kiḷai-y-oṭum piṭittu-p</l>
+                        <lb n="1r14=14" break="no"/>ḷai-y-amar-k-kaḷattu-k kiḷai-y-oṭum piṭittu-p</l>
                     <l n="33">pala-taṉatt-oṭu niṟai-kula-taṉa-k-kuvaiyum</l>
                     <l n="34">
                         kiṭṭ’ aruñ ce                        
@@ -147,44 +146,44 @@
                     <l n="35">pūcurar cēr nal-k kōcalai-<choice><orig>ñ</orig><reg>n</reg></choice>āṭum</l>
                     <l n="36">taṉmapālaṉai vemmuṉai y-aḻittu</l>
                     <l n="37">va
-                        <lb n="16" break="no"/>ṇṭ’ uṟai cōlai-t taṇṭa-puttiyum</l>
+                        <lb n="1v2=16" break="no"/>ṇṭ’ uṟai cōlai-t taṇṭa-puttiyum</l>
                     <l n="38">Iraṇa-cūraṉai muraṇuka-t tākki-t</l><!--variant-->
                     <l n="39">tikkaṇai kīrtti-t takkaṇa-lāṭamum</l>
                     <l n="40">kō
-                        <lb n="17" break="no"/>vinta-cantaṉ māviḻintōṭat</l>
+                        <lb n="1v3=17" break="no"/>vinta-cantaṉ māviḻintōṭat</l>
                     <l n="41">taṅkāta cāral vaṅkāḷa-tēcamum</l>
                     <l n="42">toṭu kaḻaṟ caṅku v-oṭṭal mayipālaṉai</l><!--variant-->
                     <l n="43">ve
-                        <lb n="18" break="no"/>ñcamar viḷākatt’ añcuvitt-aruḷi</l>
+                        <lb n="1v4=18" break="no"/>ñcamar viḷākatt’ añcuvitt-aruḷi</l>
                     <l n="44">y-oṇ-ṭiṟal yāṉaiyum peṇṭir paṇṭāramum</l>
                     <l n="45">nittila-neṭuṅ-kaṭal u
-                        <lb n="19" break="no"/>ttira-lāṭamum</l>
+                        <lb n="1v5=19" break="no"/>ttira-lāṭamum</l>
                     <l n="46">veṟi malar-t tīratt’ eṟi puṉaṟ kaṅkaiyum</l><!--variant-->
                     <l n="47">Alai kaṭaṉaṭuvaṭ pala-kalañ celutti-c</l>
                     <l n="48" enjamb="yes">caṅkirāma
-                        <lb n="20" break="no"/>-vi<hi rend="grantha">jai</hi>yōttuṅka-paṉmaṉ</l>
+                        <lb n="1v6=20" break="no"/>-vi<hi rend="grantha">jai</hi>yōttuṅka-paṉmaṉ</l>
                     <l n="49">-ākiya kaṭāratt’ araiyaṉai vākaiyam</l>
                     <l n="50">poru <unclear>ka</unclear>ṭa<choice><sic>k</sic><corr>l</corr></choice> ku<unclear>mpa</unclear>-k-kari 
-                        <lb n="21" break="no"/>-y-oṭum aka-p-paṭu<unclear>tt’</unclear></l>
+                        <lb n="1v7=21" break="no"/>-y-oṭum aka-p-paṭu<unclear>tt’</unclear></l>
                     <l n="51"><unclear>uri</unclear>maiyiṟ piṟakkiya peru-neti-p-piṟakkamum</l>
                     <l n="52">Ārttavaṉ aka-<choice><orig>ṉ</orig><reg>n</reg></choice>akar-p pō
-                        <lb n="22" break="no"/>r-t-toḻil vācalil</l>
+                        <lb n="1v8=22" break="no"/>r-t-toḻil vācalil</l>
                     <l n="53">viccātara-<surplus>to</surplus>tōraṇamu<supplied reason="subaudible">m</supplied> moyttoḷir</l><!--variant-->
                     <l n="54">puṉai-maṇi-p-putavamum kaṉa
-                        <lb n="23" break="no"/>-maṇi-k-katavamum</l>
+                        <lb n="1v9=23" break="no"/>-maṇi-k-katavamum</l>
                     <l n="55">niṟai <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">jai</hi>yamum tuṟai nīr-p paṉṉaiyum</l>
                     <l n="56"><supplied reason="omitted">na</supplied>ṉ-malai y-ūr eyiṟ ṟoṉ-malai <unclear>y</unclear>ū
-                        <lb n="24" break="no"/>rum</l>
+                        <lb n="1v10=24" break="no"/>rum</l>
                     <l n="57">Āḻ kaṭal akaḻ cūḻ māyiruṭiṅkamum</l>
                     <l n="58">kalaṅkā val viṉai y-ilaṅkācō<choice><sic>p</sic><corr>k</corr></choice>amum</l>
-                    <l n="59">kāpp’ uṟu niṟai <lb n="25" break="no"/>puṉal māppa-p-pāḷamum</l>
+                    <l n="59">kāpp’ uṟu niṟai <lb n="1v11=25" break="no"/>puṉal māppa-p-pāḷamum</l>
                     <l n="60">kāval am puricai mēvilim-paṅkamum</l>
                     <l n="61">viḷaippaintūṟ-uṭai vaḷaippaintū
-                        <lb n="26" break="no"/>ṟum</l>
+                        <lb n="1v13=26" break="no"/>ṟum</l>
                     <l n="62">kalai-t takkōr <unclear>pu</unclear>kaḻ talai-t-takkōlamum</l>
                     <l n="63">tīyatamā val viṉai mātamaliṅka<unclear>muṅ</unclear></l><!--variant-->
                     <l n="64"><unclear>kalā</unclear><supplied reason="subaudible">m</supplied> mutir kaṭun tiṟal Ilāmu
-                        <lb n="27" break="no"/>ri-tēcamum</l>
+                        <lb n="1v14=27" break="no"/>ri-tēcamum</l>
                     <l n="65">teṉakkalar poḻil māṉakkavāramun</l>
                     <l n="66">toṭu kaḻaṟ kāvaṟ <unclear>ka</unclear>ṭu muraṭ kaṭāramu<supplied reason="subaudible">m</supplied></l>
                     <l n="67">mā-p-poru taṇṭāṟ ko<supplied reason="omitted">ṇ</supplied>ṭa</l>
