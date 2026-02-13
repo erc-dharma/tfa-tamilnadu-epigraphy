@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>ARIE: Records the royal order, communicated through the feudatory Kalvāyi-Nāḍāḻvāṉ, remitting the taxes due on a village called Karuṅkāḍu alias Śaṅkaranārāyaṇa-maṅgalam, a dēvadāna of the temple of Śrī-Kuvalayachandira-yīśvaram-uḍaiya-Nāyaṉār of Śrī-Kayilāsam at Tirupperunduṟai alias Pavitramāṇikka-chaturvēdimaṅgalam.
+                        <summary><hi rend="bold">ARIE:</hi> Records the royal order, communicated through the feudatory Kalvāyi-Nāḍāḻvāṉ, remitting the taxes due on a village called Karuṅkāḍu alias Śaṅkaranārāyaṇa-maṅgalam, a dēvadāna of the temple of Śrī-Kuvalayachandira-yīśvaram-uḍaiya-Nāyaṉār of Śrī-Kayilāsam at Tirupperunduṟai alias Pavitramāṇikka-chaturvēdimaṅgalam.
                         </summary>
                     </msContents>
                     <physDesc>
@@ -96,12 +96,12 @@
         <lb n="5" break="no"/><hi rend="grantha">tra</hi>-māṇikkac catu
         <lb n="6" break="no"/><hi rend="grantha">rvē</hi>ti-maṅkalat
         <lb n="7" break="no"/>tu <hi rend="grantha">śrī</hi> kayilā<hi rend="grantha">sa</hi>
-        <lb n="8" break="no"/>t=tu<unclear>ku va</unclear>laya can
-        <lb n="9" break="no"/>tirayi<hi rend="grantha">śvaram</hi> <surplus>m</surplus>u
+        <lb n="8" break="no"/>t=tu<unclear>ku va</unclear>laya-can
+        <lb n="9" break="no"/>tira-y-<choice><sic>i</sic><corr>ī</corr></choice><hi rend="grantha">śvaram</hi> <surplus>m</surplus>u
         <lb n="10" break="no"/>ṭaiya nāyanā
         <lb n="11" break="no"/>r kōyilil <hi rend="grantha">de</hi>
         <lb n="12" break="no"/>varkaṉmikaḷum
-        <lb n="13"/><hi rend="grantha">śrī</hi> kāriyañ ce
+        <lb n="13"/><hi rend="grantha">śrī</hi>-kāriyañ ce
         <lb n="14" break="no"/>yvārkaḷum <hi rend="grantha">śrī</hi>
         <lb n="15" break="no"/>māheśvara-k ka
         <lb n="16" break="no"/>ṇkāṇi cey
@@ -157,20 +157,24 @@
             </div>
             
             <div type="translation" resp="part:matr">
-                <p n="1-2">
-                    <!--
-                    On the 13th day of the month of <foreign xml:lang="tam-Latn">āṭi</foreign>, in the year <foreign xml:lang="tam-Latn">kāḷayukti</foreign>,
+               <p n="1">
+                   Hail! Prosperity!
+               </p>
+                    <p n="2-3">
+                   Kalvāyi-Nāḍāḻvāṉ [has ordered the following]:
+               </p>
+               <p n="3-18">
+                   The temple officers <supplied reason="explanation"><foreign>tēvarkaṉmi</foreign></supplied>, the temple administrators <supplied reason="explanation"><foreign>śrīkāryam ceyvar</foreign></supplied>, and the superintendents of the Śaivas <supplied reason="explanation"><foreign>śrīmaheśvara kaṇkāṇi</foreign></supplied> at the Śrī Kailāsa temple of the Lord Valayacantirayīśvaram, located in the Pavitra-caturvedi-maṅgalam, alias Tirupperuntuṟai, have supervised <supplied reason="subaudible">this</supplied>.
+               </p>
+                <p n="18-29">
+                    Karuṅkāṭu Saṅkaranārāyaṇa-maṅgalam village, as a <foreign>devadāna</foreign> for this god, and from which taxes are to be exempted exempted <supplied reason="explanation"><foreign>iṟai iṟuttu varukiṟa</foreign></supplied> from the 34th regnal year of king Tribhuvana Vīradeva <supplied reason="explanation">Kulottuṅga III</supplied>.
                 </p>
-                <p n="2-18">
-                    As previously granted to the official in charge of the holy treasure of the the Supreme Lord who has rulership over Tirupperuntuṟai, we, Irakuṉāta Nāyakka Toṇṭaimāṉār and Accutappa Nāyakkka Tōṇṭaimāṉār, hereby order that, even if we both experience the animosity of war, the two types of warriors that consistute our army that may be within the borders of Tirupperuntuṟai will not come and impel payment from the temple of the Lord.
+                <p n="29-41">
+                    Because previously <supplied reason="explanation"><foreign>muṉpu</foreign></supplied> there were no <supplied reason="explanation"><foreign>illāmai</foreign></supplied> territorial boundaries <supplied reason="explanation"><foreign>nāṭṭu ellai</foreign></supplied> for this god, starting from this year onwards, let this be engraved <supplied reason="explanation"><foreign>veṭṭikoḷka</foreign></supplied> on copper and stone, as long as the sun and the moon endure.
                 </p>
-                <p n="18-24">
-                    Anyone in the army who may break such an order, and compel payment, will incur in the same sin of killing a black cow, their teacher, a Brahman, or their mother and father on the shore of the Ganges. 
+                <p n="41-49">
+                    These [are the signatories]: [This is] the writing of Vīranārāyaṇa Mūvēntavēḷāṇ. [This is] the writing of Uttamacōḻa Mūvēntavēḷāṇ.
                 </p>
-                <p n="25-27">
-                    <supplied reason="subaudible">Those who will not beahve like that will become low caste people. -->
-                </p>
-                
             </div>	
             
             <!--<div type="commentary">
@@ -178,15 +182,24 @@
                 </div>-->
             
             <div type="bibliography">
-                <p>First edited in <bibl><ptr target="bib:Irācu_2008"/></bibl>, p. 51.</p>
-                
-                <p>This digital edition by Margherita based on autopsy and on <bibl><ptr target="bib:Irācu_2008"/></bibl>.</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1925-1926"/></bibl> (ARIE/1925-1926/B/1925/508).</p>
+                <p>Edited in <bibl><ptr target="bib:Avanam"/></bibl> (Āvaṇam 27.15).</p>
+                <p>This digital edition by Margherita Trento and Renato Dávalos based on ASI transcripts kindly supplied (2026) by the Director of Epigraphy in Mysore and on <bibl><ptr target="bib:Avanam"/></bibl>.</p>
                 
                 <listBibl type="primary">
                     
+                        <bibl n="Āvaṇam">
+            		<ptr target="bib:Avanam"/>
+            		<citedRange unit="volume">27 (2016)</citedRange>
+            		<citedRange unit="item">15</citedRange>
+                    </bibl>
+                </listBibl>
+                
+                <listBibl type="secondary">
                     <bibl>
-                        <ptr target="bib:Irācu_2008"/>
-                        <citedRange unit="page">51</citedRange>
+                        <ptr target="bib:ARIE1925-1926"/>
+                        <citedRange unit="page">22</citedRange>
+                        <citedRange unit="item">503</citedRange>
                     </bibl>
                 </listBibl>
                 
