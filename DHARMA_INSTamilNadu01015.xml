@@ -47,6 +47,8 @@
                             <p>
                                 No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
                                 nor between <foreign>o</foreign> and <foreign>ō</foreign>.
+                                Medial <foreign>i</foreign> and <foreign>ī</foreign> interchangeable.
+                                <foreign>n</foreign> and <foreign>ñ</foreign> interchangeable.
                             </p>
                         </handDesc>
                     </physDesc>
@@ -88,12 +90,18 @@
                 
                 <p>
                     <pb n="1r"/>
-                    <lb n="1"/>vīrapāṇṭi<supplied reason="omitted">ya</supplied>ṉ ṟalaiyum cerala<supplied reason="omitted">ṉ</supplied> cālaiyu<supplied reason="omitted">m</supplied> Ilaṅkaiyum taṇṭāṟ koṇṭa ko Irā<hi rend="grantha">ja</hi><unclear>ke</unclear>
-                    <lb n="2" break="no"/>caripa<hi rend="grantha">nma</hi>rāna Uṭaiyār <hi rend="grantha">śrī</hi>rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja de</hi>va<supplied reason="omitted">r</supplied>kku yāṇṭu <num value="31">3 <g type="numeral">10</g> 1</num> Āvatu Ar<hi rend="grantha">ai</hi>ya<unclear>ṉ</unclear> nākar<hi rend="grantha">ai</hi>yaṉāna
-                    <lb n="3"/>ma<hi rend="grantha">hi</hi>pālakulakālapper<hi rend="grantha">ai</hi>ya<unclear>ṉā</unclear>na tirumaṇa<surplus>p</surplus>ppiccaṉ Uṭaiyārkku muṉpu tiruva<supplied reason="omitted">r</supplied>rātiṉai ce
-                    <lb n="4" break="no"/>yum pirāmaṇan Oruvaṉum tirumaṇa<surplus>ṭa</surplus>ppiccaṉ cetaṉivan=taṅkoṇṭu ceyum pirāma
-                    <lb n="5" break="no"/>ṇaṉ Oruvaṉumāka Iruvarkku <seg rend="check">ḷ</seg><!--EF: abbrev for kalam--> 1<g type="dash"/>k=ku tūṇikuṟuṇi Āka <seg rend="check">ḷ</seg> <num value="360">3 <g type="numeral">100</g> 6 <g type="numeral">10</g></num>k=ku <seg rend="check"><hi rend="grantha">Ī</hi></seg><!--EF : abbrev for nellu--> <num value="157"><g type="numeral">100</g> 5 <g type="numeral">10</g> <seg rend="check">7</seg></num> <seg rend="check">ḷa<g type="dash"/></seg>k=kuviṭṭani <seg rend="check">kava</seg> Itu
-                    <lb n="6"/>Aḻipp<choice><sic>a</sic><corr>ā</corr></choice>r tiruvāṇai <g type="ddanda">.</g> <g type="triangle">.</g>
+                    <lb n="1"/>v<choice><orig>i</orig><reg>ī</reg></choice>ra-pāṇṭi<supplied reason="omitted">ya</supplied>ṉ ṟalaiyum cerala<supplied reason="omitted">ṉ</supplied> cālaiyu<supplied reason="omitted">m</supplied> Ilaṅk<hi rend="grantha">ai</hi>yum taṇṭāṟ koṇṭa kō-Irā<hi rend="grantha">ja</hi>-<unclear>kē</unclear>
+                    <lb n="2" break="no"/>cari-pa<hi rend="grantha"><unclear>n</unclear>ma</hi>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a Uṭ<hi rend="grantha">ai</hi>yār <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jādhi</hi>rā<hi rend="grantha">ja-de</hi>va<supplied reason="omitted">r</supplied>kku yāṇṭu <num value="31">3 <g type="numeral">10</g> 1</num> Āvatu
+                </p>
+                <p>
+                    Ar<hi rend="grantha">ai</hi>ya<unclear>ṉ</unclear> nākar<hi rend="grantha">ai</hi>yaṉ-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a
+                    <lb n="3"/>ma<hi rend="grantha">hi</hi>pāla-kula-kāla-p-per<hi rend="grantha">ai</hi>ya<unclear>ṉ-ā</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>a tiru-maṇa<surplus>p</surplus>-p-piccaṉ Uṭ<hi rend="grantha">ai</hi>yārkku muṉpu tiru-v-ār<choice><sic>a</sic><corr>a</corr></choice>t<choice><sic>i</sic><corr>a</corr></choice>ṉai ce
+                    <lb n="4" break="no"/>yum pirāmaṇa<choice><orig>n</orig><reg>ṉ</reg></choice> Oruvaṉum tiru-maṇa<surplus>ṭa</surplus>-p-piccaṉ c<choice><orig>ē</orig><reg>ey</reg></choice>ta <choice><orig>ṉ</orig><reg>n</reg></choice>ivan=taṅ koṇṭu ceyum pirāma
+                    <lb n="5" break="no"/>ṇaṉ Oruvaṉum āka Iruvark=ku <g type="nāḷ"/> 1<g type="dash"/>k=ku <g type="tūṇi"/> <g type="kuṟuṇi"/> Āka <g type="nāḷ"/> <num value="360">3 <g type="numeral">100</g> 6 <g type="numeral">10</g></num>k=ku <seg rend="check"><g type="kalam"/> <num value="150"><g type="numeral">100</g> 5 <g type="numeral">10</g></num> <unclear>7</unclear> </seg>k=kuviṭṭani 1 1/4
+                </p>
+                <p>
+                    Itu
+                    <lb n="6"/>Aḻipp<choice><sic>a</sic><corr>ā</corr></choice>r tiruvāṇai <g type="ddanda">.</g><g type="triangle">.</g>
                 </p>
                 <pb n="2r"/>
                 
@@ -102,9 +110,17 @@
             <div type="apparatus">
                 
                 <listApp>
-                    <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:KrishnaSastri1929_01"></rdg>                        
+                    <app loc="3">
+                        <lem>tiruvār<choice><sic>a</sic><corr>a</corr></choice>t<choice><sic>i</sic><corr>a</corr></choice>ṉai</lem>
+                        <rdg source="bib:KrishnaSastri1929_01">tiruva<supplied reason="omitted">r</supplied>rātiṉai</rdg>                        
+                    </app>
+                    <app loc="5">
+                        <lem><num value="360">3 <g type="numeral">100</g> 6 <g type="numeral">10</g></num>k=ku</lem>
+                        <note>The numbers 100 and 6 are quite similar.</note>
+                    </app>
+                    <app loc="5">
+                        <lem><g type="kalam"/> <num value="150"><g type="numeral">100</g> 5 <g type="numeral">10</g></num> <unclear>7</unclear>k=kuviṭṭani</lem>
+                        <rdg source="bib:KrishnaSastri1929_01"><hi rend="grantha">I</hi> <num value="157"><g type="numeral">100</g> 5 <g type="numeral">10</g></num> Eḷak=kuviṭṭani</rdg> 
                     </app>
                 </listApp>
                 
