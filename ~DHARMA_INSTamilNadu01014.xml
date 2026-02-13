@@ -82,7 +82,7 @@
             
             <div type="edition">
                 
-                <!--Text after SII. To clean!-->
+                <!--Text after SII. Cleaned. Check against facsimile-->
                 <ab>
                     <pb n="1r"/>                
                     <lb n="1r1=1"/><hi rend="grantha">svasti śr<choice><orig>i</orig><reg>ī</reg></choice></hi> <unclear><g type="gomutraFinal">.</g></unclear>
@@ -185,23 +185,33 @@
                 </lg>
                 
                 <p>kō
-                    <lb n="28" break="no"/>p-para-kēcari-paṉmar-āṉa Uṭaiyār <hi rend="grantha">śrī-rāje</hi>ntira-cōḻa-tēvarkku yāṇṭu patiṉ eṭṭāvatu Arumoḻi-tēva-<unclear>va</unclear>
-                    <lb n="29" break="no"/>ḷanāṭṭu puṟaṅ-karampai nāṭṭu veṅkūr-k-kaḷa tiru-k-kaḷar <hi rend="grantha">mahā-de</hi>var <hi rend="grantha">de</hi>vatānam nilam 1/2
-                    <lb n="30"/><num value="19"><g type="numeral">10</g> 9</num> <hi rend="grantha">khamapa</hi>nṉilam<!--EF: 1/4 1/80 1/20 + one more symbol between pa and n, which itself seems to be a symbol--> vaḷai<unclear>yi</unclear>ṟ cuṟṟu mik<choice><sic>i</sic><corr>u</corr></choice>ti-k-kuṟaivu Uḷḷ-aṭaṅka <g type="ddanda">.</g> <g type="pc">.</g>
+                    <lb n="28" break="no"/>p-para-kēcari-paṉmar-āṉa Uṭaiyār <hi rend="grantha">śrī-rāje</hi>ntira-cōḻa-tēvarkku yāṇṭu patiṉ eṭṭāvatu
+                </p>
+                <p>
+                    Arumoḻi-tēva-<unclear>va</unclear>
+                    <lb n="29" break="no"/>ḷanāṭṭu puṟaṅ-karampai-nāṭṭu veṅkūr-k-kaḷa-tiru-k-kaḷar <hi rend="grantha">mahā-de</hi>var <hi rend="grantha">de</hi>vatānam nilam 1/2
+                    <lb n="30"/><num value="19.266"><g type="numeral">10</g> 9 1/4 1/80 <unclear>1/320</unclear></num>
+                </p>
+                <p>
+                    <supplied reason="omitted">I</supplied><choice><orig>nṉ</orig><reg>n-n</reg></choice>ilam vaḷai<unclear>yi</unclear>ṟ cuṟṟu mik<choice><sic>i</sic><corr>u</corr></choice>ti-k-kuṟaivu Uḷḷ-aṭaṅka <g type="ddanda">.</g> <g type="pc">.</g>
                 </p>
                 
             </div>
             
             <div type="apparatus">
                 
-                <div type="textpart" n="B"><head>...</head>
-                    <listApp>
-                        <app loc="13">
-                            <lem>intirarataṉai</lem>
-                            <rdg source="bib:KrishnaSastri1929_01">intirātaṉai</rdg>
-                        </app>
-                    </listApp>
-                </div>
+                <listApp>
+                    <app loc="13">
+                        <lem>intirarataṉai</lem>
+                        <rdg source="bib:KrishnaSastri1929_01">intirātaṉai</rdg>
+                    </app>
+                    <app loc="30">
+                        <lem><num value="19.266"><g type="numeral">10</g> 9 1/4 1/80 <unclear>1/320</unclear></num> <supplied reason="omitted">I</supplied><choice><orig>nṉ</orig><reg>nn</reg></choice>ilam</lem>
+                        <rdg source="bib:KrishnaSastri1929_01"><num value="19"><g type="numeral">10</g> 9</num> <hi rend="grantha">kha ma pa</hi> nṉilam</rdg>
+                        <note><ptr target="bib:KrishnaSastri1929_01"/> translates the number as <q>1/2 (<hi rend="italic">vēli</hi>) 19 1/4, 1/160 and . . .</q> and notes: <q>Here is a figure resembling <foreign><hi rend="grantha">pa</hi></foreign>.</q> We see a figure the left part of which is like a <foreign><hi rend="grantha">pa</hi></foreign> and the right part like a <foreign>t</foreign>, that is, 1/320.</note>
+                    </app>
+                    
+                </listApp>
                 
             </div>
             
