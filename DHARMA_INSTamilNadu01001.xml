@@ -84,7 +84,7 @@
                 <!--change (halanta) m· to M. Check n· and t· -->
                 
                 <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Seal</head>
-                    <p><lb n="1"/>prabhumeru</p>
+                    <p><lb n="1"/>prabhu-meru</p>
                 </div>
                 
                 <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 1 of 2</head>
@@ -97,10 +97,10 @@
                     </ab>
                     
                     <lg n="1" met="vasantatilakā">
-                        <l n="a">yasyāṣṭa-mū<reg>r</reg>ttir abhavat· svayam-arddha-mū<reg>r</reg>tti<reg>r</reg></l>
+                        <l n="a">yasy-āṣṭa-mū<reg>r</reg>ttir abhavat· svayam-arddha-mū<reg>r</reg>tti<reg>r</reg></l>
                         <l n="b">yyan-nābhi-paṁ
                             <lb n="1v2=2" break="no"/>kaja-bh<choice><sic>ū</sic><corr>a</corr></choice>v<choice><sic>o</sic><corr>ā</corr></choice> jagatāM prasūtiḥ</l>
-                        <l n="c">yasyāniśaM prathama-vāg vivṛ
+                        <l n="c">yasy-āniśaM prathama-vāg vivṛ
                             <lb n="1v3=3" break="no"/>ṇoti tatvaṁ</l>
                         <l n="d">sa śr<choice><sic>i</sic><corr>ī</corr></choice>-dharo diśatu viśva-pati<supplied reason="omitted">ḥ</supplied> śriya<choice><orig>M</orig><reg>ṁ</reg></choice> va<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g><g type="danda">.</g><g type="danda">.</g></l>
                     </lg>
@@ -119,10 +119,10 @@
                     </p>
                     
                     <lg n="8" met="svāgatā">
-                        <l n="a">yaḥ pulomata<lb n="2v5=19" break="no"/>nayām iva śakraḥ</l>
-                        <l n="b">parvvatendra-tanujām iva śarvvaḥ</l>
-                        <l n="c">kaiṭabhāriṟ iva sāgara-ka<lb n="2v6=20" break="no"/>nyām</l>
-                        <l n="d">keraḷeśvara-sutām upayeme <g type="gomutraFinal">.</g></l>
+                        <l n="a">yaḥ pulo-mata<lb n="2v5=19" break="no"/>nayām iva śakraḥ</l>
+                        <l n="b">parvvat-endra-tanujām iva śarvvaḥ</l>
+                        <l n="c">kaiṭabh-ārir iva sāgara-ka<lb n="2v6=20" break="no"/>nyām</l>
+                        <l n="d">keraḷ-eśvara-sutām upayeme <g type="gomutraFinal">.</g></l>
                     </lg>                    
                     
                     <p>
@@ -133,7 +133,7 @@
                     </p>
                     
                     <lg n="12" met="vasantatilakā">
-                        <l n="a">yasy-ābhavat pravara-kāśyapa-vaṃśajo ’gre</l>
+                        <l n="a">yasy-ābhavat pravara-kāśyapa-vaṃśa-jo ’gre</l>
                         <l n="b">ka
                             <lb n="3r8=30" break="no"/>ṇvo mahā-mun<choice><sic>ī</sic><corr>i</corr></choice>r analpa-tapaḥ prabhāva<supplied reason="omitted">ḥ</supplied></l>
                         <l n="c">ya<supplied reason="omitted">h</supplied> siṃha-nandi-mahi<supplied reason="omitted">ma</supplied>-pra<lb n="3r9=31" break="no"/>tilabdha-v<choice><sic>it</sic><corr>ṛd</corr></choice>dhir</l>
@@ -166,7 +166,7 @@
                     
                     <lg n="25" met="vasantatilakā">
                         <l n="a">puṇyaṁ samaṁ kṛitavatāM parirakṣatāñ ca</l>
-                        <l n="b">ta<lb n="5v2=65" break="no"/>d raksat-eti sa parāntaka Eka-vīra<supplied reason="omitted">ḥ</supplied></l>
+                        <l n="b">ta<lb n="5v2=65" break="no"/>d raksat=eti sa parāntaka Eka-vīra<supplied reason="omitted">ḥ</supplied></l>
                         <l n="c">Āgāmina<supplied reason="omitted">ḥ</supplied> kṣiti-patin· <lb n="5v3=66"/>praṇamaty ajasram</l>
                         <l n="d">mūrddhnā sm<choice><sic>ā</sic><corr>a</corr></choice>r-āri-caraṇ-āMbuja-śekhareṇa <g type="ddanda">.</g></l>
                     </lg>
@@ -179,8 +179,8 @@
                     </lg>
                     
                     <lg n="27" met="anuṣṭubh">
-                        <l n="a">Atra vidyādh<choice><sic>i</sic><corr>a</corr></choice>rīpaṭṭi<reg>r</reg></l>
-                        <l n="b">ddevapaṭṭir iti
+                        <l n="a">Atra vidyādh<choice><sic>i</sic><corr>a</corr></choice>rī-paṭṭi<reg>r</reg></l>
+                        <l n="b">ddeva-paṭṭir iti
                             <lb n="5v6=69"/>śrutaM</l>
                         <l n="c">Etat paṭṭi-dvayaṁ pūrvvaṁ</l>
                         <l n="d">bhujyamānan digam<choice><sic>p</sic><corr>b</corr></choice>araiḥ</l>
