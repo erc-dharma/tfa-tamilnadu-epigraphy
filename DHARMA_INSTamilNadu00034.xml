@@ -126,16 +126,15 @@
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 <listApp>
-                
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:...">...</rdg>
+                <app loc="9">
+                <lem>cōḻa malaiyamāneṉ</lem>
+                <note>Reading after ASI transcript.</note>
                 </app>    
-                
                 </listApp>
-                </div>-->
+                
+                </div>
             
             <div type="translation" resp="part:reda part:emfr">
                 
@@ -144,18 +143,18 @@
                 </p>
                 
                 <p n="1-4">
-                    Maṇṭai Poṉṉaṉ from Cāttiyakkam built this image of Dakṣiṇā.
+                    Maṇṭai Poṉṉaṉ from Cāttiyakkam<note>It probably refers to a village located 8 km. southeast to Nallūr, nowadays known as Cattiyam.</note> built this image of Dakṣiṇā.
                 </p>
                 
                 <p n="5">
-                    <gap reason="undefined"></gap> as long as the sun and the moon remain <gap reason="undefined"></gap>
+                    <gap reason="undefined"></gap> I, Muṭi<gap reason="undefined"></gap> Cōḻa Malaiyamāṉ, as long as the sun and the moon remain <gap reason="undefined"></gap>
                 </p>
                 
                 <p n="5-7">
-                    I have given <gap reason="undefined"></gap> a field of wetland, which was taken from Cāttiyakkam <gap reason="undefined"></gap> as food offering <supplied reason="explanation"><foreign>amutu-paṭi</foreign></supplied> <gap reason="undefined"></gap>
+                    I have given <gap reason="undefined"></gap> a field of wetland from Cāttiyakkam <gap reason="undefined"></gap> as food offering <supplied reason="explanation"><foreign>amutu-paṭi</foreign></supplied> <gap reason="undefined"></gap>
                 </p>
                 <p n="7-9">
-                    I, Muṭi*cōḻa Malaiyamāṉ, alias Maṇṭai Poṉṉaṉ, land-owner <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> from Cāttiyakkam <gap reason="undefined"></gap>
+                    I, Muṭi<gap reason="undefined"></gap>cōḻa Malaiyamāṉ, alias Maṇṭai Poṉṉaṉ, landowner <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> from Cāttiyakkam <gap reason="undefined"></gap>
                 </p>
                 
             </div>
@@ -167,7 +166,8 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/148).</p>
-                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy (2024), photos (E. Francis, 2024), ASI estampage and transcript kindly supplied (2025) by the Director of Epigraphy in Mysore.</p>
+                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy (2024), photos (E. Francis, 2024).</p>
+                <p>ASI estampage and transcript kindly supplied (2025) by the Director of Epigraphy in Mysore.</p>
                 
                 <!--<listBibl type="primary">
                     
