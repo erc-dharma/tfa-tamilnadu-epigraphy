@@ -19,10 +19,6 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                    <persName ref="part:matr">
-                        <forename>Margherita</forename>
-                        <surname>Trento</surname>
-                    </persName>
                 </respStmt>    			
             </titleStmt>
             <publicationStmt>
@@ -176,7 +172,7 @@
           </list>       
                 </p>
                 <p >
-                    Within these lands, the taxes of one <foreign>kalam</foreign> of paddy per <foreign>mā</foreign> <supplied reason="explanation"><foreign>mākkalam</foreign></supplied> include the tax for safeguarding the lands <supplied reason="explanation"><foreign>pāṭikāval</foreign></supplied>, related <supplied reason="explanation"><foreign>maṟṟuḷḷa</foreign></supplied> <seg cert="low">state</seg> taxes <supplied reason="explanation"><foreign>āyam</foreign></supplied>, and the minor cesses which include the tax on loom <supplied reason="explanation"><foreign>taṟi iṟai</foreign></supplied>, <seg cert="low">gold coins</seg>, <foreign>mā</foreign> <supplied reason="subaudible">of land</supplied> in these sacred boundaries.
+                    Within these lands, the taxes of one <foreign>kalam</foreign> of paddy per <foreign>mā</foreign> <supplied reason="explanation"><foreign>mākkalam</foreign></supplied> include the tax for safeguarding the lands <supplied reason="explanation"><foreign>pāṭikāval</foreign></supplied>, related <supplied reason="explanation"><foreign>maṟṟuḷḷa</foreign></supplied> <seg cert="low">state</seg> taxes <supplied reason="explanation"><foreign>āyam</foreign></supplied>, and the minor cesses <supplied reason="explanation"><foreign>kīḻ iṟai pāṭṭam</foreign></supplied> which include the tax on loom <supplied reason="explanation"><foreign>taṟi iṟai</foreign></supplied>, <seg cert="low">gold coins</seg>, <foreign>mā</foreign> <supplied reason="subaudible">of land</supplied> in these sacred boundaries.
                 </p>
                 <p>
                     This is under the protection of the <foreign>paṉmaheśvaras</foreign>.
@@ -191,7 +187,7 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/145).</p>
                 <p>This edition by Renato Dávalos, Emmanuel Francis, and Margherita Trento, based on autopsy, photos (E. Francis, 2024), and ASI transcript.</p>
-                <p>ASI transcript consulted in Mysore by Renato Dávalos (September 2025) with the kind permission of the Director of Epigraphy.</p>
+                <p>ASI transcript consulted in Mysore by Renato Dávalos and Margherita Trento (September 2025) with the kind permission of the Director of Epigraphy.</p>
                               
                 <!--<listBibl type="primary">
                     
