@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, time of Vīrarājendra, year 6</title>
+                <title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga III, year 6</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -44,9 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Vīrarājendra = Kulottuṅga Cōḻa III. Record of the construction of the temple, the consecration of the Kṣetrapāla
-                            
-                            Records the construction of a shrine for and consecration of the image of Kṣētrapāla in the temple of Nalla-Nāyaṉār at Nallūr by Āṭavalla-Nambi of Koṭumpuṉam, who is stated also to have endowed a quarter <foreign>vēli</foreign> of wet land for offerings and lamps to the deity.
+                        <summary>It records tthe construction of the temple and the consecration of the <foreign>kṣetrapāla</foreign> by Āṭavalla Nampi, who also gave a quarter of wetland from the neighbouring village for the a lamp and food offerings.
                         </summary>
                     </msContents>
                     <physDesc>
@@ -103,7 +101,7 @@
                     
                     <lb n="4" break="no"/><supplied reason="lost">tra</supplied>-<unclear>pāla</unclear>-p p<supplied reason="lost">i</supplied>ḷḷaiyāṉ <unclear>E</unclear>ḻuntar<choice><sic>u</sic><corr>i</corr></choice><unclear>vi</unclear>ttu-k k<unclear>ōyilu</unclear><supplied reason="lost">m eṭuppi</supplied>
                     
-                    <lb n="5" break="no"/><supplied reason="omitted">t</supplied>tu-t tiru-v-amutu-paṭikkun= tiruviḷakku-kkum Aivar pu<unclear>tu</unclear><supplied reason="lost">k</supplied>kuṭiyi
+                    <lb n="5" break="no"/><supplied reason="omitted">t</supplied>tu-t tiru-v-amutu-paṭikkun= tiruviḷakku-kkum Aivar-pu<unclear>tu</unclear><supplied reason="lost">k</supplied>kuṭiyi
                     
                     <lb n="6"/><unclear>l</unclear> v-iṭ=ṭa na<choice><sic>n</sic><corr>ñ</corr></choice>ce<supplied reason="omitted">y</supplied> nilaṅ kāl
                 </p>
@@ -162,12 +160,12 @@
                 </p>
                 
                 <p n="2-6">
-                    I, Koṭumpuṉavantēvaṉ Aṭavallaṉ Nampi, have set up the guardian deity <supplied reason="explanation"><foreign>kṣetrapāla piḷḷai</foreign></supplied> for the  god Nalla-nāyaṉār of Nallūr, built the shrine <supplied reason="explanation"><foreign>kōyilum eṭuppitu</foreign></supplied>, and endowed <supplied reason="explanation"><foreign>iṭṭa</foreign></supplied> a quarter of wet-land–situated in the settlements of [these] five people–for the sacred lamp <supplied reason="explanation"><foreign>tiruviḷakku</foreign></supplied> and the food offering <supplied reason="explanation"><foreign>tiruvamutu paṭi</foreign> </supplied>in the temple of the Lord Nalla-nāyaṉār.
+                    I, Koṭumpuṉavantēvaṉ Aṭavallaṉ Nampi, have set up the guardian deity <supplied reason="explanation"><foreign>kṣetrapāla piḷḷai</foreign></supplied> for the  god Nalla-nāyaṉār of Nallūr, built the shrine <supplied reason="explanation"><foreign>kōyilum eṭuppitu</foreign></supplied>, and endowed  a quarter of wet-land in Aivarputukkuṭi<note>Aivatukuṭi is an adjacent village that is situated to the north of Nallūr.</note> for the sacred lamp <supplied reason="explanation"><foreign>tiruviḷakku</foreign></supplied> and for the food offering <supplied reason="explanation"><foreign>tiruvamutu paṭi</foreign></supplied> in the temple of the Lord Nalla-nāyaṉār.
                     
                 </p>
                 
                 <p n="6-11">
-                    We, the residents of Koṭumpuṉavam
+                    We, the residents of Koṭumpuṉavam,<note>We have not been able to identify the village referred to in this record. However, some 30km. east, also on the Manimuktha river, lies the present-day village of Koṭumaṉūr, probably the best candidate for Koṭumpuṉavan. </note>
                     <list>
                     <item>Koṭumpuṉavaṉ Ciṅkantēvar Ciriya Malaiyamāṉ,</item> 
                     <item>Paṭaiyaṉ Ceyaṅkoṇṭa Malaiyamāṉ,</item>
@@ -175,11 +173,11 @@
                     <item>Amattai Kūvāṉ, and</item>
                     <item>Paṭiyaṉ Nāṭaṉ,</item>
                     </list>
-                    have given this <supplied reason="subaudible">endowment for</supplied> this town <supplied reason="explanation"><foreign>itu ivvūr</foreign></supplied> after we, such people <supplied reason="explanation"><foreign>ivv-aṉaivōm</foreign></supplied>, poured water on the holy feet of the deity <supplied reason="explanation"><foreign>piḷḷai</foreign></supplied>
+                    have given this village <supplied reason="explanation"><foreign>itu ivvūr</foreign></supplied> after we, such people <supplied reason="explanation"><foreign>ivv-aṉaivōm</foreign></supplied>, poured water on the holy feet of the deity <supplied reason="explanation"><foreign>piḷḷai</foreign></supplied>.
                 </p>
                 
                 <p n="11-12">
-                    Whoever alters this <supplied reason="explanation">itu māṟuvāṉ</supplied> will become the husband of his own mother <supplied reason="explanation"><foreign>ammaikku tāṉē</foreign></supplied>.
+                    Whoever alters this <supplied reason="explanation"><foreign>itu māṟuvāṉ</foreign></supplied> will become the husband of his own mother <supplied reason="explanation"><foreign>ammaikku tāṉē</foreign></supplied>.<note>Same imprecation appears in <ref target="DHARMA_INSTamilNadu00031.xml"/>.</note>
                 </p>
                 
                 <p n="12">
@@ -198,8 +196,9 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/150).</p>
-                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy (2024), photos (E. Francis, 2024), ASI transcript kindly supplied (2025) by the Director of Epigraphy in Mysore.</p>
+        <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/150).</p>
+        <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy (2024), photos (E. Francis, 2024)</p>
+        <p>ASI transcript kindly supplied (2025) by the Director of Epigraphy in Mysore.</p>
                 
                 <!--<listBibl type="primary">
                     
