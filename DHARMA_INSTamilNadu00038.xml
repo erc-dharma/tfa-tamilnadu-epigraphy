@@ -101,7 +101,7 @@
                     <lb n="5"/>kōyilil <hi rend="grantha"><unclear>Ā</unclear>śra</hi>ya<hi rend="grantha">li<supplied reason="lost">ṃ</supplied>ga</hi>m-āka tillainā<supplied reason="omitted">ya</supplied>ka-vēḷā<unclear>ṉ</unclear> Eḻun<supplied reason="lost">t-a</supplied>
                     <lb n="6" break="no"/>ruḷivitta poṉ<supplied reason="lost">pa</supplied>rappi<hi rend="grantha">śvara</hi>m-uṭaiya-nāyaṉāṟku I
                     <lb n="7" break="no"/>vv-ūr nalla nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ar tēvatāṉa-nāṉk’ ellaikk' uṭ<unclear>pa</unclear>
-                    <lb n="8" break="no"/>ṭ=ṭa nilattu moṇṭaṭ=ṭi<note>The summary from the ASI seems to suggest that an emmendation was made from the original record <foreign>nilattum-oṇṭaṭṭi-kāval</foreign> to <foreign>nilattu-pāṭi-kāval</foreign>. However, autopsy in situ clearly show that the inscription reads <foreign>nilattumoṇṭaṭṭi</foreign>. The main problem, then, is segmentation. We suggest that the word could be split as <foreign>nilattum <supplied reason="subaudible">n</supplied>oṇṭu aṭṭi kāval</foreign>.</note> kāval vēliyāy In-nilam	
+                    <lb n="8" break="no"/>ṭ=ṭa nilattu moṇṭaṭ=ṭi kāval vēliyāy In-nilam	
                     <lb n="9"/>Uḻa<unclear>k</unclear>kuṭi makkaḷ Aṉṟāṭu paṟṟāḷaṉ koṇṭu varuk<unclear>i</unclear>ṟa
                     <lb n="10"/>vēli Iru-tūṇ<supplied reason="lost">i</supplied>-p-patakk’ āka vantava<supplied reason="lost">ṟ</supplied>ku koṇṭu Ip-
                     <lb n="11"/><unclear>po</unclear>ṉparappī<hi rend="grantha">śvara</hi>m uṭaiyaṉāṟku ti<supplied reason="lost">ru</supplied>ppaṭi-māṟṟu <hi rend="grantha">candrā</hi>ti
@@ -117,13 +117,19 @@
                 
             </div>
             
-<!--<div type="apparatus">
+<div type="apparatus">
 <listApp>
-
+    <app loc="8">
+        <lem>nilattum <supplied reason="omitted">n</supplied>oṇṭaṭ=ṭi kāval</lem>
+        <rdg source="bib:ARIE1939-1943">nilattu moṇṭaṭ=ṭi kāval</rdg>
+        <note>The summary from the ASI seems to suggest that an emmendation was made from the original record <foreign>nilattum-oṇṭaṭṭi-kāval</foreign> to read <foreign>nilattu-pāṭi-kāval</foreign>, which would be in line with a tax frequently mentioned in other inscriptions from this temple. However, autopsy and photographic documentation clearly show that the inscription reads <foreign>nilattumoṇṭaṭṭi</foreign>.
+We suggest a tentative, yet not conclusive, reading: the segment could be split as <foreign>nilattum <supplied reason="subaudible">n</supplied>oṇṭu aṭṭi kāval</foreign>.</note>
+    </app>
+    
 
 
 </listApp>
-</div>-->
+</div>
             
             <div type="translation" resp="part:reda part:emfr">
                 
@@ -131,10 +137,25 @@
                     Prosperity! Fortune!
                 </p>
                 
-                <p>
-                    ...
+                <p n="1-3">
+                    This is the 18th year of glorious king Kulottunga Cōla <supplied reason="explanation">III</supplied>, emperor of the three worlds, who graciously took the crown head of the Pāṇṭiya king and Maturai.
+                </p>
+                <p n="3-6">
+                    In the temple of Lord of Nalla Nāyaṉār of Nallur, situated in the northern hamlet <supplied reason="explanation"><foreign>vaṭa-piṭākai</foreign></supplied> of the auspicious Muṭikoṇṭacōḻa-caturvedimaṅgalam, Tillaināyaka Vēḷāṇ graciously made <supplied reason="subaudible">the deity</supplied> Poṉparappīśvaram-uṭaiya-nāyaṉār to be installed as a liṅga shrine <supplied reason="explanation"><foreign>āśrayaliṅga</foreign></supplied>.<note>Since this is an endowment done by Poṉparappiṉāṉ Vaṇakōvaraiyaṉ for offerings to the god Poṉparappīśvaram in the form of a liṅga shrine, it could be plausible to assume that the name of the liṅga in question was given after this important Bāṇa chieftain.</note>
+                </p>
+                <p n="6-12">
+                    After digging out <supplied reason="explanation"><foreign>noṇṭu</foreign></supplied> the land included within the four boundaries of the devadāna of Nalla-Nāyaṉār of this village and putting in place <supplied reason="explanation"><foreign>aṭṭi</foreign></supplied> a protective fence <supplied reason="explanation"><foreign>kāval vēliyāy</foreign></supplied>, the cultivating tenants <supplied reason="explanation"><foreign>uḻakkuṭimakkaḷ</foreign></supplied> of this land <supplied reason="explanation"><foreign>innilam</foreign></supplied>, current lease-holders <supplied reason="explanation"><foreign>aṉṟāṭu paṟṟāḷaṉ</foreign></supplied>, will bring two <foreign>tūṇis</foreign> and one <foreign>patakku</foreign> per <foreign>vēli</foreign> of land. After taking <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> that which is accrued <supplied reason="explanation">at that rate</supplied> <supplied reason="explanation"><foreign>vantavaṟku</foreign></supplied>, <supplied reason="subaudible">it shall be used</supplied> for the food offerings <supplied reason="explanation"><foreign>tiruppaṭi-māṟu</foreign></supplied> given to  this Lord Poṉparappīśvaram-uṭaiya-nāyaṉār, as long as the sun and the moon endure.
+                </p>
+                <p n="12-13">
+                    I, Rājarājatēvaṉ Poṉparappiṉāṉ Vāṇakōvaraiyaṉ, have engraved it on stone after pouring water in the holy feet of this lord.
                 </p>
                 
+                <p n="13-14">
+                    Whoever alters this...<note>It seems to be an abbreviation of the closing imprecation: Whoever alters this, will become the husband of its own mother <supplied reason="explanation"><foreign>ammaikku tāṉē maṇavāḷaṉ</foreign></supplied>. The missing portion is found in two other records from this temple: <ref target="DHARMA_INSTamilNadu00031.xml"/> and <ref target="DHARMA_INSTamilNadu00036.xml"/>. The latter keeps the incestuous penalty, although it contains the variant <foreign>aḻittu-k kōḷvāṉ</foreign>.</note> This is the oath of Vallavaraiyaṉ.
+                </p>
+                <p n="13-14">
+                    This is under the protection of the numerous Śaiva devotees <supplied reason="explanation"><foreign>pallamāheśvaras</foreign></supplied>.
+                </p>
             </div>
             
             <!--<div type="commentary">
