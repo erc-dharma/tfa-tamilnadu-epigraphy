@@ -94,26 +94,24 @@
                     <supplied reason="lost"><hi rend="grantha">śubham a</hi></supplied><hi rend="grantha">stu</hi>
                 </p>
                 <p>        
-                    <hi rend="grantha">samasta-jagadādhāra</hi>- <gap reason="lost" quantity="4" unit="character"></gap> -<hi rend="grantha">kula-tilaka-madhurā-puri</hi>- ...
+                    <hi rend="grantha">samasta-jagadādhāra</hi>- <gap reason="lost" quantity="4" unit="character"></gap> -<hi rend="grantha">kula-tilaka-madhurā-puri</hi> Meykkīrtti continues in grantha script
                     <lb n="2"/>...
                     <lb n="3"/>… 
                     <lb n="4"/>... 
-                
-                    <lb n="5"/>… <hi rend="grantha">śrī</hi> ... -<supplied reason="lost">tē</supplied>vaṟku <supplied reason="lost">yāṇ</supplied><unclear>ṭu</unclear> <num value="15"><supplied reason="lost"><g type="numeral">10</g> 5</supplied></num> Āvatu puraṭṭ<unclear>ā</unclear>t<supplied reason="lost">i</supplied>-<unclear>māta</unclear>ttu ...
-                    <lb n="6"/><unclear>ṭun</unclear>=tut’ a<unclear>ru</unclear>ḷiya tiru-muka-p-paṭ<supplied reason="lost">i</supplied> ... nallūr-uṭaiyār nalla ṉāyaṉār kōyil tāṉattāṟ
-                    <lb n="7"/>...
-                    <lb n="8"/>...
-                    <lb n="9"/>ṉaittu vaṟkamum muta<unclear reason="eccentric_ductus">l</unclear> aṭaṅka <supplied reason="lost">I</supplied>ṟai-y-ili-y-āka patiṉ aiñcāva<supplied reason="lost">tu</supplied> mutal tanattōm Ip-pa<supplied reason="lost">ṭi</supplied>kku
-                    <lb n="10"/>Ivv-ōlai piṭipāṭ’ āka-k ko<unclear>ṇ</unclear>ṭu kalliluñ cempilum veṭṭi-<supplied reason="lost">k</supplied> koḷka
+                    <lb n="5"/>... śrī-sundara-pāṇṭiya-<supplied reason="lost">tē</supplied>vaṟk=ku <supplied reason="lost">yāṇ</supplied><unclear>ṭu</unclear> <num value="15">1 <g type="numeral">10</g> 5</num> Āvatu puraṭṭ<unclear>ā</unclear>t<supplied reason="lost">i</supplied>-māttatu <hi rend="grantha">prabhā</hi>
+                    <lb n="6"/><choice><orig><unclear>t</unclear></orig><reg><unclear>ta</unclear><gap reason="illegible" quantity="1" unit="character"/></reg></choice>n=te ta<unclear>ru</unclear>ḷiya tirumuka-p-paṭ<supplied reason="lost">i</supplied> y-aruḷi-c ceyal nallūr-uṭaiyār nalla ṉāyaṉār kōyil tāṉattāṟā
+                    <lb n="7" break="no"/>na <unclear>na</unclear>mmuṭaiya pērāl patiṉaṉā cāvatu mutal kaṭṭiṉa cantikkum tai-t tiruṉāḷukkum Uṭal āka Iṉṉāya 
+                    <lb n="8" break="no"/>ṉār tiruṉāmattukkāṇi tēvatānam āka nallūr naṉcey-puṉceyum kācāya vaṟkamum Uḷḷiṭṭa <gap reason="lost" unit="character" quantity="3"/>
+                    <lb n="9" break="no"/>ṉaittu vaṟkamum mutal aṭanki <supplied reason="lost">I</supplied>ṟai-y-ili-y-āka patiṉ aiñcāvatu mutal tana<supplied reason="omitted">t</supplied>tōm Ippa<supplied reason="lost">ṭi</supplied>kku
+                    <lb n="10"/>Ivv-ōlai muṭipāṭ’ āka-k ko<unclear>ṇ</unclear>ṭu kalliluñ cempilum veṭṭi-<supplied reason="lost">k</supplied> koḷka 
                 </p>
                 <p>
                     Ivai cuntara-pā<unclear>ṇ</unclear>ṭi
-                    <lb n="11" break="no"/><unclear>ya</unclear>-viḻuppāraiyaṉ Eḻuttu
-                </p>
-                
+                    <lb n="11" break="no"/><unclear>ya</unclear>-viḻupparaiyaṉ Eḻuttu
+                    </p>
                 <p>
-                    Itu paṉ<hi rend="grantha">māheśvara-rakṣai</hi> <g type="pc">.</g>
-                </p>
+                    Itu paṉmāheśvara-rakṣai <g type="pcl"/>
+</p>
             </div>
             
             <!--<div type="apparatus">

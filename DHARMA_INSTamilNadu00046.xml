@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, Kullotuṅga Cōḻa king, year 24</title>
+                <title>Nallūr, Vilvāraṇyeśvara, Kulotuṅga Cōḻa III, year 24</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -87,23 +87,22 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <p>
-                    <lb n="1"/><gap reason="lost" quantity="1" unit="line"/>
-                </p>
-                
-                <p>
-                    <lb n="2"/>t<unclear>i</unclear>r<unclear>i</unclear>puvaṉa-c-ca<supplied reason="omitted">k</supplied>kara-va<supplied reason="omitted">r</supplied><supplied reason="omitted">t</supplied>ti<supplied reason="omitted">ka</supplied>ḷ c<choice><sic>i</sic><corr>ī</corr></choice>-kulō<unclear>t</unclear><supplied reason="omitted">tu</supplied>ṅka-cōḻa-tēvarkku
-                    <lb n="3"/>yāṇṭu <num value="24">2 <g type="numeral">10</g> 4</num>-vatu 
+                    <lb n="1"/>t<unclear>i</unclear>r<unclear>i</unclear>puvaṉa-c ca<supplied reason="omitted">k</supplied>kara-va<supplied reason="omitted">t</supplied>ti<supplied reason="omitted">ka</supplied>ḷ c<choice><sic>i</sic><corr>ī</corr></choice>-kulō<unclear>t</unclear><supplied reason="omitted">tu</supplied>ṅka-cōḻa-tēvaṟku
+                    <lb n="2"/>yāṇṭu <num value="24">2 <g type="numeral">10</g> 4</num>-vatu 
                 </p>
                 <p>
-                    muṉ<unclear>ṉal</unclear> <choice><unclear>ārai</unclear><unclear>āṇṭu</unclear></choice> Ik-kōyi
-                    <lb n="4" break="no"/>lil tēvaraṭiyā<choice><sic>l</sic><corr>ḷ</corr></choice> t<unclear>i</unclear>ru-vekama<unclear rend="check">ṭṭā</unclear> <unclear rend="check">na</unclear><supplied reason="lost">ṅ</supplied>k<unclear>ai</unclear> makaḷ Uṭaiya-nācci
-                    <lb n="5" break="no"/>-y-āṉa kulōttuṅka-cō<supplied reason="lost">ḻa</supplied>-māṇikkam mari<choice><orig>cc</orig><reg>tt</reg></choice>u I
-                    <lb n="6"/><gap reason="lost" unit="line" quantity="1"></gap>
-                    <lb n="7"/>nāyanār-k kōyil tēva<supplied reason="lost">raṭi</supplied>yāril nācci-y-āṉa
-                    <lb n="8"/>poṟ-<unclear>kōyil</unclear> <unclear rend="check">naṅkai ma</unclear>kaḷ pūmāḻvi-y-āṉa
-                    <lb n="9"/>Aṉa <gap reason="lost" quantity="11" unit="character"></gap> kattukku tiruv<choice><orig>a</orig><reg>ē</reg></choice>mpā<supplied reason="omitted">vai</supplied>
-                    <lb n="10"/>kaṭu-k kaṭai-<unclear>k</unclear>-kāppu <supplied reason="lost">tiru</supplied>-v-eḻucci tiru-c-cā
-                    <lb n="11" break="no"/>kk<choice><orig>a</orig><reg>ai</reg></choice> kāṇ <gap reason="lost" unit="character" quantity="1"></gap> <unclear>ṅ kaṭu</unclear> <gap reason="lost" unit="character" quantity="2"></gap> Ivaḷ <gap reason="lost" unit="character" quantity="2"></gap>ṇṭāka
+                    muṉ<unclear>pil</unclear> āṇṭu Ik-kōyi
+                    <lb n="3" break="no"/>lil tēvaraṭiyā<choice><sic>l</sic><corr>ḷ</corr></choice> t<unclear>i</unclear>ruvēkampa<note>The name makes reference to the main Śiva temple at Kañcipuram.</note>-<unclear>na</unclear><supplied reason="lost">ṅ</supplied>k<unclear>ai</unclear> makaḷ Uṭaiya-nācci
+                    <lb n="4" break="no"/>y-āṉa kulōttuṅka-cō<supplied reason="lost">ḻa</supplied>-māṇikkam mari<choice><orig>cc</orig><reg>tt</reg></choice>u 
+                 </p>
+                 <p>
+                    I
+                    <lb n="5"/><gap reason="lost" extent="unknown"></gap> Iṉ
+                    <lb n="6" break="no"/>nāyanār-k kōyil tēva<supplied reason="lost">raṭi</supplied>yāril nācci-y-āṉa
+                    <lb n="7"/>poṟ<unclear>kōyil</unclear><note>The name referes to Chidambaram.</note>-<unclear rend="check">naṅkai ma</unclear>kaḷ pūmāḻvi-y-āṉa
+                    <lb n="8"/>Aṉa <gap reason="lost" quantity="11" unit="character"></gap> kattukku tiruv<choice><orig>a</orig><reg>ē</reg></choice>mpā
+                    <lb n="9" break="no"/><supplied reason="omitted">vai</supplied>-k kaṭai-<unclear>k</unclear>-kāppu <supplied reason="lost">tiru</supplied>veḻucci tiruccā
+                    <lb n="10" break="no"/>kk<choice><orig>a</orig><reg>ai</reg></choice> kāṇi<supplied reason="lost"> y-āka kuṭuttu</supplied> Ivaḷ <supplied reason="lost">c<choice><sic>i</sic><corr>ī</corr></choice>paṇṭārat</supplied>
                     
                 </p>
                 
@@ -111,21 +110,39 @@
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 <listApp>
-                
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:..."/>
-                <note>...</note>
-                </app>      
-                
+                <app loc="1">
+                <lem>t<unclear>i</unclear>r<unclear>i</unclear>puvaṉa-c ca<supplied reason="omitted">k</supplied>kara-va<supplied reason="omitted">t</supplied>ti</lem>
+                <note>Reading after ASI transcript.</note>
+                </app> 
+                <app loc="10">
+                     <lem>kāņi<supplied reason="lost">yāka kuṭuttu</supplied> Ivaḷ <supplied reason="lost">c<choice><sic>i</sic><corr>ī</corr></choice>paṇṭārat</supplied></lem>
+                    <note>Reading after ASI transcript</note>
+                 </app>
+                    
                 </listApp>
-                </div>-->
+                </div>
             
-            <!--<div type="translation" resp="part:reda part:emfr">
+            <div type="translation" resp="part:reda part:emfr">
                 
-                </div>-->
+                <p n="1">
+                    This is the 24th year of the glorious king Kulottuṅga Cōḻa III.
+                </p>
+                <p n="2-4">
+                    In the previous year, Uṭaiyanācci, alias Kulottuṅga Cōḻa Māṇikkam, daughter of the Tiruvēkampa-Naṅkai, a <foreign>tēvaraṭiyāḷ</foreign> of this temple, passed away...
+                </p>
+                
+                <p n="5-7">
+                    Pumāḻvi, daughter Poṟkōyil Naṅkai, alias Nācci, who is among the <foreign>tēvaraṭiyār</foreign> of the temple of this god.
+                    <note>
+                        Cf. <ref target="SII08/DHARMA_INSSIIv08p0i0091.xml"/> and <ref target="SII12/DHARMA_INSSIIv12p0i0150.xml"/>. These records mention one (or two) homonymous <foreign>tēvaraṭiyāḷ</foreign> named Aṟamuṭaiyāḷ associated to the temple of Āṭkoṇṭadēva at Tiruveṇṇainallūr: in SII 8.91 (Rājarāja III, year 21) she is mentioned among the <foreign>kaikkōḷar</foreign> of the temple, whereas in SII 12.150 (Kōpperuñciṅka I, year 6) she is mentioned to be a <foreign>tēvaraṭiyāḷ</foreign> of the temple. This 13th-century records should not be conflated with the Aṟamuṭaiyāḷ, mother of Nāṟpatteṇṇāyira Naṅkai alias Nācci, in <ref target="DHARMA_INSTamilNadu00029.xml"/>, which is the <foreign>tēvaraṭiyāḷ</foreign> <foreign>kaṭaikkāppu</foreign> of the <title>tiruvempāvai</title> in <ref target="DHARMA_INSTamilNadu00035.xml"/>.
+                    </note>
+                </p>
+                <p n="8-9">
+                   She has given to the temple treasury for the hereditary rights <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> <supplied reason="subaudible">for performing</supplied> the <foreign>tiruccākkai</foreign>, the <title>tiruveḻucci</title> and the <foreign>kaṭaikkāppu</foreign> of the <title>tiruvempāvai</title>.  
+                </p>
+                </div>
             
             <!--<div type="commentary">
                 
