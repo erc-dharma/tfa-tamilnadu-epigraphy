@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, time of Rājarādeva Cōḻa, year 19</title>
+                <title>Nallūr, Vilvāraṇyeśvara, time of Rājarāja Cōḻa II, year 19</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -44,7 +44,8 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Registers the gift of the whole village of Nallūr consisting of 360 <foreign>vēli</foreign> of land and of other pieces elsewhere amounting to ten <foreign>vēli</foreign> and odd with their income in taxes like <foreign>mākkalam</foreign>, <foreign>āyam</foreign> and <foreign>kīḻiṟaipāṭṭam</foreign> for the requirements of the temple of Nallanāyaṉār at Nallūr by Āḷappiṟandāṉ Mōgaṉ alias Kāḍavarāyaṉ.</summary>
+                        <summary>Most probably a copy of an earlier inscription. It registers the gift of Nallūr and surrounding villages, consisting in 360 <foreign>vēli</foreign>s of land, as well as the revenue in taxes from these lands, for the food offerings <supplied reason="explanation"><foreign>tiruppaṭimāṟu</foreign></supplied> and the sacred service <supplied reason="explanation"><foreign>tiruppaṇi</foreign></supplied>. The donor is the chieftain Āḷappiṟantāṉ Mōkaṉ alias Kaṭavarāyaṉ.       
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -179,9 +180,12 @@
                 </p>
             </div>
             
-            <!--<div type="commentary">
+            <div type="commentary">
+                <p>
+                    The time of Āḷappiṟantāṉ Mōkaṉ, also known as Kaṭavarāyaṉ, who was active during the reign of Rājarāja II, would place this inscription at approximately 1169 CE. However, this dating would predate the earliest record (ca. 1184 CE) attested at the site (cf. <ref target="DHARMA_INSTamilNadu00036.xml"/>). Given the fact that another inscription from the 34th regnal year of Kuloṭṭuṅga III (<ref target="DHARMA_INSTamilNadu00032.xml"/>) explicitly recapitulates the present endowment, it may be suggested that this is in fact a copy of an earlier record.
+                </p>
                 
-                </div>-->
+                </div>
             
             <div type="bibliography">
                 

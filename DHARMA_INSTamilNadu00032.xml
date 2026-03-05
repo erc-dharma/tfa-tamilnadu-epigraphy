@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, time of Rājarādeva Cōḻa, year 34</title>
+                <title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa III, year 34</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>In continuation with <ref target="DHARMA_INSTamilNadu00031.xml"/>. It records the endowment of 5 <foreign>mā</foreign>s of land and the tax income granted by Irumuḍiśōḻa-Mūvaraiyaṉ Amattai of Karuppūr.</summary>
+                        <summary>In continuation with <ref target="DHARMA_INSTamilNadu00031.xml"/> and <ref target="DHARMA_INSTamilNadu00033.xml"/>. It records the endowment of 5 <foreign>mā</foreign>s of land and the tax income granted by Irumuḍiśōḻa-Mūvaraiyaṉ Amattai of Karuppūr.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -182,7 +182,9 @@
             </div>
             
             <!--<div type="commentary">
-                
+                <p>
+                    
+                </p>
                 </div>-->
             
             <div type="bibliography">

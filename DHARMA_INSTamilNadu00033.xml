@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, no king, no year</title>
+                <title>Nallūr, Vilvāraṇyeśvara, no year, no king, (Kulottuṅga Cōḻa III, year 34?)</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -177,9 +177,11 @@
                 
             </div>
             
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p>
+                    This record continues <ref target="DHARMA_INSTamilNadu00031.xml"/>, which is likely a copy of an earlier transaction. Given that the present inscription is carved between that record and <ref target="DHARMA_INSTamilNadu00032.xml"/>, it probably belongs to the same administrative dossier, engraved when the endowment was supplemented the 34th regnal year of Kuloṭṭuṅga.
+                </p>
+                </div>
             
             <div type="bibliography">
                 
