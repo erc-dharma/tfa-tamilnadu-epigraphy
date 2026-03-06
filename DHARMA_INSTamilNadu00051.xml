@@ -85,11 +85,20 @@
         <body>
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
                 
                 <p>
-                    <gap reason="ellipsis"/><note>Text not available.</note>
-                </p>
+                    calai-puvaṉa-c cakkaravat<supplied reason="lost">tikaḷ</supplied> <gap reason="lost" quantity="4" unit="character"></gap>
+                    <lb n="2"/>kō-p-peruñciṅka-tēvarkku yā<supplied reason="lost">ṇṭu</supplied> <gap reason="lost" extent="unknown"></gap>
+                    <lb n="3" break="no"/>vatu milāṭākiya-ceṉṉāta vaḷa-n<supplied reason="lost">āṭṭu</supplied> <gap reason="lost" extent="unknown"></gap>
+                    <lb n="4" break="no"/>ttu nallūr Uṭaiyār nalla nāya<supplied reason="lost">ṉār</supplied> <gap reason="lost" extent="unknown"></gap>
+                    <lb n="5"/>cal Avaṉi Āḷappiṟantāṉ<surplus>k</surplus> kō-ppē <gap reason="lost" extent="unknown"></gap>
+                    <lb n="6" break="no"/>ccapā vācal paṉmā<hi rend="grantha">heśvara rakṣ<unclear>ai</unclear></hi>
                 
+                    
+                </p>
             </div>
             
             <!--<div type="apparatus">
