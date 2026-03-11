@@ -74,7 +74,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:reda" when="2025-10-14">Creation of the file</change>
+            <change who="part:reda" when="2026-03-11">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -124,20 +124,13 @@
             <div type="bibliography">
                 
                
-                <p>This digital edition by Renato Dávalos based on autopsy and photographic documentation.</p>                
+                <p>Not noticed in ARIE. This digital edition by Renato Dávalos based on autopsy and photographic documentation.</p>                
                 
                 <!--<listBibl type="primary">
                     
                     </listBibl>-->
                 
-                <!--<listBibl type="secondary">
-                    <bibl n="ARIE">
-                        <ptr target="bib:ARIE1922-1923"/>
-                        <citedRange unit="page">48</citedRange>
-                        <citedRange unit="appendix">C/1923</citedRange>
-                        <citedRange unit="item">48</citedRange>                        
-                    </bibl> 
-                </listBibl>-->
+                
                 
             </div>
         </body>
