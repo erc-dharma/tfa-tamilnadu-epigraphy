@@ -43,11 +43,11 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>...</summary>
+                        <summary>A copper plate issued in the Jovian cycle year <foreign>kaṟā</foreign> (that is, <foreign>kara</foreign>) during the reign of Tirumalai Nāyaka, that is, precisely June 18, 1651. Records a royal order bestowing <foreign>nāṭṭāmai</foreign> and <foreign>māṉipam</foreign> to Veṅkiṭṭi Nākkaṉ.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p><foreign>ḷ</foreign> instead of <foreign>ḻ</foreign>. <foreign>ṟ</foreign> instead of <foreign>r</foreign>. <foreign>ṉ</foreign> instead of <foreign>n</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -92,7 +92,7 @@
                     <lb n="3"/>kaṟt=tar-ākiya makaṟāca-māṉiyā<unclear>r</unclear> tiri-tirumalai-<unclear>ṉā</unclear>
                     <lb n="4" break="no"/>yakkaṟ-avaṟkaḷ kāḷappaṉpaṭṭi Uḷaṭaya
                     <lb n="5" break="no"/>t=til vant-iraṅki-y-iruk=kum pōtu kuppalna
-                    <lb n="6" break="no"/>ttam veṅkiṭṭi nāk=kaṉ pātakāṇikkai
+                    <lb n="6" break="no"/>ttam veṅkiṭṭi ṉāk=kaṉ pātakāṇikkai
                     <lb n="7"/><seg rend="check"><g type="paṇam"/></seg> <num value="30">3 <g type="numeral">10</g></num> <seg rend="check"><g type="poṉ"/></seg> poṉṉum <num value="400">4 <g type="numeral">100</g></num> Arici kāy-ka
                     <lb n="8" break="no"/>ri ney-pāl-uṭaṉē koṇṭu vantu ṟācā
                     <lb n="9" break="no"/>vai-k= kaṇṭāṉ ṟācāvukku cantōcam-āki n<choice><orig>i</orig><reg>ī</reg></choice>
@@ -118,7 +118,7 @@
                     </list>
                     
                     y-inta nāṅk’ el<choice><orig>k</orig><reg>l</reg></choice>aik=k’ uḷppa
-                    <lb n="19" break="no"/>ṭṭa kirāmam kuppalnat=tat=tuk=ku nāṭṭāmai pi
+                    <lb n="19" break="no"/>ṭṭa kirāmam kuppalnat=tat=tuk=ku nāṭṭāmai p<choice><sic>i</sic><corr>u</corr></choice>
                     <lb n="20" break="no"/>ñcai māṉipam Ūruk=ku teṟk=ku 5 caṅkili ni
                     <lb n="21" break="no"/>lam nañcai māṉipam <g type="mēṟpaṭi"/> kirāmat=tuk=k’ uḷp
                     <lb n="22" break="no"/>paṟavil naṭuvā<reg>y</reg>k=kālukku vaṭak=ku 4 kāṇi Āka
@@ -161,9 +161,9 @@
                 
             </div>	
             
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p>The plate, rectangular in shape (height 23.3 cm, width 15.3 cm), is a typical Nāyaka period copper plate. It was found in possession of Mr. Thiruvenkatasamy in the village of Kuppalnattam/Kuppalnatham, Madurai district, Tamilnadu, who acquired it as part of his inheritance. The existence of this copper plate was unknown to scholars till now. The editor got to know of it through word of mouth.</p>
+            </div>
             
             <div type="bibliography">
                 
