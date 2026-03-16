@@ -10,14 +10,7 @@
             <titleStmt>
                 <title>Kāppalūr, Tirukkāmēśvara, pillar, time of Parakesarivarman, year 5</title>
                 <respStmt>
-                    <resp>EpiDoc encoding</resp>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
@@ -219,7 +212,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1938-1939/B/1938-1939/248).</p>
-                <p>This edition by Emmanuel Franci based on autopsy (2019) and photos (Emmanuel Francis, 2019).</p>
+                <p>This edition by Emmanuel Francis based on autopsy (2019) and photos (Emmanuel Francis, 2019).</p>
                 
                 <!--<listBibl type="primary">
                     
