@@ -90,16 +90,18 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
-                </ab>
-                
-                <p>
-                    It-tiru-k-kaṟṟa<unclear>ḷi vi</unclear>kkirama-cōḻa<choice><orig>n</orig><reg>ṉ</reg></choice>
-                    
-                </p> 
-                
-                
+        
+        
+        <p>
+            <lb n="1"/><gap reason="lost" quantity="3" unit="character"></gap> <supplied reason="lost">tiripuva/tribhuva</supplied><unclear>ṉa</unclear>-c-cakkara-vatt<supplied reason="lost">ikaḷ ma</supplied>t<unclear>urai</unclear>yu<unclear>m Ī</unclear>ḻa<supplied reason="lost">mum</supplied> karuvū<unclear>rum</unclear> <gap reason="lost" quantity="3" unit="character"></gap>
+            <lb n="2"/><gap reason="lost" quantity="3" unit="character"></gap> śrī-kulōttuṅka-cōḻa-tēvaṟku yāṇṭu 2 10 5 ku Ce <gap reason="lost" quantity="3" unit="character"></gap>
+            <lb n="3"/><gap reason="lost" quantity="3" unit="character"></gap> A<unclear>ṇu</unclear>pāyaṉ cevūril paiy<unclear>ā</unclear>r tirumaṇ<unclear>i</unclear>kkō<unclear>yi</unclear>lu<unclear>ṭ</unclear>ai<unclear>yār</unclear> <unclear>to/ko</unclear><unclear>yi/pi</unclear> <gap reason="lost" quantity="3" unit="character"></gap>
+            <lb n="4"/><gap reason="lost" quantity="3" unit="character"></gap> <unclear>kō</unclear>yil Emperumakkaḷ kōyil mūṉṟukkum tiruttoṇṭar cīruraittār <gap reason="lost" quantity="3" unit="character"></gap>
+            <lb n="5"/><gap reason="lost" quantity="3" unit="character"></gap> <unclear>m</unclear>iṭak<unclear>um</unclear> n<choice><sic>a</sic><corr>āḷ</corr></choice> o<supplied reason="omitted">ṉ</supplied>ṟukku māṇiṇaṭukku cōṟu kuṟuṇi Oru nāḻi Aricic cōṟu peṟ<unclear>ṟu</unclear> <unclear>keṭṭa</unclear> <gap reason="lost" quantity="3" unit="character"></gap>
+            <lb n="6"/><gap reason="lost" quantity="3" unit="character"></gap> yarkaḷum * purattil tirukaṟṟaḷi tirupaṇikku Oṭukkiṉa kācu <unclear>1000 4 100 10 -k</unclear> kācu Ik-<supplied reason="lost">kācu</supplied>                    
+        </p> 
+        
+        
             </div>
             
             <!--<div type="apparatus">
@@ -117,9 +119,7 @@
             <div type="translation" resp="part:reda">
                 
                 <p n="1">Hail! Prosperity!</p>
-                <p n="1">This glorious stone temple <supplied reason="explanation"><foreign>tirukkaṟṟaḷi</foreign></supplied> <supplied reason="subaudible">was constructed by/named after</supplied> Vikrama Cōḻa.
                     
-                </p>
                 
             </div>
             
