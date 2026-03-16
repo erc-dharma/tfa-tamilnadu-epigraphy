@@ -48,7 +48,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Badly damaged. Continuation of lines lost. Seems to record an endowment for the cult of the three nāyaṉmār <supplied reason="explanation"><foreign>emperumakkaḷ muṉṟu</foreign></supplied></summary> 
+                        <summary>Badly damaged. Continuation of lines lost. Seems to record an endowment for those who recite <supplied reason="explanation"><foreign>uraittār</foreign></supplied> the glory <supplied reason="explanation"><foreign>cīr</foreign></supplied> of the three holy saints  <supplied reason="explanation"><foreign>mūṉṟukkum tiruttoṇṭar</foreign></supplied><note>In the summary provided by ARIE, it seems that <foreign>cīruraittār</foreign> has been wrongly attributed to Māṇikkavācakar. However, there is no textual nor epigraphical evidence that this was an epithet of the saint. Moreover, it seems more in line with the original <foreign>uraittār</foreign> as a reciter(s) of the glory <supplied reason="explanation"><foreign>cīr</foreign></supplied> of the three saints <supplied reason="explanation"><foreign>mūṉṟukkum</foreign></supplied>.</note></summary> 
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -93,28 +93,72 @@
         
         
         <p>
-            <lb n="1"/><gap reason="lost" quantity="3" unit="character"></gap> <supplied reason="lost">tiripuva/tribhuva</supplied><unclear>ṉa</unclear>-c-cakkara-vatt<supplied reason="lost">ikaḷ ma</supplied>t<unclear>urai</unclear>yu<unclear>m Ī</unclear>ḻa<supplied reason="lost">mum</supplied> karuvū<unclear>rum</unclear> <gap reason="lost" quantity="3" unit="character"></gap>
-            <lb n="2"/><gap reason="lost" quantity="3" unit="character"></gap> śrī-kulōttuṅka-cōḻa-tēvaṟku yāṇṭu 2 10 5 ku Ce <gap reason="lost" quantity="3" unit="character"></gap>
-            <lb n="3"/><gap reason="lost" quantity="3" unit="character"></gap> A<unclear>ṇu</unclear>pāyaṉ cevūril paiy<unclear>ā</unclear>r tirumaṇ<unclear>i</unclear>kkō<unclear>yi</unclear>lu<unclear>ṭ</unclear>ai<unclear>yār</unclear> <unclear>to/ko</unclear><unclear>yi/pi</unclear> <gap reason="lost" quantity="3" unit="character"></gap>
-            <lb n="4"/><gap reason="lost" quantity="3" unit="character"></gap> <unclear>kō</unclear>yil Emperumakkaḷ kōyil mūṉṟukkum tiruttoṇṭar cīruraittār <gap reason="lost" quantity="3" unit="character"></gap>
-            <lb n="5"/><gap reason="lost" quantity="3" unit="character"></gap> <unclear>m</unclear>iṭak<unclear>um</unclear> n<choice><sic>a</sic><corr>āḷ</corr></choice> o<supplied reason="omitted">ṉ</supplied>ṟukku māṇiṇaṭukku cōṟu kuṟuṇi Oru nāḻi Aricic cōṟu peṟ<unclear>ṟu</unclear> <unclear>keṭṭa</unclear> <gap reason="lost" quantity="3" unit="character"></gap>
-            <lb n="6"/><gap reason="lost" quantity="3" unit="character"></gap> yarkaḷum * purattil tirukaṟṟaḷi tirupaṇikku Oṭukkiṉa kācu <unclear>1000 4 100 10 -k</unclear> kācu Ik-<supplied reason="lost">kācu</supplied>                    
+            <lb n="1"/><supplied reason="lost"><hi rend="grantha">tribhu</hi>va</supplied><unclear>ṉa</unclear>-c-cakkara-vatt<supplied reason="lost">ikaḷ ma</supplied>t<unclear>ur</unclear><hi rend="grantha"><unclear>ai</unclear></hi>yu<unclear>m ī</unclear>ḻa<unclear>mum</unclear> karuvū<unclear>rum</unclear> <supplied reason="lost">pāṇṭi</supplied><note>Meykkīrtti of Kulōttuṅka should continue here.</note>
+            <lb n="2"/><gap reason="lost" quantity="4" unit="character"></gap> <hi rend="grantha">śrī</hi>-kulōttuṅka-cōḻa-tēvaṟku yāṇṭu <num value="25">2 <g type="numeral">10</g> 5</num> ku<supplied reason="lost">lo<!--kompu clear-->ttuṅ</supplied> <gap reason="lost" quantity="6" unit="character"></gap>
+            <lb n="3"/><supplied reason="lost">kuma</supplied><gap reason="lost" quantity="4" unit="character"></gap> ṉ A<unclear>ṇu</unclear>pāyaṉ cevūr <unclear reason="eccentric_ductus">U</unclear>ṭ<hi rend="grantha">ai</hi>y<unclear>ā</unclear>r tirumaṇa-k-kō<unclear>yi</unclear>lu<unclear>ṭ</unclear><hi rend="grantha">ai</hi><unclear>yār</unclear> <unclear>kōyi</unclear><supplied reason="lost">l tirukkāma-k ko</supplied> <gap reason="lost" quantity="5" unit="character"></gap>
+            <lb n="4"/><supplied reason="lost">yāḷi kai</supplied>yil Emperumakkaḷ kōyil m<choice><sic>u</sic><corr>ū</corr></choice>ṉṟukkum tiruttoṇṭar cīrur<hi rend="grantha">ai</hi>ttārkku y-āka nāḷ oṉṟu <gap reason="lost" quantity="5" unit="character"></gap>
+            <lb n="5"/><supplied reason="lost">m ceyya</supplied><unclear>m</unclear> iṭattu nāḷ o<supplied reason="omitted">ṉ</supplied>ṟukku māṇiraṇṭukku cōṟu kuṟuṇi Oru nāḻi Arici-c cōṟu pe<unclear>ṟakka</unclear>ṭa 
+            <lb n="6"/><supplied reason="lost">kāṇivilai</supplied> y-āka c<choice><sic>i</sic><corr>ī</corr></choice>paṇṭārattil tiru<supplied reason="omitted">k</supplied>kaṟṟaḷi tiru<choice><unclear>pp</unclear><unclear>p</unclear></choice>aṇikku Oṭukkiṉa kācu <unclear>2000 4 100 10 y-i</unclear>k-kācu <unclear>Iraṇ</unclear><supplied reason="lost">ṭā</supplied><unclear>yi</unclear><supplied reason="lost">ra</supplied> <gap reason="lost" unit="character" quantity="6"></gap>               
         </p> 
         
         
             </div>
             
-            <!--<div type="apparatus">
-                <listApp>
-                
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:..."/>
-                <note>...</note>
-                </app>      
-                
-                </listApp>
-                </div>-->
+    <div type="apparatus">
+    <listApp>
+    
+    <app loc="1">
+        <lem><supplied reason="lost"><hi rend="grantha">tribhu</hi>va</supplied></lem>
+        <note>Reading after ASI transcript.</note>
+    </app>      
+    
+    <app loc="1">
+        <lem><supplied reason="lost">pāṇṭi</supplied></lem>
+        <note>Reading after ASI transcript.</note>
+    </app>
+    <app loc="2">
+        <lem>ku<supplied reason="lost">lo<!--kompu clear-->ttuṅ</supplied></lem>    
+        <note>Reading after ASI transcript.</note>  
+    </app>
+        <app loc="2">
+            <lem>A<unclear>ṇu</unclear>pāyaṉ</lem>
+             <rdg source="bib:ARIE1938-1939">Aṉapāyaṉ</rdg>
+            <note>Reading after ASI transcript.</note>
+        </app>
+        <app loc="3">
+            <lem><supplied reason="lost">kuma</supplied><gap reason="lost" quantity="4" unit="character"></gap></lem>
+            <note>Reading after ASI transcript.</note>
+        </app>
+        <app loc="3">
+            <lem><supplied reason="lost">l tirukkāma-k ko</supplied> <gap reason="lost" quantity="5" unit="character"></gap></lem>
+            <note>Reading after ASI transcript.</note>
+        </app>
+        <app loc="4">
+            <lem><supplied reason="lost">yāḷi kai</supplied></lem>
+            <note>Reading after ASI transcript.</note>
+        </app>
+        <app loc="4">
+            <lem>kku y-āka nāḷ oṉṟu <gap reason="lost" quantity="5" unit="character"></gap></lem>
+            <note>Reading after ASI transcript.</note>
+        </app>
+        <app loc="4">
+            <lem>māṇiraṇṭukku</lem>
+            <note>Reading after ASI transcript.</note>
+        </app>
+        <app loc="5">
+            <lem>Oru nāḻi</lem>
+            <rdg source="bib:ARIE1938-1939">tirunāḻi</rdg>
+            <note>Reading after ASI transcript.</note>
+            
+        </app>
+        <app loc="6">
+            <lem><supplied reason="lost">kāṇivilai</supplied></lem>
+            <note>Reading after ASI transcript.</note>
+        </app>
+        
+    </listApp>
+        
+        </div>
             
             <div type="translation" resp="part:reda">
                 
@@ -127,19 +171,28 @@
                 
                 </div>-->
             
-            <div type="bibliography">
-                
-                
-                <p>Not noticed in ARIE. This digital edition by Renato Dávalos based on autopsy and photographic documentation.</p>                
+    <div type="bibliography">
+        
+        <p>Reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1938-1939/B/1938-1939/229).</p>
+        <p>This edition by Renato Dávalos, Emmanuel Francis, and N. Ramaswamy based on autopsy (2024) and photos (E. Francis, 2024; Florinda De Simini, 2024)</p>
+        <p>ASI transcript kindly provided by the Director of Epigraphy in Mysore.</p>
                 
                 <!--<listBibl type="primary">
                     
                     </listBibl>-->
                 
-                
-                
-            </div>
+        <listBibl type="secondary">
+            <bibl n="ARIE">
+                <ptr target="bib:ARIE1938-1939"/>
+                <citedRange unit="page">3</citedRange>
+                <citedRange unit="item">229</citedRange>
+                <citedRange unit="appendix">B/1938-1939</citedRange>
+            </bibl> 
+        </listBibl>
+        
+    </div>
         </body>
     </text>
 </TEI>
-<!--<metadata>on the lintel above the south doorway of the central shrine.</metadata>-->
+<!--<West side of the inner gōpura in the same temple [Śrīvāñjiyam.—Wall near the Dakshiṇā-mūrti shrine in the Śrīvāñjināthēśvara temple]]
+.</metadata>-->
