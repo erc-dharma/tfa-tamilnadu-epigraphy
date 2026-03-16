@@ -48,11 +48,11 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Badly damaged. Continuation of lines lost. Seems to record an endowment for those who recite <supplied reason="explanation"><foreign>uraittār</foreign></supplied> the glory <supplied reason="explanation"><foreign>cīr</foreign></supplied> of the three holy saints  <supplied reason="explanation"><foreign>mūṉṟukkum tiruttoṇṭar</foreign></supplied><note>In the summary provided by ARIE, it seems that <foreign>cīruraittār</foreign> has been wrongly attributed to Māṇikkavācakar. However, there is no textual nor epigraphical evidence that this was an epithet of the saint. Moreover, it seems more in line with the original <foreign>uraittār</foreign> as a reciter(s) of the glory <supplied reason="explanation"><foreign>cīr</foreign></supplied> of the three saints <supplied reason="explanation"><foreign>mūṉṟukkum</foreign></supplied>.</note></summary> 
+                        <summary>Badly damaged. Continuation of lines lost. Seems to record an endowment for those who recite <supplied reason="explanation"><foreign>uraittār</foreign></supplied> the glory <supplied reason="explanation"><foreign>cīr</foreign></supplied> of the three holy saints  <supplied reason="explanation"><foreign>mūṉṟukkum tiruttoṇṭar</foreign></supplied>.<note>In the summary provided by ARIE, it seems that <foreign>cīruraittār</foreign> has been wrongly attributed to Māṇikkavācakar. However, there is no textual nor epigraphical evidence that this was an epithet of the saint. Moreover, it seems more in line with the original that <foreign>uraittār</foreign> is taken simply as reciter(s) of the glory <supplied reason="explanation"><foreign>cīr</foreign></supplied> of the three saints <supplied reason="explanation"><foreign>mūṉṟukkum</foreign></supplied>.</note></summary> 
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>Characters seem to be from 11th–12th century.</p>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -93,7 +93,7 @@
         
         
         <p>
-            <lb n="1"/><supplied reason="lost"><hi rend="grantha">tribhu</hi>va</supplied><unclear>ṉa</unclear>-c-cakkara-vatt<supplied reason="lost">ikaḷ ma</supplied>t<unclear>ur</unclear><hi rend="grantha"><unclear>ai</unclear></hi>yu<unclear>m ī</unclear>ḻa<unclear>mum</unclear> karuvū<unclear>rum</unclear> <supplied reason="lost">pāṇṭi</supplied><note>Meykkīrtti of Kulōttuṅka should continue here.</note>
+            <lb n="1"/><supplied reason="lost"><hi rend="grantha">tribhu</hi>va</supplied><unclear>ṉa</unclear>-c-cakkara-vatt<supplied reason="lost">ikaḷ ma</supplied>t<unclear>ur</unclear><hi rend="grantha"><unclear>ai</unclear></hi>yu<unclear>m ī</unclear>ḻa<unclear>mum</unclear> karuvū<unclear>rum</unclear> <supplied reason="lost">pāṇṭi</supplied><note><foreign>meykkīrtti</foreign> of Kulōttuṅka III should continue here: <foreign>pāṇṭiyaṉ muṭittalaiyuṅ koṇṭaruḷiya</foreign></note>
             <lb n="2"/><gap reason="lost" quantity="4" unit="character"></gap> <hi rend="grantha">śrī</hi>-kulōttuṅka-cōḻa-tēvaṟku yāṇṭu <num value="25">2 <g type="numeral">10</g> 5</num> ku<supplied reason="lost">lo<!--kompu clear-->ttuṅ</supplied> <gap reason="lost" quantity="6" unit="character"></gap>
             <lb n="3"/><supplied reason="lost">kuma</supplied><gap reason="lost" quantity="4" unit="character"></gap> ṉ A<unclear>ṇu</unclear>pāyaṉ cevūr <unclear reason="eccentric_ductus">U</unclear>ṭ<hi rend="grantha">ai</hi>y<unclear>ā</unclear>r tirumaṇa-k-kō<unclear>yi</unclear>lu<unclear>ṭ</unclear><hi rend="grantha">ai</hi><unclear>yār</unclear> <unclear>kōyi</unclear><supplied reason="lost">l tirukkāma-k ko</supplied> <gap reason="lost" quantity="5" unit="character"></gap>
             <lb n="4"/><supplied reason="lost">yāḷi kai</supplied>yil Emperumakkaḷ kōyil m<choice><sic>u</sic><corr>ū</corr></choice>ṉṟukkum tiruttoṇṭar cīrur<hi rend="grantha">ai</hi>ttārkku y-āka nāḷ oṉṟu <gap reason="lost" quantity="5" unit="character"></gap>
