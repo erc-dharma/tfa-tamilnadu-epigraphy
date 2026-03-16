@@ -11,6 +11,10 @@
                 <title>Kāppalūr, Tirukkāmēśvara, pillar, time of Parakesarivarman, year 5</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName> 
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
@@ -91,19 +95,19 @@
                     <lb n="3" break="no"/>lai koṇṭa kō
                     <lb n="4"/>p-parakēcari-pa
                     <lb n="5" break="no"/>ṉmakki yāṇṭu
-                    <lb n="6"/>Aint-āvatu
+                    <lb n="6"/>Ainc-āvatu
                 </p>
                 
                 <p>
                     <lb n="7"/>cōṉāṭṭu kōmā
                     <lb n="8" break="no"/>-viyāpāri kōli
                     <lb n="9" break="no"/>yakuṭaiyāṉ
-                    <lb n="10"/>pārttiva-cēkara
-                    <lb n="11" break="no"/>-makaṉ tiru-v-a<unclear>ṭikaḷ-ā</unclear>
+                    <lb n="10"/>pārttiva-cēkara<unclear>ṉ</unclear>
+                    <lb n="11"/>makaṉ tiru-v-a<unclear>ṭikaḷ-ā</unclear>
                     <lb n="12" break="no"/>kiya piriti-rāma-ceṭṭi
                     <lb n="13"/>pal-kuṉ<unclear>·</unclear>ṟa-k-kōṭṭa
                     <lb n="14" break="no"/>ttu vacukūr-<choice><orig>ṉ</orig><reg>n</reg></choice>āṭṭu
-                    <lb n="15"/>kāma-p-pullūr 
+                    <lb n="15"/>kāma-p-pullūr kiḻai
                     <lb n="16"/><hi rend="grantha">śrī</hi>-kōyil śrī-kā<unclear>m</unclear>ai
                     <lb n="17" break="no"/>-nakkarkku vaitta<surplus>ṉ</surplus>
                     <lb n="18"/>nan=tā-viḷak=ku
@@ -127,14 +131,14 @@
                             <lb n="27" break="no"/>ṭṭu ṉāṭṭi-pulattuk=ku
                             <lb n="28"/>kiḻak=kum vaṭak=ku</item>
                         
-                        <item>nā<gap reason="illegible" quantity="1" unit="character"/><lb n="29" break="no"/><gap reason="illegible" quantity="1" unit="character"/>ṉ-pulattuk=kum
-                            <lb n="30"/><unclear>pā</unclear><gap reason="illegible" quantity="3" unit="character"/>ta-vāykkā
+                        <item>nāvi<lb n="29" break="no"/>caṉ-pulattuk=ku-p
+                            <lb n="30"/>pāyanta-vāykkā
                             
                             <milestone n="B" unit="column" break="no" type="pagelike"/>
                             <lb n="31"/>luk=ku teṟkum</item></list>
                 </p>
                 <p>
-                    <lb n="32"/>In-naṭuvu-p-pa
+                    <lb n="32"/>In-naṭuvu-paṭ
                     <lb n="33" break="no"/>ṭa nilam mu-k-kā ṉi	
                     <lb n="34" break="no"/>lamum <hi rend="grantha">sabhai</hi>
                     <lb n="35" break="no"/>yārk=kum Iṟai-<hi rend="grantha"><choice><orig>t</orig><reg>d</reg></choice>ra</hi>
@@ -151,25 +155,25 @@
                     <unclear>I</unclear>-<hi rend="grantha"><unclear>dha</unclear></hi>mma<unclear>m</unclear>
                     <lb n="44"/><hi rend="grantha">rakṣi</hi>kkum pa
                     <lb n="45" break="no"/><hi rend="grantha"><unclear>n</unclear>māheśva</hi>ra-<hi rend="grantha">śrī</hi>-pā
-                    <lb n="46" break="no"/>tam <unclear>E</unclear>ṉ talai <unclear>mēla</unclear>
+                    <lb n="46" break="no"/>tam <unclear>E</unclear>ṉ talai mēli
                     <lb n="47" break="no"/>tu <unclear><g type="gomutraFinal">.</g></unclear>
                     
                 </p>
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
                 
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:Isvaran2009_01">...</rdg>
+                <app loc="7">
+                <lem>kōmā</lem>
+                <note>ASI transcript reads <foreign>komara</foreign>.</note>
                 </app>
                 
                 </listApp>
                 
-                </div>-->
+                </div>
             
             <div type="translation" resp="part:emfr">
                 
@@ -213,6 +217,8 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1938-1939/B/1938-1939/248).</p>
                 <p>This edition by Emmanuel Francis based on autopsy (2019) and photos (Emmanuel Francis, 2019).</p>
+                <p>ASI transcript consulted in January 2026 by Renato Dávalos.</p>
+                <p>ASI estampage, if any, yet to be consulted.</p>                
                 
                 <!--<listBibl type="primary">
                     

@@ -5,138 +5,191 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Kāppalūr, Tirukkāmēśvara, pillar, time of Parakesarivarman, year 5</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00024</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-<sourceDesc>
-	<msDesc>
-		<msIdentifier>
-			<repository>DHARMAbase</repository>
-			<idno/>
-		</msIdentifier>
-		<msContents>
-			<summary>Lamp donation. <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (p. 35): <quote>Registers a gift of land for a lamp in the temple of Śrīkāmai-Nakkar by the Aiyāraṉ <hi rend="italic">alias</hi> Nūṟṟeṇmak-Kavaraceṭṭi, son of Māyilaṭṭi, a merchant of Periya-aṅkāṭi at Tañcāvūr.</quote></summary>
-		</msContents>
-		<physDesc>
-			<handDesc>
-				<p/>
-			</handDesc>
-		</physDesc>
-	</msDesc>
-</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-                        under the European Union's Horizon 2020 research and innovation programme (grant
-                        agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                            ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-                            <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-04-19" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-      <body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><!--check script-->
-         			
-	<p>
-		[text not available]
-	</p>
-	
-</div>
-
-<!--<div type="apparatus">
-	
-	<listApp>
-		
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Isvaran2009_01">...</rdg>
-		</app>
-		
-	</listApp>
-      		
-</div>-->
-      	
-<!--<div type="translation" resp="part:emfr">
-		
-      		
-</div>-->
-      	
-<!--<div type="commentary">      	
-	
-</div>-->
-      	
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1938-1939/B/1938-1939/247).</p>	
-	<p>ASI transcript and estampage, if any, yet to be consulted.</p>
-	
-	<!--<listBibl type="primary">
-		
-	</listBibl>-->
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1938-1939"/>
-			<citedRange unit="page">35</citedRange>
-			<citedRange unit="appendix">B/1938-1939</citedRange>
-			<citedRange unit="item">247</citedRange>
-		</bibl>              
-      
-   </listBibl>
-   
-</div>
-
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kāppalūr, Tirukkāmēśvara, pillar, time of Parakesarivarman, year 5</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName> 
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00024</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Lamp donation. <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (p. 35): <quote>Registers a gift of land for a lamp in the temple of Śrīkāmai-Nakkar by the Aiyāraṉ <hi rend="italic">alias</hi> Nūṟṟeṇmak-Kavaraceṭṭi, son of Māyilaṭṭi, a merchant of Periya-aṅkāṭi at Tañcāvūr.</quote></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-04-19" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><!--check script-->
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <g type="ddanda">.</g>
+                </ab>
+                
+                <p>
+                    v<choice><orig>i</orig><reg>ī</reg></choice>ra-pā
+                    <lb n="2" break="no"/>ṇṭiyaṉai-t talai koṇṭa
+                    <lb n="3"/>kō-p-parakēcari-paṉmaṟki yā
+                    <lb n="4" break="no"/>ṇṭu Aiñc-āvatu
+                </p>
+                
+                <p>
+                    palku<supplied reason="omitted">ṉ</supplied>ṟa
+                    <lb n="5" break="no"/>-k-kōṭṭattu vacukūr-nāṭṭu
+                    <lb n="6" break="no"/>-k kāma-p-pullūr sabhaiyō
+                    <lb n="7" break="no"/>⌉m tañcavūr periya Aṅkā
+                    <lb n="8" break="no"/>ṭi viyāpāri māyilaṭṭi maka
+                    <lb n="9" break="no"/>ṉ Aiyyā<unclear>ṟṟa</unclear>ṅkaḷ-ākiya
+                    <lb n="10"/>nūṟṟeṇma-k-karava-ceṭ
+                    <lb n="11" break="no"/>ṭikku Eṅkaḷūr per-ēri kiḻ
+                    <lb n="12"/>yāṅkaḷ-uṭaiya caṅkaraccaṉ
+                    <lb n="13"/>paṭṭiyil teṟk’ aṭaiya
+                    <lb n="14"/>Ar<hi rend="grantha">ai</hi>ye Oru mā nilamu
+                    <lb n="15" break="no"/>m vilai-<hi rend="grantha">dravya</hi>mum Iṟai
+                    <lb n="16" break="no"/>-<hi rend="grantha">travya</hi>mum Aṟa-k-koṇṭu
+                    <lb n="17" break="no"/><gap reason="lost" quantity="2" unit="character"/> āle vai ceytu kuṭu
+                    <lb n="18" break="no"/>ttōm <hi rend="grantha">sabhai</hi>yōmum</p>
+                <p>
+                    <lb n="19"/>muṟ-colla-paṭṭa <seg rend="check"><g type="dashDouble"/></seg> māyila
+                    <lb n="20" break="no"/>ṭṭi makaṉ Aiyyāṟa
+                    <lb n="21" break="no"/>ṉ-ākiya nūṟṟeṇma-k-ka
+                    <lb n="22" break="no"/>vaṟa-ceṭṭiyēṉu<unclear>m ṇa</unclear>ḷi
+                    <lb n="23"/><hi rend="grantha">sabhai</hi>yār pakkal vilai
+                    <lb n="24" break="no"/>kku koṇṭa cuṅkāccaṉ pa
+                    <lb n="25" break="no"/>ṭṭiyil teṟk’ aṭaiya Arai
+                    <lb n="26" break="no"/>yē Oru mā nilamum <hi rend="grantha">śrī</hi>-kāmai
+                    <lb n="27" break="no"/>-nakkar kōyilil nontā-vi
+                    <lb n="28" break="no"/>ḷakku Oṉṟum <hi rend="grantha">ca</hi>n<hi rend="grantha">trādi</hi>ttaval
+                    <lb n="29"/>Erippat’ āka Ivv-araiyē Oru <unclear>mā</unclear>
+                    <lb n="30"/>nilamum ṇūtteṉ nūṟṟe
+                    <lb n="31" break="no"/>ṉma-k-kavaṟa-ceṭṭiyēṉ <hi rend="grantha">śrī</hi>-kō
+                    <lb n="32" break="no"/>yil-uṭai<supplied reason="omitted">ya</supplied> <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇarō
+                    <lb n="33" break="no"/>mum Ivv-ar<hi rend="grantha">ai</hi>yē Oru mā ni
+                    <lb n="34" break="no"/>lamuṅ koṇṭu tivvikai<seg rend="check">co</seg>
+                    <lb n="35" break="no"/>ṉṟum <hi rend="grantha">cantrādi</hi>ttaval nontā
+                    <lb n="36" break="no"/>viḷakku Erippōm ānōm civa-<hi rend="grantha">brā</hi>
+                    <lb n="37" break="no"/><hi rend="grantha">hma</hi>ṇarōm <hi rend="grantha">sabhai</hi>yōmum
+                </p>
+                <p>
+                    Iṉni
+                    <lb n="38" break="no"/>lañ cuṭṭi n<choice><sic>i</sic><corr>i</corr></choice>rvilai koḷḷa
+                    <lb n="39" break="no"/>ppi<seg rend="check">ṉā</seg>tōm āṉōm <hi rend="grantha">sabhai</hi>yōm
+                </p>
+                
+                <p>
+                    I
+                    <lb n="40" break="no"/><unclear>tu</unclear> <hi rend="grantha">rakṣikkum</hi> <gap reason="lost" quantity="5" unit="character"/>
+                </p>
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:Isvaran2009_01">...</rdg>
+                </app>
+                
+                </listApp>
+                
+                </div>-->
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                
+                </div>-->
+            
+            <!--<div type="commentary">      	
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1938-1939/B/1938-1939/247).</p>
+                <p>This edition by Renato Dávalos &amp; Emmanuel Francis based on ASI transcript consulted in January 2026 by Renato Dávalos.</p>	
+                <p>ASI estampage, if any, yet to be consulted.</p>
+                
+                <!--<listBibl type="primary">
+                    
+                    </listBibl>-->
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1938-1939"/>
+                        <citedRange unit="page">35</citedRange>
+                        <citedRange unit="appendix">B/1938-1939</citedRange>
+                        <citedRange unit="item">247</citedRange>
+                    </bibl>              
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
