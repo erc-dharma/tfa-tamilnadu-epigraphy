@@ -43,11 +43,11 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>A copper plate issued in the Jovian cycle year <foreign>kaṟā</foreign> (that is, <foreign>kara</foreign>) during the reign of Tirumalai Nāyaka, that is, precisely June 18, 1651. Records a royal order bestowing <foreign>nāṭṭāmai</foreign> and <foreign>māṉipam</foreign> to Veṅkiṭṭi Nākkaṉ.</summary>
+                        <summary>A copper plate issued in the Jovian cycle year Kaṟā (that is, kara) during the reign of Tirumalai Nāyaka, that is, 1651, as this is the only <foreign>kara</foreign> during his reign (1623-1659 CE). Records a royal order bestowing <foreign>nāṭṭāmai</foreign> and <foreign>māṉipam</foreign> to Veṅkiṭṭi Nākkaṉ. Contains a conversation in Telugu, written in Tamil script.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p><foreign>ḷ</foreign> instead of <foreign>ḻ</foreign>. <foreign>ṟ</foreign> instead of <foreign>r</foreign>. <foreign>ṉ</foreign> instead of <foreign>n</foreign>.</p>
+                            <p>Single-curled <foreign>kompu</foreign>: no distinction between medial vowels <foreign>o</foreign> and <foreign>ō</foreign>, <foreign>e</foreign> and <foreign>ē</foreign>. <foreign>ḷ</foreign> instead of <foreign>ḻ</foreign>. <foreign>ṟ</foreign> instead of <foreign>r</foreign>. <foreign>ṉ</foreign> instead of <foreign>n</foreign>. Orthographic peculiarities and colloquial forms: <foreign>nāṭṭāmai</foreign> for <foreign>nāṭṭāṉmai</foreign>, <foreign>māṉipam</foreign> for <foreign>māṉiyam</foreign>, <foreign>vākkāl</foreign> for <foreign>vāykkāl</foreign>, <foreign>nākkaṉ</foreign> for <foreign>nāyakkaṉ</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -83,15 +83,18 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
-                <p>
+                <ab>
                     <lb n="1"/><g type="pc"/> rāma-ceyam
-                </p>
+                </ab>
                 
                 <p>
-                    <lb n="2"/>kaṟā <g type="varuṣam"/> Āṉi <g type="mācam"/> 29 <g type="tēti"/> matuṟā-puri-t-talat=tuk=ku
+                    <lb n="2"/>kaṟā <g type="varuṣam"/> Āṉi <g type="mācam"/> 29 <g type="tēti"/>
+                </p>
+                <p>
+                    matuṟā-puri-t-talat=tuk=ku
                     <lb n="3"/>kaṟt=tar-ākiya makaṟāca-māṉiyā<unclear>r</unclear> tiri-tirumalai-<unclear>ṉā</unclear>
-                    <lb n="4" break="no"/>yakkaṟ-avaṟkaḷ kāḷappaṉpaṭṭi Uḷaṭaya
-                    <lb n="5" break="no"/>t=til vant-iraṅki-y-iruk=kum pōtu kuppalna
+                    <lb n="4" break="no"/>yakkaṟ-avaṟkaḷ kāḷappaṉpaṭṭi Uḷaṭaiya
+                    <lb n="5" break="no"/>t=til vant’ iraṅki y-iruk=kum pōtu kuppalna
                     <lb n="6" break="no"/>ttam veṅkiṭṭi ṉāk=kaṉ pātakāṇikkai
                     <lb n="7"/><seg rend="check"><g type="paṇam"/></seg> <num value="30">3 <g type="numeral">10</g></num> <seg rend="check"><g type="poṉ"/></seg> poṉṉum <num value="400">4 <g type="numeral">100</g></num> Arici kāy-ka
                     <lb n="8" break="no"/>ri ney-pāl-uṭaṉē koṇṭu vantu ṟācā
@@ -101,7 +104,7 @@
                     <lb n="12"/>nēṉu Uṇṭē kiṟāmāṉiki cātiṉappaṭṭa
                     
                     <lb n="13" break="no"/>yāṉiki tēvaruvāḷu Uttaṟavu kāvelē
-                    <lb n="14"/>y-eṉṟu kēṭṭāṉ Anta-p paṭik=ku ṟācā Utta
+                    <lb n="14"/>y-eṉṟu kēṭṭāṉ Anta-p paṭik=ku ṟācā-Utta
                     <lb n="15" break="no"/>rāv’ āccutu
                     
                     <list>
@@ -147,7 +150,7 @@
                 </p>
                 <p>
                     y-inta-p paṭi
-                    <lb n="32"/><seg rend="check">śrī</seg>-kaṟt=taṟ-ākiya tirumalai ṉāyak=kar-avarkaḷ tiru-k
+                    <lb n="32"/><seg rend="check">śrī</seg>-kaṟt=taṟ-ākiya tirumalai-ṉāyak=kar-avarkaḷ tiru-k
                     <lb n="33" break="no"/>-karat=til Oppam <g type="pc">.</g>
                 </p>
                 
@@ -158,11 +161,46 @@
             </div>
             
             <div type="translation">                
+                <p n="1">Victory to Rāma!</p>
+                <p n="2">Year Kaṟā,<note>That is, Kara.</note> month of Āṉi, date 29.</p>
+                <p n="3-15">At the time the glorious and honourable Tirumalai Nāyaka was ...</p>
+                <p n="15-25">
+                    For this,
+                    <list>
+                        <item>south of ...</item>
+                        <item>east of ...</item>
+                        <item>north of ...</item>
+                        <item>west of ...</item>
+                    </list>
+                    the village which is comprised within these four boundaries ...
+                    there is a copper-plate order
+                    that has been written and given ...
+                </p>
+                <p n="25-28">
+                    For this, the witnesses are
+                    <list>
+                        <item>...</item>
+                        <item>...</item>
+                        <item>...</item>                        
+                    </list>
+                </p>
                 
+                <p n="28-29">
+                    This, if whoever ...
+                </p>
+                
+                <p n="30-31">
+                    He who made this plate is ...
+                </p>
+                <p n="31-33">
+                    In that manner, the signature in the hand of the of the honourable Tirumalai Nāyaka ...
+                </p>
+                        
             </div>	
             
             <div type="commentary">
                 <p>The plate, rectangular in shape (height 23.3 cm, width 15.3 cm), is a typical Nāyaka period copper plate. It was found in possession of Mr. Thiruvenkatasamy in the village of Kuppalnattam/Kuppalnatham, Madurai district, Tamilnadu, who acquired it as part of his inheritance. The existence of this copper plate was unknown to scholars till now. The editor got to know of it through word of mouth.</p>
+                <p>The village names mentioned in the inscription are still in use today (phonetically intact) except one which had changed to <foreign>pūcalapuram</foreign> from <foreign>pūcāntiram</foreign>.</p>
             </div>
             
             <div type="bibliography">
