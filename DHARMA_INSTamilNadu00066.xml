@@ -114,7 +114,7 @@
                     
                     <app loc="1">
                         <lem><supplied reason="lost">pāṇṭi</supplied> <gap reason="lost" quantity="6" unit="character"/></lem>
-                        <note>Reading after ASI transcript. The gap may be restored as <foreign>pāṇṭiyaṉ muṭittalaiyuṅ koṇṭaruḷiya</foreign></note>
+                        <note>Reading after ASI transcript. The gap may be restored as <foreign>pāṇṭiyaṉ muṭittalaiyuṅ koṇṭaruḷiya</foreign>.</note>
                     </app>
                     <app loc="2">
                         <lem>ku<supplied reason="lost">lo<!--kompu clear-->ttuṅ</supplied></lem>    
@@ -123,7 +123,6 @@
                     <app loc="2">
                         <lem>A<unclear>ṇu</unclear>pāyaṉ</lem>
                         <rdg source="bib:ARIE1938-1939">Aṉapāyaṉ</rdg>
-                        <note>Reading after ASI transcript.</note>
                     </app>
                     <app loc="3">
                         <lem><supplied reason="lost">kuma</supplied><gap reason="lost" quantity="4" unit="character"></gap></lem>
@@ -147,9 +146,7 @@
                     </app>
                     <app loc="5">
                         <lem>Oru nāḻi</lem>
-                        <rdg source="bib:ARIE1938-1939">tirunāḻi</rdg>
-                        <note>Reading after ASI transcript.</note>
-                        
+                        <rdg source="bib:ARIE1938-1939">tirunāḻi</rdg>                        
                     </app>
                     <app loc="6">
                         <lem><supplied reason="lost">kāṇivilai</supplied></lem>
@@ -173,7 +170,8 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1938-1939"/></bibl> (ARIE/1938-1939/B/1938-1939/229).</p>
                 <p>This edition by Renato Dávalos, Emmanuel Francis, and N. Ramaswamy based on autopsy (2024) and photos (E. Francis, 2024; Florinda De Simini, 2024)</p>
-                <p>ASI transcript kindly provided by the Director of Epigraphy in Mysore.</p>
+                <p>ASI transcript consulted in Mysore in January 2026 by Renato Dávalos, with the kind authorisation of the Director of Epigraphy.</p>
+                <p>ASI estampage, if any, yet to be consulted.</p>
                 
                 <!--<listBibl type="primary">
                     
