@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Remission of taxes on village Nampiyātanallūr by Vāṇātarāyar for the food offerings, for feeding the ascetics <supplied reason="explanation"><foreign>kōvaṇavar</foreign></supplied> reciting the <title>tiruvempāvai</title> during the festival of Mārkaḻi, and for procession of the deity so that it listens to the <foreign>cātāripaṇ</foreign> at the sacred door <supplied reason="explanation"><foreign>tiruvācal</foreign></supplied> named after Vāṇātarāyar.</summary> 
+                        <summary>Remission of taxes on village Nampiyātanallūr by Vāṇātarāyar for the food offerings, for feeding the ascetics <supplied reason="explanation"><foreign>kōvaṇavar</foreign></supplied> reciting the <title>tiruvempāvai</title> during the festival of Mārkaḻi, and for the procession of the deity so that it listens to the <foreign>cātāripaṇ</foreign> at the sacred door <supplied reason="explanation"><foreign>tiruvācal</foreign></supplied> named after Vāṇātarāyar.</summary> 
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -167,13 +167,10 @@
             
             <!-- <div type="apparatus">
                 <listApp>
-                
-                
                 <app loc="6">
                 <lem><supplied reason="lost">kāṇivilai</supplied></lem>
                 <note>Reading after ASI transcript.</note>
                 </app>
-                
                 </listApp>
                 
                 </div>-->
@@ -183,9 +180,9 @@
                 
             </div>
             
-            <div type="commentary">
+            <!--<div type="commentary">
                 
-            </div>
+            </div>-->
             
             <div type="bibliography">
                 
