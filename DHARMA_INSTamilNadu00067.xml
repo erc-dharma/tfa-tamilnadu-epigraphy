@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Madurai, Minākṣi temple, time of Sundara Pāṇḍya, year 4</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>			
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00067</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis &amp; Vincent Tournier.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Remission of taxes on village Nampiyātanallūr by Vāṇātarāyar for the food offerings, for feeding the ascetics <supplied reason="explanation"><foreign>kōvaṇavar</foreign></supplied> reciting the <title>tiruvempāvai</title> during the festival of Mārkaḻi, and for procession of the deity so that it listens to the <foreign>cātāripaṇ</foreign> at the sacred door <supplied reason="explanation"><foreign>tiruvācal</foreign></supplied> named after Vāṇātarāyar.</summary> 
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2026-03-18">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+            <p>
+                <lg n="1" met="meykkīrtti">
+                    <l n="1">pūmalar tiruvum poruceyamaṭantaiyum</l>
+                    <l n="2">tāmaraikkuvimulai cērppuyattiruppa</l>
+                    <l n="3">vētanāviṉ veḷḷi naṭṭāmarai-k</l>
+                    <l n="4">kātaṉ mātu kaviṉpeṟat tiṉaippa</l>
+                    <l n="5">veṇṭirai yuṭutta maṇṭiṇi kiṭakkait</l>
+                    <l n="6">tirunila maṭantai yurimaiyiṟ kaḷippa</l>
+                    <l n="7"><lb n="2"/>camaiyamu nītiyuñ tarumamun taḻaippa</l>
+                    <l n="8">imaiyavar viḻāk koṭiyiṭantoṟu meṭuppak</l>
+                    <l n="9">karuṅkalikkaṉal keṭak kaṭavuṉ vētiyar</l>
+                    <l n="10">aruntoḻil vēḷvic ceṅkaṉal <supplied reason="omitted">vaḷarppa-c</supplied></l>
+                    <l n="11"><supplied reason="omitted">porutiṟa lāḻi</supplied> pūtalañ cūḻtara</l>
+                    <l n="12">orukaiyirucevi mummata nāṟkōṭṭ'</l>
+                    <l n="13">ayirāvata mutaṟ ceyitīr koṟṟatt'</l>
+                    <l n="14">oṇṭicaiyā <lb n="3" break="no"/>ṉaiyerutta mēṟik</l>
+                    <l n="15">kaṇṭanāṭā ṭemateṉak kayal kaḷi kūrak</l>
+                    <l n="16">kōcalan tuḷūvaṅ kutiram kuccaram</l>
+                    <l n="17">pōcal makatam poppaḷam puṇṭaram</l>
+                    <l n="18">kaliṅka mīḻaṅ kaṭāraṅ kavuṭam</l>
+                    <l n="19">teliṅkañ cōṉakañ cīṉa mutalā</l>
+                    <l n="20">vitimuṟai tikaḻa vevvēṟu vakutta</l>
+                    <l n="21">mutunilakkiḻamaiyiṉ muṭipuṉai vēntark</l>
+                    <l n="22">korutaṉi nāyakaṉe<lb n="4" break="no"/>ṉṟulakēttat</l>
+                    <l n="23">tirumuṭi cūṭic ceṅkō lōccik</l>
+                    <l n="24">koṟṟat tāḷak kuḷir kuṭainiḻaṟ</l>
+                    <l n="25">kaṟṟaik kavari kāvalar vīca</l>
+                    <l n="26">miṭaikatir navamaṇi vīraciṅkātaṉattu</l>
+                    <l n="27"><supplied reason="subaudible">u</supplied>ṭaṉ muṭicūṭi yuyarkulat tiruveṉap</l>
+                    <l n="28">paṅkaya malarkaraṅ kuvittup pārttivar</l>
+                    <l n="29">paṅkaiyar tiraṇṭu vaṇaṅkuñ ceṉṉi</l>
+                    <l n="30">cuṭaroḷi mavuḷic cūṭāmaṇi micaic</l>
+                <l n="31"><lb n="5"/>civanta Iṇaimalarc cīraṭikkamala matukaraṅ</l>
+                <l n="32">kamalameṉṟaṇukum Ulakamuḻutuṭai</l>
+                <l n="33">yārōṭum vīṟṟiruntaruḷiya</l>
+                </lg>
+            
+                <hi rend="grantha">śrī</hi>-kō-māṟapaṉmar-āṉa tiripuvaṉa-c-cakkaravarttikaḷ <hi rend="grantha">śrī</hi> cuntara-pāṇṭiya-tēvarkku yāṇṭu nālāvatu nāḷ nūṟṟorupattaiñciṉāl 
+        </p>
+        <p>
+            maturōtaiya vaḷanāṭṭu māṭa-k kuḷa-k kīḻ maturai-k
+            <lb n="6"/>kōyil paḷḷi-y-aṟai-k kūṭattu-p paḷḷi-pīṭam maḻavarāyaṉil Eḻuntaruḷi Iruntu Uṭaiyār tiruvālavāy uṭaiyār kōyil patipātamūlappaṭṭuṭaiya pañcācāriyārkku miḻalai-k kūṟṟattu kīḻ-kūṟṟu taccaṉūr-u
+            <lb n="7" break="no"/>ṭaiyāṉ Aruḷāḷaṉ cēvaka-t tēvaṉāṉa pāṇātarāyaṉ kaṇṭa-cantikku tiruppaṭimāṟṟ' uḷḷiṭṭu vēṇṭu<supplied reason="subaudible">m</supplied> nivantaṅkaḷukkum 
+        </p>
+        <p>
+            Ālavāyuṭaiyārai mārkaḻi-t tirunāḷ tiruvempāvai cēvikkum paratēci-k-kōvaṇavarkku-p pōcaṉam uḷḷiṭṭu vēṇṭum avaiyiṟṟukkum
+        </p>
+        <p>
+             Ikkōyil tirukkāma
+            <lb n="8" break="no"/>kōṭṭtattu Āḷuṭaiya-nācciyār kōyil teṟkil vāṇātarāyaṉ tiruvācalil Uṭaiyār Eḻuntaruḷi cātārippaṇ kēṭṭaruḷa vēṇṭuvaṉvayiṟṟukkum 
+       </p>
+       <p>
+        Iv-vāṇātirāyaṉ kāṇiyāṉa veṇpai-k-kuṭinaṭṭu nampitāyanallūr nāṉkellai
+        <lb n="9" break="no"/>kku Uṭpaṭṭa nīr-nilamum kalañcey puṉceyum nattamum tōṭṭamum kuḷamum
+       </p>
+       <p>
+       kuḷappaṟippu muṉpaṭa nīr-nilamum kāraṇmai mīyaṭciyum Antarāyamum viṉiyōkamum taruvat-āṉa Accum kāriya-v-ārāycciyum veṭṭi-<supplied reason="omitted">p</supplied>-pāṭṭamum pañcu-<supplied reason="omitted">p</supplied>-pīli cantu vikkirama-p pēṟum E
+            <lb n="10" break="no"/>ppērppaṭṭaṉavum Uṭpaṭa nālāvatu mutal tēvatāṉa Iṟaiyili y-āka Iṭa-p peṟa vēṇum eṉṟu maḻavarāyaṉ namakku-c coṉṉamaiyil Ivv-uṭaiyāṟku Iv-vāṇātirāyaṉ cantikku tiruppaṭimāṟṟ' uḷḷiṭṭu vēṇṭum
+       </p>
+       <p>
+       nivantaṅkaḷukkum Ivv-uṭaiyār mārkaḻi-t
+        <lb n="11"/>tirunāḷil-t tiruvempāvai cēvikkum paratēcikkum kōvaṇaṟkum pōcaṉam uḷḷiṭṭu vēṇṭuvaṉavukkum
+       </p>
+       <p>
+           Ik-kōyil tirukkāma-k-kōṭṭattu Āḷuṭaiya-nācciyār kōyil teṟkil vāṇātirāyaṉ tiruvācalil Uṭaiyār Eḻuntaruḷi-c cātāripaṇ kēṭṭaruḷa vēṇtuvaṉavu
+            <lb n="12" break="no"/>kkum Iv-vāṇātirāyaṉ kāṇiyāṉa veṇpai-k-kuṭi-nāṭṭu nampitāyanallūr nāṉkellaikk' uṭpaṭṭa nīr-nilamum karuñcey puñceyum nattamum tōṭṭamuṅ kuḷamum kuḷapparippum Uṭpaṭṭa nilam kārāṇmai mīyāṭciyum Antārāyamum viṉiyōkamum taruvatāṉa Accum
+            <lb n="13"/>kāriya-v-ārāycciyum veṭṭi-p-pāṭṭamum pañcu-pīli cattu vikkiraka-p pēṟum maṟṟum Eppērppaṭṭaṉavum Uṭpaṭa Ivv-āṇṭu mutal tēvatāṉa Iṟaiyili y-āka Iṭṭamaikku Ivv-uṭaiyāṟku vāṇātirāyaṉ cantikku tiruppaṭimāṟṟ' uḷḷiṭṭu vēṇṭum nivantaṅkaḷukku
+            <lb n="14" break="no"/><surplus>kku</surplus>m 
+       </p>
+       <p>
+       Ivv-uṭaiyārai mārkaḻi-t tirunāḷ tiruvempāvai cēvikkum paratēci-k kōvaṇavaṟkum pōcaṉam uḷḷiṭṭu vēṇtuvaṉa vayiṟṟukkum Ik-kōyiṟ tirukkāma-k-kōṭṭattu Āḷuṭaiya-nācciyār kōyilil teṟkil vāṇātirāyaṉ tiruvācalil Uṭaiyār cātārippaṇ kēṭṭaruḷa vēṇ
+        <lb n="15" break="no"/>ṭuvaṉavukkum Iv-vāṇātirāyaṉ kāṇiyāṉa veṇpai-k-kuṭi-nāṭṭu nampitāyanallūr nāṉkellai Uṭpaṭa nīr-nilamum karuñcey puṉceyum nattamum tōṭṭamum kuḷamum kuḷa-p-parippum Uṭpaṭṭa nilam kārāṇmai mīyaṭci Antarāyamum viṉiyōkamum taruvatāṉa Accum kāriya-v-ārāycciyum veṭṭi-p-pāṭṭamu
+        <lb n="16" break="no"/>m pañcu-<supplied reason="omitted">p</supplied>-pīli cantu vikkiraka-p pēṟum maṟṟum Eppērpaṭṭaṉavum Uṭpaṭa Ivv-āṇṭu mutal tēvatāṉa Iṟaiyili y-āka-t tantōm eṉṟu tiruvāymoḻin
+        <lb n="17"/>taruḷiḷur              
+    </p> 
+                
+                
+            </div>
+            
+            <!-- <div type="apparatus">
+                <listApp>
+                
+                
+                <app loc="6">
+                <lem><supplied reason="lost">kāṇivilai</supplied></lem>
+                <note>Reading after ASI transcript.</note>
+                </app>
+                
+                </listApp>
+                
+                </div>-->
+            
+            <div type="translation" resp="part:reda">
+                
+                
+            </div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1943-1945"/></bibl> (ARIE/1938-1939/B/1938-1939/229).</p>
+                <p>First edited in <bibl><ptr target="bib:Vetacalam_1987"/></bibl></p>
+                <p>This edition by Renato Dávalos, based on previous editions. </p>
+               
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="Ve">
+                        <ptr target="bib:Vetacalam_1987"/>
+                        <citedRange unit="page">183-187</citedRange>
+                        <citedRange unit="item">2</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+               
+                        
+                    
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1943-1945"/>
+                        <citedRange unit="page">28</citedRange>
+                        <citedRange unit="item">192</citedRange>
+                        <citedRange unit="appendix">B/1943-1944</citedRange>
+                    </bibl> 
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
