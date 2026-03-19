@@ -87,18 +87,15 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <ab>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
-                </ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī svasti</hi>
+                </ab>               
                 
-                <p>
-                    <supplied reason="lost"><hi rend="grantha">śubham a</hi></supplied><hi rend="grantha">stu</hi>
-                </p>
                 <p>        
-                    <hi rend="grantha">samasta-jagadādhāra</hi>- <gap reason="lost" quantity="4" unit="character"></gap> -<hi rend="grantha">kula-tilaka-madhurā-puri</hi> Meykkīrtti continues in grantha script
-                    <lb n="2"/>...
-                    <lb n="3"/>… 
-                    <lb n="4"/>... 
-                    <lb n="5"/>... śrī-sundara-pāṇṭiya-<supplied reason="lost">tē</supplied>vaṟk=ku <supplied reason="lost">yāṇ</supplied><unclear>ṭu</unclear> <num value="15">1 <g type="numeral">10</g> 5</num> Āvatu puraṭṭ<unclear>ā</unclear>t<supplied reason="lost">i</supplied>-māttatu <hi rend="grantha">prabhā</hi>
+                    <hi rend="grantha">samasta-jagadādhāra <unclear>soma</unclear>-kula</hi>-ti<hi rend="grantha">laka madhurā-puri-mādha</hi>va <hi rend="grantha">keraḷa</hi>-va<hi rend="grantha">ṃśa</hi>-ni<hi rend="grantha">rmmū</hi>
+                    <lb n="2" break="no"/><hi rend="grantha">la</hi>na <hi rend="grantha">laṃkā-<supplied reason="lost">dvī</supplied>paluṇṭha</hi>na <hi rend="grantha">dvī</hi>tiya-<hi rend="grantha">rāma coḷa-kula śaila-kuliśa karṇṇāṭa-rāja</hi>-vi<hi rend="grantha">drā</hi>vaṇa<hi rend="grantha"> kā</hi>ṟ<hi rend="grantha">kakarikūṭhaṃ pākala</hi>
+                    <lb n="3"/>vivi<hi rend="grantha">dha-ri<unclear>pu</unclear>-durgga-ma<unclear>r</unclear>dda</hi>na vī<hi rend="grantha">ra-kaṇṭha gopāla</hi>-vi<hi rend="grantha">pulala-dā</hi>va<hi rend="grantha">daha</hi>na<hi rend="grantha"> kāñcīpura</hi>-va<hi rend="grantha">rādhīśvara ga</hi>ṇa<hi rend="grantha">pa</hi>ti-<hi rend="grantha">hari</hi>ṇa<hi rend="grantha">śārdūla</hi>
+                    <lb n="4"/>ne<hi rend="grantha">llūra-p<unclear>ura</unclear></hi> vi<hi rend="grantha">raci</hi>ta-vī<hi rend="grantha">rābhiṣeka pra</hi>ṇata<unclear>-<hi rend="grantha">rāja-pra</hi></unclear>ti<hi rend="grantha">ṣṭhāpaka mahārājādhirāja parame<unclear>śva</unclear>ra</hi> kōccaṭapaṉma
+                    <lb n="5"/><unclear>rāṉa</unclear> <hi rend="grantha">tribhu</hi>vaṉa<hi rend="grantha">ścakra</hi>vat=ti<hi rend="grantha">ka</hi>ḷ <hi rend="grantha">śrī</hi>-sundara-pāṇṭiya-<supplied reason="lost">tē</supplied>vaṟk=ku <supplied reason="lost">yāṇ</supplied><unclear>ṭu</unclear> <num value="15">1 <g type="numeral">10</g> 5</num> Āvatu puraṭṭ<unclear>ā</unclear>t<supplied reason="lost">i</supplied>-māttatu <hi rend="grantha">prabhā</hi>
                     <lb n="6"/><choice><orig><unclear>t</unclear></orig><reg><unclear>ta</unclear><gap reason="illegible" quantity="1" unit="character"/></reg></choice>n=te ta<unclear>ru</unclear>ḷiya tirumuka-p-paṭ<supplied reason="lost">i</supplied> y-aruḷi-c ceyal nallūr-uṭaiyār nalla ṉāyaṉār kōyil tāṉattāṟā
                     <lb n="7" break="no"/>na <unclear>na</unclear>mmuṭaiya pērāl patiṉaṉā cāvatu mutal kaṭṭiṉa cantikkum tai-t tiruṉāḷukkum Uṭal āka Iṉṉāya 
                     <lb n="8" break="no"/>ṉār tiruṉāmattukkāṇi tēvatānam āka nallūr naṉcey-puṉceyum kācāya vaṟkamum Uḷḷiṭṭa <gap reason="lost" unit="character" quantity="3"/>
@@ -129,7 +126,7 @@
             <div type="translation" resp="part:reda part:emfr">
                 
                 <p n="1"> 		
-                    Prosperity! Fortune!
+                    Prosperity! Fortune! Prosperity! 
                 </p>
                 
                 <p>
