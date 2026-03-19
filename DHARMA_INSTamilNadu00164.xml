@@ -44,11 +44,11 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>On the south wall of the <foreign>maṇḍapa</foreign> in front of the central shrine.</summary>
+                        <summary>Nañcamutu Ceytāṉ, landowner <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> of Mūlaṅku, set up an endowment for the Tiruvatirai festival (carry out during month of Mārkaḻi) in which the Lord who rules over Tiruvātavūr <supplied reason="explanation"><foreign>tiruvātavūr āḷi nāyaṉārkku</foreign>, most probably Māṇikkavācakar</supplied> is taken out in procession as he listens to the <title>tiruvempāvai</title>. The endowment is also used to cover for items that were used during the Paṅkuni month festival. The </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p>On paleaographical grounds, this record may be assigned to the twelfth century, as already suggested in <ptr target="bib:Swaminathan1998_01"/>. The image reproduced in the publication which is confirmed by the published facsimile.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -136,6 +136,9 @@
                     
                     <bibl n="EI">
                         <ptr target="bib:Swaminathan1998_01"/>
+                        <citedRange unit="page">293-298</citedRange>
+                        <citedRange unit="item">64.B</citedRange>
+                        
                     </bibl>
                     
                     <bibl n="SII">
@@ -160,3 +163,4 @@
         </body>
     </text>
 </TEI>
+<!--On the south wall of the <foreign>maṇḍapa</foreign> in front of the central shrine.-->
