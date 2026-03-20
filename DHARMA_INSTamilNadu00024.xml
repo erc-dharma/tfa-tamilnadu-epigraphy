@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāppalūr, Tirukkāmēśvara, pillar, time of Parakesarivarman, year 5</title>
+                <title>Kāppalūr, Tirukkāmēśvara temple, pillar, time of Parakesarivarman, year 5</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -109,7 +109,7 @@
                     <lb n="14"/>Ar<hi rend="grantha">ai</hi>ye Oru mā nilamu
                     <lb n="15" break="no"/>m vilai-<hi rend="grantha">dravya</hi>mum Iṟai
                     <lb n="16" break="no"/>-<hi rend="grantha">travya</hi>mum Aṟa-k-koṇṭu
-                    <lb n="17" break="no"/><seg rend="check"><gap reason="lost" quantity="2" unit="character"/> āle <hi rend="grantha">vai</hi></seg> ceytu kuṭu
+                    <lb n="17"/><seg rend="check"><gap reason="illegible" quantity="4" unit="character"/></seg> ceytu kuṭu
                     <lb n="18" break="no"/>ttōm <hi rend="grantha">sabhai</hi>yōmum</p>
                 <p>
                     <lb n="19"/>muṟ-colla-paṭṭa <seg rend="check"><g type="dashDouble"/></seg> māyila

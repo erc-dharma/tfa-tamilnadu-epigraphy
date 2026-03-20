@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Śrīvañciyam, Śrīvāñjināthēśvara temple, time of Kulottuṅga III, year 25</title>
+                <title>Śrīvañciyam, Śrīvāñjināthēśvara temple, time of Kulottuṅga Cōḻa, year 25</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -48,7 +48,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Badly damaged. Continuation of lines lost. Seems to record an endowment for those who recite <supplied reason="explanation"><foreign>uraittār</foreign></supplied> the glory <supplied reason="explanation"><foreign>cīr</foreign></supplied> of the three holy saints  <supplied reason="explanation"><foreign>mūṉṟukkum tiruttoṇṭar</foreign></supplied>.</summary> 
+                        <summary>Badly damaged. Continuation of lines lost. Seems to record an endowment for those who recite (<foreign>uraittār</foreign>) the glory (<foreign>cīr</foreign>) of the three holy devotees (<foreign>mūṉṟukkum tiruttoṇṭar</foreign>). Time of Kulottuṅga III Cōḻa (r. 1178-1216).</summary> 
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -119,14 +119,14 @@
                     <app loc="2">
                         <lem>ku<supplied reason="lost">lo<!--kompu clear-->ttuṅ</supplied></lem>    
                         <note>Reading after ASI transcript.</note>  
-                    </app>
-                    <app loc="2">
-                        <lem>A<unclear>ṇu</unclear>pāyaṉ</lem>
-                        <rdg source="bib:ARIE1938-1939">Aṉapāyaṉ</rdg>
-                    </app>
+                    </app>                   
                     <app loc="3">
                         <lem><supplied reason="lost">kuma</supplied><gap reason="lost" quantity="4" unit="character"></gap></lem>
                         <note>Reading after ASI transcript.</note>
+                    </app>
+                    <app loc="3">
+                        <lem>A<unclear>ṇu</unclear>pāyaṉ</lem>
+                        <rdg source="bib:ARIE1938-1939">Aṉapāyaṉ</rdg>
                     </app>
                     <app loc="3">
                         <lem><supplied reason="lost">l tirukkāma-k ko</supplied> <gap reason="lost" quantity="5" unit="character"></gap></lem>
@@ -159,10 +159,11 @@
             
             <div type="translation" resp="part:reda">
                 
-               
+                
             </div>
             
             <div type="commentary">
+                <p>There might also be several character lost at the beginning of all lines.</p>
                 <p n="4">The ARIE identifies <foreign>tiruttoṇṭar cīruraittār</foreign> with Māṇikkavācakar. We have not yet found any textual nor epigraphical evidence for this identification. This phrase could refer to the reciter(s) (<foreign>uraittār</foreign>) of the glory (<foreign>cīr</foreign>) of the holy devotees (<foreign>tiruttoṇṭar</foreign>).</p>
             </div>
             

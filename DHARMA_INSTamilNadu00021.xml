@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāppalūr, Tirukkāmēśvara, pillar, no king, no year</title>
+                <title>Kāppalūr, Tirukkāmēśvara temple, pillar, no king, no year</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -98,7 +98,7 @@
                     <lb n="9"/>na<supplied reason="omitted">n</supplied>tā-viḷa
                     <lb n="10" break="no"/>kku vait
                     <lb n="11" break="no"/>t <gap reason="lost" extent="unknown" unit="character"/>
-                    <gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
+                    
                 </p>
                 
             </div>
@@ -135,6 +135,7 @@
                 <p>On the bottom square portions of the same two pillars which also bear <ref target="DHARMA_INSTamilNadu00020">INSTamilNadu00020</ref> on their top square and middle octagonal portions.</p>
                 
                 <p>Thus possibly, even probably, same date as <ref target="DHARMA_INSTamilNadu00020">INSTamilNadu00020</ref>.</p>
+                <p>More lines are possibly lost after line 11.</p>
             </div>
             
             <div type="bibliography">
