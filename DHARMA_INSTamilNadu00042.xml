@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, time of Kōnērimmaikoṇṭāṉ Tribh. Rājagaja-kēsari Kulasekhara king, no year</title>
+                <title>Nallūr, Vilvāraṇyeśvara temple, time of Kulaśekhara king, year 14</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -43,8 +43,10 @@
                         <repository>DHARMAbase</repository>
                         <idno/>
                     </msIdentifier>
-                    <msContents>
-                        <summary>Records a similar royal order issued to the <foreign>tānattār</foreign> of the temple making a tax-free gift of the village Vaṇṇāttūr in the proportion of three shares to one for the expenses of a festival called after prince Sundara-Pāṇḍya and of a service in the name of the king and for the worship of the images of Vīra-pāṇḍīśvaram-uṭaiya-Nāyaṉār and Dēśamikka-Perumāṇāc-ciyār consecrated by the same prince in the temple Sundara-Pāṇḍya is called in the inscriptions Ubhaiyadaḷa-kumāraśārdūla.</summary>
+                    <msContents>                        
+                        <summary>
+                            <p>On the south wall of the <foreign>mukhamaṇḍapa</foreign>, left of the door, bottom of the wall.</p>
+                            <p><ptr target="bib:ARIE1939-1943"/> (standardised): <quote>Records a similar royal order issued to the <foreign>tānattār</foreign> of the temple making a tax-free gift of the village Vaṇṇāttūr in the proportion of three shares to one for the expenses of a festival called after prince Sundara-Pāṇḍya and of a service in the name of the king and for the worship of the images of Vīra-pāṇḍīśvaram-uṭaiya-Nāyaṉār and Dēśamikka-Perumāṇāc-ciyār consecrated by the same prince in the temple Sundara-Pāṇḍya is called in the inscriptions Ubhaiyadaḷa-kumāraśārdūla.</quote></p></summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -87,31 +89,31 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <ab>
-                    <lb n="1"/><hi rend="grantha">svas<supplied reason="lost">ti</supplied> śrī</hi>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
                 <p>
-                    kōṉerimmai-koṇṭāṉ <hi rend="grantha">tribhu</hi>vana-<hi rend="grantha"><unclear>c-ca</unclear></hi><supplied reason="lost"><hi rend="grantha">kra</hi>va</supplied><supplied reason="omitted">r</supplied>t=ti <gap reason="lost" quantity="1" unit="character"/> <hi rend="grantha"><unclear>rāja-gaja</unclear></hi>-<hi rend="grantha">kesar<supplied reason="lost">i</supplied>-<supplied reason="lost">ku</supplied><unclear>la</unclear>sekhara-de</hi>vaṟku yāṇṭu
-                    <lb n="2"/><num value="14"><g type="numeral">10</g><unclear>4</unclear></num>-Ā<supplied reason="lost">vatu</supplied> tulā-nāyaṟṟu pūrvva-pakṣat=tu nāyāṟṟu-k-kiḻamai<supplied reason="lost">yu</supplied><unclear>m</unclear> pañcamiyum pe<supplied reason="lost">ṟ</supplied>ṟa mūlattu nāḷ
+                    kōṉerimmai-koṇṭāṉ <hi rend="grantha">tribhu</hi>vana-<hi rend="grantha"><unclear>c-cakra</unclear></hi><supplied reason="lost">va</supplied><unclear>t=ti</unclear><supplied reason="lost">ka</supplied>ḷ <hi rend="grantha">rāja-gaja</hi>-<hi rend="grantha">kesar<supplied reason="lost">i</supplied>-<supplied reason="lost">ku</supplied><unclear>la</unclear>śekhara-de</hi>vaṟku yāṇṭu
+                    <lb n="2"/><num value="14"><g type="numeral">10</g> 4</num>-Ā<supplied reason="lost">vatu</supplied> <hi rend="grantha">tulā</hi>-nāyaṟṟu <hi rend="grantha">pūrvva-pakṣat=tu</hi> nāyāṟṟu-k-kiḻamai<supplied reason="lost">yu</supplied><unclear>m</unclear> pañcamiyum pe<supplied reason="lost">ṟ</supplied>ṟa mūlattu nāḷ
                 </p>
                 
                 <p>        
-                    Aruḷi-c ceya<unclear>l</unclear> nal
-                    <lb n="3" break="no"/>lū<supplied reason="lost">r -u</supplied>ṭaiyār nalla nāyaṉār kōyil-t tāṉattārkku paruvū<supplied reason="lost">r</supplied>-kūṟṟattu-c cāttiyat <gap reason="lost" quantity="1" unit="character"></gap>-p-paṟṟil vaṇṇātṭūr nāṉk’ e
-                    <lb n="4" break="no"/><supplied reason="lost">llaiyi</supplied><unclear>l</unclear>-k kaṭa-p-paṭṭa naṉ-cey puṉ-ceykaḷum karai-p-puṉ-cey Ūr-c cūḻnta ṉattamum Iṉ-ṉilaṅkaḷil nell<unclear>u</unclear>-<unclear>v āka</unclear> -<supplied reason="lost">e</supplied>
-                    <lb n="5"/>ke<choice><unclear>ḻ</unclear><unclear>ḻa</unclear></choice>-v āku vāḻai vaḻutalai koḻuntum <gap reason="lost" quantity="1" unit="character"></gap> ppa rai karumpu kamuku teṉ … ṭalai <gap reason="lost" quantity="2" unit="character"></gap> <unclear>ṭu</unclear><supplied reason="lost">m</supplied> I<supplied reason="lost">ṉ</supplied>-ṉ<supplied reason="lost">i</supplied>latt …
-                    <lb n="6" break="no"/>ṭamai kāṇikkai ṉattavari puṟamutal <gap reason="lost" quantity="1" unit="character"></gap>ḷum Ācu-potu-makkaḷ poka <gap reason="lost" quantity="1" unit="character"></gap> ṭamaikaḷum māvaṭai maravaṭai kuḷavaṭai
-                    <lb n="7"/>Eri-mīṉpāṭṭam ta<supplied reason="lost">ṟi</supplied>-y-iṟai kaṭṭ’ iṟai taṭa<supplied reason="lost">c</supplied>olitaṭṭāppāṭṭam cekk-iṟai ceṭṭiṟai makaṇmai Āyam nall-erutu naṟ
-                    <lb n="8"/>pacu koṇikai kavantikai <gap reason="lost" quantity="1" unit="character"></gap> <unclear cert="low">ñca</unclear>pili(ta) <gap reason="lost" quantity="2" unit="character"></gap> vikki<choice><unclear>ṟa</unclear><unclear>ṟ</unclear></choice> kap peṟu Āṉai-c-cā<unclear>l</unclear>ai kutirai-p-panti veṭṭi-t tēvaikaḷum Uḷḷiṭṭa
-                    <lb n="9"/>cakala-pōkikaḷum Uṭpaṭa <unclear cert="low">vāṇa</unclear> … t<supplied reason="lost">[V]</supplied> vakāṉam nīkki <unclear>ta</unclear>ṭi ṉīṅkā tēvatāṉam mutal aṭaṅka Iṟai-y-ili-y-āka I
-                    <lb n="10" break="no"/><unclear>v</unclear>- … <supplied reason="lost">sundara</supplied>-pāṇḍyan· t<unclear>iru</unclear>-<gap reason="lost" quantity="2" unit="character"></gap> <unclear>ṭukku maṉ</unclear> <gap reason="lost" quantity="2" unit="character"></gap> pārall kaṭṭa<unclear>ṉ</unclear>…
-                    <lb n="11"/>mukkū <gap reason="lost" quantity="1" unit="character"></gap> m Iṉ-ṉāyaṉār kōyilil cunta<supplied reason="lost">ra</supplied>-<unclear>p</unclear>āṇṭiya-tēvar Eḻunt-aruḷ<unclear>a</unclear> <supplied reason="lost">vi</supplied>tta vīra-pāṇṭīśvaram-uṭaiya nāyaṉār
-                    <lb n="12"/>kkum I<choice><orig>ṉ</orig><reg>n</reg></choice>-nācciyār tēcamikka-perumāṉācciyārkkum nāl-t toṉṟum <unclear>āka</unclear> mutal aṭaṅka Iṟai-y-ili-y-āka-k kuṭuttu <gap reason="lost" quantity="2" unit="character"></gap> riyi
-                    <lb n="13"/><unclear>l</unclear>ār k <gap reason="lost" quantity="2" unit="character"></gap> <unclear>k</unclear>kilum kaḻikka-c coṉṉōm
+                    Aruḷi-c ceyal nal
+                    <lb n="3" break="no"/>lū<supplied reason="lost">r -u</supplied>ṭaiyār nalla nāyaṉār kōyil-t tāṉattārkku paruvū<supplied reason="lost">r</supplied>-kūṟṟattu-c cāttiyak<supplied reason="lost">ku</supplied>-p paṟṟil vaṇṇātṭūr nāṉk’ e
+                    <lb n="4" break="no"/>llaikk’ uṭ-paṭṭa naṉ-cey-puṉ-ceykaḷum karai-p-puṉ-cey Ūr-c cūḻnta <choice><orig>ṉ</orig><reg>n</reg></choice>attamum Iṉ-ṉilaṅkaḷil nell<unclear>u</unclear> v<unclear>ā</unclear>ku ⌈
+                    <lb n="5"/>keḻ vāku vāḻai vaḻutalai koḻuntum māppalā karumpu kamuku teṉṉa <gap reason="illegible" quantity="4" unit="character"/> <unclear>ḷḷi</unclear>ṭṭa taṇṭalaikaḷum Iṉṉilattāl varum ka                    
+                    <lb n="6" break="no"/>ṭamai kāṇikkai <choice><orig>ṉ</orig><reg>n</reg></choice>attavari puṟamutal kḷum Ācu-potu-makkaḷ pēr-k-kaṭamaikaḷum māvaṭai maravaṭai kuḷavaṭai
+                    <lb n="7"/>Eri-mīṉpāṭṭam taṟi-y-iṟai kaṭṭ-iṟai taṭṭoli taṭṭā-p-pāṭṭam cekk-iṟai ceṭṭ-iṟai makaṇmai Āyam nall-erutu naṟ
+                    <lb n="8"/>pacu koṇikai kavantikai pañcu pili cantu vikkiṟaka-p-peṟu Āṉai-c-cālai kutirai-p-panti veṭṭi-t tēvaikaḷum Uḷḷiṭṭa
+                    <lb n="9"/>cakala-Upātikaḷum Uṭpaṭa Uḷḷūr-nāyaṉār tēvatāṉam nīkki kuṭi ṉīṅkā tēvatāṉam mutal aṭaṅka Iṟai-y-ili-y-āka Iv
+                    <lb n="10" break="no"/><unclear>vāṭṭai</unclear> <unclear>Ai</unclear>ppāc<unclear>i</unclear>-mātam muta<unclear>l</unclear> U<hi rend="grantha">bhai</hi>ya<unclear>-taḷa-kumāra-<hi rend="grantha">śar</hi></unclear><hi rend="grantha"><unclear>dūla</unclear>-sundara-pāṇḍyaN</hi> ti<supplied reason="lost">ru-nā</supplied>ḷukku maṉam pērāl kaṭṭ<unclear>iṉa cantikkum</unclear>
+                    <lb n="11"/>mukkūṟum Iṉ-ṉāyaṉār kōyilil cunta<supplied reason="lost">ra</supplied>-<unclear>p</unclear>āṇṭiya-tēvar Eḻunt-aruḷ<unclear>u</unclear><supplied reason="lost">vi</supplied>tta vīra-pāṇṭīśvaram-uṭaiya nāyaṉār
+                    <lb n="12"/>kkum I<unclear>vaḷ</unclear> nācciyār tēcamikka-perumāṉācciyārkkum nāl-t toṉṟum <unclear>āka</unclear> mutal aṭaṅka Iṟai-y-ili-y-āka-k kuṭuttu <unclear>va</unclear>riyi
+                    <lb n="13"/>lār kaṇakkilum kaḻikka-c coṉṉōm
                 </p>
                 <p>
-                    <supplied reason="lost">I</supplied>ppaṭi <hi rend="grantha">candrāditya</hi>va<hi rend="grantha">t·</hi> cella kallilu<unclear>m</unclear> cempilum veṭṭi Atu palippatu paṉm<supplied reason="lost">ā</supplied><hi rend="grantha">he</hi>
-                    <lb n="14" break="no"/><hi rend="grantha">śvara</hi><unclear>r</unclear> <unclear>I</unclear><supplied reason="lost">rakṣai</supplied>        
+                    <supplied reason="lost">I</supplied>ppaṭi <hi rend="grantha">candrāditya</hi>va<hi rend="grantha">T</hi> cella kallilu<unclear>m</unclear> cempilum veṭṭi Atu palippatu paṉm<supplied reason="lost">ā</supplied><hi rend="grantha">he</hi>
+                    <lb n="14" break="no"/><hi rend="grantha">śvara-rakṣai</hi>     
                 </p>
                 
             </div>
@@ -147,8 +149,9 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/156).</p>
-                <p>This edition by Renato Davalos and Emmanuel Francis (2024), based on photos (E. Francis, 2024).</p>
-                <p>ASI transcript and estampage, if any, yet to be consulted.</p>
+                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy (2024, 2025, 2026), photos (E. Francis, 2024; R. Dávalos 2026).</p>
+                <p>ASI transcript consulted in Mysore in January 2026 by Renato Dávalos, with the kind authorisation of the Director of Epigraphy.</p>
+                <p>ASI estampage, if any, yet to be consulted.</p>
                 
                 <!--<listBibl type="primary">
                     
