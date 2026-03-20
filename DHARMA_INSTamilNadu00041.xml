@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, time of Jaṭāvarman Tribh. Sundara-Pāṇḍya king, year 15</title>
+                <title>Nallūr, Vilvāraṇyeśvara, time of Sundara Pāṇḍya, year 15</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -44,7 +44,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Begins with the historical introduction <foreign>Samastajagadādhāra</foreign>, etc. Records a royal order making a tax-free <foreign>dēvadāna</foreign> endowment of the village Nallūr to the temple of Nalla-Nāyaṉār for the maintenance of a service in the name of the king and for the <supplied reason="subaudible">expenses of</supplied> the festival in the month of Tai.</summary>
+                        <summary>
+                            <p>On the south wall of the <foreign>mukhamaṇḍapa</foreign>, left of the door, top of the wall.</p>
+                            <p><ptr target="bib:ARIE1939-1943"/> (standardised): <quote>Begins with the historical introduction <foreign>samastajagadādhāra</foreign>, etc. Records a royal order making a tax-free <foreign>dēvadāna</foreign> endowment of the village Nallūr to the temple of Nalla-Nāyaṉār for the maintenance of a service in the name of the king and for the (expenses of the) festival in the month of Tai.</quote></p>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -91,24 +94,30 @@
                 </ab>               
                 
                 <p>        
-                    <hi rend="grantha">samasta-jagadādhāra <unclear>soma</unclear>-kula</hi>-ti<hi rend="grantha">laka madhurā-puri-mādha</hi>va <hi rend="grantha">keraḷa</hi>-va<hi rend="grantha">ṃśa</hi>-ni<hi rend="grantha">rmmū</hi>
-                    <lb n="2" break="no"/><hi rend="grantha">la</hi>na <hi rend="grantha">laṃkā-<supplied reason="lost">dvī</supplied>paluṇṭha</hi>na <hi rend="grantha">dvī</hi>tiya-<hi rend="grantha">rāma coḷa-kula śaila-kuliśa karṇṇāṭa-rāja</hi>-vi<hi rend="grantha">drā</hi>vaṇa<hi rend="grantha"> kāṭakakarikūṭhaṃ pākala</hi>
-                    <lb n="3"/>vivi<hi rend="grantha">dha-ri<unclear>pu</unclear>-durgga-ma<unclear>r</unclear>dda</hi>na vī<hi rend="grantha">ra-kaṇṭha gopāla</hi>-vi<hi rend="grantha">pulala-dā</hi>va<hi rend="grantha">daha</hi>na<hi rend="grantha"> kāñcīpura</hi>-va<hi rend="grantha">rādhīśvara ga</hi>ṇa<hi rend="grantha">pa</hi>ti-<hi rend="grantha">hari</hi>ṇa<hi rend="grantha">śārdūla</hi>
-                    <lb n="4"/>ne<hi rend="grantha">llūra-p<unclear>ura</unclear></hi> vi<hi rend="grantha">raci</hi>ta-vī<hi rend="grantha">rābhiṣeka pra</hi>ṇata<unclear>-<hi rend="grantha">rāja-pra</hi></unclear>ti<hi rend="grantha">ṣṭhāpaka mahārājādhirāja parame<unclear>śva</unclear>ra</hi> kōccaṭapaṉma
-                    <lb n="5"/><unclear>rāṉa</unclear> <hi rend="grantha">tribhu</hi>vaṉa<hi rend="grantha">ścakra</hi>vat=ti<hi rend="grantha">ka</hi>ḷ <hi rend="grantha">śrī</hi>-sundara-pāṇṭiya-<supplied reason="lost">tē</supplied>vaṟk=ku <supplied reason="lost">yāṇ</supplied><unclear>ṭu</unclear> <num value="15">1 <g type="numeral">10</g> 5</num> Āvatu puraṭṭ<unclear>ā</unclear>t<supplied reason="lost">i</supplied>-māttatu <hi rend="grantha">prabhā</hi>
-                    <lb n="6"/><choice><orig><unclear>t</unclear></orig><reg><unclear>ta</unclear><gap reason="illegible" quantity="1" unit="character"/></reg></choice>n=te ta<unclear>ru</unclear>ḷiya tirumuka-p-paṭ<supplied reason="lost">i</supplied> y-aruḷi-c ceyal nallūr-uṭaiyār nalla ṉāyaṉār kōyil tāṉattāṟā
-                    <lb n="7" break="no"/>na <unclear>na</unclear>mmuṭaiya pērāl patiṉaṉā cāvatu mutal kaṭṭiṉa cantikkum tai-t tiruṉāḷukkum Uṭal āka Iṉṉāya 
-                    <lb n="8" break="no"/>ṉār tiruṉāmattukkāṇi tēvatānam āka nallūr naṉcey-puṉceyum kācāya vaṟkamum Uḷḷiṭṭa <gap reason="lost" unit="character" quantity="3"/>
-                    <lb n="9" break="no"/>ṉaittu vaṟkamum mutal aṭanki <supplied reason="lost">I</supplied>ṟai-y-ili-y-āka patiṉ aiñcāvatu mutal tana<supplied reason="omitted">t</supplied>tōm Ippa<supplied reason="lost">ṭi</supplied>kku
-                    <lb n="10"/>Ivv-ōlai muṭipāṭ’ āka-k ko<unclear>ṇ</unclear>ṭu kalliluñ cempilum veṭṭi-<supplied reason="lost">k</supplied> koḷka 
+                    <hi rend="grantha">samasta-jagadādhāra <unclear>soma</unclear>-kula</hi>-ti<hi rend="grantha">laka madhurā-puri-mādha</hi>va <hi rend="grantha">keraḷa</hi>-va<hi rend="grantha">ṃśa</hi>-ni<hi rend="grantha"><unclear>r</unclear>mmū</hi>
+                    <lb n="2" break="no"/><hi rend="grantha">la</hi>na <hi rend="grantha">laṃkā-<supplied reason="lost">dvī</supplied>paluṇṭha</hi>na <hi rend="grantha">dv<unclear>ī</unclear></hi>tiya-<hi rend="grantha">rāma coḷa-kula śaila-kul<unclear>ī</unclear>śa ka<unclear>r</unclear>ṇṇāṭa-rāja</hi>-vi<hi rend="grantha">drā</hi>vaṇa<hi rend="grantha"> kāṭaka-karikū<choice><sic>ṭh</sic><corr>ṭ</corr></choice>aṃ pākala</hi>
+                    <lb n="3"/>vivi<hi rend="grantha">dha-ri<unclear>pu</unclear>-durgga-ma<unclear>r</unclear>dda</hi>na vī<hi rend="grantha">ra-kaṇṭha gopāla</hi>-<supplied reason="lost">vi</supplied><hi rend="grantha">pula-dā</hi>va<hi rend="grantha">daha</hi>na<hi rend="grantha"> kāñcīpura</hi>-va<hi rend="grantha">rādhīśvara ga</hi>ṇa<hi rend="grantha">pa</hi>ti-<hi rend="grantha">hari</hi>ṇa-<hi rend="grantha">śārdūla</hi>
+                    <lb n="4"/>ne<hi rend="grantha">llūra-p<unclear>ura</unclear></hi> vi<hi rend="grantha">raci</hi>ta-vī<hi rend="grantha">rābhiṣeka pra</hi>ṇata-<hi rend="grantha"><unclear>rāja-pra</unclear></hi>ti<hi rend="grantha">ṣṭhāpaka mahārājādhirāja parame<unclear>śva</unclear>ra</hi> kōccaṭapaṉma
+                    <lb n="5" break="no"/><unclear>r-āṉa</unclear> <hi rend="grantha">tribhu</hi>vaṉa-<hi rend="grantha">ścakra</hi>vat=ti<hi rend="grantha">ka</hi>ḷ <hi rend="grantha">śrī</hi>-sundara-pāṇṭiya-tēvaṟk=ku yāṇ<unclear>ṭu</unclear> <num value="15"><g type="numeral">10</g> 5</num> Āvatu
                 </p>
                 <p>
-                    Ivai cuntara-pā<unclear>ṇ</unclear>ṭi
-                    <lb n="11" break="no"/><unclear>ya</unclear>-viḻupparaiyaṉ Eḻuttu
-                    </p>
+                    puraṭṭ<unclear>ā</unclear>t<supplied reason="lost">i</supplied>-mātattu <hi rend="grantha">pras<unclear>ā</unclear></hi>
+                    <lb n="6" break="no"/><hi rend="grantha">da</hi>ñ cetaruḷiya tiru-muka-p-paṭ<supplied reason="lost">i</supplied> y-aruḷi-c ceyal nallūr-uṭaiyār nalla ṉāyaṉār kōyil tāṉattāṟ-ā
+                    <lb n="7" break="no"/><unclear>na</unclear> nammuṭaiya pērāl patiṉañc-āvatu mutal kaṭṭiṉa cantikkum tai-t-tiru-ṉāḷukkum Uṭal āka Iṉṉāya 
+                    <lb n="8" break="no"/>ṉār tiru-ṉāmattu-k-kāṇi tēvatānam-āṉa nallūr naṉcey-puṉceyum kācāya vaṟkamum Uḷḷiṭṭa A
+                    <lb n="9" break="no"/>ṉaittu vaṟkamum mutal aṭanka Iṟai-y-ili-y-āka patiṉ aiñcāvatu mutal tantōm
+                </p>
                 <p>
-                    Itu paṉmāheśvara-rakṣai <g type="pcl"/>
-</p>
+                    Ippaṭikku
+                    <lb n="10"/>Ivv-ōlai muṭipāṭ’ āka-k koṇṭu kalliluñ cempilum veṭṭi-k koḷka 
+                </p>
+                <p>
+                    Ivai cuntara-pāṇṭi
+                    <lb n="11" break="no"/><unclear>ya</unclear>-viḻupparaiyaṉ Eḻuttu
+                </p>
+                <p>
+                    Itu paṉ<hi rend="grantha">māheśvara-rakṣai</hi> <g type="pc">.</g>
+                </p>
             </div>
             
             <!--<div type="apparatus">
@@ -142,7 +151,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1939-1943"/></bibl> (ARIE/1939-1943/B/1940-1941/155).</p>
-                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy (2024), photos (E. Francis, 2024), ASI transcript kindly supplied by the Director of Epigraphy in Mysore (2025).</p>
+                <p>This edition by Renato Dávalos and Emmanuel Francis, based on autopsy (2024, 2025, 2026), photos (E. Francis, 2024; R. Davalos 2026), ASI transcript kindly supplied by the Director of Epigraphy in Mysore (2025).</p>
                 
                 <!--<listBibl type="primary">
                     
