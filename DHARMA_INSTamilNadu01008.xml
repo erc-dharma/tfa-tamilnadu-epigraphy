@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+@ Audrey : le numéro de figure doit être mis à jour en fonction du rang de l’article dans le volume.<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
@@ -161,8 +161,8 @@
                         <lb n="4v2=80" break="no"/>rtthi-jana-kalpapādapena śailendra-vaṃśa-saMbhūtena śrīviṣayādhipati
                         <lb n="4v3=81" break="no"/>nā kaṭāhādhipatyam ātanvatā makara-ddhvajenādhigata-sakal<del>ā</del><add place="unspecified">a</add>-rāja-vidyasya cūḷā
                         <lb n="4v4=82" break="no"/>-maṇi-varmmaṇaḥ putreṇa śrī-māra-vijayottuṃga-varmmaṇā sva-pitur nnāmā nirmmāpitam adha
-                        <lb n="4v5=83" break="no"/>rīkṛta-kanaka-gir<choice><sic>ī</sic><corr>i</corr></choice>-samunnati-vibhavam atiramaṇīyañ cūḷā-maṇi-varmma-vihāram-adhiva
-                        <lb n="4v6=84" break="no"/> sate buddhāya tasminn eva janapada-nivahe <seg rendition="class:tamil maturity:vernacular">paṭṭaṉa-k-kūṟṟa</seg>-nāmni janapa
+                        <lb n="4v5=83" break="no"/>rīkṛta-kanaka-gir<choice><sic>ī</sic><corr>i</corr></choice>-samunnati-vibhavam atiramaṇīyañ cūḷā-maṇi-varmma-vihāram adhiva
+                        <lb n="4v6=84" break="no"/>sate buddhāya tasminn eva janapada-nivahe <seg rendition="class:tamil maturity:vernacular">paṭṭaṉa-k-kūṟṟa</seg>-nāmni janapa
                         <lb n="4v7=85" break="no"/>de kariṇī-parikramaṇa-vispaṣṭa-sīmā-catuṣṭayam aṉaimaṃgal-ābhi
                         <lb n="4v8=86" break="no"/>dhānaṃ grāmam adāt· <g type="ddanda">.</g>
                     </p>
@@ -193,7 +193,7 @@
                         <l n="b">nivāsa-bhūmi<unclear>r</unclear> mmahita-pra
                             <pb n="5r" break="no"/>                
                             <lb n="5r1=91" break="no"/>bhāvaḥ</l>
-                        <l n="c">Āgāminaḥ prārtthayate narendrān</l>
+                        <l n="c">Āgāminaḥ prārtthayate narendrān·</l>
                         <l n="d">dharmmaṃ sad emam mama rakṣat-eti <g type="ddanda">.</g></l>
                     </lg>
                     
