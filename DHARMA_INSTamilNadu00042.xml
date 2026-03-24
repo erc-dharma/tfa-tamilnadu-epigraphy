@@ -44,9 +44,8 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>                        
-                        <summary>
-                            <p>On the south wall of the <foreign>mukhamaṇḍapa</foreign>, left of the door, bottom of the wall.</p>
-                            <p><ptr target="bib:ARIE1939-1943"/> (standardised): <quote>Records a similar royal order issued to the <foreign>tānattār</foreign> of the temple making a tax-free gift of the village Vaṇṇāttūr in the proportion of three shares to one for the expenses of a festival called after prince Sundara-Pāṇḍya and of a service in the name of the king and for the worship of the images of Vīra-pāṇḍīśvaram-uṭaiya-Nāyaṉār and Dēśamikka-Perumāṇāc-ciyār consecrated by the same prince in the temple Sundara-Pāṇḍya is called in the inscriptions Ubhaiyadaḷa-kumāraśārdūla.</quote></p></summary>
+                        <summary><ptr target="bib:ARIE1939-1943"/>: <quote>Records a similar royal order issued to the <foreign>tānattār</foreign> of the temple making a tax-free gift of the village Vaṇṇāttūr in the proportion of three shares to one for the expenses of a festival called after prince Sundara-Pāṇḍya and of a service in the name of the king and for the worship of the images of Vīra-pāṇḍīśvaram-uṭaiya-Nāyaṉār and Dēśamikka-Perumāṇāc-ciyār consecrated by the same prince in the temple Sundara-Pāṇḍya is called in the inscriptions Ubhaiyadaḷa-kumāraśārdūla.</quote>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -142,9 +141,9 @@
                 
             </div>
             
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p>On the south wall of the <foreign>mukhamaṇḍapa</foreign>, left of the door, bottom of the wall, below <ref target="DHARMA_INSTamilNadu00041"/>.</p>
+            </div>
             
             <div type="bibliography">
                 
@@ -158,7 +157,7 @@
                     </listBibl>-->
                 
                 <listBibl type="secondary">
-                    <bibl n="ARIE1939-1943">
+                    <bibl n="ARIE">
                         <ptr target="bib:ARIE1939-1943"/>
                         <citedRange unit="page">93</citedRange>
                         <citedRange unit="item">156</citedRange>

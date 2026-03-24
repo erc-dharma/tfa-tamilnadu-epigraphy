@@ -45,8 +45,8 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            <p>On the south wall of the <foreign>mukhamaṇḍapa</foreign>, left of the door, top of the wall.</p>
-                            <p><ptr target="bib:ARIE1939-1943"/> (standardised): <quote>Begins with the historical introduction <foreign>samastajagadādhāra</foreign>, etc. Records a royal order making a tax-free <foreign>dēvadāna</foreign> endowment of the village Nallūr to the temple of Nalla-Nāyaṉār for the maintenance of a service in the name of the king and for the (expenses of the) festival in the month of Tai.</quote></p>
+                            
+                            <ptr target="bib:ARIE1939-1943"/> (standardised): <quote>Begins with the historical introduction <foreign>samastajagadādhāra</foreign>, etc. Records a royal order making a tax-free <foreign>dēvadāna</foreign> endowment of the village Nallūr to the temple of Nalla-Nāyaṉār for the maintenance of a service in the name of the king and for the (expenses of the) festival in the month of Tai.</quote>
                         </summary>
                     </msContents>
                     <physDesc>
@@ -144,9 +144,9 @@
                 
             </div>
             
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p>On the south wall of the <foreign>mukhamaṇḍapa</foreign>, left of the door, top of the wall, above  <ref target="DHARMA_INSTamilNadu00042"/>.</p>
+                </div>
             
             <div type="bibliography">
                 
