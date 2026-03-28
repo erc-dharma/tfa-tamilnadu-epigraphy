@@ -10,19 +10,16 @@
             <titleStmt>
                 <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Kulottuṅga Cōḻa, year lost</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:vija">
                         <forename>G.</forename>
                         <surname>Vijayavenugopal</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc encoding</resp>
+                    </persName>                
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                </respStmt>
+                </respStmt>		
             </titleStmt>
             <publicationStmt>
                 <authority>DHARMA</authority>
@@ -139,8 +136,8 @@
             <div type="translation" resp="part:emfr">
                 
                 <p n="1"><supplied reason="lost">Prosperity! Fortune!</supplied></p>
-                <p n="4-5">Umpteenth year of the glorious king Kulottuṅga Cōḻa, <hi rend="italic">alias</hi> the king Rāja<supplied reason="lost">kesarivarman</supplied>,</p>
-                <p n="2-4">who graciously ... [<foreign>meykkīrtti</foreign> of Kulottuṅga Cōḻa<note>The extant portions of this <foreign>meykkīrtti</foreign> show shared text with two late Pāṇḍya <foreign>meykkīrtti</foreign>s found in <bibl><ptr target="bib:Cuppiramaniyam1983_01"/></bibl>, one of Śrīvallabha (p. 219) and one of  Vikrama Pāṇḍya (p. 270). There is no <foreign>meykkīrtti</foreign> starting with <foreign>tirumakaḷ cayamakal</foreign> for any Cōḻa king in <bibl><ptr target="bib:Cuppiramaniyam1983_01"/></bibl>.</note>]</p>
+                <p n="4-5"><supplied reason="lost">Xth</supplied> year of the glorious king Kulottuṅga Cōḻa, <hi rend="italic">alias</hi> the king Rāja<supplied reason="lost">kesarivarman</supplied>,</p>
+                <p n="2-4">who graciously ... [<foreign>meykkīrtti</foreign> of Kulottuṅga Cōḻa<note>The extant portions of this <foreign>meykkīrtti</foreign> shares text with two late Pāṇḍya <foreign>meykkīrtti</foreign>s found in <bibl><ptr target="bib:Cuppiramaniyam1983_01"/></bibl>, one of Śrīvallabha (p. 219) and one of  Vikrama Pāṇḍya (p. 270). There is no <foreign>meykkīrtti</foreign> starting with <foreign>tirumakaḷ cayamakal</foreign> for any Cōḻa king in <bibl><ptr target="bib:Cuppiramaniyam1983_01"/></bibl>.</note>]</p>
                 <p n="5-15">...</p>
                 
             </div>

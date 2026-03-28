@@ -10,14 +10,11 @@
             <titleStmt>
                 <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar, time of Parakesarivarman Rājarāja</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp>author of digital edition</resp>
                     <persName ref="part:vija">
                         <forename>G.</forename>
                         <surname>Vijayavenugopal</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp>EpiDoc encoding</resp>
+                    </persName>                
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
@@ -172,7 +169,7 @@
                     <unclear>Prosperity! Fortune!</unclear> 
                 </p>
                 <p n="4">
-                    <supplied reason="lost">Umpteenth</supplied> year of the glorious king among kings Rājarāja, the emperor of the three worlds, <hi rend="italic">alias</hi> the king Parakesarivarman, 
+                    <supplied reason="lost">Xth</supplied> year of the glorious king among kings Rājarāja, the emperor of the three worlds, <hi rend="italic">alias</hi> the king Parakesarivarman, 
                 </p>
                 <p n="1-3">
                     who ... [<foreign>meykkīrtti</foreign> of Rājarāja II Cōḻa]
