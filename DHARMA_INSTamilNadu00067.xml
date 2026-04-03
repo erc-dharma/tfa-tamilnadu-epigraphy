@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Madurai, Minākṣi temple, time of Sundara Pāṇḍya, year 4</title>
+                <title>Madurai, Minākṣi temple, time of Māṟavarmaṉ Sundara Pāṇḍya, year 4</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -40,7 +40,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Remission of taxes on village Nampiyātanallūr by Vāṇātarāyar for the food offerings, for feeding the ascetics <supplied reason="explanation"><foreign>kōvaṇavar</foreign></supplied> reciting the <title>tiruvempāvai</title> during the festival of Mārkaḻi, and for the procession of the deity so that it listens to the <foreign>cātāripaṇ</foreign> at the sacred door <supplied reason="explanation"><foreign>tiruvācal</foreign></supplied> named after Vāṇātarāyar.</summary> 
+                        <summary>Remission of taxes on village Nampiyātanallūr by Vāṇātarāyar for the food offerings, for feeding the ascetics (<foreign>kōvaṇavar</foreign>) reciting the <title>tiruvempāvai</title> during the festival of Mārkaḻi, and for the procession of the deity so that it listens to the <foreign>cātāripaṇ</foreign> at the sacred door (<foreign>tiruvācal</foreign>) named after Vāṇātarāyar.</summary> 
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -86,8 +86,7 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
-            <p>
-                <lg n="1" met="meykkīrtti">
+                <lg n="1" met="āciriyappā">
                     <l n="1">pūmalar tiruvum poruceyamaṭantaiyum</l>
                     <l n="2">tāmaraikkuvimulai cērppuyattiruppa</l>
                     <l n="3">vētanāviṉ veḷḷi naṭṭāmarai-k</l>
@@ -122,42 +121,34 @@
                 <l n="32">kamalameṉṟaṇukum Ulakamuḻutuṭai</l>
                 <l n="33">yārōṭum vīṟṟiruntaruḷiya</l>
                 </lg>
-            
+           <p> 
                 <hi rend="grantha">śrī</hi>-kō-māṟapaṉmar-āṉa tiripuvaṉa-c-cakkaravarttikaḷ <hi rend="grantha">śrī</hi> cuntara-pāṇṭiya-tēvarkku yāṇṭu nālāvatu nāḷ nūṟṟorupattaiñciṉāl 
-        </p>
+           </p>
         <p>
             maturōtaiya vaḷanāṭṭu māṭa-k kuḷa-k kīḻ maturai-k
-            <lb n="6"/>kōyil paḷḷi-y-aṟai-k kūṭattu-p paḷḷi-pīṭam maḻavarāyaṉil Eḻuntaruḷi Iruntu Uṭaiyār tiruvālavāy uṭaiyār kōyil patipātamūlappaṭṭuṭaiya pañcācāriyārkku miḻalai-k kūṟṟattu kīḻ-kūṟṟu taccaṉūr-u
-            <lb n="7" break="no"/>ṭaiyāṉ Aruḷāḷaṉ cēvaka-t tēvaṉāṉa pāṇātarāyaṉ kaṇṭa-cantikku tiruppaṭimāṟṟ' uḷḷiṭṭu vēṇṭu<supplied reason="subaudible">m</supplied> nivantaṅkaḷukkum 
-        </p>
-        <p>
-            Ālavāyuṭaiyārai mārkaḻi-t tirunāḷ tiruvempāvai cēvikkum paratēci-k-kōvaṇavarkku-p pōcaṉam uḷḷiṭṭu vēṇṭum avaiyiṟṟukkum
+            <lb n="6"/>kōyil paḷḷi-y-aṟai-k kūṭattu-p paḷḷi-pīṭam maḻavarāyaṉil Eḻuntaruḷi Iruntu Uṭaiyār tiruvālavāy uṭaiyār kōyil pati-pāta-mūla-p-paṭṭ-uṭaiya pañcācāriyārkku miḻalai-k kūṟṟattu kīḻ-kūṟṟu taccaṉūr-u
+            <lb n="7" break="no"/>ṭaiyāṉ Aruḷāḷaṉ cēvaka-t tēvaṉāṉa pāṇātarāyaṉ kaṇṭa-cantikku tiruppaṭimāṟṟ' uḷḷiṭṭu vēṇṭu<supplied reason="subaudible">m</supplied> nivantaṅkaḷukkum Ālavāyuṭaiyārai mārkaḻi-t tirunāḷ tiruvempāvai cēvikkum paratēci-k-kōvaṇavarkku-p pōcaṉam uḷḷiṭṭu vēṇṭum avaiyiṟṟukkum
         </p>
         <p>
              Ikkōyil tirukkāma
             <lb n="8" break="no"/>kōṭṭtattu Āḷuṭaiya-nācciyār kōyil teṟkil vāṇātarāyaṉ tiruvācalil Uṭaiyār Eḻuntaruḷi cātārippaṇ kēṭṭaruḷa vēṇṭuvaṉvayiṟṟukkum 
        </p>
        <p>
-        Iv-vāṇātirāyaṉ kāṇiyāṉa veṇpai-k-kuṭinaṭṭu nampitāyanallūr nāṉkellai
-        <lb n="9" break="no"/>kku Uṭpaṭṭa nīr-nilamum kalañcey puṉceyum nattamum tōṭṭamum kuḷamum
+        Iv-vāṇātirāyaṉ kāṇiyāṉa veṇpaikkuṭi-naṭṭu nampitāyanallūr nāṉkellai
+        <lb n="9" break="no"/>kku Uṭpaṭṭa nīr-nilamum ka<choice><sic>la</sic><corr>ru</corr></choice>ñcey puṉceyum nattamum tōṭṭamum kuḷamum kuḷappaṟippu muṉpaṭa nīr-nilamum kāraṇmai mīyaṭciyum Antarāyamum viṉiyōkamum taruvat-āṉa Accum kāriya-v-ārāycciyum veṭṭi-<supplied reason="omitted">p</supplied>-pāṭṭamum pañcu-<supplied reason="omitted">p</supplied>-pīli cantu vikkirama-p pē<choice><orig>ṟ</orig><reg>r</reg></choice>um E
+            <lb n="10" break="no"/>ppērppaṭṭaṉavum Uṭpaṭa nālāvatu mutal tēvatāṉa Iṟaiyili y-āka Iṭa-p peṟa vēṇum eṉṟu maḻavarāyaṉ namakku-c coṉṉamaiyil Ivv-uṭaiyāṟku Iv-vāṇātirāyaṉ cantikku tiruppaṭimāṟṟ' uḷḷiṭṭu vēṇṭum nivantaṅkaḷukkum Ivv-uṭaiyār mārkaḻi-t
+           <lb n="11"/>tirunāḷil-t tiruvempāvai cēvikkum paratēcikkum kōvaṇaṟkum pōcaṉam uḷḷiṭṭu vēṇṭuvaṉavukkum Ik-kōyil tirukkāma-k-kōṭṭattu Āḷuṭaiya-nācciyār kōyil teṟkil vāṇātirāyaṉ tiruvācalil Uṭaiyār Eḻuntaruḷi-c cātāripaṇ kēṭṭaruḷa vēṇtuvaṉavu
+            <lb n="12" break="no"/>kkum 
        </p>
-       <p>
-       kuḷappaṟippu muṉpaṭa nīr-nilamum kāraṇmai mīyaṭciyum Antarāyamum viṉiyōkamum taruvat-āṉa Accum kāriya-v-ārāycciyum veṭṭi-<supplied reason="omitted">p</supplied>-pāṭṭamum pañcu-<supplied reason="omitted">p</supplied>-pīli cantu vikkirama-p pēṟum E
-            <lb n="10" break="no"/>ppērppaṭṭaṉavum Uṭpaṭa nālāvatu mutal tēvatāṉa Iṟaiyili y-āka Iṭa-p peṟa vēṇum eṉṟu maḻavarāyaṉ namakku-c coṉṉamaiyil Ivv-uṭaiyāṟku Iv-vāṇātirāyaṉ cantikku tiruppaṭimāṟṟ' uḷḷiṭṭu vēṇṭum
-       </p>
-       <p>
-       nivantaṅkaḷukkum Ivv-uṭaiyār mārkaḻi-t
-        <lb n="11"/>tirunāḷil-t tiruvempāvai cēvikkum paratēcikkum kōvaṇaṟkum pōcaṉam uḷḷiṭṭu vēṇṭuvaṉavukkum
-       </p>
-       <p>
-           Ik-kōyil tirukkāma-k-kōṭṭattu Āḷuṭaiya-nācciyār kōyil teṟkil vāṇātirāyaṉ tiruvācalil Uṭaiyār Eḻuntaruḷi-c cātāripaṇ kēṭṭaruḷa vēṇtuvaṉavu
-            <lb n="12" break="no"/>kkum Iv-vāṇātirāyaṉ kāṇiyāṉa veṇpai-k-kuṭi-nāṭṭu nampitāyanallūr nāṉkellaikk' uṭpaṭṭa nīr-nilamum karuñcey puñceyum nattamum tōṭṭamuṅ kuḷamum kuḷapparippum Uṭpaṭṭa nilam kārāṇmai mīyāṭciyum Antārāyamum viṉiyōkamum taruvatāṉa Accum
-            <lb n="13"/>kāriya-v-ārāycciyum veṭṭi-p-pāṭṭamum pañcu-pīli cattu vikkiraka-p pēṟum maṟṟum Eppērppaṭṭaṉavum Uṭpaṭa Ivv-āṇṭu mutal tēvatāṉa Iṟaiyili y-āka Iṭṭamaikku Ivv-uṭaiyāṟku vāṇātirāyaṉ cantikku tiruppaṭimāṟṟ' uḷḷiṭṭu vēṇṭum nivantaṅkaḷukku
+                <p>
+           Iv-vāṇātirāyaṉ kāṇiyāṉa veṇpai-k-kuṭi-nāṭṭu nampitāyanallūr nāṉkellaikk' uṭpaṭṭa nīr-nilamum karuñcey puñceyum nattamum tōṭṭamuṅ kuḷamum kuḷapparippum Uṭpaṭṭa nilam kārāṇmai mīyāṭciyum Antārāyamum viṉiyōkamum taruvatāṉa Accum
+            <lb n="13"/>kāriya-v-ārāycciyum veṭṭi-p-pāṭṭamum pañcu-pīli ca<choice><sic>t</sic><corr>n</corr></choice>tu vikkiraka-p pēṟum maṟṟum Eppērppaṭṭaṉavum Uṭpaṭa Ivv-āṇṭu mutal tēvatāṉa Iṟaiyili y-āka Iṭṭamaikku Ivv-uṭaiyāṟku vāṇātirāyaṉ cantikku tiruppaṭimāṟṟ' uḷḷiṭṭu vēṇṭum nivantaṅkaḷukku
             <lb n="14" break="no"/><surplus>kku</surplus>m 
-       </p>
-       <p>
        Ivv-uṭaiyārai mārkaḻi-t tirunāḷ tiruvempāvai cēvikkum paratēci-k kōvaṇavaṟkum pōcaṉam uḷḷiṭṭu vēṇtuvaṉa vayiṟṟukkum Ik-kōyiṟ tirukkāma-k-kōṭṭattu Āḷuṭaiya-nācciyār kōyilil teṟkil vāṇātirāyaṉ tiruvācalil Uṭaiyār cātārippaṇ kēṭṭaruḷa vēṇ
-        <lb n="15" break="no"/>ṭuvaṉavukkum Iv-vāṇātirāyaṉ kāṇiyāṉa veṇpai-k-kuṭi-nāṭṭu nampitāyanallūr nāṉkellai Uṭpaṭa nīr-nilamum karuñcey puṉceyum nattamum tōṭṭamum kuḷamum kuḷa-p-parippum Uṭpaṭṭa nilam kārāṇmai mīyaṭci Antarāyamum viṉiyōkamum taruvatāṉa Accum kāriya-v-ārāycciyum veṭṭi-p-pāṭṭamu
+        <lb n="15" break="no"/>ṭuvaṉavukkum 
+                  </p>
+                <p>  
+                    Iv-vāṇātirāyaṉ kāṇiyāṉa veṇpai-k-kuṭi-nāṭṭu nampitāyanallūr nāṉkellai Uṭpaṭa nīr-nilamum karuñcey puṉceyum nattamum tōṭṭamum kuḷamum kuḷa-p-parippum Uṭpaṭṭa nilam kārāṇmai mīyaṭci Antarāyamum viṉiyōkamum taruvatāṉa Accum kāriya-v-ārāycciyum veṭṭi-p-pāṭṭamu
         <lb n="16" break="no"/>m pañcu-<supplied reason="omitted">p</supplied>-pīli cantu vikkiraka-p pēṟum maṟṟum Eppērpaṭṭaṉavum Uṭpaṭa Ivv-āṇṭu mutal tēvatāṉa Iṟaiyili y-āka-t tantōm eṉṟu tiruvāymoḻin
         <lb n="17"/>taruḷiḷur              
     </p> 
@@ -176,13 +167,43 @@
                 </div>-->
             
             <div type="translation" resp="part:reda">
-                
+               <p n="1">
+                   This is the 115th day of the fourth year of the glorious King Māravarman, alias the Emperor of the three worlds<supplied reason="explanation"><foreign>tribhuvana-cakravarti</foreign></supplied>, the glorious king Sundara Pāṇḍya.
+               </p>
+                <p n="5-7">
+                    The Lord <supplied reason="explanation"><foreign>uṭaiyar</foreign>=most probably, Sundara Pāṇḍya</supplied>, while being seated upon the Maḻavarāyaṉ throne in the hall <supplied reason="explanation"><foreign>kūṭattu</foreign></supplied> of the bed-chamber <supplied reason="explanation"><foreign>paḷḷiyaṟai</foreign></supplied> of the temple at Māṭakuḷakīḻmaturai in the Maturōtaiya vaḷanāṭu <supplied reason="subaudible">issued the following endowment</supplied> to the five <foreign>ācāryas</foreign> who own the right of being at the feet of the Lord <supplied reason="explanation"><foreign>pati-pāt-amūla-p-paṭṭ-uṭaiya</foreign></supplied> in the temple of the Lord of Tiruvālavāy:
+                    
+               <list>
+                  <item>to meet the requirements needed for<supplied reason="explanation"><foreign>vēṇṭum nivantaṅkaḷukkum</foreign></supplied> the food offerings <supplied reason="explanation"><foreign>tiruppaṭimāṟu</foreign></supplied> <supplied reason="subaudible">given during</supplied> the <foreign>sandhi</foreign> in honour of Pāṇātarāyaṉ Kaṇṭa, alias  Aruḷāḷaṉ Cēvakatēvaṉ of Taccaṉūr in the eastern subdivision <supplied reason="explanation"><foreign>kūṟṟu</foreign></supplied> of Miḻalai-kūṟṟam.</item> 
+                   <item>for those items needed <supplied reason="explanation"><foreign>avaiyiṟṟukkum vēṇṭum</foreign></supplied> , including the meals <supplied reason="explanation"><foreign>pōcaṉam</foreign></supplied> for the wandering mendicants <supplied reason="explanation"><foreign>paratēci kōvaṇavarkku</foreign></supplied> who recite <supplied reason="explanation"><foreign>cevikkum</foreign></supplied> the <title>Tiruvempāvai</title> during the festival in Mārkaḻi <supplied reason="subaudible">i.e., the Tiruvātirai festival</supplied> to the Lord of Ālavāy</item>
+                   <item>for those things needed <supplied reason="explanation"><foreign>vēṇṭuvaṉayiṟṟukkum</foreign></supplied> to listen to the <foreign>cātāri</foreign> melody<note>Cātāri is one of the ancient traditional melody types.</note> after the Lord was gracefully processed <supplied reason="explanation"><foreign>eḻuntaruḷi</foreign></supplied> at the sacred gate named after Vāṇātarāyaṉ, in the south side of the temple of the Goddess Āḷuṭaiya-nācciyār in the Kāmākṣi shrine <supplied reason="explanation"><foreign>kāma kōṭṭam</foreign></supplied> of this temple.
+                   </item>
+               </list>     
+             </p>
+                <p n="8-9">
+    <supplied reason="subaudible">This <foreign>devadāna</foreign></supplied> includes all of the following: the wetlands <supplied reason="explanation"><foreign>nīr-nilam</foreign></supplied>, dry lands <supplied reason="explanation"><foreign>puṉcey</foreign></supplied>, residential areas <supplied reason="explanation"><foreign>nattam</foreign></supplied>, gardens <supplied reason="explanation"><foreign>tōṭṭam</foreign></supplied>, tanks <supplied reason="explanation"><foreign>kuḷam</foreign></supplied>, tank-bunds and irrigated lands attached to them <supplied reason="explanation"><foreign>kuḷa-p-paṟippu muṉpaṭa nīr nilam</foreign></supplied>, together with the rights of cultivation <supplied reason="explanation"><foreign>kāraṇmai</foreign></supplied>, proprietary right <supplied reason="explanation"><foreign>mīyāṭci</foreign></supplied>, the taxes called <foreign>antarāyam</foreign> and <foreign>viṉiyōkam</foreign>, which are payable in <foreign>accu</foreign> coins, superintendency charges <supplied reason="explanation"><foreign>kāriyavārāycci</foreign></supplied>, the tax on unpaid labor <foreign>veṭṭi pāṭṭam</foreign>, the cotton due <supplied reason="explanation"><foreign>pañcuppīli</foreign></supplied>, the fee payable to the village
+judicial officer <foreign>cantuvikraka pēṟu</foreign>, and all other fees whatsoever <supplied reason="explanation"><foreign>eppērppaṭṭaṉavum</foreign></supplied>, within the four boundaries of Nampitāyanallūr in Veṇpaikkuṭi-nāṭu, the hereditary land <supplied reason="explanation"><foreign>kāṇiyāṉa</foreign></supplied> of this Vāṇātarāyaṉ.
+</p>
+
+<p n="9-12">
+    Since Maḻavarāyaṉ had requested us <supplied reason="explanation"><foreign>coṉṉamaiyil</foreign></supplied> that, from the fourth year onward, it was assigned that <supplied reason="explanation"><foreign>āka iṭa peṟa</foreign></supplied> the aforesaid village, with all the lands, rights, taxes, and fees specified above, should be assigned as a tax-free <foreign>devadāna</foreign> for the following purposes: the sacred food offerings <supplied reason="explanation"><foreign>tiruppaṭimāṟṟu</foreign></supplied>, the endowments required for the <foreign>sandhi</foreign> in the name of this Vāṇātarāyaṉ, for the meals of the wandering ascetics  <foreign>paratēci kōvaṇar</foreign> who recite the <title>Tiruvempāvai</title> during the Mārkaḻi festival, and for what is required when the Lord graciously comes forth at the Vāṇātarāyaṉ sacred gate to listen to the <foreign>cātārippaṇ</foreign>.<note></note>
+</p>
+
+<p n="12-15">
+    Accordingly, from this very year onward, the aforesaid village, with the same lands, rights, taxes, and appurtenances, was established as a tax-free <foreign>devadāna</foreign> for those same purposes.
+</p>
+                <p n="15-17">
+    <supplied reason="subaudible">The king ordered then that </supplied> “From this year onward, we have given it as a tax-free <foreign>devadāna</foreign>,” namely the aforesaid Nampitāyanallūr with all its appurtenances, for the same purposes as stated above.
+</p>
+
                 
             </div>
             
-            <!--<div type="commentary">
-                
-            </div>-->
+            <div type="commentary">
+    <p>
+        As the inscription repeats the same content of the endowment, I have translated it in full only in the first instance, while giving an abridged version in the next two occurrences. 
+    </p>
+</div>
             
             <div type="bibliography">
                 
