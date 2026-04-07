@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Nañcamutu Ceytāṉ, landowner <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> of Mūlaṅku, set up an endowment for the Tiruvatirai festival (carry out during month of Mārkaḻi) in which the Lord who rules over Tiruvātavūr <supplied reason="explanation"><foreign>tiruvātavūr āḷi nāyaṉārkku</foreign>, most probably Māṇikkavācakar</supplied> is taken out in procession as he listens to the <title>tiruvempāvai</title>. The endowment is also used to cover for items that were used during the Paṅkuni month festival. The </summary>
+                        <summary>Nañcamutu Ceytāṉ, landowner (<foreign>uṭaiyāṉ</foreign>) of Mūlaṅku, set up an endowment for the Tiruvatirai festival (carry out during month of Mārkaḻi) in which the Lord who rules over Tiruvātavūr (<foreign>tiruvātavūr āḷi nāyaṉārkku</foreign>), most probably Māṇikkavācakar is taken out in procession as he listens to the <title>tiruvempāvai</title>. The endowment is also used to cover for items that were used during the Paṅkuni month festival. </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -122,9 +122,12 @@
                 
             </div>	
             
-            <!--<div type="commentary">
+            <div type="commentary">
+                <p>
+                    The extant portion of the <foreign>meykkīrtti</foreign> appears to be closely related to the opening formulas of Rājadhirāja II. 
+                </p>
                 
-                </div>-->
+                </div>
             
             <div type="bibliography">
                 
