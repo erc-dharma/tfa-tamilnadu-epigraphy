@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruppāmpuram, Cēṣapurīśvara, time of Tribhuvana Vīra, year 35</title>
+                <title>Tiruppāmpuram, Cēṣapurīśvara, time of Tribhuvana Vīradeva, year 35</title>
                 <respStmt>
                     <resp>EpiDoc Encoding</resp>
                     <persName ref="part:reda">
@@ -175,6 +175,10 @@
             </div>
             
             <div type="commentary">
+                
+                <p>
+                    The epithet <foreign>maturaiyum īḻamum karuvūrum pāṇṭiyaṉ muṭi talai</foreign> corresponds to the Cōḻa king Kulōttuṅka III.
+                </p>
                 <p>
                     According to <bibl><ptr target="bib:ARIE1910-1911"/></bibl>, the same Nāṟpatteṇṇāyiramāṇikkam is also mentioned in ARIE/1910-1911/C/1911/92, which records a <quote>sale of land to the temple for the worship of Periya Tēvar and Nācciyār, set up therein by a dancing girl.</quote></p>
             </div>
