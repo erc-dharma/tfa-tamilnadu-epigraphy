@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruviḻimiḻalai, Vīḻināthasvāmin temple, Rājarāja, year 11</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>			
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00070</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis &amp; Vincent Tournier.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            Sale of land made by the <foreign>tēvaraṭiyār</foreign> of the temple, whose name is lost, to set up an image of Tiruvātavūr-tēvar (Māṇikkavācakar) in the third <foreign>prakāra</foreign> of the temple and the food offerings associated with its worship.
+                        </summary> 
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>The exact date is given by <ptr target="bib:ARIE1908-1909"/>: November 30th, 1226.</p>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2026-04-10">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+           
+           
+           
+    <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+        <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+            <lb n="1"/>svasti śrī
+        </ab>
+        <p>
+            tiripuvaṉa-c ca<supplied reason="omitted">k</supplied>karavattikaḷ <hi rend="grantha">śrī rāja<unclear>rāja</unclear></hi>-t<unclear>ē</unclear>vaṟku yāṇṭu <num value="11"><g type="numeral">10</g> 1</num> Āvatu yaṉu-nāyaṟṟu pūr<hi rend="grantha">vva</hi>-pa<hi rend="grantha">kṣa</hi>ttu <hi rend="grantha">da</hi>mmiyum tiṅkaṭ-k kiḻamaiyum
+            <lb n="2"/>peṟṟa I<hi rend="grantha">re</hi>vati nāḷ Uyyakkoṇṭār vaḷanāṭṭu <gap reason="lost" quantity="5" unit="character"/> ṭu Uṭaiyār tiruviḻimiḻalai Uṭaiyār kōyil muṉṟām pirakārattu Eṭuṅkaruḷi Irukkum tiruvāta
+            <lb n="3" break="no"/>vūr tēvarkku Amutupaṭikku tiru-Amutu Aricikkum ca <gap reason="lost" quantity="8" unit="character"/> tukkum Uṭal āka <hi rend="grantha">brahma</hi>tēyam tiruviḻimiḻalai meṟpaṭṭa Antaṇaril Āṇṭār cuntara-p perumāṉ vi
+            <lb n="4" break="no"/>rataṅkoṇ<unclear>ṭār</unclear> vaitta kācil Ik-kōyil tēvaraṭiyāru <gap reason="lost" quantity="8" unit="character"/> mātam Iṭṭa kācil Eḻāyiratt' aiññūṟu kācu Iṭṭu Arumoḻitēva-vaḷanāṭṭu Āravala-k-<unclear>kū</unclear>ṟṟa
+            <lb n="5" break="no"/>ttu nāṭṭiyattāṅkuṭaiyāṉ tiruviḻimiḻalai Uṭaiyāṉ <gap reason="undefined" quantity="6" unit="character"/> kaḷ tirappāṉ kāṇiyāy Ivaṉ pakkal Iṉ-ṉāyaṉār tēvatāṉam ceyaṅkoṇṭacōḻa-nal
+            <lb n="6" break="no"/>lūr paṭṭāl vatikku kiḻakku Irā<hi rend="grantha"><unclear>ja</unclear></hi> Irā<hi rend="grantha"><unclear>ja</unclear></hi> <unclear>vā</unclear>ykkālukku teṟku eḻāṅ kaṇṇāṟṟu mutaṟ catirattu kiḻakkaṭaiya Iṉ-ṉāyaṉār tirunāmattukkāṇi nilam Araiyē araimā <gap reason="lost" quantity="3" unit="character"/>
+            <lb n="7" break="no"/>cciṉṉamum n<choice><sic>i</sic><corr>ī</corr></choice>kki Itaṉ meṟku Iṉ-ṉāyaṉār tirunāmattukkāṇiyāy Ivaṉ vicattiṭai-p parivarttaṉai paṇṇi Ivaṉu tāṉa nilam Oru-māvum Itaṉ me<unclear>ṟ</unclear>ku nāṭṭiya
+            <lb n="8" break="no"/>ttāṅkuṭaiyāṉ Eṇṇariya tirunāmam uṭaiyāṉ moṇṇiyāṇṭāṉum pattaraṉṉa paṇṭāramum pakkal Ivaṉ vicattaṭaiya parivattaṉ paṇṇi Ivaṉutā
+            <lb n="9" break="no"/>ṉa nilam Iraṇṭu-māvum Āka nilam muṉṟu-mā In-nilam muṉṟu-māvum Iṟṟai nāḷāl vilaikoṇṭu Iṉ-ṉāḷ mutal tirunāmattu-k-kāṇi y-āka-k kūṭṭi-k ko
+            <lb n="10" break="no"/>ḷkaiyil <unclear>Ili</unclear>lattu Iṟaimikutikku I-tiruvā<unclear>ta</unclear>vūr nāyaṉārkku tiru-Amutukku nāḷ Oṉṟukku <hi rend="grantha">śrī</hi> paṇṭārattē Iru-nāḻi tiru-Amutu Ariciyum Aṟupala-k-kaṟi-y-amutum
+            <lb n="11"/>Itukku vēṇtum Upp' amutu miḷak' amutu Uḷḷiṭṭa viñcaṉaṅkaḷum Iraṇṭu Aṭaikkāy Amir<unclear>t</unclear>tum nālu Ilai<unclear>yamirtu</unclear>m viṭakkaṭavat' ākavum periya-tēvar tiri<unclear>puva</unclear>
+            <lb n="12" break="no"/>ṉa v<choice><sic>i</sic><corr>ī</corr></choice>ra-tēvarkku-p pattoṉpat' āvatu varaiyil <unclear>I</unclear>c-cuntara-p perumāḷ Ik-kōyil tēvaraṭiyār pakkal <unclear>I</unclear>nta tiruvātavūr tēvarkku Amutupaṭikku nila<surplus>m</surplus>n
+            <lb n="13" break="no"/>koḷaḷ Irunta kācu y-eṇṇāyiramum Ik-kōyil pattarkaḷ <surplus>li</surplus>cuvātita tirumaṇṭapa-p <unclear>pa</unclear>ṇikk' uṭal āka Etirppai <gap reason="lost" quantity="3" unit="character"/> ka Ik-kācukku nilaṅ koṇṭu tirunāmattu-k-kā
+            <lb n="14" break="no"/>ṇiyāka-k kūṭṭikkoṇṭu Iṟaimikutikku muṉpu paṇṭārattu It-tiruvātavūrar tēvarkku tiru-Amutupaṭikku viṭṭu <unclear>varu</unclear>kiṟa nāḷ Oṉṟukku tiru-Amutu Arici Aṟunā
+            <lb n="15" break="no"/>ḻiyum kaṟi Amutu vañcaṉamum Aṭaikkāy Amutukkum Ilai Amutu maṟṟu <gap reason="lost" quantity="4" unit="character"/> ṭṭu varukiṟa paṭiye viṭakkaṭavat 'ākavum muṉpu tēvaraṭiyār peṟum
+            <lb n="16"/>paṭi-c cōṟṟil piṭittu civa-p-pirāmaṇar Aḷantu Amutupaṭi ceytu varukiṟa <unclear>Arici</unclear> Iru-nāḻiyum Iṟṟai-nāḷ mutal tavir-k-kaṭavat' ākavum Ippaṭi cammati
+            <lb n="17" break="no"/>ttu kalveṭṭiṉa-k kuruttamaikku Aruḷāl kōyil kaṇakku <supplied reason="omitted">ku</supplied>ṉṟan Antaṇa-p-piriyaṉ eḻuttu te <gap reason="lost" quantity="4" unit="character"/> tiruñāṉacampanta-paṭṭaṉ eḻuttu <hi rend="grantha">śrī</hi> kara<unclear>ṇattu</unclear>
+            <lb n="18"/>kulottuṅka-cōḻa-pallavarayaṉ eḻuttu Ivai <hi rend="grantha">śrī</hi> mā<hi rend="grantha">heśvara</hi> kaṇkāṇi tiruv<choice><sic>i</sic><corr>ī</corr></choice>ti <gap reason="undefined" quantity="1" unit="character"/>e<gap reason="undefined" quantity="2" unit="character"/> vi Eḻuttu <g type="gomutraFinal">.</g>
+        </p>
+	
+</div>
+            
+            <!-- <div type="apparatus">
+                <listApp>
+                <app loc="6">
+                <lem><supplied reason="lost">kāṇivilai</supplied></lem>
+                <note>Reading after ASI transcript.</note>
+                </app>
+                </listApp>
+                
+                </div>-->
+            
+           <!-- <div type="translation" resp="part:reda">
+                
+            </div>-->
+            
+            <!--<div type="commentary">     
+</div>-->
+            
+            <div type="bibliography">
+                 <p>Reported in <bibl><ptr target="bib:ARIE1908-1909"/></bibl> (ARIE/1926-1927/C/1927/285).</p>
+                 <p>This edition by Renato Dávalos, based on ASI estampage kindly supplied by the Director of Epigraphy in Mysore (2025).</p>
+              
+                
+                <listBibl type="secondary">
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1908-1909"/>
+                        <citedRange unit="page">44</citedRange>
+                        <citedRange unit="item">409</citedRange>
+                        <citedRange unit="appendix">B/1908-1909</citedRange>
+                    </bibl> 
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+<!--On the south wall of the first prākāra...-->
