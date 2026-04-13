@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pondicherry Government Museum, bronze statue, time of Sundara Pāṇḍya, year 10</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>			
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00073</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis &amp; Vincent Tournier.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            Statue brought from Pōlakam (Pondicherry). A certain Nāyakattār Āṇṭāṇ Kōtai, alias Kulōttuṅka-rāyaṇ consecrated the image of Tiruvātavūr-Nāyaṉār (Māṇikkavācakar) at the temple of Pōlakam and donated lands for food offerings and the maintenance of sacred lamps.
+                        </summary> 
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union's Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2026-04-13">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+           
+           
+           
+    <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+        <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+            <lb n="1"/><unclear>svasti śrī</unclear>
+        </ab>
+        
+            <p>
+		tiripuvaṉa-c-cakkara-vattikaḷ <hi rend="grantha">śrī</hi> cuntara-pāṇṭiya-tēvaṟku yāṇṭu 10 Āvatu kēyya-māṇikka-vaḷaṉāṭṭu vaṭakāl
+		<lb n="2"/>parivaṭṭa nakaram pukalōkattu Uṭaiyār pañcavaṉ mātēvicuvaram uṭaiyār kōyilukku tiruvātavū<supplied reason="omitted">r</supplied>-nāyaṉārai Ēṟi aruḷa paṇṇiṉa ṉākaiyāṉa
+		<lb n="3"/>cōḻa ku<supplied reason="omitted">lava</supplied>lli paṭṭiṉattu tiruppaḷḷi-p-pāṟṟu ṉāyakattāril Āṇṭāṉ kōtayāṉa kulōttuṅka rāyaṉēṉ Iṉ-ṉāyaṉāṟkku Amutupaṭikkum t<choice><sic>a</sic><corr>i</corr></choice>ruviḷakku
+		<lb n="4" break="no"/>m nāyanāṟ<choice><sic>t</sic><corr>k</corr></choice>ku koṇṭa<unclear>ṭa</unclear>kantaṉ uṭaiyān nilamum nattamum Āvatu Ivūr piṭākai cankuṇaveḷi paṇappāṟṟukku vaṭakku taṭi mūṉṟu viṭṭuma
+		<lb n="5" break="no"/>ṟkku Amutupaṭikkum tiruvi
+		<lb n="6"/>Ōṭai Eṉṟu pēr kūvappaṭṭa nilam mā mummāvaraiyum kaṇapati vāykkālukku mēṟkku puṟaṅkarampa-ṉāṭṭu vēḷāṉ maṉaikku valivala-nāṭu vēḷāṉ maṉai Iru
+		<lb n="7" break="no"/>ppukkum <g type="irumā"/><g type="nilam"/>m I-nilamā mummāvaraiyum Iṉ-nāyanāṟku Amutupaṭikkum tiruviḷakkum cant<supplied reason="omitted">i</supplied>rātityavarai cella-k kaṭavat' āka-k koṇṭu Iṭṭēṉ Āṇṭāṉ kō
+		<lb n="8"/>taiyāṉa kulōttuṅka-rāyaṉ ēṉ Ik-kōyil Akrāṇam tiruvārūr ammāṉ eḻuttu - Ik-kōyil tēvakammi piramīcuvara paṭṭaṉ Eḻuttu
+		<lb n="9"/>Ik-kōyil kaṇakkaṉ paṉaṅk' uṭaiyāṉ vītiviṭaṅka-p perumāṉ Eḻu<supplied reason="omitted">ttu</supplied>
+	</p>
+        
+	
+</div>
+            
+            <!-- <div type="apparatus">
+                <listApp>
+                <app loc="6">
+                <lem><supplied reason="lost">kāṇivilai</supplied></lem>
+                <note>Reading after ASI transcript.</note>
+                </app>
+                </listApp>
+                
+                </div>-->
+            
+           <!-- <div type="translation" resp="part:reda">
+                
+            </div>-->
+            
+            <!--<div type="commentary">     
+</div>-->
+            
+            <div type="bibliography">
+                 <p>Reported in <bibl><ptr target="bib:Avanam31"/></bibl> (Avanam Vol. 16-22:8).</p>
+                 <p>This digital edition by Renato Dávalos, based on printed version.</p>
+              
+                
+                <listBibl type="secondary">
+                    <bibl n="Avanam">
+                        <ptr target="bib:Avanam31"/>
+                        <citedRange unit="page">236-238</citedRange>
+                        <citedRange unit="item">31.100</citedRange>
+                        
+                    </bibl> 
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+<!--four sides of the bronze, polakam is a part of Tirumalarayanpattinam in the Karaikal district of the Union Territory of Puducherry....-->
