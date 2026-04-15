@@ -12,7 +12,7 @@
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName>
-                        <name>Venkatakrishnan Ramprashanth</name>
+                        <name>Ramprashanth Venkatakrishnan</name>
                     </persName>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
@@ -224,7 +224,7 @@
             <div type="bibliography">
                 
                 <p>
-                    Edited by Venkatakrishnan Ramprashanth. Reviewed and encoded by Emmanuel Francis.</p>
+                    Edited by Ramprashanth Venkatakrishnan. Reviewed and encoded by Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     
