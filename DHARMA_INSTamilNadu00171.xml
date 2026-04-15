@@ -92,20 +92,22 @@
                 </p>
                 <p>
                     matuṟā-puri-t-talat=tuk=ku
-                    <lb n="3"/>kaṟt=tar-ākiya makaṟāca-māṉiyā<unclear>r</unclear> tiri-tirumalai-<unclear>ṉā</unclear>
+                    <lb n="3"/>kaṟt=taṟ-ākiya makaṟāca-māṉiyā<unclear>r</unclear> tiri-tirumalai-<unclear>ṉā</unclear>
                     <lb n="4" break="no"/>yakkaṟ-avaṟkaḷ kāḷappaṉpaṭṭi Uḷaṭaiya
                     <lb n="5" break="no"/>t=til vant’ iraṅki y-iruk=kum pōtu kuppalna
                     <lb n="6" break="no"/>ttam veṅkiṭṭi ṉāk=kaṉ pātakāṇikkai
-                    <lb n="7"/><seg rend="check"><g type="paṇam"/></seg> <num value="30">3 <g type="numeral">10</g></num> <seg rend="check"><g type="poṉ"/></seg> poṉṉum <num value="400">4 <g type="numeral">100</g></num> Arici kāy-ka
+                    <lb n="7"/><g type="paṇam"/> <num value="30">3 <g type="numeral">10</g></num> <g type="poṉ"/> poṉṉum <num value="400">4 <g type="numeral">100</g></num> Arici kāy-ka
                     <lb n="8" break="no"/>ri ney-pāl-uṭaṉē koṇṭu vantu ṟācā
                     <lb n="9" break="no"/>vai-k= kaṇṭāṉ
                 </p>
                 <p>                    
                     ṟācāvukku cantōcam-āki n<choice><orig>i</orig><reg>ī</reg></choice>
-                    <lb n="10" break="no"/>ku Emi kāvelē yek=kaṭavu vit=tivi Eṉa
-                    <lb n="11"/>kēṭṭāṟ veṅkiṭṭi nāk=kaṉ coṉṉatu
-                    <lb n="12"/>nēṉu Uṇṭē kiṟāmāṉiki cātiṉappaṭṭa
-                    
+                    <lb n="10" break="no"/>ku Emi kāvelē yek=kaṭavu vit=tivi Eṉa-<unclear>k</unclear>
+                    <lb n="11"/>kēṭṭāṟ
+                </p>
+                <p>
+                    veṅkiṭṭi ṉāk=kaṉ coṉṉatu
+                    <lb n="12"/>nēṉu Uṇṭē kiṟāmāṉiki cātiṉappaṭṭa                    
                     <lb n="13" break="no"/>yāṉiki tēvaruvāḷu Uttaṟavu kāvelē
                     <lb n="14"/>y-eṉṟu kēṭṭāṉ
                 </p>
@@ -115,7 +117,7 @@
                     
                     <list>
                         <item>yitark=ku māl cempaṟaṇi El
-                            <lb n="16" break="no"/>laik=ki teṟk=ku</item>
+                            <lb n="16" break="no"/>laik=k<choice><orig>i</orig><reg>u</reg></choice>teṟk=ku</item>
                         <item>
                             cēṭapaṭṭik= kiṟāmat=tukku ki<choice><orig>ḷ</orig><reg>ḻ</reg></choice>ak=ku</item>
                         <item>
@@ -130,16 +132,16 @@
                     <lb n="19" break="no"/>ṭṭa kirāmam kuppalnat=tat=tuk=ku nāṭṭāmai p<choice><sic>i</sic><corr>u</corr></choice>
                     <lb n="20" break="no"/>ñcai māṉipam Ūruk=ku teṟk=ku 5 caṅkili ni
                     <lb n="21" break="no"/>lam nañcai māṉipam <g type="mēṟpaṭi"/> kirāmat=tuk=k’ uḷp
-                    <lb n="22" break="no"/>paṟavil naṭuvā<reg>y</reg>k=kālukku vaṭak=ku 4 kāṇi Āka
+                    <lb n="22" break="no"/>paṟavil naṭuvā<reg>y</reg>k=kāluk=ku vaṭakku 4 kāṇi Āka
                     <lb n="23"/>y-ivaḷavum nāṭṭāmai mutamai veṅkiṭṭi
                     <lb n="24"/>ṉāk=kaṉuk=ku contam-āka E<unclear reason="eccentric_ductus">ḻ</unclear>uti-k kuṭut=ta tām
                     <lb n="25" break="no"/>pura-cāt<choice><sic>i</sic><corr>a</corr></choice>ṉa-p-paṭṭayam
                 </p>
                 <p>
-                    y-itarkku cācci 
+                    y-itaṟkku cācci 
                     <list>
                         <item>mati
-                            <lb n="26" break="no"/>ppaṉūr cūṟappaṉāk=kaṉ</item>
+                            <lb n="26" break="no"/>ppaṉūṟ cūṟappaṉāk=kaṉ</item>
                         <item>cēṭapaṭṭi perum
                             <lb n="27" break="no"/>āḷuṉāk=kaṉ</item>
                         <item>pūcāntiṟam ciṉṉa-māya-t-tē
@@ -148,7 +150,7 @@
                 </p>
                 <p>
                     y-itai yātām orutaṟ aṭi A<choice><orig>ḷ</orig><reg>ḻ</reg></choice>it=tā
-                    <lb n="29" break="no"/>l mīṉā<choice><sic>c</sic><corr>ṭ</corr></choice>ci cokkaliṅkar kēḷppāṟ
+                    <lb n="29" break="no"/>l mīṉā<choice><sic>c</sic><corr>ṭ</corr></choice>ci cokkaliṅkaṟ kēḷppāṟ
                 </p>
                 <p>                
                     <lb n="30"/>y-inta-p paṭṭayañ ceytavaṉ matuṟā-puri ⌈
@@ -156,7 +158,7 @@
                 </p>
                 <p>
                     y-inta-p paṭi
-                    <lb n="32"/><seg rend="check">śrī</seg>-kaṟt=taṟ-ākiya tirumalai-ṉāyak=kar-avarkaḷ tiru-k
+                    <lb n="32"/><seg rend="check">śrī</seg>-kaṟt=taṟ-ākiya tirumalai-ṉāyak=kaṟ-avaṟkaḷ tiru-k
                     <lb n="33" break="no"/>-karat=til Oppam <g type="pc">.</g>
                 </p>
                 
@@ -169,31 +171,37 @@
             <div type="translation">                
                 <p n="1">Victory to Rāma!</p>
                 <p n="2">Year Kaṟā,<note>That is, Kara.</note> month of Āṉi, date 29.</p>
+                
                 <p n="3-15">
-                    At the time the glorious and honourable Tirumalai Nāyaka, <hi rend="italic">alias</hi> the lord of the region of the city of Maturā,<note>That is, Maturai.</note> was ...
-                    Veṅkiṭṭi Nāyaka of Kuppalnattam having brought ...
-                    saw the king.
+                    At the time the glorious and honourable Tirumalai Nāyaka, <hi rend="italic">alias</hi> the lord of the region of the city of Maturā,<note>That is, Maturai.</note> was brought within the premises of Kāḷappaṉpaṭṭi,
+                    Veṅkiṭṭi Nāyaka of Kuppalnattam having brought 30 <foreign>paṇam</foreign>s, 400 <foreign>poṉ</foreign>s, rice, vegetables, ghee and milk as offerings to the feet of the king, saw him there.
                 </p>
-                <p n="9-14">
-                    He asked ...
+                
+                <p n="9-11">
+                    The king was pleased and asked <quote>What do you want? How are you?</quote>.
+                    </p>
+                
+                <p n="11-14">
+                    Veṅkiṭṭi Nāyaka replied that he wanted His Highness to grant him the jurisdictional rights to his village. 
                 </p>
+                
                 <p n="14-15">
                     In that manner, there was a royal order <supplied reason="subaudible">as follows</supplied>.
                 </p>
-                <p n="15-25">
-                    For this,
+                <p n="15-18">
+                    For this <supplied reason="subaudible">village</supplied>, the boundaries <supplied reason="explanation"><foreign>māl</foreign></supplied> <supplied reason="subaudible">are as follows:</supplied>
                     <list>
-                        <item>south of ...</item>
-                        <item>east of ...</item>
-                        <item>north of ...</item>
-                        <item>west of ...</item>
+                        <item>south of the boundary <supplied reason="explanation"><foreign>ellaikki</foreign>, that is, <foreign>ellaikku</foreign></supplied> of Cempaṟaṇi; </item>
+                        <item>east of the village of Cēṭapaṭṭi;</item>
+                        <item>north of the boundary <supplied reason="explanation"><foreign>mālukku</foreign></supplied> of Vīṟāḷampaṭṭi;</item>
+                        <item>west of the village of Pūcāntiram.</item>
                     </list>
-                    the village which is comprised within these four boundaries ...
-                    so that there be ...
-                    4 <foreign>kāṇi</foreign>s ...
-                    there is a copper-plate order
-                    that has been written and given.
                 </p>
+                <p n="19-25">
+                    	So that there be, for the village of Kuppalnattam which is comprised within these four boundaries, 5 <foreign>caṅkili</foreign>s of <foreign>puñcai</foreign> <supplied reason="explanation">dry land</supplied>, south of the village, and 4 <foreign>kāṇi</foreign>s of <foreign>nañcai</foreign> <supplied reason="explanation">irrigated land</supplied>, inside the village and north of the central canal <supplied reason="explanation"><foreign>naṭuvāykkāl</foreign></supplied>, 
+                    <supplied reason="explanation">this</supplied> is the copper-plate order in which these have been inscribed and granted as ownership to Veṅkiṭṭi Nāyaka, the village chief <supplied reason="explanation"><foreign>nāṭṭāmai mutaṉmai</foreign></supplied>.
+                </p>
+                
                 <p n="25-28">
                     For this, the witnesses <supplied reason="subaudible">are</supplied>
                     <list>
@@ -204,14 +212,14 @@
                 </p>
                 
                 <p n="28-29">
-                    This <supplied reason="subaudible">donation</supplied>, if whoever harms it, ...
+                    This <supplied reason="subaudible">donation</supplied>, if whoever harms it, will be punished by the Gods Mīṉācci and Cokkaliṅkar
                 </p>
                 
                 <p n="30-31">
                     He who made this plate is Caṇmukam Ācāri at the west gate of the city of Maturā.
                 </p>
                 <p n="31-33">
-                    In that manner, the signature in the hand of the of the honourable Tirumalai Nāyaka <hi rend="italic">alias</hi> the glorious lord.
+                    In that manner, the signature in the hand of the honourable Tirumalai Nāyaka <hi rend="italic">alias</hi> the glorious lord.
                 </p>
                         
             </div>	
@@ -224,7 +232,7 @@
             <div type="bibliography">
                 
                 <p>
-                    Edited by Ramprashanth Venkatakrishnan. Reviewed and encoded by Emmanuel Francis.</p>
+                    This edition and translation by Ramprashanth Venkatakrishnan. Reviewed and encoded by Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     
