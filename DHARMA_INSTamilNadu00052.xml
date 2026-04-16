@@ -126,7 +126,7 @@
             
             <div type="commentary">
                 <p>Compare with <ref target="INSSIIv12p0i0178"></ref>, a 13th century inscription from Jambai (Tirukkōvilūr) where another construction of a dancing hall (<foreign>nitta maṇḍapa</foreign>) is registered.</p>
-                <p>Compare with <ref target="DHARMA_INSTamilNadu00045"/>, of similar content, of the time of Poṉparappināṉ alias Rājarāja. It is not clear if the <foreign>maṇḍapa</foreign> referred to in both inscriptions is the same one as <ref target="DHARMA_INSTamilNadu00045"/> is on the wall of the <foreign>mukhamaṇḍapa</foreign> and <ref target="DHARMA_INSTamilNadu00052"/> on a pillar of the open maṇḍapa in front of the <foreign>mukhamaṇḍapa</foreign>.</p> 
+                <p>Compare with <ref target="DHARMA_INSTamilNadu00045"/>, of similar content, of the time of Poṉparappināṉ alias Rājarāja. It is not clear if the <foreign>maṇḍapa</foreign> referred to in both inscriptions is the same one as <ref target="DHARMA_INSTamilNadu00045"/> is on the wall of the <foreign>mukhamaṇḍapa</foreign> and this inscription is on a pillar of the open <foreign>maṇḍapa</foreign> in front of the <foreign>mukhamaṇḍapa</foreign>.</p> 
             </div>
             
             <div type="bibliography">
@@ -138,14 +138,6 @@
                     
                     </listBibl>-->
                 
-                <listBibl type="secondary">
-                    <bibl n="ARIE">
-                        <ptr target="bib:ARIE1939-1943"/>
-                        <citedRange unit="page">93</citedRange>
-                        <citedRange unit="item">159</citedRange>
-                        <citedRange unit="appendix">B/1940-1941</citedRange>
-                    </bibl> 
-                </listBibl>
                 
             </div>
         </body>
