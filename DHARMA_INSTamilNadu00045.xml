@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, time of Rājarāja Poṉparappiṉāṉ, no year</title>
+                <title>Nallūr, Vilvāraṇyeśvara, no king, no year</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Stone inscription (wall) recording the foundation of a <foreign>maṇḍapa</foreign><note>A pillared hall.</note> named after Poṉparappināṉ alias Rājarāja and constructed by Cunta<supplied reason="omitted">ra</supplied>-paṭṭaṉ alias Tillai Nāyaka Vēḷāṉ, lord of Āṟṟūr.</summary>
+                        <summary>Stone inscription (wall) recording the construction of a <foreign>maṇḍapa</foreign><note>A pillared hall.</note> named after Poṉparappināṉ alias Rājarāja and constructed by Cunta<supplied reason="omitted">ra</supplied>-paṭṭaṉ alias Tillai Nāyaka Vēḷāṉ, lord of Āṟṟūr.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -129,9 +129,9 @@
             
             <div type="commentary">
                 <p>
-                    The records appears nowadays incomplete and only two out of three blocks that composed the inscription are extant. One of them can be found to the right of the entrance leading to the <foreign>garba-gṛha</foreign>, while the other piece is just a few steps away, still inside <foreign>mukhamaṇḍapa</foreign>, on the floor. It is evident that the inscription was misplaced, making it impossible to know whether the maṇḍapa referred to in this record is the same one that is mentioned in <ref target="DHARMA_INSTamilNadu00052"/>. This inscription is on the wall of the <foreign>mukhamaṇḍapa</foreign>, while <ref target="DHARMA_INSTamilNadu00052"/> on a pillar of the open maṇḍapa in front of the <foreign>mukhamaṇḍapa</foreign>. 
+                    The record is presently incomplete. Only two blocks are extant and one of them appears to be missing. Furthermore, one block is now found to the right of the entrance to the <foreign>garbagṛha</foreign>, while the other lies on the floor of the <foreign>mukhamaṇḍapa</foreign>, on the floor. Since the stones are no longer in their original position, it is unclear whether the maṇḍapa mentioned here is the same referred to in <ref target="DHARMA_INSTamilNadu00052"/>.
                 </p>
-                <p>Compare with <ref target="DHARMA_INSTamilNadu00038"/>. That record, daஇத்ted to the 18th year of king Kulottuṅga III, seems to belong endowment programme. 
+                <p>Compare with <ref target="DHARMA_INSTamilNadu00038"/>. That record, dated to the 18th year of king Kulottuṅga III, may suggest a related local patronage context. 
                     </p>
                 
                 
