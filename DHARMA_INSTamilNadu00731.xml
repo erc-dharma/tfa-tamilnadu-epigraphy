@@ -81,8 +81,8 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>kā<choice><orig>lai</orig><reg>ḷa</reg></choice>yu<choice><orig>t</orig><reg>k</reg></choice>ta <g type="varuṣam"></g> Āṭi <g type="mācam"></g>
-                    <lb n="2"/><num value="13"> <g type="numeral">10</g> 3</num> <g type="tēti"></g>
+                    <lb n="1"/>kā<choice><orig>lai</orig><reg>ḷa</reg></choice>yu<choice><orig>t</orig><reg>k</reg></choice>ta <g type="varuṣam"/> Āṭi <g type="mācam"/>
+                    <lb n="2"/><num value="13"> <g type="numeral">10</g> 3</num> <g type="tēti"/>
                 </p>
                 <p> 
                      tirupperuntuṟai
@@ -115,7 +115,7 @@
                 <p>
                     <lb n="25"/>Iṟpaṭikku Ituvum Allātē
                     <lb n="26"/><choice><orig>I</orig><reg>Ī</reg></choice>ṉa-cātiyāka <!-- īṉacāti is the low caste, according to VVG --> pōka-k kaṭavō
-                    <lb n="27"/>mākavum <g type="pc"></g> 
+                    <lb n="27"/>mākavum <g type="pc"/> 
                 </p>
             </div>	
             
