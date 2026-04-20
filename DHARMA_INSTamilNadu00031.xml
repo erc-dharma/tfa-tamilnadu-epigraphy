@@ -96,28 +96,36 @@
                     <lb n="2" break="no"/><unclear>vaṟ</unclear>ku yāṇṭu <num value="19"><g type="numeral">10</g> 9</num> Āvatu
                 </p>
                 
-                <p>        
+                <p>     
+                    
                     <lb n="3"/><unclear>Ā</unclear>ḷappiṟan=tā<choice><orig>n</orig><reg>ṉ</reg></choice> mōkaṉ-āṉa kā
                     <lb n="4" break="no"/>ṭavarāyaṉ-ēṉ nallūr Uṭai
                     <lb n="5" break="no"/>yār nalla-nāyaṉāṟku tiru-p-pa
                     <lb n="6" break="no"/>ṇikkum tiru-p-paṭimāṟṟukkum ā
                     <lb n="7" break="no"/>ka v-iṭṭaṉ 
                 </p>
-                <p>     
-                    nallūr Ellai Aṭa
+                <p> 
+                    <list>
+                        <item> nallūr Ellai Aṭa
                     <lb n="8" break="no"/><unclear>ṅ</unclear>ka n<unclear>i</unclear>lam munnūṟṟ’ aṟu-<supplied reason="lost">patu vē</supplied>li
-                    <lb n="9" break="no"/>yum 
-                    vaṭa-v-āṟṟaṅkarai-t tiru-nan=tava
-                    <lb n="10" break="no"/>ṉam 5 vēliyum kāccuva-k-kuṭi
-                    <lb n="11" break="no"/>yil nilam Ai-vē<unclear>l</unclear>iyum vali
+                    <lb n="9" break="no"/>yum</item>
+                        <item>vaṭa-v-āṟṟaṅkarai-t tiru-nan=tava
+                    <lb n="10" break="no"/>ṉam 5 vēliyum</item>
+                        <item>kāccuva-k-kuṭi
+                    <lb n="11" break="no"/>yil nilam Ai-vē<unclear>l</unclear>iyum</item>
+                        <item>vali
                     <lb n="12" break="no"/>y<unclear>ō<!--kāl clear--></unclear>caiyil nilam muṉ<unclear>ṟu</unclear>
-                    <lb n="13"/>māvum puñcaṉūril nilam 1/10
-                    
-                    <lb n="14"/>potu-k-kuṭi nilam 3/20 <unclear>m</unclear> n<choice><sic>i</sic><corr>ī</corr></choice>kki
-                    <lb n="15" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>a nilam 1/4 m Āka 
+                    <lb n="13"/>māvum</item>
+                        <item>puñcaṉūril nilam 2/20</item>
+                        <item><lb n="14"/>potu-k-kuṭi nilam 3/20 <unclear>m</unclear></item>
+                        <item> n<choice><sic>i</sic><corr>ī</corr></choice>kki
+                    <lb n="15" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>a nilam 1/4 m</item>
+
+                        </list>
                 </p>
                 <p>   
-                    In-nilaṅkaḷil 
+                  
+                     Āka In-nilaṅkaḷil 
                     <list>
                         <item>
                             pā
@@ -129,7 +137,7 @@
                         </item>
                         <item>
                             <supplied reason="lost">It-tiru</supplied>vellaiy<unclear>il</unclear> <unclear>mā</unclear><supplied reason="lost">k</supplied>
-                            <lb n="18"/>kācu taṟi-<unclear>y</unclear>-<supplied reason="lost">iṟai U</supplied>ṭpaṭ=ṭa kīḻ iṟai-p pāṭ<supplied reason="lost">ṭa</supplied>
+                            <lb n="18" break="no"/>kācu taṟi-<unclear>y</unclear>-<supplied reason="lost">iṟai U</supplied>ṭpaṭ=ṭa kīḻ iṟai-p pāṭ<supplied reason="lost">ṭa</supplied>
                             <lb n="19" break="no"/>ṅkaḷu<unclear>m</unclear>
                         </item>
                     </list>
@@ -191,11 +199,12 @@
                     </list>       
                 </p>
                 <p >
-                    Among these lands
-                    ...
-                    I have given to NN
-                    The other dues <supplied reason="explanation"><foreign>maṟṟuḷḷa āyaṅkaḷ</foreign></supplied>, including the <foreign>mākkalam</foreign> levy, i.e. so many <foreign>kalam</foreign> of paddy per <foreign>mā</foreign> <supplied reason="subaudible">of land</supplied>, and the due for safeguarding the lands <supplied reason="explanation"><foreign>pāṭikāval</foreign></supplied>; and the minor cesses <supplied reason="explanation"><foreign>kīḻ-iṟai-p-pāṭṭam</foreign></supplied>, including the tax on loom <supplied reason="explanation"><foreign>taṟi-iṟai</foreign></supplied> and the <foreign>mākkācu</foreign> levy, i.e. one <foreign>kācu</foreign> of gold per <foreign>mā</foreign> <supplied reason="subaudible">of land</supplied>,
-                    all included <supplied reason="explanation"><foreign>aṭaṅka</foreign></supplied>. 
+                    I have granted for the deity Nalla-Nāyaṉār, [the taxes] that are included within these lands: 
+                    <list>
+                        <item><foreign>mākkalam</foreign> taxes<note>Probably a kind of tax that was paid in a specified rate of <foreign>kalam</foreign> of paddy per <foreign>mā</foreign> of land</note>, including the due for safeguarding the lands <supplied reason="explanation"><foreign>pāṭikāval</foreign></supplied>.</item>
+                        <item>other dues <supplied reason="explanation"><foreign>maṟṟuḷḷa āyaṅkaḷ</foreign></supplied>,</item>
+                        <item>the minor cesses <supplied reason="explanation"><foreign>kīḻ-iṟai-p-pāṭṭam</foreign></supplied>, including the tax on loom <supplied reason="explanation"><foreign>taṟi-iṟai</foreign></supplied> and the <foreign>mākkācu</foreign><note>Probably a kind of tax that was paid at a rate of certain amount of gold coins <supplied reason="explanation">kācu</supplied> per mā of land</note> levy in this sacred border <supplied reason="explanation"><foreign>ittiruvelaiyil</foreign></supplied>.</item>
+                    </list>
                 </p>
                 <p>
                     This is under the protection of the <foreign>paṉmaheśvaras</foreign>.
