@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, time of Vīrarājendra (Kulotttuṅga III), year 6</title>
+                <title>Nallūr, Vilvāraṇyeśvara, time of Vīrarājendra, year 6</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -101,9 +101,9 @@
                     
                     <lb n="4" break="no"/><supplied reason="lost">tra</supplied>-<unclear>pāla</unclear>-p p<supplied reason="lost">i</supplied>ḷḷaiyāṉ <unclear>E</unclear>ḻuntar<choice><sic>u</sic><corr>i</corr></choice><unclear>vi</unclear>ttu-k k<unclear>ōyilu</unclear><supplied reason="lost">m eṭuppi</supplied>
                     
-                    <lb n="5" break="no"/><supplied reason="omitted">t</supplied>tu-t tiru-v-amutu-paṭikkun= tiruviḷakku-kkum Aivar-pu<unclear>tu</unclear><supplied reason="lost">k</supplied>kuṭiyi
+                    <lb n="5" break="no"/><supplied reason="omitted">t</supplied>tu-t tiru-v-amutu-paṭikkun= tiruviḷakkukkum Aivar-pu<unclear>tu</unclear><supplied reason="lost">k</supplied>kuṭiyi
                     
-                    <lb n="6"/><unclear>l</unclear> v-iṭ=ṭa na<choice><sic>n</sic><corr>ñ</corr></choice>ce<supplied reason="omitted">y</supplied> nilaṅ kāl
+                    <lb n="6" break="no"/><unclear>l</unclear> v-iṭ=ṭa na<choice><sic>n</sic><corr>ñ</corr></choice>ce<supplied reason="omitted">y</supplied> nilaṅ kāl
                 </p>
                 
                 <p>        
@@ -114,7 +114,7 @@
                     
                     <lb n="9"/><supplied reason="lost">Amattai</supplied>-<unclear>kū</unclear>vāṉum paṭiya<choice><orig>n</orig><reg>ṉ</reg></choice> nāṭaṉum uḷḷiṭ=ṭa koṭumpuṉa<unclear>va</unclear> Ū
                     
-                    <lb n="10" break="no"/>rōm <supplied reason="lost">piḷ</supplied>ḷaiyar <hi rend="grantha">śrī</hi>-pātattē nīr vārttu kallu veṭ=ṭi <supplied reason="lost">vi</supplied>
+                    <lb n="10" break="no"/>rōm <supplied reason="lost">piḷ</supplied>ḷaiyar <hi rend="grantha">śrī</hi>-pātattē nīr vārttu kallu veṭ=ṭi<supplied reason="lost">vi</supplied>
                     
                     <lb n="11" break="no"/>ṭ=ṭōm <unclear>I</unclear>vv-aṉaivōm 
                 </p>
@@ -156,7 +156,7 @@
                 </p>
                 
                 <p n="1">
-                    This is the sixth year of king Vīrarājendra <supplied reason="explanation">Kulottuṅga III</supplied>.
+                    Sixth year of king Vīrarājendra.<note>Kulottuṅga III Cōḻa.</note>
                 </p>
                 
                 <p n="2-6">
@@ -165,15 +165,16 @@
                 </p>
                 
                 <p n="6-11">
-                    We, the residents of Koṭumpuṉavam,<note>We have not been able to identify the village referred to in this record. However, some 30km. east, also on the Manimuktha river, lies the present-day village of Koṭumaṉūr, probably the best candidate for Koṭumpuṉavan. </note>
+                    This <supplied reason="explanation"><foreign>itu</foreign></supplied>, in this village <supplied reason="explanation"><foreign>ivvūr</foreign></supplied>,
+                    We, the residents of Koṭumpuṉavam,<note>We have not been able to identify the village referred to in this record. However, some 30 km east, also on the Manimuktha river, lies the present-day village of Koṭumaṉūr, a possible candidate for Koṭumpuṉavan.</note>
                     <list>
                     <item>Koṭumpuṉavaṉ Ciṅkantēvar Ciriya Malaiyamāṉ,</item> 
                     <item>Paṭaiyaṉ Ceyaṅkoṇṭa Malaiyamāṉ,</item>
-                    <item>Tēvatirucciṟṟampala Malaiyamāṉ,</item> 
+                    <item>Tēvan Tirucciṟṟampala Malaiyamāṉ,</item> 
                     <item>Amattai Kūvāṉ, and</item>
                     <item>Paṭiyaṉ Nāṭaṉ,</item>
                     </list>
-                    have given this village <supplied reason="explanation"><foreign>itu ivvūr</foreign></supplied> after we, such people <supplied reason="explanation"><foreign>ivv-aṉaivōm</foreign></supplied>, poured water on the holy feet of the deity <supplied reason="explanation"><foreign>piḷḷai</foreign></supplied>.
+                    had it engraved  after we, such people <supplied reason="explanation"><foreign>ivv-aṉaivōm</foreign></supplied>, poured water on the holy feet of the deity <supplied reason="explanation"><foreign>piḷḷai</foreign></supplied>.
                 </p>
                 
                 <p n="11-12">

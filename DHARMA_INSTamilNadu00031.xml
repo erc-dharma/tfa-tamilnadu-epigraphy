@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, time of Rājarāja Cōḻa II, year 19</title>
+                <title>Nallūr, Vilvāraṇyeśvara, time of Rājarāja, year 19</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -99,12 +99,12 @@
                 <p>        
                     <lb n="3"/><unclear>Ā</unclear>ḷappiṟan=tā<choice><orig>n</orig><reg>ṉ</reg></choice> mōkaṉ-āṉa kā
                     <lb n="4" break="no"/>ṭavarāyaṉ-ēṉ nallūr Uṭai
-                    <lb n="5" break="no"/>yār nalla-nāyaṉāṟku tiruppa
+                    <lb n="5" break="no"/>yār nalla-nāyaṉāṟku tiru-p-pa
                     <lb n="6" break="no"/>ṇikkum tiru-p-paṭimāṟṟukkum ā
                     <lb n="7" break="no"/>ka v-iṭṭaṉ 
                 </p>
                 <p>     
-                    nallūr <supplied reason="explanation">e</supplied>llai Aṭa
+                    nallūr Ellai Aṭa
                     <lb n="8" break="no"/><unclear>ṅ</unclear>ka n<unclear>i</unclear>lam munnūṟṟ’ aṟu-<supplied reason="lost">patu vē</supplied>li
                     <lb n="9" break="no"/>yum 
                     vaṭa-v-āṟṟaṅkarai-t tiru-nan=tava
@@ -113,8 +113,8 @@
                     <lb n="12" break="no"/>y<unclear>ō<!--kāl clear--></unclear>caiyil nilam muṉ<unclear>ṟu</unclear>
                     <lb n="13"/>māvum puñcaṉūril nilam 1/10
                     
-                    <lb n="14"/>potu-k-kuṭi nilam 3/20 -<unclear>m</unclear> n<choice><sic>i</sic><corr>ī</corr></choice>kki
-                    <lb n="15"/><choice><orig>n</orig><reg>ṉ</reg></choice>a nilam 1/4 -m Āka 
+                    <lb n="14"/>potu-k-kuṭi nilam 3/20 <unclear>m</unclear> n<choice><sic>i</sic><corr>ī</corr></choice>kki
+                    <lb n="15" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice>a nilam 1/4 m Āka 
                 </p>
                 <p>   
                     In-nilaṅkaḷil 
@@ -165,28 +165,37 @@
             
             <div type="translation" resp="part:reda part:emfr">
                 
-                <p n="1-2"> 		
+                <p n="1"> 		
                     Prosperity! Fortune!
                 </p>
                 
+                <p n="1-2"> 		
+                    19th year of the king Rājarāja.<note>Rājarāja II Cōḻa.</note>
+                </p>
+                
                 <p n="3-9">
-                    I, Āḷappiṟantāṉ Mōkaṉ alias Kāṭavarāyaṉ, have made this endowment to Nalla Nāyaṉār, Lord of Nallūr, for the food offerings <supplied reason="explanation"><foreign>tiruppaṭimāṟu</foreign></supplied> and for the sacred services <supplied reason="explanation"><foreign>tiruppaṇi</foreign></supplied>:
+                    I, Kāṭavarāyaṉ alias Āḷappiṟantāṉ Mōkaṉ, have made this endowment,
+                    for the sacred services <supplied reason="explanation"><foreign>tiruppaṇi</foreign></supplied>
+                    and for the food offerings <supplied reason="explanation"><foreign>tiruppaṭimāṟu</foreign></supplied>                 
+                    to Nalla Nāyaṉār, Lord of Nallūr:
                 </p>
                 <p >
                     <list>
-                        <item>360 <foreign>vēli</foreign>s of land that comprise the boundaries of Nallūr,</item> 
-                        <item>5 <foreign>vēli</foreign>s of land of the sacred garden on the northern bank of the river,</item>
-                        <item>5 <foreign>vēli</foreign>s of land for the Kāccuvakuṭi,<note>The village is nowadays known as Kaccakuṭi.</note></item>
-                        <item>3/20 <supplied reason="subaudible">vēlis</supplied> in Valiyōcai,<note>The village called Valacai.</note></item>
-                        <item>2/20 <supplied reason="subaudible">vēlis</supplied> of land in Puñcaṉūr,<note>The village is called nowadays  Piñcaṉūr. These three villages are contiguous to Nallūr.</note> </item>
-                        <item>3/20 <supplied reason="subaudible">vēlis</supplied> for the new tenants <supplied reason="explanation"><foreign>potukkuṭi</foreign></supplied>, and </item>
+                        <item>three hundred sixty <foreign>vēli</foreign>s of land that comprise the boundaries of Nallūr;</item> 
+                        <item>5 <foreign>vēli</foreign>s of land of the sacred garden on the northern bank of the river;</item>
+                        <item>five <foreign>vēli</foreign>s of land for the Kāccuvakuṭi,<note>The village is nowadays known as Kaccakuṭi;</note></item>
+                        <item>3/20 <supplied reason="subaudible"><foreign>vēli</foreign>s</supplied> in Valiyōcai,<note>The village called Valacai.</note></item>
+                        <item>2/20 <supplied reason="subaudible"><foreign>vēli</foreign>s</supplied> of land in Puñcaṉūr;<note>The village is called nowadays  Piñcaṉūr. These three villages are contiguous to Nallūr.</note> </item>
+                        <item>3/20 <supplied reason="subaudible"><foreign>vēli</foreign>s</supplied> for the new tenants <supplied reason="explanation"><foreign>potukkuṭi</foreign></supplied>, and </item>
                         <item>deducting <supplied reason="explanation"><foreign>nīkki</foreign></supplied> 1/4 <supplied reason="subaudible">vēli</supplied> of land.</item>
                     </list>       
                 </p>
                 <p >
-                    The other dues <supplied reason="explanation"><foreign>maṟṟuḷḷa āyaṅkaḷ</foreign></supplied>, including the <foreign>mākkalam</foreign> levy, i.e. so many <foreign>kalam</foreign> of paddy per <foreign>mā</foreign> <supplied reason="subaudible">of land</supplied>, and the due for safeguarding the lands <supplied reason="explanation"><foreign>pāṭikāval</foreign></supplied>; and the minor cesses <supplied reason="explanation"><foreign>kīḻ-iṟai-p-pāṭṭam</foreign></supplied>, including the tax on loom <supplied reason="explanation"><foreign>taṟi-iṟai</foreign></supplied> and the <foreign>mākkācu</foreign> levy, i.e. one <foreign>kācu</foreign> of gold per <foreign>mā</foreign> <supplied reason="subaudible">of land</supplied>.
-                    
-                    
+                    Among these lands
+                    ...
+                    I have given to NN
+                    The other dues <supplied reason="explanation"><foreign>maṟṟuḷḷa āyaṅkaḷ</foreign></supplied>, including the <foreign>mākkalam</foreign> levy, i.e. so many <foreign>kalam</foreign> of paddy per <foreign>mā</foreign> <supplied reason="subaudible">of land</supplied>, and the due for safeguarding the lands <supplied reason="explanation"><foreign>pāṭikāval</foreign></supplied>; and the minor cesses <supplied reason="explanation"><foreign>kīḻ-iṟai-p-pāṭṭam</foreign></supplied>, including the tax on loom <supplied reason="explanation"><foreign>taṟi-iṟai</foreign></supplied> and the <foreign>mākkācu</foreign> levy, i.e. one <foreign>kācu</foreign> of gold per <foreign>mā</foreign> <supplied reason="subaudible">of land</supplied>,
+                    all included <supplied reason="explanation"><foreign>aṭaṅka</foreign></supplied>. 
                 </p>
                 <p>
                     This is under the protection of the <foreign>paṉmaheśvaras</foreign>.
