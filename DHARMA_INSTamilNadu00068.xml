@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Marudanallūr, Karakkuṭi temple, time of Rājarāja, year 2</title>
+                <title>Marutanallūr, Karakkuṭi temple, time of Rājarāja, year 2</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -81,88 +81,88 @@
         
         <body>
             
-        <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-              <div type="textpart" subtype="fragment" n="A">  
-            <p>
-                <lb n="1"/>tiripuvaṉa cakkara-vattikaḷ ciri Irā<unclear>ca</unclear> <gap quantity="6" unit="character" reason="lost"></gap> yāṇṭu 2=<g type="varuṣam"/> vatu m<unclear>ī</unclear><supplied reason="lost">ṉa</supplied> nāyaṟṟu Amarapa<choice><orig>ṣṣ</orig><reg>kṣa</reg></choice>attu tirutiyaiyum tiṅkaḷ-kiḻamaiyum peṟṟa cataiyattu nāḷ 
-            </p>
-            <p>
-                kulōttuṅka
-                <lb n="2"/>cōḻa-vaḷanāṭṭu-t tiruna<unclear>ṟ</unclear>aiyūr-nāṭṭu tirukkarukkuṭi Uṭaiyār vi<supplied reason="lost">ḻu</supplied>miya-nāyaṉār kōyil Āt<unclear>i</unclear>taṇṭecura-tēvar tiruvaruḷāl Ik-kōyil tāṉattārōm nilavilai-<unclear>p</unclear>
-                
-                <lb n="3" break="no"/>piramāṇa Icaivu-t<choice><sic>i</sic><corr>ī</corr></choice>ṭṭu Iṉ-ṉāṭṭu ceṉṉi-maṅkalattu Uṭaiyār viccecura<supplied reason="lost">t</supplied>ēvar kōyil tēvaraṭiyāril karaiyēṟaviṭṭāḷ tirunāṭṭa-p perumāḷukku nāṅkaḷ nila-vilai-p-piramāṇa
-                
-                <lb n="4"/>Icaivut<choice><sic>i</sic><corr>ī</corr></choice>ṭṭu-k kuṭuttu paricā<supplied reason="lost">va</supplied><unclear>tu</unclear>
-            </p>
-            <p>
-                It-tirukkarukkuṭi Uṭaiyār viḻumiya-nāyaṉār kōyilukku tiruvātav<unclear>ū</unclear>r-nāyaṉārai Ivar y-eḻuntaruḷivittu tiruppi<supplied reason="omitted">ra</supplied>tiṭṭai paṇṇivittu y-eḻuntaruḷi
-                <lb n="5"/>Irukkiṟa Ivarkku muṉpu c<choice><sic>i</sic><corr>ī</corr></choice>paṇṭ<unclear>āra</unclear>ttu viṭṭu varukiṟa Arici Uḷpaṭa <unclear cert="low">kaṉakoṭai</unclear> Iruṉāḻi Arici nimantam āka<supplied reason="lost">p</supplied>paṭu Arici cantiyilē Amutu ceyaru<unclear>ḷu</unclear>vum Ic-cōṟṟilē nāḻi vi<hi rend="grantha">pra</hi>rici cō
-                <lb n="6" break="no"/>ṟ <gap reason="lost" quantity="9" unit="character"/> na <gap reason="lost" quantity="3" unit="character"/> e <gap reason="lost" quantity="2" unit="character"/> k<choice><unclear>ar</unclear><unclear>ā</unclear></choice>ka-k kuṭukkavu<unclear>m</unclear> <unclear>n</unclear><choice><sic>i</sic><corr>ī</corr></choice>kki <unclear>niṉṟa</unclear> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>o</seg><unclear>ya Ariyam</unclear>  <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="1" unit="character"/> ṟṟiṭaippilē <unclear cert="low">mutacekavum</unclear> <gap reason="lost" quantity="2" unit="character"/> <unclear>ṭi</unclear>kka Iṉ<unclear cert="low">ta-t</unclear> tirukka<unclear>ru</unclear>kk<unclear>u</unclear>ṭi <unclear>Uṭai</unclear>yār viḻ<unclear>u</unclear>miya-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār tiru<unclear>ṉā</unclear>mattu <unclear>ṭu</unclear><unclear>I</unclear>e
-            </p>
-                </div>
-            
-            <div type="textpart" subtype="fragment" n="B">
-                <p>
-                <lb n="7" break="no"/><unclear>v</unclear>ōm puranāṭṭu tiruvalañcu <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> -ppu Uyyakoṇṭār-vaḷanāṭṭu <gap reason="lost" extent="unknown"/> 
-                <lb n="8"/>-p piṭākai karuppūril <unclear>kiḻā</unclear><unclear>n</unclear> <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> k<choice><unclear>ar</unclear><unclear>ām</unclear></choice> Akilanāya-c-caruppeti-maṅkalattu <gap reason="lost" extent="unknown"/>
-                <lb n="9"/><g type="symbol"/><unclear>li</unclear> <unclear>vaṭa</unclear>mēṟku-c cāra-p puṟa <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> tikku kiḻakku 2 <seg rend="check">1/10</seg> catirattu <g type="nilam"/> 2 1/10 <unclear>1/5</unclear> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" extent="unknown"/> 
-                <lb n="10"/><gap reason="lost" quantity="1" unit="character"/> ciṉṉattiṉāl parappu I<unclear cert="low">va</unclear> <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> <unclear cert="low"><g type="numeral">10</g> vaku</unclear> <g type="nilam"/> 2 <unclear>1/5</unclear> n<choice><sic>i</sic><corr>ī</corr></choice>kki tirunāmattukkāṇi <g type="nilam"/> <unclear><g type="symbol"/></unclear> <gap reason="lost" extent="unknown"/>
-                <lb n="11"/>tavaṟai perumāḷ tirunāmattu <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> yilē kiḻakkaṭaiya nālumā nilam Inta tiru <gap reason="lost" extent="unknown"/>
-                <lb n="12"/><gap reason="lost" quantity="3" unit="character"/> vilai ma <gap reason="lost" quantity="3" unit="character"/> Aṉṟāṭu naṟ <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> iyāka <gap reason="lost" quantity="2" unit="character"/> ka k<supplied reason="lost">u</supplied>ṭuk<supplied reason="lost">k</supplied>vum Iṉnilam <supplied reason="lost">nā</supplied>lu <gap reason="lost" extent="unknown"/>
-                </p>
-                 </div>
-            
-            <div type="textpart" subtype="fragment" n="C">
-                <p>
-              <lb n="13"/>Iṉāṭu-k kācu <gap reason="lost" quantity="1" unit="character"/> Uyyāyiramum Iva <gap reason="lost" quantity="2" unit="character"/> <unclear cert="low">cu</unclear>ra-k kaikkoṇṭ <gap reason="lost" extent="unknown"/>
-                <lb n="14"/>Oṭukku kuṭuttuvar-k kaṭavōm ākavum Ippaṭi cantirātitta <gap reason="lost" extent="unknown"/>
-                <lb n="15"/><gap reason="lost" quantity="1" unit="character"/> ñē <gap reason="lost" quantity="2" unit="character"/> It-tirukarukkuṭi nāyaṉa<supplied reason="lost">r</supplied> kōyil tāṉattō<supplied reason="lost">m</supplied>
-                <lb n="16"/><gap reason="lost" quantity="1" unit="character"/> Eḻuttu Ippaṭi <gap reason="lost" quantity="1" unit="character"/> <unclear>ki</unclear> <gap reason="lost" extent="unknown"/>
-                <lb n="17"/> lava<unclear>n</unclear> pa <gap reason="lost" quantity="3" unit="character"/> aṉ eḻuttu <gap reason="lost" extent="unknown"/>
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                <div type="textpart" subtype="fragment" n="A">  
+                    <p>
+                        <lb n="1"/>tiripuvaṉa cakkara-vattikaḷ ciri-Irāca-Irā<unclear>ca</unclear><gap quantity="5" unit="character" reason="lost"></gap> yāṇṭu 2=Āvatu m<unclear>ī</unclear><supplied reason="lost">ṉa</supplied>-nāyaṟṟu Amara-pa<choice><orig>ṣṣ</orig><reg>kṣa</reg></choice>attu tirutiyaiyum tiṅkaḷ-kiḻamaiyum peṟṟa cataiyattu nāḷ 
                     </p>
-               </div>
-            
-            <div type="textpart" subtype="fragment" n="D">
-                <p>
-                <lb n="18"/><choice><unclear>ya</unclear><unclear>pa</unclear></choice> <gap reason="lost" quantity="1" unit="character"/> mār <unclear reason="eccentric_ductus">mū</unclear>venta vaṭallē kaṭamai kuṭi<supplied reason="lost">m</supplied>ai Iṟuttu Iṟai mikuti koṇṭu In<supplied reason="lost">ta</supplied> <unclear>ni</unclear><choice><orig><unclear>ya</unclear></orig><reg><unclear>va</unclear></reg></choice>ntam ce<unclear>y</unclear> <gap reason="lost" extent="unknown"/>
-                <lb n="19"/>t<unclear>e</unclear>ttu nilavilai-p-piramāṇa Icaivutiṭṭu kuṭuttōm Inta-k karaiyēṟaviṭṭāḷ tirunaṭṭa-p <unclear>p</unclear>e<supplied reason="lost">rumāḷ</supplied><gap reason="lost" extent="unknown"/>
-              <lb n="20"/>ṭaiya mattiyatan Aiyyūr uṭaiyāṉ U<supplied reason="lost">ṭ</supplied>ai<unclear>y</unclear>ā<choice><orig>n</orig><reg>ṉ</reg></choice> nā<unclear>ya</unclear>ka <gap reason="lost" quantity="1" unit="character"/> ettu <unclear>I</unclear>ppa<unclear>ṭi</unclear>kk ivai tēvakanmi<unclear>ka</unclear><supplied reason="lost">ḷ</supplied> 
-                <lb n="21"/><unclear>ār</unclear>-p perumāḷ y-eḻuttu Ivai Ītānatēvan neḻuttu Ippa<unclear>ṭikk</unclear> <gap reason="lost" quantity="4" unit="character"/> caka<gap reason="lost" quantity="1" unit="character"/>āyam paṭṭi Uṭaiyān vi <gap reason="lost" extent="unknown"/>
-                </p>
+                    <p>
+                        kulōttuṅka
+                        <lb n="2" break="no"/>-cōḻa-vaḷanāṭṭu-t tiruna<unclear>ṟ</unclear>aiyūr-nāṭṭu tirukkarukkuṭi Uṭaiyār vi<supplied reason="lost">ḻu</supplied>miya-nāyaṉār kōyil Āt<unclear>i</unclear>taṇṭecura-tēvar tiruvaruḷāl Ik-kōyil tāṉattārōm nilavilai-<unclear>p</unclear>
+                        
+                        <lb n="3" break="no"/>-piramāṇa-Icaivu-t<choice><sic>i</sic><corr>ī</corr></choice>ṭṭu Iṉ-ṉāṭṭu ceṉṉi-maṅkalattu Uṭaiyār viccēcura-<supplied reason="lost">t</supplied>ēvar kōyil tēvaraṭiyāril karaiyēṟaviṭṭāḷ tirunāṭṭa-p-perumāḷukku nāṅkaḷ nila-vilai-p-piramāṇa
+                        
+                        <lb n="4" break="no"/>-Icaivu-t<choice><sic>i</sic><corr>ī</corr></choice>ṭṭu-k kuṭutta paric-ā<unclear>vatu</unclear>
+                    </p>
+                    <p>
+                        It-tirukkarukkuṭi Uṭaiyār viḻumiya-nā<unclear>ya</unclear><supplied reason="lost">ṉ</supplied>ār kōyilukku tiruvātav<unclear>ū</unclear>r-nāyaṉārai Ivar y-eḻunt-aruḷivittu tiruppi<supplied reason="omitted">ra</supplied>tiṭṭai paṇṇivittu y-eḻunt-aruḷi
+                        <lb n="5"/>Irukkiṟa Ivarkku muṉpu c<choice><sic>i</sic><corr>ī</corr></choice>paṇṭ<unclear>āra</unclear>ttu viṭṭu varukiṟa Arici Uḷpaṭa <seg rend="check"><unclear cert="low">kaṉakoṭai</unclear></seg> Iru-ṉāḻi Arici nimantam āka<supplied reason="lost">p</supplied>paṭu Ucci-cantiyilē Amutu ceyaru<unclear>ḷu</unclear>vum Ic-cōṟṟilē nāḻi <seg rend="check">vi<hi rend="grantha">pra</hi></seg>rici cō
+                        <lb n="6" break="no"/><unclear>ṟu</unclear> <gap reason="lost" quantity="9" unit="character"/> na <gap reason="lost" quantity="3" unit="character"/> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="2" unit="character"/> kākka-k kuṭukkavu<unclear>m</unclear> n<choice><sic>i</sic><corr>ī</corr></choice>kki <unclear>niṉṟa</unclear> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>o</seg><unclear>ya Ariyam</unclear>  <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="1" unit="character"/> ṟṟiṭaippilē <unclear cert="low">mutacekavum</unclear> <gap reason="lost" quantity="2" unit="character"/> <unclear>ṭi</unclear>kka Iṉ<unclear cert="low">ta-t</unclear> tirukka<unclear>ru</unclear>kk<unclear>u</unclear>ṭi <unclear>Uṭai</unclear>yār viḻ<unclear>u</unclear>miya-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār tiru<unclear>ṉā</unclear>mattu <choice><unclear>ṭu</unclear><unclear>I</unclear></choice><unclear>ṭa</unclear>
+                    </p>
+                </div>
+                
+                <div type="textpart" subtype="fragment" n="B">
+                    <p>
+                        <lb n="7" break="no"/><unclear>vō<!--kompu lost--></unclear>m puranāṭṭu tiruvalañcu <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> -ppu Uyyakoṇṭār-vaḷanāṭṭu <gap reason="lost" extent="unknown"/> 
+                        <lb n="8"/>-p piṭākai karuppūril kiḻā<unclear>n</unclear> <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> k<choice><unclear>ara</unclear><unclear>ām</unclear></choice> Akilanāya-c-caruppēti-maṅkalattu <gap reason="lost" extent="unknown"/>
+                        <lb n="9"/><g type="symbol"/> <unclear>li</unclear> <unclear>vaṭa</unclear>mēṟku-c cāra-p puṟa <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> tikku kiḻakku 2 <g type="tam-kannaru"/> <unclear>1</unclear> catirattu <g type="tam-nilam"/> 1/4 1/10 <unclear>1/5</unclear> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" extent="unknown"/> 
+                        <lb n="10"/><gap reason="lost" quantity="1" unit="character"/> ciṉṉattiṉāl parappu I<unclear cert="low">va</unclear> <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> <seg rend="check"><unclear>1/10 1/320</unclear></seg> <g type="tam-kil"/> <seg rend="check"><unclear>1/5</unclear></seg> n<choice><sic>i</sic><corr>ī</corr></choice>kki tirunāmattukkāṇi <g type="tam-nilam"/> <unclear><g type="unknown"/></unclear> <gap reason="lost" extent="unknown"/>
+                        <lb n="11"/>tavaṟai perumāḷ tirunāmattu <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> yilē kiḻakk' aṭaiya nālu mā nilam Inta tiru <gap reason="lost" extent="unknown"/>
+                        <lb n="12"/><gap reason="lost" quantity="3" unit="character"/> vilai ma <gap reason="lost" quantity="3" unit="character"/> Aṉṟāṭu naṟ <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> ṇiyāka <unclear>viṟṟu-k</unclear> k<supplied reason="lost">u</supplied>ṭukkavum Iṉnilam <supplied reason="lost">nā</supplied>lu <gap reason="lost" extent="unknown"/>
+                    </p>
+                </div>
+                
+                <div type="textpart" subtype="fragment" n="C">
+                    <p>
+                        <lb n="13"/>ṉṟāṭu-k kācu <gap reason="lost" quantity="1" unit="character"/> Uyyāyiramum Iva <gap reason="lost" quantity="1" unit="character"/> <unclear cert="low">cu</unclear>ra-k kaikkoṇṭ <gap reason="lost" extent="unknown"/>
+                        <lb n="14"/>Oṭukkum kuṭuttuvāka kaṭavōm ākavum Ippaṭi cantirātitta <gap reason="lost" extent="unknown"/>
+                        <lb n="15"/><gap reason="lost" quantity="1" unit="character"/> ñē <gap reason="lost" quantity="2" unit="character"/> It-tirukarukkuṭi nāyaṉa<supplied reason="lost">r</supplied> kōyil tāṉattō<supplied reason="lost">m</supplied>
+                        <lb n="16"/><gap reason="lost" quantity="3" unit="character"/> Eḻuttu Ippaṭi<unclear>kki</unclear> <gap reason="lost" extent="unknown"/>
+                        <lb n="17"/><gap reason="lost" quantity="1" unit="character"/> lava<unclear>n</unclear> <unclear>palā</unclear>ṉ eḻuttu <gap reason="lost" extent="unknown"/>
+                    </p>
+                </div>
+                
+                <div type="textpart" subtype="fragment" n="D">
+                    <p>
+                        <lb n="18"/><choice><unclear>ya</unclear><unclear>pa</unclear></choice> <gap reason="lost" quantity="1" unit="character"/> mār <unclear reason="eccentric_ductus">mū</unclear>venta vaṭallē kaṭamai kuṭi<supplied reason="lost">m</supplied>ai Iṟuttu Iṟai mikuti koṇṭu In<supplied reason="lost">ta</supplied> <unclear>ni</unclear><choice><orig><unclear>ya</unclear></orig><reg><unclear>va</unclear></reg></choice>ntam ce<unclear>y</unclear> <gap reason="lost" extent="unknown"/>
+                        <lb n="19"/>t<unclear>e</unclear>ttu nilavilai-p-piramāṇa Icaivutiṭṭu kuṭuttōm Inta-k karaiyēṟaviṭṭāḷ tirunaṭṭa-p <unclear>p</unclear>e<supplied reason="lost">rumāḷ</supplied><gap reason="lost" extent="unknown"/>
+                        <lb n="20"/>ṭaiya mattiyatan Aiyyūr uṭaiyāṉ U<supplied reason="lost">ṭ</supplied>ai<unclear>y</unclear>ā<choice><orig>n</orig><reg>ṉ</reg></choice> nā<unclear>ya</unclear>ka <gap reason="lost" quantity="1" unit="character"/> ettu <unclear>I</unclear>ppa<unclear>ṭi</unclear>kk ivai tēvakanmi<unclear>ka</unclear><supplied reason="lost">ḷ</supplied> 
+                        <lb n="21"/><unclear>ār</unclear>-p perumāḷ y-eḻuttu Ivai Ītānatēvan neḻuttu Ippa<unclear>ṭikk</unclear> <gap reason="lost" quantity="4" unit="character"/> caka<gap reason="lost" quantity="1" unit="character"/>āyam paṭṭi Uṭaiyān vi <gap reason="lost" extent="unknown"/>
+                    </p>
                 </div>
             </div>
             
-            <!-- <div type="apparatus">
+            <div type="apparatus">
                 <listApp>
-                <app loc="6">
-                <lem><supplied reason="lost">kāṇivilai</supplied></lem>
-                <note>Reading after ASI transcript.</note>
-                </app>
+                    <app loc="1">
+                        <lem>2=Āvatu</lem>
+                        <note>The figure <foreign>2</foreign> and the <foreign>Ā</foreign> are written in a ligature.</note>
+                    </app>
                 </listApp>
                 
-                </div>-->
+            </div>
             
             <div type="translation" resp="part:reda">
                 
             </div>
             
             <div type="commentary">
-    <p>
-        The origin of the name Karaiyēṟaviṭṭāḷ cannot be established with certainty. It may be roughly understood as "She who has reached the shore," and it possibly recalls the episode of Appar's conversion to Śaivism. In the <title>Periya Purāṇam</title> (vv. 1333-1334), Appar asks his elder sister Tilakavati to reveal "the path by which one may be saved and reach the shore" (<foreign>uyntu karai ēṟu neṟi</foreign>). The comparison is, however, uncertain.
-    </p>
-            
-            
-</div>
+                <p>
+                    The origin of the name Karaiyēṟaviṭṭāḷ cannot be established with certainty. It may be roughly understood as "She who has reached the shore," and it possibly recalls the episode of Appar's conversion to Śaivism. In the <title>Periya Purāṇam</title> (vv. 1333-1334), Appar asks his elder sister Tilakavati to reveal "the path by which one may be saved and reach the shore" (<foreign>uyntu karai ēṟu neṟi</foreign>). The comparison is, however, uncertain.
+                </p>
+                
+                
+            </div>
             
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1926-1927"/></bibl> (ARIE/1926-1927/C/1927/285).</p>
-                 <p>This edition by Renato Dávalos, based on ASI estampage kindly supplied by the Director of Epigraphy in Mysore (2025).</p>
-              
+                <p>This edition by Renato Dávalos, based on ASI estampage kindly supplied by the Director of Epigraphy in Mysore (2025).</p>
+                
                 
                 <listBibl type="secondary">
-               
-                        
+                    
+                    
                     
                     <bibl n="ARIE">
                         <ptr target="bib:ARIE1926-1927"/>
