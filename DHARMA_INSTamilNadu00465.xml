@@ -156,7 +156,7 @@
         <app loc="1">
             <lem>mār<hi rend="grantha">ka</hi> <gap reason="lost" quantity="2" unit="character" precision="low"/> <num value="26">2 <g type="numeral">10</g> 6</num> <g type="tēti"/></lem>
             <rdg source="bib:Vijayavenugopal2022_01">mār <gap reason="lost" quantity="5" unit="character" precision="low"/> 26 <g type="tēti"/></rdg>
-            <note>Possibly <foreign>mār<hi rend="grantha">ka</hi><choice><sic>l</sic><corr>ḻ</corr></choice>i <g type="mācam"/> <num value="16"><g type="numeral">10</g> 6</num> <g type="tēti"/></foreign></note>
+            <note>Possibly <foreign>mār<hi rend="grantha">ka</hi><choice><sic>l</sic><corr>ḻ</corr></choice>i <g type="tam-matam"/> <num value="16"><g type="numeral">10</g> 6</num> <g type="tēti"/></foreign></note>
         </app>
         
     </listApp>

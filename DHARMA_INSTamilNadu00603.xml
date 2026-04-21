@@ -103,11 +103,11 @@
                     <gap reason="lost" quantity="6" unit="character"/>
                     <lb n="6"/>
                     <gap reason="lost" quantity="5" unit="character"/>
-                    kaṇṇāṟṟu 2-ñ catirattu <g type="nilam"/> 4 Itil teṟk' aṭaiya
+                    kaṇṇāṟṟu 2-ñ catirattu <g type="tam-nilam"/> 4 Itil teṟk' aṭaiya
                     <gap reason="lost" quantity="6" unit="character"/>
                     <lb n="7"/>
                     <gap reason="lost" quantity="5" unit="character"/>
-                    ṟṟu l<supplied reason="omitted">m</supplied>tara catirattu <g type="nilam"/> 4-lil teṟk' aṭaiya nilam
+                    ṟṟu l<supplied reason="omitted">m</supplied>tara catirattu <g type="tam-nilam"/> 4-lil teṟk' aṭaiya nilam
                     <gap reason="lost" quantity="6" unit="character"/>
                     <lb n="8"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="9"/><gap reason="lost" quantity="1" unit="line"/>
@@ -130,12 +130,12 @@
                     </app>
                     
                     <app loc="6">
-                        <lem><g type="nilam"/></lem>
+                        <lem><g type="tam-nilam"/></lem>
                         <rdg source="bib:Srinivasan1987_01">ni(nilam)</rdg>
                         <note>It is not clear what <foreign>ni(nilam)</foreign> means in <ptr target="bib:Srinivasan1987_01"/>.</note>
                     </app>
                     <app loc="7">
-                        <lem><g type="nilam"/></lem>
+                        <lem><g type="tam-nilam"/></lem>
                         <rdg source="bib:Srinivasan1987_01">ni(nilam)</rdg>
                         <note>It is not clear what <foreign>ni(nilam)</foreign> means in <ptr target="bib:Srinivasan1987_01"/>.</note>
                     </app>
