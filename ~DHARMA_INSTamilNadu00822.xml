@@ -17,7 +17,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-
+                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -80,63 +80,71 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-
-            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-                <ab>
-<lb n="1"/>Ekaiva bhaginī ⌈
-<lb n="2"/>loke sarvveṣā
-<lb n="3"/>m eva bhūbhujāM na
-<lb n="4"/>bhojyā na karagrā
-<lb n="5"/>hyā vipradattā vasu
-<lb n="6"/>ndharā | svadattā<unclear>d d</unclear>vigu
-<lb n="7"/>ṇa[m] puṇyaM para
-<lb n="8"/>da<unclear>tt</unclear>ānupālaṉaM
-<lb n="9"/>paradattāpahāre
-<lb n="10"/>ṇa svadattan nispha
-<lb n="11"/>laM bhaveT <gomūtra>
-<lb n="12"/>svāminttātaya deśikēndra
-<lb n="13"/>satatandāṉa vikrayā <gap reason="lost" quantity="3" unit="character"/>
-<lb n="14"/>vatā <gap reason="lost" quantity="4" unit="character"/> syāma sa <gap reason="lost" quantity="1" unit="character"/>
-<lb n="15"/>pāśritām <gap reason="lost" quantity="3" unit="character"/> rāvi
-<lb n="16"/>prāyaḥ pramōdākra
-<lb n="17"/><gap reason="lost" quantity="2" unit="character"/> sāvitrī vacasā
-                </ab>
+            
+            <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                <lg n="1" met="anuṣṭubh">
+                    <l n="a"><lb n="1"/>Ekaiva bhaginī ⌈
+                        <lb n="2" break="no"/>loke</l>
+                    <l n="b">sarvveṣā
+                        <lb n="3" break="no"/>m eva bhūbhujāM</l>
+                    <l n="c">na
+                        <lb n="4"/>bhojyā na karagrā
+                        <lb n="5" break="no"/>hyā</l>
+                    <l n="d">vipradattā vasu
+                        <lb n="6" break="no"/>ndharā <g type="danda">.</g></l>
+                </lg>
+                <lg n="2" met="anuṣṭubh">
+                    <l n="a">svadattā<unclear>d d</unclear>vigu
+                        <lb n="7" break="no"/>ṇa<supplied reason="lost">m</supplied> puṇyaM</l> <l n="b">para
+                            <lb n="8"/>da<unclear>tt</unclear>ānupālaṉaM</l>
+                    <l n="c"><lb n="9"/>paradattāpahāre
+                        <lb n="10" break="no"/>ṇa</l> <l n="d">svadattan nispha
+                            <lb n="11" break="no"/>laM bhaveT <g type="gomutraFinal">.</g></l>
+                </lg>
+                <lg n="3" met="unknown">
+                    <l n="abcd"><lb n="12"/>svāminttātaya deśikēndra
+                        <lb n="13"/>satatandāṉa vikrayā <gap reason="lost" quantity="3" unit="character"/>
+                        <lb n="14"/>vatā <gap reason="lost" quantity="4" unit="character"/> syāma sa <gap reason="lost" quantity="1" unit="character"/>
+                        <lb n="15"/>pāśritām <gap reason="lost" quantity="3" unit="character"/> rāvi
+                        <lb n="16"/>prāyaḥ pramōdākra
+                        <lb n="17"/><gap reason="lost" quantity="2" unit="character"/> sāvitrī vacasā</l>
+                </lg>
             </div>
-
+            
             <div type="apparatus">
-
+                
             </div>
-
+            
             <div type="translation">
-
+                
             </div>
-
+            
             <div type="commentary">
-
+                
             </div>
-
+            
             <div type="bibliography">
-
-                <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/21).</p>
-
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/28).</p>
+                
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <listBibl type="primary">
-
+                    
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
-                        <citedRange unit="page">1</citedRange>
-                        <citedRange unit="item">1</citedRange>
+                        <citedRange unit="page">36-37</citedRange>
+                        <citedRange unit="item">22</citedRange>
                     </bibl>
                     <bibl n="V2">
                         <ptr target="bib:Vijayavenugopal+al2026_01"/>
-                        <citedRange unit="page">3</citedRange>
-                        <citedRange unit="item">1</citedRange>
+                        <citedRange unit="page">68-70</citedRange>
+                        <citedRange unit="item">22</citedRange>
                     </bibl>
                 </listBibl>
-
+                
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1920-1921"/>
@@ -144,9 +152,9 @@
                         <citedRange unit="appendix">C/1921</citedRange>
                         <citedRange unit="item">21</citedRange>
                     </bibl>
-
+                    
                 </listBibl>
-
+                
             </div>
         </body>
     </text>
