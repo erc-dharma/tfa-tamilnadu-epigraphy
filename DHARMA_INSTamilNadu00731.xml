@@ -81,8 +81,8 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>kā<choice><orig>lai</orig><reg>ḷa</reg></choice>yu<choice><orig>t</orig><reg>k</reg></choice>ta <g type="varuṣam"/> Āṭi <g type="tam-matam"/>
-                    <lb n="2"/><num value="13"> <g type="numeral">10</g> 3</num> <g type="tēti"/>
+                    <lb n="1"/>kā<choice><orig>lai</orig><reg>ḷa</reg></choice>yu<choice><orig>t</orig><reg>k</reg></choice>ta <g type="tam-varusam"/> Āṭi <g type="tam-matam"/>
+                    <lb n="2"/><num value="13"> <g type="numeral">10</g> 3</num> <g type="tam-teti"/>
                 </p>
                 <p> 
                      tirupperuntuṟai

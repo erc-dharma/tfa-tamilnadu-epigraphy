@@ -107,8 +107,8 @@
                 <p>		
                     <lb n="6"/>śakāttam <num value="14">1 <g type="numeral">10</g> 4 <gap reason="lost" quantity="2" unit="character" precision="low"/></num>
                     <lb n="7"/>mēl cellā ni <gap reason="lost" quantity="4" unit="character" precision="low"/>
-                    <lb n="8"/>cukkila <g type="varuṣam"/> cittirai <gap reason="lost" quantity="4" unit="character" precision="low"/>
-                    <lb n="9"/><num value="15"><g type="numeral">10</g> 5</num> <g type="tēti"/>
+                    <lb n="8"/>cukkila <g type="tam-varusam"/> cittirai <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="9"/><num value="15"><g type="numeral">10</g> 5</num> <g type="tam-teti"/>
                 </p>
                 <p>
                     tiru-malai-nā <gap reason="lost" quantity="1" unit="character" precision="low"/> ṭu

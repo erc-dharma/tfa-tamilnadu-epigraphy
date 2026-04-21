@@ -105,7 +105,7 @@
                     <p>
                         cā<supplied reason="lost">li</supplied>
                         <lb n="8" break="no"/>vākaṉa-ca<choice><sic>t</sic><corr>k</corr></choice>ā<choice><orig>ṟṟ</orig><reg>tt</reg></choice>am <g type="pc"/> <num value="1578"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 7 <g type="numeral">10</g> 8</num>-<unclear>U</unclear>k-ku m<choice><sic>a</sic><corr>ē</corr></choice>l cellā ni<supplied reason="lost">ṉṟa</supplied>
-                        <lb n="9"/>pā<choice><orig>ṟt</orig><reg>rtt</reg></choice>i<choice><sic>y</sic><corr>v</corr></choice>a <g type="varuṣam"/> Āṭi <g type="tam-matam"/> 5 <g type="tēti"/>
+                        <lb n="9"/>pā<choice><orig>ṟt</orig><reg>rtt</reg></choice>i<choice><sic>y</sic><corr>v</corr></choice>a <g type="tam-varusam"/> Āṭi <g type="tam-matam"/> 5 <g type="tam-teti"/>
                     </p>
                     <p>
                         Atikamāṉ tañcāv<choice><orig>u</orig><reg>ū</reg></choice>r <choice><orig>A</orig><reg>Ai</reg></choice>ñ-cāti-pāñc<supplied reason="lost">āḷa</supplied>
@@ -121,10 +121,10 @@
                         <list>
                             <item>koḷamu <gap reason="lost" quantity="2" unit="character"/>
                                 <lb n="14"/>kek=ku vītiyil kiḻakk’ oṭik=ki vaṭa-piṟat=til kiḻak=ku mēṟk=ku Aṭi <num value="100"><g type="numeral">100</g></num> <supplied reason="lost">t</supplied>e<supplied reason="lost">k=ku</supplied>
-                                <lb n="15"/>vaṭak=ku Aṭi <num value="120"><g type="numeral">100</g> 2 <g type="numeral">10</g></num>-k=ku vilai-kiṟakam <g type="kācu"/> <num value="36">3 <g type="numeral">10</g> 6</num></item>
+                                <lb n="15"/>vaṭak=ku Aṭi <num value="120"><g type="numeral">100</g> 2 <g type="numeral">10</g></num>-k=ku vilai-kiṟakam <g type="tam-kacu"/> <num value="36">3 <g type="numeral">10</g> 6</num></item>
                             
                             <item><choice><orig>ṉ</orig><reg>n</reg></choice>antavāṉam kuḷam Uḷ <unclear>maṭa</unclear>
-                                <lb n="16"/>kiḻak=ku mēṟk=ku Aṭi <num value="280">2 <g type="numeral">100</g> 8 <g type="numeral">10</g></num> tek=ku vaṭak=ku Aṭi <num value="170"><g type="numeral">100</g> 7 <g type="numeral">10</g> </num>-k=ku vilai-k=-kiṟakam <g type="kācu"/>
+                                <lb n="16"/>kiḻak=ku mēṟk=ku Aṭi <num value="280">2 <g type="numeral">100</g> 8 <g type="numeral">10</g></num> tek=ku vaṭak=ku Aṭi <num value="170"><g type="numeral">100</g> 7 <g type="numeral">10</g> </num>-k=ku vilai-k=-kiṟakam <g type="tam-kacu"/>
                                 <lb n="17"/><num value="28"> 2 <g type="numeral">10</g> 8</num></item></list>
                     </p>
                     
@@ -188,7 +188,7 @@
                     
                     <p>
                         Uḷḷūril Arucāla-Uk=ki <gap reason="lost" quantity="2" unit="character"/>
-                        <lb n="38"/>y-ic-cāla-piḷḷaiyāruk=ku <g type="paṇam"/> <g type="pc">.</g>
+                        <lb n="38"/>y-ic-cāla-piḷḷaiyāruk=ku <g type="tam-panam"/> <g type="pc">.</g>
                     </p>
                     
                 </div>

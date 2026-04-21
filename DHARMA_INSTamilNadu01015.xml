@@ -97,7 +97,7 @@
                     Ar<hi rend="grantha">ai</hi>ya<unclear>ṉ</unclear> nākar<hi rend="grantha">ai</hi>yaṉ-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a
                     <lb n="3"/>ma<hi rend="grantha">hi</hi>pāla-kula-kāla-p-per<hi rend="grantha">ai</hi>ya<unclear>ṉ-ā</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>a tiru-maṇa<surplus>p</surplus>-p-piccaṉ Uṭ<hi rend="grantha">ai</hi>yārkku muṉpu tiru-v-ār<choice><sic>a</sic><corr>a</corr></choice>t<choice><sic>i</sic><corr>a</corr></choice>ṉai ce
                     <lb n="4" break="no"/>yum pirāmaṇa<choice><orig>n</orig><reg>ṉ</reg></choice> Oruvaṉum tiru-maṇa<surplus>ṭa</surplus>-p-piccaṉ c<choice><orig>ē</orig><reg>ey</reg></choice>ta <choice><orig>ṉ</orig><reg>n</reg></choice>ivan=taṅ koṇṭu ceyum pirāma
-                    <lb n="5" break="no"/>ṇaṉ Oruvaṉum āka Iruvark=ku <g type="nāḷ"/> 1<g type="dash"/>k=ku <g type="tūṇi"/> <g type="kuṟuṇi"/> Āka <g type="nāḷ"/> <num value="360">3 <g type="numeral">100</g> 6 <g type="numeral">10</g></num>k=ku <seg rend="check"><g type="kalam"/> <num value="150"><g type="numeral">100</g> 5 <g type="numeral">10</g></num> <unclear>7</unclear> </seg>k=kuviṭṭani 1 1/4
+                    <lb n="5" break="no"/>ṇaṉ Oruvaṉum āka Iruvark=ku <g type="tam-nal"/> 1<g type="dash"/>k=ku <g type="tam-tuni"/> <g type="tam-kuruni"/> Āka <g type="tam-nal"/> <num value="360">3 <g type="numeral">100</g> 6 <g type="numeral">10</g></num>k=ku <seg rend="check"><g type="tam-kalam"/> <num value="150"><g type="numeral">100</g> 5 <g type="numeral">10</g></num> <unclear>7</unclear> </seg>k=kuviṭṭani 1 1/4
                 </p>
                 <p>
                     Itu
@@ -119,7 +119,7 @@
                         <note>The numbers 100 and 6 are quite similar.</note>
                     </app>
                     <app loc="5">
-                        <lem><g type="kalam"/> <num value="150"><g type="numeral">100</g> 5 <g type="numeral">10</g></num> <unclear>7</unclear>k=kuviṭṭani</lem>
+                        <lem><g type="tam-kalam"/> <num value="150"><g type="numeral">100</g> 5 <g type="numeral">10</g></num> <unclear>7</unclear>k=kuviṭṭani</lem>
                         <rdg source="bib:KrishnaSastri1929_01"><hi rend="grantha">I</hi> <num value="157"><g type="numeral">100</g> 5 <g type="numeral">10</g></num> Eḷak=kuviṭṭani</rdg> 
                     </app>
                 </listApp>
