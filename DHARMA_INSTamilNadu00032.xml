@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa III, year 34</title>
+                <title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga, year 34</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -93,7 +93,7 @@
                 <p>
                     kulō<supplied reason="lost">t</supplied>
                     <lb n="2" break="no"/>tuṅka-cōḻa-<hi rend="grantha">de</hi>
-                    <lb n="3" break="no"/><hi rend="grantha">va</hi>ṟku yāṇṭu <num value="34">3 <g type="numeral">10</g> 4</num>-Āva<unclear>tu</unclear>
+                    <lb n="3" break="no"/><hi rend="grantha">va</hi>ṟku yāṇṭu <num value="34">3 <g type="numeral">10</g> 4</num> Āva<unclear>tu</unclear>
                 </p>
                 <p>
                     <lb n="4"/>karuppūr Ar<choice><orig>a</orig><reg>ai</reg></choice>ya<choice><orig>n</orig><reg>ṉ</reg></choice> Iru-muṭi-<supplied reason="lost">c</supplied><unclear>ō</unclear>
@@ -163,15 +163,16 @@
                 </p>
                 
                 <p n="4-17">
-                    I, Amattai, also known as Araiyaṉ Irumuṭicōḻa Muvaraiyaṉ from Karuppūr, after engraving it on stone for the Lord Nalla Nāyaṉār of Nallūr as <foreign>tēvatāṉam</foreign> for this Lord, after excluding
+                    I, Amattai, also known as Araiyaṉ Irumuṭicōḻa Muvaraiyaṉ from Karuppūr, after engraving it on stone for the Lord Nalla Nāyaṉār of Nallūr as <foreign>tēvatāṉam</foreign> for this Lord, and excluding
                     <list>
                         <item>three hundred sixty <foreign>vēli</foreign>s of land from Nallūr,</item>
                         <item>five <foreign>vēli</foreign>s of land for the sacred garden on the northern bank of the river, and</item>
-                        <item>five <foreign>vēli</foreign>s of paddy fields from Kāccuvakuṭi,</item>
+                        <item>five <foreign>vēli</foreign>s of paddy fields from Kāccuvakuṭi, and </item>
+                        <item>deducting 5 <foreign>mā</foreign>s of land</item>
                     </list>
                 </p>
                 <p>
-                    I have given the 5 <foreign>mā</foreign>s of land, the taxes for watching the lands <supplied reason="subaudible"><foreign>pāṭikāval</foreign></supplied>, all types of <seg cert="low">state</seg> taxes <supplied reason="explanation"><foreign>āyam</foreign></supplied>,  and minor cesses <supplied reason="explanation"><foreign>kīḻ iṟai pāṭṭam</foreign></supplied>, <supplied reason="omitted">which include</supplied> the tax on loom <supplied reason="explanation"><foreign>taṟi iṟai</foreign></supplied>.
+                   the taxes for watching the lands <supplied reason="subaudible"><foreign>pāṭikāval</foreign></supplied>, all types of <seg cert="low">state</seg> taxes <supplied reason="explanation"><foreign>āyam</foreign></supplied>,  and minor cesses <supplied reason="explanation"><foreign>kīḻ iṟai pāṭṭam</foreign></supplied>, <supplied reason="omitted">which include</supplied> the tax on loom <supplied reason="explanation"><foreign>taṟi iṟai</foreign></supplied>.
                 </p>
                 <p n="17-19">
                     Whoever destroys <supplied reason="explanation"><foreign>aḻittu kōḷvāṉ</foreign></supplied> this inscription will become himself the husband <supplied reason="explanation"><foreign>maṇavāḷaṉ</foreign></supplied> to his own mother <supplied reason="explanation"><foreign>ammaikku tāṉē</foreign></supplied>.
