@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 1</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 25</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -23,7 +23,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSTamilNadu00801</idno>
+                <idno type="filename">DHARMA_INSTamilNadu00825</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -83,33 +83,69 @@
 
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <ab>
-<lb n="1"/>svasti śrī matirai koṇṭa kō-p-parakēsari-paṉmaṟku yāṇṭu 37 Āvatu Eyiṟ-kōṭṭattu Eyil-nāṭṭu-k ka
-<lb n="2"/>ṇṇa-maṅkalattu Ūrōm Ivvūr muṭittalai kiḻavaṉ māṇikka śaṉmaṉum Attaṇaṅ kiḻavaṉ kanaka
-<lb n="3"/>śammaṉum muṭittalai kiḻavaṉ paṭṭa śimma
-<lb n="4"/>ṉum Ik-kuṭi-t tirumalaṅ kiḻavaṉ nārāya
-<lb n="5"/>ṇa bhaṭṭaṉum Ik-kuṭi-k kampa śammaṉum Ik-kuṭi nārā
-<lb n="6"/>yaṇa bhaṭṭaṉum vaya <gap reason="lost" quantity="2" unit="character"/> ḻāṉ Aṅkāṭi śammaṉum kaḷattu
-<lb n="7"/>ḻāṉ nīla kaṇ <gap reason="lost" quantity="1" unit="character"/> m Ivvaṉaivōm Eṅkaḷ pūmiyāṉa kaṇṇa maṅ
-<lb n="8"/>kalam nila vilai yāvaṇa-k kaiyeḻuttu kacci-p-pēṭṭu-t tiru-vekkā va
-<lb n="9"/>ṇaik kiṭant-aruḷiṉa Aṉanta-nārāyaṇa-parama-svāmikku viṟṟu-k kuṭukkiṟa nilam kīḻpāṟ
-<lb n="10"/>k’ ellai tiru vattiyūr Ellaikku mēṟku vekkā vāṟu tuṭaṅki vaṭakku nōkki-p pōki
-<lb n="11"/>ṟa vatikku mēṟkum teṉpāṟk’ ellai vekkā vāṟṟukku vaṭakkum mēlpāṟk’ el
-<lb n="12"/>lai pattaṉap pāṭi Ellaikku kiḻakkum vaṭapāṟk’ ellai karum puḻāṉ viḷākattu
-<lb n="13"/>muṭittalai kiḻavaṉ Uṭaiya paḷḷi-p paṭṭi-y nīr pāyuṅ kālukku-t teṟku tiruvattiyū
-<lb n="14"/>r Ellaiyuḷ Eṅkaḷ kaṇṇa-maṅkalat tētta māṉa kīḻai Araiyum mēlaiyaraiyum
-<lb n="15"/>Uṭpaṭṭa Iṉ-ṉāṟ-pāṟk’ ellai yuḷḷum Uḷ nilam oḻiv’ iṉṟi Oṭump’ ōṭi Āmai nakuntatum kuḷamum koṭṭa
-<lb n="16"/>kāramum nīr-nilamum kollaiyum maṉaiyum maṉai-p paṭappaiyum kaṉṟu-mēy-kaḻaniyum nīr pōṉa vā
-<lb n="17"/>ykkālum mēṉōkkiya maramum kīṇōkkiya kiṇaṟu mīṉpaṭu paḷḷamum tēṉ paṭu pottamu <gap reason="lost" quantity="1" unit="character"/> kā
-<lb n="18"/>ṭum Uṭpaṭa Eppērpaṭṭa nilam Uḷ nilam Oḻiv’iṉṟi viṟṟu Emmil icainta poṉ kācu kalaṉ <gap reason="lost" quantity="1" unit="character"/>
-<lb n="19"/>muṉṉūṟṟ’ aṟupat keḻu kaḻañcum kiḻi yaṟa-k kai-k-koṇṭu tiru-vekkā vaṇaik kiṭant-aruḷiṉa Aṉanta-nārā
-<lb n="20"/>yaṇa-p-parama-svāmikku viṟṟu-k kuṭuttōm kaṇṇa-maṅkalattu Ūravarōm Eṅkaḷ karumpuḻāṉ vi
-<lb n="21"/>ḷākattukku nīr pānta kāl kaṇṇa maṅkalattukku mēl nīr muṟaimai y-āvat’ āka Ip-pari coṭṭi Emmil icai
-<lb n="22"/>nta poṉ 367 kaḻañcum kai-k-koṇṭu tiru-vekkā vaṇaik kiṭant-aruḷiṉa Aṉanta{n ta}-nārāyaṇa-parama
-<lb n="23"/>svāmikku viṟṟu-k kuṭuttōm kaṇṇa-maṅkalatt’ ūrōm Ituvē poruḷ māvaṟutip poruṭ cela v-ōlai y-ā
-<lb n="24"/>vat’ ākavum Iru kālāvatu mukkā lāvatum Emmil icainta poṉ kiḻi ma*ṟakkoṇṭu tiru’vekkā vaṇai
-<lb n="25"/>-k kiṭant-aruḷiṉa parama-svāmikku viṟṟu-k kuṭuttōm kaṇṇa-maṅkalattu Ūrōm Ivarkaḷ paṇiyāl nila
-<lb n="26"/>vilai-y-āvaṇam Eḻutiṉēṉ kaṇṇa-maṅkalam-uṭaiyāṉ Aruḷāḷaṉ pērāyiramuṭaiyāṉēṉ Ivai
-<lb n="27"/>Eṉ Eḻuttu <g type="pc"><gap reason="lost" quantity="1" unit="character"/></g>
+<lb n="1"/>tiṟtam tarikka El
+<lb n="2"/>muvikaṉṉāṭa 2 kku
+<lb n="3"/>pu 6 tūpa <gap reason="lost" quantity="1" unit="character"/> lai ma 1 kku
+<lb n="4"/>pu 6 cāmpiṟāṇi va
+<lb n="5"/><gap reason="lost" quantity="25" unit="character"/> kku ya
+<lb n="6"/><gap reason="lost" quantity="1" unit="character"/>tirumuṉ kuttuvi
+<lb n="7"/>ḷakku 32 cātti
+<lb n="8"/>Aruḷa cantaṇa lai
+<lb n="9"/>macāṟā pa va ca kaṟpū
+<lb n="10"/><gap reason="lost" quantity="28" unit="character"/>
+<lb n="11"/>sūriya viṭai 1 kku pu lā
+<lb n="12"/>Ālattik kaṟpūram
+<lb n="13"/>pu vi ka kku Alaṅkā
+<lb n="14"/>ra tiru mañcaṉamump pa
+<lb n="15"/>ṇṇi perumāḷ A
+<lb n="16"/>mutu ceytaruḷa Appa
+<lb n="17"/>m ka kku ṅka ka vella
+<lb n="18"/>m maruE6 kku tōcai
+19, p paṭi li Uṅa Uḷun
+<lb n="20"/>tu ṅaE <gap reason="lost" quantity="2" unit="character"/> vaṭai
+<lb n="21"/>ppam ka kku Uḷuntu
+<lb n="22"/>Uṅacu U E cāl te
+<lb n="23"/>ttiyōtaṉam kali
+<lb n="24"/>mat tayir ta kku pute
+<lb n="25"/>ney <gap reason="lost" quantity="1" unit="character"/> kku pu E kaṟi A
+<lb n="26"/>mutu ru ṅa miḷaku
+<lb n="27"/>ya <gap reason="lost" quantity="3" unit="character"/> cukku la
+<lb n="28"/>Uṟāpu pa yiḷanar ru pa
+<lb n="29"/>kku pu U vāḻaip paḻam
+<lb n="30"/>mām paḻam palāp paḻa
+<lb n="31"/>mattu kku pu ṅa payaṟṟa
+<lb n="32"/>tirup paṇiyāram śva
+<lb n="33"/>laṅa kkkk pu <gap reason="lost" quantity="1" unit="character"/> pāṉakkam
+<lb n="34"/>vellam ṅa Aṭai
+<lb n="35"/>k kāy Amutu pu vaśva ti
+<lb n="36"/><gap reason="lost" quantity="36" unit="character"/> Ōla
+<lb n="37"/>kkam Eṅa nimantā
+<lb n="38"/>ḷukku pu ka Eri karum
+<lb n="39"/>pukku pu ka Āka ṉāl ka kku
+<lb n="40"/>cilavu pu 11 kūli kālai
+<lb n="41"/>kku Iḷai laka ṅa pu Ute
+<lb n="42"/>ka E mā ṅa ru ha kku pu
+<lb n="43"/>ka kku E vilai ru
+<lb n="44"/>pu Evu vellam ṅa
+<lb n="45"/>kku Uḷuntu ṅacu
+<lb n="46"/>kku pakatela Āka 102 puca capu
+<lb n="47"/>ṉāḷ E kku 116 pu A
+<lb n="48"/>laca Āka <gap reason="lost" quantity="3" unit="character"/>ayalanaka
+<lb n="49"/>pi <gap reason="lost" quantity="1" unit="character"/> ka <gap reason="lost" quantity="1" unit="character"/> Inta po
+<lb n="50"/>liyūṭṭu tiṉappaṭi A
+<lb n="51"/>vacaramum tōcai paṭi
+<lb n="52"/>yum tiru vūñcal tiru
+<lb n="53"/>ṉāḷ ṉāḷ Ēḻum ta
+<lb n="54"/>ppāmal naṭattak kaṭa
+<lb n="55"/>vōmākavum tiṉapa
+<lb n="56"/>ṭi Avacaram taḷikai
+<lb n="57"/>cu kku pe vākaḷ ve
+<lb n="58"/>ḻukkāṭu ṉālat toṉṟukku praṅa ca U yum Ivarē Aṉupavittuk koḷḷak kaṭavarākavum nīkki prata ca <gap reason="lost" quantity="1" unit="character"/> kku cila
+<lb n="59"/>vu Āḻvār U niṟuvākam 4 kku pra ca U cuyam <gap reason="lost" quantity="1" unit="character"/> tam pra ṅa Āka pra ṅa 34 U yam tiruk kōyi
+<lb n="60"/>l Ātāyam Āka kaṭaivatākavum tiru mālai tōcai paṭi ka kku tōcai 13 kku viṭṭavaṉ viḻukkāṭu 4 l
+<lb n="61"/>ka kku tōcai 3 m cannatilē Anucantāṉam paṇṇukiṟa ci vayiṣṇavāḷukku viṉiŌkam paṇṇi kuṟai
+<lb n="62"/>lla Āḻvār pāta niṟ cēḻakṣam ru ni kku tōcai 9 m tiruk kōyil Ātāyamāka kaṭavatākavum <gap reason="lost" quantity="3" unit="character"/>
+<lb n="63"/>cēcala tiru ṉāḷ <gap reason="lost" quantity="5" unit="character"/> viṭṭavaṉ viḻukkāṭu 4 lakam Ivarē Eṭuttuk koḷḷak kaṭavarākavum kuṟai ṅa paṅkilē Āḻ <gap reason="lost" quantity="3" unit="character"/>
                 </ab>
             </div>
 

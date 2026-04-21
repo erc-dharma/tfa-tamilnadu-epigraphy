@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 1</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 10</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -23,7 +23,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSTamilNadu00801</idno>
+                <idno type="filename">DHARMA_INSTamilNadu00810</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">
                         <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -83,33 +83,8 @@
 
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <ab>
-<lb n="1"/>svasti śrī matirai koṇṭa kō-p-parakēsari-paṉmaṟku yāṇṭu 37 Āvatu Eyiṟ-kōṭṭattu Eyil-nāṭṭu-k ka
-<lb n="2"/>ṇṇa-maṅkalattu Ūrōm Ivvūr muṭittalai kiḻavaṉ māṇikka śaṉmaṉum Attaṇaṅ kiḻavaṉ kanaka
-<lb n="3"/>śammaṉum muṭittalai kiḻavaṉ paṭṭa śimma
-<lb n="4"/>ṉum Ik-kuṭi-t tirumalaṅ kiḻavaṉ nārāya
-<lb n="5"/>ṇa bhaṭṭaṉum Ik-kuṭi-k kampa śammaṉum Ik-kuṭi nārā
-<lb n="6"/>yaṇa bhaṭṭaṉum vaya <gap reason="lost" quantity="2" unit="character"/> ḻāṉ Aṅkāṭi śammaṉum kaḷattu
-<lb n="7"/>ḻāṉ nīla kaṇ <gap reason="lost" quantity="1" unit="character"/> m Ivvaṉaivōm Eṅkaḷ pūmiyāṉa kaṇṇa maṅ
-<lb n="8"/>kalam nila vilai yāvaṇa-k kaiyeḻuttu kacci-p-pēṭṭu-t tiru-vekkā va
-<lb n="9"/>ṇaik kiṭant-aruḷiṉa Aṉanta-nārāyaṇa-parama-svāmikku viṟṟu-k kuṭukkiṟa nilam kīḻpāṟ
-<lb n="10"/>k’ ellai tiru vattiyūr Ellaikku mēṟku vekkā vāṟu tuṭaṅki vaṭakku nōkki-p pōki
-<lb n="11"/>ṟa vatikku mēṟkum teṉpāṟk’ ellai vekkā vāṟṟukku vaṭakkum mēlpāṟk’ el
-<lb n="12"/>lai pattaṉap pāṭi Ellaikku kiḻakkum vaṭapāṟk’ ellai karum puḻāṉ viḷākattu
-<lb n="13"/>muṭittalai kiḻavaṉ Uṭaiya paḷḷi-p paṭṭi-y nīr pāyuṅ kālukku-t teṟku tiruvattiyū
-<lb n="14"/>r Ellaiyuḷ Eṅkaḷ kaṇṇa-maṅkalat tētta māṉa kīḻai Araiyum mēlaiyaraiyum
-<lb n="15"/>Uṭpaṭṭa Iṉ-ṉāṟ-pāṟk’ ellai yuḷḷum Uḷ nilam oḻiv’ iṉṟi Oṭump’ ōṭi Āmai nakuntatum kuḷamum koṭṭa
-<lb n="16"/>kāramum nīr-nilamum kollaiyum maṉaiyum maṉai-p paṭappaiyum kaṉṟu-mēy-kaḻaniyum nīr pōṉa vā
-<lb n="17"/>ykkālum mēṉōkkiya maramum kīṇōkkiya kiṇaṟu mīṉpaṭu paḷḷamum tēṉ paṭu pottamu <gap reason="lost" quantity="1" unit="character"/> kā
-<lb n="18"/>ṭum Uṭpaṭa Eppērpaṭṭa nilam Uḷ nilam Oḻiv’iṉṟi viṟṟu Emmil icainta poṉ kācu kalaṉ <gap reason="lost" quantity="1" unit="character"/>
-<lb n="19"/>muṉṉūṟṟ’ aṟupat keḻu kaḻañcum kiḻi yaṟa-k kai-k-koṇṭu tiru-vekkā vaṇaik kiṭant-aruḷiṉa Aṉanta-nārā
-<lb n="20"/>yaṇa-p-parama-svāmikku viṟṟu-k kuṭuttōm kaṇṇa-maṅkalattu Ūravarōm Eṅkaḷ karumpuḻāṉ vi
-<lb n="21"/>ḷākattukku nīr pānta kāl kaṇṇa maṅkalattukku mēl nīr muṟaimai y-āvat’ āka Ip-pari coṭṭi Emmil icai
-<lb n="22"/>nta poṉ 367 kaḻañcum kai-k-koṇṭu tiru-vekkā vaṇaik kiṭant-aruḷiṉa Aṉanta{n ta}-nārāyaṇa-parama
-<lb n="23"/>svāmikku viṟṟu-k kuṭuttōm kaṇṇa-maṅkalatt’ ūrōm Ituvē poruḷ māvaṟutip poruṭ cela v-ōlai y-ā
-<lb n="24"/>vat’ ākavum Iru kālāvatu mukkā lāvatum Emmil icainta poṉ kiḻi ma*ṟakkoṇṭu tiru’vekkā vaṇai
-<lb n="25"/>-k kiṭant-aruḷiṉa parama-svāmikku viṟṟu-k kuṭuttōm kaṇṇa-maṅkalattu Ūrōm Ivarkaḷ paṇiyāl nila
-<lb n="26"/>vilai-y-āvaṇam Eḻutiṉēṉ kaṇṇa-maṅkalam-uṭaiyāṉ Aruḷāḷaṉ pērāyiramuṭaiyāṉēṉ Ivai
-<lb n="27"/>Eṉ Eḻuttu <g type="pc"><gap reason="lost" quantity="1" unit="character"/></g>
+<lb n="1"/><gap reason="lost" quantity="6" unit="character"/> tiru ve+kā Āḻvār kaṉmikaḷōm <gap reason="lost" quantity="3" unit="character"/> ntu <gap reason="lost" quantity="7" unit="character"/> nāṅkaḷum kāñcipura <gap reason="lost" quantity="3" unit="character"/>
+<lb n="2"/>vilai yāvaṇa māvatākavum Ituvē poruḷ mā vaṟuti poru <gap reason="lost" quantity="5" unit="character"/> Ituvallatu vēṟu poruḷ mā <gap reason="lost" quantity="6" unit="character"/>
                 </ab>
             </div>
 
