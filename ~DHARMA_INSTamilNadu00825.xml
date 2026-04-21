@@ -163,8 +163,8 @@
 
             <div type="bibliography">
 
-                <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/21).</p>
-
+                <p>Not reported in ARIE.</p>
+                
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
 
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
@@ -173,24 +173,14 @@
 
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
-                        <citedRange unit="page">1</citedRange>
-                        <citedRange unit="item">1</citedRange>
+                        <citedRange unit="page">40-42</citedRange>
+                        <citedRange unit="item">25</citedRange>
                     </bibl>
                     <bibl n="V2">
                         <ptr target="bib:Vijayavenugopal+al2026_01"/>
-                        <citedRange unit="page">3</citedRange>
-                        <citedRange unit="item">1</citedRange>
+                        <citedRange unit="page">75-80</citedRange>
+                        <citedRange unit="item">25</citedRange>
                     </bibl>
-                </listBibl>
-
-                <listBibl type="secondary">
-                    <bibl>
-                        <ptr target="bib:ARIE1920-1921"/>
-                        <citedRange unit="page">59</citedRange>
-                        <citedRange unit="appendix">C/1921</citedRange>
-                        <citedRange unit="item">21</citedRange>
-                    </bibl>
-
                 </listBibl>
 
             </div>

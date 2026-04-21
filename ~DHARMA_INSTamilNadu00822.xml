@@ -148,9 +148,9 @@
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1920-1921"/>
-                        <citedRange unit="page">59</citedRange>
+                        <citedRange unit="page">60</citedRange>
                         <citedRange unit="appendix">C/1921</citedRange>
-                        <citedRange unit="item">21</citedRange>
+                        <citedRange unit="item">28</citedRange>
                     </bibl>
                     
                 </listBibl>
