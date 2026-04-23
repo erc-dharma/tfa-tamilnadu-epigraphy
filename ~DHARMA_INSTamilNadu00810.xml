@@ -17,7 +17,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-
+                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -43,7 +43,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>Fragment.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -80,36 +80,36 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-
+            
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-                <ab>
-<lb n="1"/><gap reason="lost" quantity="6" unit="character"/> tiru ve+kā Āḻvār kaṉmikaḷōm <gap reason="lost" quantity="3" unit="character"/> ntu <gap reason="lost" quantity="7" unit="character"/> nāṅkaḷum kāñcipura <gap reason="lost" quantity="3" unit="character"/>
-<lb n="2"/>vilai yāvaṇa māvatākavum Ituvē poruḷ mā vaṟuti poru <gap reason="lost" quantity="5" unit="character"/> Ituvallatu vēṟu poruḷ mā <gap reason="lost" quantity="6" unit="character"/>
-                </ab>
+                <p>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> tiru ve<seg rend="check">+</seg>kā Āḻvār kaṉmikaḷō<unclear>m</unclear> <gap reason="lost" quantity="1" unit="character"/> ntu <gap reason="lost" quantity="15" unit="character"/> nāṅkaḷum kāñcipura <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> vilai-y-āvaṇam āvat’ ākavum Ituvē poruḷ mā vaṟuti poru <gap reason="lost" quantity="10" unit="character"/> Ituvallatu vēṟu poruḷ mā <gap reason="lost" extent="unknown" unit="character"/>
+                </p>
             </div>
-
+            
             <div type="apparatus">
-
+                
             </div>
-
+            
             <div type="translation">
-
+                
             </div>
-
+            
             <div type="commentary">
-
+                
             </div>
-
+            
             <div type="bibliography">
-
+                
                 <p>Not reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl>.</p>
-
+                
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <listBibl type="primary">
-
+                    
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
                         <citedRange unit="page">12</citedRange>
@@ -121,13 +121,13 @@
                         <citedRange unit="item">10</citedRange>
                     </bibl>
                 </listBibl>
-
+                
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1920-1921"/>
                     </bibl>
                 </listBibl>
-
+                
             </div>
         </body>
     </text>

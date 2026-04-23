@@ -17,7 +17,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-
+                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -80,57 +80,57 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-
+            
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <ab>
-<lb n="1"/>U śubham astu supa śrīman mahā maṇṭalēśvaran rājādirāja rāja paramēśvara śrī vīra pratāpa śrī vīra śrī vēṅkaṭapati deva mahārāyar pritivi rājyam paṇṇi Aruḷā niṉṟa
-<lb n="2"/>śāli vāhana śakhāptam 1509 n mēl cellā niṉṟa sarvaśitti samvaśśarattu vaiśākha nāyaṟṟu pūrva pakṣattu yintu vasaramum pañcamiyum peṟṟa has<unclear>ta</unclear> nakṣattirattu nāḷ ceyaṅ ko
-<lb n="3"/>ṇṭa cōḻa maṇṭalattu cantirakiri rājyam Ūṟṟuk kāṭṭuk kōṭṭattu viṟpēṭu nāṭṭil nakaram kāñcipuram viṣṇu stānattil tiru vekā nayinārkōyil śrī paṇṭārat
-<lb n="4"/>tārum śrī kāriyam śrīmat vēta māṟka pratiṣṭāpaṉācārya Ubaiya vētāntācāryarāna Eṭṭūr tirumalai kumāra tāttācāryar Ayyan sannati Aḻakiya ciṅkarum ṣaṭa maruṣaṇa kōtrattu
-<lb n="5"/>Āpastampa <gap reason="lost" quantity="8" unit="character"/> tāttācāryar tirumalai kumpakōṇam tāttācariyar Ayyā vayyaṅkār
-<lb n="6"/><gap reason="lost" quantity="4" unit="character"/> tirumā <gap reason="lost" quantity="6" unit="character"/> yitta māka śopakṣaya taṟma śāsanam paṇṇi kuṭuttap paṭi
-<lb n="7"/><gap reason="lost" quantity="4" unit="character"/> vem perumāṉ <gap reason="lost" quantity="6" unit="character"/> ṅkamāka Itukku mēṟku perumāḷ Eḻun taruḷum
-<lb n="8"/><gap reason="lost" quantity="4" unit="character"/> terutā tiru <gap reason="lost" quantity="16" unit="character"/> kaḷum maraṅkaḷum kiṇaṟukaḷum Uḷpaṭa Upakṣaya māka ni
-<lb n="9"/>caṟcayitta <gap reason="lost" quantity="3" unit="character"/> Aḻa <gap reason="lost" quantity="8" unit="character"/> Uḷḷa tellām maraṅkaḷ kiṇaṟukaḷ tiru ntavaṉam Uḷpaṭa <gap reason="lost" quantity="4" unit="character"/> Upakṣaya māka cātanam paṇṇi kuṭuttōm Inta nilaṅkaḷ Uḷḷa tellām
-<lb n="10"/>Aṣṭa bhoka tēca cuvāmiyaṅkaḷum putra pavutra pāramparai yāka Ācantrārtta māka tāna <gap reason="lost" quantity="7" unit="character"/> yaṅkaḷukkum yōkya māka Aṉupavittuk koḷḷak kaṭavarākavum Inta nilam Ellām Iv
-<lb n="11"/>vemperumāṉ kōṭait tiru nāḷ koṇṭaruḷa poliyūṭṭu taṟma śāsanam paṇṇik kuṭukkayil In nilaṅkaḷ Ellām tiruk kōyililē kai koṇṭu Iv ve<unclear>m peru</unclear>māṉ kōṭait tiru nā
-<lb n="12"/><gap reason="lost" quantity="31" unit="character"/> paṅkuṉi māsam puṇar pū <gap reason="lost" quantity="4" unit="character"/> naṭattum piṟakāram ṉāḷ Oṉṟukku cuvāmi Eḻuntaruḷi cātti yaruḷa cantaṇam
-<lb n="13"/><gap reason="lost" quantity="3" unit="character"/> vilai <gap reason="lost" quantity="2" unit="character"/> ṣa perumāḷ kōyil pēril paṭi <gap reason="lost" quantity="5" unit="character"/> Appam ka tōcai tūṇippatakku māmpaḻam puka vāḻaippaḻam puka veccamutu kaṃ
-<lb n="14"/>Ilai yamutu 7 Alaṅkāra tiru mañcaṉam Uḷḷa kaṭṭaḷai Inta piṟakāram Āṟu ṉāḷum tiruk kōyililē naṭattak kaṭavōmākavum
-<lb n="15"/>Amutu ceytaruḷiṉa ciṟappukku <gap reason="lost" quantity="3" unit="character"/> viṭṭavaṉ viḻu <gap reason="lost" quantity="4" unit="character"/> nālat toṉṟum Āḻvā <gap reason="lost" quantity="3" unit="character"/> niṟuvākam ṉālukkum muṉṉāḷ tiruvaṭi kōyil paṭi poliyūṭṭu piṟa
-<lb n="16"/>kāra <gap reason="lost" quantity="5" unit="character"/> kuṭuttu <gap reason="lost" quantity="3" unit="character"/> ṉiyōkam paṇṇivikka kaṭavōmākavum yippaṭi cammatittu kōṭait tiru ṉāḷ poliyūṭṭu nimattamāka Upakṣaya taṟma
-<lb n="17"/>śāsanam paṇṇi kuṭuttōm tiruma <gap reason="lost" quantity="5" unit="character"/> Ayyaṅkār Ayyan Avarkaḷukku tiruvekā nayiṉār kōyil śrī paṇṭārattārum śrī kāriyam ceyyum Aḻakiya ciṅkarum me<gap reason="lost" quantity="1" unit="character"/>vai
-<lb n="18"/>tiruc cittiṟa kūṭap paṭṭar coṉṉa vaṇṇam Eḻuttu ciṅkap pirāṉ paṭṭar nayiṉār <gap reason="lost" quantity="3" unit="character"/>
-19 <gap reason="lost" quantity="21" unit="character"/>
-<lb n="20"/>Āḻvār <gap reason="lost" quantity="20" unit="character"/>
+                    <lb n="1"/><g type="pc"/> śubham astu supa śrīmaN mahā-maṇṭalēśvaran rājādirāja rāja paramēśvara śrī vīra pratāpa śrī vīra śrī vēṅkaṭapati deva mahārāyar pritivi rājyam paṇṇi Aruḷā niṉṟa
+                    <lb n="2"/>śāli-vāhana-śa<choice><sic>kh</sic><corr>k</corr></choice>āptam 1509 n mēl cellā niṉṟa sarvaśitti samvaśśarattu vaiśākha nāyaṟṟu pūrva pakṣattu yintu vasaramum pañcamiyum peṟṟa has<unclear>ta</unclear> nakṣattirattu nāḷ ceyaṅ ko
+                    <lb n="3"/>ṇṭa cōḻa maṇṭalattu cantirakiri rājyam Ūṟṟuk kāṭṭuk kōṭṭattu viṟpēṭu nāṭṭil nakaram kāñcipuram viṣṇu stānattil tiru vekā nayinārkōyil śrī paṇṭārat
+                    <lb n="4"/>tārum śrī kāriyam śrīmat vēta māṟka pratiṣṭāpaṉācārya Ubaiya vētāntācāryarāna Eṭṭūr tirumalai kumāra tāttācāryar Ayyan sannati Aḻakiya ciṅkarum ṣaṭa maruṣaṇa kōtrattu
+                    <lb n="5"/>Āpastampa <gap reason="lost" quantity="8" unit="character"/> tāttācāryar tirumalai kumpakōṇam tāttācariyar Ayyā vayyaṅkār
+                    <lb n="6"/><gap reason="lost" quantity="4" unit="character"/> tirumā <gap reason="lost" quantity="6" unit="character"/> yitta māka śopakṣaya taṟma śāsanam paṇṇi kuṭuttap paṭi
+                    <lb n="7"/><gap reason="lost" quantity="4" unit="character"/> vem perumāṉ <gap reason="lost" quantity="6" unit="character"/> ṅkamāka Itukku mēṟku perumāḷ Eḻun taruḷum
+                    <lb n="8"/><gap reason="lost" quantity="4" unit="character"/> terutā tiru <gap reason="lost" quantity="16" unit="character"/> kaḷum maraṅkaḷum kiṇaṟukaḷum Uḷpaṭa Upakṣaya māka ni
+                    <lb n="9"/>caṟcayitta <gap reason="lost" quantity="3" unit="character"/> Aḻa <gap reason="lost" quantity="8" unit="character"/> Uḷḷa tellām maraṅkaḷ kiṇaṟukaḷ tiru ntavaṉam Uḷpaṭa <gap reason="lost" quantity="4" unit="character"/> Upakṣaya māka cātanam paṇṇi kuṭuttōm Inta nilaṅkaḷ Uḷḷa tellām
+                    <lb n="10"/>Aṣṭa bhoka tēca cuvāmiyaṅkaḷum putra pavutra pāramparai yāka Ācantrārtta māka tāna <gap reason="lost" quantity="7" unit="character"/> yaṅkaḷukkum yōkya māka Aṉupavittuk koḷḷak kaṭavarākavum Inta nilam Ellām Iv
+                    <lb n="11"/>vemperumāṉ kōṭait tiru nāḷ koṇṭaruḷa poliyūṭṭu taṟma śāsanam paṇṇik kuṭukkayil In nilaṅkaḷ Ellām tiruk kōyililē kai koṇṭu Iv ve<unclear>m peru</unclear>māṉ kōṭait tiru nā
+                    <lb n="12"/><gap reason="lost" quantity="31" unit="character"/> paṅkuṉi māsam puṇar pū <gap reason="lost" quantity="4" unit="character"/> naṭattum piṟakāram ṉāḷ Oṉṟukku cuvāmi Eḻuntaruḷi cātti yaruḷa cantaṇam
+                    <lb n="13"/><gap reason="lost" quantity="3" unit="character"/> vilai <gap reason="lost" quantity="2" unit="character"/> ṣa perumāḷ kōyil pēril paṭi <gap reason="lost" quantity="5" unit="character"/> Appam ka tōcai tūṇippatakku māmpaḻam puka vāḻaippaḻam puka veccamutu kaṃ
+                    <lb n="14"/>Ilai yamutu 7 Alaṅkāra tiru mañcaṉam Uḷḷa kaṭṭaḷai Inta piṟakāram Āṟu ṉāḷum tiruk kōyililē naṭattak kaṭavōmākavum
+                    <lb n="15"/>Amutu ceytaruḷiṉa ciṟappukku <gap reason="lost" quantity="3" unit="character"/> viṭṭavaṉ viḻu <gap reason="lost" quantity="4" unit="character"/> nālat toṉṟum Āḻvā <gap reason="lost" quantity="3" unit="character"/> niṟuvākam ṉālukkum muṉṉāḷ tiruvaṭi kōyil paṭi poliyūṭṭu piṟa
+                    <lb n="16"/>kāra <gap reason="lost" quantity="5" unit="character"/> kuṭuttu <gap reason="lost" quantity="3" unit="character"/> ṉiyōkam paṇṇivikka kaṭavōmākavum yippaṭi cammatittu kōṭait tiru ṉāḷ poliyūṭṭu nimattamāka Upakṣaya taṟma
+                    <lb n="17"/>śāsanam paṇṇi kuṭuttōm tiruma <gap reason="lost" quantity="5" unit="character"/> Ayyaṅkār Ayyan Avarkaḷukku tiruvekā nayiṉār kōyil śrī paṇṭārattārum śrī kāriyam ceyyum Aḻakiya ciṅkarum me<gap reason="lost" quantity="1" unit="character"/>vai
+                    <lb n="18"/>tiruc cittiṟa kūṭap paṭṭar coṉṉa vaṇṇam Eḻuttu ciṅkap pirāṉ paṭṭar nayiṉār <gap reason="lost" quantity="3" unit="character"/>
+                    19 <gap reason="lost" quantity="21" unit="character"/>
+                    <lb n="20"/>Āḻvār <gap reason="lost" quantity="20" unit="character"/>
                 </ab>
             </div>
-
+            
             <div type="apparatus">
-
+                
             </div>
-
+            
             <div type="translation">
-
+                
             </div>
-
+            
             <div type="commentary">
-
+                
             </div>
-
+            
             <div type="bibliography">
-
+                
                 <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/33).</p>
-
+                
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <listBibl type="primary">
-
+                    
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
-                        <citedRange unit="page">1</citedRange>
+                        <citedRange unit="page">34-36</citedRange>
                         <citedRange unit="item">21</citedRange>
                     </bibl>
                     <bibl n="V2">
@@ -139,7 +139,7 @@
                         <citedRange unit="item">21</citedRange>
                     </bibl>
                 </listBibl>
-
+                
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1920-1921"/>
@@ -147,9 +147,9 @@
                         <citedRange unit="appendix">C/1921</citedRange>
                         <citedRange unit="item">33</citedRange>
                     </bibl>
-
+                    
                 </listBibl>
-
+                
             </div>
         </body>
     </text>
