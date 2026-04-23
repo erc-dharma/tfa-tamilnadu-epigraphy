@@ -17,7 +17,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-
+                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -80,41 +80,43 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-
+            
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-                <ab>
-1 <gap reason="lost" quantity="3" unit="character"/> tiripuvaṉac cakkaravattikaḷ maturaiyum pāṇṭiyaṉ …<gap reason="lost" quantity="1" unit="character"/>
-<lb n="2"/>……… koṇṭa cōḻamaṇṭa ……<gap reason="lost" quantity="2" unit="character"/>
-<lb n="3"/>…………<gap reason="lost" quantity="2" unit="character"/>
-<lb n="4"/>………
-                </ab>
+                
+                <p>
+                    <lb n="1"/><gap reason="lost" quantity="3" unit="character"/> tiripuvaṉac cakkaravattikaḷ maturaiyum pāṇṭiyaṉ …<gap reason="lost" quantity="1" unit="character"/>
+                    <lb n="2"/>……… koṇṭa cōḻamaṇṭa ……<gap reason="lost" quantity="2" unit="character"/>
+                    <lb n="3"/>…………<gap reason="lost" quantity="2" unit="character"/>
+                    <lb n="4"/>………
+                </p>
+                
             </div>
-
+            
             <div type="apparatus">
-
+                
             </div>
-
+            
             <div type="translation">
-
+                
             </div>
-
+            
             <div type="commentary">
-
+                
             </div>
-
+            
             <div type="bibliography">
-
-                <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/21).</p>
-
+                
+                <p>Not reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl>.</p>
+                
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <listBibl type="primary">
-
+                    
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
-                        <citedRange unit="page">1</citedRange>
+                        <citedRange unit="page">11-12</citedRange>
                         <citedRange unit="item">9</citedRange>
                     </bibl>
                     <bibl n="V2">
@@ -123,17 +125,13 @@
                         <citedRange unit="item">9</citedRange>
                     </bibl>
                 </listBibl>
-
+                
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1920-1921"/>
-                        <citedRange unit="page">59</citedRange>
-                        <citedRange unit="appendix">C/1921</citedRange>
-                        <citedRange unit="item">21</citedRange>
                     </bibl>
-
                 </listBibl>
-
+                
             </div>
         </body>
     </text>

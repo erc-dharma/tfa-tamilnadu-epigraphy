@@ -17,7 +17,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-
+                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -80,42 +80,53 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-
+            
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-                <ab>
-
-<lb n="1"/><gap reason="lost" quantity="3" unit="character"/> vu kāṇātu Avaṟ colliya nāḷin mēl Oru tiṅkaḷ pāttirunta pinnai pē <gap reason="lost" quantity="4" unit="character"/> va <gap reason="lost" quantity="5" unit="character"/> yum mūvarun tanittani mutukiṭap porutu Ira <gap reason="lost" quantity="4" unit="character"/> Ēḻarai Ilakkamum muraṭṭeḻi
-<lb n="2"/><gap reason="lost" quantity="3" unit="character"/> ṭakki muḻaṅkeri yūṭṭi veṅkatap puli Ēṟa viyantu viḷaiyāṭa tuṅka pattirai<gap reason="lost" quantity="4" unit="character"/> piraṭṭanai valla <gap reason="lost" quantity="4" unit="character"/> cuntarak kaṇṭikai cūṭṭiṭuṅ kaḷattā <gap reason="lost" quantity="3" unit="character"/> tan puri
-<lb n="3"/><gap reason="lost" quantity="3" unit="character"/> ḻaikkaiyil piḻait ti <gap reason="lost" quantity="4" unit="character"/> ṟiya Ōṭina paricoru pala <gap reason="lost" quantity="3" unit="character"/> ṭṭip pērttut tān kai koṇṭa vēṅkaitan <gap reason="lost" quantity="2" unit="character"/> mīṭṭuk kōṇṭa
-
-<lb n="1"/><gap reason="lost" quantity="3" unit="character"/> kellai pañcavan mātēvi vatikku mēṟkum mēlpāṟ kellai kō <gap reason="lost" quantity="4" unit="character"/> mātēvar kōyil
-<lb n="2"/><gap reason="lost" quantity="3" unit="character"/> kiḻakkum tenpāṟ kellai vikkirama cōḻap perun teru <gap reason="lost" quantity="2" unit="character"/> vaṭakkum vaṭapāṟkellai pirama <gap reason="lost" quantity="4" unit="character"/> mātēvar kōyi
-<lb n="3"/><gap reason="lost" quantity="3" unit="character"/> kum In nāṟpāṟ kellai vuṭpaṭa nila mikutik kuṟai <gap reason="lost" quantity="20" unit="character"/>
-                </ab>
+                
+                <div type="textpart" n="A"><head>First fragment</head>
+                    
+                    <p>
+                        
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> vu kāṇātu Avaṟ colliya nāḷin mēl Oru tiṅkaḷ pāttirunta pinnai pē <gap reason="lost" quantity="4" unit="character"/> va <gap reason="lost" quantity="5" unit="character"/> yum mūvarun tanittani mutukiṭap porutu Ira <gap reason="lost" quantity="4" unit="character"/> Ēḻarai Ilakkamum muraṭṭeḻi
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> ṭakki muḻaṅkeri yūṭṭi veṅkatap puli Ēṟa viyantu viḷaiyāṭa tuṅka pattirai<gap reason="lost" quantity="4" unit="character"/> piraṭṭanai valla <gap reason="lost" quantity="4" unit="character"/> cuntarak kaṇṭikai cūṭṭiṭuṅ kaḷattā <gap reason="lost" quantity="3" unit="character"/> tan puri
+                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> ḻaikkaiyil piḻait ti <gap reason="lost" quantity="4" unit="character"/> ṟiya Ōṭina paricoru pala <gap reason="lost" quantity="3" unit="character"/> ṭṭip pērttut tān kai koṇṭa vēṅkaitan <gap reason="lost" quantity="2" unit="character"/> mīṭṭuk koṇṭa
+                    </p>
+                </div>
+                
+                <div type="textpart" n="B"><head>Seconf fragment</head>
+                    
+                    <p>
+                        
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> kellai pañcavan mātēvi vatikku mēṟkum mēlpāṟ kellai kō <gap reason="lost" quantity="4" unit="character"/> mātēvar kōyil
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> kiḻakkum tenpāṟ kellai vikkirama cōḻap perun teru <gap reason="lost" quantity="2" unit="character"/> vaṭakkum vaṭapāṟkellai pirama <gap reason="lost" quantity="4" unit="character"/> mātēvar kōyi
+                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> kum In nāṟpāṟ kellai vuṭpaṭa nila mikutik kuṟai <gap reason="lost" quantity="20" unit="character"/>
+                    </p>
+                </div>
+                
             </div>
-
+            
             <div type="apparatus">
-
+                
             </div>
-
+            
             <div type="translation">
-
+                
             </div>
-
+            
             <div type="commentary">
-
+                
             </div>
-
+            
             <div type="bibliography">
-
+                
                 <p>Not reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl>.</p>
-
+                
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <listBibl type="primary">
-
+                    
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
                         <citedRange unit="page">1</citedRange>
@@ -127,13 +138,13 @@
                         <citedRange unit="item">5</citedRange>
                     </bibl>
                 </listBibl>
-
+                
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1920-1921"/>
                     </bibl>
                 </listBibl>
-
+                
             </div>
         </body>
     </text>

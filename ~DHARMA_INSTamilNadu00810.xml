@@ -102,7 +102,7 @@
 
             <div type="bibliography">
 
-                <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/21).</p>
+                <p>Not reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl>.</p>
 
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
 
@@ -112,7 +112,7 @@
 
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
-                        <citedRange unit="page">1</citedRange>
+                        <citedRange unit="page">12</citedRange>
                         <citedRange unit="item">10</citedRange>
                     </bibl>
                     <bibl n="V2">
@@ -125,11 +125,7 @@
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1920-1921"/>
-                        <citedRange unit="page">59</citedRange>
-                        <citedRange unit="appendix">C/1921</citedRange>
-                        <citedRange unit="item">21</citedRange>
                     </bibl>
-
                 </listBibl>
 
             </div>

@@ -17,7 +17,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-
+                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -80,50 +80,55 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-
+            
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
                 <ab>
-<lb n="1"/>svasti śrī tiruvāyk kēḻvi muṉṉāka tiripuvaṉac cakkaravattikaḷ maturaiyum pāṇṭiyaṉ muṭittalaiyuṅ koṇṭaruḷiya
-<lb n="2"/>kulōttuṅka cōḻa devaṟku yāṇṭu 20 vatu <gap reason="lost" quantity="4" unit="character"/>
-<lb n="3"/>cōḻa maṇṭalattu kāliyūṟk kōṭṭattu viṟppēṭṭu nāṭṭu karitaṭuttū rāṉa hasti nivāraṇac caturvē
-<lb n="4"/>dimaṅkalattu kīḻpāṟ kellai vaṭakkilē toṇ <gap reason="lost" quantity="2" unit="character"/>
-<lb n="5"/>ḷāḷap peruñ ceṟu muḷ maṭaikku teṟkku ṉōkkiṉa ka ṇāṟṟu
-6 ṟṟuc cevvai teṟkkil varampu<unclear>kku</unclear> mēṟkkum yi varampu mēṟkku ṉōkki teṉ maṭal vaḷaivāḷ taricuṟṟu vaḷaiyaḷ Ēri mēlkaṭai
-<lb n="7"/>ṇṭāra kuḷamum kīḻmēl kavutēva Ōṭai karaikkum mēlaik karaikkuḻikku vaṭakkum cetarāyp puttēri Ētta vāyila <gap reason="lost" quantity="4" unit="character"/> Accaṅ kuḻikkum kiḻakku vaṭa
-<lb n="8"/>kīḻaip puṟṟu naṭu vērikkuḷ <gap reason="lost" quantity="1" unit="character"/> pāccalāṉa cētarāyaṉ kālukkuk kiḻakkum Ikkālc cevvai vaṭakku kōyilp pāṭṭa <gap reason="lost" quantity="1" unit="character"/> maṇ puṟṟu kuḻikkum
-<lb n="9"/>liraṇṭu Uṟak kiḻakkum vaṭapāṟ kellai <gap reason="lost" quantity="5" unit="character"/> naṭu Uṟavum vaṭa kiḻakku muṟuṭṭup paṭṭikku mēṟkkum teṉ maṭalāna <gap reason="lost" quantity="1" unit="character"/> bentran kaṇṇāṟu parappāṉa
-<lb n="10"/>paṭṭa teṟkkil kulaik karai mēṟkkum Ik kiḻakku ṉōkkiṉa kulaikkarai kavaṟk kālukku teṟkkum I nāṟk kellaikku Uḷppaṭa nīr nilamum ko
-<lb n="11"/>llai nilamum kāṭeḻu karampum cētarāyap puttēri <gap reason="lost" quantity="4" unit="character"/> vaṭakkilēyil teṟkkiṟ tūmpum Ivvakarattukku so mākavum <gap reason="lost" quantity="3" unit="character"/> kkup paḷḷa
-<lb n="12"/>t tūmpum matakum Āṟṟuk kāl Iraṇṭu maccakkālum Ivattāl nālattoru nīr prāptikaḷum maṟṟum Ivaṟṟil viḷai <gap reason="lost" quantity="2" unit="character"/> kaḷum Uḷppaṭa
-<lb n="13"/>Iv vakarattu brāhmaṇar nālppattu Iruvaṟkum yiraṇṭu pērkaḷ Akaramāka yiṭṭu cilālēkai paṇṇik kuṭuttōm <gap reason="lost" quantity="8" unit="character"/>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
+                
+                <p>
+                    tiruvāyk kēḻvi muṉṉāka tiripuvaṉac cakkaravattikaḷ maturaiyum pāṇṭiyaṉ muṭittalaiyuṅ koṇṭaruḷiya
+                    <lb n="2"/>kulōttuṅka-cōḻa-<hi rend="grantha">de</hi>vaṟku yāṇṭu 20 vatu <gap reason="lost" quantity="4" unit="character"/>
+                    <lb n="3"/>cōḻa maṇṭalattu kāliyūṟk kōṭṭattu viṟppēṭṭu nāṭṭu karitaṭuttū rāṉa hasti nivāraṇac caturvē
+                    <lb n="4"/>dimaṅkalattu kīḻpāṟ kellai vaṭakkilē toṇ <gap reason="lost" quantity="2" unit="character"/>
+                    <lb n="5"/>ḷāḷap peruñ ceṟu muḷ maṭaikku teṟkku ṉōkkiṉa ka ṇāṟṟu
+                    6 ṟṟuc cevvai teṟkkil varampu<unclear>kku</unclear> mēṟkkum yi varampu mēṟkku ṉōkki teṉ maṭal vaḷaivāḷ taricuṟṟu vaḷaiyaḷ Ēri mēlkaṭai
+                    <lb n="7"/>ṇṭāra kuḷamum kīḻmēl kavutēva Ōṭai karaikkum mēlaik karaikkuḻikku vaṭakkum cetarāyp puttēri Ētta vāyila <gap reason="lost" quantity="4" unit="character"/> Accaṅ kuḻikkum kiḻakku vaṭa
+                    <lb n="8"/>kīḻaip puṟṟu naṭu vērikkuḷ <gap reason="lost" quantity="1" unit="character"/> pāccalāṉa cētarāyaṉ kālukkuk kiḻakkum Ikkālc cevvai vaṭakku kōyilp pāṭṭa <gap reason="lost" quantity="1" unit="character"/> maṇ puṟṟu kuḻikkum
+                    <lb n="9"/>liraṇṭu Uṟak kiḻakkum vaṭapāṟ kellai <gap reason="lost" quantity="5" unit="character"/> naṭu Uṟavum vaṭa kiḻakku muṟuṭṭup paṭṭikku mēṟkkum teṉ maṭalāna <gap reason="lost" quantity="1" unit="character"/> bentran kaṇṇāṟu parappāṉa
+                    <lb n="10"/>paṭṭa teṟkkil kulaik karai mēṟkkum Ik kiḻakku ṉōkkiṉa kulaikkarai kavaṟk kālukku teṟkkum I nāṟk kellaikku Uḷppaṭa nīr nilamum ko
+                    <lb n="11"/>llai nilamum kāṭeḻu karampum cētarāyap puttēri <gap reason="lost" quantity="4" unit="character"/> vaṭakkilēyil teṟkkiṟ tūmpum Ivvakarattukku so mākavum <gap reason="lost" quantity="3" unit="character"/> kkup paḷḷa
+                    <lb n="12"/>t tūmpum matakum Āṟṟuk kāl Iraṇṭu maccakkālum Ivattāl nālattoru nīr prāptikaḷum maṟṟum Ivaṟṟil viḷai <gap reason="lost" quantity="2" unit="character"/> kaḷum Uḷppaṭa
+                    <lb n="13"/>Iv vakarattu brāhmaṇar nālppattu Iruvaṟkum yiraṇṭu pērkaḷ Akaramāka yiṭṭu cilālēkai paṇṇik kuṭuttōm <gap reason="lost" quantity="8" unit="character"/>
+                </p>
             </div>
-
+            
             <div type="apparatus">
-
+                
             </div>
-
+            
             <div type="translation">
-
+                
             </div>
-
+            
             <div type="commentary">
-
+                
             </div>
-
+            
             <div type="bibliography">
-
-                <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/21).</p>
-
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/24).</p>
+                
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <listBibl type="primary">
-
+                    
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
-                        <citedRange unit="page">1</citedRange>
+                        <citedRange unit="page">10-11</citedRange>
                         <citedRange unit="item">8</citedRange>
                     </bibl>
                     <bibl n="V2">
@@ -132,17 +137,17 @@
                         <citedRange unit="item">8</citedRange>
                     </bibl>
                 </listBibl>
-
+                
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1920-1921"/>
                         <citedRange unit="page">59</citedRange>
                         <citedRange unit="appendix">C/1921</citedRange>
-                        <citedRange unit="item">21</citedRange>
+                        <citedRange unit="item">24</citedRange>
                     </bibl>
-
+                    
                 </listBibl>
-
+                
             </div>
         </body>
     </text>
