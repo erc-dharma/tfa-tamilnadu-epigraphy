@@ -101,14 +101,15 @@
                         <lb n="10" break="no"/>ṇa</l> <l n="d">svadattan nispha
                             <lb n="11" break="no"/>laM bhaveT <g type="gomutraFinal">.</g></l>
                 </lg>
-                <lg n="3" met="unknown">
-                    <l n="abcd"><lb n="12"/>svāminttātaya deśikēndra
+                <p>
+                    <lb n="12"/>svāmin tātaya-deśikendra
                         <lb n="13"/>satatandāṉa vikrayā <gap reason="lost" quantity="3" unit="character"/>
                         <lb n="14"/>vatā <gap reason="lost" quantity="4" unit="character"/> syāma sa <gap reason="lost" quantity="1" unit="character"/>
                         <lb n="15"/>pāśritām <gap reason="lost" quantity="3" unit="character"/> rāvi
                         <lb n="16"/>prāyaḥ pramōdākra
-                        <lb n="17"/><gap reason="lost" quantity="2" unit="character"/> sāvitrī vacasā</l>
-                </lg>
+                        <lb n="17"/><gap reason="lost" quantity="2" unit="character"/> sāvitrī vacasā
+                        <lb n="18"/><gap reason="lost" quantity="1" unit="line"/>
+                </p>
             </div>
             
             <div type="apparatus">

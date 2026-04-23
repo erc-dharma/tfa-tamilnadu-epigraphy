@@ -113,12 +113,12 @@
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
                         <citedRange unit="page">1</citedRange>
-                        <citedRange unit="item">1</citedRange>
+                        <citedRange unit="item">10</citedRange>
                     </bibl>
                     <bibl n="V2">
                         <ptr target="bib:Vijayavenugopal+al2026_01"/>
-                        <citedRange unit="page">3</citedRange>
-                        <citedRange unit="item">1</citedRange>
+                        <citedRange unit="page">24</citedRange>
+                        <citedRange unit="item">10</citedRange>
                     </bibl>
                 </listBibl>
 

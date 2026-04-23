@@ -103,14 +103,13 @@
             
             <div type="bibliography">
                 
-                <p>Not reported in ARIE.</p>
-                
+                 <p>Not reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl>.</p>
+                                
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
                 
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
                 
-                <listBibl type="primary">
-                    
+                <listBibl type="primary">                    
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
                         <citedRange unit="page">13</citedRange>
@@ -123,6 +122,11 @@
                     </bibl>
                 </listBibl>
                 
+                 <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1920-1921"/>                       
+                    </bibl>
+                </listBibl>
                 
             </div>
         </body>

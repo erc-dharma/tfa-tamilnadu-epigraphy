@@ -106,7 +106,7 @@
             
             <div type="bibliography">
                 
-                <p>Not reported in ARIE.</p>
+                <p>Not reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl>.</p>
                 
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
                 
@@ -126,6 +126,11 @@
                     </bibl>
                 </listBibl>
                 
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1920-1921"/>                       
+                    </bibl>
+                </listBibl>
                 
             </div>
         </body>

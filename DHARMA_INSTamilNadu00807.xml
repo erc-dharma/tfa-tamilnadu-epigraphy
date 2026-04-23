@@ -82,12 +82,12 @@
         <body>
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-                <ab>
+                <p>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> cōḻa-tēvarkku yāṇṭu nāṟ <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> kāṭṭattu nakaraṅ kāñci <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> kōṭṭaṟai Uṭai <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> vanta <gap reason="lost" extent="unknown" unit="character"/>
-                </ab>
+                </p>
             </div>
             
             <div type="apparatus">
@@ -105,14 +105,13 @@
             <div type="bibliography">
                 
                 
-                <p>Not reported in ARIE.</p>
+                <p>Not reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl>.</p>
                 
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
                 
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
                 
                 <listBibl type="primary">
-                    
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
                         <citedRange unit="page">9-10</citedRange>
@@ -122,6 +121,12 @@
                         <ptr target="bib:Vijayavenugopal+al2026_01"/>
                         <citedRange unit="page">19</citedRange>
                         <citedRange unit="item">7</citedRange>
+                    </bibl>
+                </listBibl>
+                
+                 <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1920-1921"/>                       
                     </bibl>
                 </listBibl>
                 

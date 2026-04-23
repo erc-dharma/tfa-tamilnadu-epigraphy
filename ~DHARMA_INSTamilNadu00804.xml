@@ -17,7 +17,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-
+                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -80,60 +80,56 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-
+            
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <ab>
-<lb n="1"/>… ryaṉ rājarājaṉ ce <gap reason="lost" quantity="1" unit="character"/> va <gap reason="lost" quantity="1" unit="character"/> ttu brāhmaṇan Oṉpatu <gap reason="lost" quantity="3" unit="character"/>
-<lb n="2"/><gap reason="lost" quantity="8" unit="character"/> ṉ cey nilaṅ kku vilai pattuk kācu nāṟpatu kai
-<lb n="3"/>nilaṅkaḷ Ellai <gap reason="lost" quantity="3" unit="character"/> tta kācu nūṟu Ik kācu nūṟum tiru ve+kā Āḻvā <gap reason="lost" quantity="3" unit="character"/>
-<lb n="4"/>ceytu kuṭuttōm rājarājēndra-caruppēti-maṅkalattu mahā-sabhaiyōm I …
+                    <lb n="1"/>… ryaṉ rājarājaṉ ce <gap reason="lost" quantity="1" unit="character"/> va <gap reason="lost" quantity="1" unit="character"/> ttu brāhmaṇan Oṉpatu <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="2"/><gap reason="lost" quantity="8" unit="character"/> ṉ cey nilaṅ kku vilai pattuk kācu nāṟpatu kai
+                    <lb n="3"/>nilaṅkaḷ Ellai <gap reason="lost" quantity="3" unit="character"/> tta kācu nūṟu Ik kācu nūṟum tiru ve+kā Āḻvā <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="4"/>ceytu kuṭuttōm rājarājēndra-caruppēti-maṅkalattu mahā-sabhaiyōm I …
                 </ab>
             </div>
-
+            
             <div type="apparatus">
-
+                
             </div>
-
+            
             <div type="translation">
-
+                
             </div>
-
+            
             <div type="commentary">
-
+                
             </div>
-
+            
             <div type="bibliography">
-
-                <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/21).</p>
-
+                
+                <p>Not reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl>.</p>
+                
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <listBibl type="primary">
-
+                    
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
-                        <citedRange unit="page">1</citedRange>
-                        <citedRange unit="item">1</citedRange>
+                        <citedRange unit="page">7-_</citedRange>
+                        <citedRange unit="item">4</citedRange>
                     </bibl>
                     <bibl n="V2">
                         <ptr target="bib:Vijayavenugopal+al2026_01"/>
-                        <citedRange unit="page">3</citedRange>
-                        <citedRange unit="item">1</citedRange>
+                        <citedRange unit="page">13-14</citedRange>
+                        <citedRange unit="item">4</citedRange>
                     </bibl>
                 </listBibl>
-
+                
                 <listBibl type="secondary">
                     <bibl>
-                        <ptr target="bib:ARIE1920-1921"/>
-                        <citedRange unit="page">59</citedRange>
-                        <citedRange unit="appendix">C/1921</citedRange>
-                        <citedRange unit="item">21</citedRange>
+                        <ptr target="bib:ARIE1920-1921"/>                       
                     </bibl>
-
                 </listBibl>
-
+                
             </div>
         </body>
     </text>

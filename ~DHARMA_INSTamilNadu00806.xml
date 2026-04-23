@@ -17,7 +17,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-
+                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -80,62 +80,65 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-
+            
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <ab>
-<lb n="1"/>svasti śrī tripuvaṉac cakra vatti ku cōḻa tēvarkku yā<unclear>ṇ</unclear>ṭu 6 vatu mēca nāyaṟṟu pūrva pakṣattu <gap reason="lost" quantity="5" unit="character"/>peṟṟa <gap reason="lost" quantity="4" unit="character"/> jayaṅkoṇṭa cōḻa
-<lb n="2"/>maṇṭalattu śrī kāñcipurattu Ananta nārāyaṇa svāmikku cēraṉai venṟa cōḻa kumāraṉum mānaṅ kāttān Amu taṭuvārōm <gap reason="lost" quantity="3" unit="character"/> tu taṟai
-<lb n="3"/><gap reason="lost" quantity="6" unit="character"/> Inta cuvāmi tirumaṭai viḷākam tiru nāmattukkāṇi cannatikku vaṭakku <gap reason="lost" quantity="3" unit="character"/> tta mēl vāṭai kīḻ <gap reason="lost" quantity="3" unit="character"/> taikaḷum
-<lb n="4"/>ṉaiya <gap reason="lost" quantity="4" unit="character"/> teṟku mutal vaṭakkun teṟku <gap reason="lost" quantity="3" unit="character"/> tiruk kāṇiyākat tiruk kaiyālē tarukayil Inta devarkku tiruvaparaṇam <gap reason="lost" quantity="3" unit="character"/> tayum naṭat
-<lb n="5"/>ta namakku vilai <gap reason="lost" quantity="4" unit="character"/> cantiyum
-<lb n="6"/>veṭṭi kuṭuttōm Itai
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
+                <p>
+                    tripuvaṉa-c-cakra-vatti ku cōḻa tēvarkku yā<unclear>ṇ</unclear>ṭu 6 vatu mēca-nāyaṟṟu pūrva-pakṣattu <gap reason="lost" quantity="5" unit="character"/> peṟṟa <gap reason="lost" quantity="4" unit="character"/> jayaṅ-koṇṭa-cōḻa
+                    <lb n="2" break="no"/>-maṇṭalattu <hi rend="grantha">śrī</hi>-kāñcipurattu Ananta-nārāyaṇa-svāmikku cēraṉai venṟa cōḻa kumāraṉum mānaṅ kāttān Amu taṭuvārōm <gap reason="lost" quantity="3" unit="character"/> tu taṟai
+                    <lb n="3"/><gap reason="lost" quantity="6" unit="character"/> Inta cuvāmi tiru-maṭai-viḷākam tiru-nāmattu-k-kāṇi cannatikku vaṭakku <gap reason="lost" quantity="3" unit="character"/> tta mēl vāṭai kīḻ <gap reason="lost" quantity="3" unit="character"/> taikaḷum
+                    <lb n="4"/>ṉaiya <gap reason="lost" quantity="4" unit="character"/> teṟku mutal vaṭakkun teṟku <gap reason="lost" quantity="3" unit="character"/> tiru-k-kāṇi-y-āka-t tiru-k-kaiyālē tarukayil Inta devarkku tiruvaparaṇam <gap reason="lost" quantity="3" unit="character"/> tayum naṭat
+                    <lb n="5"/>ta namakku vilai <gap reason="lost" quantity="4" unit="character"/> cantiyum
+                    <lb n="6"/>veṭṭi kuṭuttōm Itai
+                </p>
             </div>
-
+            
             <div type="apparatus">
-
+                
             </div>
-
+            
             <div type="translation">
-
+                
             </div>
-
+            
             <div type="commentary">
-
+                
             </div>
-
+            
             <div type="bibliography">
-
-                <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/21).</p>
-
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/22).</p>
+                
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <listBibl type="primary">
-
+                    
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
-                        <citedRange unit="page">1</citedRange>
-                        <citedRange unit="item">1</citedRange>
+                        <citedRange unit="page">9</citedRange>
+                        <citedRange unit="item">6</citedRange>
                     </bibl>
                     <bibl n="V2">
                         <ptr target="bib:Vijayavenugopal+al2026_01"/>
-                        <citedRange unit="page">3</citedRange>
-                        <citedRange unit="item">1</citedRange>
+                        <citedRange unit="page">17-18</citedRange>
+                        <citedRange unit="item">6</citedRange>
                     </bibl>
                 </listBibl>
-
+                
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1920-1921"/>
                         <citedRange unit="page">59</citedRange>
                         <citedRange unit="appendix">C/1921</citedRange>
-                        <citedRange unit="item">21</citedRange>
+                        <citedRange unit="item">22</citedRange>
                     </bibl>
-
+                    
                 </listBibl>
-
+                
             </div>
         </body>
     </text>
