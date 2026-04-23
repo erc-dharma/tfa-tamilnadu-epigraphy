@@ -226,7 +226,7 @@
                     </app>
                     
                     <app loc="28">
-                        <lem></lem>
+                        <lem/>
                         <rdg source="bib:SrinivasaRao1952_01">Uttaramayaṉattu</rdg>
                         <rdg source="bib:Gillet2023_01"><supplied reason="lost">Ut</supplied>tām-aya<space type="feature"/>ṉattu</rdg>
                     </app>

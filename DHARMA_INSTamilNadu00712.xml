@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ātmanāthasvāmi temple, Āvuṭaiyārkōyil, Māra<gap reason="undefined"></gap> king, no date</title>
+                <title>Ātmanāthasvāmi temple, Āvuṭaiyārkōyil, Māra<gap reason="undefined"/> king, no date</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:matr">
@@ -52,7 +52,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -64,16 +64,13 @@
                     under the European Union’s Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -90,29 +87,29 @@
                 
                 
 <p> 
-    <lb n="1"/> <gap reason="lost" extent="unknown"></gap> maṟka <gap reason="lost" quantity="3" unit="character"></gap>  <choice><unclear>nti</unclear><unclear>kki</unclear><unclear>tti</unclear></choice> <gap reason="lost" extent="unknown"></gap> <hi rend="grantha">śrī</hi> kō-māṟa<gap reason="lost" quantity="5" unit="character"></gap> tipaṟ <gap reason="lost" extent="unknown"></gap> kumpa-nāyaṟṟu <hi rend="grantha">pūrva</hi>-p pa<hi rend="grantha"><unclear>kṣa</unclear></hi>ttu
+    <lb n="1"/> <gap reason="lost" extent="unknown"/> maṟka <gap reason="lost" quantity="3" unit="character"/>  <choice><unclear>nti</unclear><unclear>kki</unclear><unclear>tti</unclear></choice> <gap reason="lost" extent="unknown"/> <hi rend="grantha">śrī</hi> kō-māṟa<gap reason="lost" quantity="5" unit="character"/> tipaṟ <gap reason="lost" extent="unknown"/> kumpa-nāyaṟṟu <hi rend="grantha">pūrva</hi>-p pa<hi rend="grantha"><unclear>kṣa</unclear></hi>ttu
 </p>
 <p>
 
-  <lb n="2"/><gap reason="lost" extent="unknown"></gap> <hi rend="grantha">śa</hi>n ta<choice><orig>n</orig><reg>ṉ</reg></choice><unclear>i</unclear><supplied reason="omitted">yūr ti</supplied>rup<supplied reason="omitted">pe</supplied>runtu<unclear>rai</unclear>-y-āṉa-<unclear>p pavi</unclear>tt<unclear>i</unclear>ra-<supplied reason="omitted">mā</supplied>ṇ<unclear>i</unclear>kka-<choice><orig><hi rend="grantha">śa</hi></orig><reg>ca</reg></choice>tu<supplied reason="omitted">r</supplied>vēt<unclear>i</unclear>maṅkalattu Āḷuṭaiya-nāyaṉār kaṉm<unclear>i</unclear>kaḷukku k<choice><sic>i</sic><corr>ī</corr></choice>ḻ-kūṟṟu mañcakk' uṭaiyāṉ Uyyavantāṉ tirune
+  <lb n="2"/><gap reason="lost" extent="unknown"/> <hi rend="grantha">śa</hi>n ta<choice><orig>n</orig><reg>ṉ</reg></choice><unclear>i</unclear><supplied reason="omitted">yūr ti</supplied>rup<supplied reason="omitted">pe</supplied>runtu<unclear>rai</unclear>-y-āṉa-<unclear>p pavi</unclear>tt<unclear>i</unclear>ra-<supplied reason="omitted">mā</supplied>ṇ<unclear>i</unclear>kka-<choice><orig><hi rend="grantha">śa</hi></orig><reg>ca</reg></choice>tu<supplied reason="omitted">r</supplied>vēt<unclear>i</unclear>maṅkalattu Āḷuṭaiya-nāyaṉār kaṉm<unclear>i</unclear>kaḷukku k<choice><sic>i</sic><corr>ī</corr></choice>ḻ-kūṟṟu mañcakk' uṭaiyāṉ Uyyavantāṉ tirune
 </p>
   <p>
-  <lb n="3"/><gap reason="lost" extent="unknown"></gap> ai <gap reason="lost" unit="character" quantity="6"></gap> <supplied reason="lost">u</supplied>ttama kālattil tiruvantikkāppu y-eṭuttāl tiruvaṭi viḷa<supplied reason="omitted">k</supplied>k<choice><orig>i</orig><reg>u</reg></choice> Amutu ce<choice><orig>v</orig><reg>y</reg></choice>taruḷa y-eṉ pērāl kaṭṭiṉa t<unclear>o</unclear>ṇṭ<unclear>ai</unclear>māṉ cantikku Amutupaṭi cāttuppaṭi Uḷḷi<supplied reason="omitted">ṭṭa</supplied> <gap reason="lost" extent="unknown"></gap>
+  <lb n="3"/><gap reason="lost" extent="unknown"/> ai <gap reason="lost" unit="character" quantity="6"/> <supplied reason="lost">u</supplied>ttama kālattil tiruvantikkāppu y-eṭuttāl tiruvaṭi viḷa<supplied reason="omitted">k</supplied>k<choice><orig>i</orig><reg>u</reg></choice> Amutu ce<choice><orig>v</orig><reg>y</reg></choice>taruḷa y-eṉ pērāl kaṭṭiṉa t<unclear>o</unclear>ṇṭ<unclear>ai</unclear>māṉ cantikku Amutupaṭi cāttuppaṭi Uḷḷi<supplied reason="omitted">ṭṭa</supplied> <gap reason="lost" extent="unknown"/>
 </p>
   <p>
-      <lb n="4"/><gap reason="lost" extent="unknown"></gap> lil <supplied reason="lost">tiru</supplied>vātavūr mutaliyārai y-eṉ pi<supplied reason="omitted">ṟa</supplied>nta nāḷ māta-v-āca<unclear>ṟu</unclear>ti y-avv<choice><orig>a</orig><reg>i</reg></choice>t<supplied reason="omitted">ta</supplied>ttu nāḷ y-eḻuntaruḷuvikkavum tirumuṉpu tiruvācakam ōta niccayitta nimantattukkum nāṉ kārāṇ<supplied reason="omitted">m</supplied>ai <gap reason="lost" extent="unknown"></gap>
+      <lb n="4"/><gap reason="lost" extent="unknown"/> lil <supplied reason="lost">tiru</supplied>vātavūr mutaliyārai y-eṉ pi<supplied reason="omitted">ṟa</supplied>nta nāḷ māta-v-āca<unclear>ṟu</unclear>ti y-avv<choice><orig>a</orig><reg>i</reg></choice>t<supplied reason="omitted">ta</supplied>ttu nāḷ y-eḻuntaruḷuvikkavum tirumuṉpu tiruvācakam ōta niccayitta nimantattukkum nāṉ kārāṇ<supplied reason="omitted">m</supplied>ai <gap reason="lost" extent="unknown"/>
 </p>
   <p>
       
-<lb n="5"/><gap reason="lost" extent="unknown"></gap> lē kārāṇmai y-āka-k kuṭutt<supplied reason="lost">eṉ</supplied> y-ivvūril vīramaṅkalattil n<supplied reason="lost">ā</supplied>yaṉār vīracekara y-īsvaram uṭaiyaṉārku payir p<choice><sic>a</sic><corr>ā</corr></choice>rtta nilattukku muṉpil āṇṭukaḷ kaṭamai y-iṟukkum paṭi <unclear>ka</unclear><gap reason="lost" extent="unknown"> </gap>
+<lb n="5"/><gap reason="lost" extent="unknown"/> lē kārāṇmai y-āka-k kuṭutt<supplied reason="lost">eṉ</supplied> y-ivvūril vīramaṅkalattil n<supplied reason="lost">ā</supplied>yaṉār vīracekara y-īsvaram uṭaiyaṉārku payir p<choice><sic>a</sic><corr>ā</corr></choice>rtta nilattukku muṉpil āṇṭukaḷ kaṭamai y-iṟukkum paṭi <unclear>ka</unclear><gap reason="lost" extent="unknown"> </gap>
 </p>
 
 <p>
-    <lb n="6"/><gap reason="lost" quantity="1" unit="line"></gap>
+    <lb n="6"/><gap reason="lost" quantity="1" unit="line"/>
 </p>
     
     <p>
-        <lb n="7"/><gap reason="lost" extent="unknown"></gap> <supplied reason="omitted">kallilum cempi</supplied><unclear>lu</unclear>m veṭṭi-k-koḷvat' ākavum 
+        <lb n="7"/><gap reason="lost" extent="unknown"/> <supplied reason="omitted">kallilum cempi</supplied><unclear>lu</unclear>m veṭṭi-k-koḷvat' ākavum 
     </p>
     <p>
         Ippaṭi cammatittu piṭipāṭu paṇṇi-k kuṭuttē<supplied reason="lost">ṉ</supplied> 
@@ -122,24 +119,24 @@
     Āḷuṭaiya nāyaṉārkku ka<supplied reason="lost">ṭa</supplied>m<supplied reason="lost">ai</supplied>kaḷukku-t t<supplied reason="lost">oṇṭai</supplied>māṉ Ippaṭikku Ivai
 </p>
     <p>
-  <lb n="8"/><gap reason="lost" extent="unknown"></gap> ku-p pa<unclear>c</unclear>cai viṉiyōkam eṉṟu vayyūr maṅkalattil nāṅ k<unclear>ai</unclear>koṇṭu potumavai y-uṇṭākilun toṇṭaimān cantikku Iṟaiyili y-āka cantirātittavaṟ celvatāka y-iṟai
+  <lb n="8"/><gap reason="lost" extent="unknown"/> ku-p pa<unclear>c</unclear>cai viṉiyōkam eṉṟu vayyūr maṅkalattil nāṅ k<unclear>ai</unclear>koṇṭu potumavai y-uṇṭākilun toṇṭaimān cantikku Iṟaiyili y-āka cantirātittavaṟ celvatāka y-iṟai
         </p>
     <p>
 
-  <lb n="9"/> <gap reason="lost" extent="unknown"></gap> Ippaṭikku Ivai mātavarāyaṉ Eḻuttu <g type="pc"/> </p>
+  <lb n="9"/> <gap reason="lost" extent="unknown"/> Ippaṭikku Ivai mātavarāyaṉ Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> </p>
                 <p>
         
-        poṉakaṉ civakki Eḻuttu <g type="pc"/> 
+        poṉakaṉ civakki Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> 
                     </p>
                 <p>
-                    Ippaṭikkuc cīvatēva pāṭṭaṉ Eḻuttu <g type="pc"/> 
+                    Ippaṭikkuc cīvatēva pāṭṭaṉ Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> 
                     </p>
-                <p>Ippaṭikku ivai cīmāṟaṉ Eḻuttu <g type="pc"/> 
+                <p>Ippaṭikku ivai cīmāṟaṉ Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> 
                     
                     </p>
                 <p>
                     
-                    <supplied reason="lost">Ippaṭikku</supplied> kumaṇarāyaṉ Eḻuttu <supplied reason="lost"><g type="pc"/></supplied>
+                    <supplied reason="lost">Ippaṭikku</supplied> kumaṇarāyaṉ Eḻuttu <supplied reason="lost"><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--></supplied>
                 </p>
     
             </div>	
@@ -149,8 +146,8 @@
                 <listApp>   
                     
                     <app loc="0">
-                        <lem></lem>
-                        <note></note>
+                        <lem/>
+                        <note/>
                     </app>
                     
                 </listApp>

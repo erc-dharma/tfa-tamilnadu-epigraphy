@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -56,16 +56,13 @@
                     under the European Union’s Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -103,11 +100,11 @@
                     <gap reason="lost" quantity="6" unit="character"/>
                     <lb n="6"/>
                     <gap reason="lost" quantity="5" unit="character"/>
-                    kaṇṇāṟṟu 2-ñ catirattu <g type="tam-nilam"/> 4 Itil teṟk' aṭaiya
+                    kaṇṇāṟṟu 2-ñ catirattu <g ref="sym:tam-nilam"/> 4 Itil teṟk' aṭaiya
                     <gap reason="lost" quantity="6" unit="character"/>
                     <lb n="7"/>
                     <gap reason="lost" quantity="5" unit="character"/>
-                    ṟṟu l<supplied reason="omitted">m</supplied>tara catirattu <g type="tam-nilam"/> 4-lil teṟk' aṭaiya nilam
+                    ṟṟu l<supplied reason="omitted">m</supplied>tara catirattu <g ref="sym:tam-nilam"/> 4-lil teṟk' aṭaiya nilam
                     <gap reason="lost" quantity="6" unit="character"/>
                     <lb n="8"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="9"/><gap reason="lost" quantity="1" unit="line"/>
@@ -130,12 +127,12 @@
                     </app>
                     
                     <app loc="6">
-                        <lem><g type="tam-nilam"/></lem>
+                        <lem><g ref="sym:tam-nilam"/></lem>
                         <rdg source="bib:Srinivasan1987_01">ni(nilam)</rdg>
                         <note>It is not clear what <foreign>ni(nilam)</foreign> means in <ptr target="bib:Srinivasan1987_01"/>.</note>
                     </app>
                     <app loc="7">
-                        <lem><g type="tam-nilam"/></lem>
+                        <lem><g ref="sym:tam-nilam"/></lem>
                         <rdg source="bib:Srinivasan1987_01">ni(nilam)</rdg>
                         <note>It is not clear what <foreign>ni(nilam)</foreign> means in <ptr target="bib:Srinivasan1987_01"/>.</note>
                     </app>

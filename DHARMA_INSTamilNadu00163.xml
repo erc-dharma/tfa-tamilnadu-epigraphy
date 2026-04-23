@@ -63,7 +63,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -75,16 +75,13 @@
                     under the European Union’s Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -100,12 +97,12 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <ab>
-                    <lb n="1"/><g type="ddanda"/> <g type="pc"/> <hi rend="grantha">svasti śrī</hi>
+                    <lb n="1"/><g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> <hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
                 <p>
-                    tiru-mātu virumpa-c cīr-mātu viḷaṅka-p poru-paṭai-k kāttu pōr-mātu porun <gap reason="lost" quantity="7" unit="character"></gap> ‡ <hi rend="grantha">ja</hi>yapuyattuṟai-p pulamakaḷ <hi rend="grantha">nāviṟ</hi>pu <gap reason="lost" quantity="3" unit="character"></gap> <unclear>n</unclear>tu <unclear>vīṟṟiruppa-p po</unclear><choice><orig>nn</orig><reg>ṉṉ</reg></choice>eṭu mēruviṟ puli-<unclear>k</unclear>
-                    <lb n="2"/><unclear>k</unclear>oṭi kāṭṭattan neṭuñ ceṅkōl caka taṇṭam aḷappattā<unclear>ru</unclear> <hi rend="grantha"><unclear>śa</unclear></hi>nemiyun taraḷa <unclear>veṇkuṭaiyu</unclear> <gap reason="lost" quantity="8" unit="character"></gap> ‡ Iruḷ akaṟṟa <unclear>mīna</unclear>var ciṅkaḷar virāṭar vatta<unclear>var</unclear> māka<unclear>tar</unclear> mutalā ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>avar vaṇaṅka-p paruti ku
+                    tiru-mātu virumpa-c cīr-mātu viḷaṅka-p poru-paṭai-k kāttu pōr-mātu porun <gap reason="lost" quantity="7" unit="character"/> ‡ <hi rend="grantha">ja</hi>yapuyattuṟai-p pulamakaḷ <hi rend="grantha">nāviṟ</hi>pu <gap reason="lost" quantity="3" unit="character"/> <unclear>n</unclear>tu <unclear>vīṟṟiruppa-p po</unclear><choice><orig>nn</orig><reg>ṉṉ</reg></choice>eṭu mēruviṟ puli-<unclear>k</unclear>
+                    <lb n="2"/><unclear>k</unclear>oṭi kāṭṭattan neṭuñ ceṅkōl caka taṇṭam aḷappattā<unclear>ru</unclear> <hi rend="grantha"><unclear>śa</unclear></hi>nemiyun taraḷa <unclear>veṇkuṭaiyu</unclear> <gap reason="lost" quantity="8" unit="character"/> ‡ Iruḷ akaṟṟa <unclear>mīna</unclear>var ciṅkaḷar virāṭar vatta<unclear>var</unclear> māka<unclear>tar</unclear> mutalā ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>avar vaṇaṅka-p paruti ku
                     <lb n="3"/>lamuñ carutiyun taḻaippa v-oru tirumaṇi-muṭi y-urimai<unclear>yiṟ cū</unclear>ṭa-c ce<unclear>m</unclear>po<choice><orig>n</orig><reg>ṉ</reg></choice> v<choice><sic>i</sic><corr>ī</corr></choice>ra-<hi rend="grantha">siṃhāsa</hi>nattu-p pu<supplied reason="lost">vaṉa muḻutu uṭaiyāḷōtum</supplied> ‡
                     
                 </p> 
@@ -118,13 +115,13 @@
                 
                 <p>
                     <hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻa-vaḷanāṭṭu-t tiruvaḻunt<choice><sic>u</sic><corr>ū</corr></choice>r-nāṭṭu <hi rend="grantha">brahmade</hi>yam vaḻukūr Uṭaiyār tiruv<choice><sic>i</sic><corr>ī</corr></choice>raṭṭa ‡  <supplied reason="lost">ṉam uṭaiyārkku ku</supplied>lōttuṅka-cōḻa vaḷanāṭṭu veḷā-nāṭṭu mulaṅkuṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> cāttaṉ <supplied reason="omitted">na</supplied>ñcamutu ceytā<choice><orig>n</orig><reg>ṉ</reg></choice> {unknown symbol}
-                    <lb n="5"/>In-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār kōyililē y-eḻuntaru<unclear>ḷu</unclear>vittu-p pūjai koṇṭaruḷukiṟa tiruvātavūr-n<unclear>ā</unclear>ya<choice><orig>n</orig><reg>ṉ</reg></choice><supplied reason="lost">ārkku</supplied> <gap reason="lost" extent="unknown"></gap> ‡ <supplied reason="omitted">ca</supplied>nti Oṉṟukku-t tiru-v-amutu Arici Iru-nāḻikku kaṟi-y-amut-uḷ<supplied reason="omitted">ḷ</supplied>iṭṭa viñcanaṅ
-                    <lb n="6" break="no"/>kaḷukkum nāḷ Oṉṟukku nellu-k kuṟuṇi y-āka nāḷ mun-nūṟṟ-aṟupatt-añcukku <supplied reason="lost">nellu nūṟṟ-irupatiṅ kalanē</supplied> <gap extent="unknown" reason="lost"></gap> ‡ y-aiṅ kuṟuṇikku In-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice> Etirili-cōḻa-maṅkalattu maturān
-                    <lb n="7" break="no"/>taka vatikku mēṟku <hi rend="grantha">paraśur<supplied reason="omitted">āma</supplied></hi> vākkālukku teṟku mutaṟ kaṇṇāṟṟu mutaṟ catirat<unclear>tu</unclear> <gap extent="unknown" reason="lost"></gap> ‡ āmattu <hi rend="grantha">rājarāja</hi>-p peruvilai koṇṭa nilamāy varukiṟa kollai <supplied reason="omitted">y-u</supplied>ṭpaṭa nilam
-                    <lb n="8"/><unclear>mū</unclear>nṟu-<unclear>mā</unclear> mukkāṇi-c ci<choice><orig>nn</orig><reg>ṉṉ</reg></choice>amuṇ kuṭi <unclear>n</unclear><choice><sic>i</sic><corr>ī</corr></choice>kkā-t tevatānam āka nilaṅ koḷḷa <hi rend="grantha">śrī</hi>-paṇa <gap extent="unknown" reason="lost"></gap> ‡ tār Ik-kācu nūṟum Oṭukku koṇṭu In-nilatt-iṟai mikutiyilē viṭṭu
-                    <lb n="9"/>Amutu c<unclear>e</unclear>ytaru A<hi rend="grantha">pūrvi</hi>kaḷukku <hi rend="grantha">prasādikka</hi> <supplied reason="lost">kaṭa</supplied>vat-ākavum Amutu ceytaruḷa-t tiruma <gap extent="unknown" reason="lost"></gap> ‡ v<supplied reason="lost">e</supplied>ṇkala v-iṭai Irupatiṉ palattukku Oṭukki<choice><orig>n</orig><reg>ṉ</reg></choice>a kācu pattum tiruvaṭṭaṇaikka
+                    <lb n="5"/>In-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār kōyililē y-eḻuntaru<unclear>ḷu</unclear>vittu-p pūjai koṇṭaruḷukiṟa tiruvātavūr-n<unclear>ā</unclear>ya<choice><orig>n</orig><reg>ṉ</reg></choice><supplied reason="lost">ārkku</supplied> <gap reason="lost" extent="unknown"/> ‡ <supplied reason="omitted">ca</supplied>nti Oṉṟukku-t tiru-v-amutu Arici Iru-nāḻikku kaṟi-y-amut-uḷ<supplied reason="omitted">ḷ</supplied>iṭṭa viñcanaṅ
+                    <lb n="6" break="no"/>kaḷukkum nāḷ Oṉṟukku nellu-k kuṟuṇi y-āka nāḷ mun-nūṟṟ-aṟupatt-añcukku <supplied reason="lost">nellu nūṟṟ-irupatiṅ kalanē</supplied> <gap extent="unknown" reason="lost"/> ‡ y-aiṅ kuṟuṇikku In-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār tēvatā<choice><orig>n</orig><reg>ṉ</reg></choice> Etirili-cōḻa-maṅkalattu maturān
+                    <lb n="7" break="no"/>taka vatikku mēṟku <hi rend="grantha">paraśur<supplied reason="omitted">āma</supplied></hi> vākkālukku teṟku mutaṟ kaṇṇāṟṟu mutaṟ catirat<unclear>tu</unclear> <gap extent="unknown" reason="lost"/> ‡ āmattu <hi rend="grantha">rājarāja</hi>-p peruvilai koṇṭa nilamāy varukiṟa kollai <supplied reason="omitted">y-u</supplied>ṭpaṭa nilam
+                    <lb n="8"/><unclear>mū</unclear>nṟu-<unclear>mā</unclear> mukkāṇi-c ci<choice><orig>nn</orig><reg>ṉṉ</reg></choice>amuṇ kuṭi <unclear>n</unclear><choice><sic>i</sic><corr>ī</corr></choice>kkā-t tevatānam āka nilaṅ koḷḷa <hi rend="grantha">śrī</hi>-paṇa <gap extent="unknown" reason="lost"/> ‡ tār Ik-kācu nūṟum Oṭukku koṇṭu In-nilatt-iṟai mikutiyilē viṭṭu
+                    <lb n="9"/>Amutu c<unclear>e</unclear>ytaru A<hi rend="grantha">pūrvi</hi>kaḷukku <hi rend="grantha">prasādikka</hi> <supplied reason="lost">kaṭa</supplied>vat-ākavum Amutu ceytaruḷa-t tiruma <gap extent="unknown" reason="lost"/> ‡ v<supplied reason="lost">e</supplied>ṇkala v-iṭai Irupatiṉ palattukku Oṭukki<choice><orig>n</orig><reg>ṉ</reg></choice>a kācu pattum tiruvaṭṭaṇaikka
                     <lb n="10"/><unclear>1</unclear> Oṉṟ<unclear>i</unclear><choice><orig>n</orig><reg>ṉ</reg></choice>āṟ tarā v-iṭai Irupatt-irupalava ākku Oṭukki<choice><orig>n</orig><reg>ṉ</reg></choice>a kācu pattum ‡ <hi rend="grantha">śrī</hi> paṇṭārattu oṭukku koṇṭu Ip-paṭi cantirāti-tavaṟ cella-k kaṭavat-ānamaikku kal veṭ<supplied reason="lost">ṭu</supplied>
-                    taṉṉ<choice><sic>i</sic><corr>ī</corr></choice>r amutu vaṭṭil Iṭaiy Aimpalamuñcaṭṭuva<unclear>(m)</unclear> <supplied reason="lost">I</supplied>ṭai Āṟupa<unclear>la</unclear>mum āka Iṭai pati O <gap extent="unknown" reason="lost"></gap> ‡  ṇṭārattu Oṭukku koṇṭa kācu Aiñcarai 
+                    taṉṉ<choice><sic>i</sic><corr>ī</corr></choice>r amutu vaṭṭil Iṭaiy Aimpalamuñcaṭṭuva<unclear>(m)</unclear> <supplied reason="lost">I</supplied>ṭai Āṟupa<unclear>la</unclear>mum āka Iṭai pati O <gap extent="unknown" reason="lost"/> ‡  ṇṭārattu Oṭukku koṇṭa kācu Aiñcarai 
                 </p>   
             </div>	
             
@@ -138,8 +135,8 @@
                         </app>-->
                     
                     <app loc="1">
-                        <lem><g type="ddanda"/> <g type="pc"/> svasti śrī</lem>
-                        <rdg source="bib:Swaminathan1998_01"><g type="ddanda"/> svasti śrī</rdg>
+                        <lem><g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> svasti śrī</lem>
+                        <rdg source="bib:Swaminathan1998_01"><g ref="sym:doubleBar" type="punctuation">.</g> svasti śrī</rdg>
                     </app>
                     
                     <app loc="1">
@@ -177,7 +174,7 @@
           
                     <div type="commentary">
     <p>
-        This record and <ref target="doc:INSTamilNadu00164"></ref> are best understood as part of the same administrative dossier, since they record closely related endowments by the same donor, Nañcamutu Ceytāṉ. Moreover, the present <foreign>meykkīrtti</foreign> appears to pertain to Rājādhirāja II, while <ref target="doc:INSTamilNadu00164"></ref> explicitly gives the name of the king, Rājādhirāja. Therefore, the two inscriptions are taken here as belonging to the same same chronological period.
+        This record and <ref target="doc:INSTamilNadu00164"/> are best understood as part of the same administrative dossier, since they record closely related endowments by the same donor, Nañcamutu Ceytāṉ. Moreover, the present <foreign>meykkīrtti</foreign> appears to pertain to Rājādhirāja II, while <ref target="doc:INSTamilNadu00164"/> explicitly gives the name of the king, Rājādhirāja. Therefore, the two inscriptions are taken here as belonging to the same same chronological period.
     </p>
 </div>
                 

@@ -57,16 +57,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -119,7 +116,7 @@
                         <l n="a">Āgāmino nara-pat<choice><sic>i</sic><corr>ī</corr></choice>n abhi<choice><sic>v</sic><corr>y</corr></choice>āca<lb n="3v13=124" break="no"/>te</l>
                         <l n="b">sau rājendra-coḷa-nṛpatir nnamit-ottam-āṅgaḥ</l>
                         <l n="c" enjamb="yes">grāmo ’yam astu paripālya Iti pratīta</l>
-                        <l n="d">-namr-āvan-īndra-<lb n="3v14=125" break="no"/>makuṭ-ollasad-aṃghripīṭhaḥ <g type="ddanda">.</g></l>
+                        <l n="d">-namr-āvan-īndra-<lb n="3v14=125" break="no"/>makuṭ-ollasad-aṃghripīṭhaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="74" met="praharṣiṇī">
@@ -127,7 +124,7 @@
                         <l n="b">-jvālābhiḥ prakaṭita-divya-puṇya-mārggaḥ</l>
                         <l n="c" enjamb="yes">Ā
                             <lb n="3v15=126" break="no"/>kalpam vilasatu sat·-path-opadeśa</l>
-                        <l n="d">-vyāpāra-sthira-mati-bhūsur-opasevyaḥ <g type="ddanda">.</g></l>
+                        <l n="d">-vyāpāra-sthira-mati-bhūsur-opasevyaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="75" met="sragdharā">
@@ -139,11 +136,11 @@
                             <lb n="3v17=128" break="no"/>mān· rājendra-coḷa<supplied reason="omitted">s</supplied> sphurad-uru-mahima-stutya-paryyāpta-kāvyaḥ</l>
                         <l n="d">pāyād ā-
                             candra-tāraM sakala-vasumatī-maṇḍalaṃ
-                            <lb n="3v18=129"/>khaṇḍit-āri<supplied reason="omitted">ḥ</supplied> <g type="ddanda">.</g></l>
+                            <lb n="3v18=129"/>khaṇḍit-āri<supplied reason="omitted">ḥ</supplied> <g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="76" met="anuṣṭubh">
-                        <l n="a">śaṃkar-ār<choice><sic>iy</sic><corr>y</corr></choice>>-ātmajen=edaM</l>
+                        <l n="a">śaṃkar-ār<choice><sic>iy</sic><corr>y</corr></choice>&gt;-ātmajen=edaM</l>
                         <l n="b">pārśva-grama-nivāsinā</l>
                         <l n="c">nārāyaṇena kavinā</l>
                         <l n="d">śāsanaṃ śāśvataM kṛtaM</l>
@@ -151,7 +148,7 @@
                     
                     <p>
                         <lb n="3v19=130"/>tri-bhuvana-mahā-devi-mahācā<supplied reason="omitted">r</supplied>yyo rājendra-siṃha-per-ācāryyaś ca śāsanam idam alikha                      
-                        <lb n="3v20=131" break="no"/>tāM śilp-āgama-tatva-kuṣalau dvau <g type="gomutraFinal">.</g> <g type="gomutraFinal">.</g> <g type="gomutraFinal">.</g> <g type="gomutraFinal">.</g>
+                        <lb n="3v20=131" break="no"/>tāM śilp-āgama-tatva-kuṣalau dvau <g ref="sym:flourish-taperOut" type="punctuation">.</g> <g ref="sym:flourish-taperOut" type="punctuation">.</g> <g ref="sym:flourish-taperOut" type="punctuation">.</g> <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                         
                     </p>
                     

@@ -91,7 +91,7 @@
                 </p>
                 <p>
                     I<unclear>v-i</unclear>raṇṭu <hi rend="grantha">sa</hi><unclear>n=</unclear>ti pōtu Aiñcu pāk=ku Āka pattu Aṭaikkāy amu<supplied reason="subaudible">tu</supplied>
-                    <lb n="15" />pattu Ivaiccuk=ku vēṇṭu veṟṟi<unclear>l</unclear>lai Amutu Iccu<supplied reason="omitted">ṭ</supplied><unclear>ṭa</unclear>pa<supplied reason="omitted">ṭ</supplied>ṭa I<supplied reason="omitted">t</supplied>taṉaiyum A<choice><orig>n</orig><reg>ṉ</reg></choice>ṟāṭu kaṇkāṇi-y-oṭu I<supplied reason="omitted">p</supplied>paṭi
+                    <lb n="15"/>pattu Ivaiccuk=ku vēṇṭu veṟṟi<unclear>l</unclear>lai Amutu Iccu<supplied reason="omitted">ṭ</supplied><unclear>ṭa</unclear>pa<supplied reason="omitted">ṭ</supplied>ṭa I<supplied reason="omitted">t</supplied>taṉaiyum A<choice><orig>n</orig><reg>ṉ</reg></choice>ṟāṭu kaṇkāṇi-y-oṭu I<supplied reason="omitted">p</supplied>paṭi
                     <lb n="16"/>c<unclear>e</unclear><choice><orig>y</orig><reg>yy</reg></choice>a kaṭavē<choice><orig>n</orig><reg>ṉ</reg></choice> nā<choice><orig>n</orig><reg>ṉ</reg></choice>ē
                 </p>
                 
@@ -135,7 +135,7 @@
                         <rdg source="bib:Gillet2023_01">I <gap reason="lost" quantity="1" unit="character"/></rdg>
                     </app>
                     <app loc="15">
-                        <lem>Aṭaikkāy amu<supplied reason="subaudible">tu</supplied><lb n="15" />pattu</lem>
+                        <lem>Aṭaikkāy amu<supplied reason="subaudible">tu</supplied><lb n="15"/>pattu</lem>
                         <rdg source="bib:SrinivasaRao1967_01">Aṭaikkayamu<lb n="15" break="no"/>tu pattu</rdg>
                         <rdg source="bib:Gillet2023_01">Aṭaikkaya mu<lb n="15" break="no"/>pattu</rdg>
                     </app>
@@ -152,7 +152,7 @@
                     <app loc="15">
                         <lem>A<choice><orig>n</orig><reg>ṉ</reg></choice>ṟāṭu</lem>
                         <rdg source="bib:SrinivasaRao1967_01">An<seg rend="check">ṟ</seg>āṭṭu</rdg>
-                        <rdg source="bib:Gillet2023_01">An<unclear>ṟā</unclear>ṭ<unclear >ṭu</unclear></rdg>
+                        <rdg source="bib:Gillet2023_01">An<unclear>ṟā</unclear>ṭ<unclear>ṭu</unclear></rdg>
                     </app>
                     
                 </listApp>

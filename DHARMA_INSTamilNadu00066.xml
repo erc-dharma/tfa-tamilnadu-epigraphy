@@ -64,17 +64,14 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -94,8 +91,8 @@
                 
                 <p>
                     <lb n="1"/><supplied reason="lost"><hi rend="grantha">tribhu</hi>va</supplied><unclear>ṉa</unclear>-c-cakkara-vatt<supplied reason="lost">ikaḷ ma</supplied>t<unclear>ur</unclear><hi rend="grantha"><unclear>ai</unclear></hi>yu<unclear>m ī</unclear>ḻa<unclear>mum</unclear> karuvū<unclear>rum</unclear> <supplied reason="lost">pāṇṭi</supplied> <gap reason="lost" quantity="6" unit="character"/>
-                    <lb n="2"/><gap reason="lost" quantity="4" unit="character"></gap> <hi rend="grantha">śrī</hi>-kulōttuṅka-cōḻa-tēvaṟku yāṇṭu <num value="25">2 <g type="numeral">10</g> 5</num> ku<supplied reason="lost">lo<!--kompu clear-->ttuṅ</supplied> <gap reason="lost" quantity="6" unit="character"/>
-                    <lb n="3"/><supplied reason="lost">kuma</supplied><gap reason="lost" quantity="4" unit="character"></gap> ṉ A<unclear>ṇu</unclear>pāyaṉ cevūr <unclear reason="eccentric_ductus">U</unclear>ṭ<hi rend="grantha">ai</hi>y<unclear>ā</unclear>r tirumaṇa-k-kō<unclear>yi</unclear>lu<unclear>ṭ</unclear><hi rend="grantha">ai</hi><unclear>yār</unclear> <unclear>kōyi</unclear><supplied reason="lost">l tirukkāma-k ko</supplied> <gap reason="lost" quantity="5" unit="character"/>
+                    <lb n="2"/><gap reason="lost" quantity="4" unit="character"/> <hi rend="grantha">śrī</hi>-kulōttuṅka-cōḻa-tēvaṟku yāṇṭu <num value="25">2 <g type="numeral">10</g> 5</num> ku<supplied reason="lost">lo<!--kompu clear-->ttuṅ</supplied> <gap reason="lost" quantity="6" unit="character"/>
+                    <lb n="3"/><supplied reason="lost">kuma</supplied><gap reason="lost" quantity="4" unit="character"/> ṉ A<unclear>ṇu</unclear>pāyaṉ cevūr <unclear reason="eccentric_ductus">U</unclear>ṭ<hi rend="grantha">ai</hi>y<unclear>ā</unclear>r tirumaṇa-k-kō<unclear>yi</unclear>lu<unclear>ṭ</unclear><hi rend="grantha">ai</hi><unclear>yār</unclear> <unclear>kōyi</unclear><supplied reason="lost">l tirukkāma-k ko</supplied> <gap reason="lost" quantity="5" unit="character"/>
                     <lb n="4"/><supplied reason="lost">yāḷi kai</supplied>yil Emperumakkaḷ kōyil m<choice><sic>u</sic><corr>ū</corr></choice>ṉṟukkum tiruttoṇṭar cīrur<hi rend="grantha">ai</hi>ttārkku y-āka nāḷ oṉṟu <gap reason="lost" quantity="5" unit="character"/>
                     <lb n="5"/><supplied reason="lost">m ceyya</supplied><unclear>m</unclear> iṭattu nāḷ o<supplied reason="omitted">ṉ</supplied>ṟukku māṇiraṇṭukku cōṟu kuṟuṇi Oru nāḻi Arici-c cōṟu pe<unclear>ṟakka</unclear>ṭa <gap reason="lost" quantity="6" unit="character"/>
                     <lb n="6"/><supplied reason="lost">kāṇivilai</supplied> y-āka c<choice><sic>i</sic><corr>ī</corr></choice>paṇṭārattil tiru<supplied reason="omitted">k</supplied>kaṟṟaḷi tiru<choice><unclear>pp</unclear><unclear>p</unclear></choice>aṇikku Oṭukkiṉa kācu <unclear>2000 4 100 10 y-i</unclear>k-kācu <unclear>Iraṇ</unclear><supplied reason="lost">ṭā</supplied><unclear>yi</unclear><supplied reason="lost">ra</supplied> <gap reason="lost" unit="character" quantity="6"/>               
@@ -121,7 +118,7 @@
                         <note>Reading after ASI transcript.</note>  
                     </app>                   
                     <app loc="3">
-                        <lem><supplied reason="lost">kuma</supplied><gap reason="lost" quantity="4" unit="character"></gap></lem>
+                        <lem><supplied reason="lost">kuma</supplied><gap reason="lost" quantity="4" unit="character"/></lem>
                         <note>Reading after ASI transcript.</note>
                     </app>
                     <app loc="3">
@@ -129,7 +126,7 @@
                         <rdg source="bib:ARIE1938-1939">Aṉapāyaṉ</rdg>
                     </app>
                     <app loc="3">
-                        <lem><supplied reason="lost">l tirukkāma-k ko</supplied> <gap reason="lost" quantity="5" unit="character"></gap></lem>
+                        <lem><supplied reason="lost">l tirukkāma-k ko</supplied> <gap reason="lost" quantity="5" unit="character"/></lem>
                         <note>Reading after ASI transcript.</note>
                     </app>
                     <app loc="4">
@@ -137,7 +134,7 @@
                         <note>Reading after ASI transcript.</note>
                     </app>
                     <app loc="4">
-                        <lem>kku y-āka nāḷ oṉṟu <gap reason="lost" quantity="5" unit="character"></gap></lem>
+                        <lem>kku y-āka nāḷ oṉṟu <gap reason="lost" quantity="5" unit="character"/></lem>
                         <note>Reading after ASI transcript.</note>
                     </app>
                     <app loc="4">

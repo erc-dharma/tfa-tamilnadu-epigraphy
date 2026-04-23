@@ -59,17 +59,14 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -107,7 +104,7 @@
             <lb n="15" break="no"/>ḻiyum kaṟi Amutu vañcaṉamum Aṭaikkāy Amutukkum Ilai Amutu maṟṟu <gap reason="lost" quantity="4" unit="character"/> ṭṭu varukiṟa paṭiye viṭakkaṭavat 'ākavum muṉpu tēvaraṭiyār peṟum
             <lb n="16"/>paṭi-c cōṟṟil piṭittu civa-p-pirāmaṇar Aḷantu Amutupaṭi ceytu varukiṟa <unclear>Arici</unclear> Iru-nāḻiyum Iṟṟai-nāḷ mutal tavir-k-kaṭavat' ākavum Ippaṭi cammati
             <lb n="17" break="no"/>ttu kalveṭṭiṉa-k kuruttamaikku Aruḷāl kōyil kaṇakku <supplied reason="omitted">ku</supplied>ṉṟan Antaṇa-p-piriyaṉ eḻuttu te <gap reason="lost" quantity="4" unit="character"/> tiruñāṉacampanta-paṭṭaṉ eḻuttu <hi rend="grantha">śrī</hi> kara<unclear>ṇattu</unclear>
-            <lb n="18"/>kulottuṅka-cōḻa-pallavarayaṉ eḻuttu Ivai <hi rend="grantha">śrī</hi> mā<hi rend="grantha">heśvara</hi> kaṇkāṇi tiruv<choice><sic>i</sic><corr>ī</corr></choice>ti <gap reason="undefined" quantity="1" unit="character"/>e<gap reason="undefined" quantity="2" unit="character"/> vi Eḻuttu <g type="gomutraFinal">.</g>
+            <lb n="18"/>kulottuṅka-cōḻa-pallavarayaṉ eḻuttu Ivai <hi rend="grantha">śrī</hi> mā<hi rend="grantha">heśvara</hi> kaṇkāṇi tiruv<choice><sic>i</sic><corr>ī</corr></choice>ti <gap reason="undefined" quantity="1" unit="character"/>e<gap reason="undefined" quantity="2" unit="character"/> vi Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g>
         </p>
 	
 </div>

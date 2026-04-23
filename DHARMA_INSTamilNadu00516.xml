@@ -122,9 +122,9 @@
             <div type="apparatus">
                 <listApp>
                     <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:SrinivasaRao1952_01"></rdg>
-                        <rdg source="bib:Gillet2023_01"></rdg>
+                        <lem/>
+                        <rdg source="bib:SrinivasaRao1952_01"/>
+                        <rdg source="bib:Gillet2023_01"/>
                     </app>
                     <app loc="4">
                         <lem><hi rend="grantha">dhammi</hi></lem>

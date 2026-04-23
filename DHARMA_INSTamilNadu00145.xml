@@ -63,16 +63,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -97,16 +94,16 @@
                     <lb n="2"/>kal-āṉa nilattil In-nāyaṉār tiru-nāmattu-k-kāṇi-y-āṉa nilattilē perumāḷ cuntara-pāṇṭiya tēvarkku-p patiṉ oṉṟ-āvatu mutal
                     Oru vāy-k-kāl Uppu
                     <lb n="3" break="no"/>-p paṭuttu mutal aṭaṅka Iṟai-y-ili-y-āka-k koṇṭu puṟa-nāṭṭilē viṟṟu Im-mutal iṭṭu-t tiru-p-paṇi tāḻv’ aṟa-c ceyvikkavum Ip-paṭikku Inta Ōlai
-                    <lb n="4"/>cātaṉam-āka-k koṇṭu ca<hi rend="grantha">n<choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta-vaṟ cella-k kalliluñ cempilum veṭṭi-k koḷḷavum pārppatu <g type="pc">.</g> 
+                    <lb n="4"/>cātaṉam-āka-k koṇṭu ca<hi rend="grantha">n<choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta-vaṟ cella-k kalliluñ cempilum veṭṭi-k koḷḷavum pārppatu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--> 
                 </p>
                 <p>
                     <list>
                         <item>Ip-paṭikku Ivai puttakkuṭai
-                            <lb n="5" break="no"/>yāṉ Eḻuttu <g type="pc">.</g></item>
-                        <item>Ip-paṭikku Ivai cētiya-rāyaṉ Eḻuttu <g type="pc">.</g></item>
-                        <item>Ip-paṭikku Ivai kaṉaka-rāyaṉ Eḻuttu <g type="pc">.</g></item>
+                            <lb n="5" break="no"/>yāṉ Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></item>
+                        <item>Ip-paṭikku Ivai cētiya-rāyaṉ Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></item>
+                        <item>Ip-paṭikku Ivai kaṉaka-rāyaṉ Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></item>
                         <item>Ip-paṭikku Ivai kula-cēka
-                            <lb n="6" break="no"/>ra-p-piramā-rāyaṉ Eḻuttu <unclear><g type="pc">.</g></unclear></item>
+                            <lb n="6" break="no"/>ra-p-piramā-rāyaṉ Eḻuttu <unclear><g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></unclear></item>
                         <item>Ip-paṭikku Ivai neyyuṇṭaṉ<surplus><unclear>ṉ</unclear></surplus> paṭṭaṉ Eḻuttu</item>
                         <item>Ip-paṭikku Ivai kaṅka-nārāyaṇa-paṭṭa
                             <lb n="7" break="no"/>ṉ Eḻuttu</item>
@@ -124,7 +121,7 @@
                         <item>Ip-paṭikku Ivai marut-uṭaiyā
                             <lb n="11" break="no"/>ṉ Eḻuttu</item>
                         <item>Ip-paṭikku Ivai kaṅkai-koṇṭa-cōḻa-p-puvaṉi vēḷāṉ Eḻuttu Ip-paṭikku Ivai tiru-n<choice><sic>a</sic><corr>i			</corr></choice>lakkuṭaiyāṉ Eḻuttu</item>
-                        <item><lb n="12"/>Ip-paṭikku Ivai nāka-maṅkalam-uṭaiyāṉ Eḻuttu <g type="pc">.</g></item>
+                        <item><lb n="12"/>Ip-paṭikku Ivai nāka-maṅkalam-uṭaiyāṉ Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></item>
                     </list>
                 </p>	
                 

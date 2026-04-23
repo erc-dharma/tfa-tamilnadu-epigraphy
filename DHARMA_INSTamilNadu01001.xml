@@ -57,16 +57,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -91,7 +88,7 @@
                     
                     <pb n="1r"/>
                     
-                    <ab >
+                    <ab>
                         <pb n="1v"/>                
                         <lb n="1v1=1"/>svasti śr<choice><orig>i</orig><reg>ī</reg></choice>
                     </ab>
@@ -102,7 +99,7 @@
                             <lb n="1v2=2" break="no"/>kaja-bh<choice><sic>ū</sic><corr>a</corr></choice>v<choice><sic>o</sic><corr>ā</corr></choice> jagatāM prasūtiḥ</l>
                         <l n="c">yasy-āniśaM prathama-vāg vivṛ
                             <lb n="1v3=3" break="no"/>ṇoti tatvaṁ</l>
-                        <l n="d">sa śr<choice><sic>i</sic><corr>ī</corr></choice>-dharo diśatu viśva-pati<supplied reason="omitted">ḥ</supplied> śriya<choice><orig>M</orig><reg>ṁ</reg></choice> va<supplied reason="omitted">ḥ</supplied> <g type="danda">.</g><g type="danda">.</g><g type="danda">.</g></l>
+                        <l n="d">sa śr<choice><sic>i</sic><corr>ī</corr></choice>-dharo diśatu viśva-pati<supplied reason="omitted">ḥ</supplied> śriya<choice><orig>M</orig><reg>ṁ</reg></choice> va<supplied reason="omitted">ḥ</supplied> <g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g><g ref="sym:bar" type="punctuation">.</g></l>
                     </lg>
                     
                     <p>
@@ -122,7 +119,7 @@
                         <l n="a">yaḥ pulo-mata<lb n="2v5=19" break="no"/>nayām iva śakraḥ</l>
                         <l n="b">parvvat-endra-tanujām iva śarvvaḥ</l>
                         <l n="c">kaiṭabh-ārir iva sāgara-ka<lb n="2v6=20" break="no"/>nyām</l>
-                        <l n="d">keraḷ-eśvara-sutām upayeme <g type="gomutraFinal">.</g></l>
+                        <l n="d">keraḷ-eśvara-sutām upayeme <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                     </lg>                    
                     
                     <p>
@@ -144,7 +141,7 @@
                         <l n="a"><pb n="3v"/><lb n="3v1=32"/>śrī-vāsa-dhāmni kuvaḷāla-pure viśāle</l>
                         <l n="b">k<unclear>ā</unclear>ṇvāyanas sakala<lb n="3v2=33" break="no"/>-gaṅga-kul-ā<choice><sic>t</sic><corr>d</corr></choice>i-bhūtaḥ</l>
                         <l n="c">rāja babhūva bhuvi koṃkaṇ<choice><sic>ī</sic><corr>i</corr></choice>-nāmadhe<lb n="3v3=34" break="no"/>yo</l>
-                        <l n="d">yo bāṇa-maṇḍala-jayāya kṛt-ābhiṣeka<supplied reason="omitted">ḥ</supplied> <g type="gomutraFinal"/></l>
+                        <l n="d">yo bāṇa-maṇḍala-jayāya kṛt-ābhiṣeka<supplied reason="omitted">ḥ</supplied> <g ref="sym:flourish-taperOut" type="symbol">*</g></l>
                     </lg>
 
                     <p>
@@ -161,14 +158,14 @@
                         <lb n="5r1=56"/>
                         
                         <pb n="5v"/>                
-                        <lb n="5v1=64"/>ṇā nṛipeṇa <g type="gomutraFinal">.</g>
+                        <lb n="5v1=64"/>ṇā nṛipeṇa <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                     </p>
                     
                     <lg n="25" met="vasantatilakā">
                         <l n="a">puṇyaṁ samaṁ kṛitavatāM parirakṣatāñ ca</l>
                         <l n="b">ta<lb n="5v2=65" break="no"/>d raksat=eti sa parāntaka Eka-vīra<supplied reason="omitted">ḥ</supplied></l>
                         <l n="c">Āgāmina<supplied reason="omitted">ḥ</supplied> kṣiti-patin· <lb n="5v3=66"/>praṇamaty ajasram</l>
-                        <l n="d">mūrddhnā sm<choice><sic>ā</sic><corr>a</corr></choice>r-āri-caraṇ-āMbuja-śekhareṇa <g type="ddanda">.</g></l>
+                        <l n="d">mūrddhnā sm<choice><sic>ā</sic><corr>a</corr></choice>r-āri-caraṇ-āMbuja-śekhareṇa <g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
                     
                     <lg n="26" met="anuṣṭubh">
@@ -262,7 +259,7 @@
                 <div type="textpart" n="D" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Plates: Sanskrit portion 2 of 2</head>
                     <p>
                         <pb n="7r"/>
-                        <lb n="7r10=101"/>On namo nārāyaṇāya <unclear><g type="ddanda">.</g></unclear>
+                        <lb n="7r10=101"/>On namo nārāyaṇāya <unclear><g ref="sym:doubleBar" type="punctuation">.</g></unclear>
                     </p>
                     
                     <pb n="7v"/>

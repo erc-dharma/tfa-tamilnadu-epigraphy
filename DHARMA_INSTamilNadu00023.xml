@@ -63,16 +63,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -89,7 +86,7 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <p>
-                    <lb n="1"/><g type="pc"/> <hi rend="grantha">śubham as<unclear>tu</unclear></hi>
+                    <lb n="1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> <hi rend="grantha">śubham as<unclear>tu</unclear></hi>
                 </p>
                 
                 <ab>
@@ -99,7 +96,7 @@
                 <p>
                     <hi rend="grantha">śrīma</hi>ṉ-<hi rend="grantha">mahā</hi>-Irācātirāca-Irāca-<hi rend="grantha">pa</hi>rame<hi rend="grantha">śva</hi>ra<supplied reason="omitted">ṉ</supplied> mū-v-arāyar kaṇṭaṉ Ariya-Irāya-vipāṭa<supplied reason="omitted">ṉ</supplied> Aṭṭa-tikku-Irāya-maṉō<hi rend="grantha">bha</hi>yaṅkara<hi rend="grantha"><supplied reason="omitted">ṉ</supplied> pāṣai</hi>kku-t tappu-v-arāyar kaṇṭa<supplied reason="omitted">ṉ</supplied> <hi rend="grantha"><unclear>pūrvva</unclear></hi>-<hi rend="grantha">da<choice><sic>kṣṇa</sic><corr>kṣiṇa</corr></choice></hi>-pacci<hi rend="grantha">ma-samu</hi>ttirāccura<supplied reason="omitted">ṉ</supplied> yava-rācciya-<hi rend="grantha">st</hi>tā<hi rend="grantha">bha</hi>ṉācāriya<supplied reason="omitted">ṉ</supplied> <hi rend="grantha">gaja</hi>pati-vi<hi rend="grantha">bhā</hi>ṭa<supplied reason="omitted">ṉ</supplied> <hi rend="grantha">śrī</hi>-vīra-p-<hi rend="grantha">pra</hi><unclear>tā</unclear>pa-<hi rend="grantha">śrī</hi>-vīra-kiru<hi rend="grantha">ṣṇa</hi>-tēva-<hi rend="grantha">mahā</hi>rāyar vicaiya-nakarattilē Iruntu
                     <hi rend="grantha">pūrvva</hi>-tikku vicai<supplied reason="omitted">ya</supplied>-yāttirai Āka Eḻunt-aruḷi Utaiyakiri-turkkam mutalē kai-k-koṇṭu Irāvutta-rāya-<hi rend="grantha">mahā</hi>-pāttiṟattaiyum piṭittu-k-koṇṭu Attaṅki viṉikoṇṭai vellaṅ-koṇṭai nākāccuṉi-koṇṭai taṅ<unclear>koṭu</unclear> 
-                    <lb n="2"/>ketavāram Itu mutal-āṉa kiri-turkkaṅkaḷ <hi rend="grantha">st</hi>tala-turkkaṅkaḷ <hi rend="grantha">Eka</hi>tāṭi Āka kai-k-koṇṭu koṇṭavīṭṭu-turkattil mēlē viṭṭu Ālakkai piṭittu Anta-t turkattaiyum kai-k-koṇṭu <hi rend="grantha">pra</hi>tā<hi rend="grantha" >pa</hi>-ruttira-kēca-pati-rāyar kumārar vīra-p-pattiṟa-rāyaṉaiyum kumāra-Ampīra-pāttiṟaṉ kumāraṉ nāra<unclear>nari</unclear>tēvu Irāccūra malluvakāṉṉaṉ Uttaṇṭa-kāṉaṉ śaṉṉiyāla-kacavā-pāttiṟaṉ <unclear>pū</unclear>cappāṭi Irācci Irācaṉ <hi rend="grantha">śrī</hi>-nātarācaṉ Ila<hi rend="grantha">kṣimi</hi>-<choice><sic>m</sic><corr>p</corr></choice>ati Irācaṉ paccima-vāla-cantira-<hi rend="grantha">mahā-pā</hi>ttiraṉ Ivarkaḷ mutal-āṉa pāttirar cāvanta<supplied reason="omitted">r</supplied> Āṉa maṉṉiyar
+                    <lb n="2"/>ketavāram Itu mutal-āṉa kiri-turkkaṅkaḷ <hi rend="grantha">st</hi>tala-turkkaṅkaḷ <hi rend="grantha">Eka</hi>tāṭi Āka kai-k-koṇṭu koṇṭavīṭṭu-turkattil mēlē viṭṭu Ālakkai piṭittu Anta-t turkattaiyum kai-k-koṇṭu <hi rend="grantha">pra</hi>tā<hi rend="grantha">pa</hi>-ruttira-kēca-pati-rāyar kumārar vīra-p-pattiṟa-rāyaṉaiyum kumāra-Ampīra-pāttiṟaṉ kumāraṉ nāra<unclear>nari</unclear>tēvu Irāccūra malluvakāṉṉaṉ Uttaṇṭa-kāṉaṉ śaṉṉiyāla-kacavā-pāttiṟaṉ <unclear>pū</unclear>cappāṭi Irācci Irācaṉ <hi rend="grantha">śrī</hi>-nātarācaṉ Ila<hi rend="grantha">kṣimi</hi>-<choice><sic>m</sic><corr>p</corr></choice>ati Irācaṉ paccima-vāla-cantira-<hi rend="grantha">mahā-pā</hi>ttiraṉ Ivarkaḷ mutal-āṉa pāttirar cāvanta<supplied reason="omitted">r</supplied> Āṉa maṉṉiyar
                     <lb n="3"/>kaḷaiyum cīvakkiṟākam āka piṭittu-k-koṇṭu Avarkaḷukku Apaiyatāṉam koṭuttu taraṇi-k-koṭṭai Amarēcurattil tulā-puru<hi rend="grantha">ṣa-mahā</hi>tāṉam paṇṇi tirumpi vicaiya-nakarattukku Eḻunt-aruḷi-c c<supplied reason="omitted">ā</supplied><hi rend="grantha">mpr<unclear>ā</unclear>jji</hi>ya<hi rend="grantha">m·</hi> paṇṇi-k-koṇṭu piṉṉaiyum kaliṅka-tēcam tikku-vicaiyam Āka <choice><sic>te</sic><corr><hi rend="grantha">be</hi></corr></choice>cavāṭaikku Eḻunt-aruḷi koṇṭa-p-paḷḷi-t tuṟkamum kai-k-koṇṭu Anta tuṟkattiṉ mēlē Irunta <hi rend="grantha">prakarāśa</hi>ṉ cira-c-cantira-ma<hi rend="grantha">hā</hi>-pāttiraṉ pōṭṭu<hi rend="grantha">ja</hi>ṉa-<hi rend="grantha">mah<supplied reason="omitted">ā</supplied></hi>-pāttiraṉ vicili-kāṉāṉ Ivarkaḷ mutal Āṉavarkaḷaiyum cīvakiṟakam Āka piṭittu apaiya-t-tāṉamum
                     <lb n="4"/>koṭuttu Anta-kiri Uṇṭān-koṇṭa Uṟuḷa-koṇṭa Aruva-p-paḷḷi calli-p-paḷḷi kanti-ko<supplied reason="omitted">ṇ</supplied>ṭai kappaluvāyu-koṇṭai kampam Eṭṭu kaṉaka-kiri caṅkara-kiri Itu mutal Āṉa teluṅkaraṇaiya-t tuṟkam Ekatāṭi Āka kai-k-koṇṭu ciṅkāttiri poṭṭunūṟku Eḻunt-aruḷi Aṅkē ceya-t-tampam nāṭṭi makā-tānam ceytu tirumpi 
                     Irāca-mayēntira-varattukku Eḻunt-aruḷi tammuṭa tēviyār ciṉṉātevi-Ammaṉ tiru-malai-tēvi-Amman Ivarkaḷ kaiyilē makā-tāṉam paṇṇivittu vica<supplied reason="omitted">iya</supplied>ṉakarattukku Eḻunt-aruḷi

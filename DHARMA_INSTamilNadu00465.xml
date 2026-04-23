@@ -65,16 +65,13 @@
                 under the European Union's Horizon 2020 research and innovation programme (grant
                 agreement no 809994).</p>
         </projectDesc>
-        <schemaRef type="guide" key="EGDv01"
-            url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+        <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
         <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                 <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                     ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)"
-                replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                 <p>Internal URIs using the part prefix to point to person elements in the
                     <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -95,7 +92,7 @@
     </ab>
     
     <p>		
-        <hi rend="grantha">raudr<unclear>i</unclear></hi>-varu<hi rend="grantha">ṣam<supplied reason="omitted">·</supplied></hi> mār<hi rend="grantha">ka</hi> <gap reason="lost" quantity="2" unit="character" precision="low"/> <num value="26">2 <g type="numeral">10</g> 6</num> <g type="tam-teti"/>
+        <hi rend="grantha">raudr<unclear>i</unclear></hi>-varu<hi rend="grantha">ṣam<supplied reason="omitted">·</supplied></hi> mār<hi rend="grantha">ka</hi> <gap reason="lost" quantity="2" unit="character" precision="low"/> <num value="26">2 <g type="numeral">10</g> 6</num> <g ref="sym:tam-teti"/>
     </p>
     <p>
         tiru-malai-nāṭṭu-t tiru-k-koṭu
@@ -154,9 +151,9 @@
         </app>        
         
         <app loc="1">
-            <lem>mār<hi rend="grantha">ka</hi> <gap reason="lost" quantity="2" unit="character" precision="low"/> <num value="26">2 <g type="numeral">10</g> 6</num> <g type="tam-teti"/></lem>
-            <rdg source="bib:Vijayavenugopal2022_01">mār <gap reason="lost" quantity="5" unit="character" precision="low"/> 26 <g type="tam-teti"/></rdg>
-            <note>Possibly <foreign>mār<hi rend="grantha">ka</hi><choice><sic>l</sic><corr>ḻ</corr></choice>i <g type="tam-matam"/> <num value="16"><g type="numeral">10</g> 6</num> <g type="tam-teti"/></foreign></note>
+            <lem>mār<hi rend="grantha">ka</hi> <gap reason="lost" quantity="2" unit="character" precision="low"/> <num value="26">2 <g type="numeral">10</g> 6</num> <g ref="sym:tam-teti"/></lem>
+            <rdg source="bib:Vijayavenugopal2022_01">mār <gap reason="lost" quantity="5" unit="character" precision="low"/> 26 <g ref="sym:tam-teti"/></rdg>
+            <note>Possibly <foreign>mār<hi rend="grantha">ka</hi><choice><sic>l</sic><corr>ḻ</corr></choice>i <g ref="sym:tam-matam"/> <num value="16"><g type="numeral">10</g> 6</num> <g ref="sym:tam-teti"/></foreign></note>
         </app>
         
     </listApp>

@@ -58,17 +58,14 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -96,7 +93,7 @@
 		<lb n="4" break="no"/>m nāyanāṟ<choice><sic>t</sic><corr>k</corr></choice>ku koṇṭa<unclear>ṭa</unclear>kantaṉ uṭaiyān nilamum nattamum Āvatu Ivūr piṭākai cankuṇaveḷi paṇappāṟṟukku vaṭakku taṭi mūṉṟu viṭṭuma
 		<lb n="5" break="no"/>ṟkku Amutupaṭikkum tiruvi
 		<lb n="6"/>Ōṭai Eṉṟu pēr kūvappaṭṭa nilam mā mummāvaraiyum kaṇapati vāykkālukku mēṟkku puṟaṅkarampa-ṉāṭṭu vēḷāṉ maṉaikku valivala-nāṭu vēḷāṉ maṉai Iru
-		<lb n="7" break="no"/>ppukkum 1/10 <g type="tam-nilam"/>m I-nilamā mummāvaraiyum Iṉ-nāyanāṟku Amutupaṭikkum tiruviḷakkum cant<supplied reason="omitted">i</supplied>rātityavarai cella-k kaṭavat' āka-k koṇṭu Iṭṭēṉ Āṇṭāṉ kō
+		<lb n="7" break="no"/>ppukkum 1/10 <g ref="sym:tam-nilam"/>m I-nilamā mummāvaraiyum Iṉ-nāyanāṟku Amutupaṭikkum tiruviḷakkum cant<supplied reason="omitted">i</supplied>rātityavarai cella-k kaṭavat' āka-k koṇṭu Iṭṭēṉ Āṇṭāṉ kō
 		<lb n="8"/>taiyāṉa kulōttuṅka-rāyaṉ ēṉ Ik-kōyil Akrāṇam tiruvārūr ammāṉ eḻuttu - Ik-kōyil tēvakammi piramīcuvara paṭṭaṉ Eḻuttu
 		<lb n="9"/>Ik-kōyil kaṇakkaṉ paṉaṅk' uṭaiyāṉ vītiviṭaṅka-p perumāṉ Eḻu<supplied reason="omitted">ttu</supplied>
 	</p>

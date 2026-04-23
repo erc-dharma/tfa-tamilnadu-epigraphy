@@ -44,7 +44,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -56,16 +56,13 @@
                     under the European Union’s Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -88,8 +85,8 @@
                     cāli-vāka
                     <lb n="2" break="no"/>ṉa-<unclear>ca</unclear>kāt=tam <num value="1580"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 8 <g type="numeral">10</g></num>
                     <lb n="3"/>Itan mēl-c cell<unclear>ā</unclear> <supplied reason="lost">ni</supplied>
-                    <lb n="4" break="no"/>ṉṟa pi<unclear>ṟa</unclear>māti <g type="tam-varusam"/> Āṭi <g type="tam-matam"/>
-                    <lb n="5"/>mutal <g type="tam-teti"/>
+                    <lb n="4" break="no"/>ṉṟa pi<unclear>ṟa</unclear>māti <g ref="sym:tam-varusam"/> Āṭi <g ref="sym:tam-matam"/>
+                    <lb n="5"/>mutal <g ref="sym:tam-teti"/>
                 </p>
                 
                 <p>
@@ -115,8 +112,8 @@
                 <listApp>   
                     
                     <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:Cox2025_01"></rdg>
+                        <lem/>
+                        <rdg source="bib:Cox2025_01"/>
                     </app>
                     
                     <app loc="2">
