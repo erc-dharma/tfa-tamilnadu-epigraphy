@@ -17,7 +17,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-
+                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -80,42 +80,45 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-
+            
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <ab>
-<lb n="1"/>svasti śrī vijaiyābtam śālivāhana śakābtam 1448ṉ mēl cellā niṉṟa sarva vici samvatsarattu mēṣa nāyaṟṟu pūrva
-<lb n="2"/>pakṣattu traiyōdaśiyum cani vāramum peṟṟa Uttirattu ṉāḷ coṉṉa vaṇṇam ceyta perumāḷ kōyilukku mēṟku kaṇṇan tāṅkal naṭātūr
-<lb n="3"/>caratūta rācar putraṉ maṇṭalam veṭṭivitta kuḷakkaraiyil hanuma pratiṣṭaiyum paṇṇi kōyilu<unclear>m</unclear> maṇṭapamum kaṭṭivittu taṇṇīr pantalum vaippit
-<lb n="4"/>hanumanta devaṟku naivēdya kaṭṭaḷai naṭakkumpaṭikku poliyūṭṭukku nāḷ Oṉṟukku Amutupaṭi Iru ṉāḻikku mā <gap reason="lost" quantity="2" unit="character"/> Oṉṟukku tiru viḷakkukku Eṇ
-<lb n="5"/>ṇai Iru nāḻikkum kuṭutta pa 25 Ip paṇam Irupattañcukkum cantrātittavaraiyum Inta Aruci Iru nāḻiyum Eṇṇai nāḻiyum hanumanta perumāḷukku nai
-<lb n="6"/>ve<unclear>tya</unclear>m paṇṇi Itil <gap reason="lost" quantity="13" unit="character"/> lum taṇṇīr pantalum veṇ <gap reason="lost" quantity="3" unit="character"/>vaṉukku
-<lb n="7"/>kavum Inta <gap reason="lost" quantity="18" unit="character"/> rājar maṇṭalattukku Ā <gap reason="lost" quantity="6" unit="character"/>
-<lb n="8"/><gap reason="lost" quantity="19" unit="character"/> oṉṟu Ippaṭikku Ivai <gap reason="lost" quantity="5" unit="character"/>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
+                <p>
+                    vi<hi rend="grantha">jai</hi>yā<hi rend="grantha">p</hi>ta<hi rend="grantha"><supplied reason="lost">m</supplied></hi> <hi rend="grantha">śāli</hi>vā<hi rend="grantha">ha</hi>na-<hi rend="grantha">śakāp</hi>ta<hi rend="grantha">m</hi> 1000 4 100 4 10 8 ṉ mēl cellā niṉṟa sarva-vici-samvatsarattu mēṣa-nāyaṟṟu pūrva
+                    <lb n="2" break="no"/>-<hi rend="grantha">pakṣa</hi>t=tu <hi rend="grantha">trai</hi>yō<hi rend="grantha">daśi</hi>yum cani vāramum peṟṟa Uttirattu ṉāḷ coṉṉa vaṇṇam ceyta perumāḷ kōyilukku mēṟku kaṇṇan tāṅkal naṭātūr
+                    <lb n="3"/>caratūta-rācar putraṉ maṇṭalam veṭṭivitta kuḷakkaraiyil hanuma pratiṣṭaiyum paṇṇi kōyilu<unclear>m</unclear> maṇṭapamum kaṭṭivittu taṇṇīr pantalum vaippit
+                    <lb n="4"/>hanumanta devaṟku naivēdya kaṭṭaḷai naṭakkumpaṭikku poliyūṭṭukku nāḷ Oṉṟukku Amutupaṭi Iru ṉāḻikku mā <gap reason="lost" quantity="2" unit="character"/> Oṉṟukku tiru viḷakkukku Eṇ
+                    <lb n="5"/>ṇai Iru nāḻikkum kuṭutta pa 25 Ip paṇam Irupattañcukkum cantrātittavaraiyum Inta Aruci Iru nāḻiyum Eṇṇai nāḻiyum hanumanta perumāḷukku nai
+                    <lb n="6"/>ve<unclear>tya</unclear>m paṇṇi Itil <gap reason="lost" quantity="13" unit="character"/> lum taṇṇīr pantalum veṇ <gap reason="lost" quantity="3" unit="character"/>vaṉukku
+                    <lb n="7"/>kavum Inta <gap reason="lost" quantity="18" unit="character"/> rājar maṇṭalattukku Ā <gap reason="lost" quantity="6" unit="character"/>
+                    <lb n="8"/><gap reason="lost" quantity="19" unit="character"/> oṉṟu Ippaṭikku Ivai <gap reason="lost" quantity="5" unit="character"/>
+                </p>
             </div>
-
+            
             <div type="apparatus">
-
+                
             </div>
-
+            
             <div type="translation">
-
+                
             </div>
-
+            
             <div type="commentary">
-
+                
             </div>
-
+            
             <div type="bibliography">
-
+                
                 <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/26).</p>
-
+                
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <listBibl type="primary">
-
+                    
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
                         <citedRange unit="page">13-15</citedRange>
@@ -127,7 +130,7 @@
                         <citedRange unit="item">13</citedRange>
                     </bibl>
                 </listBibl>
-
+                
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1920-1921"/>
@@ -135,9 +138,9 @@
                         <citedRange unit="appendix">C/1921</citedRange>
                         <citedRange unit="item">26</citedRange>
                     </bibl>
-
+                    
                 </listBibl>
-
+                
             </div>
         </body>
     </text>

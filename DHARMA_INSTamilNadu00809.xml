@@ -16,8 +16,7 @@
                     </persName><persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
-                    </persName>
-                    
+                    </persName>                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -43,7 +42,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>Fragment.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -110,7 +109,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
                 
-                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
+                <p>This digital edition by Emmanuel Francis based on photos (Babu N. Ramaswamy, 2024).</p>
                 
                 <listBibl type="primary">
                     

@@ -47,7 +47,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p>The <foreign>āytam</foreign> is represented by a character resembling x.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -83,7 +83,7 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <p>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> tiru ve<seg rend="check">+</seg>kā Āḻvār kaṉmikaḷō<unclear>m</unclear> <gap reason="lost" quantity="1" unit="character"/> ntu <gap reason="lost" quantity="15" unit="character"/> nāṅkaḷum kāñcipura <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> tiru-veḵkā Āḻvār kaṉmikaḷō<unclear>m</unclear> <gap reason="lost" quantity="1" unit="character"/> ntu <gap reason="lost" quantity="15" unit="character"/> nāṅkaḷum kāñcipura <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> vilai-y-āvaṇam āvat’ ākavum Ituvē poruḷ mā vaṟuti poru <gap reason="lost" quantity="10" unit="character"/> Ituvallatu vēṟu poruḷ mā <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
             </div>
@@ -106,7 +106,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
                 
-                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
+                <p>This digital edition by Emmanuel Francis based on photos (Babu N. Ramaswamy, 2024).</p>
                 
                 <listBibl type="primary">
                     
