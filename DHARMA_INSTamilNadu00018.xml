@@ -65,16 +65,13 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -99,15 +96,15 @@
                     taṉu-nāyaṟṟu pū<hi rend="grantha">rva</hi>-pa<hi rend="grantha">kṣa</hi><unclear>t</unclear>tu nāyaṟṟu-kiḻamaiyum <hi rend="grantha">sapta</hi>miyum
                 </p>
                 <p>
-                    <lb n="2"/><gap reason="lost" quantity="3" unit="character"></gap> kōyil Āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēvar tēvar-kaṉmikaḷōm Ik-kōyil tēvaraṭiyāril Uṭaiyavaḷ-āṉa nāṟ-patt-eṇṇ-āyira-māṇikkam Iṉ-ṉāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār kōyilukku tiru-vācura-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>āraiyum periya tēvaraiyum n<unclear>ācciyāraiyum</unclear> <gap reason="lost" quantity="7" unit="character"></gap> <unclear>I</unclear>
-                    <lb n="3" break="no"/>ṟ<unclear>ai</unclear>-y-ili-yum ceytu tiru-k-kaṟṟaḷi <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="9" unit="character"></gap> peṟṟimaiyil 
+                    <lb n="2"/><gap reason="lost" quantity="3" unit="character"/> kōyil Āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēvar tēvar-kaṉmikaḷōm Ik-kōyil tēvaraṭiyāril Uṭaiyavaḷ-āṉa nāṟ-patt-eṇṇ-āyira-māṇikkam Iṉ-ṉāya<choice><orig>n</orig><reg>ṉ</reg></choice>ār kōyilukku tiru-vācura-nāya<choice><orig>n</orig><reg>ṉ</reg></choice>āraiyum periya tēvaraiyum n<unclear>ācciyāraiyum</unclear> <gap reason="lost" quantity="7" unit="character"/> <unclear>I</unclear>
+                    <lb n="3" break="no"/>ṟ<unclear>ai</unclear>-y-ili-yum ceytu tiru-k-kaṟṟaḷi <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" quantity="9" unit="character"/> peṟṟimaiyil 
                     <list>
                         <item>Ik-kōyil tiru-v-eḻucciyil A<gap reason="lost" quantity="1" unit="character"/>kaṭicaṟkak<!--Ask VVG--> muṟaiyum</item>
                         <item>tiru-vēṭṭaiyil muttaṭaiyum</item>
                         <item>tiru-mārkaḻi tiru-v-ātirai tiru-<choice><sic>A</sic><corr>vem</corr></choice>mpāvai Eḻuppu-p-pāvaiyum</item>
                     </list>
-                    <gap reason="lost" quantity="6" unit="character"></gap>
-                    <lb n="4"/><gap reason="lost" quantity="3" unit="character"></gap> vaṟkkatāṟkum Ik-kōyil <gap reason="lost" quantity="6" unit="character"></gap> tēvar-kaṉmikaḷōm
+                    <gap reason="lost" quantity="6" unit="character"/>
+                    <lb n="4"/><gap reason="lost" quantity="3" unit="character"/> vaṟkkatāṟkum Ik-kōyil <gap reason="lost" quantity="6" unit="character"/> tēvar-kaṉmikaḷōm
                 </p>
                 <p>
                     
@@ -120,9 +117,9 @@
                         
                         <item><gap reason="lost" quantity="3" unit="character"/> Ivai tēvakaṉmam mu-ṉ-ṉūṟṟuva-paṭṭaṉ Eḻuttu</item>
                         
-                        <item>Ivai pālaṟāvāyaṉ Eḻuttu<g type="danda">.</g></item>
+                        <item>Ivai pālaṟāvāyaṉ Eḻuttu<g ref="sym:bar" type="punctuation">.</g></item>
                         
-                        <item>Ivai Amu<unclear>taṉ</unclear> campaṉtaṉ Eḻuttu<g type="danda">.</g></item>
+                        <item>Ivai Amu<unclear>taṉ</unclear> campaṉtaṉ Eḻuttu<g ref="sym:bar" type="punctuation">.</g></item>
                     </list>
                 </p>
                 

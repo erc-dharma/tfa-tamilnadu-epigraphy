@@ -65,16 +65,13 @@
                 under the European Union's Horizon 2020 research and innovation programme (grant
                 agreement no 809994).</p>
         </projectDesc>
-        <schemaRef type="guide" key="EGDv01"
-            url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+        <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
         <listPrefixDef>
-            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+            <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                 <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                     ERC-DHARMA whose data are open to the public.</p>
             </prefixDef>
-            <prefixDef ident="part" matchPattern="([a-z]+)"
-                replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+            <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                 <p>Internal URIs using the part prefix to point to person elements in the
                     <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
             </prefixDef>
@@ -125,7 +122,7 @@
     <p>
         Ip-paṭi Ivv-ō<supplied reason="lost">lai pi</supplied>ṭipāṭ' āka ⌈
         <lb n="22" break="no"/>koṇṭu tiru-mēṟ-pūccu puṟam-āka cantirātitta-vaṟ cella tiru-c-cūla-t-tāpaṉam paṇṇi-k kalli<supplied reason="lost">lu</supplied>m cempilu
-        <lb n="23" break="no"/>m veṭṭi-k koḷka <g type="pc">.</g>
+        <lb n="23" break="no"/>m veṭṭi-k koḷka <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
     </p>
     <p>
         Ivai kūkūr uṭaiyāṉ Eḻuttu yāṇṭu nāḷ <num value="214">2 <g type="numeral">100</g> <g type="numeral">10</g> 4</num>

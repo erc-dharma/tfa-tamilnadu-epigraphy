@@ -57,17 +57,14 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -84,7 +81,7 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 <div type="textpart" subtype="fragment" n="A">  
                     <p>
-                        <lb n="1"/>tiripuvaṉa cakkara-vattikaḷ ciri-Irāca-Irā<unclear>ca</unclear><gap quantity="5" unit="character" reason="lost"></gap> yāṇṭu 2=Āvatu m<unclear>ī</unclear><supplied reason="lost">ṉa</supplied>-nāyaṟṟu Amara-pa<choice><orig>ṣṣ</orig><reg>kṣa</reg></choice>attu tirutiyaiyum tiṅkaḷ-kiḻamaiyum peṟṟa cataiyattu nāḷ 
+                        <lb n="1"/>tiripuvaṉa cakkara-vattikaḷ ciri-Irāca-Irā<unclear>ca</unclear><gap quantity="5" unit="character" reason="lost"/> yāṇṭu 2=Āvatu m<unclear>ī</unclear><supplied reason="lost">ṉa</supplied>-nāyaṟṟu Amara-pa<choice><orig>ṣṣ</orig><reg>kṣa</reg></choice>attu tirutiyaiyum tiṅkaḷ-kiḻamaiyum peṟṟa cataiyattu nāḷ 
                     </p>
                     <p>
                         kulōttuṅka
@@ -105,8 +102,8 @@
                     <p>
                         <lb n="7" break="no"/><unclear>vō<!--kompu lost--></unclear>m puranāṭṭu tiruvalañcu <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> -ppu Uyyakoṇṭār-vaḷanāṭṭu <gap reason="lost" extent="unknown"/> 
                         <lb n="8"/>-p piṭākai karuppūril kiḻā<unclear>n</unclear> <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> k<choice><unclear>ara</unclear><unclear>ām</unclear></choice> Akilanāya-c-caruppēti-maṅkalattu <gap reason="lost" extent="unknown"/>
-                        <lb n="9"/><g type="symbol"/> <unclear>li</unclear> <unclear>vaṭa</unclear>mēṟku-c cāra-p puṟa <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> tikku kiḻakku 2 <g type="tam-kannaru"/> <unclear>1</unclear> catirattu <g type="tam-nilam"/> 1/4 1/10 <unclear>1/5</unclear> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" extent="unknown"/> 
-                        <lb n="10"/><gap reason="lost" quantity="1" unit="character"/> ciṉṉattiṉāl parappu I<unclear cert="low">va</unclear> <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> <seg rend="check"><unclear>1/10 1/320</unclear></seg> <g type="tam-kil"/> <seg rend="check"><unclear>1/5</unclear></seg> n<choice><sic>i</sic><corr>ī</corr></choice>kki tirunāmattukkāṇi <g type="tam-nilam"/> <unclear><g type="unknown"/></unclear> <gap reason="lost" extent="unknown"/>
+                        <lb n="9"/><g/> <unclear>li</unclear> <unclear>vaṭa</unclear>mēṟku-c cāra-p puṟa <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> tikku kiḻakku 2 <g ref="sym:tam-kannaru"/> <unclear>1</unclear> catirattu <g ref="sym:tam-nilam"/> 1/4 1/10 <unclear>1/5</unclear> <gap reason="lost" quantity="1" unit="character"/> <gap reason="lost" extent="unknown"/> 
+                        <lb n="10"/><gap reason="lost" quantity="1" unit="character"/> ciṉṉattiṉāl parappu I<unclear cert="low">va</unclear> <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> <seg rend="check"><unclear>1/10 1/320</unclear></seg> <g ref="sym:tam-kil"/> <seg rend="check"><unclear>1/5</unclear></seg> n<choice><sic>i</sic><corr>ī</corr></choice>kki tirunāmattukkāṇi <g ref="sym:tam-nilam"/> <unclear><g ref="sym:unclassified" type="symbol">*</g></unclear> <gap reason="lost" extent="unknown"/>
                         <lb n="11"/>tavaṟai perumāḷ tirunāmattu <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> yilē kiḻakk' aṭaiya nālu mā nilam Inta tiru <gap reason="lost" extent="unknown"/>
                         <lb n="12"/><gap reason="lost" quantity="3" unit="character"/> vilai ma <gap reason="lost" quantity="3" unit="character"/> Aṉṟāṭu naṟ <gap reason="lost" extent="unknown"/> ‡ <gap reason="lost" extent="unknown"/> ṇiyāka <unclear>viṟṟu-k</unclear> k<supplied reason="lost">u</supplied>ṭukkavum Iṉnilam <supplied reason="lost">nā</supplied>lu <gap reason="lost" extent="unknown"/>
                     </p>

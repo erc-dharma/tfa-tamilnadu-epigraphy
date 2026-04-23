@@ -176,8 +176,8 @@
                     </app>
                     
                     <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:Gillet2024_01"></rdg>
+                        <lem/>
+                        <rdg source="bib:Gillet2024_01"/>
                     </app>
                     
                 </listApp>

@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Installation of the image of Dakṣiṇā <supplied reason="explanation"><foreign>dakṣiṇamūrtti</foreign></supplied> and endowment of wet lands both made by Maṇṭai Poṉṉaṉ, alias Muṭi<gap reason="undefined" extent="unknown"></gap>cōḻa Malaiyamāṉ from Cāttiyakkam. 
+                        <summary>Installation of the image of Dakṣiṇā <supplied reason="explanation"><foreign>dakṣiṇamūrtti</foreign></supplied> and endowment of wet lands both made by Maṇṭai Poṉṉaṉ, alias Muṭi<gap reason="undefined" extent="unknown"/>cōḻa Malaiyamāṉ from Cāttiyakkam. 
                             
                         </summary>
                     </msContents>
@@ -62,17 +62,14 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -102,12 +99,12 @@
                     <lb n="4"/><gap reason="lost" quantity="4" unit="character"/> cōḻa- <unclear>malai</unclear>yamāṉ <gap reason="lost" quantity="2" unit="character"/>
                 </p>
                 <p>
-                    <lb n="5"/><gap reason="lost" unit="character" quantity="3"></gap> vat' āka
+                    <lb n="5"/><gap reason="lost" unit="character" quantity="3"/> vat' āka
                     <supplied reason="lost">canti</supplied>rātittavaṟ cel‡vat’ āka  
                 </p>
                 <p>  
                     Amu
-                    <lb n="6" break="no"/><supplied reason="lost">tu-pa</supplied>ṭi cel<unclear>va</unclear><gap reason="lost" unit="character" quantity="3"></gap> <unclear>c</unclear>āttiyakka<supplied reason="omitted">t</supplied>tu ‡ v-iṭṭa naṉ ⌈
+                    <lb n="6" break="no"/><supplied reason="lost">tu-pa</supplied>ṭi cel<unclear>va</unclear><gap reason="lost" unit="character" quantity="3"/> <unclear>c</unclear>āttiyakka<supplied reason="omitted">t</supplied>tu ‡ v-iṭṭa naṉ ⌈
                     
                     <lb n="7"/><supplied reason="lost">c</supplied>ai <supplied reason="lost">ni</supplied>lam kā <gap reason="lost" unit="character" quantity="3"/> viṭṭē<supplied reason="omitted">ṉ</supplied> ‡ 
                 </p>
@@ -120,8 +117,8 @@
                 </p>
                 <p>
                     
-                    Itu <gap reason="lost" unit="character" quantity="2"></gap>
-                    <lb n="10"/><gap reason="lost" quantity="1" unit="line"></gap>
+                    Itu <gap reason="lost" unit="character" quantity="2"/>
+                    <lb n="10"/><gap reason="lost" quantity="1" unit="line"/>
                 </p>
                 
             </div>
@@ -147,14 +144,14 @@
                 </p>
                 
                 <p n="5">
-                    <gap reason="undefined"></gap> I, Muṭi<gap reason="undefined"></gap> Cōḻa Malaiyamāṉ, as long as the sun and the moon remain <gap reason="undefined"></gap>
+                    <gap reason="undefined"/> I, Muṭi<gap reason="undefined"/> Cōḻa Malaiyamāṉ, as long as the sun and the moon remain <gap reason="undefined"/>
                 </p>
                 
                 <p n="5-7">
-                    I have given <gap reason="undefined"></gap> a field of wetland from Cāttiyakkam <gap reason="undefined"></gap> as food offering <supplied reason="explanation"><foreign>amutu-paṭi</foreign></supplied> <gap reason="undefined"></gap>
+                    I have given <gap reason="undefined"/> a field of wetland from Cāttiyakkam <gap reason="undefined"/> as food offering <supplied reason="explanation"><foreign>amutu-paṭi</foreign></supplied> <gap reason="undefined"/>
                 </p>
                 <p n="7-9">
-                    I, Muṭi<gap reason="undefined"></gap>cōḻa Malaiyamāṉ, alias Maṇṭai Poṉṉaṉ, landowner <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> from Cāttiyakkam <gap reason="undefined"></gap>
+                    I, Muṭi<gap reason="undefined"/>cōḻa Malaiyamāṉ, alias Maṇṭai Poṉṉaṉ, landowner <supplied reason="explanation"><foreign>uṭaiyāṉ</foreign></supplied> from Cāttiyakkam <gap reason="undefined"/>
                 </p>
                 
             </div>

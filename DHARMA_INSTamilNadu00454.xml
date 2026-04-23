@@ -64,16 +64,13 @@
 					under the European Union's Horizon 2020 research and innovation programme (grant
 					agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
 							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
@@ -98,7 +95,7 @@
 	</lg>
 	<p>
 		<hi rend="grantha">śrī-kaṭhoragiri-vāsi<supplied reason="lost">naḥ</supplied> A</hi>ti<hi rend="grantha">pa</hi>tiyāna t<supplied reason="lost">i</supplied>ru-<supplied reason="omitted">m</supplied>alai-nāṭṭu-t tiru- <gap reason="lost" quantity="6" unit="character" precision="low"/> yaṉār nalla-maṅkai pākar nāyaṉār tiru-vāy-malarnt-aru
-		<lb n="2" break="no"/>ḷiṉa pa=ṭikku <hi rend="grantha">Ādi-śaṇdēśvara-pra</hi><supplied reason="lost">m</supplied>āṇa<hi rend="grantha">m·</hi> kuṭut=ta pa=ṭi <hi rend="grantha">śakāptam·</hi> <num value="1452"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 5 <g type="numeral">10</g> 2</num>-ṉ mēl cellā niṉṟa vikuṟuti <g type="tam-varusam"/> māci <g type="tam-matam"/> <num value="22">2 <g type="numeral">10</g> 2</num>-vatu catutēciyum puta-vā<hi rend="grantha">ramum·</hi> peṟṟa Avuṭṭa nāḷ kāḷa <gap reason="lost" quantity="5" unit="character" precision="low"/> ṭi Ūrāṉa nripa-cēkara-c-caturvēti-ma<hi rend="grantha">ṃ</hi>kalat=tu=c capai kauvu
+		<lb n="2" break="no"/>ḷiṉa pa=ṭikku <hi rend="grantha">Ādi-śaṇdēśvara-pra</hi><supplied reason="lost">m</supplied>āṇa<hi rend="grantha">m·</hi> kuṭut=ta pa=ṭi <hi rend="grantha">śakāptam·</hi> <num value="1452"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 5 <g type="numeral">10</g> 2</num>-ṉ mēl cellā niṉṟa vikuṟuti <g ref="sym:tam-varusam"/> māci <g ref="sym:tam-matam"/> <num value="22">2 <g type="numeral">10</g> 2</num>-vatu catutēciyum puta-vā<hi rend="grantha">ramum·</hi> peṟṟa Avuṭṭa nāḷ kāḷa <gap reason="lost" quantity="5" unit="character" precision="low"/> ṭi Ūrāṉa nripa-cēkara-c-caturvēti-ma<hi rend="grantha">ṃ</hi>kalat=tu=c capai kauvu
 		<lb n="3" break="no"/>cika-kōttirattu Āśilāyaṉa-sūttirattu Irāmar puttiraṉ Āparcakāyar-āṉa Alaṅkāra nampikku-c civarātri puṇya-kālattilē cuvaraṇya Udaka tārā pūrvam Āka kuṭu <gap reason="lost" quantity="2" unit="character" precision="low"/> tiru-mukam Iṉṉār tēva-tāṉam Āṉa tiru-k-koṭuṅ-kuṉṟa-p-paṟṟi
 		<lb n="4" break="no"/>l ceṭṭiyār Ēntalukku Ellai (Ā)vatu
 		

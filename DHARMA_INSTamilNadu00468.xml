@@ -64,16 +64,13 @@
 					under the European Union's Horizon 2020 research and innovation programme (grant
 					agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
 							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
@@ -95,7 +92,7 @@
 		<lb n="2" break="no"/>kāttam <num value="1602"><!--update--><g type="numeral">1000</g> 6 <gap reason="lost" quantity="1" unit="character" precision="low"/>
 		<lb n="3"/>2</num> mēl cellā
 		<lb n="4"/>niṉṟa cātāraṇa <gap reason="lost" quantity="2" unit="character" precision="low"/>
-		<lb n="5"/>tai <g type="tam-matam"/> <num value="30">3 <g type="numeral">10</g></num> <g type="tam-teti"/>
+		<lb n="5"/>tai <g ref="sym:tam-matam"/> <num value="30">3 <g type="numeral">10</g></num> <g ref="sym:tam-teti"/>
 	</p>
 	<p>
 		ti

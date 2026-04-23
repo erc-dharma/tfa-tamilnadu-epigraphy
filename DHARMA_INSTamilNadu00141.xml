@@ -63,16 +63,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -104,32 +101,32 @@
                 </p>
                 <p>
                     <list>
-                        <item><lb n="5"/>Ivai malai-y-appa-rāyaṉ Eḻuttu <g type="dash"/></item>
-                        <item>Ivai puttakk-uṭaiyāṉ Eḻuttu <g type="dash"/></item>
-                        <item>Ivai cētiya-rāyaṉ Eḻuttu <g type="dash"/></item>
-                        <item>Ivai maḻavarāyaṉ Eḻuttu <g type="dash"/></item>
+                        <item><lb n="5"/>Ivai malai-y-appa-rāyaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        <item>Ivai puttakk-uṭaiyāṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        <item>Ivai cētiya-rāyaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        <item>Ivai maḻavarāyaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
                         <item>Ivai neyy-uṇṭāṉ paṭṭaṉ Eḻuttu</item>
                         <item>Ivai ciṟ
-                            <lb n="6" break="no"/>ṟāmūr-uṭaiyāṉ Eḻuttu <g type="dash"/></item>
-                        <item>Ivai kaṉaka-<hi rend="grantha">sabhā</hi>-pati-paṭṭaṉ Eḻuttu <g type="dash"/></item>
+                            <lb n="6" break="no"/>ṟāmūr-uṭaiyāṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
+                        <item>Ivai kaṉaka-<hi rend="grantha">sabhā</hi>-pati-paṭṭaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
                         <item>Ivai varata-r=ā<hi rend="grantha">ja-bha</hi>ṭṭaṉ Eḻuttu <space/></item>
-                        <item>Ivai paṟiyalūr kiḻavaṉ Eḻuttu <g type="dash"/></item>
+                        <item>Ivai paṟiyalūr kiḻavaṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
                         <item>Ivai kōṭṭūr-uṭaiyāṉ Eḻuttu <space/></item>
                         <item>I
                             <lb n="7"/>vai Aṉ<choice><sic>ai</sic><corr>a</corr></choice>nta-kōḷari-<hi rend="grantha">bha</hi>ṭṭaṉ Eḻuttu <space/></item>
                         <item>Ivai <hi rend="grantha"><unclear reason="eccentric_ductus">rā</unclear></hi>ca-nārāyaṇa-<hi rend="grantha"><choice><orig>p</orig><reg>b</reg></choice>rah<supplied reason="omitted">m</supplied>ā</hi>-rāyaṉ Eḻuttu <space/></item>
                         <item>Ivai <hi rend="grantha">sarvva-de</hi>va-bhaṭṭaṉ Eḻuttu <space/></item>
                         <item>Ivai t<choice><sic>a</sic><corr>i</corr></choice>ru-māliruñcōlai-<hi rend="grantha">bha</hi>ṭṭaṉ Eḻuttu <space/></item>
-                        <item>Ivai ve<gap  reason="illegible" quantity="1" unit="character"/>
+                        <item>Ivai ve<gap reason="illegible" quantity="1" unit="character"/>
                             <lb n="8"/>kiḻavaṉ Eḻuttu</item>
                         <item>Ivai ya<hi rend="grantha">jña</hi>-nārāyaṇa-<hi rend="grantha">bha</hi>ṭṭaṉ Eḻuttu <space/></item>
-                        <item>Ivai pālaiyūr kiḻavaṉ Eḻuttu <unclear><g type="dash"/></unclear></item>
+                        <item>Ivai pālaiyūr kiḻavaṉ Eḻuttu <unclear><g ref="sym:dash" type="punctuation">.</g></unclear></item>
                         <item>Ivai piṭāvūr-uṭaiyāṉ Eḻuttu <space/></item>
                         <item>Ivai tūpp-uṭaiyāṉ Eḻuttu <space/></item>
                         <item>Ivai nal
                             <lb n="9" break="no"/>leḻuntūr-uṭaiyāṉ Eḻuttu <space/></item>
                         <item>Ivai vilāṭa<hi rend="grantha"><unclear reason="eccentric_ductus">rā</unclear></hi>yaṉ Eḻuttu <space/></item>
-                        <item>Ivai kaṅkai-koṇṭa-puvaṉa-vēḷāṉ Eḻuttu <g type="dash"/></item>
+                        <item>Ivai kaṅkai-koṇṭa-puvaṉa-vēḷāṉ Eḻuttu <g ref="sym:dash" type="punctuation">.</g></item>
                         <item>Ivai pāmpaikk-uṭaiyāṉ Eḻuttu</item>
                         <item><milestone n="B" unit="zone" type="pagelike"/><lb n="10"/>Ivai kaṉaka
                             <lb n="11" break="no"/>rāyaṉ Eḻuttu</item>
@@ -203,8 +200,8 @@
                     </app>
                     
                     <app loc="7">
-                        <lem>ve<gap  reason="illegible" quantity="1" unit="character"/></lem>
-                        <rdg source="bib:Vijayavenugopal2017_01">veri <gap  reason="illegible" extent="unknown" unit="character"/></rdg>
+                        <lem>ve<gap reason="illegible" quantity="1" unit="character"/></lem>
+                        <rdg source="bib:Vijayavenugopal2017_01">veri <gap reason="illegible" extent="unknown" unit="character"/></rdg>
                     </app>
                     
                     <app loc="9">

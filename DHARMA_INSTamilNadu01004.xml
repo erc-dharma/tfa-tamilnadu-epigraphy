@@ -57,16 +57,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -96,7 +93,7 @@
                     
                     <p>
                         <pb n="1r"/>
-                        <lb n="1r1=1"/>yati sma <supplied reason="undefined"><g type="ddanda">.</g></supplied>
+                        <lb n="1r1=1"/>yati sma <supplied reason="undefined"><g ref="sym:doubleBar" type="punctuation">.</g></supplied>
                     </p>
                     
                     <p>sa ca teṣāṁ yugma-vaṁśa-paṭṭaśālinān teṣv eva karuvuḷān·pāṭi-kaṁsahappā
@@ -104,26 +101,26 @@
                         <lb n="1r3=3" break="no"/>tta teṣv <choice><sic>a</sic><corr>e</corr></choice>va vāṭakeṣv atimānappāṭi-karuvu<seg rendition="class:tamil maturity:vernacular">ḷā</seg>n·pāṭīti vāṭaka-dvaya-jātāṁs tantuvā<unclear>y</unclear>ā
                         <lb n="1r4=4" break="no"/>ntasy-aiva hares tulā-prasthādi-mānasaMbhūteṣv arttheṣu hema-vṛddhy-upanateṣv artthe<supplied reason="omitted">ṣu</supplied>
                         <lb n="1r5=5"/>cāyavyayālokināṁ śrī-kāryya-kṛtām abhāvāt· sa E<supplied reason="omitted">va</supplied> rājā śrī-kāryya-kara
-                        <lb n="1r6=6" break="no"/>ṇāya tān eva sva<supplied reason="omitted">ya</supplied>n nyayuṅkta<surplus>ḥ</surplus> <g type="ddanda">.</g> 
+                        <lb n="1r6=6" break="no"/>ṇāya tān eva sva<supplied reason="omitted">ya</supplied>n nyayuṅkta<surplus>ḥ</surplus> <g ref="sym:doubleBar" type="punctuation">.</g> 
                     </p>
-                    <lg n="1" met="sragdharā ">
+                    <lg n="1" met="sragdharā">
                         <l n="b">dātavyam māsa-mātre kuḍubaka-sahitan taṇḍu
                             <lb n="1r7=7" break="no"/>la-prastha-yugman</l>
-                        <l n="n">taila-prasthañ ca <seg rendition="class:tamil maturity:vernacular">coḻā</seg>niyama-nilayanair ūraka-stha-tridhāmne <supplied reason="undefined"><g type="danda">.</g></supplied></l>
+                        <l n="n">taila-prasthañ ca <seg rendition="class:tamil maturity:vernacular">coḻā</seg>niyama-nilayanair ūraka-stha-tridhāmne <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
                         <l n="c">nā
                             <lb n="1r8=8" break="no"/>deyaṁ rāja-bhāvyaṁ karam iti madhur-onmāthinā śūnya-bhāvāc</l>
                         <l n="d">coḷen-ājñāpitai
-                            <lb n="1r9=9" break="no"/>s tair atha nagara-janair apy anujñātam etat· <g type="ddanda">.</g></l>
+                            <lb n="1r9=9" break="no"/>s tair atha nagara-janair apy anujñātam etat· <g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
                     <lg n="2">
                         <l n="ab">Āyavyayāv ath-ālikhya co<seg rendition="class:tamil maturity:vernacular">ḻā</seg>niyama-vā
-                            <lb n="1r10=10" break="no"/>sibhiḥ <supplied reason="undefined"><g type="danda">.</g></supplied></l>
-                        <l n="cd">māsa-krameṇa c-aikaikan darśanīyau kuḍuMbibhiḥ <supplied reason="undefined"><g type="ddanda">.</g></supplied></l>
+                            <lb n="1r10=10" break="no"/>sibhiḥ <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
+                        <l n="cd">māsa-krameṇa c-aikaikan darśanīyau kuḍuMbibhiḥ <supplied reason="undefined"><g ref="sym:doubleBar" type="punctuation">.</g></supplied></l>
                     </lg>
                     <lg n="3">
                         <l n="ab">rāja-vastra-kṛtām eṣāñ catu
-                            <lb n="1r11=11" break="no"/>r-vvāṭa-nivāsināM <supplied reason="undefined"><g type="danda">.</g></supplied></l>
-                        <l n="cd">hareḥ kāryya-niyuktaiś ca sārddham ūraka-vāsinaḥ <g type="ddanda">.</g></l>
+                            <lb n="1r11=11" break="no"/>r-vvāṭa-nivāsināM <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
+                        <l n="cd">hareḥ kāryya-niyuktaiś ca sārddham ūraka-vāsinaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
                     
                 </div>

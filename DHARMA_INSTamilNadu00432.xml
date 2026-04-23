@@ -64,16 +64,13 @@
 					under the European Union's Horizon 2020 research and innovation programme (grant
 					agreement no 809994).</p>
 			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+			<schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
 			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
 					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
 						ERC-DHARMA whose data are open to the public.</p>
 				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+				<prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
 					<p>Internal URIs using the part prefix to point to person elements in the
 							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
 				</prefixDef>
@@ -107,11 +104,11 @@
 		In-nāyaṉārkkum nalla-maṅkaiyārkkum tām ceyvitta mahā-maṇṭa
 		<lb n="6" break="no"/>pattukku Irākkālattil cantiyā-tīpa-t-tiru-viḷakk' iṭuvat' āka vara-k kāṭṭit tiru-viḷakk' iṭaiyar vacam Aṭaitta muṉṉāḷ mu-p
 		<lb n="7" break="no"/>-pattu mūṉṟ-āvatu paṅkuṉi-mātam pattān tiyati mutal Aṭaitta Āṭu <num value="275">2 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5</num>-kku Āṭu <num value="50">5 <g type="numeral">10</g></num>-kku nāḷ Oṉṟukku Aḷakkum ⌈
-		<lb n="8" break="no"/>ney <g type="undefined"/> Āka ney <g type="undefined"/> <g type="undefined"/> <g type="undefined"/>-m itaṉ etir-āmm āṇṭu Āṭi-mātam patt' oṉpatān tiyati mutal Aṭaitta Āṭu <num value="212">2 <g type="numeral">100</g> <g type="numeral">10</g> 2</num>-kku nāḷ
-		<lb n="9"/>Oṉṟukku ney <g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/>-m muṉṉāḷ mu-p-patt' iraṇṭ-āvatu tai-mātam mutal Aṭaittu-k <gap reason="lost" quantity="4" unit="character" precision="low"/> kaṇikkuḷ 5 Irākka
-		<lb n="10"/><gap reason="lost" quantity="1" unit="character" precision="low"/> lattil Iṭum viḷakku Aṟupa(tu)kku veṭṭiṉa kalveṭṭu-p paṭi Āṭu <num value="300">3 <g type="numeral">100</g></num> kku ney <g type="undefined"/> <g type="undefined"/>-m Ā <gap reason="lost" quantity="3" unit="character" precision="low"/> <num value="700">7 <g type="numeral">100</g></num> Ārai Ivv-āṭu E
-		<lb n="11" break="no"/>ḻu ṉūṟṟ' eḻupatt' ēḻum cāvā mūvā-p pēr-āṭ-āka-k kai-k-koṇṭu nāḷ Oṉṟukku Iṭaiyar Aḷakkum ney <g type="undefined"/> <g type="undefined"/> <g type="undefined"/>
-		<lb n="12"/><g type="undefined"/> <g type="undefined"/> <g type="undefined"/> <g type="undefined"/>
+		<lb n="8" break="no"/>ney <g ref="sym:unclassified" type="symbol">*</g> Āka ney <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g>-m itaṉ etir-āmm āṇṭu Āṭi-mātam patt' oṉpatān tiyati mutal Aṭaitta Āṭu <num value="212">2 <g type="numeral">100</g> <g type="numeral">10</g> 2</num>-kku nāḷ
+		<lb n="9"/>Oṉṟukku ney <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g>-m muṉṉāḷ mu-p-patt' iraṇṭ-āvatu tai-mātam mutal Aṭaittu-k <gap reason="lost" quantity="4" unit="character" precision="low"/> kaṇikkuḷ 5 Irākka
+		<lb n="10"/><gap reason="lost" quantity="1" unit="character" precision="low"/> lattil Iṭum viḷakku Aṟupa(tu)kku veṭṭiṉa kalveṭṭu-p paṭi Āṭu <num value="300">3 <g type="numeral">100</g></num> kku ney <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g>-m Ā <gap reason="lost" quantity="3" unit="character" precision="low"/> <num value="700">7 <g type="numeral">100</g></num> Ārai Ivv-āṭu E
+		<lb n="11" break="no"/>ḻu ṉūṟṟ' eḻupatt' ēḻum cāvā mūvā-p pēr-āṭ-āka-k kai-k-koṇṭu nāḷ Oṉṟukku Iṭaiyar Aḷakkum ney <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g>
+		<lb n="12"/><g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g> <g ref="sym:unclassified" type="symbol">*</g>
 	</p>
 	<p>
 		In-ney muṉṉāḻi mūvuḻak kāḻākkē Iraṇṭ' arai-c ceviṭṭukku nāḻikai Ēḻ' arai Eriya Iṭum tiru-viḷakku-p pa

@@ -60,16 +60,13 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -85,7 +82,7 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215"><!--check script-->
                 
                 <ab>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <g type="ddanda">.</g>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:doubleBar" type="punctuation">.</g>
                 </ab>
                 
                 <p>
@@ -112,7 +109,7 @@
                     <lb n="17"/><seg rend="check"><gap reason="illegible" quantity="4" unit="character"/></seg> ceytu kuṭu
                     <lb n="18" break="no"/>ttōm <hi rend="grantha">sabhai</hi>yōmum</p>
                 <p>
-                    <lb n="19"/>muṟ-colla-paṭṭa <seg rend="check"><g type="dashDouble"/></seg> māyila
+                    <lb n="19"/>muṟ-colla-paṭṭa <seg rend="check"><g ref="sym:dash-double" type="punctuation">.</g></seg> māyila
                     <lb n="20" break="no"/>ṭṭi makaṉ Aiyyāṟa
                     <lb n="21" break="no"/>ṉ-ākiya nūṟṟeṇma-k-ka
                     <lb n="22" break="no"/>vaṟa-ceṭṭi-y-ēṉu<unclear>m ṇa</unclear>ḷi

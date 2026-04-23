@@ -66,7 +66,7 @@
                     <lb n="2"/>vaṭa-kuḷam ciṟutu tiruntu Uḷpaṭa nilam <seg rend="check">{3 fractions}</seg>
                 </p>
                 <p>
-                    Itil <list><item>Ūr nīṅkiṉa Iṟaiyili nittal-p paṭikku tiru-ceṅkaḻ<choice><sic>aṉi</sic><corr>unīr</corr></choice> Iṭa Aṭ<choice><sic>a</sic><corr>ai</corr></choice>tta <g type="tam-nilam"/> 5 <gap reason="lost" quantity="3" unit="character"/> m</item> <item>tiru-mañcaṉam Eṭuppānukku Aṭaitta <g type="tam-nilam"/> m <seg rend="check">{1 fraction}</seg> 1/5 m</item></list>
+                    Itil <list><item>Ūr nīṅkiṉa Iṟaiyili nittal-p paṭikku tiru-ceṅkaḻ<choice><sic>aṉi</sic><corr>unīr</corr></choice> Iṭa Aṭ<choice><sic>a</sic><corr>ai</corr></choice>tta <g ref="sym:tam-nilam"/> 5 <gap reason="lost" quantity="3" unit="character"/> m</item> <item>tiru-mañcaṉam Eṭuppānukku Aṭaitta <g ref="sym:tam-nilam"/> m <seg rend="check">{1 fraction}</seg> 1/5 m</item></list>
                 </p>
                 
                 <p>

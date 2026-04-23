@@ -63,17 +63,14 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -90,12 +87,12 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">                                
                 
                 <p>
-                   <lb n="1"/><unclear>tiri</unclear>puva<supplied reason="omitted">ṉa</supplied>-c cakravatti<supplied reason="omitted">ka</supplied>ḷ <supplied reason="lost">Uttama tevaperuṅka</supplied> <gap reason="lost" quantity="4" unit="character"></gap> cittiṟameḻi-y
-                   <lb n="2"/><gap reason="lost" unit="line" quantity="1"></gap>
-                   <lb n="3"/>Iraṇṭu karai nā<supplied reason="lost">ṭ</supplied>ṭavarōm <gap reason="lost" quantity="8" unit="character"></gap>
-                   <lb n="4"/>Iruṅkoḷapāṭi nā<supplied reason="omitted">ṭ</supplied>ṭavarōmum <gap reason="lost" quantity="6" unit="character"></gap>
-                   <lb n="5"/>Ināpāṭi nā<supplied reason="omitted">ṭ</supplied>ṭavarōm <gap reason="lost" quantity="6" unit="character"></gap>
-                   <lb n="6"/>Iṅku <gap reason="lost" quantity="4" unit="character"></gap> ceytu <gap reason="lost" quantity="8" unit="character"></gap> kku <gap reason="lost" quantity="6" unit="character"></gap>
+                   <lb n="1"/><unclear>tiri</unclear>puva<supplied reason="omitted">ṉa</supplied>-c cakravatti<supplied reason="omitted">ka</supplied>ḷ <supplied reason="lost">Uttama tevaperuṅka</supplied> <gap reason="lost" quantity="4" unit="character"/> cittiṟameḻi-y
+                   <lb n="2"/><gap reason="lost" unit="line" quantity="1"/>
+                   <lb n="3"/>Iraṇṭu karai nā<supplied reason="lost">ṭ</supplied>ṭavarōm <gap reason="lost" quantity="8" unit="character"/>
+                   <lb n="4"/>Iruṅkoḷapāṭi nā<supplied reason="omitted">ṭ</supplied>ṭavarōmum <gap reason="lost" quantity="6" unit="character"/>
+                   <lb n="5"/>Ināpāṭi nā<supplied reason="omitted">ṭ</supplied>ṭavarōm <gap reason="lost" quantity="6" unit="character"/>
+                   <lb n="6"/>Iṅku <gap reason="lost" quantity="4" unit="character"/> ceytu <gap reason="lost" quantity="8" unit="character"/> kku <gap reason="lost" quantity="6" unit="character"/>
                    <lb n="7" break="no"/>ṭuttavāti Ippaṭi cantirātittavarai celvat' āka
                 </p>
                 

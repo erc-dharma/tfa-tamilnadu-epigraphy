@@ -60,17 +60,14 @@
                     under the European Union's Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <!-- UPDATE the link once the release is made official -->
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -87,12 +84,12 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <p>
-                    <lb n="1"/>nalla-paruvūr-nāṭṭu <supplied reason="lost">nam</supplied> ‡ piyē malla <gap reason="lost" extent="unknown"></gap>
-                    <lb n="2"/>veṟṟi natit tāṉē ‡ ma vā ta nā ṭca vaṉā<gap unit="character" reason="lost" quantity="3"></gap>
-                    <lb n="3" break="no"/>ttit tāṉē nilāl ‡ ṇa talai ta <gap unit="character" reason="lost" quantity="1"></gap> valla paruvūr
-                    <lb n="4"/>nāṭṭu nampiyē ta ṇa <gap unit="character" reason="lost" quantity="1"></gap> ‡ l mālai puvaṉa caiva <gap unit="character" reason="lost" quantity="2"></gap> 
+                    <lb n="1"/>nalla-paruvūr-nāṭṭu <supplied reason="lost">nam</supplied> ‡ piyē malla <gap reason="lost" extent="unknown"/>
+                    <lb n="2"/>veṟṟi natit tāṉē ‡ ma vā ta nā ṭca vaṉā<gap unit="character" reason="lost" quantity="3"/>
+                    <lb n="3" break="no"/>ttit tāṉē nilāl ‡ ṇa talai ta <gap unit="character" reason="lost" quantity="1"/> valla paruvūr
+                    <lb n="4"/>nāṭṭu nampiyē ta ṇa <gap unit="character" reason="lost" quantity="1"/> ‡ l mālai puvaṉa caiva <gap unit="character" reason="lost" quantity="2"/> 
                     <lb n="5"/>Eṇ kaviñar pōṟṟun ‡ <unclear>n</unclear>āṉen pullā ta nā ḷ ā
-                    <lb n="6"/><gap reason="lost" extent="unknown"/> <g type="pc">.</g>
+                    <lb n="6"/><gap reason="lost" extent="unknown"/> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
                 </p>
                 
             </div>
