@@ -82,12 +82,12 @@
         <body>
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-                <ab>
+                <p>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> raiyaṉ rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>ṉ ce <gap reason="lost" quantity="1" unit="character"/> va <gap reason="lost" quantity="1" unit="character"/> ttu <hi rend="grantha">brāhma</hi>ṇan Oṉpatu <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> ṉ cey nilaṅ kku vilai pattu-k kācu nāṟpatu kai <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> nilaṅkaḷ Ellai <gap reason="lost" quantity="3" unit="character"/> tta kācu nūṟu Ik-kācu nūṟum tiru-ve+kā Āḻvār <gap reason="illegible" quantity="3" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> ceytu kuṭuttōm rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">jentra</hi>-caruppēti-maṅkalattu <hi rend="grantha">mahā-sabhai</hi>yōm I <gap reason="lost" extent="unknown" unit="character"/>
-                </ab>
+                </p>
             </div>
             
             <div type="apparatus">

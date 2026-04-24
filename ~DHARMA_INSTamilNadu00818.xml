@@ -17,7 +17,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-
+                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -80,134 +80,137 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-
+            
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <ab>
-<lb n="1"/>svasti śrīman mahā-maṇṭalēśvara rājātirāja-rāja
-<lb n="2"/>paramēśvara śrī-vīra-pradāpa śrī-vīra śrīraṅka-de
-<lb n="3"/>va mahārāyar prudivi-rājyam paṇṇi Aru
-<lb n="4"/>ḷā <unclear>niṉṟa cālivāhaṉa</unclear> śakābdam 1506 ṉ
-<lb n="5"/>mēl cellā niṉṟa tāraṇa samvaṟsarattu
-<lb n="6"/><unclear>śiṅka</unclear> ṉāyaṟṟu pūrva pakṣattu Atta nakṣatrattu
-<lb n="7"/>pañcamiyum peṟṟa cukkiṟa vārattu ṉāḷ ceyam <gap reason="lost" quantity="1" unit="character"/>
-<lb n="8"/>kāṇṭa cōḻa maṇṭalattu cantrakiri yi
-<lb n="9"/>rājyattu Ūṟṟu kāṭṭuk kōṭṭattu viṟpēṭṭu
-<lb n="10"/>ṉāṭṭil nakaram kāñcipuram viṣṇut ta<unclear>ṉa</unclear>ttil
-<lb n="11"/>tiru vekā nayiṉār kōyil śrī paṇṭārattāru
-<lb n="12"/>m śrī kāriyam ceyyum śrīmaṟ vēta māṟka pra
-<lb n="13"/>tiṣṭāpaṉācāriya Upaya vētāntācāriyārāṉa Eṭṭūr
-<lb n="14"/>tirumalaik kumāra tāttācāriyar Ayyan caṉṉati Aḻaki
-<lb n="15"/>ya ciṅkārum śaṭamaruṣaṇa kōtrattu Āpastampa sūt
-<lb n="16"/>trattu Ejñaś śā gobhayarāṉa śrī maṟ vēta
-<lb n="17"/>māṟka pradiṣṭāpaṉācāriya Upaya vētāntā śāriya rāṉa
-<lb n="18"/>Eṭṭūrt tirumalaik kumpakōṇam tāttācāriyar
-<lb n="19"/>Ayyā vaiyyaṅkār kumārar tirumāl yiruñ cōlai ya
-<lb n="20"/>ṅkār Ayyan Avarkaḷḷukku yiv Emperumāṉ śrī
-<lb n="21"/>poliyūṭṭu Appam tirup paṇiyāra poliyūṭ
-<lb n="22"/>ṭū cammantam māka vopakṣayya dhamma śāsaṉa
-<lb n="23"/>m paṇṇik kuṭuttapaṭi yiv Emperumāṉ tiru vi
-<lb n="24"/>ḷaiyāṭṭattil Uḷḷūril kīḻait tāṅkal mēlait tāṅ
-<lb n="25"/>nañcai puñcai ṉāṟpāṟ kellaik kuḷ <gap reason="lost" quantity="4" unit="character"/>
-<lb n="26"/>ṉilam Uṇṭāna nilam māṉa tōiḷañ cōlai te
-<lb n="27"/>ṉṉa marat tōppukku vaṭakkum peṉṉak kōṉ tōṭṭa
-<lb n="28"/>ttukku kiḻakku Ōṭaiyum cōvaṭṭuk kayattuk ka
-<lb n="29"/>rai yiluppai tōppu veṭṭa vēḷat teṉ
-<lb n="30"/>ṉa marat tō <gap reason="lost" quantity="1" unit="character"/> ttukkum teṟkum Uppuk kuḷat
-<lb n="31"/>tuk kiḻakku perumāḷ kōyil Uṭaiya
-<lb n="32"/>kōyilukku pōṟa peruvaḻikku mēṟku
-<lb n="33"/>kuḷavāy veṭṭuviccak kuḷattukkum tō
-<lb n="34"/>ṭṭattukkum mēṟkum poykait tiruk kuḷat
-<lb n="35"/>til perumāḷ kōyilukku pōṟa Ūṟ vakkā
-<lb n="36"/>lukku vaṭakkum maṉam piriyā naṉtavanat
-<lb n="37"/>vaṭakkum paḷḷi koṇṭāṉ payaṭai nilam kūṭa
-<lb n="38"/>veḷakkuḷa Appa nilam Uṇṭāṉattil pē
-<lb n="39"/>ril Upakṣaya dhamma śāsaṉa māka niṟca
-<lb n="40"/>yittu nāṅkaḷ paṟṟi koṇṭa pu 1500
-<lb n="41"/>yip paṇam Āyirattu Aññūṟukkum
-<lb n="42"/>Inta tāṅkal mēlait tāṅkal kīḻait
-<lb n="43"/>tāṅka linta Etta yiṭṭa nilam Uṇṭanatu El
-<lb n="44"/>lām Upakṣaya dhamma śāsaṉa māka paṟṟi A
-<lb n="45"/>ṉupavittu koḷḷak kaṭava rākavum Anupa
-<lb n="46"/>vikku miṭattu niti nikṣēpa jala pāṣāṇa
-<lb n="47"/>Akṣaṇakṣa gāma śa <gap reason="lost" quantity="25" unit="character"/>
-<lb n="48"/>ṟakṣa pōga tēja svāmiyaṅkaḷum Uḷpaṭa Iva<unclear>rē</unclear>
-<lb n="49"/>svasti śrī putra pau4tra pāramparya māka Ājant3rā
-<lb n="50"/>ṟka māyi yāka dhānādi vinmaya vikkiṟaiyaṅkaḷu
-<lb n="51"/>kkum yōga māka kaṭavatākavum yippiṭi cammatit
-<lb n="52"/>tu Uvakṣaya taṟma śāsanam paṇṇik kuṭuttō
-<lb n="53"/>m yinta śāsanapaṭi pa 1500 yinta paṇam Āyirattu A
-<lb n="54"/>ññūkkum paṟṟiṉa viparam tiruk kōyil taḷikaikku kuṭu
-<lb n="55"/>tta vakaiyilum tiru veḻ kōyil tirup paṇikkum ti
-<lb n="56"/>ruk kōyil cilavukku mukūrttam paṟṟik koṇṭō
-<lb n="57"/>m Ituvē tiraviyac cilavu tāka kaṭava tākavum tiru mā
-<lb n="58"/>l yirum cōlai yaṅkār Ayyanukku tiru veḻkā
-<lb n="59"/>nayin kōyil śrī paṇṭārattārum śrī kārya <gap reason="lost" quantity="1" unit="character"/> ce
-<lb n="60"/>yvārum mōm yinta śāsanap paṭi nilam Uṇ
-<lb n="61"/>ṭānatu Ellām Iv vem perumānukku Appam
-<lb n="62"/>tirup paṇiyāra poliyūṭṭukkāka dhaṟma śāsana mā
-<lb n="63"/>ka tiru māli cōlai yaṅkār Ayyan camaippi
-<lb n="64"/>kkayil+ Inta nilam Uṇṭānatu Ellām Iv
-<lb n="65"/>vem perumān śrī paṇṭārattillē kaiy ko
-<lb n="66"/>ṇṭu Appa paṭi tirup paṇiyārap poliyūṭṭukku
-<lb n="67"/>naṭattiṟattukku viparam māsap piṟappu Ammāvācai
-<lb n="68"/>tiru vekā tēti yiraṇṭu hasta tiru nakṣatra
-<lb n="69"/>ṟuku tiru kṣat <gap reason="lost" quantity="3" unit="character"/> śrī mum Anurātā tiru natramum Ā
-<lb n="70"/>ka māsam Oṉṟukku Eḻu nāḷ Alaṅkāra tiru
-<lb n="71"/>maṉcanamum koṇ ṭaruḷi tiru vītiyum Eḻuntaru
-<lb n="72"/>ḷi tiruvaṭi kōyil tiru maṇṭapattil Eḻun taru
-<lb n="73"/>ḷi Amutu ceytaruḷumpaṭi Appa paṭi ṉāḷ
-<lb n="74"/>Oṉṟukku Appa paṭi Oṉṟukku Arici tūṇi ve
-<lb n="75"/>lla patakku Eṇṇai kuṟuṇi yitukku
-<lb n="76"/>camaiyam tiruppaṇiyāram 52 ku viṭṭavan
-<lb n="77"/>viḻukkāṭu Appam 13 ḻvār Appam 2
-<lb n="78"/>pāttira śeṣam Umāvam kūli 52 niṟu
-<lb n="79"/>vākam 4kku Appam 4 Āka Appam 23 nī
-<lb n="80"/>kki tiruppaṇiyāram 29 tiru maṇṭa
-<lb n="81"/>pattilē caṉṉati tiru vōlakkattilē
-<lb n="82"/>viniyōkam paṇṇivika kaṭavō mākavum <gap reason="lost" quantity="1" unit="character"/> I
-<lb n="83"/>ntappaṭiyē māsam Eḻu paṭiyum tipāḷikai
-<lb n="84"/>Uṟiyaṭi Ukāti tiruk kāṟtikai varu ka ṟā
-<lb n="85"/>nālu paṭiyum Inta paṭi putra pautra pārampa
-<lb n="86"/>yam māka Ājandrākkamāka yinta poliyūṭ
-<lb n="87"/>ṭup piṟakāram naṭatti varak kaṭavō mākavum yippaṭi
-<lb n="88"/>cammatittu Appam poliyūṭṭukku Āka Ubhaya dhamma
-<lb n="89"/>śāsanam paṇṇik kuṭuttōm tiru māl yirum
-<lb n="90"/>cōlai yaṅkār Ayyan Avarkaḷukku śrī kāriyam
-<lb n="91"/>ceyvārummōm yivai Aḻaki ciṅkar kumārar
-<lb n="92"/>yīrāman Akṣaram tāṉattār tuyila vamana paṭṭar
-<lb n="93"/>coṉṉa vaṇṇam Uḷ yiṭṭār Akṣaram so <gap reason="lost" quantity="2" unit="character"/>
-<lb n="94"/>tiruc cittiṟa kūṭa paṭṭar coṉṉa vaṇṇam
-<lb n="95"/>Akṣaram yinta śāsaṉam Eḻutiṉamaikku
-<lb n="96"/>kōyil kaṇakku poykai nallūr Uṭaiyār
-<lb n="97"/>tiru vārttiyappan putran rāman Eḻuttu tāsa
-<lb n="98"/>nampi perumāḷ Eḻuttu yippaṭi Aṟivēṉ
-<lb n="99"/>kōyil kaṇakku nayiṉār kō nalla peru
-<lb n="100"/>māḷ gomarutakap perumāḷ po <gap reason="lost" quantity="10" unit="character"/>
+                    <lb n="1"/>svasti
                 </ab>
+                <p>
+                    śrīman mahā-maṇṭalēśvara rājātirāja-rāja
+                    <lb n="2"/>paramēśvara śrī-vīra-pradāpa śrī-vīra śrīraṅka-de
+                    <lb n="3"/>va mahārāyar prudivi-rājyam paṇṇi Aru
+                    <lb n="4"/>ḷā <unclear>niṉṟa cālivāhaṉa</unclear> śakābdam 1506 ṉ
+                    <lb n="5"/>mēl cellā niṉṟa tāraṇa samvaṟsarattu
+                    <lb n="6"/><unclear>śiṅka</unclear> ṉāyaṟṟu pūrva pakṣattu Atta nakṣatrattu
+                    <lb n="7"/>pañcamiyum peṟṟa cukkiṟa vārattu ṉāḷ ceyam <gap reason="lost" quantity="1" unit="character"/>
+                    <lb n="8"/>kāṇṭa cōḻa maṇṭalattu cantrakiri yi
+                    <lb n="9"/>rājyattu Ūṟṟu kāṭṭuk kōṭṭattu viṟpēṭṭu
+                    <lb n="10"/>ṉāṭṭil nakaram kāñcipuram viṣṇut ta<unclear>ṉa</unclear>ttil
+                    <lb n="11"/>tiru vekā nayiṉār kōyil śrī paṇṭārattāru
+                    <lb n="12"/>m śrī kāriyam ceyyum śrīmaṟ vēta māṟka pra
+                    <lb n="13"/>tiṣṭāpaṉācāriya Upaya vētāntācāriyārāṉa Eṭṭūr
+                    <lb n="14"/>tirumalaik kumāra tāttācāriyar Ayyan caṉṉati Aḻaki
+                    <lb n="15"/>ya ciṅkārum śaṭamaruṣaṇa kōtrattu Āpastampa sūt
+                    <lb n="16"/>trattu Ejñaś śā gobhayarāṉa śrī maṟ vēta
+                    <lb n="17"/>māṟka pradiṣṭāpaṉācāriya Upaya vētāntā śāriya rāṉa
+                    <lb n="18"/>Eṭṭūrt tirumalaik kumpakōṇam tāttācāriyar
+                    <lb n="19"/>Ayyā vaiyyaṅkār kumārar tirumāl yiruñ cōlai ya
+                    <lb n="20"/>ṅkār Ayyan Avarkaḷḷukku yiv Emperumāṉ śrī
+                    <lb n="21"/>poliyūṭṭu Appam tirup paṇiyāra poliyūṭ
+                    <lb n="22"/>ṭū cammantam māka vopakṣayya dhamma śāsaṉa
+                    <lb n="23"/>m paṇṇik kuṭuttapaṭi yiv Emperumāṉ tiru vi
+                    <lb n="24"/>ḷaiyāṭṭattil Uḷḷūril kīḻait tāṅkal mēlait tāṅ
+                    <lb n="25"/>nañcai puñcai ṉāṟpāṟ kellaik kuḷ <gap reason="lost" quantity="4" unit="character"/>
+                    <lb n="26"/>ṉilam Uṇṭāna nilam māṉa tōiḷañ cōlai te
+                    <lb n="27"/>ṉṉa marat tōppukku vaṭakkum peṉṉak kōṉ tōṭṭa
+                    <lb n="28"/>ttukku kiḻakku Ōṭaiyum cōvaṭṭuk kayattuk ka
+                    <lb n="29"/>rai yiluppai tōppu veṭṭa vēḷat teṉ
+                    <lb n="30"/>ṉa marat tō <gap reason="lost" quantity="1" unit="character"/> ttukkum teṟkum Uppuk kuḷat
+                    <lb n="31"/>tuk kiḻakku perumāḷ kōyil Uṭaiya
+                    <lb n="32"/>kōyilukku pōṟa peruvaḻikku mēṟku
+                    <lb n="33"/>kuḷavāy veṭṭuviccak kuḷattukkum tō
+                    <lb n="34"/>ṭṭattukkum mēṟkum poykait tiruk kuḷat
+                    <lb n="35"/>til perumāḷ kōyilukku pōṟa Ūṟ vakkā
+                    <lb n="36"/>lukku vaṭakkum maṉam piriyā naṉtavanat
+                    <lb n="37"/>vaṭakkum paḷḷi koṇṭāṉ payaṭai nilam kūṭa
+                    <lb n="38"/>veḷakkuḷa Appa nilam Uṇṭāṉattil pē
+                    <lb n="39"/>ril Upakṣaya dhamma śāsaṉa māka niṟca
+                    <lb n="40"/>yittu nāṅkaḷ paṟṟi koṇṭa pu 1500
+                    <lb n="41"/>y-ip-paṇam Āyirattu Aññūṟukkum
+                    <lb n="42"/>Inta tāṅkal mēlait tāṅkal kīḻait
+                    <lb n="43"/>tāṅka linta Etta yiṭṭa nilam Uṇṭanatu El
+                    <lb n="44" break="no"/>lām Upakṣaya dhamma śāsaṉa māka paṟṟi A
+                    <lb n="45" break="no"/>ṉupavittu koḷḷak kaṭava rākavum Anupa
+                    <lb n="46" break="no"/>vikku miṭattu niti nikṣēpa jala pāṣāṇa
+                    <lb n="47"/>Akṣaṇakṣa gāma śa <gap reason="lost" quantity="25" unit="character"/>
+                    <lb n="48"/>ṟakṣa pōga tēja svāmiyaṅkaḷum Uḷpaṭa Iva<unclear>rē</unclear>
+                    <lb n="49"/>svasti śrī putra pau4tra pāramparya māka Ājant3rā
+                    <lb n="50"/>ṟka māyi yāka dhānādi vinmaya vikkiṟaiyaṅkaḷu
+                    <lb n="51"/>kkum yōga māka kaṭavatākavum yippiṭi cammatit
+                    <lb n="52"/>tu Uvakṣaya taṟma śāsanam paṇṇik kuṭuttō
+                    <lb n="53"/>m yinta śāsanapaṭi pa 1500 yinta paṇam Āyirattu A
+                    <lb n="54"/>ññūkkum paṟṟiṉa viparam tiruk kōyil taḷikaikku kuṭu
+                    <lb n="55"/>tta vakaiyilum tiru veḻ kōyil tirup paṇikkum ti
+                    <lb n="56"/>ruk kōyil cilavukku mukūrttam paṟṟik koṇṭō
+                    <lb n="57"/>m Ituvē tiraviyac cilavu tāka kaṭava tākavum tiru mā
+                    <lb n="58"/>l yirum cōlai yaṅkār Ayyanukku tiru veḻkā
+                    <lb n="59"/>nayin kōyil śrī paṇṭārattārum śrī kārya <gap reason="lost" quantity="1" unit="character"/> ce
+                    <lb n="60"/>yvārum mōm yinta śāsanap paṭi nilam Uṇ
+                    <lb n="61"/>ṭānatu Ellām Iv vem perumānukku Appam
+                    <lb n="62"/>tirup paṇiyāra poliyūṭṭukkāka dhaṟma śāsana mā
+                    <lb n="63"/>ka tiru māli cōlai yaṅkār Ayyan camaippi
+                    <lb n="64"/>kkayil+ Inta nilam Uṇṭānatu Ellām Iv
+                    <lb n="65"/>vem perumān śrī paṇṭārattillē kaiy ko
+                    <lb n="66"/>ṇṭu Appa paṭi tirup paṇiyārap poliyūṭṭukku
+                    <lb n="67"/>naṭattiṟattukku viparam māsap piṟappu Ammāvācai
+                    <lb n="68"/>tiru vekā tēti yiraṇṭu hasta tiru nakṣatra
+                    <lb n="69"/>ṟuku tiru kṣat <gap reason="lost" quantity="3" unit="character"/> śrī mum Anurātā tiru natramum Ā
+                    <lb n="70"/>ka māsam Oṉṟukku Eḻu nāḷ Alaṅkāra tiru
+                    <lb n="71"/>maṉcanamum koṇ ṭaruḷi tiru vītiyum Eḻuntaru
+                    <lb n="72"/>ḷi tiruvaṭi kōyil tiru maṇṭapattil Eḻun taru
+                    <lb n="73"/>ḷi Amutu ceytaruḷumpaṭi Appa paṭi ṉāḷ
+                    <lb n="74"/>Oṉṟukku Appa paṭi Oṉṟukku Arici tūṇi ve
+                    <lb n="75"/>lla patakku Eṇṇai kuṟuṇi yitukku
+                    <lb n="76"/>camaiyam tiruppaṇiyāram 52 ku viṭṭavan
+                    <lb n="77"/>viḻukkāṭu Appam 13 ḻvār Appam 2
+                    <lb n="78"/>pāttira śeṣam Umāvam kūli 52 niṟu
+                    <lb n="79"/>vākam 4kku Appam 4 Āka Appam 23 nī
+                    <lb n="80"/>kki tiruppaṇiyāram 29 tiru maṇṭa
+                    <lb n="81"/>pattilē caṉṉati tiru vōlakkattilē
+                    <lb n="82"/>viniyōkam paṇṇivika kaṭavō mākavum <gap reason="lost" quantity="1" unit="character"/> I
+                    <lb n="83"/>ntappaṭiyē māsam Eḻu paṭiyum tipāḷikai
+                    <lb n="84"/>Uṟiyaṭi Ukāti tiruk kāṟtikai varu ka ṟā
+                    <lb n="85"/>nālu paṭiyum Inta paṭi putra pautra pārampa
+                    <lb n="86"/>yam māka Ājandrākkamāka yinta poliyūṭ
+                    <lb n="87"/>ṭup piṟakāram naṭatti varak kaṭavō mākavum yippaṭi
+                    <lb n="88"/>cammatittu Appam poliyūṭṭukku Āka Ubhaya dhamma
+                    <lb n="89"/>śāsanam paṇṇik kuṭuttōm tiru māl yirum
+                    <lb n="90"/>cōlai yaṅkār Ayyan Avarkaḷukku śrī kāriyam
+                    <lb n="91"/>ceyvārummōm yivai Aḻaki ciṅkar kumārar
+                    <lb n="92"/>yīrāman Akṣaram tāṉattār tuyila vamana paṭṭar
+                    <lb n="93"/>coṉṉa vaṇṇam Uḷ yiṭṭār Akṣaram so <gap reason="lost" quantity="2" unit="character"/>
+                    <lb n="94"/>tiruc cittiṟa kūṭa paṭṭar coṉṉa vaṇṇam
+                    <lb n="95"/>Akṣaram yinta śāsaṉam Eḻutiṉamaikku
+                    <lb n="96"/>kōyil kaṇakku poykai nallūr Uṭaiyār
+                    <lb n="97"/>tiru vārttiyappan putran rāman Eḻuttu tāsa
+                    <lb n="98"/>nampi perumāḷ Eḻuttu yippaṭi Aṟivēṉ
+                    <lb n="99"/>kōyil kaṇakku nayiṉār kō nalla peru
+                    <lb n="100"/>māḷ gomarutakap perumāḷ po <gap reason="lost" quantity="10" unit="character"/>
+                </p>
             </div>
-
+            
             <div type="apparatus">
-
+                
             </div>
-
+            
             <div type="translation">
-
+                
             </div>
-
+            
             <div type="commentary">
-
+                
             </div>
-
+            
             <div type="bibliography">
-
+                
                 <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/31).</p>
-
+                
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <listBibl type="primary">
-
+                    
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
                         <citedRange unit="page">25</citedRange>
@@ -219,7 +222,7 @@
                         <citedRange unit="item">18</citedRange>
                     </bibl>
                 </listBibl>
-
+                
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1920-1921"/>
@@ -227,9 +230,9 @@
                         <citedRange unit="appendix">C/1921</citedRange>
                         <citedRange unit="item">31</citedRange>
                     </bibl>
-
+                    
                 </listBibl>
-
+                
             </div>
         </body>
     </text>

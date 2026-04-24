@@ -17,7 +17,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-
+                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -80,92 +80,95 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-
+            
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <ab>
-<lb n="1"/>śubham astu sva
-<lb n="2"/>sti śrīman ma
-<lb n="3"/>maṇṭalēcura rācā
-<lb n="4"/>rācarāca paramēcura
-<lb n="5"/>vīra-p-piṟatāpa śrī-vīra
-<lb n="6"/>śrī-raṅka-tēva makā
-<lb n="7"/>rāyar piṟativi-rācciya
-<lb n="8"/>paṇṇi Aruḷā ni
-<lb n="9"/>ṉṟa cāli <gap reason="lost" quantity="3" unit="character"/>
-<lb n="10"/>kāṟttam 1500 ṉ
-<lb n="11"/>mēl cellā niṉṟa
-<lb n="12"/>vekutā <gap reason="lost" quantity="1" unit="character"/> ya san
-<lb n="13"/>tcarattu Āṣāṭa ṉāya
-<lb n="14"/><gap reason="lost" quantity="28" unit="character"/>
-<lb n="15"/>tu vāramum pañcamiyum
-<lb n="16"/>peṟṟa Atta nakṣat
-<lb n="17"/>tarattu nāḷ ceyaṅ ko
-<lb n="18"/>ṇṭa cōḻa maṇṭala
-<lb n="19"/>ttu cantirakiri rācciya
-<lb n="20"/><gap reason="lost" quantity="22" unit="character"/>
-<lb n="21"/>kāṭṭuk kōṭṭattu viṟ
-<lb n="22"/>pēṭu ṉāṭṭil nakaram kā
-<lb n="23"/>ñcipuram viṣṇu stānat <gap reason="lost" quantity="1" unit="character"/>
-<lb n="24"/>l tiru vekā nayiṉār kō <gap reason="lost" quantity="1" unit="character"/>
-<lb n="25"/>l śrī paṇ <gap reason="lost" quantity="18" unit="character"/>
-<lb n="26"/>m ceyyum <gap reason="lost" quantity="14" unit="character"/> mā
-<lb n="27"/>kkap piṟa <gap reason="lost" quantity="16" unit="character"/> ya
-<lb n="28"/>Upaiya <gap reason="lost" quantity="15" unit="character"/> cā
-<lb n="29"/>yar Āṉa Eṭṭūr tirumala
-<lb n="30"/>kumāra tāttācāriyar A
-<lb n="31"/>yyaṉ śrī kārya <gap reason="lost" quantity="2" unit="character"/> kku <gap reason="lost" quantity="1" unit="character"/>
-<lb n="32"/>ttarāṉa śrīmatu vēta mā
-<lb n="33"/>ṟkka piṟatiṭṭāpaṉācāri
-<lb n="34"/>ya parama Aṅkuca pariviṟācakā
-<lb n="35"/>cāriya Upaiya vētān
-<lb n="36"/>tācāriyar Āṉa tiruviṭa
-<lb n="37"/>ntai periya tirumalai
-<lb n="38"/>nampi rāmāṉuciyarum
-<lb n="39"/>śrīmatu vēta māṟkka piṟa
-<lb n="40"/>ṭṭāpaṉācāriya Upaiya
-<lb n="41"/>vētāntācāriyar Āṉa
-<lb n="42"/>periya tirumalai nampi
-<lb n="43"/>tiruma <gap reason="lost" quantity="10" unit="character"/> śaṭamar
-<lb n="44"/>ṣaṇa gotrattu Ā
-<lb n="45"/>pastambha sūtrat
-<lb n="46"/>tu yacuś śā gobharāya
-<lb n="47"/>n Ayyā vaiyyaṅkā<unclear>r</unclear>
-<lb n="48"/>kumāra Eṭṭūr tirumala
-<lb n="49"/>kumāra tāttācāriyar Ayyanukku kiṟāma poliyūṭṭu cilā cātanam paṇṇik kuṭuttapaṭi tām śrī raṅka tēva makā rāyar kayyil paṟ taka kiṟuka <gap reason="lost" quantity="3" unit="character"/>
-<lb n="50"/>cca puram kiṟāmam Oṉṟum tām coṉṉa vaṇṇam ceyta perumāḷukku tiruvūñcal tiru ṉāḷu niṟṟaipaṭi Avacara
-<lb n="51"/>ttukku cāyaṅkālattil tiru mālai vēḷaiyil tōcaippaṭikkum poliyūṭṭu Āka tārāpūṟuvam Āka camaṟppi
-<lb n="52"/>ttu puliyūr kiṟāmam ka kku varu ka kku rēkai <gap reason="lost" quantity="2" unit="character"/> 80 Inta poṉ Eṇpatukku cilavu ṉāḷ ka kku Ayyaṅkār Avaca
-<lb n="53"/>ram ta <gap reason="lost" quantity="1" unit="character"/> kai 65 Amutupaṭi tapanu Āka varu ka kku ṉāḷ 365 kku celi 180 <gap reason="lost" quantity="3" unit="character"/> ṉāḷ ka kku tiru mālai tōcai
-<lb n="54"/>m ka kku tōcai 13 kku <gap reason="lost" quantity="3" unit="character"/> Uḷuntu vaṭai Eṇṇai nta Āka varu ka kku ṉāḷ 365 kku celi yaruḷa Uṅaca U
-<lb n="55"/>Uḷuntu Eḷ ku 30 lai E <gap reason="lost" quantity="2" unit="character"/> 39 nta Āka varu ka kku celi 190 Eḷ Utacal kku rula Upam je ca 490 caḷaṅau kku puka
-<lb n="56"/>kku I caḷa vilaikku ṇa 49 karumpukku celi 95 puvapa Āka ṇakāpuka 20 Āka ṇa 63 puka te 24kku ru U
-<lb n="57"/>51 kku <gap reason="lost" quantity="2" unit="character"/> vilaikku ḷapaṅavaṅa Eri karumpukku celi 95pu va
-<lb n="58"/>ñcal tiru ṉāḷukku cilavu ṉāḷ ka kku perumāḷukku tiru mañcaṉattukkup paḻakkāppukku piḷa U 20kku pupa <gap reason="lost" quantity="5" unit="character"/>
+                    <lb n="1"/>śubham astu sva
+                    <lb n="2" break="no"/>sti
                 </ab>
+                <p>
+                    śrīman mak<unclear>ā</unclear>
+                    <lb n="3" break="no"/>maṇṭalēcura rācā
+                    <lb n="4" break="no"/>rācarāca paramēcura
+                    <lb n="5"/>vīra-p-piṟatāpa śrī-vīra
+                    <lb n="6"/>śrī-raṅka-tēva makā
+                    <lb n="7"/>rāyar piṟativi-rācciya
+                    <lb n="8"/>paṇṇi Aruḷā ni
+                    <lb n="9"/>ṉṟa cāli <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="10"/>kāṟttam 1000 5 100 ṉ
+                    <lb n="11"/>mēl cellā niṉṟa
+                    <lb n="12"/>vekutā <gap reason="lost" quantity="1" unit="character"/> ya san
+                    <lb n="13"/>tcarattu Āṣāṭa ṉāya
+                    <lb n="14"/><gap reason="lost" quantity="1" unit="line"/>
+                    <lb n="15"/>tu vāramum pañcamiyum
+                    <lb n="16"/>peṟṟa Atta nakṣat
+                    <lb n="17"/>tarattu nāḷ ceyaṅ ko
+                    <lb n="18"/>ṇṭa cōḻa maṇṭala
+                    <lb n="19"/>ttu cantirakiri rācciya
+                    <lb n="20"/><gap reason="lost" quantity="1" unit="line"/>
+                    <lb n="21"/>kāṭṭuk kōṭṭattu viṟ
+                    <lb n="22" break="no"/>pēṭu ṉāṭṭil nakaram kā
+                    <lb n="23" break="no"/>ñcipuram <hi rend="grantha">viṣṇu-stā</hi>nat<unclear>ti</unclear>
+                    <lb n="24" break="no"/>l tiru-vekā nayiṉār kō <gap reason="lost" quantity="1" unit="character"/>
+                    <lb n="25" break="no"/>l <hi rend="grantha">śrī</hi>-paṇ <gap reason="lost" quantity="18" unit="character"/>
+                    <lb n="26" break="no"/>m ceyyum <gap reason="lost" quantity="14" unit="character"/> mā
+                    <lb n="27" break="no"/>kkap piṟa <gap reason="lost" quantity="16" unit="character"/> ya
+                    <lb n="28"/>Upaiya <gap reason="lost" quantity="15" unit="character"/> cā
+                    <lb n="29" break="no"/>yar Āṉa Eṭṭūr tirumala
+                    <lb n="30"/>kumāra tāttācāriyar A
+                    <lb n="31" break="no"/>yyaṉ <hi rend="grantha">śrī</hi>-kārya <gap reason="lost" quantity="2" unit="character"/> kku <gap reason="lost" quantity="1" unit="character"/>
+                    <lb n="32" break="no"/>ttarāṉa <hi rend="grantha">śrīma</hi>tu vēta mā
+                    <lb n="33" break="no"/>ṟkka piṟatiṭṭāpaṉācāri
+                    <lb n="34" break="no"/>ya parama-Aṅkuca-pariviṟācakā
+                    <lb n="35" break="no"/>cāriya-Upaiya-vētān
+                    <lb n="36"/>tācāriyar-Āṉa tiruviṭa
+                    <lb n="37" break="no"/>ntai periya tirumalai
+                    <lb n="38"/>nampi rāmāṉuciyarum
+                    <lb n="39"/><hi rend="grantha">śrīma</hi>tu vēta māṟkka piṟa
+                    <lb n="40" break="no"/>ṭṭāpaṉācāriya Upaiya
+                    <lb n="41"/>vētāntācāriyar-Āṉa
+                    <lb n="42"/>periya tirumalai nampi
+                    <lb n="43"/>tiruma <gap reason="lost" quantity="10" unit="character"/> <seg rend="check">śaṭamar</seg>
+                    <lb n="44"/><hi rend="grantha">ṣa</hi>ṇa-<hi rend="grantha">gotra</hi>ttu Ā
+                    <lb n="45" break="no"/><hi rend="grantha">pastambha-sūtra</hi>t
+                    <lb n="46" break="no"/>tu yacu<seg rend="check">ś śā gobharāya</seg>
+                    <lb n="47" break="no"/>n Ayyā vaiyyaṅkā<unclear>r</unclear>
+                    <lb n="48"/>kumāra Eṭṭūr tirumala
+                    <lb n="49"/>kumāra tāttācāriyar Ayyanukku kiṟāma poliyūṭṭu cilā cātanam paṇṇi-k kuṭuttapaṭi tām śrī-raṅka-tēva-makā-rāyar kayyil paṟ taka kiṟuka <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="50" break="no"/>cca puram kiṟāmam Oṉṟum tām coṉṉa vaṇṇam ceyta perumāḷukku tiruvūñcal tiru-ṉāḷu niṟṟaipaṭi Avacara
+                    <lb n="51" break="no"/>ttukku cāyaṅkālattil tiru mālai vēḷaiyil tōcaippaṭikkum poliyūṭṭu Āka tārāpūṟuvam Āka camaṟppi
+                    <lb n="52" break="no"/>ttu <gap reason="lost" quantity="2" unit="character"/> puliyūr kiṟāmam 1 k=ku varu 1 k=ku rēkai <gap reason="lost" quantity="2" unit="character"/> 8 10 Inta poṉ Eṇpatukku cilavu ṉāḷ 1 k=ku Ayyaṅkār Avaca
+                    <lb n="53"/>ram ta <gap reason="lost" quantity="1" unit="character"/> kai 6 10 5 Amutupaṭi tapanu Āka varu 1 k=ku ṉāḷ 3 100 6 10 5 kku celi 180 <gap reason="lost" quantity="3" unit="character"/> ṉāḷ ka kku tiru mālai tōcai
+                    <lb n="54"/>m 1 k=ku tōcai 10 3 kku <gap reason="lost" quantity="3" unit="character"/> Uḷuntu vaṭai Eṇṇai nta Āka varu 1 k=ku ṉāḷ 3 100 6 10 5 k=ku celi yaruḷa Uṅaca U
+                    <lb n="55"/>Uḷuntu Eḷ ku 3 10 lai E <gap reason="lost" quantity="2" unit="character"/> 3 10 9 nta Āka varu ka kku celi 190 Eḷ Utacal kku rula Upam je ca 490 caḷaṅau kku puka
+                    <lb n="56"/>k=ku I caḷa vilaikku ṇa 4 10 9 karumpukku celi 9 10 5 puvapa Āka ṇakāpuka 2 10 Āka ṇa 6 10 3 puka te 2 10 4 k=ku ru U
+                    <lb n="57"/>5 10 1 k=ku <gap reason="lost" quantity="2" unit="character"/> vilaikku ḷapaṅavaṅa Eri karumpukku celi 9 10 5 pu va
+                    <lb n="58" break="no"/>ñcal tiru-ṉāḷukku cilavu ṉāḷ 1 k=ku perumāḷukku tiru-mañcaṉattukku-p paḻakkāppukku piḷa U 2 10 k=ku pupa <gap reason="lost" quantity="5" unit="character"/>
+                </p>
             </div>
-
+            
             <div type="apparatus">
-
+                
             </div>
-
+            
             <div type="translation">
-
+                
             </div>
-
+            
             <div type="commentary">
-
+                
             </div>
-
+            
             <div type="bibliography">
-
+                
                 <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/30).</p>
-
+                
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <listBibl type="primary">
-
+                    
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
                         <citedRange unit="page">16-19</citedRange>
@@ -177,7 +180,7 @@
                         <citedRange unit="item">15</citedRange>
                     </bibl>
                 </listBibl>
-
+                
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1920-1921"/>
@@ -185,9 +188,9 @@
                         <citedRange unit="appendix">C/1921</citedRange>
                         <citedRange unit="item">30</citedRange>
                     </bibl>
-
+                    
                 </listBibl>
-
+                
             </div>
         </body>
     </text>

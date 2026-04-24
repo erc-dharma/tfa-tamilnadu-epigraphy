@@ -82,7 +82,7 @@
         <body>
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-                <ab>
+                <p>
                     <lb n="1"/>tiṟtam tarikka El
                     <lb n="2"/>muvikaṉṉāṭa 2 kku
                     <lb n="3"/>pu 6 tūpa <gap reason="lost" quantity="1" unit="character"/> lai ma 1 kku
@@ -146,7 +146,7 @@
                     <lb n="61"/>ka kku tōcai 3 m cannatilē Anucantāṉam paṇṇukiṟa ci vayiṣṇavāḷukku viṉiŌkam paṇṇi kuṟai
                     <lb n="62"/>lla Āḻvār pāta niṟ cēḻakṣam ru ni kku tōcai 9 m tiruk kōyil Ātāyamāka kaṭavatākavum <gap reason="lost" quantity="3" unit="character"/>
                     <lb n="63"/>cēcala tiru ṉāḷ <gap reason="lost" quantity="5" unit="character"/> viṭṭavaṉ viḻukkāṭu 4 lakam Ivarē Eṭuttuk koḷḷak kaṭavarākavum kuṟai ṅa paṅkilē Āḻ <gap reason="lost" quantity="3" unit="character"/>
-                </ab>
+                </p>
             </div>
             
             <div type="apparatus">

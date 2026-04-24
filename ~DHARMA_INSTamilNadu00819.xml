@@ -17,7 +17,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-
+                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -80,42 +80,52 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-
+            
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <ab>
-<lb n="1"/>śubham astu svasti śrī man makā maṇṭalēśvara rājādirāja rāja paramēśvaraśrīvīra pratāpa śrīraṅga deva mahārāyar cū siṃhāsaṉattu vīṟṟiruntu prativi rājyam paṇṇi Aruḷā niṉṟa
-<lb n="2"/>śālivākaṉa cakāṟputam 1506 ṉ mēl cellā niṉṟa citrapāṉu samvatsarattu siṃha ṉāyaṟṟu pūṟva pakṣattu catuṟteciyum cōma vāramum peṟṟa Aviṭṭanakṣatrattu nāḷ śrīmat
-<lb n="3"/>vēta māṟka pratiṣṭāpaṉācāriya Upaiya vētāntācāriya rāṉa Eṭṭūr tirumalai kumāra tātācārya Ayyaṉ cannatiyil pratē gotrattu Āpastampasūtrattu yejākōpara tātācāriya rāṉa kulacēkaran tirumalai nampi nān
-<lb n="4"/>śrī raṅka deva mahārāyar kaiyilē prati śrīhitaca grāmam jayaṉ koṇṭa cōḻa maṇṭalattu candragiri rājyattu ceṅkāṭṭu kōṭṭattu kōṉāti nāṭṭut tīttam pākkattu cīmaiyil śāla maṅkalaṅ kumpañ cērikku prati ṉāma māṉa
-<lb n="5"/>suntarācāryapuram tiruveḻkā vaṇaik kiṭan taruḷiya Aṉanta nārāyaṇa paramasvāmi sannatiyil varakōṭi vimāṉac cayyil nittiya vāsam paṇṇukiṟa ṉāṉā kōtrattu śrī vayiṣṇavarkaḷukku <gap reason="lost" quantity="3" unit="character"/> mperumāṉ Inta cālai maṅkalam kumpa
-<lb n="6"/>ñcēri <gap reason="lost" quantity="4" unit="character"/> yil niccayitta paṅku 64 Inta paṅku Aṟupattu ṉālu kaikoṇṭu <gap reason="lost" quantity="6" unit="character"/> kulacēkarat tirumala nampi ṉālat toṉṟukku paṅkum <gap reason="lost" quantity="3" unit="character"/> nīkka paṅku nāṟpattu Eṭṭukku tiru veḻkā nayiṉā
-<lb n="7"/>sakala samutāya prāttiyum niti nikṣēpa <gap reason="lost" quantity="3" unit="character"/> ṇa Aka <gap reason="lost" quantity="2" unit="character"/> kāmiya <gap reason="lost" quantity="1" unit="character"/> tta sāttiya Aṭṭa pōkamu putra pautra pāra <gap reason="lost" quantity="4" unit="character"/> yāka Aṉupavittu tirumala nampi nālat toṉṟukku
-<lb n="8"/><gap reason="lost" quantity="16" unit="character"/>
+                    <lb n="1"/><hi rend="grantha">śubham astu svasti</hi>
                 </ab>
+                <p>
+                    <hi rend="grantha">śrīma</hi>n ma<hi rend="grantha">hā</hi>-maṇṭale<hi rend="grantha">śvara rājādirāja rāja</hi>- parame<hi rend="grantha">śvara śrī</hi>-vī<hi rend="grantha">ra-pra</hi>tāpa <hi rend="grantha">śrī-raṃga-de</hi>va-<hi rend="grantha">mahārā</hi>yar cū-<hi rend="grantha">siṃhāsa</hi>ṉattu vīṟṟ-iruntu <hi rend="grantha">pra</hi>tivī-<hi rend="grantha">rājyaM</hi> paṇṇi-Aruḷā niṉṟa
+                    <lb n="2"/><hi rend="grantha">śā</hi>livākaṉa cakāṟputam <num value="156"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 6</num> k=ku mēl cellā niṉṟa ta<hi rend="grantha">rā</hi>ṇi-<hi rend="grantha">saṃ</hi>va<hi rend="grantha">Tsara</hi>ttu <hi rend="grantha">siṃha</hi>-ṉāyaṟṟu pūṟva-<hi rend="grantha">pakṣa</hi>ttu catuṟteciyum cōma-vāramum peṟṟa Aviṭṭa-<hi rend="grantha">nakṣa</hi>trattu nāḷ
+                </p>
+                <p>
+                    <hi rend="grantha">śrīmaT</hi>
+                    <!--line 3 not clearly legible on the photos-->
+                    <lb n="3"/>vēta māṟka pratiṣṭāpaṉācāriya Upaiya vētāntācāriya rāṉa Eṭṭūr tirumalai kumāra tātācārya Ayyaṉ cannatiyil pratē gotrattu Āpastampa-sūtrattu yejākōpara tātācāriyar-āṉa kulacēkaran tirumalai nampi nān
+                    <lb n="4"/><hi rend="grantha">śrī-raṃga-de</hi>va-<hi rend="grantha">mahārā</hi>yar kaiyilē <hi rend="grantha">pra</hi>ti-<hi rend="grantha">śrīhi</hi>taca-<hi rend="grantha">grāmaM ja</hi>ya<unclear>ṉ</unclear>-koṇṭa-cōḻa-maṇṭalattu ca<hi rend="grantha">n<choice><orig>t</orig><reg>d</reg></choice>ragiri-rājya</hi>ttu ceṅk<unclear>ā</unclear>ṭṭu kōṭṭattu kōṉāti-nāṭṭu tīttam pākkattu cīmaiyil <hi rend="grantha"><unclear>śā</unclear></hi>la-maṅkalaṅ kumpañ cērikku <hi rend="grantha">pra</hi>ti-ṉāma māṉa
+                    
+                    <!--resume check here-->
+                    <lb n="5"/>suntarācāryapuram tiruveḻkā vaṇaik kiṭan taruḷiya Aṉanta nārāyaṇa paramasvāmi sannatiyil varakōṭi vimāṉac cayyil nittiya vāsam paṇṇukiṟa ṉāṉā kōtrattu śrī vayiṣṇavarkaḷukku <gap reason="lost" quantity="3" unit="character"/> mperumāṉ Inta cālai maṅkalam kumpa
+                    <lb n="6"/>ñcēri <gap reason="lost" quantity="4" unit="character"/> yil niccayitta paṅku 64 Inta paṅku Aṟupattu ṉālu kaikoṇṭu <gap reason="lost" quantity="6" unit="character"/> kulacēkarat tirumala nampi ṉālat toṉṟukku paṅkum <gap reason="lost" quantity="3" unit="character"/> nīkka paṅku nāṟpattu Eṭṭukku tiru veḻkā nayiṉā
+                    <lb n="7"/>sakala samutāya prāttiyum niti nikṣēpa <gap reason="lost" quantity="3" unit="character"/> ṇa Aka <gap reason="lost" quantity="2" unit="character"/> kāmiya <gap reason="lost" quantity="1" unit="character"/> tta sāttiya Aṭṭa pōkamu putra pautra pāra <gap reason="lost" quantity="4" unit="character"/> yāka Aṉupavittu tirumala nampi nālat toṉṟukku
+                    <lb n="8"/><gap reason="lost" quantity="3" unit="line"/>
+                    
+                </p>
             </div>
-
+            
             <div type="apparatus">
-
+                
             </div>
-
+            
             <div type="translation">
-
+                
             </div>
-
+            
             <div type="commentary">
-
+                
             </div>
-
+            
             <div type="bibliography">
-
+                
                 <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/25).</p>
-
+                
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <listBibl type="primary">
-
+                    
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
                         <citedRange unit="page">30-32</citedRange>
@@ -127,7 +137,7 @@
                         <citedRange unit="item">19</citedRange>
                     </bibl>
                 </listBibl>
-
+                
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1920-1921"/>
@@ -135,9 +145,9 @@
                         <citedRange unit="appendix">C/1921</citedRange>
                         <citedRange unit="item">25</citedRange>
                     </bibl>
-
+                    
                 </listBibl>
-
+                
             </div>
         </body>
     </text>

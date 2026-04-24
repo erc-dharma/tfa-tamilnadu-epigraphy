@@ -17,7 +17,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-
+                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -80,57 +80,57 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-
+            
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
-                <ab>
-<lb n="1"/><gap reason="lost" quantity="36" unit="character"/>
-<lb n="2"/><gap reason="lost" quantity="36" unit="character"/>
-<lb n="3"/><gap reason="lost" quantity="15" unit="character"/> śrī-vīra-pratāpa
-<lb n="4"/><gap reason="lost" quantity="11" unit="character"/> paṇṇi Aruḷā niṉ
-<lb n="5"/>ptam 1 <gap reason="lost" quantity="3" unit="character"/> mēl cellā niṉṟa
-<lb n="6"/>ruṣattu <gap reason="lost" quantity="5" unit="character"/> ṟṟu pūṟva pakṣattu <gap reason="lost" quantity="4" unit="character"/> canik kiḻamai
-<lb n="7"/><gap reason="lost" quantity="9" unit="character"/> gaṅkoṇṭa cōḻa maṇṭalattu nakaram
-<lb n="8"/>kāñcipuram perumāḷ kōyilil Irukkum pirāmaṇa
-<lb n="9"/>ril pōrēṟṟup perumāḷ Eṉ Utaka pūṟva taṉma cāta
-<lb n="10"/>m paṇṇik kuṭutta kaṭṭa pākka muṭaiyār maṇṭalam
-<lb n="11"/>nasa vēṭṭaiyar Uḷ I U <gap reason="lost" quantity="10" unit="character"/> kāliṅka rāya
-<lb n="12"/>…………
-<lb n="13"/>………<gap reason="lost" quantity="2" unit="character"/>
-<lb n="14"/>ḷaiyum nāyaṟṟu kiḻamai : cai kīḻ ru <gap reason="lost" quantity="5" unit="character"/> pakka
-<lb n="15"/>nāṉ koṇṭu Uṭaiya ma <gap reason="lost" quantity="3" unit="character"/> paṟṟil conṉa va
-<lb n="16"/>ṇṇañ ceyta perumāḷ tiruviṭai Āṭṭam tappā
-<lb n="17"/><gap reason="lost" quantity="4" unit="character"/> kollai <gap reason="lost" quantity="38" unit="character"/>
-<lb n="18"/>ḷa cakala <gap reason="lost" quantity="38" unit="character"/>
-<lb n="19"/><gap reason="lost" quantity="5" unit="character"/> ceytaruḷiṉa <gap reason="lost" quantity="4" unit="character"/> tiru ṉā <gap reason="lost" quantity="2" unit="character"/>
-<lb n="20"/><gap reason="lost" quantity="4" unit="character"/> k kāṇi <gap reason="lost" quantity="5" unit="character"/> Utaka pūṟva taṉma tāṉamāka kuṭu <gap reason="lost" quantity="3" unit="character"/>
-<lb n="21"/><gap reason="lost" quantity="4" unit="character"/>kuṭutta tirunāmattuk kāṇi <gap reason="lost" quantity="6" unit="character"/>
-<lb n="22"/><gap reason="lost" quantity="39" unit="character"/> Ippaṭikku Ivai
-<lb n="23"/>pōrēṟṟup perumāḷ Eḻuttu U
-                </ab>
+                <p>
+                    <lb n="1"/><gap reason="lost" quantity="1" unit="line"/>
+                    <lb n="2"/><gap reason="lost" quantity="1" unit="line"/>
+                    <lb n="3"/><gap reason="lost" quantity="15" unit="character"/> śrī-vīra-pratāpa
+                    <lb n="4"/><gap reason="lost" quantity="11" unit="character"/> paṇṇi Aruḷā niṉ
+                    <lb n="5"/>ptam 1 <gap reason="lost" quantity="3" unit="character"/> mēl cellā niṉṟa
+                    <lb n="6"/>ruṣattu <gap reason="lost" quantity="5" unit="character"/> ṟṟu pūṟva pakṣattu <gap reason="lost" quantity="4" unit="character"/> canik kiḻamai
+                    <lb n="7"/><gap reason="lost" quantity="9" unit="character"/> gaṅkoṇṭa cōḻa maṇṭalattu nakaram
+                    <lb n="8"/>kāñcipuram perumāḷ kōyilil Irukkum pirāmaṇa
+                    <lb n="9"/>ril pōrēṟṟup perumāḷ Eṉ Utaka pūṟva taṉma cāta
+                    <lb n="10"/>m paṇṇik kuṭutta kaṭṭa pākka muṭaiyār maṇṭalam
+                    <lb n="11"/>nasa vēṭṭaiyar Uḷ I U <gap reason="lost" quantity="10" unit="character"/> kāliṅka rāya
+                    <lb n="12"/><gap reason="lost" quantity="1" unit="line"/>
+                    <lb n="13"/><gap reason="lost" quantity="1" unit="line"/>
+                    <lb n="14"/>ḷaiyum nāyaṟṟu kiḻamai : cai kīḻ ru <gap reason="lost" quantity="5" unit="character"/> pakka
+                    <lb n="15"/>nāṉ koṇṭu Uṭaiya ma <gap reason="lost" quantity="3" unit="character"/> paṟṟil conṉa va
+                    <lb n="16"/>ṇṇañ ceyta perumāḷ tiruviṭai Āṭṭam tappā
+                    <lb n="17"/><gap reason="lost" quantity="4" unit="character"/> kollai <gap reason="lost" quantity="38" unit="character"/>
+                    <lb n="18"/>ḷa cakala <gap reason="lost" quantity="38" unit="character"/>
+                    <lb n="19"/><gap reason="lost" quantity="5" unit="character"/> ceytaruḷiṉa <gap reason="lost" quantity="4" unit="character"/> tiru ṉā <gap reason="lost" quantity="2" unit="character"/>
+                    <lb n="20"/><gap reason="lost" quantity="4" unit="character"/> k kāṇi <gap reason="lost" quantity="5" unit="character"/> Utaka pūṟva taṉma tāṉamāka kuṭu <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="21"/><gap reason="lost" quantity="4" unit="character"/>kuṭutta tirunāmattuk kāṇi <gap reason="lost" quantity="6" unit="character"/>
+                    <lb n="22"/><gap reason="lost" quantity="39" unit="character"/> Ippaṭikku Ivai
+                    <lb n="23"/>pōrēṟṟup perumāḷ Eḻuttu U
+                </p>
             </div>
-
+            
             <div type="apparatus">
-
+                
             </div>
-
+            
             <div type="translation">
-
+                
             </div>
-
+            
             <div type="commentary">
-
+                
             </div>
-
+            
             <div type="bibliography">
-
+                
                 <p>Not reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl>.</p>
-
+                
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
-
+                
                 <listBibl type="primary">
-
+                    
                     <bibl n="V1">
                         <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
                         <citedRange unit="page">38-39</citedRange>
@@ -142,14 +142,14 @@
                         <citedRange unit="item">23</citedRange>
                     </bibl>
                 </listBibl>
-
+                
                 <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:ARIE1920-1921"/>
                     </bibl>
-
+                    
                 </listBibl>
-
+                
             </div>
         </body>
     </text>
