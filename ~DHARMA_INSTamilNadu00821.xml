@@ -83,14 +83,14 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <ab>
-                    <lb n="1"/><g type="pc"/> śubham astu supa
+                    <lb n="1"/><g type="tam-pillaiyarCuli"/> śubham astu supa
                 </ab>
                 <p>
-                    śrīmaN mahā-maṇṭalēśvaran rājādirāja rāja paramēśvara śrī vīra pratāpa śrī vīra śrī vēṅkaṭapati deva mahārāyar pritivi rājyam paṇṇi Aruḷā niṉṟa
-                    <lb n="2"/>śāli-vāhana-śa<choice><sic>kh</sic><corr>k</corr></choice>āptam 1509 n mēl cellā niṉṟa sarvaśitti samvaśśarattu vaiśākha nāyaṟṟu pūrva pakṣattu yintu vasaramum pañcamiyum peṟṟa has<unclear>ta</unclear> nakṣattirattu nāḷ ceyaṅ ko
-                    <lb n="3"/>ṇṭa cōḻa maṇṭalattu cantirakiri rājyam Ūṟṟuk kāṭṭuk kōṭṭattu viṟpēṭu nāṭṭil nakaram kāñcipuram viṣṇu stānattil tiru vekā nayinārkōyil śrī paṇṭārat
-                    <lb n="4" break="no"/>tārum śrī kāriyam śrīmat vēta māṟka pratiṣṭāpaṉācārya Ubaiya vētāntācāryarāna Eṭṭūr tirumalai kumāra tāttācāryar Ayyan sannati Aḻakiya ciṅkarum ṣaṭa maruṣaṇa kōtrattu
-                    <lb n="5"/>Āpastampa <gap reason="lost" quantity="8" unit="character"/> tāttācāryar tirumalai kumpakōṇam tāttācariyar Ayyā vayyaṅkār
+                    śrīmaN mahā-maṇṭalēśvaran rājādirāja rāja-paramēśvara śrī-vīra-pratāpa śrī-vīra śrī-vēṅkaṭapati deva mahārāyar pritivi rājyam paṇṇi Aruḷā niṉṟa
+                    <lb n="2"/>śāli-vāhana-śa<choice><sic>kh</sic><corr>k</corr></choice>āptam 1509 n mēl cellā niṉṟa sarvaśitti-samvaśśarattu vaiśākha-nāyaṟṟu <hi rend="grantha">pūrva-pakṣa</hi>t=tu yin=tu-va<hi rend="grantha">sara</hi>mum pañcamiy<unclear>u</unclear>m peṟṟa <hi rend="grantha">has<supplied reason="omitted">ta</supplied></hi><unclear>ta</unclear>-na<hi rend="grantha">kṣa</hi>ttirattu nāḷ ceyaṅ-ko
+                    <lb n="3"/>ṇṭa-cōḻa-maṇṭalattu cantirakiri rājyam Ūṟṟuk kāṭṭuk kōṭṭattu viṟpēṭu nāṭṭil nakaram kāñcipuram vi<hi rend="grantha">ṣṇu-stā</hi>nattil tiru vekā nayinārkōyil <unclear>śrī</unclear>-paṇṭārat
+                    <lb n="4" break="no"/>tārum śrī kāriyam śrīmat vēta māṟka pratiṣṭāpaṉācārya Ubaiya vētāntācāryarāna Eṭṭūr tirumalai kumāra tāttācāryar Ayya<hi rend="grantha">N</hi> sannati Aḻakiya ciṅkarum <seg rend="check">ṣa</seg>ṭa maruṣaṇa kō<seg rend="check"><hi rend="grantha">tra</hi>ttu</seg>
+                    <lb n="5"/>Āpastampa- <gap reason="lost" quantity="8" unit="character"/> tāttācāryar tirumalai kumpakōṇam tāttācariyar Ayyā vayyaṅkār
                     <lb n="6"/><gap reason="lost" quantity="4" unit="character"/> tirumā <gap reason="lost" quantity="6" unit="character"/> yitta māka śopakṣaya taṟma śāsanam paṇṇi kuṭuttap paṭi
                     <lb n="7"/><gap reason="lost" quantity="4" unit="character"/> vem perumāṉ <gap reason="lost" quantity="6" unit="character"/> ṅkamāka Itukku mēṟku perumāḷ Eḻun taruḷum
                     <lb n="8"/><gap reason="lost" quantity="4" unit="character"/> terutā tiru <gap reason="lost" quantity="16" unit="character"/> kaḷum maraṅkaḷum kiṇaṟukaḷum Uḷpaṭa Upakṣaya māka ni
@@ -102,9 +102,9 @@
                     <lb n="14"/>Ilai yamutu 7 Alaṅkāra tiru mañcaṉam Uḷḷa kaṭṭaḷai Inta piṟakāram Āṟu ṉāḷum tiruk kōyililē naṭattak kaṭavōmākavum
                     <lb n="15"/>Amutu ceytaruḷiṉa ciṟappukku <gap reason="lost" quantity="3" unit="character"/> viṭṭavaṉ viḻu <gap reason="lost" quantity="4" unit="character"/> nālat toṉṟum Āḻvā <gap reason="lost" quantity="3" unit="character"/> niṟuvākam ṉālukkum muṉṉāḷ tiruvaṭi kōyil paṭi poliyūṭṭu piṟa
                     <lb n="16"/>kāra <gap reason="lost" quantity="5" unit="character"/> kuṭuttu <gap reason="lost" quantity="3" unit="character"/> ṉiyōkam paṇṇivikka kaṭavōmākavum yippaṭi cammatittu kōṭait tiru ṉāḷ poliyūṭṭu nimattamāka Upakṣaya taṟma
-                    <lb n="17"/>śāsanam paṇṇi kuṭuttōm tiruma <gap reason="lost" quantity="5" unit="character"/> Ayyaṅkār Ayyan Avarkaḷukku tiruvekā nayiṉār kōyil śrī paṇṭārattārum śrī kāriyam ceyyum Aḻakiya ciṅkarum me<gap reason="lost" quantity="1" unit="character"/>vai
-                    <lb n="18"/>tiruc cittiṟa kūṭap paṭṭar coṉṉa vaṇṇam Eḻuttu ciṅkap pirāṉ paṭṭar nayiṉār <gap reason="lost" quantity="3" unit="character"/>
-                    19 <gap reason="lost" quantity="21" unit="character"/>
+                    <lb n="17"/><hi rend="grantha">śāsa</hi>na<hi rend="grantha">M</hi> paṇṇi kuṭuttōm tiruma <gap reason="lost" quantity="5" unit="character"/> kaḷ Ayyaṅkār Ayyan Avarkaḷukku tiruvekā nayiṉār kōyil <hi rend="grantha">śrī</hi>-paṇṭārat=tārum <hi rend="grantha">śrī</hi>-kā<hi rend="grantha">ri</hi>yam ceyyum Aḻakiya ciṅkarum <hi rend="grantha">me</hi> <seg rend="check"><gap reason="lost" quantity="1" unit="character"/> vai</seg>
+                    <lb n="18"/>tiru-c-cittiṟa-kūṭa-p-paṭṭar coṉṉa vaṇṇam Eḻuttu ciṅka-p-pirāṉ paṭṭar nayiṉār <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="19"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="20"/>Āḻvār <gap reason="lost" quantity="20" unit="character"/>
                 </p>
             </div>
