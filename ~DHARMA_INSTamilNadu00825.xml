@@ -84,16 +84,16 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <p>
                     <lb n="1"/>tiṟtam tarikka El
-                    <lb n="2"/>muvikaṉṉāṭa 2 kku
-                    <lb n="3"/>pu 6 tūpa <gap reason="lost" quantity="1" unit="character"/> lai ma 1 kku
+                    <lb n="2"/>muvikaṉṉāṭa 2 k=ku
+                    <lb n="3"/>pu 6 tūpa <gap reason="lost" quantity="1" unit="character"/> lai ma 1 k=ku
                     <lb n="4"/>pu 6 cāmpiṟāṇi va
-                    <lb n="5"/><gap reason="lost" quantity="25" unit="character"/> kku ya
-                    <lb n="6"/><gap reason="lost" quantity="1" unit="character"/>tirumuṉ kuttuvi
-                    <lb n="7"/>ḷakku 32 cātti
+                    <lb n="5"/><gap reason="lost" quantity="7" unit="character"/> k=ku ya
+                    <lb n="6"/><gap reason="lost" quantity="1" unit="character"/> tirumuṉ kuttuvi
+                    <lb n="7" break="no"/>ḷakku <seg rend="check">32</seg> cātti
                     <lb n="8"/>Aruḷa cantaṇa lai
-                    <lb n="9"/>macāṟā pa va ca kaṟpū
-                    <lb n="10"/><gap reason="lost" quantity="28" unit="character"/>
-                    <lb n="11"/>sūriya viṭai 1 kku pu lā
+                    <lb n="9"/><seg rend="check">ma cā ṟā pa va ca</seg> kaṟpū
+                    <lb n="10"/><gap reason="lost" quantity="1" unit="line"/>
+                    <lb n="11"/><hi rend="grantha">sū</hi>riya viṭai 1 kku pu lā
                     <lb n="12"/>Ālattik kaṟpūram
                     <lb n="13"/>pu vi ka kku Alaṅkā
                     <lb n="14"/>ra tiru mañcaṉamump pa
@@ -115,10 +115,10 @@
                     <lb n="30"/>mām paḻam palāp paḻa
                     <lb n="31"/>mattu kku pu ṅa payaṟṟa
                     <lb n="32"/>tirup paṇiyāram śva
-                    <lb n="33"/>laṅa kkkk pu <gap reason="lost" quantity="1" unit="character"/> pāṉakkam
+                    <lb n="33"/>la ṅa k=ku <gap reason="illegible" quantity="2" unit="character"/> pu <gap reason="lost" quantity="1" unit="character"/> pāṉakkam
                     <lb n="34"/>vellam ṅa Aṭai
                     <lb n="35"/>k kāy Amutu pu vaśva ti
-                    <lb n="36"/><gap reason="lost" quantity="36" unit="character"/> Ōla
+                    <lb n="36"/><gap reason="lost" quantity="9" unit="character"/> Ōla
                     <lb n="37"/>kkam Eṅa nimantā
                     <lb n="38"/>ḷukku pu ka Eri karum
                     <lb n="39"/>pukku pu ka Āka ṉāl ka kku

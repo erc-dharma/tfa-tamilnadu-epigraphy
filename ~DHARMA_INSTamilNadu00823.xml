@@ -83,29 +83,28 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <p>
-                    <lb n="1"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="2"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="3"/><gap reason="lost" quantity="15" unit="character"/> śrī-vīra-pratāpa
-                    <lb n="4"/><gap reason="lost" quantity="11" unit="character"/> paṇṇi Aruḷā niṉ
-                    <lb n="5"/>ptam 1 <gap reason="lost" quantity="3" unit="character"/> mēl cellā niṉṟa
-                    <lb n="6"/>ruṣattu <gap reason="lost" quantity="5" unit="character"/> ṟṟu pūṟva pakṣattu <gap reason="lost" quantity="4" unit="character"/> canik kiḻamai
-                    <lb n="7"/><gap reason="lost" quantity="9" unit="character"/> gaṅkoṇṭa cōḻa maṇṭalattu nakaram
-                    <lb n="8"/>kāñcipuram perumāḷ kōyilil Irukkum pirāmaṇa
-                    <lb n="9"/>ril pōrēṟṟup perumāḷ Eṉ Utaka pūṟva taṉma cāta
-                    <lb n="10"/>m paṇṇik kuṭutta kaṭṭa pākka muṭaiyār maṇṭalam
-                    <lb n="11"/>nasa vēṭṭaiyar Uḷ I U <gap reason="lost" quantity="10" unit="character"/> kāliṅka rāya
-                    <lb n="12"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="13"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="14"/>ḷaiyum nāyaṟṟu kiḻamai : cai kīḻ ru <gap reason="lost" quantity="5" unit="character"/> pakka
-                    <lb n="15"/>nāṉ koṇṭu Uṭaiya ma <gap reason="lost" quantity="3" unit="character"/> paṟṟil conṉa va
-                    <lb n="16"/>ṇṇañ ceyta perumāḷ tiruviṭai Āṭṭam tappā
-                    <lb n="17"/><gap reason="lost" quantity="4" unit="character"/> kollai <gap reason="lost" quantity="38" unit="character"/>
-                    <lb n="18"/>ḷa cakala <gap reason="lost" quantity="38" unit="character"/>
-                    <lb n="19"/><gap reason="lost" quantity="5" unit="character"/> ceytaruḷiṉa <gap reason="lost" quantity="4" unit="character"/> tiru ṉā <gap reason="lost" quantity="2" unit="character"/>
-                    <lb n="20"/><gap reason="lost" quantity="4" unit="character"/> k kāṇi <gap reason="lost" quantity="5" unit="character"/> Utaka pūṟva taṉma tāṉamāka kuṭu <gap reason="lost" quantity="3" unit="character"/>
-                    <lb n="21"/><gap reason="lost" quantity="4" unit="character"/>kuṭutta tirunāmattuk kāṇi <gap reason="lost" quantity="6" unit="character"/>
-                    <lb n="22"/><gap reason="lost" quantity="39" unit="character"/> Ippaṭikku Ivai
-                    <lb n="23"/>pōrēṟṟup perumāḷ Eḻuttu U
+                    <lb n="1"/><gap reason="lost" quantity="3" unit="character"/> <gap reason="illegible" quantity="15" unit="character"/> <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="2"/><gap reason="lost" quantity="3" unit="character"/><gap reason="illegible" quantity="15" unit="character"/> <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="3"/><gap reason="lost" quantity="3" unit="character"/> <hi rend="grantha">śrī</hi>-vīra-pratāpa <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="4"/><gap reason="lost" quantity="3" unit="character"/> paṇṇi Aruḷā niṉ <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="5"/><gap reason="lost" quantity="3" unit="character"/> āptam 1000 <gap reason="lost" quantity="3" unit="character"/> mēl cellā niṉṟa <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="6"/><gap reason="lost" quantity="3" unit="character"/> ruṣattu <gap reason="lost" quantity="5" unit="character"/> ṟṟu pūṟva pakṣattu <gap reason="lost" quantity="4" unit="character"/> canik kiḻamai
+                    <lb n="7"/><gap reason="lost" quantity="3" unit="character"/> <gap reason="illegible" quantity="9" unit="character"/> gaṅkoṇṭa cōḻa maṇṭalattu nakaram
+                    <lb n="8"/><gap reason="lost" quantity="3" unit="character"/> kāñcipuram perumāḷ kōyilil Irukkum pirāmaṇa
+                    <lb n="9"/><gap reason="lost" quantity="3" unit="character"/> ril pōrēṟṟup perumāḷ Eṉ Utaka pūṟva taṉma cāta
+                    <lb n="10"/><gap reason="lost" quantity="3" unit="character"/> m paṇṇik kuṭutta kaṭṭa pākka muṭaiyār maṇṭalam
+                    <lb n="11"/><gap reason="lost" quantity="3" unit="character"/> nasa vēṭṭaiyar Uḷ I U <gap reason="lost" quantity="10" unit="character"/> kāliṅka rāya
+                    <lb n="12"/><gap reason="lost" quantity="3" unit="character"/> <gap reason="illegible" quantity="18" unit="character"/> vanta p <gap reason="lost" quantity="1" unit="character"/>
+                    <lb n="13"/><gap reason="lost" quantity="2" unit="character"/> ḷaiyum nāyaṟṟu kiḻamai : cai kīḻ ru <gap reason="lost" quantity="5" unit="character"/> pakka
+                    <lb n="14"/><gap reason="lost" quantity="2" unit="character"/> nāṉ koṇṭu Uṭaiya ma <gap reason="lost" quantity="3" unit="character"/> paṟṟil conṉa <unclear>va</unclear>
+                    <lb n="15" break="no"/>ṇṇañ ceyta perumāḷ tiruviṭai Āṭṭam tappā
+                    <lb n="16"/><gap reason="lost" quantity="4" unit="character"/> kollai <gap reason="lost" quantity="38" unit="character"/>
+                    <lb n="17"/>ḷa cakala <gap reason="lost" quantity="15" unit="character"/>
+                    <lb n="18"/><gap reason="lost" quantity="8" unit="character"/> ceyt-aruḷiṉa <gap reason="lost" quantity="4" unit="character"/> tiru ṉā <gap reason="lost" quantity="2" unit="character"/>
+                    <lb n="20"/><gap reason="lost" quantity="3" unit="character"/> k kāṇi <gap reason="lost" quantity="5" unit="character"/> Utaka-pūṟva-taṉma-tāṉam-āka kuṭu <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="21"/><gap reason="lost" quantity="8" unit="character"/> kuṭutta tirunāmattu-k kāṇi <gap reason="lost" quantity="6" unit="character"/>
+                    <lb n="22"/><gap reason="lost" quantity="15" unit="character"/> Ippaṭikku Ivai
+                    <lb n="23"/>pōrēṟṟup perumāḷ Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                 </p>
             </div>
             
