@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 1</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, time of <foreign>matirai koṇṭa</foreign> Parakesarivarman, year 37</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -42,7 +42,11 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Sale of a land in Kaṇṇamaṅkalam by eight Brahmins to the god Anantanārāyaṇa Paramasvāmi who graciously lies on the serpent bed (<foreign>aṇai</foreign>) at Tiruvekkā (Tiruveḵkā) in Kaccipēṭu (Kāñcipuram) for the sum of 367 <foreign>kaḻañcu</foreign>s of gold.</summary>
+                        <summary>
+                            <p>A carefully engraved wall inscription recording the sale of a land in Kaṇṇamaṅkalam by eight Brahmins to the god Anantanārāyaṇa Paramasvāmi who graciously lies on the serpent bed (<foreign>aṇai</foreign>) at Tiruvekkā (Tiruveḵkā) in Kaccipēṭu (Kāñcipuram) for the sum of 367 <foreign>kaḻañcu</foreign>s of gold.</p>
+                            <p><bibl><ptr target="bib:ARIE1920-1921"/></bibl>: <quote>north wall of the central shrine.</quote> <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>: <quote><foreign>prākāra</foreign> around the <foreign>garbhagṛha</foreign>, on the northern wall.</quote></p>
+                        
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -181,6 +185,8 @@
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
                 
                 <p>This revised digital edition by Emmanuel Francis based on photos (Babu N. Ramaswamy, 2024).</p>
+                
+                <p>ASI transcript and estampage yet to be consulted.</p>
                 
                 <listBibl type="primary">
                     
