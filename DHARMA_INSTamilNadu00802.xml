@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 2</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, time of Rājendre Cōḻa, year 20</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -43,7 +43,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>
+                            <p>A carefully engraved wall inscription recording the donation after sale of one <foreign>tūṇi</foreign> of land by a group of Brahmins and merchants from the <foreign>mānakaram</foreign> of Kāñcipuram to the god Anantanārāyaṇa Paramasvāmi who graciously lies on the serpent bed (<foreign>aṇai</foreign>) at Tiruvekkā (Tiruveḵkā) for the sum of 127 <foreign>kaḻañcu</foreign>s of gold.</p>
+                            <p>On the south wall of the central shrine according to <bibl><ptr target="bib:ARIE1920-1921"/></bibl>. <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>: <quote><foreign>prākāra</foreign> around the <foreign>garbhagṛha</foreign>, on the northern wall.</quote></p>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -130,7 +133,7 @@
                     Ituvē poruḷ māva
                     <lb n="25" break="no"/>ṟuti-p poruṭ cela-<choice><orig>Ō</orig><reg>v-ō</reg></choice>lai Āvat’ āka Iru-kāl-āvatu mu-k-kāl-āvatum vilai <seg rend="check">ya</seg><!--EF: y vi?-->
                     <lb n="26" break="no"/>ṟṟu-k kuṭuttōm tiru-vekkā-v-aṇai-k kiṭant-aruḷiṉa parama-<hi rend="grantha">svā</hi>mikaḷukku
-                    <lb n="27"/><hi rend="grantha">śrī</hi>-kāñci-mā-nakarattu Ivvaṉaivōmm-āṉa k<hi rend="grantha">r</hi>āma paṇikka Eḻutiṉēṉ nakka<seg rend="check">ṉ <gap reason="lost" quantity="1" unit="character"/></seg>
+                    <lb n="27"/><hi rend="grantha">śrī</hi>-kāñci-mā-nakarattu Ivvaṉaivō<choice><orig>mm</orig><reg>m</reg></choice>-āṉa k<hi rend="grantha">r</hi>āma paṇikka Eḻutiṉēṉ nakka<seg rend="check">ṉ <gap reason="lost" quantity="1" unit="character"/></seg>
                     <lb n="28" break="no"/>kku vi<hi rend="grantha">ṣṇu</hi>-malaiyāṉ māṉakā<unclear>ma</unclear>ṅkalōttamaṉ-ēṉ
                 </p>
                 <p>
@@ -178,9 +181,9 @@
                     </app>
                     <app loc="19">
                         <lem>Irupatt’ e<unclear>ṭṭu kaḻa</unclear>ñcu
-                    <lb n="20" break="no"/>m</lem>
+                            <lb n="20" break="no"/>m</lem>
                         <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">Irupattañcu
-                    <lb n="20" break="no"/>m</rdg>
+                            <lb n="20" break="no"/>m</rdg>
                     </app>
                     <app loc="26">
                         <lem>kiṭant-aruḷiṉa parama-<hi rend="grantha">svā</hi>mikaḷukku</lem>
@@ -207,7 +210,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
                 
-                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
+                <p>This revised digital edition by Emmanuel Francis based on photos (Babu N. Ramaswamy, 2024).</p>
                 
                 <p>ASI transcript and estampage yet to be consulted.</p>
                 
