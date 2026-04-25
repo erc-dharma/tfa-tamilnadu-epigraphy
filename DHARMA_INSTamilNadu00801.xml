@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 1</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:vija">
+                        <name>G. Vijayavenugopal</name>
+                    </persName><persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00801</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Emmanuel Francis.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Sale of a land in Kaṇṇamaṅkalam by eight Brahmins to the god Anantanārāyaṇa Paramasvāmi who graciously lies on the serpent bed (<foreign>aṇai</foreign>) at Tiruvekkā (Tiruveḵkā) in Kaccipēṭu (Kāñcipuram) for the sum of 367 <foreign>kaḻañcu</foreign>s of gold.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2026-04-19" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                <p>
+                    matirai koṇṭa kō-p-parakē<hi rend="grantha">sa</hi>ri-paṉmaṟku yāṇṭu <num value="37">3 <g type="numeral">10</g> 7</num> Āvatu
+                </p>
+                <p>
+                    Eyiṟ-kōṭṭattu Eyil-nāṭṭu-k ka
+                    <lb n="2" break="no"/>ṇṇa-maṅkalattu Ūrōm Ivv-ūr muṭittalai kiḻavaṉ māṇikka-<hi rend="grantha">śa<unclear>r</unclear>mma</hi>ṉum Attaṇaṅ kiḻavaṉ kana<unclear>ka</unclear>c<unclear>e</unclear><hi rend="grantha">kha</hi>ra
+                    <lb n="3" break="no"/>-<hi rend="grantha">śarmma</hi>ṉum muṭittalai kiḻavaṉ paṭṭa-<hi rend="grantha">śa<unclear>r</unclear>mma</hi>
+                    <lb n="4" break="no"/>ṉum Ik-kuṭi-t tirumalaṅ kiḻavaṉ nārāya
+                    <lb n="5" break="no"/>ṇa-<hi rend="grantha">bha</hi>ṭṭaṉum Ik-kuṭi-k kampa-<hi rend="grantha">śarmma</hi>ṉum Ik-kuṭi nārā
+                    <lb n="6" break="no"/>yaṇa-<hi rend="grantha">bha</hi>ṭṭaṉum vayaluḻāṉ Aṅkāṭi-<hi rend="grantha">śarmma</hi>ṉum kaḷattu
+                    <lb n="7" break="no"/>ḻāṉ nīlaka<hi rend="grantha">ṇṭha-śarmma</hi>ṉum Ivvaṉaivōm Eṅkaḷ pūmi-y-āṉa kaṇṇa-maṅ                    
+                    <lb n="8" break="no"/>kalam nila-vilai-y-āvaṇa-k kai<choice><orig>-E</orig><reg>y-e</reg></choice>ḻuttu kacci-p-pēṭṭu-t tiru-vekkā-v-a
+                    <lb n="9" break="no"/>ṇai-k kiṭant-aruḷiṉa Aṉanta-nārāyaṇa-parama-<hi rend="grantha">svāmi</hi>kku viṟṟu-k kuṭukkiṟa nilam 
+                    <list>
+                        <item>kīḻ-pāṟ
+                            <lb n="10" break="no"/>k’ ellai tiru-v-attiyūr Ellaikku mēṟku vekkā-v-āṟu tuṭaṅki vaṭakku nōkki-p pōki
+                            <lb n="11" break="no"/>ṟa vatikku mēṟkum</item>
+                        <item>teṉ-pāṟk’ ellai vekkā-v-āṟṟukku vaṭakkum</item>
+                        <item>mēl-pāṟk’ el
+                            <lb n="12" break="no"/>lai patt<choice><unclear>a</unclear><unclear>i</unclear></choice>ṉa-p pāṭi Ellaikku kiḻakkum</item>
+                        <item>vaṭa-pāṟk’ ellai karumpuḻāṉ viḷākattu
+                            <lb n="13"/>muṭittalai kiḻavaṉ Uṭaiya paḷḷi-p-paṭṭiyi n<choice><orig>i</orig><reg>ī</reg></choice>r pāyuṅ kālukku-t teṟkum</item>
+                    </list>
+                    tiru-v-attiyū
+                    <lb n="14" break="no"/>r Ellaiyuḷ Eṅkaḷ kaṇṇa-maṅkala-t-tēttamāṉa k<choice><orig>i</orig><reg>ī</reg></choice>ḻai-Araiyum mēlai-y-araiyum
+                    <lb n="15"/>Uṭpaṭṭa Iṉ-ṉāṟ-pāṟk’ ellai-y-uḷḷum Uḷ-nilam oḻiv’ iṉṟi Oṭump’ ōṭi Āmai nakuntatum kuḷamum koṭ
+                    <lb n="16" break="no"/>ṭakāramum n<choice><orig>i</orig><reg>ī</reg></choice>r-nilamum kollaiyum maṉaiyum maṉai-p-paṭappaiyum kaṉṟu-mēy-kaḻaniyum n<choice><orig>i</orig><reg>ī</reg></choice>r pōṉa vā
+                    <lb n="17" break="no"/>ykkālum mēṉōkkiya maramu<unclear>m</unclear> kīṇōkkiya kiṇaṟu<supplied reason="subaudible">m</supplied> mīṉ-paṭu paḷḷamum tēṉ-paṭu pottamu-<unclear>k</unclear>-kā
+                    <lb n="18" break="no"/>ṭum Uṭpaṭa Eppērpaṭṭa nilam Uḷ-nilam Oḻiv’ iṉṟi viṟṟu Emmil icainta poṉ kācu kalaṉ <gap reason="illegible" quantity="3" unit="character"/>
+                    <lb n="19"/>muṉṉūṟṟ’ aṟupatt’ eḻu kaḻañcum kiḻi y-aṟa-k kai-k-koṇṭu tiru-vekkā-v-aṇai-k kiṭant-aruḷiṉa Ananta-nār
+                    <lb n="20" break="no"/>āyaṇa-p-parama-<hi rend="grantha">svāmi</hi>kku viṟṟu-k kuṭuttōm kaṇṇa-maṅkalattu Ūravarōm
+                </p>
+                <p>
+                    Eṅkaḷ karumpuḻāṉ vi
+                    <lb n="21" break="no"/>ḷākattukku n<choice><orig>i</orig><reg>ī</reg></choice>r pānta kāl kaṇṇa-maṅkalattukku mēl n<choice><orig>i</orig><reg>ī</reg></choice>r muṟaimai y-āvat’ āka Ip-paric’ oṭṭi Emmil icai
+                    <lb n="22" break="no"/>nta poruḷ <num value="367">3 <g type="numeral">100</g> 6 <g type="numeral">10</g> 7</num> kaḻañcum kai-k-koṇṭu tiru-vekkā-v-aṇai-k kiṭant-aruḷiṉa Aṉanta<surplus>nta</surplus>-nārāyaṇa-parama
+                    <lb n="23" break="no"/><space type="defect"/>-<hi rend="grantha">svāmi</hi>kku viṟṟu-k kuṭuttōm kaṇṇa-maṅkalatt’ ūrōm
+                </p>
+                <p>
+                    Ituvē poruḷ māvaṟuti-p poruṭ celav-ōlai y-ā
+                    <lb n="24" break="no"/>vat’ ākavum
+                </p>
+                <p>Iru-kāl-āvatu mu-k-kāl-āvatum Emmil icainta poṉ ki<unclear>ḻ</unclear>i maṟa-k kai-k-koṇṭu tiru-vekk<surplus>i</surplus>ā-v-aṇai
+                    <lb n="25" break="no"/>-k kiṭant-aruḷiṉa parama-<hi rend="grantha">svāmi</hi>kku v<unclear>i</unclear>ṟṟu-k kuṭuttōm kaṇṇa-maṅkalattu Ūrōm
+                </p>
+                <p>
+                    Ivarkaḷ paṇiyāl nila
+                    <lb n="26" break="no"/>-vilai-y-āvaṇam Eḻutiṉēṉ kaṇṇa-maṅkalam-uṭaiyāṉ Aruḷāḷaṉ pērāyiram-uṭaiyāṉ-ēṉ
+                </p>
+                <p>
+                    Ivai
+                    <lb n="27"/>Eṉ Eḻuttu <g type="punctuation" ref="sym:dashLong">.</g>
+                </p>
+            </div>
+            
+            <div type="apparatus">
+                <listApp>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
+                    </app>
+                    <app loc="6">
+                        <lem>vayaluḻāṉ</lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">vaya<gap reason="lost" quantity="2" unit="character"/>ḻāṉ</rdg>
+                    </app>
+                    <app loc="13">
+                        <lem>teṟkum</lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">teṟku</rdg>
+                    </app>  
+                    <app loc="19">
+                        <lem>aṟupatt’ eḻu</lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">aṟupat keḻu</rdg>
+                    </app>
+                    <app loc="19">
+                        <lem>Ananta</lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">Aṉanta</rdg>
+                    </app>
+                    
+                </listApp>
+            </div>
+            
+            <div type="translation">
+                
+            </div>
+            
+            <div type="commentary">
+                <p n="3-14">The text is interrupted by two pilasters projecting from the wall surface.</p>
+                <p n="15-27">The text is also engraved on the two pilasters projecting from the wall surface.</p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/21).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
+                
+                <p>This revised digital edition by Emmanuel Francis based on photos (Babu N. Ramaswamy, 2024).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="V1">
+                        <ptr target="bib:Vicayavenukopal+Iramacami2024_01"/>
+                        <citedRange unit="page">1-3</citedRange>
+                        <citedRange unit="item">1</citedRange>
+                    </bibl>
+                    <bibl n="V2">
+                        <ptr target="bib:Vijayavenugopal+al2026_01"/>
+                        <citedRange unit="page">3-6</citedRange>
+                        <citedRange unit="item">1</citedRange>
+                    </bibl>
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1920-1921"/>
+                        <citedRange unit="page">59</citedRange>
+                        <citedRange unit="appendix">C/1921</citedRange>
+                        <citedRange unit="item">21</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
