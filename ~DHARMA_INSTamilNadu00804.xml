@@ -43,7 +43,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>
+                            <p>Fragment.</p>
+                            <p><bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>: <quote>outer <foreign>prākāra</foreign>, southern <foreign>mahāmaṇḍapa</foreign> wall base, and <foreign>jagati</foreign>.</quote></p>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -83,15 +86,20 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <p>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> raiyaṉ rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>ṉ ce <gap reason="lost" quantity="1" unit="character"/> va <gap reason="lost" quantity="1" unit="character"/> ttu <hi rend="grantha">brāhma</hi>ṇan Oṉpatu <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> raiyaṉ rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>ṉ <seg rend="check">ce <gap reason="lost" quantity="1" unit="character"/> va <gap reason="lost" quantity="1" unit="character"/> ttu<!--EF: tēvārattu--></seg> <hi rend="grantha">brāhma</hi>ṇan Oṉpatu <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> ṉ cey nilaṅ kku vilai pattu-k kācu nāṟpatu kai <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> nilaṅkaḷ Ellai <gap reason="lost" quantity="3" unit="character"/> tta kācu nūṟu Ik-kācu nūṟum tiru-ve+kā Āḻvār <gap reason="illegible" quantity="3" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> ceytu kuṭuttōm rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">jentra</hi>-caruppēti-maṅkalattu <hi rend="grantha">mahā-sabhai</hi>yōm I <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> nilaṅkaḷ Ellai <gap reason="lost" quantity="3" unit="character"/> tta kācu nūṟu Ik-kācu nūṟum tiru-veḵkā Āḻvār <unclear cert="low">paṇṭ</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> ceytu kuṭuttōm rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-caruppēti-maṅkalattu <hi rend="grantha">mahā-sabhai</hi>yōm I <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
             </div>
             
             <div type="apparatus">
-                
+                <listApp>
+                    <app loc="3">
+                        <lem>tiru-veḵkā</lem>
+                        <note>The <foreign>āytam</foreign> is represented by a character resembling x.</note>
+                    </app>
+                </listApp>
             </div>
             
             <div type="translation">
@@ -99,7 +107,7 @@
             </div>
             
             <div type="commentary">
-                
+                <p>Further right on the same base is another fragment (<ref target="DHARMA_INSTamilNadu00810"/>), which is possibly its continuation.</p>
             </div>
             
             <div type="bibliography">

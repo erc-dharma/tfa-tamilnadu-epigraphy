@@ -43,7 +43,9 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Fragment.</summary>
+                        <summary>
+                            <p>Fragment.</p>
+                            <p><bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>: <quote>outer <foreign>prākāra</foreign>, south side,  <foreign>mahāmaṇḍapa</foreign> wall base, on the <foreign>jagati</foreign>.</quote></p></summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -97,7 +99,7 @@
             </div>
             
             <div type="commentary">
-                
+                <p>Before on the left on the same base is another fragment (<ref target="DHARMA_INSTamilNadu00803"/>), which is possibly its beginning.</p>
             </div>
             
             <div type="bibliography">
