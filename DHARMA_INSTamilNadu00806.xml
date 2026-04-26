@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 6</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, time of Kulottuṅga Cōḻa, year 6</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -43,7 +43,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>
+                            <p></p>
+                            <p>On the base of east wall of the central shrine.</p>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -86,15 +89,16 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 <p>
-                    tripuvaṉa-c-cakra-vatti ku cōḻa-tēvarkku yā<unclear>ṇ</unclear>ṭu 6 vatu mēca-nāyaṟṟu pūrva-pakṣattu <gap reason="lost" quantity="5" unit="character"/> peṟṟa <gap reason="lost" quantity="4" unit="character"/> jayaṅ-koṇṭa-cōḻa
-                    <lb n="2" break="no"/>-maṇṭalattu <hi rend="grantha">śrī</hi>-kāñcipurattu Ananta-nārāyaṇa-svāmikku cēraṉai venṟa cōḻa kumāraṉum mānaṅ kāttān Amu taṭuvārōm <gap reason="lost" quantity="3" unit="character"/> tu taṟai
-                    <lb n="3"/><gap reason="lost" quantity="6" unit="character"/> Inta cuvāmi tiru-maṭai-viḷākam tiru-nāmattu-k-kāṇi cannatikku vaṭakku <gap reason="lost" quantity="3" unit="character"/> tta mēl vāṭai kīḻ <gap reason="lost" quantity="3" unit="character"/> taikaḷum
+                    tripuvaṉa-c-cak<hi rend="grantha">ra</hi>-vatti <expan><abbr>ku</abbr><ex>lōttuṅka</ex></expan>-cōḻa-tēvarkku yā<unclear>ṇ</unclear>ṭu 6 vatu mēca-nāyaṟṟu pūrva<!--EF: possibly Grantha, not visible on photos-->-pa<hi rend="grantha">kṣa</hi>ttu <gap reason="lost" quantity="10" unit="character"/> peṟṟa <gap reason="lost" quantity="5" unit="character"/>
+                </p>
+                <p>
+                    jayaṅ-koṇṭa-cōḻa
+                    <lb n="2" break="no"/>-maṇṭalattu <hi rend="grantha">śrī</hi>-kāñcipurattu Ananta-nārāyaṇa-<hi rend="grantha">svā</hi>mikku cēraṉai venṟa cōḻa kumāra<choice><orig>n</orig><reg>ṉ</reg></choice>u<supplied reason="subaudible">m</supplied> mānaṅ kāttān <seg rend="check">Amu</seg> taṭuvārōm <gap reason="illegible" quantity="3" unit="character"/> tu taṟai
+                    <lb n="3"/><gap reason="illegible" quantity="6" unit="character"/> Inta cuvāmi tiru-maṭai-viḷākam tiru-nāmattu-k-kāṇi cannatikku vaṭakku <gap reason="lost" quantity="2" unit="character"/> tta mēl vāṭai kīḻ <gap reason="lost" quantity="3" unit="character"/> taikaḷum
                     
-                    <!--Where are lines 4-6 on the photos?-->
-                    
-                    <lb n="4"/>ṉaiya <gap reason="lost" quantity="4" unit="character"/> teṟku mutal vaṭakkun teṟku <gap reason="lost" quantity="3" unit="character"/> tiru-k-kāṇi-y-āka-t tiru-k-kaiyālē tarukayil Inta devarkku tiruvaparaṇam <gap reason="lost" quantity="3" unit="character"/> tayum naṭat
-                    <lb n="5"/>ta namakku vilai <gap reason="lost" quantity="4" unit="character"/> cantiyum
-                    <lb n="6"/>veṭṭi kuṭuttōm Itai
+                    <lb n="4"/>ṉaiya <gap reason="lost" quantity="4" unit="character"/> teṟku mutal vaṭakkun teṟku <gap reason="lost" quantity="3" unit="character"/> tiru-k-kāṇi-y-āka-t tiru-k-kaiyālē tarukayil Inta <hi rend="grantha">de</hi>varkku tiruvaparaṇam <seg rend="check"><gap reason="lost" quantity="3" unit="character"/> tayum</seg><!--EF:curupinpum--> naṭat
+                    <lb n="5"/>ta namakku vilai <gap reason="lost" quantity="4" unit="character"/> cantiyum <seg rend="check"><gap reason="illegible" extent="unknown" unit="character"/><!--more to read on photos--></seg>
+                    <lb n="6"/>veṭṭi kuṭuttōm Itai <seg rend="check"><gap reason="illegible" extent="unknown" unit="character"/><!--more to read on photos--></seg>
                 </p>
             </div>
             
@@ -107,7 +111,7 @@
             </div>
             
             <div type="commentary">
-                
+                <p>The lines 4-6 are on the surface perpendicular above the surface engraved with lines 1-3.</p>
             </div>
             
             <div type="bibliography">
@@ -116,7 +120,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
                 
-                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
+                <p>This revised digital edition by Emmanuel Francis based on photos (Babu N. Ramaswamy, 2024).</p>
                 
                 <listBibl type="primary">
                     

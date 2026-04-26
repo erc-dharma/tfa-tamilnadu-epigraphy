@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 5</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, no king, no year</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -43,7 +43,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>
+                            <p>A fragment of the <foreign>meykkīrtti</foreign> of Vīra Rājendra Cōḻa (first fragment) and description of the boundaries of given land (second fragment). King’s name and year lost, if any.</p>
+                            <p>On the <foreign>jagati</foreign> of the north base.</p>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -87,19 +90,19 @@
                     
                     <p>
                         
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> vu kāṇātu Avaṟ colliya nāḷin mēl Oru tiṅkaḷ pāttirunta pinnai pē <gap reason="lost" quantity="4" unit="character"/> va <gap reason="lost" quantity="5" unit="character"/> yum mūvarun tanittani mutukiṭap porutu Ira <gap reason="lost" quantity="4" unit="character"/> Ēḻarai Ilakkamum muraṭṭeḻi
-                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> ṭakki muḻaṅkeri yūṭṭi veṅkatap puli Ēṟa viyantu viḷaiyāṭa tuṅka pattirai <gap reason="lost" quantity="4" unit="character"/> piraṭṭanai valla <gap reason="lost" quantity="4" unit="character"/> cuntarak kaṇṭikai cūṭṭiṭuṅ kaḷattā <gap reason="lost" quantity="3" unit="character"/> tan puri
-                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> ḻaikkaiyil piḻait ti <gap reason="lost" quantity="4" unit="character"/> ṟiya Ōṭina paricoru pala <gap reason="lost" quantity="3" unit="character"/> ṭṭip pērttut tān kai koṇṭa vēṅkaitan <gap reason="lost" quantity="2" unit="character"/> mīṭṭuk koṇṭa
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> vu kāṇātu Avaṟ colliya nāḷin mēl Oru tiṅkaḷ pāttirunta pi<choice><orig>nn</orig><reg>ṉṉ</reg></choice>ai pē <gap reason="lost" quantity="2" unit="character"/> va <gap reason="lost" quantity="20" unit="character" precision="low"/> <unclear>yum</unclear> m<choice><orig>u</orig><reg>ū</reg></choice>varun ta<choice><orig>n</orig><reg>ṉ</reg></choice>itta<choice><orig>n</orig><reg>ṉ</reg></choice>i mutukiṭa-p porutu <unclear>Ira</unclear> <gap reason="lost" quantity="3" unit="character"/> Ēḻ-arai Ilakkamum muraṭṭ<choice><sic>e</sic><corr>o</corr></choice>ḻi <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> ṭakki muḻaṅkeri yūṭṭi veṅkata-p-puli Ēṟa viyantu viḷaiyāṭa tuṅka-pa<unclear>ttirai</unclear> <gap reason="lost" quantity="20" unit="character" precision="low"/> piraṭṭa<choice><orig>n</orig><reg>ṉ</reg></choice>ai valla <gap reason="lost" quantity="4" unit="character"/> <unclear>cuntara</unclear>-k kaṇṭikai cūṭṭi ku kaḷattā <gap reason="illegible" quantity="10" unit="character"/> tan puri <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> ḻaikkaiyil pi<unclear>ḻ</unclear>ai<unclear>t ti</unclear> <gap reason="lost" quantity="5" unit="character"/> ṟiya Ōṭi<choice><orig>n</orig><reg>ṉ</reg></choice>a paricoru pala<unclear>kai</unclear> <gap reason="lost" quantity="25" unit="character" precision="low"/> ṭṭi-p pērttu-t tān kai koṇṭa vēṅkainaṉ mīṭṭuk <unclear>koṇṭa</unclear> <gap reason="lost" extent="unknown" unit="character"/>
                     </p>
                 </div>
                 
-                <div type="textpart" n="B"><head>Seconf fragment</head>
+                <div type="textpart" n="B"><head>Second fragment</head>
                     
                     <p>
                         
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> k’ ellai pañcavan-mātēvi-vatikku mēṟkum mēl-pāṟk’ ellai kō <gap reason="lost" quantity="4" unit="character"/> mātēvar kōyil
-                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> kiḻakkum ten-pāṟk’ellai vikkirama-cōḻa-p-perun-teru <gap reason="lost" quantity="2" unit="character"/> vaṭakkum vaṭa-pāṟk’ ellai pirama <gap reason="lost" quantity="4" unit="character"/> mātēvar kōyi
-                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> kum In-nāṟ-pāṟk’ ellai v-uṭpaṭa nila mikuti-k kuṟai <gap reason="lost" quantity="20" unit="character"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> pāṟk’ ellai pañcava<choice><orig>n</orig><reg>ṉ</reg></choice>-mātēvi-vatikku mēṟkum mēl-pāṟk’ ellai kō <gap reason="lost" quantity="10" unit="character" precision="low"/> mātēvar kōyil <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> kiḻakkum te<choice><orig>n</orig><reg>ṉ</reg></choice>-pāṟk’ellai vikkirama-cōḻa-p-perun-teru <gap reason="lost" quantity="2" unit="character"/> vaṭakkum vaṭa-pāṟk’ ellai pirama <gap reason="lost" quantity="4" unit="character"/> mātēvar kōyi<unclear>l</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <unclear cert="low">kku-t teṟ</unclear>kum In-nāṟ-pāṟk’ ellai v-uṭpaṭa nila mikuti-k kuṟai <gap reason="lost" quantity="20" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
                     </p>
                 </div>
                 
@@ -123,7 +126,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
                 
-                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
+                <p>This revised digital edition by Emmanuel Francis based on photos (Babu N. Ramaswamy, 2024).</p>
                 
                 <listBibl type="primary">
                     
