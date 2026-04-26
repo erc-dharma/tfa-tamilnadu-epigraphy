@@ -44,7 +44,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            <p>Lacunose inscription in three fragments. Time of Rājendra II Cōḻa, whose <foreign>meykkīrtti</foreign> is found a the beginning of the first fragment.</p>
+                            <p>Lacunose inscription in three fragments. Each line appears to be read in continuty with the corresponding line of the other fragments. Time of Rājendra II Cōḻa, whose <foreign>meykkīrtti</foreign> is found a the beginning of the first fragment.</p>
                             <p>On the <foreign>jagati</foreign> of the north base.</p>
                         </summary>
                     </msContents>
@@ -100,8 +100,8 @@
                         <l n="6">vi<hi rend="grantha">jai</hi>ya-A<hi rend="grantha">bhiṣe</hi>kam paṇṇi</l>
                         <l n="7">vīra-ciṅkācaṉat=tu vīṟṟirun=t-aruḷiṉa</l>
                     </lg>
-                    <p>kō-p-parakēcari-pa<hi rend="grantha">nma</hi>r-ā<unclear>ṉa</unclear> <gap reason="lost" quantity="10" unit="character" precision="low"/> <unclear>yā</unclear>ṇṭu 7 Āvatu kāṭuveṭṭikaḷ nilaṉ ku<unclear>ṭi</unclear> tāṅkiyār <gap reason="lost" quantity="4" unit="character"/> yār mu<supplied reason="lost">m</supplied>maṭi-cōḻa-tēva <gap reason="illegible" quantity="4" unit="character"/> yār kuṭi tāṅki <hi rend="grantha">ja</hi>nakiyār-āṉa vaṉava<choice><orig>n</orig><reg>ṉ</reg></choice>-mātēviyār tiru-vekkā Āḻvārkku ce <seg rend="check"><gap reason="lost" quantity="5" unit="character"/><!--EF: ceyva cāttva--></seg> vitt-aruḷiṉa tiru-p pa <gap reason="illegible" quantity="11" unit="character"/> taitta poṟ pū <gap reason="lost" quantity="2" unit="character"/>
-                        <lb n="A2"/>vaṭa kuṭiñaṟ kal 5 poṟ-kācu <gap reason="lost" quantity="7" unit="character"/> Itil <gap reason="illegible" quantity="6" unit="character"/> <unclear>ku</unclear>ṟak=kum muttu-k <gap reason="illegible" quantity="4" unit="character"/> <num value="67">6 <g type="numeral">10</g> 7</num> ce <g type="tam-nilam"/> <g type="numeral">100</g> ṅ <gap reason="illegible" quantity="6" unit="character"/> <unclear>ku</unclear>ṟakkum <gap reason="illegible" quantity="13" unit="character"/> nay <gap reason="lost" quantity="3" unit="character"/> kkum <gap reason="illegible" quantity="10" unit="character"/> <g type="nilam"/> <gap reason="illegible" quantity="70" unit="character" precision="low"/> ṉāl kuṭiñaṟ kal <unclear>3</unclear> kaṇṭa vaṇi yokk<unclear>u</unclear>m <gap reason="illegible" quantity="10" unit="character"/>
+                    <p>kō-p-parakēcari-pa<hi rend="grantha">nma</hi>r-ā<unclear>ṉa</unclear> <gap reason="lost" quantity="10" unit="character" precision="low"/> <unclear>yā</unclear>ṇṭu 7 Āvatu kāṭuveṭṭikaḷ nilaṉ ku<unclear>ṭi</unclear> tāṅkiyār <gap reason="lost" quantity="4" unit="character"/> yār mu<supplied reason="lost">m</supplied>maṭi-cōḻa-tēva <gap reason="illegible" quantity="4" unit="character"/> yār kuṭi tāṅki <hi rend="grantha">ja</hi>nakiyār-āṉa vaṉava<choice><orig>n</orig><reg>ṉ</reg></choice>-mātēviyār tiru-vekkā Āḻvārkku ce <seg rend="check"><gap reason="lost" quantity="5" unit="character"/><!--EF: ceyva cāttva?--></seg> vitt-aruḷiṉa tiru-p pa <gap reason="illegible" quantity="11" unit="character"/> taitta poṟ-pū <gap reason="lost" quantity="2" unit="character"/>
+                        <lb n="A2"/>vaṭa kuṭiñaṟ kal 5 poṟ-kācu <gap reason="lost" quantity="7" unit="character"/> Itil <gap reason="illegible" quantity="6" unit="character"/> <unclear>ku</unclear>ṟak=kum muttu-k <gap reason="illegible" quantity="4" unit="character"/> <num value="67">6 <g type="numeral">10</g> 7</num> ce <g type="tam-nilam"/> <g type="numeral">100</g> ṅ <gap reason="illegible" quantity="6" unit="character"/> <unclear>ku</unclear>ṟakkum <gap reason="illegible" quantity="13" unit="character"/> nay <gap reason="lost" quantity="3" unit="character"/> kkum <gap reason="illegible" quantity="10" unit="character"/> <g type="tam-nilam"/> <gap reason="illegible" quantity="70" unit="character" precision="low"/> ṉāl kuṭiñaṟ kal <unclear>3</unclear> kaṇṭa vaṇi yokk<unclear>u</unclear>m <gap reason="illegible" quantity="10" unit="character"/>
                         <lb n="A3"/><gap reason="lost" quantity="1" unit="line"/>
                     </p>                    
                 </div>
@@ -116,7 +116,7 @@
                 
                 <div type="textpart" n="C"><head>Third fragment</head>
                     <p>
-                        <lb n="C1"/><gap reason="lost" extent="unknown" unit="character"/> vēḷānum puravu-vari<space type="unclassified"/>-tiṇai-k-kaḷattu <gap reason="illegible" quantity="5" unit="character"/> <gap reason="lost" quantity="15" unit="character"/> muṭi-koṇṭa-cōḻa-p-pallavarayanum perum pēr-uṭaiyāṉ <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="C1"/><gap reason="lost" extent="unknown" unit="character"/> vēḷānum puravu-vari-tiṇai-k-kaḷattu <gap reason="illegible" quantity="5" unit="character"/> <gap reason="lost" quantity="15" unit="character"/> muṭi-koṇṭa-cōḻa-p-pallavarayanum perum pēr-uṭaiyāṉ <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="C2"/><gap reason="lost" extent="unknown" unit="character"/> <unclear cert="low">pañca</unclear>vaṉ m<choice><orig>u</orig><reg>ū</reg></choice>vēn=tavē <gap reason="illegible" quantity="10" unit="character"/> <gap reason="lost" quantity="15" unit="character"/> <gap reason="illegible" quantity="20" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
                     </p>
                 </div>
@@ -138,7 +138,7 @@
                         <app loc="A1">
                             <lem>vaṉava<choice><orig>n</orig><reg>ṉ</reg></choice>mātēviyār</lem>
                             <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">mātēviyār</rdg>
-                        </app>
+                        </app>                        
                     </listApp>
                 </div>
                 
@@ -158,7 +158,7 @@
                 
                 <div type="textpart" n="C"><head>Third fragment</head> 
                     <listApp>
-                        <app loc="">
+                        <app loc="0">
                             <lem></lem>
                             <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
                         </app>

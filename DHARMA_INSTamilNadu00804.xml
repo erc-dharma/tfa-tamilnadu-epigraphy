@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 4</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, no king, no year</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -44,8 +44,8 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            <p>Fragment.</p>
-                            <p><bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>: <quote>outer <foreign>prākāra</foreign>, southern <foreign>mahāmaṇḍapa</foreign> wall base, and <foreign>jagati</foreign>.</quote></p>
+                            <p>Fragment. King and year lost, if any.</p>
+                            <p>On the <foreign>jagati</foreign> of the north base.</p>
                         </summary>
                     </msContents>
                     <physDesc>
@@ -86,15 +86,20 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <p>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> raiyaṉ rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>ṉ <seg rend="check">ce <gap reason="lost" quantity="1" unit="character"/> va <gap reason="lost" quantity="1" unit="character"/> ttu<!--EF: tēvārattu--></seg> <hi rend="grantha">brāhma</hi>ṇan Oṉpatu <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> ṉ cey nilaṅ kku vilai pattu-k kācu nāṟpatu kai <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> nilaṅkaḷ Ellai <gap reason="lost" quantity="3" unit="character"/> tta kācu nūṟu Ik-kācu nūṟum tiru-veḵkā Āḻvār <unclear cert="low">paṇṭ</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> raiyaṉ rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>ṉ <unclear>tēvārattu</unclear> <hi rend="grantha">brāhma</hi>ṇan Oṉpatu <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> ṉ cey nilaṅ <seg rend="check">kku</seg> vilai pattu-k kācu nāṟpatu kai <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> nilaṅkaḷ Ellai <gap reason="lost" quantity="1" unit="character"/> tta kācu nūṟu Ik-kācu nūṟum tiru-veḵkā Āḻvār <unclear cert="low">paṇṭ</unclear> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> ceytu kuṭuttōm rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-caruppēti-maṅkalattu <hi rend="grantha">mahā-sabhai</hi>yōm I <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
             </div>
             
             <div type="apparatus">
                 <listApp>
+                    <app loc="1">
+                        <lem><unclear>tēvārattu</unclear></lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">ce <gap reason="lost" quantity="1" unit="character"/> va <gap reason="lost" quantity="1" unit="character"/> ttu</rdg>                        
+                    </app>
+                    
                     <app loc="3">
                         <lem>tiru-veḵkā</lem>
                         <note>The <foreign>āytam</foreign> is represented by a character resembling x.</note>
