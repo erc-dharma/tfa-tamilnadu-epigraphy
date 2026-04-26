@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 3</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, time of Parakesarivarman, year 7</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -43,7 +43,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>
+                            <p>Lacunose inscription in three fragments. Time of Rājendra II Cōḻa, whose <foreign>meykkīrtti</foreign> is found a the beginning of the first fragment.</p>
+                            <p>On the <foreign>jagati</foreign> of the north base.</p>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -85,31 +88,82 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <div type="textpart" n="A"><head>First fragment</head>                    
-                    <p>                        
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> Iraṭṭa-pāṭi Ēḻ-arai Ilakkamu<supplied reason="lost">ṅ</supplied> koṇṭu pērāṟṟaṅkarai-k koppattu Ākava-mallaṉai Añcuvittavaṉ Āṉaiyuṅ kutiraiyum peṇṭir paṇṭāramuṅ koṇṭu vi<hi rend="grantha">jai</hi>ya-A<hi rend="grantha">bhiṣe</hi>kam paṇṇi vīra-ciṅkācaṉattu vīṟṟirunt-aruḷiṉa kō-p-parakēcari-panma <gap reason="lost" quantity="7" unit="character"/> yāṇṭu 7 Āvatu kāṭuveṭṭikaḷ nīlaṉ tāṅkiyār mummaṭi-cōḻa-tēva <gap reason="lost" quantity="4" unit="character"/> yār kuṭitāṅki janakiyārāṉa mātēviyār tiru-vekkā Āḻvārkku ce <gap reason="lost" quantity="7" unit="character"/> vitt-aruḷiṉa tiru-p pa <gap reason="lost" quantity="4" unit="character"/> taitta poṟ pū <gap reason="lost" quantity="3" unit="character"/>
-                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> vaṭa kuṭiñaṟ kal ru poṟkācu <gap reason="lost" quantity="9" unit="character"/> Itil <gap reason="lost" quantity="3" unit="character"/> kuṟikkum muttuk <gap reason="lost" quantity="3" unit="character"/> <num value="67">6 <g type="numeral">10</g> 7</num> ñce <g type="tam-nilam"/> <g type="numeral">100</g> ṅ <gap reason="lost" quantity="3" unit="character"/> ṟakkum 13 <gap reason="lost" quantity="3" unit="character"/> nay <gap reason="lost" quantity="3" unit="character"/> kkum <gap reason="lost" quantity="4" unit="character"/> kuṭiñaṟ kal 3 kaṇṭa vaṇi poṟ <gap reason="lost" quantity="3" unit="character"/>
-                        <lb n="3"/><gap reason="lost" quantity="1" unit="line"/>
+                    <ab>                        
+                        <lb n="A1"/><hi rend="grantha">svasti śrī</hi>
+                    </ab>
+                    <lg n="1" type="āciriyappā">                        
+                        <l n="1">Iraṭṭa-pāṭi Ēḻ-arai Ilakkamu<supplied reason="lost">ṅ</supplied> koṇṭu</l>
+                        <l n="2">pērāṟṟaṅkarai-k koppattu</l>
+                        <l n="3">Ākava-mallaṉai Añcuvittavaṉ</l>
+                        <l n="4">Āṉaiyuṅ kutiraiyum peṇṭir paṇṭāramuṅ</l>
+                        <l n="5">koṇṭu</l>
+                        <l n="6">vi<hi rend="grantha">jai</hi>ya-A<hi rend="grantha">bhiṣe</hi>kam paṇṇi</l>
+                        <l n="7">vīra-ciṅkācaṉat=tu vīṟṟirun=t-aruḷiṉa</l>
+                    </lg>
+                    <p>kō-p-parakēcari-pa<hi rend="grantha">nma</hi>r-ā<unclear>ṉa</unclear> <gap reason="lost" quantity="10" unit="character" precision="low"/> <unclear>yā</unclear>ṇṭu 7 Āvatu kāṭuveṭṭikaḷ nilaṉ ku<unclear>ṭi</unclear> tāṅkiyār <gap reason="lost" quantity="4" unit="character"/> yār mu<supplied reason="lost">m</supplied>maṭi-cōḻa-tēva <gap reason="illegible" quantity="4" unit="character"/> yār kuṭi tāṅki <hi rend="grantha">ja</hi>nakiyār-āṉa vaṉava<choice><orig>n</orig><reg>ṉ</reg></choice>-mātēviyār tiru-vekkā Āḻvārkku ce <seg rend="check"><gap reason="lost" quantity="5" unit="character"/><!--EF: ceyva cāttva--></seg> vitt-aruḷiṉa tiru-p pa <gap reason="illegible" quantity="11" unit="character"/> taitta poṟ pū <gap reason="lost" quantity="2" unit="character"/>
+                        <lb n="A2"/>vaṭa kuṭiñaṟ kal 5 poṟ-kācu <gap reason="lost" quantity="7" unit="character"/> Itil <gap reason="illegible" quantity="6" unit="character"/> <unclear>ku</unclear>ṟak=kum muttu-k <gap reason="illegible" quantity="4" unit="character"/> <num value="67">6 <g type="numeral">10</g> 7</num> ce <g type="tam-nilam"/> <g type="numeral">100</g> ṅ <gap reason="illegible" quantity="6" unit="character"/> <unclear>ku</unclear>ṟakkum <gap reason="illegible" quantity="13" unit="character"/> nay <gap reason="lost" quantity="3" unit="character"/> kkum <gap reason="illegible" quantity="10" unit="character"/> <g type="nilam"/> <gap reason="illegible" quantity="70" unit="character" precision="low"/> ṉāl kuṭiñaṟ kal <unclear>3</unclear> kaṇṭa vaṇi yokk<unclear>u</unclear>m <gap reason="illegible" quantity="10" unit="character"/>
+                        <lb n="A3"/><gap reason="lost" quantity="1" unit="line"/>
                     </p>                    
                 </div>
                 
                 <div type="textpart" n="B"><head>Second fragment</head>                    
                     <p>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> mūvēnta-vēḷārum Iraṭṭa-pāṭi-koṇṭa-cōḻa-mūvēnta-vēḷārum vikrama-cōḻa-mūvēnta-vēḷārum vīra-rājēndra-tamiḻatarayarum cōḻa-p <gap reason="lost" quantity="3" unit="character"/>
-                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> laivan mūvēnta-vēḷārum vi<hi rend="grantha">je</hi>ya-rā<hi rend="grantha">jendra</hi>-mūvēnta-vēḷārum maṇṇai-koṇṭa-cōḻa-p-pallavatarayarum vikkirama-cōḻa-mūvēnta-vēḷārum <hi rend="grantha">rāja</hi>-ciṅka-<hi rend="grantha">brah</hi>mārāyarum nitta-vinōta-mūvēnta-vēḷāru <gap reason="lost" quantity="3" unit="character"/> nta-viḻupparayanum Aḻakiya cōḻa-mūvēnta-vē <gap reason="lost" quantity="7" unit="character"/>
-                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">ndra</hi>-cōḻa-mūvēntavēḷārum <gap reason="lost" quantity="1" unit="character"/> navan Uttama <gap reason="lost" quantity="5" unit="character"/> rai kiḻān Ari-kula-viḻupparai <gap reason="lost" quantity="4" unit="character"/> pāṇṭiya-mūvēn=ta-vēḷārum parākkira <gap reason="lost" quantity="3" unit="character"/> vēn=ta-vēḷāru <gap reason="lost" quantity="3" unit="character"/> lacey <gap reason="lost" quantity="3" unit="character"/> m pañcavan <hi rend="grantha">brah</hi>mārāyaru <gap reason="lost" quantity="2" unit="character"/> cōḻa-kula <gap reason="lost" quantity="3" unit="character"/>
+                        <lb n="B1"/><gap reason="lost" extent="unknown" unit="character"/> <gap reason="illegible" quantity="10" unit="character"/> m<choice><orig>u</orig><reg>ū</reg></choice>vēnta-vēḷārum Iraṭṭa-pāṭi-<unclear>koṇṭa</unclear>-cōḻa-m<choice><orig>u</orig><reg>ū</reg></choice>vēnta-vēḷārum <unclear>vikrama-cōḻa</unclear>-mūvēnta-vēḷārum v<choice><orig>i</orig><reg>ī</reg></choice>ra-rā<hi rend="grantha">je</hi>n<hi rend="grantha"><choice><orig>t</orig><reg>d</reg></choice>ra</hi>-tamiḻatarayarum mummuṭi-<unclear>cōḻa-p</unclear> <gap reason="lost" quantity="8" unit="character"/> m<choice><orig>u</orig><reg>ū</reg></choice>vēnta-vēḷā<supplied reason="lost">rum</supplied> <gap reason="lost" quantity="20" unit="character" precision="low"/> <gap reason="illegible" quantity="15" unit="character" precision="low"/> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="B2"/><gap reason="lost" extent="unknown" unit="character"/> laivan m<choice><orig>u</orig><reg>ū</reg></choice>vēnta-vēḷārum vi<hi rend="grantha">je</hi>ya-<hi rend="grantha">rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-m<choice><orig>u</orig><reg>ū</reg></choice>vēnta-vēḷārum maṇṇai-koṇṭa-cōḻa-p-pallavatarayarum vikkirama-ṇi-m<choice><orig>u</orig><reg>ū</reg></choice>vēnta-vēḷārum <hi rend="grantha">rāja</hi>-ciṅka-<hi rend="grantha">bra<unclear>h</unclear></hi>ma<hi rend="grantha">rā</hi>yarum nitta-vinōta-m<choice><orig>u</orig><reg>ū</reg></choice>vēnta-vēḷāru <gap reason="lost" quantity="20" unit="character" precision="low"/> n=ta-viḻupparayanum Aḻakiya cōḻa-m<choice><orig>u</orig><reg>ū</reg></choice>vēnta- <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="B3"/><gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha"><unclear>ndra</unclear></hi>-cōḻa-m<choice><orig>u</orig><reg>ū</reg></choice>vēn=tavēḷārum <gap reason="lost" quantity="2" unit="character"/> navan Uttama <gap reason="lost" quantity="5" unit="character"/> rai kiḻān Ari-kula-viḻuppa<unclear>rai</unclear> <gap reason="lost" quantity="7" unit="character"/> pāṇṭiya-mūvēn=ta-vēḷārum parākkira <gap reason="lost" quantity="3" unit="character"/> vēn=ta-vēḷāru <gap reason="lost" quantity="3" unit="character"/> lacey <gap reason="lost" quantity="20" unit="character" precision="low"/> m pañcavan <hi rend="grantha">brah</hi>ma<hi rend="grantha">rā</hi>yaru <gap reason="lost" quantity="2" unit="character"/> cōḻa-kula- <gap reason="lost" extent="unknown" unit="character"/>
                     </p>
                 </div>
                 
                 <div type="textpart" n="C"><head>Third fragment</head>
                     <p>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> vēḷānum puravu-vari<space type="unclassified"/>-tiṇai-k-kaḷattu <gap reason="lost" quantity="15" unit="character"/> muṭi-koṇṭa-cōḻa-p-pallavarayanum perum pēr-uṭaiyāṉ <gap reason="lost" quantity="4" unit="character"/>
-                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <unclear cert="low">pañca</unclear>vaṉ m<choice><orig>u</orig><reg>ū</reg></choice>vēn=tavē <gap reason="illegible" quantity="10" unit="character"/> <gap reason="lost" quantity="15" unit="character"/> <gap reason="illegible" quantity="20" unit="character"/>
+                        <lb n="C1"/><gap reason="lost" extent="unknown" unit="character"/> vēḷānum puravu-vari<space type="unclassified"/>-tiṇai-k-kaḷattu <gap reason="illegible" quantity="5" unit="character"/> <gap reason="lost" quantity="15" unit="character"/> muṭi-koṇṭa-cōḻa-p-pallavarayanum perum pēr-uṭaiyāṉ <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="C2"/><gap reason="lost" extent="unknown" unit="character"/> <unclear cert="low">pañca</unclear>vaṉ m<choice><orig>u</orig><reg>ū</reg></choice>vēn=tavē <gap reason="illegible" quantity="10" unit="character"/> <gap reason="lost" quantity="15" unit="character"/> <gap reason="illegible" quantity="20" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
                     </p>
                 </div>
                 
             </div>
             
             <div type="apparatus">
+                
+                <div type="textpart" n="A"><head>First fragment</head> 
+                    <listApp>
+                        <app loc="A1">
+                            <lem>nilaṉ ku<unclear>ṭi</unclear> tāṅkiyār <gap reason="lost" quantity="4" unit="character"/> yār</lem>
+                            <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">nīlaṉ kuṭi tāṅkiyār</rdg>
+                        </app>
+                        <app loc="A1">
+                            <lem></lem>
+                            <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
+                        </app>
+                        <app loc="A1">
+                            <lem>vaṉava<choice><orig>n</orig><reg>ṉ</reg></choice>mātēviyār</lem>
+                            <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">mātēviyār</rdg>
+                        </app>
+                    </listApp>
+                </div>
+                
+                <div type="textpart" n="B"><head>Second fragment</head> 
+                    <listApp>
+                        <app loc="B1">
+                            <lem>mummuṭi<unclear>cōḻap</unclear> <gap reason="lost" quantity="8" unit="character"/> m<choice><orig>u</orig><reg>ū</reg></choice>vēnta-vēḷā<supplied reason="lost">rum</supplied></lem>
+                            <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">mummuṭi cōḻap <gap reason="lost" quantity="3" unit="character"/></rdg>
+                        </app>
+                        <app loc="B2">
+                            <lem>vikkirama-ṇi-m<choice><orig>u</orig><reg>ū</reg></choice>vēnta-vēḷārum</lem>
+                            <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"> vikkirama cōḻa mūvēnta vēḷārum</rdg>
+                        </app>
+                        
+                    </listApp>
+                </div>
+                
+                <div type="textpart" n="C"><head>Third fragment</head> 
+                    <listApp>
+                        <app loc="">
+                            <lem></lem>
+                            <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
+                        </app>
+                    </listApp>
+                </div>
                 
             </div>
             
@@ -118,7 +172,7 @@
             </div>
             
             <div type="commentary">
-                
+                <p>From the available photos, it appears that the second fragment further continues towards the right.</p>
             </div>
             
             <div type="bibliography">
@@ -127,7 +181,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
                 
-                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
+                <p>This revised digital edition by Emmanuel Francis based on photos (Babu N. Ramaswamy, 2024).</p>
                 
                 <listBibl type="primary">
                     
