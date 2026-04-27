@@ -83,46 +83,48 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <p>
-                    <lb n="1"/>tiṟtam <unclear>ta</unclear><!--RD: ru?-->rikka <seg rend="check">El</seg>
-                    <lb n="2"/><seg rend="check">mu vi</seg> kaṉṉāṭa <seg rend="check">2</seg> k=ku
+                    <lb n="1"/>tiṟtam <unclear>ta</unclear>ri<!--RD: ruḷi?-->kka <seg rend="check">El</seg>
+                    <lb n="2"/><seg rend="check">mu vi</seg> kaṉṉāṭa <seg rend="check">2</seg> k=ku<!--RD: symbol for nel?-->
                     <lb n="3"/><seg rend="check">pu 1/40 tū pa <gap reason="lost" quantity="1" unit="character"/> lai ma <seg rend="check">1</seg></seg> k=ku
-                    <lb n="4"/><seg rend="check">pu 1/40</seg> cām<unclear>pi</unclear>ṟāṇi va
-                    <lb n="5"/><gap reason="lost" quantity="7" unit="character"/> k=ku <seg rend="check">pu</seg>
-                    <lb n="6"/><gap reason="lost" quantity="1" unit="character"/> tirumuṉ kuttu-vi
-                    <lb n="7" break="no"/>ḷakku <seg rend="check">32</seg> cātti
+                    <lb n="4"/><seg rend="check">pu<!--RD: kuṟūṇi?--> 1/40</seg> cām<unclear>pi</unclear>ṟāṇi va
+                    <lb n="5"/><gap reason="lost" quantity="7" unit="character"/> 1 k=ku <seg rend="check">pu</seg>
+                    <lb n="6"/><seg rend="check">�</seg> tirumuṉ kuttu-vi
+                    <lb n="7" break="no"/>ḷakku <seg rend="check">� �</seg> cātti
                     <lb n="8"/>Aruḷa cantaṇa <seg rend="check">lai</seg>
-                    <lb n="9"/><seg rend="check">ma cā ṟā pa va ca</seg> kaṟpū
+                    <lb n="9"/><seg rend="check">ma cā k=ku pu va ca</seg> kaṟpū
                     <lb n="10"/><unclear>ra</unclear> <gap reason="lost" quantity="8" unit="character"/>
-                    <lb n="11"/><hi rend="grantha">sū</hi>riya viṭai 1 kku <seg rend="check">pu lā</seg>
+                    <lb n="11"/><hi rend="grantha">sū</hi>riya viṭai 1 k=ku <seg rend="check">pu lā</seg>
                     <lb n="12"/>Ālatti-k-kaṟpūram
-                    <lb n="13"/><seg rend="check">pu vi ka k=ku <gap reason="illegible" quantity="2" unit="character"/></seg> Alaṅkā
-                    <lb n="14"/>ra tiru-mañcaṉamump pa
+                    <lb n="13"/><seg rend="check">pu vi ka k=ku pu �</seg> Alaṅkā
+                    <lb n="14"/>ra-tiru-mañcaṉamum-p pa
                     <lb n="15"/>ṇṇ<supplied reason="lost">i</supplied> perumāḷ A
                     <lb n="16" break="no"/>mutu ceyt-aruḷa Appa
                     <lb n="17" break="no"/>m 1 k=ku <seg rend="check">ṅka ka</seg> vella
-                    <lb n="18"/>m <seg rend="check">ma ru E 6 kku</seg> tōcai
-                    <lb n="19"/>p paṭi <gap reason="illegible" quantity="1" unit="character"/> <seg rend="check">li U ṅa</seg> Uḷun
-                    <lb n="20" break="no"/>tu <seg rend="check">ṅa E <gap reason="lost" quantity="2" unit="character"/></seg> vaṭai
-                    <lb n="21"/>ppam 1 k=ku Uḷuntu
-                    <lb n="22"/><seg rend="check">U ṅa cu U E cāl</seg> te
-                    <lb n="23"/>ttiyōtaṉam <seg rend="check">ka li</seg>
-                    <lb n="24"/><seg rend="check">mat</seg> tayir <unclear reason="eccentric_ductus">1</unclear><!--EF: looks like ta--> k=ku <seg rend="check">pu </seg> <g type="tam-ulakku"/>
+                    <lb n="18"/>m <seg rend="check">ma ru E 6 �</seg> tōcai
+                    <lb n="19" break="no"/>p paṭi <seg rend="check">� li Uṅa</seg> Uḷun
+                    <lb n="20" break="no"/>tu <seg rend="check">ṅa E <gap reason="lost" quantity="3" unit="character"/></seg> vaṭai
+                    <lb n="21"/><seg rend="check">ppam</seg><!--EF: 2 symbols?--> 1 k=ku Uḷuntu
+                    <lb n="22"/><seg rend="check">Uṅa 6 U E 6 U</seg> te
+                    <lb n="23"/>ttiyōtaṉam <seg rend="check">kli</seg>
+                    <lb n="24"/><seg rend="check">ma t</seg> tayir <unclear reason="eccentric_ductus">1</unclear><!--EF: looks like ta--> k=ku <seg rend="check">pu </seg> <g type="tam-ulakku"/>
                     <lb n="25"/>ney <unclear cert="low">1/2</unclear> k=ku pu <unclear cert="low">1/2</unclear> kaṟi-A
                     <lb n="26"/>mutu <seg rend="check">ru pu</seg> <g type="tam-mukkuruni"/> miḷaku
-                    <lb n="27"/>ya <gap reason="lost" quantity="3" unit="character"/> cukku la
-                    <lb n="28"/><seg rend="check">U ṟā pu pa</seg> yiḷanir <seg rend="check">ru pa</seg>
+                    <lb n="27"/>ya <gap reason="lost" quantity="3" unit="character"/> cukku <seg rend="check">lai</seg>
+                    <lb n="28"/><seg rend="check">U k=ku pu �</seg> yiḷanir <seg rend="check">ru pa</seg>
                     <lb n="29"/>k=ku pu U vāḻai-p-paḻam
                     <lb n="30"/>mām-paḻam palā-p-paḻa
-                    <lb n="31" break="no"/>mattu k=ku <seg rend="check">pu ṅa</seg> payaṟṟa
-                    <lb n="32"/>tiru-p-paṇiyāram <seg rend="check">śva</seg>
+                    <lb n="31" break="no"/>mattu k=ku <seg rend="check">pu ṅa</seg> payaṟṟa<supplied reason="omitted">m</supplied>
+                    <lb n="32"/>tiru-p-paṇiyāram <seg rend="check">�</seg>
                     <lb n="33"/><seg rend="check">la ṅa k=ku pu <gap reason="lost" quantity="1" unit="character"/></seg> pāṉakkam
                     <lb n="34"/>vellam <seg rend="check">ṅa</seg> Aṭai
-                    <lb n="35" break="no"/>-k-kāy-Amutu <seg rend="check">pu=nel 1/4 <unclear>1/80</unclear> ?</seg> ti
+                    <lb n="35" break="no"/>-k-kāy-Amutu <seg rend="check">pu<!--RD: nel?--> 1/4 <unclear>1/80</unclear> ?</seg> ti
                     <lb n="36"/><gap reason="lost" quantity="9" unit="character"/> Ōla
-                    <lb n="37"/>kkam <seg rend="check">E ṅa</seg> nimant
+                    <lb n="37"/>kkam <seg rend="check">Eṅa ṅa</seg> nimant
                     <lb n="38"/>āḷukku <seg rend="check">pu ka</seg> Eri-karum
-                    <lb n="39"/>pukku <seg rend="check">pu ka</seg> Āka ṉāḷ 1 k=ku
-                    <lb n="40"/>cilavu <seg rend="check">pu 10 1 kūli kālai</seg>
+                    <lb n="39"/>pukku <seg rend="check">pu �</seg> Āka ṉāḷ 1 k=ku
+                    <lb n="40"/>cilavu <seg rend="check">pu 10 � kli kā lai</seg>
+                    
+                    
                     <lb n="41"/><seg rend="check">k=ku Iḷai la ka ṅa pu U</seg> <g type="tam-ulakku"/>
                     <lb n="42"/><g type="tam-mukkuruni"/> <seg rend="check">E mā ṅa ru ha kku pu</seg>
                     <lb n="43"/>ka kku <seg rend="check">E</seg> vilai <seg rend="check">ru</seg>
