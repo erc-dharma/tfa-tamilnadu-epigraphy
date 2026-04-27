@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 8</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, time of Kulottuṅga Cōḻa, year 20</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -43,7 +43,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>
+                            <p></p>
+                            <p>South wall of the central shrine, on the base.</p>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -88,11 +91,13 @@
                 </ab>
                 
                 <p>
-                    tiruvāyk kēḻvi muṉṉ-āka tiripuvaṉa-c-cakkaravattikaḷ maturaiyum pāṇṭiyaṉ muṭi-t-talaiyuṅ koṇṭ-aruḷiya
-                    <lb n="2"/>kulōttuṅka-cōḻa-<hi rend="grantha">de</hi>vaṟku yāṇṭu 2 10 vatu <gap reason="lost" quantity="4" unit="character"/>
-                    <lb n="3"/>cōḻa-maṇṭalattu kāliyūṟ-k-kōṭṭattu viṟppēṭṭu nāṭṭu karitaṭuttūr-āṉa hasti nivāraṇac-catu<hi rend="grantha">rvve</hi>
-                    <lb n="4" break="no"/><hi rend="grantha">di</hi>-maṅkalattu kīḻ-pāṟk’ ellai vaṭakkilē toṇ <gap reason="lost" quantity="2" unit="character"/>
-                    <lb n="5" break="no"/>ḷāḷap peruñ ceṟu muḷ maṭaikku teṟkku ṉōkkiṉa kaṇāṟṟu
+                    tiruvāy-k kēḻvi muṉṉ-āka tiripuvaṉa-c-cakkaravattikaḷ <unclear>ma</unclear>turaiyum pāṇṭiyaṉ muṭi-t-talaiyuṅ ko<unclear>ṇṭ-aruḷiya</unclear>
+                    <lb n="2"/><hi rend="grantha"><unclear>śrī</unclear></hi>-kulōttuṅka-<unclear>cōḻa</unclear>-<hi rend="grantha">de</hi>vaṟku yāṇṭu <num value="20">2 <g type="numeral">10</g></num> vatu <seg rend="check"><gap reason="illegible" quantity="30" unit="character" precision="low"/></seg>
+                    <lb n="3"/>cōḻa-maṇṭalattu kāliyūṟ-k-kōṭṭattu viṟppēṭṭu nāṭṭu karitaṭuttūr-āṉa <hi rend="grantha">hasti</hi>-nivāraṇa-c-catu<hi rend="grantha"><unclear>rvve</unclear></hi><unclear>ti</unclear>-maṅka<unclear>la</unclear>ttu <seg rend="check"><gap reason="illegible" quantity="20" unit="character" precision="low"/></seg> <supplied reason="lost">catu</supplied><hi rend="grantha">rvve</hi>
+                    <lb n="4"/><hi rend="grantha">di</hi>-maṅka<unclear>la</unclear>ttu 
+                    
+                    k<choice><orig>i</orig><reg>ī</reg></choice>ḻ-pāṟk’ ellai vaṭak<seg rend="check">kilē toṇ <gap reason="lost" quantity="2" unit="character"/></seg>
+                    <lb n="5" break="no"/>ḷāḷap peruñ ceṟu muḷ maṭaikku teṟkku ṉōkkiṉa kaṇāṟṟu <seg rend="check"><gap reason="illegible" quantity="30" unit="character" precision="low"/></seg>
                     <lb n="6" break="no"/>ṟṟuc cevvai teṟkkil varampu<unclear>kku</unclear> mēṟkkum yi varampu mēṟkku ṉōkki teṉ maṭal vaḷaivāḷ taricuṟṟu vaḷaiyaḷ Ēri mēlkaṭai
                     <lb n="7"/>ṇṭāra kuḷamum kīḻmēl kavutēva Ōṭai karaikkum mēlaik karaikkuḻikku vaṭakkum cetarāyp puttēri Ētta vāyila <gap reason="lost" quantity="4" unit="character"/> Accaṅ kuḻikkum kiḻakku vaṭa
                     <lb n="8"/>kīḻaip puṟṟu naṭu vērikkuḷ <gap reason="lost" quantity="1" unit="character"/> pāccalāṉa cētarāyaṉ kālukkuk kiḻakkum Ikkālc cevvai vaṭakku kōyilp pāṭṭa <gap reason="lost" quantity="1" unit="character"/> maṇ puṟṟu kuḻikkum
