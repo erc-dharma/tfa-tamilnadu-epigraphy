@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 10</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, no king, no year</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -45,7 +45,9 @@
                     <msContents>
                         <summary>
                             <p>Fragment.</p>
-                            <p><bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>: <quote>outer <foreign>prākāra</foreign>, south side,  <foreign>mahāmaṇḍapa</foreign> wall base, on the <foreign>jagati</foreign>.</quote></p></summary>
+                            <p>On the <foreign>jagati</foreign> of the south base of the <foreign>mahāmaṇḍapa</foreign>.</p>
+                            <p>King’s name and year lost, if any. Likely 12th century according to <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -86,7 +88,7 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <p>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> tiru-veḵkā Āḻvār kaṉmikaḷō<unclear>m</unclear> <gap reason="lost" quantity="1" unit="character"/> ntu <gap reason="lost" quantity="15" unit="character"/> nāṅkaḷum kāñcipura <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> vilai-y-āvaṇam āvat’ ākavum Ituvē poruḷ mā vaṟuti poru <gap reason="lost" quantity="10" unit="character"/> Ituvallatu vēṟu poruḷ mā <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> vilai-y-āvaṇam āvat’ ākavum Ituvē poruḷ mā vaṟuti po<unclear>ru</unclear> <gap reason="lost" quantity="7" unit="character"/> t’ ākavum Ituva<unclear>l</unclear>latu vēṟu poruḷ mā <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
             </div>
             
@@ -104,7 +106,7 @@
             </div>
             
             <div type="commentary">
-                <p>Before on the left on the same base is another fragment (<ref target="DHARMA_INSTamilNadu00803"/>), which is possibly its beginning.</p>
+                <p>Before on the left on the same base is another fragment (<ref target="DHARMA_INSTamilNadu00804"/>), which is possibly its beginning.</p>
             </div>
             
             <div type="bibliography">

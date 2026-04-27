@@ -83,15 +83,18 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <ab>
-                    <lb n="1"/>śubham astu svasti
+                    <lb n="1"/><hi rend="grantha">śubham astu svasti</hi>
                 </ab>
                 <p>
-                    śrīman mahā-maṇṭalēcura yirā
-                    <lb n="2"/>jādirāja-rāja paramēśvara śrī-vīra-pratāpa śrī-vīra śrīraṅga-deva mahā
-                    <lb n="3"/>rāyar prativi-rājyam paṇṇi Aruḷā niṉṟa śālivāhana śakāptam1504 kku mē
-                    <lb n="4"/>l cellā niṉṟa citra bhānu samvatsarattu siṃha nāyattu pūrva pakṣa
-                    <lb n="5"/>ttu pūca nakṣatramum tvāteciyum peṟṟa caṉi vārattu nāḷ ceya
-                    <lb n="6"/>m koṇṭa cōḻa maṇṭalattu candrakiri rājyattu Ū <gap reason="lost" quantity="7" unit="character"/>
+                    <hi rend="grantha">śrī</hi>man ma<hi rend="grantha">hā</hi>-maṇṭalēcura yirā
+                    <lb n="2" break="no"/><hi rend="grantha">jādhirāja-rāja</hi> pa<hi rend="grantha">rameśvara śrī</hi>
+                        -vī<hi rend="grantha">ra-pra</hi>tāpa <hi rend="grantha">śrī</hi>-vī<hi rend="grantha">ra śrī-raṅga-deva mahā</hi>
+                    <lb n="3" break="no"/>-rāyar <hi rend="grantha">prati</hi>vi-rā<hi rend="grantha">jya</hi><supplied reason="omitted"><hi rend="grantha">M</hi></supplied> paṇ=ṇi Aruḷā niṉṟa <hi rend="grantha">śā</hi>livā<hi rend="grantha">ha</hi>na-<hi rend="grantha">śa</hi>
+                        kā<hi rend="grantha">ptaM</hi> 1000 5 100 4 kku mē
+                    
+                    <lb n="4" break="no"/>l cellā niṉṟa citra bhānu samvatsarattu siṃha nāyattu pūrva pakṣa
+                    <lb n="5" break="no"/>ttu pūca nakṣatramum tvāteciyum peṟṟa caṉi vārattu nāḷ ceya
+                    <lb n="6" break="no"/>m-koṇṭa-cōḻa-maṇṭalattu candrakiri rājyattu Ū <gap reason="lost" quantity="7" unit="character"/>
                     <lb n="7"/>ṭṭuk kōṭṭattil viṟpēṭṭu ṉāṭṭil nakaram kāñcipura
                     <lb n="8"/>viṣṇu sdāṉattil tiru veḻkā nayiṉār kōyil śrī paṇṭā
                     <lb n="9"/>rattārum śrī kāriyam ceyyum vēta māṟka pratiṣṭāpaṉācāriya Ubha
@@ -131,10 +134,14 @@
                     <lb n="43"/>tāsan mā nampi Appaya mutali Uḷḷiṭṭār Eḻu
                     <lb n="44"/>ttu yippaṭikku yinta śāsaṉam Eḻutiṉamaikku
                     <lb n="45"/>kōyil kaṇakku poykai nallūr Uṭai
-                    <lb n="46"/>yār <gap reason="lost" quantity="2" unit="character"/> varata timayyā rācan Eḻuttu U
-                    <lb n="47"/>Ekēva <gap reason="lost" quantity="1" unit="character"/> kina lōka <gap reason="lost" quantity="4" unit="character"/> save <gap reason="lost" quantity="3" unit="character"/> mavassu <gap reason="lost" quantity="1" unit="character"/>
-                    <lb n="48"/>n bojyā nakara śrī syāvipradactā vasu bhara U
+                    <lb n="46"/>yār <gap reason="lost" quantity="2" unit="character"/> varata timayyā rācan Eḻuttu <g type="pc">.</g>
                 </p>
+                <lg xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <l n="a"><lb n="47"/>Ek<choice><sic>e</sic><corr>ai</corr></choice>va <unclear>bha</unclear>ginī lok<unclear>e</unclear></l>
+                    <l n="b">sarvveṣām eva bhūbhu<unclear>jāM</unclear></l>
+                    <l n="c"><lb n="48"/>na <hi rend="grantha">bhojyā</hi> na kara<unclear>g</unclear>rahyā</l>
+                    <l n="d">vipra-dattā vasundharā <g type="pc">.</g></l>
+                </lg>
             </div>
             
             <div type="apparatus">

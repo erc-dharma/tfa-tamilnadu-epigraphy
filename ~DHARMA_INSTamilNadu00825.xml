@@ -43,7 +43,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>
+                            <p></p>
+                            <!--Continuation of inscription 15? Which appears to be in front of it.-->
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>

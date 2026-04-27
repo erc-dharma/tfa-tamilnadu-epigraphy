@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 14</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, time of Vīra Sadāśiva, Saka year 1381</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -92,13 +92,17 @@
                     <lb n="4"/>paṇṇi-k kuṭutta paṭi ṉāṅkaḷ muṉṉāḻikku Uḻavaṭai kāṇippaṭi śāsanam paṇṇi-k kuṭutta Ik-kārayaṉ tōppu meṭṭu <gap reason="lost" quantity="4" unit="character"/> maṉai-p-piṟakkaṭaikku teṟku rāmarācar tōṭṭattukku mēṟku ṉātar taricukku teṉ kiḻakku tama
                     <lb n="5"/><gap reason="lost" quantity="8" unit="character"/> ṣa payat te <gap reason="lost" quantity="4" unit="character"/> nilamāṉa Akkiṟāra <gap reason="lost" quantity="29" unit="character"/>
                     <lb n="6"/>tōppu tiru-vekā nayiṉār <gap reason="lost" quantity="3" unit="character"/> samaṟpikkaiyil Inta tōppu nilamāṉa <gap reason="lost" quantity="4" unit="character"/> vaiccu teṉṉa maram māvaṭai maravaṭai payirātti maṇṭapamum taṭi Ira
-                    <lb n="7"/>vāl vīccu vaṭakku tattaricaṉivākuṭi ṉūṟṟu muppatum maṭam nīkki ka <gap reason="lost" quantity="4" unit="character"/> koṇṭu namakku śiṣyar Āka naṭatta-k kaṭavōm ākavum Emperumāṉ <gap reason="lost" quantity="2" unit="character"/> Eḻunt-aruḷi maṇṭapattilē Amutu ceyt-aruḷa poliyūṭṭu-k kaṭṭiṉatukku vi <gap reason="lost" quantity="2" unit="character"/> tiru-vekā nayiṉā
+                    <lb n="7" break="no"/>vāl vīccu vaṭakku tattaricaṉivākuṭi ṉūṟṟu muppatum maṭam nīkki ka <gap reason="lost" quantity="4" unit="character"/> koṇṭu namakku śiṣyar Āka naṭatta-k kaṭavōm ākavum Emperumāṉ <gap reason="lost" quantity="2" unit="character"/> Eḻunt-aruḷi maṇṭapattilē Amutu ceyt-aruḷa poliyūṭṭu-k kaṭṭiṉatukku vi <gap reason="lost" quantity="2" unit="character"/> tiru-vekā nayiṉā
+                    <!--Lines 8-13 are longer!-->
                     <lb n="8"/>tiru-vāṉi-t-tiru-ṉāḷukku mūṉṟān tiru-ṉāḷukku maṇṭapattilē Eḻunt-aruḷi Amutu ceyt-aruḷa poliyūṭṭu-k
                     <lb n="9"/>ṅa ney Uri cīrakam sarkkarai <gap reason="lost" quantity="1" unit="character"/> yaṟṟan tiru-p paṇiyārattukku payaṟu<gap reason="lost" quantity="1" unit="character"/>vaṅa vellam
                     <lb n="10"/>Ōṇa <gap reason="lost" quantity="3" unit="character"/> tiruṉāḷukku perumāḷ Eḻuntaruḷi Amutu ceytaruḷum Appa paṭi ka kku
                     <lb n="11"/><gap reason="lost" quantity="5" unit="character"/> U vaṅa tayir vaṅa kkum <gap reason="lost" quantity="2" unit="character"/> Amutu sa <gap reason="lost" quantity="13" unit="character"/> Amutupaṭi
                     <lb n="12"/><gap reason="lost" quantity="4" unit="character"/> payaṟṟam tiru-p-paṇiyārattukku payaṟu vellam līṭa pāṉakattukku vellam
                     <lb n="13"/>tta pu tiru-p-pāṭi vēṭṭai kaṇṭaruḷa perumāḷ tirumpa Eḻuntaruḷkaiyil maṇṭapattil Amutu ceytaruḷa Appam <gap reason="lost" quantity="1" unit="character"/> ku Amutupaṭi <gap reason="lost" quantity="4" unit="character"/>
+                    <!--There are 6 more lines! Or is it another inscription?-->
+                    <!--There are more blocks engraved on the right. Or is it another inscription?-->
+                    <!--There are inscriptions on the base. Which are these?-->
                 </p>
             </div>
             
