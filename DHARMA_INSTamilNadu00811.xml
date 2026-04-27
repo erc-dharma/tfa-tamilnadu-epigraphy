@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 11</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, no king, no year</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -43,7 +43,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary>
+                            <p>Stone inscription recording the donation of the pillar on which it is inscribed.</p>
+                            <p>On a pillar of the circumambulatory hall round the <foreign>vimāna</foreign>, on the south side.</p>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -104,7 +107,7 @@
                                 
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
                 
-                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
+                <p>This digital edition by Emmanuel Francis based on photos (Babu N. Ramaswamy, 2024).</p>
                 
                 <listBibl type="primary">                    
                     <bibl n="V1">

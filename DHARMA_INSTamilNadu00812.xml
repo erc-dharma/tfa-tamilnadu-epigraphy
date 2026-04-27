@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 12</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, time of Kampaṇa Uṭaiyār, Śaka year 128<supplied reason="omitted">9</supplied></title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -43,7 +43,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary>
+                            <p><bibl><ptr target="bib:ARIE1920-1921"/></bibl> (ARIE/1920-1921/C/1921/27): <quote>Vijayanagara. Kampaṇa-Uḍaiyār, son of Vīra Bokkaṇa Uḍaiyār. Śaka 128[9*], Pḷavaṅga, Mēsha, śu., ēkādaśi, Monday, Uttiram. On the south wall of the second <foreign>prākāra</foreign> of the same temple. States that the king while seated in the Jānakī-maṇḍapa granted to Śrī Parakāla-Nambi the name of Karuṇākara-dāśaṉ with certain honours, privileges and a dwelling house.</quote></p>
+                            <p>Inscription not found in 2024 in the temple.</p>                            
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -97,6 +100,8 @@
                 <p>Not edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl> as the inscription was not found in 2024.</p>
                 
                 <p>This digital record by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
+                
+                <p>ASI transcript and estampage yet to be consulted.</p>
                 
                 <listBibl type="primary">                    
                     <bibl n="V1">

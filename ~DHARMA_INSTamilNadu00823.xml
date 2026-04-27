@@ -109,7 +109,12 @@
             </div>
             
             <div type="apparatus">
-                
+                <listApp>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
+                    </app>
+                </listApp>
             </div>
             
             <div type="translation">

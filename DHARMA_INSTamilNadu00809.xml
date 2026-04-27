@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 9</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, no king, no year</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -42,7 +42,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Fragment.</summary>
+                        <summary>
+                            <p>Fragment. King’s name and year lost, if any. Dated to Kulottuṅga III Cōḻa’s reign according to <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
+                            <p>In the passageway of the <foreign>gopura</foreign>, on the floor.</p>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
