@@ -15,6 +15,10 @@
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
                     </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
                 </respStmt>			
             </titleStmt>
             <publicationStmt>
@@ -83,40 +87,45 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <lb n="1"/><hi rend="grantha"><unclear>svasti śrī</unclear></hi>
+                    <lb n="1"/><g ref="sym:tam-pillaiyarCuli" type="symbol">@</g> <hi rend="grantha"><unclear>svasti śrī</unclear></hi>
                 </ab>
                 
                 <p>
-                    tiripuvaṉa-c-cakkara-vattikaḷ <hi rend="grantha">śrī</hi>-cuntara-pāṇṭiya-tēvaṟku yāṇṭu 10 Āvatu kēyya-māṇikka-vaḷaṉāṭṭu vaṭakāl
-                    <lb n="2"/>parivaṭṭa nakaram pukalōkattu Uṭaiyār pañcavaṉ mātēvicuvaram uṭaiyār kōyilukku tiruvātavū<supplied reason="omitted">r</supplied>-nāyaṉārai Ēṟi Aruḷa paṇṇiṉa ṉākaiyāṉa
-                    <lb n="3"/>cōḻa ku<supplied reason="omitted">lava</supplied>lli paṭṭiṉattu tiruppaḷḷi-p-pāṟṟu ṉāyakattāril Āṇṭāṉ kōtayāṉa kulōttuṅka rāyaṉēṉ Iṉ-ṉāyaṉāṟkku Amutupaṭikkum t<choice><sic>a</sic><corr>i</corr></choice>ruviḷakku
+                    tiripuvaṉa-c-cakkara-vattikaḷ <hi rend="grantha">śrī</hi>-cuntara-pāṇṭiya-tēvaṟku yāṇṭu <g type="numeral">10</g> Āvatu kēyya-māṇikka-vaḷaṉāṭṭu vaṭakāl
+                    <lb n="2"/>parivaṭṭa nakaram pukalōkattu Uṭaiyār pañcavaṉ mā<hi rend="grantha">de</hi>vi<hi rend="grantha">śu</hi>varam-uṭaiyār kōyilukku tiru-vātavū<supplied reason="omitted">r</supplied>-nāyaṉārai Ēṟi-Aruḷa paṇṇiṉa ṉākai-y-āṉa
+                    <lb n="3"/>cōḻa-ku<supplied reason="omitted">lava</supplied>lli-paṭṭiṉattu tiru-p-paḷḷi-p-pāṟṟu ṉāyakattāril Āṇṭāṉ kōtayāṉa kulōttuṅka-rāyaṉēṉ Iṉ-ṉāyaṉāṟkku Amutupaṭikkum t<choice><sic>a</sic><corr>i</corr></choice>ruviḷakku
                     <lb n="4" break="no"/>m nāyanāṟ<choice><sic>t</sic><corr>k</corr></choice>ku koṇṭa<unclear>ṭa</unclear>kantaṉ uṭaiyān nilamum nattamum Āvatu Ivūr piṭākai cankuṇaveḷi paṇappāṟṟukku vaṭakku taṭi mūṉṟu viṭṭuma
                     <lb n="5" break="no"/>ṟkku Amutupaṭikkum tiruvi
                     <lb n="6"/>Ōṭai Eṉṟu pēr kūvappaṭṭa nilam mā mummāvaraiyum kaṇapati vāykkālukku mēṟkku puṟaṅkarampa-ṉāṭṭu vēḷāṉ maṉaikku valivala-nāṭu vēḷāṉ maṉai Iru
-                    <lb n="7" break="no"/>ppukkum 1/10 <g ref="sym:tam-nilam"/> m I-nilamā mummāvaraiyum Iṉ-nāyanāṟku Amutupaṭikkum tiruviḷakkum cant<supplied reason="omitted">i</supplied>rātityavarai cella-k kaṭavat' āka-k koṇṭu Iṭṭēṉ Āṇṭāṉ kō
-                    <lb n="8"/>taiyāṉa kulōttuṅka-rāyaṉ-ēṉ Ik-kōyil Akrāṇam tiruvārūr ammāṉ Eḻuttu <g ref="sym:dashPlain" type="punctuation">.</g> Ik-kōyil tēvakammi piramīcuvara paṭṭaṉ Eḻuttu
+                    <lb n="7" break="no"/>ppukkum 1/10 <g ref="sym:tam-nilam"/> m I-nilamā mummāvaraiyum Iṉ-nāyanāṟku Amutupaṭikkum tiruviḷakkum <hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rāditya</hi>varai cella-k kaṭavat’ āka-k koṇṭu Iṭṭēṉ Āṇṭāṉ kō
+                    <lb n="8"/>taiyāṉa kulōttuṅka-rāyaṉ-ēṉ Ik-kōyil Akrāṇam tiruvārūr ammāṉ Eḻuttu <g ref="sym:dashPlain" type="punctuation">.</g> Ik-kōyil tēvakammi piram<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvara</hi>-paṭṭaṉ Eḻuttu
                     <lb n="9"/>Ik-kōyil kaṇakkaṉ paṉaṅk’ uṭaiyāṉ vītiviṭaṅka-p perumāṉ Eḻu<supplied reason="omitted">ttu</supplied>
                     
-                    <g type="pc"/> 
-
                 </p>
                 
                 
             </div>
             
-            <!-- <div type="apparatus">
+            <div type="apparatus">
                 <listApp>
-                <app loc="6">
-                <lem><supplied reason="lost">kāṇivilai</supplied></lem>
-                <note>Reading after ASI transcript.</note>
-                </app>
+                    <app loc="7">
+                        <lem><hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rāditya</hi>varai</lem>
+                        <rdg source="bib:Kannan2020_01">can<hi rend="grantha">d</hi>rā<hi rend="grantha">di</hi>tyavarai</rdg>
+                        <note></note>
+                    </app>
+                     <app loc="8">
+                        <lem>piram<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvara</hi></lem>
+                        <rdg source="bib:Kannan2020_01"> piramī<hi rend="grantha"></hi>śvara</rdg>
+                        <note></note>
+                    </app>
+                   
                 </listApp>
                 
-                </div>-->
+            </div>
             
-            <!-- <div type="translation" resp="part:reda">
+            <div type="translation" resp="part:reda">
                 
-                </div>-->
+            </div>
             
             <div type="commentary">
                 <p>Kept in Pondicherry Government Museum in 2020.</p>
@@ -124,9 +133,8 @@
             
             <div type="bibliography">
                 <p>Reported and edited in <bibl><ptr target="bib:Kannan2020_01"/></bibl> (<title>Āvaṇam</title> 31.100).</p>
-                <p>This digital edition by Renato Dávalos, based on <bibl><ptr target="bib:Kannan2020_01"/></bibl>.</p>
-                
-                
+                <p>This digital edition by Renato Dávalos and Emmanuel Francis, based on <bibl><ptr target="bib:Kannan2020_01"/></bibl> and visual documentation therein.</p>
+                                
                 <listBibl type="primary">
                     <bibl n="Āvaṇam">
                         <ptr target="bib:Kannan2020_01"/>
