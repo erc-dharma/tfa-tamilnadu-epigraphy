@@ -83,11 +83,17 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <ab>
-                    <lb n="1"/><gap reason="lost" quantity="1" unit="character"/> bham astu
+                    <lb n="1"/><hi rend="grantha"><supplied reason="lost">śu</supplied>bham astu</hi>
                 </ab>
                 <p>
                     cittiṟa-pāṉu-varuṣam kāṟtikai-māsam
-                    <lb n="2"/>Uddāṉa tuvāteciyil śrīmatē rāmāṉujāya nama:
+                    <lb n="2"/>Uddāṉa tuvāteciyil
+                </p>
+                
+                <p>
+                    <hi rend="grantha">śrīma</hi>te <hi rend="grantha">rāmā</hi>ṉu<hi rend="grantha">jā</hi>ya na<hi rend="grantha">maḥ</hi>
+                </p>
+                <p>                    
                     <lb n="3"/>śrīma <gap reason="lost" quantity="1" unit="character"/> vēda māṟka pratiṣṭāpanācārya Ubhaya vēdān
                     <lb n="4"/>tācāriya rāna periya tirumalai nampi tiru vaṃsattu śa
                     <lb n="5"/>ṭa <unclear>ma</unclear>ruṣaṇa gotrattu Āpastampa sūtrattu
