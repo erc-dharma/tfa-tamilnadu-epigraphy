@@ -16,8 +16,7 @@
                     </persName><persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
-                    </persName>
-                    
+                    </persName>                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -88,9 +87,9 @@
                 <p>
                     <hi rend="grantha">śrī</hi>man ma<hi rend="grantha">hā</hi>-maṇṭalēcura yirā
                     <lb n="2" break="no"/><hi rend="grantha">jādhirāja-rāja</hi> pa<hi rend="grantha">rameśvara śrī</hi>
-                        -vī<hi rend="grantha">ra-pra</hi>tāpa <hi rend="grantha">śrī</hi>-vī<hi rend="grantha">ra śrī-raṅga-deva mahā</hi>
+                    -vī<hi rend="grantha">ra-pra</hi>tāpa <hi rend="grantha">śrī</hi>-vī<hi rend="grantha">ra śrī-raṅga-deva mahā</hi>
                     <lb n="3" break="no"/>-rāyar <hi rend="grantha">prati</hi>vi-rā<hi rend="grantha">jya</hi><supplied reason="omitted"><hi rend="grantha">M</hi></supplied> paṇ=ṇi Aruḷā niṉṟa <hi rend="grantha">śā</hi>livā<hi rend="grantha">ha</hi>na-<hi rend="grantha">śa</hi>
-                        kā<hi rend="grantha">ptaM</hi> 1000 5 100 4 kku mē                    
+                    kā<hi rend="grantha">ptaM</hi> 1000 5 100 4 kku mē                    
                     <lb n="4" break="no"/>l cellā niṉṟa <hi rend="grantha">citra-bhānu</hi>-<hi rend="grantha">saṃ</hi>va<hi rend="grantha">Tsara</hi>t=tu <hi rend="grantha">siṃha</hi>-nāyat=tu <hi rend="grantha">pūrvva-pakṣa</hi>
                     <lb n="5" break="no"/>t=tu pūca-na<hi rend="grantha">kṣatramuM tvā</hi>teciyum peṟṟa caṉi-vārattu nāḷ 
                 </p>
@@ -104,26 +103,33 @@
                     <lb n="11"/>Ayyaṉ <hi rend="grantha">sa</hi>ṉṉati Aḻak<supplied reason="lost">i</supplied>ya <unclear>ciṅkarum</unclear> <gap reason="lost" quantity="4" unit="character"/> <hi rend="grantha"><choice><orig>k</orig><reg>g</reg></choice>otra</hi>ttu A
                     <lb n="12" break="no"/><hi rend="grantha">pastaMbha-sūtra</hi>ttu <seg rend="check"><unclear>E</unclear>suśśra gobha</seg>yar-āṉa tirumalai nampi tiruvaṅ
                     <lb n="13" break="no"/>ki<hi rend="grantha">sa</hi>ttu Ayyā vaiyyaṅkār kumārar tāttā<hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice></hi>āriyar Ayya
-                    <lb n="14" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice> Avarkaḷukku Upa<hi rend="grantha">kṣa</hi>ya ta<unclear>ṟ</unclear><hi rend="grantha">ma-śāsa</hi>ṉa<hi rend="grantha">m</hi> paṇṇik kuṭutta paṭi
-                    
-                    <lb n="15"/>y-ivv-emperumāṉ saṉṉati tiruvīti kōpurattukku mē
-                    <lb n="16" break="no"/>ṟku Āla Aṭi maṇṭapattukku kiḻakku <gap reason="lost" quantity="3" unit="character"/>
-                    <lb n="17"/>vaṭa ciṟaku maṉai 17 tiruvīti Uḷ taḷi 8 Aṭi 60
-                    <lb n="18"/>maṉai ka kku Aṭi 32 vāl vīccu Aṭi 120 Āka ma
-                    <lb n="19"/>34 kku yinta piramāṇattillē kaṇṭa catuccira
-                    <lb n="20" break="no"/>maikkum Upa<hi rend="grantha">kṣa</hi>ya māka niṟcayitta 90 mūliya
-                    <lb n="21"/>m pu 600 <gap reason="lost" quantity="25" unit="character" precision="low"/>
-                    <lb n="22"/>muppattu ṉālum U <gap reason="lost" quantity="2" unit="character"/> <unclear>pu</unclear>tra pautra pāramparā
-                    <lb n="23"/>yammāka Ācand <gap reason="lost" quantity="5" unit="character"/> yiyāka Upakṣaya dham <gap reason="lost" quantity="4" unit="character"/>
-                    <lb n="24" break="no"/>tāsaṉamm āka Ācandrārkkamā-ka paṟṟi Aṉupa
-                    <lb n="25" break="no"/>vittu-k koḷḷa-k kaṭavar ākavum Aṉupavikku
-                    <lb n="26" break="no"/>m miṭattu y-inta maṉai muppattu ṉālukkuḷ Uṇṭāṉa
-                    <lb n="27"/>ni<hi rend="grantha">di</hi>-ni<hi rend="grantha">kṣepa-jala-pāṣā</hi>ṇa ta<hi rend="grantha">kṣi</hi>ṇa Āt kā
-                    <lb n="28"/>mi <gap reason="lost" quantity="4" unit="character"/> yam Eṉkiṉṟa Aṣṭa pōka tēcaśva
-                    <lb n="29"/><gap reason="lost" quantity="1" unit="character"/> miyaṅkaḷukkum Uḷpaṭa dhāṉādi viṉmaya vikkiṟa
-                    <lb n="30"/><gap reason="lost" quantity="1" unit="character"/> ṟayaṅkaḷukkum yōgyam māka puṉa <gap reason="lost" quantity="4" unit="character"/> ma
-                    <lb n="31"/>ṇa nāpēkṣam-āka paṟṟi Aṉupavittuk ko
-                    <lb n="32" break="no"/>ḷḷa-k kaṭaivar ākavum Aṉupavikku miṭattu I
+                    <lb n="14" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice> Avarkaḷukku Upa<hi rend="grantha">kṣa</hi>ya-ta<unclear>ṟ</unclear><hi rend="grantha">ma-śāsa</hi>ṉa<hi rend="grantha">m</hi> paṇṇi-k kuṭutta paṭi                    
+                    <lb n="15"/>y-ivv<!--EF: Ivv?-->-emperumāṉ <hi rend="grantha">sa</hi>ṉṉati tiruv<choice><orig>i</orig><reg>ī</reg></choice>ti kōpurattukku mē
+                    <lb n="16" break="no"/>ṟku Āla Aṭi maṇṭapattukku kiḻak<unclear>ku</unclear> <gap reason="lost" quantity="1" unit="character"/> ṉa <unclear cert="low">ciṟa</unclear>ku maṉai <num value="19"><unclear cert="low"><g type="numeral">10</g> 9</unclear></num>
+                    <lb n="17"/>vaṭa ciṟaku maṉai <num value="17"><g type="numeral">10</g> 7</num> tiruv<choice><orig>i</orig><reg>ī</reg></choice>ti Uḷ taḷi 8 Aṭi <num value="60">6 <g type="numeral">10</g></num>
+                    <lb n="18"/>maṉai 1 k=ku Aṭi <num value="32">3 <g type="numeral">10</g> 2</num> vāl vīccu Aṭi <num value="120"><g type="numeral">100</g> 2 <g type="numeral">10</g></num> Āka ma
+                    <lb n="19"/><num value="34">3 <g type="numeral">10</g> 4</num> k=ku y-inta pi<add place="below">ra</add>māṇattillē kaṇṭa catuccira
+                    <lb n="20" break="no"/>maikkum U<hi rend="grantha">pakṣa</hi>yam-āka niṟcayitta <num value="90">9 <g type="numeral">10</g></num> mūliya
+                    <lb n="21"/><hi rend="grantha">M</hi> <seg rend="check">pu<!--EF: a symbol?--></seg> <num value="600">6 <g type="numeral">100</g></num> <gap reason="illegible" quantity="10" unit="character" precision="low"/> kkum y-inta maṉai
+                    <lb n="22"/>muppattu ṉālum <hi rend="grantha">putra-pautra-pāramparā</hi>
+                    <lb n="23"/>ya<hi rend="grantha">mm-ā</hi>ka <hi rend="grantha">Ācandrā</hi> <gap reason="lost" quantity="3" unit="character"/> āyiyāka U<hi rend="grantha">pakṣa</hi>ya-<hi rend="grantha"><unclear>dharmma</unclear></hi>
+                    <lb n="24" break="no"/><hi rend="grantha">śāsa</hi>ṉa<hi rend="grantha">mm-ā</hi>ka <hi rend="grantha">Ācandrā<unclear>r</unclear>kkam-āka</hi> paṟṟi Aṉupa
+                    <lb n="25" break="no"/>vi<choice><sic>n=</sic><corr>t</corr></choice>tu-k koḷḷa-k kaṭavar ākavum
+                </p>
+                <p>
+                    Aṉu<hi rend="grantha">pa</hi>vikku
+                    <lb n="26" break="no"/>mm iṭat=tu y-inta maṉai muppatt=u ṉālukkuḷ Uṇṭāṉa
+                    <lb n="27"/>ni<hi rend="grantha">dhi</hi>-ni<hi rend="grantha">kṣepa-jala-pāṣā</hi>ṇa-<hi rend="grantha">Akṣi</hi>ṇi-<hi rend="grantha">Ākā</hi>
+                    <lb n="28" break="no"/><hi rend="grantha">mi-<supplied reason="lost">siddha</supplied>-<unclear cert="low">sādhy</unclear></hi>ya<hi rend="grantha">m</hi> Eṉkiṉṟa <hi rend="grantha">Aṣ<supplied reason="omitted">ṭa</supplied></hi>-pōka tēca<hi rend="grantha">śv</hi>
+                    <lb n="29"/><hi rend="grantha">ā</hi>miyaṅkaḷum Uḷpaṭa <hi rend="grantha">dā</hi>ṉā<hi rend="grantha">dhi</hi> viṉmaya vikkiṟa
+                    <lb n="30"/><gap reason="lost" quantity="1" unit="character"/> ṟayaṅkaḷukkum yō<hi rend="grantha">gy</hi>ya<hi rend="grantha">M</hi>m-āka puṉa <gap reason="illegible" quantity="3" unit="character"/> <hi rend="grantha">ma</hi>
+                    <lb n="31"/>ṇa nira<hi rend="grantha">pekṣam-āka</hi> paṟṟi Aṉupavittuk <supplied reason="lost">ko</supplied>
+                    <lb n="32" break="no"/>ḷḷa-k kaṭ<choice><sic>ai</sic><corr>a</corr></choice>var ākavum
+                </p>
+                
+                
+                <p>
+                    Aṉupavikku miṭattu I
                     <lb n="33"/><gap reason="lost" quantity="3" unit="character"/> kku kala nillai kala nuḷavākat tōṟṟiṟa paṭil
                     <lb n="34"/>nāṅkaḷē tmuṉṉiṉṟu kalaṉ <gap reason="lost" quantity="1" unit="character"/> ttu kuṭukka kaṭavē mā
                     <lb n="35"/><gap reason="lost" quantity="3" unit="character"/> kavum y-ippaṭi cammatittu Upa<hi rend="grantha">kṣa</hi>ya dhamma-śāsana
@@ -139,6 +145,7 @@
                     <lb n="45"/>kōyil kaṇakku poykai-nallūr Uṭai
                     <lb n="46"/>yār <gap reason="lost" quantity="2" unit="character"/> varata timayyā rācan Eḻuttu <g type="pc">.</g>
                 </p>
+                
                 <lg xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                     <l n="a"><lb n="47"/>Ek<choice><sic>e</sic><corr>ai</corr></choice>va <unclear>bha</unclear>ginī lok<unclear>e</unclear></l>
                     <l n="b">sarvveṣām eva bhūbhu<unclear>jāM</unclear></l>
@@ -155,10 +162,34 @@
                     </app>
                     <app loc="11">
                         <lem><unclear>ciṅkarum</unclear> <gap reason="lost" quantity="4" unit="character"/> <hi rend="grantha"><choice><orig>k</orig><reg>g</reg></choice>otra</hi>ttu A
-                    <lb n="12" break="no"/><hi rend="grantha">pastambha-sūtra</hi>ttu</lem>
+                            <lb n="12" break="no"/><hi rend="grantha">pastambha-sūtra</hi>ttu</lem>
                         <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">ciṅkarum <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="12"/><hi rend="grantha">pasta</hi>m<hi rend="grantha">bha-sū</hi>trattu</rdg>
-                    </app>                    
+                            <lb n="12"/><hi rend="grantha">pasta</hi>m<hi rend="grantha">bha-sū</hi>trattu</rdg>
+                    </app>  
+                    <app loc="16">
+                        <lem>kiḻak<unclear>ku</unclear> <gap reason="lost" quantity="1" unit="character"/> ṉa <unclear cert="low">ciṟa</unclear>ku maṉai <num value="19"><unclear cert="low"><g type="numeral">10</g> 9</unclear></num></lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">kiḻak<unclear>ku</unclear> <gap reason="lost" extent="unknown" unit="character"/></rdg>
+                    </app>
+                    <app loc="21">
+                        <lem><num value="600">6 <g type="numeral">100</g></num> <gap reason="illegible" quantity="10" unit="character" precision="low"/> kkum y-inta maṉai</lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"><num value="600">6 <g type="numeral">100</g></num> <gap reason="lost" quantity="20" unit="character" precision="low"/></rdg>
+                    </app>
+                    <app loc="23">
+                        <lem>U<hi rend="grantha">pakṣa</hi>ya-<hi rend="grantha"><unclear>dharmma</unclear></hi>
+                    <lb n="24" break="no"/><hi rend="grantha">śāsa</hi>ṉa<hi rend="grantha">mm-ā</hi>ka</lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">Upa<hi rend="grantha">kṣa</hi>ya <hi rend="grantha">dha</hi>m <gap reason="lost" quantity="4" unit="character"/>
+                    <lb n="24" break="no"/>tā<hi rend="grantha">sa</hi>ṉam māka</rdg>
+                    </app>
+                    <app loc="27">
+                        <lem><hi rend="grantha">Ākā</hi>
+                    <lb n="28" break="no"/><hi rend="grantha">mi-<supplied reason="lost">siddha</supplied>-<unclear cert="low">sādhy</unclear></hi>ya<hi rend="grantha">m</hi></lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">Āt kā
+                    <lb n="28"/>mi <gap reason="lost" quantity="4" unit="character"/> yam</rdg>
+                    </app>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
+                    </app>
                 </listApp>
             </div>
             
