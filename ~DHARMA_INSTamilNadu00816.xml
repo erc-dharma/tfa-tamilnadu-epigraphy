@@ -125,25 +125,33 @@
                     <lb n="30"/><gap reason="lost" quantity="1" unit="character"/> ṟayaṅkaḷukkum yō<hi rend="grantha">gy</hi>ya<hi rend="grantha">M</hi>m-āka puṉa <gap reason="illegible" quantity="3" unit="character"/> <hi rend="grantha">ma</hi>
                     <lb n="31"/>ṇa nira<hi rend="grantha">pekṣam-āka</hi> paṟṟi Aṉupavittuk <supplied reason="lost">ko</supplied>
                     <lb n="32" break="no"/>ḷḷa-k kaṭ<choice><sic>ai</sic><corr>a</corr></choice>var ākavum
+                </p>   
+                <p>
+                    A<unclear>ṉu</unclear>pavikkum iṭattu I
+                    <lb n="33" break="no"/><gap reason="lost" quantity="1" unit="character"/> kku kala nillai kala nuḷavākat tōṟṟiṟa paṭil
+                    <lb n="34"/>nāṅkaḷē muṉṉiṉṟu kalaṉ <gap reason="lost" quantity="1" unit="character"/> <unclear cert="low">t=</unclear>tu kuṭukka kaṭa<seg rend="check">vē mā<!--EF: ri--></seg>
+                    <lb n="35"/><gap reason="lost" quantity="1" unit="character"/> ākavum y-ippaṭi cammatittu Upa<hi rend="grantha">kṣa</hi>ya-<hi rend="grantha">dha<reg>r</reg>mma-śāsa</hi>na
+                    <lb n="36" break="no"/>m paṇṇi-k kuṭuttōm tāttā<hi rend="grantha">cā</hi>riya Ayya<choice><orig>n</orig><reg>ṉ</reg></choice>
+                    <lb n="37"/>Avarkaḷukku tiru-vekā-nayiṉār kōyil <hi rend="grantha">śrī</hi>
+                    <lb n="38" break="no"/>-paṇṭārattārum <hi rend="grantha">śrī</hi>-kāriya<hi rend="grantha">m</hi> ceyyum Aḻakiya ciri
+                    <lb n="39"/>ṅkart= tammōm
                 </p>
                 
-                
                 <p>
-                    Aṉupavikkum iṭattu I
-                    <lb n="33" break="no"/><gap reason="lost" quantity="3" unit="character"/> kku kala nillai kala nuḷavākat tōṟṟiṟa paṭil
-                    <lb n="34"/>nāṅkaḷē tmuṉṉiṉṟu kalaṉ <gap reason="lost" quantity="1" unit="character"/> ttu kuṭukka kaṭavē mā
-                    <lb n="35"/><gap reason="lost" quantity="3" unit="character"/> kavum y-ippaṭi cammatittu Upa<hi rend="grantha">kṣa</hi>ya dhamma-śāsana
-                    <lb n="36" break="no"/>m paṇṇi-k kuṭuttōm tāttācāriya Ayyan
-                    <lb n="37"/>Avarkaḷukku tiru vekā nayiṉār kōyil śrī
-                    <lb n="38"/>paṇṭārattārum śrī kāriyam ceyyum Aḻakiya ciri
-                    <lb n="39"/>ṅkart tammōm Imāni narasiṃha syākṣa karaṇa tāṉ
-                    <lb n="40"/>vaḷar tuyilamantāṉ paṭṭar conna vaṇṇam <gap reason="lost" quantity="1" unit="character"/> ḷḷi paṭṭar Eḻu
-                    <lb n="41"/>ttu tiru-c-cittiṟa-kūṭa-p-paṭṭar conna vaṇṇam <gap reason="lost" quantity="5" unit="character"/>
-                    <lb n="42"/>ttu kaṅka <gap reason="lost" quantity="4" unit="character"/> paṭṭar Aṇṇappa nayiṉār Eḻuttu
-                    <lb n="43"/>tāsan mā nampi Appaya mutali Uḷḷiṭṭār Eḻu
-                    <lb n="44"/>ttu y-ippaṭikku y-inta <hi rend="grantha">śāsa</hi>ṉam Eḻutiṉamaikku
+                    <list>
+                        <item> I<hi rend="grantha">mā</hi>ni na<hi rend="grantha">rasiṃhasyākṣarā</hi>ṇa tāṉ
+                            <lb n="40"/>vaḷar tuyilamantā<choice><orig>n</orig><reg>ṉ</reg></choice> paṭṭar co<choice><orig>nn</orig><reg>ṉṉ</reg></choice>a vaṇṇam <gap reason="lost" quantity="1" unit="character"/> ḷḷi paṭṭar Eḻu
+                            <lb n="41" break="no"/>ttu</item>
+                        <item>tiru-c-cittiṟa-kūṭa-p-paṭṭar co<choice><orig>nn</orig><reg>ṉṉ</reg></choice>a vaṇṇam <gap reason="lost" quantity="6" unit="character"/>
+                            <lb n="42" break="no"/>ttu</item>
+                        <item>kaṅka <gap reason="lost" quantity="4" unit="character"/> paṭṭar Aṇṇappa nayiṉār Eḻuttu</item>
+                        <item><lb n="43"/>tā<hi rend="grantha">sa</hi><choice><orig>n</orig><reg>ṉ</reg></choice> m<unclear cert="low">ā</unclear> nampi Appaya mutali Uḷḷiṭṭār Eḻu
+                            <lb n="44" break="no"/>ttu</item></list>
+                </p>
+                <p>
+                    y-ippaṭikku y-inta <hi rend="grantha">śāsa</hi>ṉam Eḻutiṉamaik=ku
                     <lb n="45"/>kōyil kaṇakku poykai-nallūr Uṭai
-                    <lb n="46"/>yār <gap reason="lost" quantity="2" unit="character"/> varata timayyā rācan Eḻuttu <g type="pc">.</g>
+                    <lb n="46" break="no"/>yār <seg rend="check"><gap reason="lost" quantity="2" unit="character"/> varata</seg> timayyā rāca<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻuttu <g type="pc">.</g>
                 </p>
                 
                 <lg xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
@@ -176,15 +184,15 @@
                     </app>
                     <app loc="23">
                         <lem>U<hi rend="grantha">pakṣa</hi>ya-<hi rend="grantha"><unclear>dharmma</unclear></hi>
-                    <lb n="24" break="no"/><hi rend="grantha">śāsa</hi>ṉa<hi rend="grantha">mm-ā</hi>ka</lem>
+                            <lb n="24" break="no"/><hi rend="grantha">śāsa</hi>ṉa<hi rend="grantha">mm-ā</hi>ka</lem>
                         <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">Upa<hi rend="grantha">kṣa</hi>ya <hi rend="grantha">dha</hi>m <gap reason="lost" quantity="4" unit="character"/>
-                    <lb n="24" break="no"/>tā<hi rend="grantha">sa</hi>ṉam māka</rdg>
+                            <lb n="24" break="no"/>tā<hi rend="grantha">sa</hi>ṉam māka</rdg>
                     </app>
                     <app loc="27">
                         <lem><hi rend="grantha">Ākā</hi>
-                    <lb n="28" break="no"/><hi rend="grantha">mi-<supplied reason="lost">siddha</supplied>-<unclear cert="low">sādhy</unclear></hi>ya<hi rend="grantha">m</hi></lem>
+                            <lb n="28" break="no"/><hi rend="grantha">mi-<supplied reason="lost">siddha</supplied>-<unclear cert="low">sādhy</unclear></hi>ya<hi rend="grantha">m</hi></lem>
                         <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">Āt kā
-                    <lb n="28"/>mi <gap reason="lost" quantity="4" unit="character"/> yam</rdg>
+                            <lb n="28"/>mi <gap reason="lost" quantity="4" unit="character"/> yam</rdg>
                     </app>
                     <app loc="0">
                         <lem></lem>
