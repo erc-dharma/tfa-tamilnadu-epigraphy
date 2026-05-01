@@ -88,14 +88,16 @@
                 
                 <p>
                     <hi rend="grantha">śrīmaN mahā-ma</hi>ṇṭale<hi rend="grantha">śva<unclear>ra</unclear></hi>
-                    <hi rend="grantha">rājādhirāja rāja-parameśvara śrī-vīra-pra<choice><sic>d</sic><corr>t</corr></choice>āpa śrī</hi>-vī<hi rend="grantha">ra śrī</hi>-vēṅkaṭa-tēva-<hi rend="grantha">mahārā</hi>yar <hi rend="grantha">pridi</hi>vi-<hi rend="grantha">rāj</hi>ya<hi rend="grantha">m pa</hi>ṇ
-                    <lb n="2" break="no"/>ṇi Aruḷā niṉṟa <hi rend="grantha">śāli</hi>-vā<supplied reason="omitted"><hi rend="grantha">ha</hi></supplied>ṉa <hi rend="grantha">śakāb</hi>ta<hi rend="grantha">m</hi> 1508 ṉ mēl cellā niṉṟa viya samvaṟsarattu Āṣāṭa nāyaṟṟu pūṟuva pakṣattu yintu vā śaramum
-                    <lb n="3"/>pañcamiyum peṟṟa Atta nakṣatrattu nāḷ ceyaṅ koṇṭa cōḻa maṇṭalattu cantrakiri yirājyattu Ūṟṟuk kāṭṭuk kōṭṭattu viṟ
-                    <lb n="4" break="no"/>pēṭu ṉāṭṭil nakaram kāñcipuram viṣ<unclear>ṇu</unclear> stānam tiru vekā nayiṉār kōyil śrī paṇṭārattārum śrī kāriyam ceyyum śrīmatu vēta māṟka
-                    <lb n="5"/><hi rend="grantha">prat<supplied reason="lost">i</supplied>ṣṭāpa</hi>ṉācārya<unclear>r</unclear> Upaiya vētāntācāriyarāṉa Eṭṭūr tirumalai kumāra tāttācāryar Ayyan san <gap reason="lost" quantity="2" unit="character"/> Aḻakiya ciṅkarum ṣaṭamaruṣṇa gotrattu
-                    <lb n="6"/><hi rend="grantha">Āpastaṃpa-sūtra</hi>ttu yejñaśśā khā bāyarāna śrīmatu vēdamāṟka vidhiṣṭāpaṉācārya Upaiya vētāntācāriya rāṉa tirumalai kumpakōṇam tāttācāryar Ayyā
-                    <lb n="7"/>vayyaṅkār kumārar tirumārpiliruñ cōlai Ayyaṅkār Ayyan Avarkaḷukku y-ivv-emperumāṉ tiru-p-paḷi Ōṭa-t tiru-ṉāḷ poliyūṭṭu nimantam-āka śe <gap reason="lost" quantity="2" unit="character"/> kṣa
-                    <lb n="8"/>taṟma-śāsanam paṇṇi kuṭuttapaṭi yivvemperumāṉ tiru viḷaiyāṭṭa māṉa māṉa naṅka nallūrukku vīti nāma māṉa <gap reason="lost" quantity="2" unit="character"/> rukkai cemaya ki <gap reason="lost" quantity="4" unit="character"/>
+                    <hi rend="grantha">rājādhirāja rāja-parameśvara śrī-vīra-pra<choice><sic>d</sic><corr>t</corr></choice>āpa śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">ra śrī</hi>-vēṅkaṭa-tēva-<hi rend="grantha">mahārā</hi>ya<hi rend="grantha">r pridi</hi>vi-<hi rend="grantha">rājy</hi>ya<hi rend="grantha">m pa</hi>ṇ
+                    <lb n="2" break="no"/>ṇi Aruḷā niṉṟa <hi rend="grantha">śāli</hi>-vā<supplied reason="omitted"><hi rend="grantha">ha</hi></supplied>ṉa <hi rend="grantha">śakāb</hi>ta<hi rend="grantha">M</hi> <num value="1508"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 8</num> m<choice><sic>ai</sic><corr>e</corr></choice>l cellā niṉṟa viya- <hi rend="grantha">saṃ</hi>vaṟsa<hi rend="grantha">ra</hi>ttu Ā<hi rend="grantha">ṣā</hi>ṭa-nāyaṟṟu <hi rend="grantha">pūrvva-pakṣa</hi>t=tu y-in=tu-vā<hi rend="grantha">śaramum</hi>
+                    <lb n="3"/><hi rend="grantha">pa</hi>ñcamiyum peṟṟa At=ta-na<hi rend="grantha">kṣatra</hi>t=tu nāḷ ceyaṅ-koṇṭa -cōḻa-maṇṭalattu <hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>ra<choice><orig>k</orig><reg>g</reg></choice>iri</hi>-y-i<hi rend="grantha">rājy</hi>yat=tu Ūṟṟu-k-kāṭṭu-k-kōṭ=ṭat=tu viṟ
+                    <lb n="4" break="no"/>pēṭu ṉāṭ=ṭil nakaram kāñ<unclear>ci</unclear>puram vi<hi rend="grantha">ṣ<supplied reason="lost">ṇu</supplied></hi>-<hi rend="grantha">s<supplied reason="lost">t</supplied>ā</hi>na<hi rend="grantha">m</hi> tiru-vekā-nayiṉār kōyil <hi rend="grantha">śrī</hi>-paṇṭārattārum <hi rend="grantha">śrī</hi>-kār<supplied reason="lost">i</supplied>yam ceyyum <hi rend="grantha">śrī</hi>matu-vēta-māṟka
+                    <lb n="5" break="no"/><hi rend="grantha">prat<supplied reason="lost">i</supplied>ṣṭāpa</hi>ṉācār<supplied reason="lost">i</supplied>ya<supplied reason="lost">r</supplied> Upaiya-vētān=tācār<supplied reason="lost">i</supplied>yar-āṉa Eṭṭūr t<supplied reason="lost">i</supplied>rumalai kumā=ra-tāttācār<unclear cert="low">i</unclear>yar Ayya<hi rend="grantha">N sa</hi><unclear>n</unclear> <gap reason="lost" quantity="2" unit="character"/><!--EF: sannatiyil is expected--> Aḻakiya ciṅkarum <hi rend="grantha">ṣa</hi>ṭamaru<hi rend="grantha">ṣ</hi>ṇa-<hi rend="grantha">gotra</hi>t=tu
+                    <lb n="6"/><hi rend="grantha">Āpastaṃpa-sūtra</hi>t=tu ye<hi rend="grantha">jñaśśākhā<seg rend="check">bā</seg></hi>ya<hi rend="grantha">r-ā</hi>na <hi rend="grantha">śrīmatu-veda</hi>-māṟka-vi<hi rend="grantha">dhiṣṭhā</hi>paṉācāriya Upaiya-vētān=tācāriyar=-āṉa tirumalai kumpakōṇam tāt=tācār<unclear>i</unclear>yar <seg rend="check">Ayyā</seg>
+                    <lb n="7"/>vayyaṅkār kumārar tirumā=rpiliruñ cōlai Ayyaṅkār Ayya<hi rend="grantha">N</hi> Avarkaḷukku y-ivv-emperumāṉ tiru-p-paḷi Ōṭa-t t<supplied reason="lost">i</supplied>ru-ṉāḷ poliyūṭṭu nimantam-āka <hi rend="grantha">śe</hi> <gap reason="lost" quantity="2" unit="character"/> <hi rend="grantha">kṣa</hi> <gap reason="lost" quantity="1" unit="character"/>
+                    <lb n="8" break="no"/>taṟma-<hi rend="grantha">śāsa</hi>na<hi rend="grantha">M</hi> paṇṇi kuṭuttapaṭi y-<supplied reason="lost">i</supplied>v-emperumāṉ tiru-viḷaiyāṭ=ṭa māṉa māṉa naṅka nallūrukku v<choice><orig>i</orig><reg>ī</reg></choice>ti <seg rend="check">nā</seg>ma māṉa <gap reason="lost" quantity="2" unit="character"/> rukkai cemaya ki <gap reason="lost" quantity="4" unit="character"/>
+                    
+                    
                     <lb n="9"/><gap reason="lost" quantity="2" unit="character"/> yyaṉ paḷḷa ceṟuvu mēṟku toppai <gap reason="lost" quantity="4" unit="character"/> Uḷpaṭa Acumpum <gap reason="lost" quantity="3" unit="character"/> latta tirut <gap reason="lost" quantity="3" unit="character"/> peṭṭiyum <gap reason="lost" quantity="5" unit="character"/> ttam Āyirattu Aññūṟu
                     <lb n="10" break="no"/>kkum Upakṣayam māka ceyitu kuṭutta pa 1000 paṇam Āyiramum nāṅkaḷ kai Ūkkam paṟṟik koṇṭu Inta Āyirattu Aññūṟukkum <gap reason="lost" quantity="4" unit="character"/> yupakṣaya dhamma-śā
                     <lb n="11" break="no"/>saṉam Āka paṇṇi kuṭuttōm Inta Āyirattu Aññūṟu kuṭikkum varum <gap reason="lost" quantity="4" unit="character"/> ṣepa-jala-pāṣāṇa-kṣaṇa Akādi vari tēsācata ṭṭaṉaka
@@ -121,6 +123,26 @@
             
             <div type="apparatus">
                 <listApp>
+                    <app loc="2">
+                        <lem>m<choice><sic>ai</sic><corr>e</corr></choice>l</lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">ṉ mēl</rdg>
+                    </app>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
+                    </app>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
+                    </app>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
+                    </app>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
+                    </app>
                     <app loc="0">
                         <lem></lem>
                         <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
