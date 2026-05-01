@@ -86,61 +86,63 @@
                     <lb n="1"/><hi rend="grantha"><supplied reason="lost">śu</supplied>bham astu</hi>
                 </ab>
                 <p>
-                    cittiṟa-pāṉu-varuṣam kāṟtikai-māsam
-                    <lb n="2"/>Uddāṉa tuvāteciyil
+                    cittiṟa-pāṉu-varu<hi rend="grantha">ṣaM</hi> kāṟtikai-mā<hi rend="grantha">sa</hi>m <num value="12"><g type="numeral">10</g> 2</num>
+                    <lb n="2"/>U<hi rend="grantha">ddhā</hi>ṉa tuvāteciyil
                 </p>
                 
                 <p>
                     <hi rend="grantha">śrīma</hi>te <hi rend="grantha">rāmā</hi>ṉu<hi rend="grantha">jā</hi>ya na<hi rend="grantha">maḥ</hi>
                 </p>
+                
                 <p>                    
-                    <lb n="3"/>śrīma <gap reason="lost" quantity="1" unit="character"/> vēda māṟka pratiṣṭāpanācārya Ubhaya vēdān
-                    <lb n="4"/>tācāriya rāna periya tirumalai nampi tiru vaṃsattu śa
-                    <lb n="5"/>ṭa <unclear>ma</unclear>ruṣaṇa gotrattu Āpastampa sūtrattu
-                    <lb n="6"/>ye <gap reason="lost" quantity="21" unit="character"/> vayyaṅkār kumārar ye
-                    <lb n="7"/>ṭṭūr tirumalai kumāra tāttācāriyar Ayyaṉ
-                    <lb n="8"/>ṉāṉā kōtrattu śrī vayiṣṇavarkaḷukkum tāṉā dha
-                    <lb n="9"/>rma māka <gap reason="lost" quantity="20" unit="character"/> paṇṇik kuṭutta paṭi
-                    <lb n="10"/>muṉṉāḷ coṉṉa vaṇṇam ceyta perumāḷ saṉṉati
-                    <lb n="11"/>tiru vīti Akkiṟāramāka yik kōyil śrī paṇṭārattār stalattup pēr
-                    <lb n="12"/>kaiyyil Upakṣēya taṟma śāsaṉam paṇṇi kuṭutta maṉai muppattu
+                    <lb n="3"/><hi rend="grantha">śrīmad-veda</hi>-māṟka <hi rend="grantha">pra</hi>ti<hi rend="grantha">ṣṭhāpa</hi>nācār<unclear cert="low">i</unclear>ya U<hi rend="grantha">bha</hi>ya-ve<hi rend="grantha">dā</hi>n
+                    <lb n="4" break="no"/>tācāriya<hi rend="grantha">r-ā</hi>na periya tirumalai nampi tiru-va<hi rend="grantha">ṃ</hi>sattu <hi rend="grantha">śa</hi>
+                    <lb n="5" break="no"/><seg rend="check"><hi rend="grantha">ṭha</hi>-<unclear>ma</unclear></seg>ru<hi rend="grantha">ṣa</hi>ṇa-<hi rend="grantha">gotra</hi>ttu Āpa<hi rend="grantha">staMpa-sūtra</hi>ttu <gap reason="lost" quantity="4" unit="character"/>
+                    <lb n="6"/><seg rend="check">ye<!--EF: khe?--></seg> <gap reason="lost" quantity="10" unit="character" precision="low"/> vayyaṅkār kumārar ye
+                    <lb n="7" break="no"/>ṭṭūr tirumalai kumāra tāttācāriyar Ayyaṉ
+                    <lb n="8" break="no"/>ṉāṉā-<hi rend="grantha">kotra</hi>ttu <hi rend="grantha">śrī</hi>-vayi<hi rend="grantha">ṣṇa</hi>varkaḷukkum tā<seg rend="check">ṉā <hi rend="grantha">dha</hi></seg>
+                    <lb n="9"/><seg rend="check"><hi rend="grantha">rma</hi></seg>m-āka <gap reason="lost" quantity="10" unit="character" precision="low"/> <hi rend="grantha">M</hi> paṇṇi-k kuṭutta paṭi <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="10"/>muṉṉāḷ coṉṉa vaṇṇa<hi rend="grantha">M</hi> ceyta perumāḷ <hi rend="grantha">sa</hi>ṉṉati
+                    
+                    <lb n="11"/>tiru-vīti Akkiṟāram-āka y-ik-kōyil śrī-paṇṭārattār stalattu-p pēr
+                    <lb n="12"/>kaiyyil Upakṣēya-taṟma-śāsaṉam paṇṇi kuṭutta maṉai muppattu
                     <lb n="13"/>mūṉṟu tiru māḷikai maṉaiyum cuntarācāryar puram Eṉṟu
-                    <lb n="14"/>yinta tiruvītikkut tiru ṉāmam cātti yinta tiruvīti A
-                    <lb n="15"/>grahārattukku Āka vāraṇavāci Eṉkuṟa grāmattai
+                    <lb n="14"/>y-inta tiruvītikku-t tiru-ṉāmam cātti y-inta tiru-vīti A
+                    <lb n="15" break="no"/><hi rend="grantha">grahāra</hi>ttukku Āka vāraṇavāci Eṉkuṟa grāmattai
                     <lb n="16"/>coṉṉa vaṇṇam ce<unclear>y</unclear>ta perumāḷukku
-                    <lb n="17"/>kālattil nāḷoṉṟukku kalanē Añcu kuṟuṇi Amutupaṭi
-                    <lb n="18"/>yum patiṉēḻu taḷikai yāka Oru Avasaram Āka Amutu ceta
-                    <lb n="19"/>ruḷap paṇṇi yintap patiṉ Eḻu taḷikai prasādamum tiru
-                    <lb n="20"/>māḷikai Oṉṟukku tiṉam ṉāṉāḻi prasādam Eṭuttu ko
+                    <lb n="17"/>kālattil nāḷ oṉṟukku kalanē Añcu kuṟuṇi Amutu-paṭi
+                    <lb n="18" break="no"/>yum patiṉēḻu taḷikai-y-āka Oru Avasaram Āka Amutu ceta
+                    <lb n="19" break="no"/>ruḷa-p paṇṇi y-inta-p patiṉ Eḻu taḷikai prasādamum tiru
+                    <lb n="20" break="no"/>-māḷikai Oṉṟukku tiṉam ṉāṉāḻi prasādam Eṭuttu ko
                     <lb n="21" break="no"/>ṇṭu <hi rend="grantha">Ācandrākkam-āka</hi> paṟṟi Aṉupavittu-k koḷḷa-k kaṭa
-                    <lb n="22" break="no"/>varkaḷḷ ākavum Aṉupavikkum miṭattu y-inta muppattu
+                    <lb n="22" break="no"/>varkaḷḷ ākavum Aṉupavikkumm iṭattu y-inta muppattu
                     <lb n="23"/>mūṉṟu maṉaikkum varum samudāya prāptiyum Uḷ
                     <lb n="24" break="no"/>paṭa ni<hi rend="grantha">dhi</hi>-ni<hi rend="grantha">kṣepa-jala-pāṣā</hi>ṇa <hi rend="grantha">Akṣiṇyōgāmi sā</hi>
-                    <lb n="25"/>sāt3yaM Eṉkuṟa Aṣṭa-bhoga-tēja-svāmi
+                    <lb n="25"/><hi rend="grantha">sā<unclear>ddhya</unclear>M</hi> Eṉkuṟa Aṣṭa-bhoga-tēja-svāmi
                     <lb n="26"/>yaṅkaḷum <gap reason="lost" quantity="7" unit="character"/> ḷuppa yāṉāmi vinimpa
                     <lb n="27"/>vikkiṟaiyaṅkaḷukkum yōgamm-āka puṉya pramā
                     <lb n="28"/>nirape<hi rend="grantha">kṣa</hi>m-āka <gap reason="lost" quantity="12" unit="character" precision="low"/>
-                    <lb n="29"/>cāryamm-āka <gap reason="lost" quantity="12" unit="character" precision="low"/>
-                    <lb n="30"/>kavum y-ippaṭi cammatittu tārā-pūrva-dhamma-śāsaṉam
+                    <lb n="29"/><hi rend="grantha">cā</hi>r<unclear cert="low">i</unclear>yamm-āka <gap reason="lost" quantity="12" unit="character" precision="low"/>
+                    <lb n="30" break="no"/>kavum y-ippaṭi cammatittu tārā-pūrva-dhamma-śāsaṉam
                     <lb n="31"/>paṇṇi-k kuṭuttōm ṉāṉā-kōtrattu śrī-vayiṣṇavarkaḷukku
-                    <lb n="32" break="no"/>m tāttācāryar Ayyaṉēṉ Inta sūntarācāryar puram ti
-                    <lb n="33" break="no"/>ru-māḷikaiyil kuṭiyirukkiṟa śrī vaiṣṇavarkaḷukku pēr viparam
+                    <lb n="32" break="no"/>m tāttācāryar Ayyaṉēṉ Inta <hi rend="grantha">su</hi>n=tarācāryar <hi rend="grantha">pura</hi>m ti
+                    <lb n="33" break="no"/>ru-māḷikaiyil kuṭiyirukkiṟa śrī-vaiṣṇavarkaḷukku pēr viparam
                     <lb n="34"/>vaṭa ciṟaku ti mutal mūṉṟu maṉaiyum ṉālā maṉaiyum tāttā
-                    <lb n="35" break="no"/>cāryar Ayyaṉ yic ciṟaku kiḻakku mutal maṉaiyum 2 Āmaṉai
-                    <lb n="36" break="no"/>yum Ayyaṉ śrī rā<unclear>ma</unclear> śrī Ayyaṉ teṉ ciṟaku kiḻak
-                    <lb n="37" break="no"/>ku mutal maṉai malai kuṉiya niṉṟa perumāḷ Iṇā 2ā maṉai kiṭāmpi
+                    <lb n="35" break="no"/>cāryar Ayyaṉ y-ic-ciṟaku kiḻakku mutal maṉaiyum 2 Āmaṉai
+                    <lb n="36" break="no"/>yum Ayyaṉ śrī-rā<unclear>ma</unclear> śrī-Ayyaṉ teṉ-ciṟaku kiḻak
+                    <lb n="37" break="no"/>ku mutal maṉai malai kuṉiya niṉṟa perumāḷ Iṇā 2 ā maṉai kiṭāmpi
                     <lb n="38"/><gap reason="lost" quantity="2" unit="character"/> mayaṅkār 3 Ām maṉai māṭaipūcu ṉārāyaṇa yaṅkār 4 Ām
                     <lb n="39" break="no"/>maṉai mumpirāla kastūri 5 Ām maṉai ṉāṟttaṅkāy Appā 6 Ām maṉai Am
-                    <lb n="40" break="no"/>ṣap pirāṉ Ayyaṉ 7ām maṉai piḷḷai varatayaṅkār 8 Ām maṉai śrī marutān
+                    <lb n="40" break="no"/>ṣap pirāṉ Ayyaṉ 7 Ām maṉai piḷḷai varatayaṅkār 8 Ām maṉai śrī marutān
                     <lb n="41"/>takam cī-ṟāmayaṅkār 9 Ām maṉai periya perumāḷ 10 Ām maṉai tiruppati
                     <lb n="42"/>parama vastu cī-rāmayaṅkār 11 Ām maṉai cīyar Appā 12 Ām maṉai teyvat
                     <lb n="43"/>tukku Aracu 12 Ām maṉai muṭampai Irāmayaṅkār 13 Ām maṉai mumpirāla nāraṇa tīkṣita
-                    <lb n="44"/>kōvinta <gap reason="lost" quantity="5" unit="character"/> ṉai pāṇṭi pākkam kumāṇṭūr Aṉantaya <gap reason="lost" quantity="4" unit="character"/>
-                    <lb n="45"/>16 maṉai kumāṇṭūr <gap reason="lost" quantity="4" unit="character"/> maṉai piḷḷai tirumalai yar vaṭa ciṟaku
+                    <lb n="44" break="no"/>-kōvinta <gap reason="lost" quantity="5" unit="character"/> ṉai pāṇṭi pākkam kumāṇṭūr Aṉantaya <gap reason="lost" quantity="4" unit="character"/>
+                    <lb n="45"/>16 maṉai kumāṇṭūr <gap reason="lost" quantity="4" unit="character"/> maṉai piḷḷai tirumalaiyar vaṭa ciṟaku
                     <lb n="46"/>Ācaṟuti mēṟku mutal 17 maṉai yiḷaiya perumāḷ <gap reason="lost" quantity="1" unit="character"/> kīḻ
                     <lb n="47"/><gap reason="lost" quantity="2" unit="character"/> 16 maṉaiyum 15 Ām maṉaiyum tāṉattār 14 maṉai kūram
                     <lb n="48"/>ṅkār 13 Ām maṉai muppirāl śrīnivāsayaṅkār 18 Ām maṉai
-                    <lb n="49"/>kurōvi Appā 19ām maṉai cevalli śrī-rūpālaiyaṅkār 1 <gap reason="lost" quantity="1" unit="character"/> maṉai
+                    <lb n="49"/>kurōvi Appā 19 Ām maṉai cevalli śrī-rūpālaiyaṅkār 1 <gap reason="lost" quantity="1" unit="character"/> maṉai
                     <lb n="50"/>kāmiyam cīyar 9 Ām maṉai piṇayyā cī-rāmayaṅkār 8 Ām
                     <lb n="51"/>maṉai Ayyā tīkṣitar 7 Ām maṉai Aruṇaippuṟat tāḻvā
                     <lb n="52" break="no"/>n Em perumāṉār 6 Ām maṉai Akkini kōttaram Aṇṇā
@@ -154,6 +156,27 @@
             
             <div type="apparatus">
                 <listApp>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
+                    </app>
+                    
+                    <app loc="1">
+                        <lem>mā<hi rend="grantha">sa</hi>m <num value="12"><g type="numeral">10</g> 2</num></lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">mā<hi rend="grantha">sa</hi>m </rdg>
+                    </app>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
+                    </app>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
+                    </app>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
+                    </app>
                     <app loc="0">
                         <lem></lem>
                         <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>

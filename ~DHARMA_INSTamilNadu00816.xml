@@ -154,7 +154,7 @@
                     <lb n="46" break="no"/>yār <seg rend="check"><gap reason="lost" quantity="2" unit="character"/> varata</seg> timayyā rāca<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻuttu <g type="pc">.</g>
                 </p>
                 
-                <lg xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                <lg n="1" met="anuṣṭubh" rendition="class:grantha maturity:vernacular">
                     <l n="a"><lb n="47"/>Ek<choice><sic>e</sic><corr>ai</corr></choice>va <unclear>bha</unclear>ginī lok<unclear>e</unclear></l>
                     <l n="b">sarvveṣām eva bhūbhu<unclear>jāM</unclear></l>
                     <l n="c"><lb n="48"/>na <hi rend="grantha">bhojyā</hi> na kara<unclear>g</unclear>rahyā</l>
