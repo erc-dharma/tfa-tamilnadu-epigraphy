@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 21</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, time of Veṅkaṭapati, Śaka year 1509</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -83,12 +83,17 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <ab>
-                    <lb n="1"/><g type="tam-pillaiyarCuli"/> śubham astu supa
+                    <lb n="1"/><g type="tam-pillaiyarCuli"/> <hi rend="grantha">śubham astu supa</hi>
                 </ab>
                 <p>
-                    śrīmaN mahā-maṇṭalēśvaran rājādirāja rāja-paramēśvara śrī-vīra-pratāpa śrī-vīra śrī-vēṅkaṭapati deva mahārāyar pritivi rājyam paṇṇi Aruḷā niṉṟa
-                    <lb n="2"/>śāli-vāhana-śa<choice><sic>kh</sic><corr>k</corr></choice>āptam 1509 n mēl cellā niṉṟa sarvaśitti-samvaśśarattu vaiśākha-nāyaṟṟu <hi rend="grantha">pūrva-pakṣa</hi>t=tu yin=tu-va<hi rend="grantha">sara</hi>mum pañcamiy<unclear>u</unclear>m peṟṟa <hi rend="grantha">has<supplied reason="omitted">ta</supplied></hi><unclear>ta</unclear>-na<hi rend="grantha">kṣa</hi>ttirattu nāḷ ceyaṅ-ko
-                    <lb n="3"/>ṇṭa-cōḻa-maṇṭalattu cantirakiri rājyam Ūṟṟuk kāṭṭuk kōṭṭattu viṟpēṭu nāṭṭil nakaram kāñcipuram vi<hi rend="grantha">ṣṇu-stā</hi>nattil tiru vekā nayinārkōyil <unclear>śrī</unclear>-paṇṭārat
+                    <hi rend="grantha">śrīmaN mahā-ma</hi>ṇṭa<hi rend="grantha">leśva<gap reason="illegible" quantity="1" unit="character"/>ra</hi> <unclear>rāyā</unclear><hi rend="grantha">dh<supplied reason="lost">i</supplied>rāja-rāja parameśvara śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">ra-pra<choice><sic>dh</sic><corr>t</corr></choice>āpa śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">ra śrī</hi>-vē<supplied reason="lost">ṅ</supplied><hi rend="grantha">ka<seg rend="check">ṭa</seg>pa</hi>t<supplied reason="lost">i</supplied>-<hi rend="grantha">de</hi>va <hi rend="grantha">mahārā</hi>ya<hi rend="grantha">r pri</hi>tivi-<hi rend="grantha">rājyaM</hi> paṇ<unclear>ṇi Aruḷā niṉṟa</unclear>
+                    <lb n="2"/><hi rend="grantha">śāli</hi>-vā<hi rend="grantha">ha</hi>na-<hi rend="grantha">śa<choice><sic>kh</sic><corr>k</corr></choice>āptam</hi> <num value="1509"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 9</num> <hi rend="grantha">N</hi> mēl cellā niṉṟa <hi rend="grantha">sarva<!--EF:vra-->śi</hi>t=ti-<hi rend="grantha">saMvaśśara</hi>t=tu vai<hi rend="grantha">śā<unclear>kha</unclear></hi>-nāyaṟṟu <hi rend="grantha">pūrvva-pakṣa</hi>t=tu y-in=tu-v<supplied reason="lost">ā</supplied><hi rend="grantha">sara</hi>mum pañcamiy<unclear>u</unclear>m peṟṟa <hi rend="grantha">has<supplied reason="omitted">ta</supplied></hi>-na<hi rend="grantha">kṣa</hi>ttirat=tu nāḷ 
+                </p>
+                <p>
+                    ceyaṅ-ko
+                    <lb n="3"/>ṇṭa-cōḻa-maṇṭalat=tu cantirakiri-<hi rend="grantha"><unclear>rājya</unclear></hi><unclear>m</unclear> Ūṟṟuk kāṭṭu-k-kōṭ=ṭattu viṟpēṭu nāṭ=ṭil nakaram kāñcipuram vi<hi rend="grantha">ṣṇu-s<choice><orig><unclear>t</unclear></orig><reg>th</reg></choice>ā</hi>nat=til tiru-vekā-nayinār kōyil <unclear>śrī</unclear>-paṇṭā=rat
+                    
+                    
                     <lb n="4" break="no"/>tārum śrī kāriyam śrīmat vēta māṟka pratiṣṭāpaṉācārya Ubaiya vētāntācāryarāna Eṭṭūr tirumalai kumāra tāttācāryar Ayya<hi rend="grantha">N</hi> sannati Aḻakiya ciṅkarum <seg rend="check">ṣa</seg>ṭa maruṣaṇa kō<seg rend="check"><hi rend="grantha">tra</hi>ttu</seg>
                     <lb n="5"/>Āpastampa- <gap reason="lost" quantity="8" unit="character"/> tāttācāryar tirumalai kumpakōṇam tāttācariyar Ayyā vayyaṅkār
                     <lb n="6"/><gap reason="lost" quantity="4" unit="character"/> tirumā <gap reason="lost" quantity="6" unit="character"/> yitta māka śopakṣaya taṟma śāsanam paṇṇi kuṭuttap paṭi
