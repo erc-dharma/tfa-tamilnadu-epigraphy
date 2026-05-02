@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 23</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, king’s name lost, Śaka year lacunose</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -47,7 +47,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p>In the <foreign>mahāmaṇḍapa</foreign>, on the wall on the left side of the entrance in the <foreign>ardhamaṇḍapa</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>

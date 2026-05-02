@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 22</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, no king, no year.</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -43,7 +43,10 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>
+                            <p>Stone-inscription without regnal year.</p>
+                            <p>Northern side (i.e. on the left when entering) of the <foreign>gopura</foreign>, in the passageway.</p>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -101,15 +104,20 @@
                         <lb n="10" break="no"/>ṇa</l> <l n="d">svadattan nispha
                             <lb n="11" break="no"/>laM bhaveT <g type="gomutraFinal">.</g></l>
                 </lg>
-                <p>
+                <lg n="3" met="śārdūlavikrīḍita"><!--check metre-->
+                    <l n="a">
                     <lb n="12"/>svāmin tātaya-deśikendra
                         <lb n="13"/>satatandāṉa vikrayā <gap reason="lost" quantity="3" unit="character"/>
                         <lb n="14"/>vatā <gap reason="lost" quantity="4" unit="character"/> syāma sa <gap reason="lost" quantity="1" unit="character"/>
                         <lb n="15"/>pāśritām <gap reason="lost" quantity="3" unit="character"/> rāvi
                         <lb n="16"/>prāyaḥ pramōdākra
-                        <lb n="17"/><gap reason="lost" quantity="2" unit="character"/> sāvitrī vacasā
+                        <lb n="17"/><gap reason="lost" quantity="2" unit="character"/> 
+                    </l>
+                    <l n="d">
+                        sāvitrī vacasā
                         <lb n="18"/><gap reason="lost" quantity="1" unit="line"/>
-                </p>
+                    </l>
+                </lg>                
             </div>
             
             <div type="apparatus">
