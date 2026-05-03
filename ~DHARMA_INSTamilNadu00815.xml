@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, time of Vīra Pratāpa Śrīraṅga, Saka year 1500 15</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, time of Śrīraṅga Deva Mahārāja, Saka year 1500</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -43,7 +43,9 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>
+                            <p><seg rend="check">Northern wall of <foreign>gopura</foreign> passageway, on the right after entering.</seg></p>                            
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -94,15 +96,15 @@
                     <lb n="6"/><hi rend="grantha">śrī</hi>-raṅka-tēva makā
                     <lb n="7" break="no"/>-r=āyar piṟativi-rācciya
                     <lb n="8"/>paṇṇi Aruḷā ni
-                    <lb n="9"/>ṉṟa cāli <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="9" break="no"/>ṉṟa cāli <gap reason="lost" quantity="3" unit="character"/>
                     <lb n="10"/>kāṟttam <num value="1500"><g type="numeral">1000</g> 5 <g type="numeral">100</g></num> ṉ
                     <lb n="11"/>mēl cellā niṉṟa
                     <lb n="12"/>vekutā <gap reason="lost" quantity="1" unit="character"/> ya san
                     <lb n="13" break="no"/>tcarattu Āṣāṭa-ṉāya
                     <lb n="14"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="15"/>tu vāramum pañcamiyum
+                    <lb n="15" break="no"/>tu vāramum pañcamiyum
                     <lb n="16"/>peṟṟa Atta na<hi rend="grantha">kṣa</hi>t
-                    <lb n="17"/>tarattu nāḷ ceyaṅ ko
+                    <lb n="17" break="no"/>tarattu nāḷ ceyaṅ ko
                     <lb n="18" break="no"/>ṇṭa cōḻa maṇṭala
                     <lb n="19" break="no"/>ttu cantirakiri rācciya
                     <lb n="20"/><gap reason="lost" quantity="1" unit="line"/>
@@ -170,7 +172,9 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
                 
-                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
+                <p>This revised digital edition by Emmanuel Francis based on photos (Babu N. Ramaswamy, 2024).</p>
+                
+                <p>ASI transcript and estampage yet to be consulted.</p>
                 
                 <listBibl type="primary">
                     

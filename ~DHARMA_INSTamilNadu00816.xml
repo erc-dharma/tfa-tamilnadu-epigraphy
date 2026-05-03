@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple 16</title>
+                <title>Kāñcipuram, Coṉṉa Vaṇṇam Ceyta Perumāḷ temple, time of Śrīraṅga Deva Mahārāja, Śaka year 1504</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vija">
@@ -42,7 +42,9 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary>
+                            <p><seg rend="check">Northern wall of <foreign>gopura</foreign> passageway, on the right before entering.</seg></p>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -95,7 +97,7 @@
                 </p>
                 <p>
                     ceya
-                    <lb n="6" break="no"/><hi rend="grantha">M</hi>-koṇṭa-cōḻa-maṇṭalattu <seg rend="check">candrakiri</seg>-rā<hi rend="grantha">jya</hi>ttu Ū <gap reason="lost" quantity="5" unit="character"/>
+                    <lb n="6" break="no"/><hi rend="grantha">M</hi>-koṇṭa-cōḻa-maṇṭalattu <seg rend="check"><hi rend="grantha">ca</hi>ndrakiri</seg>-rā<hi rend="grantha">jya</hi>ttu Ū <gap reason="lost" quantity="5" unit="character"/>
                     <lb n="7" break="no"/>ṭṭu-k kōṭṭattil viṟpēṭṭu ṉāṭ=ṭil nakaram kāñcipura
                     <lb n="8" break="no"/>vi<hi rend="grantha">ṣṇu-sthā</hi>ṉattil tiru-veḻkā nayiṉār kōyil <hi rend="grantha">śrī</hi>-paṇṭā
                     <lb n="9" break="no"/>rattārum <hi rend="grantha">śrī</hi>-kāriyam ceyyum vēta-māṟka-<hi rend="grantha">pra</hi>ti<hi rend="grantha">ṣṭā</hi>paṉācāriya U<hi rend="grantha">bha</hi>
@@ -215,7 +217,9 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
                 
-                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Vicayavenukopal+Iramacami2024_01"/></bibl> and <bibl><ptr target="bib:Vijayavenugopal+al2026_01"/></bibl>.</p>
+                <p>This revised digital edition by Emmanuel Francis based on photos (Babu N. Ramaswamy, 2024).</p>
+                
+                <p>ASI transcript and estampage yet to be consulted.</p>
                 
                 <listBibl type="primary">
                     
