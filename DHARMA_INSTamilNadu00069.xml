@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvaṭattuṟai, Tīrthapurīśvara temple, no king, year 10</title>
+                <title>Tiruvaṭṭattuṟai, Tīrthapurīśvara temple, no king, year 10</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -41,7 +41,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            <ptr target="bib:ARIE1926-1927"/>: States that, as the Hoysaḷa king Narasiṁhadeva destroyed the country and the temples and took away the (images of) gods, Uṭaiya-nāyakaṉ alias Tēvāram-aḻakiyāṉ-vāṇarājaṉ, a <foreign>mutali</foreign> of Nāyaṉār-Vāṇakōvaraiyar, set up in the temple of Tiruvaṟattuṟai-uṭaiya-nāyaṉār, the images of Āṭkoṇṭanāyaka and his consort with a <foreign>prabhā</foreign>, and of Tiruvātavūr-Perumāḷ.
+                            <ptr target="bib:ARIE1928-1929"/>: <quote>States that, as the Hoysaḷa king Narasiṁhadeva destroyed the country and the temples and took away the (images of) gods, Uṭaiya-nāyakaṉ alias Tēvāram-aḻakiyāṉ-vāṇarājaṉ, a <foreign>mutali</foreign> of Nāyaṉār-Vāṇakōvaraiyar, set up in the temple of Tiruvaṟattuṟai-uṭaiya-nāyaṉār, the images of Āṭkoṇṭanāyaka and his consort with a <foreign>prabhā</foreign>, and of Tiruvātavūr-Perumāḷ.</quote>
                         </summary> 
                     </msContents>
                     <physDesc>
@@ -80,26 +80,29 @@
         
         <body>
             
-        <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī
-	</ab>
-	<p>
-		<lb n="1"/>yāṇṭu 10 Āvatu <unclear>p</unclear>o
-		<lb n="2" break="no"/>cara nāra<hi rend="grantha">siṃha-de</hi>va va<gap reason="lost" quantity="1" unit="character"/>ttu nāṭu nata
-		<lb n="3" break="no"/><unclear cert="low">ru</unclear>-k kōyilkaḷum Aḻ<unclear>i</unclear>ttu-t tē
-		<lb n="4" break="no"/>varkaḷai y-eḻuntaruḷivittu
-		<lb n="5" break="no"/>k koṭu<unclear>p</unclear>oṉmaiyil u
-		<lb n="6" break="no"/>ṭaiyār tiruvarattuṟai y-u⌈
-		<lb n="7" break="no"/><unclear>ṭaiya</unclear> nāyaṉār kōyilukku <unclear>nā</unclear>
-		<lb n="8" break="no"/>yaṉār vāṇakōvaraiyar muta<unclear>li</unclear>
-		<lb n="9" break="no"/>kaḷil Uṭaiya-nāyakaṉāṉ tē
-		<lb n="10" break="no"/>vāram-aḻakiyāṉ vāṇa-rā<hi rend="grantha">ja</hi>ṉ
-		<lb n="11"/>Āṭkoṇṭa-nāyakarum nācci<unclear>ya</unclear>
-		<lb n="12" break="no"/>ḷum <hi rend="grantha">prabhai</hi>yum tiruvātavūr-pe
-		<lb n="13" break="no"/><supplied reason="lost">ru</supplied>māḷaiyum Eḻunta<unclear>ru</unclear>ḷivittar
-	</p>
-</div>
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                <p>
+                    yāṇṭu 10 Āva=tu
+                </p>
+                <p>                    
+                    po
+                    <lb n="2" break="no"/>cara-nāra<hi rend="grantha">siṃha-de</hi>vaṉ vantu nāṭun ti
+                    <lb n="3" break="no"/>ru-k-kōyilkaḷum Aḻ<unclear>i</unclear>ttu-t tē
+                    <lb n="4" break="no"/>varkaḷai y-eḻunt-aruḷivittu
+                    <lb n="5" break="no"/>-k koṭumoṉmaiyil U
+                    <lb n="6" break="no"/>ṭaiyār tiruvarattuṟai y-u⌈
+                    <lb n="7" break="no"/><unclear>ṭaiya</unclear> nāyaṉār kōy<supplied reason="lost">i</supplied>lukku nā
+                    <lb n="8" break="no"/>yaṉār vāṇakōvaraiyar muta<unclear>li</unclear>
+                    <lb n="9" break="no"/>kaḷil Uṭaiya-nāyakaṉ-āṉa tē
+                    <lb n="10" break="no"/>vāram-aḻakiyāṉ vāṇa-rā<hi rend="grantha">ja</hi>ṉ
+                    <lb n="11"/>Āṭkoṇṭa-nāyakarum nācci<unclear>ya</unclear>
+                    <lb n="12" break="no"/>rum <hi rend="grantha">prabhai</hi>yum tiruvātavūr-pe
+                    <lb n="13" break="no"/><supplied reason="lost">ru</supplied>māḷaiyum Eḻunt-a<unclear>ru</unclear>ḷivittar
+                </p>
+            </div>
             
             <!-- <div type="apparatus">
                 <listApp>
@@ -111,17 +114,17 @@
                 
                 </div>-->
             
-           <!-- <div type="translation" resp="part:reda">
+            <!-- <div type="translation" resp="part:reda">
                 
-            </div>-->
+                </div>-->
             
             <!--<div type="commentary">     
-</div>-->
+                </div>-->
             
             <div type="bibliography">
-                 <p>Reported in <bibl><ptr target="bib:ARIE1926-1927"/></bibl> (ARIE/1926-1927/C/1927/285).</p>
-                 <p>This edition by Renato Dávalos, based on ASI estampage kindly supplied by the Director of Epigraphy in Mysore (2025).</p>
-              
+                <p>Reported in <bibl><ptr target="bib:ARIE1926-1927"/></bibl> (ARIE/1928-1929/B/1928-1929/228).</p>
+                <p>This edition by Renato Dávalos, based on ASI estampage kindly supplied by the Director of Epigraphy in Mysore (2025).</p>
+                
                 
                 <listBibl type="secondary">
                     <bibl n="ARIE">
