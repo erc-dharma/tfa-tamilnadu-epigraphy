@@ -45,7 +45,8 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            Statue brought from Pōlakam (Pondicherry). A certain Nāyakattār Āṇṭāṇ Kōtai, alias Kulōttuṅka-rāyaṇ consecrated the image of Tiruvātavūr-Nāyaṉār (Māṇikkavācakar) at the temple of Pōlakam and donated lands for food offerings and the maintenance of sacred lamps.
+                           <p>A certain Nāyakattār Āṇṭāṇ Kōtai, alias Kulōttuṅka-rāyaṇ consecrated the image of Tiruvātavūr-Nāyaṉār (Māṇikkavācakar) at the temple of Pōlakam and donated lands for food offerings and the maintenance of sacred lamps.</p>
+                            <p>On the four sides of the pedestal of a bronze statue from Pōlakam and kept in Pondicherry Government Museum since 2020 at the latest.</p>
                         </summary> 
                     </msContents>
                     <physDesc>
@@ -147,8 +148,7 @@
                     <app loc="7">
                         <lem>Inila<supplied reason="subaudible">m</supplied> mā mu<supplied reason="omitted">m</supplied>māvaraiyum</lem>
                         <rdg source="bib:Kannan2020_01">I nilamā mumāvaraiyum</rdg>
-                    </app>
-                    
+                    </app>                    
                     
                     <app loc="7">
                         <lem><hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rāditya</hi>varai</lem>
@@ -174,12 +174,12 @@
             </div>
             
             <div type="commentary">
-                <p>Kept in Pondicherry Government Museum in 2020.</p>
+                
             </div>
             
             <div type="bibliography">
                 <p>Reported and edited in <bibl><ptr target="bib:Kannan2020_01"/></bibl> (<title>Āvaṇam</title> 31.100).</p>
-                <p>This digital edition by Renato Dávalos and Emmanuel Francis, based on <bibl><ptr target="bib:Kannan2020_01"/></bibl> and visual documentation therein.</p>
+                <p>This digital edition by Renato Dávalos and Emmanuel Francis, based on <bibl><ptr target="bib:Kannan2020_01"/></bibl> and visual documentation therein, and on the partila photo of the first side of the bronze statute (E. Francis, 2024).</p>
                 
                 <listBibl type="primary">
                     <bibl n="Āvaṇam">
