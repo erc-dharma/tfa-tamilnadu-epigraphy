@@ -110,8 +110,11 @@
                 </p>
                 
                 <p>                    
-                    Ik-kōyil <seg rend="check"><hi rend="grantha">A</hi></seg>kāraṇam<!--kāraṇavaṉ = accountant--> tiruvārūr ammāṉ Eḻuttu <g ref="sym:dashPlain" type="punctuation">.</g> Ik-kōyil tēvakammi piram<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvara</hi>-paṭṭaṉ Eḻuttu
-                    <lb n="9"/>Ik-kōyil kaṇakkaṉ paṉaṅk-uṭaiyāṉ v<choice><orig>i</orig><reg>ī</reg></choice>tiviṭaṅka-p perumāṉ Eḻu<supplied reason="omitted">ttu</supplied>
+                    <list>
+                        <item>Ik-kōyil <seg rend="check"><hi rend="grantha">A</hi></seg>kāraṇam<!--kāraṇavaṉ = accountant--> tiruvārūr ammāṉ Eḻuttu <g ref="sym:dashPlain" type="punctuation">.</g></item>
+                        <item>Ik-kōyil tēvakammi piram<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvara</hi>-paṭṭaṉ Eḻuttu</item>
+                        <item><lb n="9"/>Ik-kōyil kaṇakkaṉ paṉaṅk-uṭaiyāṉ v<choice><orig>i</orig><reg>ī</reg></choice>tiviṭaṅka-p perumāṉ Eḻu<supplied reason="omitted">ttu</supplied></item>
+                    </list>
                     
                 </p>
                 
