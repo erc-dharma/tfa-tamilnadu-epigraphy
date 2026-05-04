@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Seydunganallur, Vyāghrapatīśvara temple, Māṟavarmaṉ Kulaśēkhara Pāṇḍya, year (28)</title>
+                <title>Ceytuṅkanallūr/Seydunganallur, Vyāghrapatīśvara temple, Māṟavarmaṉ Kulaśēkhara Pāṇḍya, year (28)</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:reda">
@@ -41,7 +41,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                         It records that the temple administrators (<foreign>tēvakaṉmi</foreign>) and the <foreign>māheśvaras</foreign> should carry out the worshipping and food offering of Tiruvātavūr-Nāyaṉār (Māṇikkavācakar), whose image was installed by a certain Tiruveḷḷaṟai-cōkkaṉ Uyyavantāṉ, alias Sundara-pāṇṭiya-brahmatarāyaṉ. 
+                            It records that the temple administrators (<foreign>tēvakaṉmi</foreign>) and the <foreign>māheśvaras</foreign> should carry out the worshipping and food offering of Tiruvātavūr-Nāyaṉār (Māṇikkavācakar), whose image was installed by a certain Tiruveḷḷaṟai-cōkkaṉ Uyyavantāṉ, alias Sundara-pāṇṭiya-brahmatarāyaṉ. 
                         </summary> 
                     </msContents>
                     <physDesc>
@@ -78,31 +78,39 @@
     <text xml:space="preserve">
         
         <body>
-           
-           
-           
-    <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-        <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-            <lb n="1"/><unclear>śrī</unclear>
-        </ab>
-        
-            <p>
-		kō-<unclear>mā</unclear>ṟa-<unclear>pa</unclear>ṉmārāṉa <unclear>ti</unclear>ripuvaṉa-c cakaravattikaḷ E<unclear>mma</unclear>ṇṭalamuṅ koṇṭaruḷiya <hi rend="grantha">śrī</hi> kulace
-		<lb n="2" break="no"/>kara <hi rend="grantha">de</hi>vaṟkku yāṇ<supplied reason="omitted">tu</supplied> <num value="28">2 <g type="numeral">10</g> <unclear>8</unclear></num> vatu <hi rend="grantha">ṛṣabha</hi>-nāyaṟṟu <unclear cert="low">kō</unclear>murappu-nāṭṭu bra<unclear>hma</unclear>deyam ceñalūr kiḷāma
-		<lb n="3" break="no"/>ṅkalamāṉa tiruvaraṅka-c-catu<supplied reason="omitted">r</supplied>vē<hi rend="grantha">di</hi>maṅkalattu nāyaṉār tirupp<unclear>u</unclear>l<unclear>ī</unclear><hi rend="grantha">śva</hi>ram<surplus>am</surplus>-uṭaiya-nāyaṉār
-		<lb n="4"/>kō<unclear>yilil</unclear> <hi rend="grantha">de</hi>vakaṉm<unclear>i</unclear>-maka<unclear cert="low">ḷ</unclear>ḷu <gap reason="lost" quantity="2" unit="character"/> <hi rend="grantha"><unclear>śrī mā</unclear>-heśvara</hi>-kaṇkāṇ<unclear>i</unclear> ce<supplied reason="lost">yv</supplied>ārkaḷum Ivaṉaivōmu
-		<lb n="5" break="no"/>m tiruveḷ<supplied reason="omitted">ḷ</supplied>aṟai-c cōkkaṉ uyyavantāṉ<surplus>aṉ</surplus>-āṉa cuntara-pāṇṭiya pirama<gap reason="lost" quantity="1" unit="character"/>ātarāyaṉ ēṉ In-nāyaṉār
-		<lb n="6"/><unclear>kōyilil</unclear> <unclear>nāṉ</unclear> Eḻuntaruḷuvitta nāyaṉār tiruvātavūr nāyaṉārkku tā<unclear>ṉa</unclear>ttar muppatu vaṭṭattāḷu
-		<lb n="7" break="no"/>emmi<unclear>li</unclear>cainta p<unclear>o</unclear>ruḷ koṇṭu In-nāyaṉārkku Amutu cēvikkum Arici <unclear cert="low"><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--></unclear> <unclear cert="low">Iṭu</unclear>vari Ivv
-		<lb n="8"/><gap reason="lost" quantity="4" unit="character"/> na ka <gap reason="lost" quantity="2" unit="character"/> m aḷantu <unclear>E</unclear>ṟa<unclear>ṭ</unclear>ṭumutu cēvittu koḷvōm<unclear>ā</unclear>kavu ippaṭi cantirātitt<unclear>ā</unclear>
-		<lb n="9"/><gap reason="lost" quantity="3" unit="character"/> l ce<unclear>lu</unclear>ttu <gap reason="lost" quantity="1" unit="character"/> <unclear>m</unclear>ā-k kallilum cempilum veṭ<unclear>ṭi</unclear>-k kuṭut<unclear>t</unclear>ōm muppatu vaṭṭt<unclear>ttū</unclear>rō<unclear>m</unclear>
-		<lb n="10"/><unclear>Ā</unclear><gap reason="lost" quantity="1" unit="character"/><choice><orig><unclear>ṉ</unclear></orig><reg><unclear>ṇ</unclear></reg></choice> t<unclear>i</unclear>ru<unclear>meṟana</unclear>ḷ uṭaiyāṉ Eḻuttu <hi rend="grantha"><unclear>śrī</unclear></hi> kaṇṭ<choice><sic>i</sic><corr>ī</corr></choice>cuvaram uṭaiyāṉ poṉṉa-p <unclear>piḷayaṉ</unclear> Eḻu
-        <lb n="11"/><unclear>t</unclear>tu <gap reason="lost" quantity="1" unit="character"/> paṭṭaṉ <gap reason="lost" quantity="1" unit="character"/> <unclear cert="low">ṉaṉaraṉāṉa</unclear> tuṟai-maṟinta-paṭṭaṉ eḻuttu naṅ<unclear>kai ti</unclear>ru<unclear>p</unclear>pul<choice><sic>i</sic><corr>ī</corr></choice>cuvaram uṭaiyāṉāṉ 
-         <lb n="12"/>ulaku<supplied reason="omitted">y</supplied><supplied reason="lost">ya</supplied><unclear>va</unclear>nta-pāṇṭiya <hi rend="grantha">brahmā</hi>tarāyaṉ Eḻuttu <g ref="sym:bar" type="punctuation">.</g>
-	</p>
-        
-	
-</div>
+            
+            
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <lb n="1"/><unclear>śrī</unclear>
+                </ab>
+                
+                <p>
+                    kō-māṟa-<unclear>pa</unclear>ṉmār-āṉa <unclear>ti</unclear>ripuvaṉa-c ca<supplied reason="omitted">k</supplied>karavattikaḷ E<unclear>mma</unclear>ṇṭalamuṅ koṇṭ-aruḷ<unclear>i</unclear>ya <hi rend="grantha">śrī</hi>-ku<unclear>la</unclear>ce
+                    <lb n="2" break="no"/>kara-<hi rend="grantha">de</hi>vaṟkku yāṇ<supplied reason="omitted">tu</supplied> <num value="28">2 <g type="numeral">10</g> <unclear>8</unclear></num> vatu <hi rend="grantha">ṛṣabha</hi>-nāyaṟṟu 1 <g ref="sym:tam-teti" type="ideogram"/>
+                </p>
+                <p>
+                    murappu-nāṭṭu <hi rend="grantha">bra<unclear>hma</unclear>deya</hi>m ceñalūr kiḷāma
+                    <lb n="3" break="no"/>ṅkalam-āṉa tiruvaraṅka-c-catu<supplied reason="omitted">r</supplied>vē<hi rend="grantha">di</hi>maṅkalattu nāyaṉār tirupp<unclear>u</unclear>l<unclear>ī</unclear><hi rend="grantha">śva</hi>ra<choice><orig>mm</orig><reg>m</reg></choice>-uṭaiya-nāyaṉār
+                    <lb n="4"/>kō<unclear>yilil</unclear> <hi rend="grantha">de</hi>vakaṉ<choice><orig>mm</orig><reg>m</reg></choice><unclear>i</unclear>ka<choice><orig><unclear cert="low">ḷ</unclear>ḷ</orig><reg>ḷ</reg></choice>u<surplus>ra</surplus>m <hi rend="grantha">śrī-māheśvara</hi>-kaṇkāṇ<unclear>i</unclear> ce<supplied reason="lost">yv</supplied>ārkaḷum Ivaṉaivōmu
+                    <lb n="5" break="no"/>m tiruve<supplied reason="omitted">ḷ</supplied>ḷaṟai-c cōkkaṉ Uy<add place="below">ya</add>vantā<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice>-āṉa cuntara-pāṇṭiya-piram<unclear>m</unclear>ātarāyaṉ-ēṉ In-nāyaṉār
+                    <lb n="6"/>kōyi<unclear>lil</unclear> nāṉ Eḻunt-aruḷuvitta nāyaṉār tiruvātavūr nā<unclear>ya</unclear>ṉārkku tā<unclear>ṉa</unclear>ttar muppatu vaṭṭattāḷu<supplied reason="omitted">m</supplied>
+                    <lb n="7"/>Emmi<unclear>l i</unclear>cainta p<unclear>o</unclear>ruḷ koṇṭu In-nāyaṉārkku Amutu cēvikkum Arici <g ref="sym:tam-pillaiyarCuli"/> <unclear cert="low">Iṭu</unclear>vari Ivv
+                    <lb n="8"/><gap reason="lost" quantity="4" unit="character"/> na ka <gap reason="lost" quantity="2" unit="character"/> m Aḷantu Ēṟa<unclear cert="low">ṭ</unclear>ṭumutu cēvittu koḷvōm<supplied reason="lost">ā</supplied>kavu<supplied reason="omitted">m</supplied>
+                </p>
+                <p>
+                    Ippaṭi cantirātitta
+                    <lb n="9" break="no"/><supplied reason="lost">va</supplied>l cel<unclear>u</unclear>ttu<unclear>vam</unclear>-āka kallilum cempilum veṭ<unclear>ṭi</unclear>-k kuṭut<unclear>t</unclear>ōm muppatu vaṭṭat<unclear>tū</unclear>rō<unclear>m</unclear>
+                </p>
+                <p>
+                    <lb n="10"/><unclear>Āyaṉ</unclear> t<unclear>i</unclear>ru<unclear>mēṟraḷi</unclear> Uṭaiyāṉ Eḻuttu ci-kaṇṭ<choice><sic>i</sic><corr>ī</corr></choice>cuvaram uṭaiyāṉ poṉṉ<choice><unclear>a</unclear><unclear>i</unclear></choice>-p <unclear>piḷayaṉ</unclear> Eḻu
+                    <lb n="11" break="no"/><unclear>t</unclear>tu paṭṭaṉ <gap reason="illegible" quantity="5" unit="character" precision="low"/> <unclear cert="low">ṉaṉaraṉāṉa</unclear> tuṟai-maṟinta-paṭṭaṉ Eḻuttu naṅ<unclear>kai ti</unclear>ru<unclear>p</unclear>pul<choice><sic>i</sic><corr>ī</corr></choice>cuvaram uṭaiyāṉ-ā 
+                    <lb n="12" break="no"/>ṉa Ulaku<supplied reason="omitted">y</supplied><supplied reason="lost">ya</supplied><unclear>va</unclear>nta-pāṇṭiya-<hi rend="grantha">brahmā</hi>tarāyaṉ Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
+                </p>
+                
+                
+            </div>
             
             <!-- <div type="apparatus">
                 <listApp>
@@ -114,17 +122,17 @@
                 
                 </div>-->
             
-           <!-- <div type="translation" resp="part:reda">
+            <div type="translation" resp="part:reda">
                 
-            </div>-->
+            </div>
             
-            <!--<div type="commentary">     
-</div>-->
+            <div type="commentary">     
+            </div>
             
             <div type="bibliography">
-                 <p>Reported in <bibl><ptr target="bib:ARIE1959-1960"/></bibl> (ARIE/1959-1960/B/1959-1960/361).</p>
-                 <p>This edition by Renato Dávalos, based on ASI estampage kindly supplied by the Director of Epigraphy in Mysore (2025).</p>
-              
+                <p>Reported in <bibl><ptr target="bib:ARIE1959-1960"/></bibl> (ARIE/1959-1960/B/1959-1960/360).</p>
+                <p>This edition by Renato Dávalos, based on ASI estampage kindly supplied by the Director of Epigraphy in Mysore (2025).</p>
+                
                 
                 <listBibl type="secondary">
                     <bibl n="ARIE">
