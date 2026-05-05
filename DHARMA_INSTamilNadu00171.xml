@@ -81,7 +81,7 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <ab>
-                    <lb n="1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> rāma-ceyam
+                    <lb n="1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> rāma-ceyam
                 </ab>
                 
                 <p>
@@ -156,7 +156,7 @@
                 <p>
                     y-inta-p paṭi
                     <lb n="32"/><seg rend="check">śrī</seg>-kaṟt=taṟ-ākiya tirumalai-ṉāyak=kaṟ-avaṟkaḷ tiru-k
-                    <lb n="33" break="no"/>-karat=til Oppam <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+                    <lb n="33" break="no"/>-karat=til Oppam <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                 </p>
                 
             </div>	

@@ -89,7 +89,7 @@
 	
 	<!--Check VVG edition with full set of EFEO pictures-->
 	<p>		
-		<lb n="1" style="text-align: center"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> civa-mayam
+		<lb n="1" style="text-align: center"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> civa-mayam
 		<lb n="2" style="text-align: center"/>maṅkai pākar <gap reason="lost" quantity="3" unit="character" precision="low"/>
 		<lb n="3"/>vicu <g ref="sym:tam-varusam"/> Āṉi <g ref="sym:tam-matam"/> <gap reason="lost" quantity="2" unit="character" precision="low"/> <hi rend="grantha">śrī</hi> <gap reason="lost" quantity="4" unit="character" precision="low"/> poṉ·ṉ-am
 		<lb n="4" break="no"/>pala-tēcikar Avarkaḷ kālattil Arivai

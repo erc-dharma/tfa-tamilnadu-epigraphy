@@ -82,7 +82,7 @@
                     
                     <ab>
                         <pb n="1v"/>
-                        <lb n="1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> <hi rend="grantha">svasti śrī</hi>
+                        <lb n="1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> <hi rend="grantha">svasti śrī</hi>
                     </ab>
                     
                     <p>
@@ -92,7 +92,7 @@
                         <lb n="4"/><gap reason="ellipsis"/>
                         <lb n="5"/><gap reason="ellipsis"/>		
                         <lb n="6"/><gap reason="ellipsis"/>
-                        <lb n="7"/><gap reason="ellipsis"/> ceṉmapattiṟikā <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+                        <lb n="7"/><gap reason="ellipsis"/> ceṉmapattiṟikā <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                     </p>
                     
                     <ab>
@@ -101,7 +101,7 @@
                     
                     <p>
                         cā<supplied reason="lost">li</supplied>
-                        <lb n="8" break="no"/>vākaṉa-ca<choice><sic>t</sic><corr>k</corr></choice>ā<choice><orig>ṟṟ</orig><reg>tt</reg></choice>am <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> <num value="1578"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 7 <g type="numeral">10</g> 8</num>-<unclear>U</unclear>k-ku m<choice><sic>a</sic><corr>ē</corr></choice>l cellā ni<supplied reason="lost">ṉṟa</supplied>
+                        <lb n="8" break="no"/>vākaṉa-ca<choice><sic>t</sic><corr>k</corr></choice>ā<choice><orig>ṟṟ</orig><reg>tt</reg></choice>am <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> <num value="1578"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 7 <g type="numeral">10</g> 8</num>-<unclear>U</unclear>k-ku m<choice><sic>a</sic><corr>ē</corr></choice>l cellā ni<supplied reason="lost">ṉṟa</supplied>
                         <lb n="9"/>pā<choice><orig>ṟt</orig><reg>rtt</reg></choice>i<choice><sic>y</sic><corr>v</corr></choice>a <g ref="sym:tam-varusam"/> Āṭi <g ref="sym:tam-matam"/> 5 <g ref="sym:tam-teti"/>
                     </p>
                     <p>
@@ -175,17 +175,17 @@
                         y-inta taṟuma<surplus>pa</surplus>t=tuk=ku yātām Oru
                         <lb n="34" break="no"/>va<choice><sic>ra</sic><corr>r</corr></choice> Akitam paṇṇiṉa pērkaḷ keṅkai-k=-karaiyilē kāR-Ām-pacu-
                         <lb n="35" break="no"/>vai koṇṇa tōṣat=til pōvāṟkaḷ mātā-pitā-ku[ru]<!--update-->vaiyum
-                        <lb n="36" break="no"/>koṇṇa tōṣat=til pōvāṟkaḷ ākavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->		
+                        <lb n="36" break="no"/>koṇṇa tōṣat=til pōvāṟkaḷ ākavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>		
                     </p>
                     
                     <p>
                         vilai <gap reason="ellipsis"/>
-                        <lb n="37"/><gap reason="ellipsis"/> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+                        <lb n="37"/><gap reason="ellipsis"/> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                     </p>
                     
                     <p>
                         Uḷḷūril Arucāla-Uk=ki <gap reason="lost" quantity="2" unit="character"/>
-                        <lb n="38"/>y-ic-cāla-piḷḷaiyāruk=ku <g ref="sym:tam-panam"/> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+                        <lb n="38"/>y-ic-cāla-piḷḷaiyāruk=ku <g ref="sym:tam-panam"/> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                     </p>
                     
                 </div>

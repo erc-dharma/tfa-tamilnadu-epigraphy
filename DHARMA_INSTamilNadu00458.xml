@@ -88,7 +88,7 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
-		<l n="a" enjamb="yes"><lb n="1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> Etat· trailokya-nirm<supplied reason="omitted">·</supplied>māṇa</l>
+		<l n="a" enjamb="yes"><lb n="1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> Etat· trailokya-nirm<supplied reason="omitted">·</supplied>māṇa</l>
 		<l n="b">-tr<unclear>ā</unclear>ṇa-<choice><sic>c</sic><corr>s</corr></choice>aṃ<choice><sic>k</sic><corr>h</corr></choice>āra-kāraṇaṃ·</l>
 		<l n="c"><choice><sic>c</sic><corr>ś</corr></choice>āśvatam· <gap reason="lost" quantity="4" unit="character" precision="low"/><lb n="2" break="no"/>bho</l>
 		<l n="d">śrī-kaṭhoragiri-vāsi<supplied reason="lost">nam·</supplied></l>

@@ -86,14 +86,14 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <ab>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                 </ab>
                 
                 <p>      			
                     I<hi rend="grantha">n-nṛ</hi>t=ta-maṇṭapam
                     <lb n="2"/>tiru-<unclear>k</unclear> <gap reason="illegible" quantity="2" unit="character"/> ttuvittār tiru
                     <lb n="3" break="no"/>-nelvēli Uṭaiyār-āṉa vā
-                    <lb n="4" break="no"/>ṇa-rāya-tēvar <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->		
+                    <lb n="4" break="no"/>ṇa-rāya-tēvar <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>		
                 </p>
                 
             </div>
