@@ -137,6 +137,7 @@
                         <lb n="4r4=70"/>...
                         <lb n="4r5=71"/>...
                     </p>
+                    
                     <lg n="34" met="upajāti">
                         <l n="a">yatas sa rājā nija-pā
                             <lb n="4r6=72" break="no"/>da-bhājāṃ</l>
@@ -145,6 +146,7 @@
                             <lb n="4r7=73" break="no"/>-prabhāvaṃ rājāśrayan tan nigadanti santāḥ <g ref="sym:doubleBar" type="punctuation">.</g>
                         </l>
                     </lg>
+                    
                     <p>
                         so ’yam akhila-kalā-kalāpa
                         <lb n="4r7=74" break="no"/>pārāvāra-pāradṛśv āśeśa-nṛpa-cakra-cāru-cāmīkara-kirīṭa-koṭi-gha
@@ -211,6 +213,7 @@
                         <l n="c">Aṇukka Iti vikhyataś</l>
                         <l n="d">śrīman atikaḷ ātmajāḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                     </lg>
+                    
                     <lg n="44" met="anuṣṭubh">
                         <l n="a"><lb n="5v2=101"/>vinīto guṇa-saMpannas</l>
                         <l n="b">svāmi-kāryya-hite rataḥ</l>
@@ -349,7 +352,7 @@
                 
                 <p>Edited and translated in <bibl><ptr target="bib:Burgess+NatesaSastri1886_01"/></bibl>, in <bibl><ptr target="bib:SubrahmanyaAiyer1933-1934_02"/></bibl> (EI 22.34).</p>
                 <p>Later reported in <bibl><ptr target="bib:ARIE1961-1962"/></bibl> (ARIE/1961-1962/A/1961-1962/39).</p>                
-                <p>This edition by Emmanuel Francis.</p>
+                <p>This revised edition by Emmanuel Francis based on previous editions and photos (<ref target="http://hdl.handle.net/1887.1/item:2694123">University of Leiden</ref>).</p>
                 
                 <listBibl type="primary">
                     
