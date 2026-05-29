@@ -87,7 +87,7 @@
                 
                 
 <p> 
-    <lb n="1"/> <gap reason="lost" extent="unknown"/> maṟka <gap reason="lost" quantity="3" unit="character"/>  <choice><unclear>nti</unclear><unclear>kki</unclear><unclear>tti</unclear></choice> <gap reason="lost" extent="unknown"/> <hi rend="grantha">śrī</hi> kō-māṟa<gap reason="lost" quantity="5" unit="character"/> tipaṟ <gap reason="lost" extent="unknown"/> kumpa-nāyaṟṟu <hi rend="grantha">pūrva</hi>-p pa<hi rend="grantha"><unclear>kṣa</unclear></hi>ttu
+    <lb n="1"/> <gap reason="lost" extent="unknown"/> maṟka <gap reason="lost" quantity="3" unit="character"/>  <choice><unclear>nti</unclear><unclear>kki</unclear><unclear>tti</unclear></choice> <gap reason="lost" extent="unknown"/> <hi rend="grantha">śrī</hi> kō-māṟa<gap reason="lost" quantity="5" unit="character"/> tipaṟ <gap reason="lost" extent="unknown"/> kumpa-nāyaṟṟu <hi rend="grantha">pūrva</hi>-p pa<hi rend="grantha"><unclear>kṣa</unclear></hi>ttu <gap reason="lost" quantity="5" unit="character"></gap>
 </p>
 <p>
 
@@ -145,9 +145,9 @@
                 
                 <listApp>   
                     
-                    <app loc="0">
-                        <lem/>
-                        <note/>
+                    <app loc="1">
+                        <lem>pa<hi rend="grantha"><unclear>kṣa</unclear></hi>ttu <gap reason="lost" quantity="5" unit="character"></gap></lem>
+                        <note>Reading after ASI transcript: pa<hi rend="grantha"><unclear>kṣa</unclear></hi>ttu</note>
                     </app>
                     
                 </listApp>
