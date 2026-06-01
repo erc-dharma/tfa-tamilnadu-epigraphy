@@ -8,17 +8,17 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ātmanāthasvāmi temple, Āvuṭaiyārkōyil, Māra<gap reason="undefined"/> king, no date</title>
+                <title>Ātmanāthasvāmi temple, Āvuṭaiyārkōyil, time of Kulaśekhara, year <supplied reason="lost">14</supplied></title>
                 <respStmt>
                     <resp>author of digital edition</resp>
-                    <persName ref="part:matr">
-                        <forename>Margherita</forename>
-                        <surname>Trento</surname>
-                    </persName>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
                     </persName>
+                    <persName ref="part:matr">
+                        <forename>Margherita</forename>
+                        <surname>Trento</surname>
+                    </persName>                    
                     <persName ref="part:vija">
                         <forename>G.</forename>
                         <surname>Vijayavenugopal</surname>
