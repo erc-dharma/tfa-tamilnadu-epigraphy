@@ -75,22 +75,30 @@
     <text xml:space="preserve">
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+            <div type="edition">
                 
-                <div type="textpart" n="A"><head>Pillar 1</head>
+                <div type="textpart" n="A" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Pillar 1</head>
                     
                     <ab>
                         <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                     </ab>
                     <p>
-                        rājaga
-                        <lb n="2" break="no"/>mbhīraṉ maṇḍapam
+                        <hi rend="grantha">rājaga</hi>
+                        <lb n="2" break="no"/><hi rend="grantha">Mbhīra</hi>ṉ maṇṭapam
                     </p>
                     
                 </div>
                 
-                <div type="textpart" n="B">                    
-                    <p/>                    
+                <div type="textpart" n="B" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Pillar 2</head>  
+                    
+                    <ab>
+                        <lb n="1"/>svasti śrī
+                    </ab>
+                    <p>
+                        rājagaMbhī
+                        <lb n="2" break="no"/>ran· maṇḍapaM
+                    </p>      
+                    
                 </div>
                  
                 <div type="textpart" n="C">                    
@@ -145,9 +153,9 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1926-1927"/></bibl> (ARIE/1926-1927/C/1927/256).</p>
                 
-                <p>Edited and translated in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>.</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>. The distinction between Grantha and Tamil letters cannot be assessed.</p>
                 
-                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:Srinivasan1987_01"/></bibl>. The distinction between Grantha and Tamil letters could not be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
+                <p>This digital edition by Emmanuel Francis based on ASI estampage and transcript “AR_C0256_1926-27” available on <ref target="https://www.bharatshri.org/index.aspx">BharatSHRI</ref> (accessed 2026-06-26). The transcript and estampage are from different pillars: the transcript and <bibl><ptr target="bib:Srinivasan1987_01"/></bibl> = pillar 1; the estampage = pillar 2.</p>
                 
                 <listBibl type="primary">
                     
