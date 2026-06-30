@@ -50,7 +50,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -62,16 +62,13 @@
                     under the European Union’s Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers.xml</ref> file.</p>
                 </prefixDef>
@@ -131,9 +128,9 @@
                 </p>
                 <p>
                     Ituvē poruḷ māva
-                    <lb n="25" break="no"/>ṟuti-p poruṭ cela-<choice><orig>Ō</orig><reg>v-ō</reg></choice>lai Āvat’ āka Iru-kāl-āvatu mu-k-kāl-āvatum vilai <seg rend="check">ya</seg><!--EF: y vi?-->
+                    <lb n="25" break="no"/>ṟuti-p poruṭ cela-<choice><orig>Ō</orig><reg>v-ō</reg></choice>lai Āvat’ āka Iru-kāl-āvatu mu-k-kāl-āvatum vilai <hi rend="check">ya</hi><!--EF: y vi?-->
                     <lb n="26" break="no"/>ṟṟu-k kuṭuttōm tiru-vekkā-v-aṇai-k kiṭant-aruḷiṉa parama-<hi rend="grantha">svā</hi>mikaḷukku
-                    <lb n="27"/><hi rend="grantha">śrī</hi>-kāñci-mā-nakarattu Ivvaṉaivō<choice><orig>mm</orig><reg>m</reg></choice>-āṉa k<hi rend="grantha">r</hi>āma paṇikka Eḻutiṉēṉ nakka<seg rend="check">ṉ <gap reason="lost" quantity="1" unit="character"/></seg>
+                    <lb n="27"/><hi rend="grantha">śrī</hi>-kāñci-mā-nakarattu Ivvaṉaivō<choice><orig>mm</orig><reg>m</reg></choice>-āṉa k<hi rend="grantha">r</hi>āma paṇikka Eḻutiṉēṉ nakka<hi rend="check">ṉ <gap reason="lost" quantity="1" unit="character"/></hi>
                     <lb n="28" break="no"/>kku vi<hi rend="grantha">ṣṇu</hi>-malaiyāṉ māṉakā<unclear>ma</unclear>ṅkalōttamaṉ-ēṉ
                 </p>
                 <p>

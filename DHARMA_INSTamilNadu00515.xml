@@ -70,7 +70,7 @@
                     <lb n="6" break="no"/>yān Ampalava<choice><orig>n</orig><reg>ṉ</reg></choice> paḻuvū<unclear>r</unclear> <unclear>nak</unclear>kaṉ-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a vi<hi rend="grantha">krama</hi>-cōḻa-<hi rend="grantha">mahā</hi>-rā<hi rend="grantha">ja</hi>r ka<reg>r</reg><hi rend="grantha"><unclear>mmi</unclear></hi> <unclear>ve</unclear>
                     <lb n="7" break="no"/><unclear>ṇṇam</unclear><unclear>pi</unclear>kku I-<hi rend="grantha"><unclear>srī</unclear></hi>-kōyil kaṇa-<unclear>p</unclear>-<unclear>pe</unclear>ru-makkaḷ v<unclear>i</unclear>ravall<unclear>i</unclear>-t t<unclear>i</unclear>ru-n<choice><orig><unclear>i</unclear></orig><reg>ī</reg></choice>la-<unclear>kaṇṭa</unclear>-<hi rend="grantha"><unclear>kramavi</unclear></hi>
                     <lb n="8" break="no"/>tta<supplied reason="omitted">ṉ</supplied> Iva<choice><orig>n</orig><reg>ṉ</reg></choice> <hi rend="grantha">sabhai</hi>yār kaṇkāṇi-y-āka p<unclear>o</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> n<choice><orig>i</orig><reg>ī</reg></choice>kki piṭi<choice><orig>ll</orig><reg>l</reg></choice>ikai-vāri <hi rend="grantha"><choice><orig><unclear>k</unclear></orig><reg>g</reg></choice><unclear>raha</unclear></hi><unclear>ṇa</unclear>-<hi rend="grantha">saṃkrā</hi><unclear>n=ti</unclear>-vi
-                    <lb n="9" break="no"/><hi rend="grantha">ṣu</hi>m Uḷḷiṭṭu U<supplied reason="omitted">c</supplied>cam-pōtu tiru-nā-nāḻi<unclear>yu</unclear>m A<hi rend="grantha"><reg>r</reg><choice><orig>tth</orig><reg>ddh</reg></choice>a</hi>yāma<supplied reason="subaudible">m</supplied> nā-nāḻi I<choice><sic>y<unclear>u</unclear></sic><corr>p</corr></choice><seg rend="check">paripārkaḷu<supplied reason="omitted">m</supplied></seg> Eṭṭu<unclear>ku</unclear>
+                    <lb n="9" break="no"/><hi rend="grantha">ṣu</hi>m Uḷḷiṭṭu U<supplied reason="omitted">c</supplied>cam-pōtu tiru-nā-nāḻi<unclear>yu</unclear>m A<hi rend="grantha"><reg>r</reg><choice><orig>tth</orig><reg>ddh</reg></choice>a</hi>yāma<supplied reason="subaudible">m</supplied> nā-nāḻi I<choice><sic>y<unclear>u</unclear></sic><corr>p</corr></choice><hi rend="check">paripārkaḷu<supplied reason="omitted">m</supplied></hi> Eṭṭu<unclear>ku</unclear>
                 </p>
                 <p>                    
                     <lb n="10"/><unclear>A</unclear><unclear>n</unclear>tiyam pōt<unclear>u</unclear> <hi rend="grantha">sa</hi><unclear>n=ti</unclear>-vi<unclear>ḷakku Ē</unclear><supplied reason="omitted">ṟṟa</supplied> <unclear>kaṭa</unclear>vē<choice><orig>n</orig><reg>ṉ</reg></choice> <unclear>Uḷ</unclear> mu<unclear>nṟu</unclear> <hi rend="grantha">sa</hi>n=ti<unclear>y</unclear>i<choice><sic>y</sic><corr>l</corr></choice> pōtu Ai<supplied reason="omitted">ñ</supplied>cu <unclear>viḷa</unclear>kk<unclear>u</unclear> <unclear>Ē</unclear><supplied reason="omitted">ṟ</supplied><unclear>ṟa ka</unclear><unclear>ṭavē</unclear>
@@ -151,7 +151,7 @@
                     </app>
                     <app loc="15">
                         <lem>A<choice><orig>n</orig><reg>ṉ</reg></choice>ṟāṭu</lem>
-                        <rdg source="bib:SrinivasaRao1967_01">An<seg rend="check">ṟ</seg>āṭṭu</rdg>
+                        <rdg source="bib:SrinivasaRao1967_01">An<hi rend="check">ṟ</hi>āṭṭu</rdg>
                         <rdg source="bib:Gillet2023_01">An<unclear>ṟā</unclear>ṭ<unclear>ṭu</unclear></rdg>
                     </app>
                     
@@ -183,7 +183,7 @@
                     and
                     four <foreign>nāḻi</foreign>s at midnight <supplied reason="explanation"><foreign>atthayāma</foreign>, that is, <foreign>arddhayāma</foreign></supplied>,
                     
-                    <supplied reason="subaudible">that is,</supplied> for this eight ... <supplied reason="explanation"><foreign>I<choice><sic>y<unclear>u</unclear></sic><corr>p</corr></choice><seg rend="check">paripārkaḷu<supplied reason="omitted">m</supplied></seg></foreign><note><hi rend="italic">Pace</hi> <bibl><ptr target="bib:Gillet2023_01"/></bibl>: <quote>for these eight Brahmins <supplied reason="explanation"><foreign>iy</foreign><supplied reason="subaudible"><foreign>u</foreign></supplied><foreign>paripārkaḷu eṭṭukku</foreign></supplied>.</quote></note></supplied> <supplied reason="subaudible">the provisions will be as followed</supplied>.
+                    <supplied reason="subaudible">that is,</supplied> for this eight ... <supplied reason="explanation"><foreign>I<choice><sic>y<unclear>u</unclear></sic><corr>p</corr></choice><hi rend="check">paripārkaḷu<supplied reason="omitted">m</supplied></hi></foreign><note><hi rend="italic">Pace</hi> <bibl><ptr target="bib:Gillet2023_01"/></bibl>: <quote>for these eight Brahmins <supplied reason="explanation"><foreign>iy</foreign><supplied reason="subaudible"><foreign>u</foreign></supplied><foreign>paripārkaḷu eṭṭukku</foreign></supplied>.</quote></note></supplied> <supplied reason="subaudible">the provisions will be as followed</supplied>.
                 </p>
                 <p n="10-11">
                     I have to light <supplied reason="explanation"><foreign>ēṟṟa kaṭavēṉ</foreign><note><hi rend="italic">Pace</hi> <bibl><ptr target="bib:Gillet2023_01"/></bibl>: <quote><foreign>ekaṭavēṉ</foreign>, that is, <foreign>erikaṭavēn</foreign>.</quote></note></supplied> one evening lamp for one time in the evening twilight <supplied reason="explanation"><foreign>antiyam</foreign></supplied>;
@@ -207,7 +207,7 @@
                     so that there be <supplied reason="subaudible"><foreign>āka</foreign></supplied> five arecanuts <supplied reason="explanation"><foreign>pākku</foreign></supplied> at the time of the two junctures, 
                     <supplied reason="subaudible">and for</supplied>
                     the food offering of betel leaves <supplied reason="explanation"><foreign>veṟṟilai</foreign></supplied> needed <supplied reason="explanation"><foreign>vēṇṭu</foreign></supplied>                    
-                    <seg rend="check"><supplied reason="subaudible">for</supplied> those <supplied reason="explanation"><foreign>ivai</foreign></supplied> dry ginger <supplied reason="explanation"><foreign>cukku</foreign></supplied></seg>,
+                    <hi rend="check"><supplied reason="subaudible">for</supplied> those <supplied reason="explanation"><foreign>ivai</foreign></supplied> dry ginger <supplied reason="explanation"><foreign>cukku</foreign></supplied></hi>,
                     
                     I, myself, have to do<note>That is, provide.</note> in that manner <supplied reason="explanation"><foreign>ippaṭi ceyya kaṭavēṉ nāṉē</foreign></supplied>
                     that much <supplied reason="explanation"><foreign>ittaṉaiyum</foreign></supplied>

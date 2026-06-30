@@ -50,7 +50,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -62,16 +62,13 @@
                     under the European Union’s Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers.xml</ref> file.</p>
                 </prefixDef>
@@ -100,7 +97,7 @@
                         <l n="6">vi<hi rend="grantha">jai</hi>ya-A<hi rend="grantha">bhiṣe</hi>kam paṇṇi</l>
                         <l n="7">vīra-ciṅkācaṉat=tu vīṟṟirun=t-aruḷiṉa</l>
                     </lg>
-                    <p>kō-p-parakēcari-pa<hi rend="grantha">nma</hi>r-ā<unclear>ṉa</unclear> <gap reason="lost" quantity="10" unit="character" precision="low"/> <unclear>yā</unclear>ṇṭu 7 Āvatu kāṭuveṭṭikaḷ nilaṉ ku<unclear>ṭi</unclear> tāṅkiyār <gap reason="lost" quantity="4" unit="character"/> yār mu<supplied reason="lost">m</supplied>maṭi-cōḻa-tēva <gap reason="illegible" quantity="4" unit="character"/> yār kuṭi tāṅki <hi rend="grantha">ja</hi>nakiyār-āṉa vaṉava<choice><orig>n</orig><reg>ṉ</reg></choice>-mātēviyār tiru-vekkā Āḻvārkku ce <seg rend="check"><gap reason="lost" quantity="5" unit="character"/><!--EF: ceyva cāttva?--></seg> vitt-aruḷiṉa tiru-p pa <gap reason="illegible" quantity="11" unit="character"/> taitta poṟ-pū <gap reason="lost" quantity="2" unit="character"/>
+                    <p>kō-p-parakēcari-pa<hi rend="grantha">nma</hi>r-ā<unclear>ṉa</unclear> <gap reason="lost" quantity="10" unit="character" precision="low"/> <unclear>yā</unclear>ṇṭu 7 Āvatu kāṭuveṭṭikaḷ nilaṉ ku<unclear>ṭi</unclear> tāṅkiyār <gap reason="lost" quantity="4" unit="character"/> yār mu<supplied reason="lost">m</supplied>maṭi-cōḻa-tēva <gap reason="illegible" quantity="4" unit="character"/> yār kuṭi tāṅki <hi rend="grantha">ja</hi>nakiyār-āṉa vaṉava<choice><orig>n</orig><reg>ṉ</reg></choice>-mātēviyār tiru-vekkā Āḻvārkku ce <hi rend="check"><gap reason="lost" quantity="5" unit="character"/><!--EF: ceyva cāttva?--></hi> vitt-aruḷiṉa tiru-p pa <gap reason="illegible" quantity="11" unit="character"/> taitta poṟ-pū <gap reason="lost" quantity="2" unit="character"/>
                         <lb n="A2"/>vaṭa kuṭiñaṟ kal 5 poṟ-kācu <gap reason="lost" quantity="7" unit="character"/> Itil <gap reason="illegible" quantity="6" unit="character"/> <unclear>ku</unclear>ṟak=kum muttu-k <gap reason="illegible" quantity="4" unit="character"/> <num value="67">6 <g type="numeral">10</g> 7</num> ce <g ref="sym:tam-nilam" type="ideogram"/> <g type="numeral">100</g> ṅ <gap reason="illegible" quantity="6" unit="character"/> <unclear>ku</unclear>ṟakkum <gap reason="illegible" quantity="13" unit="character"/> nay <gap reason="lost" quantity="3" unit="character"/> kkum <gap reason="illegible" quantity="10" unit="character"/> <g ref="sym:tam-nilam" type="ideogram"/> <gap reason="illegible" quantity="70" unit="character" precision="low"/> ṉāl kuṭiñaṟ kal <unclear>3</unclear> kaṇṭa vaṇi yokk<unclear>u</unclear>m <gap reason="illegible" quantity="10" unit="character"/>
                         <lb n="A3"/><gap reason="lost" quantity="1" unit="line"/>
                     </p>                    
@@ -132,8 +129,8 @@
                             <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01">nīlaṉ kuṭi tāṅkiyār</rdg>
                         </app>
                         <app loc="A1">
-                            <lem></lem>
-                            <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
+                            <lem/>
+                            <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"/>
                         </app>
                         <app loc="A1">
                             <lem>vaṉava<choice><orig>n</orig><reg>ṉ</reg></choice>mātēviyār</lem>
@@ -159,8 +156,8 @@
                 <div type="textpart" n="C"><head>Third fragment</head> 
                     <listApp>
                         <app loc="0">
-                            <lem></lem>
-                            <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"></rdg>
+                            <lem/>
+                            <rdg source="bib:Vicayavenukopal+Iramacami2024_01 bib:Vijayavenugopal+al2026_01"/>
                         </app>
                     </listApp>
                 </div>

@@ -44,13 +44,13 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            <p></p>
+                            <p/>
                             <p>On the base of east wall of the central shrine.</p>
                         </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p></p>
+                            <p/>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -62,16 +62,13 @@
                     under the European Union’s Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers.xml</ref> file.</p>
                 </prefixDef>
@@ -93,12 +90,12 @@
                 </p>
                 <p>
                     jayaṅ-koṇṭa-cōḻa
-                    <lb n="2" break="no"/>-maṇṭalattu <hi rend="grantha">śrī</hi>-kāñcipurattu Ananta-nārāyaṇa-<hi rend="grantha">svā</hi>mikku cēraṉai venṟa cōḻa kumāra<choice><orig>n</orig><reg>ṉ</reg></choice>u<supplied reason="subaudible">m</supplied> mānaṅ kāttān <seg rend="check">Amu</seg> taṭuvārōm <gap reason="illegible" quantity="3" unit="character"/> tu taṟai
+                    <lb n="2" break="no"/>-maṇṭalattu <hi rend="grantha">śrī</hi>-kāñcipurattu Ananta-nārāyaṇa-<hi rend="grantha">svā</hi>mikku cēraṉai venṟa cōḻa kumāra<choice><orig>n</orig><reg>ṉ</reg></choice>u<supplied reason="subaudible">m</supplied> mānaṅ kāttān <hi rend="check">Amu</hi> taṭuvārōm <gap reason="illegible" quantity="3" unit="character"/> tu taṟai
                     <lb n="3"/><gap reason="illegible" quantity="6" unit="character"/> Inta cuvāmi tiru-maṭai-viḷākam tiru-nāmattu-k-kāṇi cannatikku vaṭakku <gap reason="lost" quantity="2" unit="character"/> tta mēl vāṭai kīḻ <gap reason="lost" quantity="3" unit="character"/> taikaḷum
                     
-                    <lb n="4"/>ṉaiya <gap reason="lost" quantity="4" unit="character"/> teṟku mutal vaṭakkun teṟku <gap reason="lost" quantity="3" unit="character"/> tiru-k-kāṇi-y-āka-t tiru-k-kaiyālē tarukayil Inta <hi rend="grantha">de</hi>varkku tiruvaparaṇam <seg rend="check"><gap reason="lost" quantity="3" unit="character"/> tayum</seg><!--EF:curupinpum--> naṭat
-                    <lb n="5"/>ta namakku vilai <gap reason="lost" quantity="4" unit="character"/> cantiyum <seg rend="check"><gap reason="illegible" extent="unknown" unit="character"/><!--more to read on photos--></seg>
-                    <lb n="6"/>veṭṭi kuṭuttōm Itai <seg rend="check"><gap reason="illegible" extent="unknown" unit="character"/><!--more to read on photos--></seg>
+                    <lb n="4"/>ṉaiya <gap reason="lost" quantity="4" unit="character"/> teṟku mutal vaṭakkun teṟku <gap reason="lost" quantity="3" unit="character"/> tiru-k-kāṇi-y-āka-t tiru-k-kaiyālē tarukayil Inta <hi rend="grantha">de</hi>varkku tiruvaparaṇam <hi rend="check"><gap reason="lost" quantity="3" unit="character"/> tayum</hi><!--EF:curupinpum--> naṭat
+                    <lb n="5"/>ta namakku vilai <gap reason="lost" quantity="4" unit="character"/> cantiyum <hi rend="check"><gap reason="illegible" extent="unknown" unit="character"/><!--more to read on photos--></hi>
+                    <lb n="6"/>veṭṭi kuṭuttōm Itai <hi rend="check"><gap reason="illegible" extent="unknown" unit="character"/><!--more to read on photos--></hi>
                 </p>
             </div>
             

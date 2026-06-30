@@ -99,10 +99,10 @@
                 </p>
                 
                 <p>
-                    I<hi rend="grantha">vū</hi>r piṭākai cankuṇaveḷi paṇappāṟṟukku vaṭakku taṭi <seg rend="check">mūṉṟu</seg> viṭṭuma
+                    I<hi rend="grantha">vū</hi>r piṭākai cankuṇaveḷi paṇappāṟṟukku vaṭakku taṭi <hi rend="check">mūṉṟu</hi> viṭṭuma
                     <lb n="5" break="no"/>ṟkku Amutu-paṭikkum tiruvi<!--incomplete?-->
                     <lb n="6"/>Ōṭai Eṉṟu pēr kūvappaṭṭa nila<supplied reason="subaudible">m</supplied> mā mu<supplied reason="omitted">m</supplied>māvaraiyum kaṇapati vāykkālukku mēṟkku puṟaṅkarampaṉāṭṭu vēḷāṉ maṉaikku valivala-nāṭu vēḷāṉ maṉai Iru
-                    <lb n="7" break="no"/>ppu<seg rend="check">kku</seg>m 1/10 <g ref="sym:tam-nilam"/> m
+                    <lb n="7" break="no"/>ppu<hi rend="check">kku</hi>m 1/10 <g ref="sym:tam-nilam"/> m
                 </p>
                 
                 <p>
@@ -112,7 +112,7 @@
                 
                 <p>                    
                     <list>
-                        <item>Ik-kōyil <seg rend="check"><hi rend="grantha">A</hi></seg>kāraṇam<!--kāraṇavaṉ = accountant--> tiruvārūr ammāṉ Eḻuttu <g ref="sym:dashPlain" type="punctuation">.</g></item>
+                        <item>Ik-kōyil <hi rend="check"><hi rend="grantha">A</hi></hi>kāraṇam<!--kāraṇavaṉ = accountant--> tiruvārūr ammāṉ Eḻuttu <g ref="sym:dashPlain" type="punctuation">.</g></item>
                         <item>Ik-kōyil tēvakammi piram<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvara</hi>-paṭṭaṉ Eḻuttu</item>
                         <item><lb n="9"/>Ik-kōyil kaṇakkaṉ paṉaṅk-uṭaiyāṉ v<choice><orig>i</orig><reg>ī</reg></choice>tiviṭaṅka-p perumāṉ Eḻu<supplied reason="omitted">ttu</supplied></item>
                     </list>
@@ -126,8 +126,8 @@
                 <listApp>
                     
                     <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:Kannan2020_01"></rdg>
+                        <lem/>
+                        <rdg source="bib:Kannan2020_01"/>
                     </app>
                     
                     <app loc="1">
@@ -156,7 +156,7 @@
                     </app>
                     
                     <app loc="8">
-                        <lem><seg rend="check"><hi rend="grantha">A</hi></seg>kāraṇam</lem>
+                        <lem><hi rend="check"><hi rend="grantha">A</hi></hi>kāraṇam</lem>
                         <rdg source="bib:Kannan2020_01">Akrāṇam</rdg>
                     </app>                    
                     
