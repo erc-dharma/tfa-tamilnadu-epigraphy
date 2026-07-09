@@ -89,43 +89,36 @@
                 </p>
                 <p>                    
                     po
-                    <lb n="2" break="no"/>cara-nāra<hi rend="grantha">siṃha-de</hi>vaṉ vantu nāṭun ti
+                    <lb n="2" break="no"/>caḷa-nāra<hi rend="grantha">siṃha-de</hi>vaṉ vantu nāṭun ti
                     <lb n="3" break="no"/>ru-k-kōyilkaḷum Aḻ<unclear>i</unclear>ttu-t tē
                     <lb n="4" break="no"/>varkaḷai y-eḻunt-aruḷivittu
-                    <lb n="5" break="no"/>-k koṭumoṉmaiyil U
+                    <lb n="5" break="no"/>-k koṭupoṉmaiyil U
                     <lb n="6" break="no"/>ṭaiyār tiruvarattuṟai y-u⌈
                     <lb n="7" break="no"/><unclear>ṭaiya</unclear> nāyaṉār kōy<supplied reason="lost">i</supplied>lukku nā
                     <lb n="8" break="no"/>yaṉār vāṇakōvaraiyar muta<unclear>li</unclear>
                     <lb n="9" break="no"/>kaḷil Uṭaiya-nāyakaṉ-āṉa tē
                     <lb n="10" break="no"/>vāram-aḻakiyāṉ vāṇa-rā<hi rend="grantha">ja</hi>ṉ
-                    <lb n="11"/>Āṭkoṇṭa-nāyakarum nācci<unclear>ya</unclear>
-                    <lb n="12" break="no"/>rum <hi rend="grantha">prabhai</hi>yum tiruvātavūr-pe
-                    <lb n="13" break="no"/><supplied reason="lost">ru</supplied>māḷaiyum Eḻunt-a<unclear>ru</unclear>ḷivittar
+                    <lb n="11"/>Āṭkoṇṭa-nāyakarum nācci<unclear>y</unclear><supplied reason="lost">ā</supplied>
+                    <lb n="12" break="no"/>rum <hi rend="grantha">prabhai</hi>yum tiruvātavūr-pe<supplied reason="lost">ru</supplied>
+                    <lb n="13" break="no"/>māḷaiyum Eḻunt-a<unclear>ru</unclear>ḷivittā<supplied reason="lost">r</supplied>
                 </p>
             </div>
             
-            <!-- <div type="apparatus">
-                <listApp>
-                <app loc="6">
-                <lem><supplied reason="lost">kāṇivilai</supplied></lem>
-                <note>Reading after ASI transcript.</note>
-                </app>
-                </listApp>
+            <div type="apparatus">
                 
-                </div>-->
+            </div>
             
-            <!-- <div type="translation" resp="part:reda">
+            <div type="translation" resp="part:reda">
                 
-                </div>-->
+            </div>
             
-            <!--<div type="commentary">     
-                </div>-->
+            <div type="commentary">     
+            </div>
             
             <div type="bibliography">
                 <p>Reported in <bibl><ptr target="bib:ARIE1926-1927"/></bibl> (ARIE/1928-1929/B/1928-1929/228).</p>
                 <p>This edition by Renato Dávalos, based on ASI estampage kindly supplied by the Director of Epigraphy in Mysore (2025).</p>
-                
-                
+                                
                 <listBibl type="secondary">
                     <bibl n="ARIE">
                         <ptr target="bib:ARIE1928-1929"/>
