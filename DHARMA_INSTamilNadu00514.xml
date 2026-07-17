@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Kōvintapputtūr (Govindapputtūr), Gaṅgājaṭādhara temple, time of Parakesarivarman, year 12</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vagi">
                         <forename>Valérie</forename>
                         <surname>Gillet</surname>

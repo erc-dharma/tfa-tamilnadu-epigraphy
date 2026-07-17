@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Vaḻuvūr, Vīraṭṭāṉēśvara temple, time of Tribhuvanacakravartin Rājādhirāja, year 5</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Davalos</surname>

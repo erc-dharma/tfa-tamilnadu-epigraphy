@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Kuppalnattam copper plate, time of Tirumalai Nāyaka, year Kara</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName>
                         <name>Ramprashanth Venkatakrishnan</name>
                     </persName>

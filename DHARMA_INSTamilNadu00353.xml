@@ -10,14 +10,14 @@
 			<titleStmt>
 				<title>Nākappaṭṭiṉam, bronze label</title>
 				<respStmt>
-					<resp>EpiDoc Encoding</resp>
+					<resp key="contributor">EpiDoc Encoding</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
 					</persName>
 				</respStmt>
 				<respStmt>
-					<resp>intellectual authorship of edition</resp>
+					<resp key="creator">intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>

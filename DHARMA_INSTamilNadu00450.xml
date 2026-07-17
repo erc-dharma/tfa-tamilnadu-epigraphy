@@ -10,7 +10,7 @@
 			<titleStmt>
 				<title>Pirāṉmalai, Maṅkaipākar, Śaka year 1430<!--check: 1500 in edition--></title>
 			    <respStmt>
-			        <resp>intellectual authorship of edition</resp>
+			        <resp key="creator">intellectual authorship of edition</resp>
 			    	<persName>
 			    		<forename>K.V.</forename>
 			    		<surname>Subrahmanya Aiyer</surname>
@@ -21,7 +21,7 @@
 			        </persName>
 			    </respStmt>
 			    <respStmt>
-			        <resp>EpiDoc encoding</resp>
+			        <resp key="contributor">EpiDoc encoding</resp>
 			        <persName ref="part:emfr">
 			            <forename>Emmanuel</forename>
 			            <surname>Francis</surname>

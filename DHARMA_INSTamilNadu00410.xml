@@ -10,14 +10,14 @@
             <titleStmt>
                 <title>Pirāṉmalai, Maṅkai Pākar, Bhairava temple, time of Sundara Pāṇḍya, year lost</title>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:vija">
                         <forename>G.</forename>
                         <surname>Vijayavenugopal</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>EpiDoc encoding</resp>
+                    <resp key="contributor">EpiDoc encoding</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>

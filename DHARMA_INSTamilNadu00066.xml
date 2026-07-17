@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Śrīvañciyam, Śrīvāñjināthēśvara temple, time of Kulottuṅga Cōḻa, year 25</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>

@@ -10,14 +10,14 @@
             <titleStmt>
                 <title>Tiruppāmpuram, Cēṣapurīśvara, time of Tribhuvana Vīradeva, year 35</title>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp key="contributor">EpiDoc Encoding</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Davalos</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>

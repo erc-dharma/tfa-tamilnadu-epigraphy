@@ -10,14 +10,14 @@
             <titleStmt>
                 <title>Tirukaṇṭēcuvaram, Tirumūlanātar, time of Rājakesarivarman Kulottuṅga, year 34</title>
                 <respStmt>
-                    <resp>EpiDoc encoding</resp>
+                    <resp key="contributor">EpiDoc encoding</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>intellectual authorship of edition</resp>
+                    <resp key="creator">intellectual authorship of edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>

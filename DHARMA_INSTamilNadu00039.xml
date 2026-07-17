@@ -10,14 +10,14 @@
             <titleStmt>
                 <title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa, no year</title>
                 <respStmt>
-                    <resp>Intellectual authorship of edition</resp>
+                    <resp key="creator">Intellectual authorship of edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>EpiDoc Encoding</resp>
+                    <resp key="contributor">EpiDoc Encoding</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
