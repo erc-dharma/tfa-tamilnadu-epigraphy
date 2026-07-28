@@ -10,7 +10,7 @@
             <titleStmt>
                 <title>Cōḻapuram, Rājendracōḻīśvara temple, Kollam year 419</title>
                 <respStmt>
-                    <resp key="contributor">EpiDoc Encoding</resp>
+                    <resp key="creator">EpiDoc Encoding</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Davalos</surname>
@@ -19,14 +19,7 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp key="creator">intellectual authorship of edition</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Davalos</surname>
-                    </persName>
-                </respStmt>
+                </respStmt>                
             </titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>

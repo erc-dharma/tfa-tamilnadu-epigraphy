@@ -15,9 +15,6 @@
 			            <forename>G.</forename>
 			            <surname>Vijayavenugopal</surname>
 			        </persName>
-			    </respStmt>
-			    <respStmt>
-			        <resp key="contributor">EpiDoc encoding</resp>
 			        <persName ref="part:emfr">
 			            <forename>Emmanuel</forename>
 			            <surname>Francis</surname>
