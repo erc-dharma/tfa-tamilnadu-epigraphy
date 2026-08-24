@@ -10,19 +10,12 @@
             <titleStmt>
                 <title>Nallūr, Vilvāraṇyeśvara, time of Kulottuṅga Cōḻa, no year</title>
                 <respStmt>
-                    <resp key="creator">Intellectual authorship of edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
                     </persName>
-                </respStmt>
-                <respStmt>
-                    <resp key="contributor">EpiDoc Encoding</resp>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
-                </respStmt>				
+                </respStmt>		
             </titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
