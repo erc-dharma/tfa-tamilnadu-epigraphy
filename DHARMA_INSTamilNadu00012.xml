@@ -10,14 +10,7 @@
             <titleStmt>
                 <title>Tiruvoṟṟiyūr, Ādhipurīśvara temple, time of Kaṉṉara Deva, year 20</title>
                 <respStmt>
-                    <resp key="contributor">EpiDoc encoding</resp>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp key="creator">intellectual authorship of edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
