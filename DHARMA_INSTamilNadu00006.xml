@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirukaṇṭēcuvaram, Tirumūlanātar, time of Rājakesarivarman Kulottuṅga, year 34</title>
+                <title>Tirukaṇṭēcuvaram, Tirumūlanātar temple, time of Rājakesarivarman Kulottuṅga, year 34</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:reda">
@@ -83,7 +83,7 @@
                     <l n="20">tiruniḻal veṇṇilā-t tikaḻa Orutaṉi</l>
                     <l n="21">mēruviṟ puliviṉai yāṭa vārkaṭaṟ</l>
                     <l n="22">ṟivāntarattu-p pūpālar tiṟaiviṭu</l>
-                    <l n="23">tanta kalañcori kaṉuṟumuṟai niṟppa vilaṅkiya</l><!--@emfr:Std. vers: there's an extra tanta-->
+                    <l n="23">tanta kalañcori kaṉuṟumuṟai niṟppa vilaṅkiya</l><!--@emfr:Std. vers: there is an extra tanta-->
                     <l n="24">teṉṉavaṉ karuntalai <lb n="5"/><supplied reason="lost">parun</supplied>talaitti<supplied reason="lost">ṭ</supplied><lb n="6"/><supplied reason="lost">t</supplied>tan</l>
                     <l n="25">po<choice><orig>n</orig><reg>ṉ</reg></choice><lb n="7" break="no"/>ṉaka<supplied reason="lost">r</supplied><unclear>k</unclear> puṟatti<lb n="8" break="no"/>ṭaik kiṭa-p<lb n="9" break="no"/>pa Iṉṉuḷ</l>
                     <l n="26">piṟkula-p piṟaipōl niṟpiḻai yeṉṉum</l> 
