@@ -20,9 +20,8 @@
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSTamilNadu01016</idno>
+                <idno type="filename">DHARMA_INSTamilNadu01016.xml</idno>
                 <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
             <sourceDesc>
@@ -46,22 +45,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <projectDesc>
-                <p>The project DHARMA has received funding from the European Research Council (ERC)
-                    under the European Union's Horizon 2020 research and innovation programme (grant
-                    agreement no 809994).</p>
-            </projectDesc>
-            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-            <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                        ERC-DHARMA whose data are open to the public.</p>
-                </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-                    <p>Internal URIs using the part prefix to point to person elements in the
-                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-                </prefixDef>
-            </listPrefixDef>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
         </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2026-02-12" status="draft">Creation of the file on the repository</change>
@@ -75,7 +59,7 @@
                 <!--text after SII, to be cleaned and checked-->
                 <ab>
                     <pb n="1r"/>                
-                    <lb n="1r1=1"/><hi rend="grantha">svasti śrī</hi> <supplied reason="subaudible"><g type="ddanda">.</g></supplied>
+                    <lb n="1r1=1"/><hi rend="grantha">svasti śrī</hi> <supplied reason="subaudible"><g ref="sym:doubleBar" type="punctuation">.</g></supplied>
                 </ab>
                 
                 <p>
@@ -85,7 +69,7 @@
                     <lb n="4" break="no"/>l tevar perumtiruvamutu ceyvikkavum piḷḷaiyārkku tiruvamutu ceyvikkavum <hi rend="grantha">śrī</hi>mulat
                     <lb n="5" break="no"/>tānammuṭaiyār Amutuceytaruḷavum Aṟṟai nāḷāl tevaraṭiyārai Amutu
                     <lb n="6" break="no"/>ceyvikkavum neṉmalināṭṭu taṇṇirkkunṟammuṭaiyān civan tillai nāyaka<surplus>n</surplus>nāna
-                    <lb n="7"/>ciṟuttoṇṭanampi ceyta Upaiyamāvitu <supplied reason="subaudible"><g type="danda">.</g></supplied> Ikkoyil civappirāmaṇan kaucikan ve
+                    <lb n="7"/>ciṟuttoṇṭanampi ceyta Upaiyamāvitu <supplied reason="subaudible"><g ref="sym:bar" type="punctuation">.</g></supplied> Ikkoyil civappirāmaṇan kaucikan ve
                     <lb n="8" break="no"/>ṇkāṭaṉpaṭṭaṉum kāciyavan kāṟāyil muḷaiccāṉum kaucikaṉ <choice><sic>A</sic><corr>Ā</corr></choice>tittaṉ Āṭavalā-ṉum Uḷ
                     <lb n="9" break="no"/>ḷiṭṭa civappirāmaṇarom Ivarpakkal Ivvāṭṭai vaikāci mācattu nāṅkaḷ po
                     <lb n="10" break="no"/>liy<choice><sic>u</sic><corr>ū</corr></choice>ṭṭu koṇṭa mutal nel<unclear>lu</unclear> Aṟupatiṉ kalattukkum kalattukku mukkuṟuṇiyā
@@ -93,11 +77,11 @@
                     <lb n="12"/>mukkuṟu<surplus>ṇ</surplus>ṇiyāka ca<choice><sic>ñ</sic><corr>n</corr></choice>tirātittavaṟ mu<unclear>n</unclear>niṉṟome ceyakkaṭavomākavum Ivv<choice><sic>u</sic><corr>ū</corr></choice>r Aravāpa
                     <lb n="13" break="no"/>raṇan Eṭuttapātamāna tirucciṟṟampalakkālā<supplied reason="omitted">ṉu</supplied>m Aravāparaṇaṉ Iyapara<supplied reason="omitted">ta</supplied>nāta<choice><sic>na</sic><corr>ṉu</corr></choice>m Āṭavalāṉ
                     <lb n="14"/>Āṉa p<choice><sic>u</sic><corr>ūr</corr></choice>uvacivanāṉa patta<supplied reason="omitted">r</supplied>ka<surplus>ḷ</surplus>ṇāyaka pi<supplied reason="omitted">c</supplied>caṉum Aravintan kunṟaṉāṉa nāṟpatte<supplied reason="omitted">ṇ</supplied>ṇāyirapiccanum kūtta
-                    <lb n="15" break="no"/>n kaṅkaikoṇṭāṉāna civacaraṇacekaramuventaveḷāṉum<seg rend="check">[*]</seg> Ivaivo<supplied reason="omitted">m</supplied> civan tillaināyakan pakkal
+                    <lb n="15" break="no"/>n kaṅkaikoṇṭāṉāna civacaraṇacekaramuventaveḷāṉum<hi rend="check">[*]</hi> Ivaivo<supplied reason="omitted">m</supplied> civan tillaināyakan pakkal
                     <lb n="16"/>ṉāṅkaḷ Upaiyam paṇṇi poliyūṭṭukkoṇṭa nellu n<choice><sic>u</sic><corr>ū</corr></choice>ṟṟu Irupatin kalattuk-kum kalanellukku
-                    <lb n="17"/>mukkuṟuṇiyāka Orāṭṭaināḷaikku palicai nellu muppatin kalam <supplied reason="subaudible"><g type="danda">.</g></supplied> Amāvāci On-ṟukku nellu Irukalane
-                    <lb n="18"/>t<choice><sic>u</sic><corr>ū</corr></choice>ṇippata<supplied reason="omitted">k</supplied>kāka tevaraṭiyār muppatu kalam Amutu cevi<supplied reason="omitted">kkak</supplied>kaṭavo<supplied reason="omitted">m</supplied> Eṅkaḷil puṇaiva<unclear>ca</unclear>m <supplied reason="subaudible"><g type="danda">.</g></supplied> caṉtirātittavaṟ <hi rend="grantha">śrīmā</hi>
-                    <lb n="19" break="no"/><hi rend="grantha">yeśuva<supplied reason="omitted">ra</supplied>rakṣ<unclear>ai</unclear></hi> kaṇapeṟṟār māyecuvarak kāṇiyāniṟka <supplied reason="subaudible"><g type="danda">.</g></supplied> Ivai E<supplied reason="omitted">ṉ</supplied> ne<unclear>ḻuttu</unclear> <supplied reason="subaudible"><g type="ddanda">.</g></supplied>
+                    <lb n="17"/>mukkuṟuṇiyāka Orāṭṭaināḷaikku palicai nellu muppatin kalam <supplied reason="subaudible"><g ref="sym:bar" type="punctuation">.</g></supplied> Amāvāci On-ṟukku nellu Irukalane
+                    <lb n="18"/>t<choice><sic>u</sic><corr>ū</corr></choice>ṇippata<supplied reason="omitted">k</supplied>kāka tevaraṭiyār muppatu kalam Amutu cevi<supplied reason="omitted">kkak</supplied>kaṭavo<supplied reason="omitted">m</supplied> Eṅkaḷil puṇaiva<unclear>ca</unclear>m <supplied reason="subaudible"><g ref="sym:bar" type="punctuation">.</g></supplied> caṉtirātittavaṟ <hi rend="grantha">śrīmā</hi>
+                    <lb n="19" break="no"/><hi rend="grantha">yeśuva<supplied reason="omitted">ra</supplied>rakṣ<unclear>ai</unclear></hi> kaṇapeṟṟār māyecuvarak kāṇiyāniṟka <supplied reason="subaudible"><g ref="sym:bar" type="punctuation">.</g></supplied> Ivai E<supplied reason="omitted">ṉ</supplied> ne<unclear>ḻuttu</unclear> <supplied reason="subaudible"><g ref="sym:doubleBar" type="punctuation">.</g></supplied>
                 </p>
                 <pb n="1v"/>
             </div>

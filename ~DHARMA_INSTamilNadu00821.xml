@@ -17,15 +17,13 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSTamilNadu00821</idno>
+                <idno type="filename">DHARMA_INSTamilNadu00821.xml</idno>
                 <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
             <sourceDesc>
@@ -46,22 +44,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <projectDesc>
-                <p>The project DHARMA has received funding from the European Research Council (ERC)
-                    under the European Union’s Horizon 2020 research and innovation programme (grant
-                    agreement no 809994).</p>
-            </projectDesc>
-            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-            <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                        ERC-DHARMA whose data are open to the public.</p>
-                </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-                    <p>Internal URIs using the part prefix to point to person elements in the
-                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-                </prefixDef>
-            </listPrefixDef>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
         </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2026-04-19" status="draft">Creation of the file</change>
@@ -72,10 +55,10 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <ab>
-                    <lb n="1"/><g type="tam-pillaiyarCuli"/> <hi rend="grantha">śubham astu supa</hi>
+                    <lb n="1"/><g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g> <hi rend="grantha">śubham astu supa</hi>
                 </ab>
                 <p>
-                    <hi rend="grantha">śrīmaN mahā-ma</hi>ṇṭa<hi rend="grantha">leśva<gap reason="illegible" quantity="1" unit="character"/>ra</hi> <unclear>rāyā</unclear><hi rend="grantha">dh<supplied reason="lost">i</supplied>rāja-rāja parameśvara śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">ra-pra<choice><sic>dh</sic><corr>t</corr></choice>āpa śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">ra śrī</hi>-vē<supplied reason="lost">ṅ</supplied><hi rend="grantha">ka<seg rend="check">ṭa</seg>pa</hi>t<supplied reason="lost">i</supplied>-<hi rend="grantha">de</hi>va <hi rend="grantha">mahārā</hi>ya<hi rend="grantha">r pri</hi>tivi-<hi rend="grantha">rājyaM</hi> paṇ<unclear>ṇi Aruḷā niṉṟa</unclear>
+                    <hi rend="grantha">śrīmaN mahā-ma</hi>ṇṭa<hi rend="grantha">leśva<gap reason="illegible" quantity="1" unit="character"/>ra</hi> <unclear>rāyā</unclear><hi rend="grantha">dh<supplied reason="lost">i</supplied>rāja-rāja parameśvara śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">ra-pra<choice><sic>dh</sic><corr>t</corr></choice>āpa śrī</hi>-v<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">ra śrī</hi>-vē<supplied reason="lost">ṅ</supplied><hi rend="grantha">ka<hi rend="check">ṭa</hi>pa</hi>t<supplied reason="lost">i</supplied>-<hi rend="grantha">de</hi>va <hi rend="grantha">mahārā</hi>ya<hi rend="grantha">r pri</hi>tivi-<hi rend="grantha">rājyaM</hi> paṇ<unclear>ṇi Aruḷā niṉṟa</unclear>
                     <lb n="2"/><hi rend="grantha">śāli</hi>-vā<hi rend="grantha">ha</hi>na-<hi rend="grantha">śa<choice><sic>kh</sic><corr>k</corr></choice>āptam</hi> <num value="1509"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 9</num> <hi rend="grantha">N</hi> mēl cellā niṉṟa <hi rend="grantha">sarva<!--EF:vra-->śi</hi>t=ti-<hi rend="grantha">saMvaśśara</hi>t=tu vai<hi rend="grantha">śā<unclear>kha</unclear></hi>-nāyaṟṟu <hi rend="grantha">pūrvva-pakṣa</hi>t=tu y-in=tu-v<supplied reason="lost">ā</supplied><hi rend="grantha">sara</hi>mum pañcamiy<unclear>u</unclear>m peṟṟa <hi rend="grantha">has<supplied reason="omitted">ta</supplied></hi>-na<hi rend="grantha">kṣa</hi>ttirat=tu nāḷ 
                 </p>
                 <p>
@@ -96,7 +79,7 @@
                     <lb n="14"/>Ilai yamutu 7 Alaṅkāra tiru mañcaṉam Uḷḷa kaṭṭaḷai Inta piṟakāram Āṟu ṉāḷum tiruk kōyililē naṭattak kaṭavōmākavum
                     <lb n="15"/>Amutu ceytaruḷiṉa ciṟappukku <gap reason="lost" quantity="3" unit="character"/> viṭṭavaṉ viḻu <gap reason="lost" quantity="4" unit="character"/> nālat toṉṟum Āḻvā <gap reason="lost" quantity="3" unit="character"/> niṟuvākam ṉālukkum muṉṉāḷ tiruvaṭi kōyil paṭi poliyūṭṭu piṟa
                     <lb n="16"/>kāra <gap reason="lost" quantity="5" unit="character"/> kuṭuttu <gap reason="lost" quantity="3" unit="character"/> ṉiyōkam paṇṇivikka kaṭavōmākavum yippaṭi cammatittu kōṭait tiru ṉāḷ poliyūṭṭu nimattamāka Upakṣaya taṟma
-                    <lb n="17"/><hi rend="grantha">śāsa</hi>na<hi rend="grantha">M</hi> paṇṇi kuṭuttōm tiruma <gap reason="lost" quantity="5" unit="character"/> kaḷ Ayyaṅkār Ayyan Avarkaḷukku tiruvekā nayiṉār kōyil <hi rend="grantha">śrī</hi>-paṇṭārat=tārum <hi rend="grantha">śrī</hi>-kā<hi rend="grantha">ri</hi>yam ceyyum Aḻakiya ciṅkarum <hi rend="grantha">me</hi> <seg rend="check"><gap reason="lost" quantity="1" unit="character"/> vai</seg>
+                    <lb n="17"/><hi rend="grantha">śāsa</hi>na<hi rend="grantha">M</hi> paṇṇi kuṭuttōm tiruma <gap reason="lost" quantity="5" unit="character"/> kaḷ Ayyaṅkār Ayyan Avarkaḷukku tiruvekā nayiṉār kōyil <hi rend="grantha">śrī</hi>-paṇṭārat=tārum <hi rend="grantha">śrī</hi>-kā<hi rend="grantha">ri</hi>yam ceyyum Aḻakiya ciṅkarum <hi rend="grantha">me</hi> <hi rend="check"><gap reason="lost" quantity="1" unit="character"/> vai</hi>
                     <lb n="18"/>tiru-c-cittiṟa-kūṭa-p-paṭṭar coṉṉa vaṇṇam Eḻuttu ciṅka-p-pirāṉ paṭṭar nayiṉār <gap reason="lost" quantity="3" unit="character"/>
                     <lb n="19"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="20"/>Āḻvār <gap reason="lost" quantity="20" unit="character"/>

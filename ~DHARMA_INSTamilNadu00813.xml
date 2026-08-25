@@ -17,15 +17,13 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
-                    
                 </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSTamilNadu00813</idno>
+                <idno type="filename">DHARMA_INSTamilNadu00813.xml</idno>
                 <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-
                 <date from="2019" to="2025">2019-2025</date>
             </publicationStmt>
             <sourceDesc>
@@ -48,22 +46,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <projectDesc>
-                <p>The project DHARMA has received funding from the European Research Council (ERC)
-                    under the European Union’s Horizon 2020 research and innovation programme (grant
-                    agreement no 809994).</p>
-            </projectDesc>
-            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-            <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
-                        ERC-DHARMA whose data are open to the public.</p>
-                </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-                    <p>Internal URIs using the part prefix to point to person elements in the
-                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-                </prefixDef>
-            </listPrefixDef>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
         </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2026-04-19" status="draft">Creation of the file</change>
@@ -71,7 +54,6 @@
     </teiHeader>
     <text xml:space="preserve">
         <body>
-            
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 <ab>
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
@@ -81,7 +63,7 @@
                     <lb n="2" break="no"/>-<hi rend="grantha">pakṣa</hi>t=tu <hi rend="grantha">trai</hi>yō<hi rend="grantha">daśi</hi>yum cani-vā<hi rend="grantha">ra</hi>mum peṟṟa Uttirattu ṉāḷ coṉṉa vaṇṇam ceyta perumāḷ kōyilukku mēṟku kaṇṇan tāṅkal naṭātūr
                     <lb n="3"/>caratūta-<hi rend="grantha">rā</hi>car putraṉ maṇṭalam veṭṭivitta kuḷakkaraiyil <hi rend="grantha">ha</hi>nu<hi rend="grantha">ma-pratiṣṭai</hi>yum paṇṇi kōyilu<unclear>m</unclear> maṇṭapamum kaṭṭivittu taṇṇīr pantalum vaippit
                     <lb n="4"/><hi rend="grantha">ha</hi>numanta-<hi rend="grantha">de</hi>vaṟku <hi rend="grantha">nai</hi>ve<hi rend="grantha">dya</hi>-kaṭṭaḷai naṭakkum paṭikku poliyūṭṭukku nāḷ Oṉṟukku Amutupaṭi Iru-ṉāḻikku mā <gap reason="lost" quantity="2" unit="character"/> Oṉṟukku tiru viḷakkukku Eṇ
-                    <lb n="5" break="no"/>ṇai Iru-nāḻikkum kuṭutta <unclear><g type="tam-panam"/></unclear> <num value="25">2 <g type="numeral">10</g> 5</num> Ip-paṇam Irupatt’ añcukkum can<hi rend="grantha">trā</hi>tittavaraiyum Inta Aruci Iru-nāḻiyum Eṇṇai nāḻiyum <hi rend="grantha">ha</hi>numanta-perumāḷukku <hi rend="grantha">nai</hi>
+                    <lb n="5" break="no"/>ṇai Iru-nāḻikkum kuṭutta <unclear><g ref="sym:tam-panam" type="symbol">@</g></unclear> <num value="25">2 <g type="numeral">10</g> 5</num> Ip-paṇam Irupatt’ añcukkum can<hi rend="grantha">trā</hi>tittavaraiyum Inta Aruci Iru-nāḻiyum Eṇṇai nāḻiyum <hi rend="grantha">ha</hi>numanta-perumāḷukku <hi rend="grantha">nai</hi>
                     <lb n="6" break="no"/>ve<supplied reason="omitted"><hi rend="grantha">dya</hi></supplied>m paṇṇi Itil <gap reason="lost" quantity="13" unit="character"/> lum taṇṇīr pantalum veṇ <gap reason="lost" quantity="3" unit="character"/> vaṉukku
                     <lb n="7"/>kavum Inta <gap reason="lost" quantity="18" unit="character"/> rā<hi rend="grantha">jar</hi> maṇṭalattukku Ā <gap reason="lost" quantity="6" unit="character"/>
                     <lb n="8"/><gap reason="lost" quantity="19" unit="character"/> Oṉṟu Ippaṭikku Ivai <gap reason="lost" quantity="5" unit="character"/>
