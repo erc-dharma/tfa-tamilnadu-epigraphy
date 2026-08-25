@@ -10,23 +10,12 @@
 			<titleStmt>
 				<title>Nākappaṭṭiṉam, bronze label</title>
 			    <respStmt>
-			        <resp key="creator">intellectual authorship of edition</resp>
-			        <persName>
-			            <forename>T. N.</forename>
-			            <surname>Ramachandran</surname>
-			        </persName>
+			        <resp key="creator">author of digital edition</resp>
 			        <persName ref="part:emfr">
 			            <forename>Emmanuel</forename>
 			            <surname>Francis</surname>
 			        </persName>
-			    </respStmt>
-			    <respStmt>
-			        <resp key="contributor">EpiDoc Encoding</resp>
-			        <persName ref="part:emfr">
-			            <forename>Emmanuel</forename>
-			            <surname>Francis</surname>
-			        </persName>
-			    </respStmt>				
+			    </respStmt>	
 			</titleStmt>
 			<publicationStmt>
 				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>

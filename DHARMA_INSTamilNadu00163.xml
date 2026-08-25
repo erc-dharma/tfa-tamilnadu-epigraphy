@@ -10,22 +10,7 @@
             <titleStmt>
                 <title>Vaḻuvūr, Vīraṭṭāṉēśvara, time of Parakesarivarman Tribhuvanacakravartin Vīrarājendra, year 3</title>
                 <respStmt>
-                    <resp key="contributor">EpiDoc encoding</resp>
-                    <persName>
-                        <forename>S.</forename>
-                        <surname>Swaminathan</surname>
-                    </persName>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                    <persName ref="part:reda">
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp key="creator">intellectual authorship of edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
