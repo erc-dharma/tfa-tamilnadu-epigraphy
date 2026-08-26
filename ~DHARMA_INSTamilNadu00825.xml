@@ -82,9 +82,9 @@
                     <lb n="21"/><hi rend="check">ppam</hi><!--EF: 2 symbols?--> 1 k=ku Uḷuntu
                     <lb n="22"/><hi rend="check">Uṅa 6 U E 6 U</hi> te
                     <lb n="23"/>ttiyōtaṉam <hi rend="check">kli</hi>
-                    <lb n="24"/><hi rend="check">ma t</hi> tayir <unclear reason="eccentric_ductus">1</unclear><!--EF: looks like ta--> k=ku <hi rend="check">pu </hi> <g type="tam-ulakku"/>
+                    <lb n="24"/><hi rend="check">ma t</hi> tayir <unclear reason="eccentric_ductus">1</unclear><!--EF: looks like ta--> k=ku <hi rend="check">pu </hi> <g ref="sym:tam-ulakku" type="ideogram">@</g>
                     <lb n="25"/>ney <unclear cert="low">1/2</unclear> k=ku pu <unclear cert="low">1/2</unclear> kaṟi-A
-                    <lb n="26"/>mutu <hi rend="check">ru pu</hi> <g type="tam-mukkuruni"/> miḷaku
+                    <lb n="26"/>mutu <hi rend="check">ru pu</hi> <g ref="sym:tam-mukkuruni" type="ideogram">@</g> miḷaku
                     <lb n="27"/>ya <gap reason="lost" quantity="3" unit="character"/> cukku <hi rend="check">lai</hi>
                     <lb n="28"/><hi rend="check">U k=ku pu �</hi> yiḷanir <hi rend="check">ru pa</hi>
                     <lb n="29"/>k=ku pu U vāḻai-p-paḻam
@@ -99,11 +99,11 @@
                     <lb n="38"/>āḷukku <hi rend="check">pu ka</hi> Eri-karum
                     <lb n="39"/>pukku <hi rend="check">pu �</hi> Āka ṉāḷ 1 k=ku
                     <lb n="40"/>cilavu <hi rend="check">pu 10 � kli kā lai</hi>
-                    <lb n="41"/><hi rend="check">k=ku Iḷai la ka ṅa pu U</hi> <g type="tam-ulakku"/>
-                    <lb n="42"/><g type="tam-mukkuruni"/> <hi rend="check">E mā ṅa ru ha kku pu</hi>
+                    <lb n="41"/><hi rend="check">k=ku Iḷai la ka ṅa pu U</hi> <g ref="ulakku" type="ideogram">@</g>
+                    <lb n="42"/><g ref="sym:tam-mukkuruni" type="ideogram">@</g> <hi rend="check">E mā ṅa ru ha kku pu</hi>
                     <lb n="43"/>ka kku <hi rend="check">E</hi> vilai <hi rend="check">ru</hi>
-                    <lb n="44"/><hi rend="check">pu E vu</hi> <supplied reason="lost">v</supplied>ellam <g type="tam-mukkuruni"/>
-                    <lb n="45"/>k=ku <hi rend="check">pu ta E</hi> <unclear>U</unclear>ḷuntu <g type="tam-mukkuruni"/> <hi rend="check">cu</hi>
+                    <lb n="44"/><hi rend="check">pu E vu</hi> <supplied reason="lost">v</supplied>ellam <g ref="sym:tam-mukkuruni" type="ideogram">@</g>
+                    <lb n="45"/>k=ku <hi rend="check">pu ta E</hi> <unclear>U</unclear>ḷuntu <g ref="sym:tam-mukkuruni" type="ideogram">@</g> <hi rend="check">cu</hi>
                     <lb n="46"/>k=ku <hi rend="check">pa ka te la</hi> Āka <hi rend="check">102 puca capu</hi>
                     <lb n="47"/>ṉāḷ <hi rend="check">E</hi> k=ku <hi rend="check">1 10 6 pu A</hi>
                     <lb n="48"/><hi rend="check">la ca</hi> Āka <gap reason="lost" quantity="3" unit="character"/> <hi rend="check">A ya la na ka</hi>
