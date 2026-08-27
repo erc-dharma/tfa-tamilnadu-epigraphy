@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pirāṉmalai, X temple, time of X, year X</title>
+                <title>Pirāṉmalai, Maṅkai Pākar temple, Śaka year 1170</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vija">
@@ -64,7 +64,7 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 <p>
-                    <hi rend="grantha">śakābdam·</hi> <num value="1170"><g type="numeral">1000</g> <g type="numeral">100</g> 7 <g type="numeral">10</g></num> ceṉṟu ⌈
+                    <hi rend="grantha">śakābdaM</hi> <num value="1170"><g type="numeral">1000</g> <g type="numeral">100</g> 7 <g type="numeral">10</g></num> ceṉṟu ⌈
                     <lb n="2" break="no"/>mēṟ kaṉṉi-nāyaṟṟil
                 </p>
                 <p>
@@ -75,7 +75,7 @@
                     <lb n="6" break="no"/>tār Aḷakāpuri-y-āṉa ceḻiya-nārāyaṇa
                     <lb n="7" break="no"/>-purattu maṇakk-uṭaiyāṉ poṟ-pati
                     <lb n="8" break="no"/>kku nāyakar t<choice><sic>a</sic><corr>i</corr></choice>ru-vampala-p-perumāḷ-āṉa
-                    <lb n="9"/>peruñ catira-kupēraṉ <gap reason="lost" quantity="1" unit="character" precision="low"/>		
+                    <lb n="9"/>peruñ catira-kupēraṉ
                 </p>
             </div>
             
@@ -99,6 +99,7 @@
                 </div>-->
             
             <div type="commentary">
+                <p>The date Śaka year 1170 is obviously wrong.</p>
                 <p>This a duplicate of <ref target="DHARMA_INSTamilNadu00415">Tamil Nadu 415</ref>.</p>	
             </div>
             
