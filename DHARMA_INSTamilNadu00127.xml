@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, time of ***, year ***</title>
+                <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, unspecified reign and year</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vija">
@@ -35,7 +35,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary>Kulottuṅga III Cōḻa, 1183 CE.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>

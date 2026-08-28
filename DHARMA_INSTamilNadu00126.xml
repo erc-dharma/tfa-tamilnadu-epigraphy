@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, central shrine, south wall, time of Rājadhirāja Cōla, year 11</title>
+                <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, time of Rājadhirāja Cōla, year 11</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vija">
@@ -35,7 +35,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary>Central shrine, south wall.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
