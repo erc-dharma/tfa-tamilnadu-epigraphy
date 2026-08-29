@@ -46,8 +46,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the repository</change>
         </revisionDesc>
@@ -62,18 +62,53 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>	
                 
+                <p>
+                    tirupuvaṉa-c-cakkara-va<reg>r</reg>ttikaḷ maturai koṇṭu pāṇṭiyaṉ<unclear>ai</unclear> muṭi-t talaiyum koṇṭ-aruḷiya c<choice><orig>i</orig><reg>ī</reg></choice>-kulōttuṅka-cōḻa-tēvarkku y<choice><sic>ira</sic><corr>ā</corr></choice>ṇṭu <num value="17"><g type="numeral">10</g> 7</num>-Āvatu kumpa-nāyaṟṟu pūrva-patticattu titiyaiyum tiṅkaṭ-kiḻamaiyum peṟṟa Uttiraṭṭāti nāḷ
+                </p>
+                <p>
+                    U<choice><orig>y</orig><reg>yy</reg></choice>a-k-koṇṭār-vaḷa-nāṭṭu muḻaiyūr-nāṭṭu Uṭaiyār tiru-naḷḷāṟ-uṭaiyār kōyil m<choice><orig>u</orig><reg>ū</reg></choice>la <choice><sic>k</sic><corr>p</corr></choice>irut<supplied reason="omitted">tiya</supplied>-Āti-<supplied reason="lost">ca</supplied>ṇṭēcura-<supplied reason="lost">t</supplied>ēva-<supplied reason="lost">kaṉm</supplied>ikaḷukku I-kōyil nimantakkāṟaril cōlai-<hi rend="check">Iṭarat<choice><orig>i</orig><reg>ī</reg></choice>ṟtāṉ</hi>-Āṉa muḻaiyūr-nāṭṭu kō<choice><orig>n</orig><reg>ṉ</reg></choice><supplied reason="lost">ē</supplied>ṉ <gap reason="lost" quantity="6" unit="character"/> ṇṭa <gap reason="lost" quantity="2" unit="character"/> Inn <gap reason="lost" quantity="2" unit="character"/> <unclear cert="low">ṟ</unclear>kku <gap reason="lost" quantity="12" unit="character"/> 
+                    <lb n="2" break="no"/>ci viṭṭa commaliy-āṭu 10+
+                    Ivv-āṭu pattum nāṉ kai-k-koṇṭu canti-viḷakk<supplied reason="lost">u</supplied> Oṉṟukku nāḷ Oṉṟukku maḷakku<unclear cert="low">ṭi</unclear>ney <choice><sic>a</sic><corr>i</corr></choice>ru ce<supplied reason="omitted">y</supplied> Aḷakka kaṭavēṉ āka<supplied reason="omitted">vu</supplied>m Aḷakku<choice><orig>mm</orig><reg>m</reg></choice> <choice><sic>a</sic><corr>i</corr></choice>ṭattu-v Āṭu pattum Ivaiyiṟ<unclear cert="low">ṟ</unclear> <gap reason="lost" quantity="2" unit="character"/> mēṟpaṭṭa vaṟttaṉaikaḷum nāṉum Eṉ vaṅkica<supplied reason="omitted">t</supplied>t<choice><sic>o</sic><corr>ā</corr></choice><unclear>ru</unclear>m aṉup<choice><sic>o</sic><corr>a</corr></choice>vitt<supplied reason="lost">u</supplied> cantirātitta-varai Aḷakka kaṭavōm āṉamaikk<supplied reason="lost">u</supplied>
+                    
+                    Stops here.
+                    
+                </p>
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">...</rdg>
-                </app> 
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01"></rdg>
+                    </app>
+                    
+                    <app loc="1">
+                        <lem><choice><sic>k</sic><corr>p</corr></choice>irut<supplied reason="omitted">tiya</supplied></lem>
+                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">kirut<supplied reason="omitted">tiya</supplied> Āti</rdg>
+                        <rdg source="bib:Vijayavenugopal2017_01">kirut … Āti</rdg>
+                    </app>
+                    
+                    <app loc="1">
+                        <lem>Iṭarat<choice><orig>i</orig><reg>ī</reg></choice>ṟtāṉ</lem>
+                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">Iṭar tiṟtaṉ</rdg>
+                        <rdg source="bib:Vijayavenugopal2017_01">Iṭaratīṟtāṉ</rdg>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>maḷakku<unclear cert="low">ṭi</unclear>ney <choice><sic>a</sic><corr>i</corr></choice>ru ce<supplied reason="omitted">y</supplied> Aḷakka</lem>
+                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">maḷak<supplied reason="omitted">ku</supplied> ne<supplied reason="omitted">y</supplied>yāl Aḷakka</rdg>
+                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">maḷakku neyyal Aḷakka</rdg>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>aṉup<choice><sic>o</sic><corr>a</corr></choice>vitt<supplied reason="lost">u</supplied></lem>
+                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01"><unclear>I</unclear>tu Erivittu</rdg>
+                        <rdg source="bib:Vijayavenugopal2017_01">Itu Erivittu</rdg>
+                    </app> 
                 </listApp>	
                 
-                </div>-->
+            </div>
             
             <!--<div type="translation" resp="part:emfr">
                 
@@ -91,7 +126,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 477); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 29), with photos. Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 477).</p>
                 
-                <p>This edition by G. Vijayavenugopal (2019). Curated by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016).</p>
+                <p>This edition by G. Vijayavenugopal. Revised and curated by Emmanuel Francis, based on photos (N. Ramaswamy, 2016).</p>
                 
                 <listBibl type="primary">
                     
