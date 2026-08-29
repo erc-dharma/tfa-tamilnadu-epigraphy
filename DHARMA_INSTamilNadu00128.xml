@@ -46,8 +46,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the repository</change>
         </revisionDesc>
@@ -59,21 +59,61 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <ab>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                    <lb n="1"/><hi rend="grantha"><supplied reason="omitted">sva</supplied>sti śrī</hi>
                 </ab>	
                 
+                <p>
+                    tiri-puvaṉa-cakkara-va<reg>r</reg>ttikaḷ maturai koṇṭ-aruḷiṉa kulōttuṅka-cōḻa-tēvaṟkku yāṇṭu 9-vatu I<hi rend="grantha">ṣa</hi>pa-nāyaṟṟu pūrva-pa<hi rend="grantha"><supplied reason="omitted">k</supplied>ṣa</hi>t
+                    <lb n="2" break="no"/><unclear>tu</unclear> tecamiyum tiṅka-ṭ-kiḻamai pe<choice><sic>vi</sic><corr>ṟṟa</corr></choice> Uttirattu nāḷ
+                </p>
+                <p>                    
+                    Uyya-k-koṇṭār vaḷa nāṭṭu muḻaiyūr-nāṭṭu Uṭaiyār tiru-naḷḷāṟ-uṭaiyār kō
+                    <lb n="3" break="no"/><unclear>yi</unclear>l<unclear>i</unclear>lē
+                    Ik-kōyilil Eṟaviṭum vāṇiyaṉ cōṟaṉ Āṉa nāṭ-uṭaiya nāyaka māyilaṭṭiyēṉ Irājentira-cōḻa-vaḷa-nāṭṭu Ārvalar-kūṟṟattu
+                    <lb n="4" break="no"/><gap reason="lost" quantity="1" unit="character"/> mpa kuṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> cāṉṟu pōnānāṉ pakkal nā<choice><orig>n</orig><reg>ṉ</reg></choice> Upaiyattuk<surplus>e</surplus>ku nāṉ kai-k-koṇṭa kācu 100 2 10
+                    Ik-kācu nūṟṟu Irupatum kai-<supplied reason="omitted">k</supplied>-koṇṭu Ik-k
+                    <lb n="5" break="no"/><gap reason="lost" quantity="6" unit="character"/> kum canti m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟukku Eriyu<unclear>m</unclear> tiru-viḷakku<unclear>kku viṭu Eṇṇaikku</unclear> <gap reason="lost" quantity="2" unit="character"/> ceviṭu Āka <gap reason="lost" quantity="5" unit="character"/> ṇai <hi rend="grantha">sa</hi>n<supplied reason="lost">ti</supplied><unclear>kku</unclear> <gap reason="lost" quantity="4" unit="character"/>
+                    <lb n="6" break="no"/><gap reason="illegible" quantity="3" unit="character"/> ṉ vaṅkayattā <num value="40">4 <g type="numeral">10</g></num> Aḷa<supplied reason="omitted">k</supplied>ka kaṭavēṉ āka sammati<supplied reason="omitted">t</supplied>tu Upaiya t<choice><orig>i</orig><reg>ī</reg></choice>ṭṭu kuṭuttēṉ cōṟaṉ nāṭuṭai nāyaka māyilaṭṭiyēṉ cōṟaṉ
+                    <lb n="7"/>Āṉa nāṭuṭai nāyaka māy<choice><sic>a</sic><corr>i</corr></choice>laṭṭi kaiymāṭṭāṅkā <gap reason="illegible" quantity="1" unit="character"/>
+                    Ik-kōyilil civa-p-pirāmaṇaṉ kūtta-pirāṉ Āṉa tiyāka camuttira paṭṭaṉ Eḻuttu
+                    I
+                    <lb n="8" break="no"/>ppaṭi Aṟivēṉ kōyiṟ-kaṇakku t<choice><sic>a</sic><corr>i</corr></choice>iru-naḷḷāṟ-uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice> Eḻuttu <g ref="sym:dash-long" type="punctuation">.</g>
+                    Ippaṭi Aṟivēṉ srī-kāriyam cellūr-uṭaiyār Eḻuttu
+                    Ippaṭi Aṟivēṉ
+                    <lb n="9"/>tē<unclear>va</unclear><supplied reason="omitted">kaṉ</supplied>mi Irārā-paṭṭaṉ Eḻuttu <g ref="sym:dash-long" type="punctuation">.</g>
+                    Ippaṭi Aṟivēṉ cīmākēcura-kaṅkā<unclear>ṇi</unclear> c<choice><orig>i</orig><reg>ī</reg></choice>kāḻi-piḷḷai Eḻuttu
+                    
+                </p>
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
+                <!--complete apparatus: 2 earlier editions-->
                 <listApp>
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">...</rdg>
-                </app> 
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01"></rdg>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>pe<choice><sic>vi</sic><corr>ṟṟa</corr></choice></lem>
+                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">me<supplied reason="omitted">viya</supplied></rdg>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem>Eṟa</lem>
+                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">Eṟi<supplied reason="omitted">ya</supplied></rdg>
+                        <rdg source="bib:Vijayavenugopal2017_01"></rdg>
+                    </app>
+                    
+                    <app loc="6">
+                        <lem>vaṅkayattā <num value="40">4 <g type="numeral">10</g></num></lem>
+                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">vaṅkayattālum <num value="40">4 <g type="numeral">10</g></num></rdg>
+                    </app>
+                    
                 </listApp>	
                 
-                </div>-->
+            </div>
             
             <!--<div type="translation" resp="part:emfr">
                 

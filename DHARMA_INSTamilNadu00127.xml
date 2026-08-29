@@ -111,7 +111,6 @@
                     </list>
                 </p>
                 
-                
             </div>
             
             <div type="apparatus">
@@ -125,11 +124,9 @@
                     
                     <app loc="4">
                         <lem>°vaṉamum Uḷ<supplied reason="lost">li</supplied><lb n="4" break="no"/>ṭṭu</lem>
-                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">...</rdg>
-                        <rdg source="bib:Vijayavenugopal2017_01">°vaṉam uṭpa<lb n="4" break="no"/>ṭṭu</rdg>
-                    </app> 
-                    
-                    
+                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">°vaṉam uṭpa<lb n="4" break="no"/>ṭṭu</rdg>
+                        <rdg source="bib:Vijayavenugopal2017_01"></rdg>
+                    </app>
                 </listApp>	
                 
             </div>
@@ -150,7 +147,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 478); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 27), with photos. Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 478).</p>
                 
-                <p>This revised edition by G. Vijayavenugopal. Curated by Emmanuel Francis, based on photos (N. Ramaswamy, 2016).</p>
+                <p>This edition by G. Vijayavenugopal. Revised and curated by Emmanuel Francis, based on photos (N. Ramaswamy, 2016).</p>
                 
                 <listBibl type="primary">
                     
