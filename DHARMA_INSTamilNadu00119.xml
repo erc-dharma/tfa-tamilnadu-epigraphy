@@ -78,24 +78,20 @@
                     <lb n="81" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice> ...
                 </p>
                 
-                <p>
+                <p>                
                     <milestone n="D" unit="zone" type="pagelike"/>
-                    <lb n="107"/>...
+                    <lb n="107"/>muppatin kalamum cantirātittaval <gap reason="lost" quantity="3" unit="character"/> va
+                    <lb n="108" break="no"/>ṟ <gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">tāṉu</supplied>m In-nel <supplied reason="lost">Eḻu-pat</supplied>t’ iru
+                    <lb n="109"/>kalattukkum palicai poliyum nel
+                    <lb n="110" break="no"/>lu muppati<choice><orig>n</orig><reg>ṉ</reg></choice> kalamuṅ koṇṭu It-tiru-nu
+                    <lb n="111" break="no"/>ntā-viḷakku Onṟum cantirātittavaṟ
+                    <lb n="112"/>cōḻarkaḷ tiru-k-kulam vattikkavum ca
+                    <lb n="113" break="no"/>tturu <hi rend="grantha">ja</hi>yam paṇṇi Aruḷavum <hi rend="grantha">śrī</hi>-māyē
+                    <lb n="114" break="no"/>curam vattikkavum <hi rend="grantha">śrī</hi>-kirāmam vatti
+                    <lb n="115" break="no"/><supplied reason="lost">kkavu</supplied>m It-tiru-nun<supplied reason="lost">tā</supplied>-<unclear>viḷakku vatti</unclear><supplied reason="lost">kkavum</supplied>
+                    <lb n="116"/>...
                 </p>
-                <p>
-                    <milestone n="E" unit="zone" type="pagelike"/>
-                    <lb n="133"/>muppatin kalamum cantirātittaval <gap reason="lost" quantity="3" unit="character"/> va
-                    <lb n="134" break="no"/>ṟ <gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">tāṉu</supplied>m In-nel <supplied reason="lost">Eḻu-pat</supplied>t’ iru
-                    <lb n="135"/>kalattukkum palicai poliyum nel
-                    <lb n="134" break="no"/>lu muppati<choice><orig>n</orig><reg>ṉ</reg></choice> kalamuṅ koṇṭu It-tiru-nu
-                    <lb n="134" break="no"/>ntā-viḷakku Onṟum cantirātittavaṟ
-                    <lb n="138"/>cōḻarkaḷ tiru-k-kulam vattikkavum ca
-                    <lb n="134" break="no"/>tturu <hi rend="grantha">ja</hi>yam paṇṇi Aruḷavum <hi rend="grantha">śrī</hi>-māyē
-                    <lb n="134" break="no"/>curam vattikkavum <hi rend="grantha">śrī</hi>-kirāmam vatti
-                    <lb n="134" break="no"/><supplied reason="lost">kkavu</supplied>m It-tiru-nun<supplied reason="lost">tā</supplied>-<unclear>viḷakku vatti</unclear><supplied reason="lost">kkavum</supplied>
-                    <lb n="135"/>...
-                    
-                </p>
+                
                 
             </div>
             
@@ -124,9 +120,9 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1965-1966"/></bibl> (ARIE/1965-1966/B/1965-1966/447).</p>
                 
-                <p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 468); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 19), with photos. Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 468).</p>
+                <p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 468); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 19), with photos. Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 468). Both these editions mistakenly include here a portion of inscription <ref target="DHARMA_INSTamilNadu00118.xml">Tirunaḷḷāṟu 18</ref> (their lines 102-127).</p>
                 
-                <p>This edition by G. Vijayavenugopal (2019). Curated by Emmanuel Francis (2024), based on photos (N. Ramaswamy, 2016).</p>
+                <p>This edition by G. Vijayavenugopal. Revised and curated by Emmanuel Francis, based on photos (N. Ramaswamy, 2016).</p>
                 
                 <listBibl type="primary">
                     
