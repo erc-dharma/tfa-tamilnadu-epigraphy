@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, time of Vikrama Cōḻa, year ***</title>
+                <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, time of Vikrama Cōḻa, year 15</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vija">
@@ -35,7 +35,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary><foreign>Mahāmaṇḍapa</foreign>, on various zones of west and south walls. A very lacunose inscription starting with the <foreign>meykkīrtti</foreign> of Vikrama Cōḻa (r. 1118-1135 CE).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -59,8 +59,43 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <p>
-                    <lb n="10"/>
+                    <milestone n="A" unit="zone" type="pagelike"/>
+                    <lb n="1-14"/><gap reason="lost"/>
                 </p>	
+                
+                <p>
+                    <milestone n="B" unit="zone" type="pagelike"/>
+                    <lb n="28"/>...
+                </p>
+                
+                <p>
+                    <milestone n="C" unit="zone" type="pagelike"/>
+                    <lb n="76"/>yāṉ-āṉa tiru-c-ciṟṟampala
+                    <lb n="77" break="no"/>-paṭṭaṉum kāśyapa<choice><orig>n</orig><reg>ṉ</reg></choice> ciṟiy
+                    <lb n="78" break="no"/><supplied reason="lost">ā</supplied>ṉ nāṭ-uṭaiyāṉ-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a nā
+                    <lb n="79" break="no"/><supplied reason="lost">ṟ</supplied>patt-eṇṇ-āyira-paṇṭi
+                    <lb n="80" break="no"/>taṉum Iva<choice><orig>n</orig><reg>ṉ</reg></choice> tampi ciṟiyā
+                    <lb n="81" break="no"/><choice><orig>n</orig><reg>ṉ</reg></choice> ...
+                </p>
+                
+                <p>
+                    <milestone n="D" unit="zone" type="pagelike"/>
+                    <lb n="107"/>...
+                </p>
+                <p>
+                    <milestone n="E" unit="zone" type="pagelike"/>
+                    <lb n="133"/>muppatin kalamum cantirātittaval <gap reason="lost" quantity="3" unit="character"/> va
+                    <lb n="134" break="no"/>ṟ <gap reason="lost" quantity="4" unit="character"/> <supplied reason="lost">tāṉu</supplied>m In-nel <supplied reason="lost">Eḻu-pat</supplied>t’ iru
+                    <lb n="135"/>kalattukkum palicai poliyum nel
+                    <lb n="134" break="no"/>lu muppati<choice><orig>n</orig><reg>ṉ</reg></choice> kalamuṅ koṇṭu It-tiru-nu
+                    <lb n="134" break="no"/>ntā-viḷakku Onṟum cantirātittavaṟ
+                    <lb n="138"/>cōḻarkaḷ tiru-k-kulam vattikkavum ca
+                    <lb n="134" break="no"/>tturu <hi rend="grantha">ja</hi>yam paṇṇi Aruḷavum <hi rend="grantha">śrī</hi>-māyē
+                    <lb n="134" break="no"/>curam vattikkavum <hi rend="grantha">śrī</hi>-kirāmam vatti
+                    <lb n="134" break="no"/><supplied reason="lost">kkavu</supplied>m It-tiru-nun<supplied reason="lost">tā</supplied>-<unclear>viḷakku vatti</unclear><supplied reason="lost">kkavum</supplied>
+                    <lb n="135"/>...
+                    
+                </p>
                 
             </div>
             
@@ -81,9 +116,9 @@
                 
             </div>
             
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p n="1-14">This gap is estimated to 9 lines in the previous editions. Some letters are in fact still readable.</p>
+            </div>
             
             <div type="bibliography">
                 
