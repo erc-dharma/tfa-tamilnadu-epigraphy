@@ -60,14 +60,19 @@
                 
                 <ab>
                     <milestone n="A" unit="zone" type="pagelike"/>
-                    <lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><hi rend="grantha">svasti śrī</hi>
                 </ab>	
-                <p><supplied reason="lost">tribhuvaṉa-ca</supplied>
-                    <lb n="2" break="no"/>kkarava<supplied reason="lost">ttikaḷ <hi rend="grantha">śrī</hi>-vikkirama-cōḻa-tēvaṟku yāṇṭu 8</supplied>
+                <p>
+                    <supplied reason="lost">tribhuvaṉa-ca</supplied>
+                    <lb n="2" break="no"/>kkara<unclear>va</unclear><supplied reason="lost">ttikaḷ <hi rend="grantha">śrī</hi>-vikkirama-cōḻa-tēvaṟku yāṇṭu 8</supplied>
                     <lb n="3"/><unclear>Āva</unclear><supplied reason="lost">tu</supplied>
                 </p>
                 
-                <p>...</p>
+                <p>
+                    <supplied reason="lost">rā<hi rend="grantha">ja</hi>-nārāyaṇa</supplied>-vaḷanā<supplied reason="lost">ṭṭu</supplied> <gap reason="lost" quantity="5" unit="character" precision="low"/>
+                    <lb n="4"/><gap reason="lost" quantity="10" unit="character" precision="low"/> <unclear>v</unclear>irutarāja-paya<supplied reason="lost">ṅkara-c-carup</supplied>
+                    <lb n="5" break="no"/><supplied reason="lost">pētimaṅkalattu</supplied> <hi rend="grantha"><supplied reason="lost">sa</supplied>bh<supplied reason="lost">ai</supplied></hi>yōm Ivv-āṇṭai ⌈
+                </p>
                 
                 <p>
                     <milestone n="B" unit="zone" type="pagelike"/>
@@ -76,20 +81,29 @@
                 
                 <p>
                     <milestone n="C" unit="zone" type="pagelike"/>
-                    <lb n="39"/>
+                    <lb n="39"/>...
+                    <lb n="54"/><gap reason="lost" quantity="6" unit="character" precision="low"/> Eḻuti<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ Ivv-ūr karaṇattā<choice><orig>n</orig><reg>ṉ</reg></choice> tiru-na
+                    <lb n="55" break="no"/><gap reason="lost" quantity="6" unit="character" precision="low"/> ḷā<choice><orig>n</orig><reg>ṉ</reg></choice> piḷḷaiyāṇṭā<choice><orig>n</orig><reg>ṉ</reg></choice>-ē<choice><orig>n</orig><reg>ṉ</reg></choice> Ivai E<choice><orig>n</orig><reg>ṉ</reg></choice>
+                    <lb n="56"/><supplied reason="lost">Eḻuttu</supplied>
+                    
                 </p>
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">...</rdg>
-                </app> 
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01"></rdg>
+                    </app> 
+                    
+                    <app loc="1">
+                        <lem><gap reason="lost" extent="unknown" unit="character"/></lem>
+                        <note><foreign><hi rend="grantha">svasti śrī</hi></foreign> or <foreign>Iṉṉum</foreign>.</note>
+                    </app> 
                 </listApp>	
                 
-                </div>-->
+            </div>
             
             <div type="translation" resp="part:emfr">
                 
