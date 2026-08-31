@@ -46,8 +46,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the repository</change>
         </revisionDesc>
@@ -61,7 +61,14 @@
                 <ab>
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>	
-                <p>...</p>
+                <lg>
+                    <l n="1">pū-mālai miṭaintu po<choice><orig>n</orig><reg>ṉ</reg></choice>-mālai tika
+                    <lb n="2" break="no"/>ḻ tara-p</l>
+                    <l n="2">pā-mālai malinta paru-maṇi-t tiraḷ puyat
+                        <lb n="3" break="no"/>t’</l>
+                    <l n="3">iru-nila-maṭan=taiyoṭu <hi rend="grantha">ja</hi>ya-makaḷ iruppa-t</l>
+                    <l n="4">...</l>
+                </lg>
             </div>
             
             <!--<div type="apparatus">
