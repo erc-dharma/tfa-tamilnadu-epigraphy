@@ -394,26 +394,10 @@
                     </app>
                     
                     <app loc="0">
-                        <lem>...</lem>
-                        <rdg source="bib:Vijayavenugopal2017_01">...</rdg>
-                    </app>
-                    
-                    <app loc="0">
-                        <lem>...</lem>
-                        <rdg source="bib:Vijayavenugopal2017_01">...</rdg>
-                    </app>
-                    
-                    <app loc="0">
-                        <lem>...</lem>
-                        <rdg source="bib:Vijayavenugopal2017_01">...</rdg>
-                    </app>
-                    
-                    <app loc="0">
-                        <lem>...</lem>
-                        <rdg source="bib:Vijayavenugopal2017_01">...</rdg>
-                    </app>
-                    
-                    
+                        <lem></lem>
+                        <rdg source="bib:Vijayavenugopal2017_01"></rdg>
+                    </app>                    
+                   
                 </listApp>         
                 
             </div>

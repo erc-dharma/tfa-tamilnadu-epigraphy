@@ -46,8 +46,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2023-11-07" status="draft">Creation of the file on the repository</change>
         </revisionDesc>
@@ -162,10 +162,7 @@
                     Re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 8), with photos.
                 </p>
                 
-                <p>
-                    This edition revised by G. Vijayavenugopal (2019).
-                    Review and updates (based on photos by N. Ramaswamy), encoding, critical apparatus and translation by Emmanuel Francis (2020).
-                </p>
+                <p>This edition by G. Vijayavenugopal. Revised and curated by Emmanuel Francis, based on photos (N. Ramaswamy, 2016).</p>
                 
                 <listBibl type="primary">
                     

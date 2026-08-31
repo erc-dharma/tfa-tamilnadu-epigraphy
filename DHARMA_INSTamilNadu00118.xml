@@ -60,7 +60,7 @@
                 
                 <ab>
                     <milestone n="A" unit="zone" type="pagelike"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><hi rend="grantha">svasti śrī</hi>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>	
                 <p>
                     <supplied reason="lost">tribhuvaṉa-ca</supplied>
@@ -70,7 +70,7 @@
                 
                 <p>
                     <supplied reason="lost">rā<hi rend="grantha">ja</hi>-nārāyaṇa</supplied>-vaḷanā<supplied reason="lost">ṭṭu</supplied> <gap reason="lost" quantity="5" unit="character" precision="low"/>
-                    <lb n="4"/><gap reason="lost" quantity="10" unit="character" precision="low"/> <unclear>v</unclear>irutarāja-paya<supplied reason="lost">ṅkara-c-carup</supplied>
+                    <lb n="4"/><gap reason="lost" quantity="10" unit="character" precision="low"/> <unclear>v</unclear>irutarā<hi rend="grantha">ja</hi>-paya<supplied reason="lost">ṅkara-c-carup</supplied>
                     <lb n="5" break="no"/><supplied reason="lost">pētimaṅkalattu</supplied> <hi rend="grantha"><supplied reason="lost">sa</supplied>bh<supplied reason="lost">ai</supplied></hi>yōm Ivv-āṇṭai ⌈
                 </p>
                 
@@ -106,8 +106,6 @@
             </div>
             
             <div type="translation" resp="part:emfr">
-                
-                <p n="1">Prosperity! Fortune!</p>	
                 
             </div>
             
