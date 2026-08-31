@@ -61,7 +61,8 @@
                 <p>
                     <lb n="1"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    <gap reason="lost" quantity="3" unit="character"/> <unclear>t</unclear>tu nāḷ ṉūṟ<supplied reason="omitted">ṟ’</supplied> Eḻu-patt’ ai‡ñci <space/> Aticaya-cōḻa-mūvēṉta-vēḷāṉ Ōlai Uyya-koṇ<surplus>ṭ</surplus>ṭā-vaḷanāṭṭu mūḻaiyūr-nāṭṭu tiru-naḷḷāṟ-u-ṭaiyār tēvar kaṉmika<unclear>ḷ</unclear>
+                    <gap reason="lost" quantity="3" unit="character"/>
+                    <unclear>t</unclear>tu nāḷ ṉūṟ<supplied reason="omitted">ṟ’</supplied> Eḻu-patt’ ai‡ñci <space/> Aticaya-cōḻa-mūvēṉta-vēḷāṉ Ōlai Uyya-koṇ<surplus>ṭ</surplus>ṭā-vaḷanāṭṭu mūḻaiyūr-nāṭṭu tiru-naḷḷāṟ-u-ṭaiyār tēvar kaṉmika<unclear>ḷ</unclear>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
@@ -69,7 +70,12 @@
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    ...
+                    <gap reason="lost" quantity="5" unit="character"/>
+                    m rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-ciṅka-vaḷa-nāṭṭu ‡ <hi rend="check"><unclear>cē</unclear></hi>ṟṟūr-nāṭṭu kaṇṭiyūr Uṭaiyāṉ po<supplied reason="lost">ṟ-k-kā</supplied>ri Araṅkaṉum Arumoḻi-tēva-vaḷa-nāṭṭu puliyūr-nā(ṭ)ṭu <unclear>ci-ka</unclear>
+                    <gap reason="lost" quantity="8" unit="character" precision="low"/>
+                    <gap reason="lost" quantity="8" unit="character" precision="low"/>
+                    <gap reason="lost" quantity="12" unit="character" precision="low"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
                 </p>	
                 
             </div>
