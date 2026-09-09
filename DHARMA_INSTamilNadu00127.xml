@@ -20,7 +20,7 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-            </titleStmt>
+            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
@@ -63,7 +63,7 @@
                 </p>
                 <p>
                     It-tēvarkku-t tiru-maṭai-viḷākamamum tiru-nantavaṉamum Uḷḷiṭṭu vēṇṭuva<hi rend="check">ṉaṉu</hi>yiṟṟukku-t tiru-naḷḷāṟ-āṉa virutarā<hi rend="grantha">ja</hi>-payaṅkara-c-caruppēti-maṅkalattu-p piṭākai tirunaḷḷāṟṟu nilattu-c cāttaciyarkku-p pati<choice><orig>n</orig><reg>ṉ</reg></choice> āṟāvatu Aḷavil n<choice><orig>i</orig><reg>ī</reg></choice>ṅkal-āka n<choice><orig>i</orig><reg>ī</reg></choice>kkiṉa Ūr-nattattukku mē<unclear>l ēṟṟam</unclear>-āka pa <gap reason="lost" quantity="5" unit="character" precision="low"/>
-                    <lb n="2" break="no"/>r nattam-āka-t ceyta nila<unclear>t</unclear>tu It-tēvar tiru-maṭai-viḷākattukku-c cērvāṉa  nilamum kaṭalāṭu tiru-v<choice><orig>i</orig><reg>ī</reg></choice>ti-y-āka-c ceyta nilamum vātucey vāraṇaṉ tiru-na<supplied reason="omitted">n</supplied>tavaṉattukkum civamati tiru-nantavaṉattukkum tiru-nāvukkaraiciṉ tiru-na<supplied reason="omitted">n</supplied>tavaṉattukkuc cērvāṉa nilamum Uḷpaṭa n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Iraṇṭ’ araiyē mūṉṟu mā<unclear reason="eccentric_ductus" >vu</unclear>m kollai nilam Iraṇṭē-y ēḻu mā<unclear reason="eccentric_ductus">vu</unclear>m pati<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> āṟāvatu Aḷak<unclear>ka</unclear>-k kuṟainta nilatt’ ōpāti nilam m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu mā mukkāṇiyum Āka nilam Aiñ cēy  m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu mā mu<unclear>k</unclear>kāṇiyum Aiñc-āvatu mutal It-tēvarkku-t tēvatāṉa Iṟai-y-ili-y-āka Iṭṭu muṉṉuṭaiyārum paḻam <supplied reason="lost">p</supplied><unclear>e</unclear>
+                    <lb n="2" break="no"/>r nattam-āka-t ceyta nila<unclear>t</unclear>tu It-tēvar tiru-maṭai-viḷākattukku-c cērvāṉa  nilamum kaṭalāṭu tiru-v<choice><orig>i</orig><reg>ī</reg></choice>ti-y-āka-c ceyta nilamum vātucey vāraṇaṉ tiru-na<supplied reason="omitted">n</supplied>tavaṉattukkum civamati tiru-nantavaṉattukkum tiru-nāvukkaraiciṉ tiru-na<supplied reason="omitted">n</supplied>tavaṉattukkuc cērvāṉa nilamum Uḷpaṭa n<choice><orig>i</orig><reg>ī</reg></choice>r-nilam Iraṇṭ’ araiyē mūṉṟu mā<unclear reason="eccentric_ductus">vu</unclear>m kollai nilam Iraṇṭē-y ēḻu mā<unclear reason="eccentric_ductus">vu</unclear>m pati<choice><orig>ṉṉ</orig><reg>ṉ</reg></choice> āṟāvatu Aḷak<unclear>ka</unclear>-k kuṟainta nilatt’ ōpāti nilam m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu mā mukkāṇiyum Āka nilam Aiñ cēy  m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu mā mu<unclear>k</unclear>kāṇiyum Aiñc-āvatu mutal It-tēvarkku-t tēvatāṉa Iṟai-y-ili-y-āka Iṭṭu muṉṉuṭaiyārum paḻam <supplied reason="lost">p</supplied><unclear>e</unclear>
                     <lb n="3" break="no"/>rum Iṟai-kaṭṭu-k kuṭal-āy varu<supplied reason="lost">ki</supplied>ṟa paṭiyum tavirntu n<choice><orig>i</orig><reg>ī</reg></choice>ṅkalukku Uṭal-āka n<choice><orig>i</orig><reg>ī</reg></choice>kki variyilārum varikkuk kūṟu ceyvārkaḷum Eḻutt-iṭṭa Uḷvari tara-c coṉṉōm
                 </p>
                 <p>                    
@@ -121,14 +121,14 @@
                 <!--complete apparatus: 2 earlier editions-->
                 <listApp>
                     <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01"></rdg>
+                        <lem/>
+                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01"/>
                     </app>
                     
                     <app loc="4">
                         <lem>°vaṉamum Uḷ<supplied reason="lost">li</supplied><lb n="4" break="no"/>ṭṭu</lem>
                         <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01">°vaṉam uṭpa<lb n="4" break="no"/>ṭṭu</rdg>
-                        <rdg source="bib:Vijayavenugopal2017_01"></rdg>
+                        <rdg source="bib:Vijayavenugopal2017_01"/>
                     </app>
                 </listApp>	
                 
