@@ -61,8 +61,8 @@
 <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
 			
 	<p>
-		<lb n="1"/>kakaṉa-<hi rend="grantha">saṃhāra-kāra</hi>ṇa<hi rend="grantha">m</hi> <gap reason="lost" quantity="14" unit="character" precision="low"/>
-		<lb n="2"/>ca<supplied reason="omitted">kā</supplied>ttam <num value="1424"><g type="numeral">1000</g> 4 <g type="numeral">1000</g> 2 <g type="numeral">10</g> 4</num>-l cellā niṉṟa tuntupi-saṃvat
+		<lb n="1"/>kakaṉa-<hi rend="grantha">saṁhāra-kāra</hi>ṇa<hi rend="grantha">m</hi> <gap reason="lost" quantity="14" unit="character" precision="low"/>
+		<lb n="2"/>ca<supplied reason="omitted">kā</supplied>ttam <num value="1424"><g type="numeral">1000</g> 4 <g type="numeral">1000</g> 2 <g type="numeral">10</g> 4</num>-l cellā niṉṟa tuntupi-saṁvat
 		<lb n="3"/><gap reason="lost" quantity="1" unit="character" precision="low"/> kṣattu citra<!--looks like vatu-->-<hi rend="grantha">bhodaśi</hi>yum <hi rend="grantha">śuk<supplied reason="omitted">r</supplied>a</hi>-vā<hi rend="grantha">ra</hi>mum peṟṟa nāḷil
 	</p>
 	<p>

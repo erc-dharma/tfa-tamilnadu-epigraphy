@@ -68,7 +68,7 @@
                     <gap reason="lost" quantity="6" unit="character"/>
                     <lb n="4"/>
                     <gap reason="lost" quantity="5" unit="character"/>
-                    lai kaḷiṭṭ' aruḷi tiṟalkoḷ v<choice><orig>i</orig><reg>ī</reg></choice>ra-<hi rend="grantha">siṃhāsa</hi><choice><orig>n</orig><reg>ṉ</reg></choice>am ti
+                    lai kaḷiṭṭ' aruḷi tiṟalkoḷ v<choice><orig>i</orig><reg>ī</reg></choice>ra-<hi rend="grantha">siṁhāsa</hi><choice><orig>n</orig><reg>ṉ</reg></choice>am ti
                     <gap reason="lost" quantity="6" unit="character"/>
                     <lb n="5"/>
                     <gap reason="lost" quantity="5" unit="character"/>
@@ -98,8 +98,8 @@
                     </app>
                     
                     <app loc="5">
-                        <lem>°<hi rend="grantha">siṃhāsa</hi>nam ti</lem>
-                        <rdg source="bib:Srinivasan1987_01"><hi rend="grantha">siṃhāsa</hi>nam ati</rdg>                        
+                        <lem>°<hi rend="grantha">siṁhāsa</hi>nam ti</lem>
+                        <rdg source="bib:Srinivasan1987_01"><hi rend="grantha">siṁhāsa</hi>nam ati</rdg>                        
                     </app>
                     
                     <app loc="6">
