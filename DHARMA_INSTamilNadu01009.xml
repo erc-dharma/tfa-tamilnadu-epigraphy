@@ -77,7 +77,7 @@
                         <l n="ab"><lb n="1v16"/><gap reason="lost" extent="unknown" unit="character"/><pb n="2r"/>
                             <lb n="2r1=1"/>cchurita-caraṇa-pīṭho rudrajit tat-suno ’bhūt·</l>
                         
-                        <l n="cd">diśi diśi vijigīṣor yyasya śubhrāta-patraM pṛthu nija
+                        <l n="cd">diśi diśi vijigīṣor yyasya śubhrāta-patraM pr̥thu nija
                             <lb n="2r2=2" break="no"/>-yaśas-aiv-occhr<choice><sic>a</sic><corr>ā</corr></choice>yinā sparddhati sma <g ref="sym:dash" type="punctuation">.</g></l></lg>
                     
                     <p>
@@ -100,7 +100,7 @@
                     <lg n="38" met="anuṣṭubh">
                         <l n="a">tatas tasyābhavat· palī</l>
                         <l n="b">śuddhamallī śucisthi<!--TNSDA: smi?-->tā</l>
-                        <l n="c">pṛth·vīva pṛthivī-bharttuḥ</l>
+                        <l n="c">pr̥th·vīva pr̥thivī-bharttuḥ</l>
                         <l n="d">prathitā prathitair guṇaiḥ <g ref="sym:dash" type="punctuation">.</g></l>
                     </lg>
                     
@@ -118,7 +118,7 @@
                     
                     <lg n="43" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                         <l n="ab">tanayam atha sa rājā śrī-jayaṅ<lb n="4r2=66" break="no"/>-koṇḍa-coḷam vinaya-vinatam uccair unnataṁ sannatāriḥ</l>
-                        <l n="cd">vimala-vipula-hāra-śrī-samudbhāsitāyāḥ patim akṛta la<lb n="4r3=67" break="no"/>kṣmyāḥ pāṇḍya-vaṁṣo<choice><orig>t</orig><reg>d</reg></choice>bhavāyāḥ <g ref="sym:dash" type="punctuation">.</g></l>
+                        <l n="cd">vimala-vipula-hāra-śrī-samudbhāsitāyāḥ patim akr̥ta la<lb n="4r3=67" break="no"/>kṣmyāḥ pāṇḍya-vaṁṣo<choice><orig>t</orig><reg>d</reg></choice>bhavāyāḥ <g ref="sym:dash" type="punctuation">.</g></l>
                     </lg>
                     
                     <p>
@@ -213,7 +213,7 @@
                         <lb n="86r9" break="no"/>mai ceytārkkum <choice><orig>ṉ</orig><reg>n</reg></choice>āṉ ceyta paṭiyē paripālittārkkum <hi rend="grantha">sūryya-graha</hi>
                         <lb n="86r10" break="no"/>ṇattu <hi rend="grantha">gaṁ<unclear>ga</unclear>-sā<choice><orig>k</orig><reg>g</reg></choice>ara-saṁga</hi>mattilum v<choice><sic>a</sic><corr>ā</corr></choice><choice><sic>ṇā<hi rend="grantha">ra</hi></sic><corr><hi rend="grantha">raṇ</hi>ā</corr></choice>siyilum <hi rend="grantha">sāḷagrāma</hi>ttilu
                         <lb n="86r11" break="no"/>m <hi rend="grantha">kuru-kṣetra</hi>ttilum Uḷḷiṭṭa <hi rend="grantha">puṇya-s<choice><orig>t</orig><reg>th</reg></choice>ā</hi>naṅkalilē pa<choice><orig>ll</orig><reg>l</reg></choice>āyiraṅ kurā
-                        <lb n="86r12" break="no"/>l-p-pacu U<hi rend="grantha">bha</hi>ya-<hi rend="grantha">mukhi</hi>yāy Iruppa<choice><orig>n</orig><reg>ṉ</reg></choice>avē <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>aturvve</hi>ti-<hi rend="grantha">bha</hi>ṭṭa-<hi rend="grantha">sarvva-k<choice><sic>ṛ</sic><corr>ra</corr></choice>tu</hi>-yā<hi rend="grantha">ji</hi>kaḷāy
+                        <lb n="86r12" break="no"/>l-p-pacu U<hi rend="grantha">bha</hi>ya-<hi rend="grantha">mukhi</hi>yāy Iruppa<choice><orig>n</orig><reg>ṉ</reg></choice>avē <hi rend="grantha"><choice><sic>ś</sic><corr>c</corr></choice>aturvve</hi>ti-<hi rend="grantha">bha</hi>ṭṭa-<hi rend="grantha">sarvva-k<choice><sic>r̥</sic><corr>ra</corr></choice>tu</hi>-yā<hi rend="grantha">ji</hi>kaḷāy
                         <lb n="86r13"/><hi rend="grantha">daridra</hi>rāy <hi rend="grantha">bahu-ku<choice><orig>ḍ</orig><reg>ṭ</reg></choice>u<choice><sic>ma</sic><corr>M</corr></choice>bi</hi>kaḷāy <hi rend="grantha">brahma</hi>-vittukaḷāy Iruppārkku va<hi rend="grantha">str-āla</hi>ṅkā<hi rend="grantha">ra-bhu-sahi</hi>tam-ā
                         <lb n="86r14" break="no"/>ka <hi rend="grantha">dā</hi>nam paṇṇiṉārkk’ uḷḷa puṇyam Uṇṭāvat’ ākavum
                     </p>
@@ -231,7 +231,7 @@
                     
                     <p>                        
                         A<hi rend="grantha">śva</hi>-mētamum <hi rend="grantha">rāja-sū</hi><choice><sic><hi rend="grantha">yya</hi></sic><corr>ya</corr></choice>mum U
-                        <lb n="86r19" break="no"/>ḷḷiṭṭu Uḷḷa k<choice><orig>ṛ</orig><reg>ra</reg></choice>tukkaḷ ellām Uttama-<hi rend="grantha">dakṣ<choice><sic>a</sic><corr>i</corr></choice></hi>ṇai kuṭuttu-p paṇṇi<choice><orig>n</orig><reg>ṉ</reg></choice>ār
+                        <lb n="86r19" break="no"/>ḷḷiṭṭu Uḷḷa k<choice><orig>r̥</orig><reg>ra</reg></choice>tukkaḷ ellām Uttama-<hi rend="grantha">dakṣ<choice><sic>a</sic><corr>i</corr></choice></hi>ṇai kuṭuttu-p paṇṇi<choice><orig>n</orig><reg>ṉ</reg></choice>ār
                         <pb n="86v"/>
                         <lb n="86v1" break="no"/>kku Uḷḷa <hi rend="grantha">puṇya</hi>m Uṇṭāvat’ ākavum
                     </p>
@@ -251,11 +251,11 @@
                         <lb n="86v6" break="no"/><hi rend="grantha">rvva</hi>mē palakālum paṇṇiṉārkku’ uḷlā pāpam Uṇṭāvat’ ākavum
                     </p>
                     <p>
-                        <hi rend="grantha">kṛ</hi>ta<hi rend="grantha">gghna</hi>rkkum <hi rend="grantha">svā</hi>mi-<hi rend="grantha">dro</hi>
+                        <hi rend="grantha">kr̥</hi>ta<hi rend="grantha">gghna</hi>rkkum <hi rend="grantha">svā</hi>mi-<hi rend="grantha">dro</hi>
                         <lb n="86v7" break="no"/><hi rend="grantha">haM</hi> paṇṇi<choice><orig>n</orig><reg>ṉ</reg></choice>arkk’ uḷḷa pāpam Uṇṭāvat’ ākavum                       
                     </p>
                     <p>
-                        <hi rend="grantha">rāja</hi>-va<hi rend="grantha">ṁśa</hi>ttukku <hi rend="grantha">bṛ</hi>t=tiyarāy Irun=tu pi
+                        <hi rend="grantha">rāja</hi>-va<hi rend="grantha">ṁśa</hi>ttukku <hi rend="grantha">br̥</hi>t=tiyarāy Irun=tu pi
                         <lb n="86v8" break="no"/>ḻaittārkk’ uḷḷa pāpamum <hi rend="grantha">droha</hi>mum Uṇṭāvat’ ākavum
                     </p>
                     <p>
@@ -302,7 +302,7 @@
                     
                     <lg n="203" met="anuṣṭubh">
                         <l n="a" enjamb="yes">śrīmac-cāsanam urvv-īśa</l>
-                        <l n="b">-śirobhiḥ śekharī-kṛtaM</l>
+                        <l n="b">-śirobhiḥ śekharī-kr̥taM</l>
                         <l n="c">Etad rājendra-devasya</l>
                         <l n="d">para-kesari-varmmaṇaḥ <g ref="sym:bullet-double" type="punctuation">.</g><g ref="sym:dash-long" type="punctuation">.</g></l>
                     </lg>
@@ -325,7 +325,7 @@
                 <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil portion</head>
                     <listApp>
                         <app loc="86v7">
-                            <lem><hi rend="grantha">kṛ</hi>ta<hi rend="grantha">gghna</hi>rkkum</lem>
+                            <lem><hi rend="grantha">kr̥</hi>ta<hi rend="grantha">gghna</hi>rkkum</lem>
                             <rdg source="bib:Cankaranarayanan+al_2011"><hi rend="grantha">kara</hi>ta<hi rend="grantha">ghna</hi>rkkum</rdg>
                         </app>
                     </listApp>

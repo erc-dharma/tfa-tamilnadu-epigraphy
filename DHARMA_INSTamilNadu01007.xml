@@ -94,7 +94,7 @@
                     <lg n="33" met="vasantatilakā">
                         <l n="a">Āgāmi<lb n="4r4=76" break="no"/>no nara-pat<choice><sic>i</sic><corr>ī</corr></choice>n abhiyācate</l>
                         <l n="b"><supplied reason="subaudible">’</supplied>s<choice><orig>o</orig><reg>au</reg></choice>
-                            rājendra-cola-ṇṛpatir jjana-nātha-sūnuḥ</l>
+                            rājendra-cola-ṇr̥patir jjana-nātha-sūnuḥ</l>
                         <l n="c" enjamb="yes"><lb n="4r5=77"/>dharmmo yam astu paripālya Iti 
                             pratāpa</l>
                         <l n="d">-namr-āvan-īndra-makuṭ-<choice><sic>ā</sic><corr>o</corr></choice>
@@ -105,7 +105,7 @@
                         <l n="a">śaṁkarasya tanujena</l>
                         <l n="b">pā<unclear>r</unclear>śva-grāma-nivāsin<lb n="4r7=79" break="no"/>ā</l>
                         <l n="c">nārāyaṇena kavinā</l>
-                        <l n="d">śāsanaṁ śāśvatāṁ kṛtaM <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
+                        <l n="d">śāsanaṁ śāśvatāṁ kr̥taM <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                     </lg>
                     
                 </div>
@@ -185,8 +185,8 @@
                             <rdg source="bib:Nagaswamy1987_01">’sau</rdg>
                         </app>
                         <app loc="76">
-                            <lem>ṇṛpatir jjana°</lem>
-                            <rdg source="bib:Nagaswamy1987_01">ṇṛpatiḥ jana°</rdg>
+                            <lem>ṇr̥patir jjana°</lem>
+                            <rdg source="bib:Nagaswamy1987_01">ṇr̥patiḥ jana°</rdg>
                         </app>
                         <app loc="77">
                             <lem>dharmmo</lem>

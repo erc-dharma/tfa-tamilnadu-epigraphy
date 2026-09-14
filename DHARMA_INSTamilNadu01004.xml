@@ -58,7 +58,7 @@
                 <div type="textpart" n="A" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular"><head>Seal</head>
                     <lg n="1" met="anuṣṭubh">
                         <l n="a"><lb n="1"/>nyāyānāṁ śāsanaṁ kurvvat</l>
-                        <l n="b">trāsanaṁ <unclear>catra</unclear>bhūbhṛtāṁ</l>
+                        <l n="b">trāsanaṁ <unclear>catra</unclear>bhūbhr̥tāṁ</l>
                         <l n="c">śāsanaM bhūpater etat∙</l>
                         <l n="d">parakesarivarmmaṇaḥ</l>
                     </lg>
@@ -75,8 +75,8 @@
                     <p>sa ca teṣāṁ yugma-vaṁśa-paṭṭaśālinān teṣv eva karuvuḷān·pāṭi-kaṁsahappā
                         <lb n="1r2=2" break="no"/>dy-atimānappādy-e<seg rendition="class:tamil maturity:vernacular">ṟṟuvaḻicce</seg>rīty ākhyāteṣu vāṭakeṣu tathā tad dhema-śata-dvayan nyadha
                         <lb n="1r3=3" break="no"/>tta teṣv <choice><sic>a</sic><corr>e</corr></choice>va vāṭakeṣv atimānappāṭi-karuvu<seg rendition="class:tamil maturity:vernacular">ḷā</seg>n·pāṭīti vāṭaka-dvaya-jātāṁs tantuvā<unclear>y</unclear>ā
-                        <lb n="1r4=4" break="no"/>ntasy-aiva hares tulā-prasthādi-mānasaMbhūteṣv arttheṣu hema-vṛddhy-upanateṣv artthe<supplied reason="omitted">ṣu</supplied>
-                        <lb n="1r5=5"/>cāyavyayālokināṁ śrī-kāryya-kṛtām abhāvāt· sa E<supplied reason="omitted">va</supplied> rājā śrī-kāryya-kara
+                        <lb n="1r4=4" break="no"/>ntasy-aiva hares tulā-prasthādi-mānasaMbhūteṣv arttheṣu hema-vr̥ddhy-upanateṣv artthe<supplied reason="omitted">ṣu</supplied>
+                        <lb n="1r5=5"/>cāyavyayālokināṁ śrī-kāryya-kr̥tām abhāvāt· sa E<supplied reason="omitted">va</supplied> rājā śrī-kāryya-kara
                         <lb n="1r6=6" break="no"/>ṇāya tān eva sva<supplied reason="omitted">ya</supplied>n nyayuṅkta<surplus>ḥ</surplus> <g ref="sym:doubleBar" type="punctuation">.</g> 
                     </p>
                     <lg n="1" met="sragdharā">
@@ -94,7 +94,7 @@
                         <l n="cd">māsa-krameṇa c-aikaikan darśanīyau kuḍuMbibhiḥ <supplied reason="undefined"><g ref="sym:doubleBar" type="punctuation">.</g></supplied></l>
                     </lg>
                     <lg n="3">
-                        <l n="ab">rāja-vastra-kṛtām eṣāñ catu
+                        <l n="ab">rāja-vastra-kr̥tām eṣāñ catu
                             <lb n="1r11=11" break="no"/>r-vvāṭa-nivāsināM <supplied reason="undefined"><g ref="sym:bar" type="punctuation">.</g></supplied></l>
                         <l n="cd">hareḥ kāryya-niyuktaiś ca sārddham ūraka-vāsinaḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
