@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, time of Sundara Pāṇḍy, year lost</title>
+                <title>Tirunaḷḷāṟu, Tarppāraṇyēcuvarar temple, time of Sundara Pāṇḍya, year lost</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vija">
@@ -20,7 +20,7 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
@@ -46,8 +46,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the repository</change>
         </revisionDesc>
@@ -60,8 +60,16 @@
                 
                 <ab>
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
-                </ab>	
+                </ab>
                 
+                <p>
+                    tiruveṇ <gap reason="lost" quantity="5" unit="character" precision="low"/> cuḻi paṭṭaṉukkum nāṭ-uṭaiya perumāḷā <gap reason="lost" quantity="4" unit="character" precision="low"/> Uṭaiyār tiru-k-kōyil Ā<hi rend="grantha">śri</hi>yam-āka Eṅkaḷ tamaiyaṉār mutaliyār <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="2"/>ceyttu vāytta <gap reason="lost" quantity="4" unit="character" precision="low"/> paṭṭaṉukku <gap reason="lost" quantity="5" unit="character" precision="low"/> cuḻi Uṭaiyāṉ makaṉ tiru-naḷḷāṟ-uṭaiyāṉu <gap reason="lost" quantity="4" unit="character" precision="low"/> yār Eḻunt-aruḷa-p paṇṇiṉa Uṭaiyār tiru-valañcuḻi Uṭaiyār kōyi <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="3" break="no"/>kkum campattiṉ makaṉ <gap reason="lost" quantity="4" unit="character" precision="low"/> r tiru-valañcuḻi Uṭaiyāṉukkum collum paṭi Uṭaiyār tiru-naḷḷāṟu <gap reason="lost" quantity="5" unit="character" precision="low"/>
+                    <lb n="4"/><gap reason="lost" quantity="4" unit="character" precision="low"/> <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇaṉ kāṇi perumāḷ <hi rend="grantha">sunda</hi>ra-pā<hi rend="grantha">ṇḍya-de</hi>vakku yāṇṭu <gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <lb n="5"/><gap reason="lost" quantity="4" unit="character" precision="low"/> ṉeṭṭā <gap reason="lost" quantity="5" unit="character" precision="low"/> Ēṟṟi y-aruḷiṉa ṉāḷ mutal taṅkaḷukku-k kāṇi-y-āka muliyār niccayittu <gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <lb n="6"/><gap reason="lost" quantity="4" unit="character" precision="low"/> paṭiyē nāṅkaḷ nālvarum pēṟkku Ēḻ’ arai y-āka vanta ṉāḷ-k kāṇi-y-āka-k koṇṭu <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                </p>
             </div>
             
             <!--<div type="apparatus">
@@ -89,7 +97,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Kuppusamy+Vijayavenugopal2006_01"/></bibl> (PI 495); re-edited in <bibl><ptr target="bib:Vijayavenugopal2017_01"/></bibl> (Tirunaḷḷāṟu 50), with photos. Translated in <bibl><ptr target="bib:Kuppusamy+al2010_01"/></bibl> (PI 495).</p>
                 
-                <p>This revised edition by G. Vijayavenugopal. Curated by Emmanuel Francis, based on photos (N. Ramaswamy, 2016).</p>
+                <p>This revised edition by G. Vijayavenugopal. Curated by Emmanuel Francis. No photos available.</p>
                 
                 <listBibl type="primary">
                     
