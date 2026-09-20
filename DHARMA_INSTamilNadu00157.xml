@@ -20,7 +20,8 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder>
+            </titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
@@ -62,30 +63,43 @@
                     <lb n="1"/><hi rend="grantha">śubham astu</hi>
                 </ab>
                 <ab>
-                    <lb n="2"/><hi rend="grantha">svasti śrī</hi>
-                    
+                    <lb n="2"/><hi rend="grantha">svasti śrī</hi>                    
                 </ab>
+                
                 <p>
                     ca
                     <lb n="3" break="no"/><unclear>k</unclear>āṟta<hi rend="grantha">M</hi> <num value="1500"><g type="numeral">1000</g> 5 <supplied reason="omitted"><g type="numeral">100</g></supplied></num>
                     <lb n="4" break="no"/>l cellā niṉ<supplied reason="omitted">ṟa</supplied>
                     
-                    <lb n="5"/>tāṟaṇa <g ref="sym:tam-varusam" type="ideogram">@</g>
-                    <lb n="6"/><gap reason="lost" quantity="1" unit="character"/> kāci <gap reason="lost" quantity="3" unit="character"/>
-                    <lb n="7"/>...
+                    <lb n="5"/>tāṟaṇa <g ref="sym:tam-varusam" type="ideogram">@</g> <unclear cert="low">vai</unclear>
+                    <lb n="6"/><unclear cert="low">y</unclear>kāci <gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <lb n="7"/>ṉa-vāramu <gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <lb n="8" break="no"/><gap reason="lost" quantity="1" unit="character" precision="low"/> na<hi rend="grantha">ṣ</hi>catt<unclear>i</unclear>ra
+                    <lb n="9"/><gap reason="lost" quantity="8" unit="character" precision="low"/>
+                    <lb n="10"/><gap reason="lost" quantity="8" unit="character" precision="low"/>
+                    <lb n="11"/><gap reason="lost" quantity="8" unit="character" precision="low"/>
+                    <lb n="12"/><gap reason="lost" quantity="8" unit="character" precision="low"/>
+                    <lb n="13"/><gap reason="lost" quantity="1" unit="character" precision="low"/> ṉi <gap reason="lost" quantity="1" unit="character" precision="low"/> <hi rend="grantha">śva</hi> <gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <lb n="14"/><gap reason="illegible" quantity="8" unit="character" precision="low"/>
+                    <lb n="14"/><gap reason="lost" quantity="1" unit="character" precision="low"/> tti <gap reason="lost" quantity="1" unit="character" precision="low"/> ṉaiya
+                    <lb n="15"/>ku <gap reason="lost" quantity="1" unit="character" precision="low"/> ṉai Iṭṭa
+                    <lb n="16"/>ṉālē In tamma
+                    <lb n="17" break="no"/>n cantirātitta <gap reason="lost" quantity="1" unit="character" precision="low"/>
+                    <lb n="18" break="no"/>ḷḷavum cu <gap reason="lost" quantity="1" unit="character" precision="low"/>
+                    <lb n="19" break="no"/>ra makku naṭakka
+                    <lb n="20" break="no"/>ḷākavum I <gap reason="lost" quantity="1" unit="character" precision="low"/>
                 </p>	
                 
             </div>
             
             <!--<div type="apparatus">
-                
+                <!-\-complete apparatus with variant readings from Vijayavenugopal2017_01-\->
                 <listApp>
                 <app loc="0">
                 <lem>...</lem>
                 <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">...</rdg>
                 </app> 
-                </listApp>	
-                
+                </listApp>	                
                 </div>-->
             
             <!--<div type="translation" resp="part:emfr">
@@ -94,9 +108,9 @@
                 
                 </div>-->
             
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p n="9-12">There might be more than 4 lines lost here.</p>
+            </div>
             
             <div type="bibliography">	
                 

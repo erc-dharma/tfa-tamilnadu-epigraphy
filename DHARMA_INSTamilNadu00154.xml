@@ -20,7 +20,8 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <funder>European Research Council (ERC), grant agreement no 809994</funder>
+            </titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
@@ -62,7 +63,7 @@
                     <lb n="1"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <gap reason="lost" quantity="3" unit="character"/>
-                    <unclear>t</unclear>tu nāḷ ṉūṟ<supplied reason="omitted">ṟ’</supplied> Eḻu-patt’ ai‡ñci <space/> Aticaya-cōḻa-mūvēṉta-vēḷāṉ Ōlai Uyya-koṇ<surplus>ṭ</surplus>ṭā-vaḷanāṭṭu mūḻaiyūr-nāṭṭu tiru-naḷḷāṟ-u-ṭaiyār tēvar kaṉmika<unclear>ḷ</unclear>
+                    <unclear>t</unclear>tu nāḷ ṉūṟ<supplied reason="omitted">ṟ’</supplied> Eḻu-patt’ ai‡ñci <space type="unclassified" quantity="4" unit="character"/> Aticaya-cōḻa-mūvēṉta-vēḷāṉ Ōlai Uyya-koṇ<surplus>ṭ</surplus>ṭā-vaḷanāṭṭu mūḻaiyūr-nāṭṭu tiru-naḷḷāṟ-u-ṭaiyār tēvar kaṉmika<unclear>ḷ</unclear>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
