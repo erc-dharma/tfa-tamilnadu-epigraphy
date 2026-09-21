@@ -20,7 +20,7 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
@@ -46,8 +46,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the repository</change>
         </revisionDesc>
@@ -59,9 +59,15 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <ab>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
-                </ab>	
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:tam-pillaiyarCuli"/>
+                </ab>
                 
+                <p>
+                    <hi rend="grantha">śrīmaT-kī</hi><reg>r</reg>ttikku mēl kō-c-ca<supplied reason="lost">ṭa</supplied>-paṉmar tiru-puvaṉa-c-cakkara-va<reg>r</reg>ttikaḷ <hi rend="grantha">śrī-sundara-pāṇḍya-de</hi>vaṟkku yāṇṭu 4-vatu <hi rend="grantha"><supplied reason="omitted">ka</supplied><reg>r</reg>kka</hi>ṭaka-nāyaṟṟu <hi rend="grantha">pūrvva-pakṣa</hi>ttu catu<hi rend="grantha"><reg>r</reg>tthi</hi>yum veḷḷi-k-kiḻamaiyum
+                    <lb n="2"/>peṟṟa Uttirattu nāḷ 
+                </p>
+                
+                <p>...</p>
             </div>
             
             <!--<div type="apparatus">
