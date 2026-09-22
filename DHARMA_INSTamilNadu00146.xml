@@ -67,19 +67,33 @@
                     <lb n="2"/>peṟṟa Uttirattu nāḷ 
                 </p>
                 
+                <p>Uyya-k-koṇṭār vaḷa-nāṭṭu muḻaiyūr-nāṭṭu Uṭaiyā=r tiru-naḷḷāṟ-uṭaiyār kōyil Āti-caṇṭē<hi rend="grantha">śvara</hi>-tēvakaṉ<unclear reason="eccentric_ductus">mi</unclear>kaḷōm <hi rend="grantha">ja</hi>yaṅ-koṇṭa-cōḻa
+                    <lb n="3" break="no"/>-vaḷa-nāṭṭu-t tiru-viṭai-k-kaḻi-nāṭṭu-k kuṟṟūr Uṭaiyā=r Upar<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvara</hi>m-uṭaiyā=r kōyil-k-kāṇi Uṭaiya <hi rend="grantha">śi</hi>va-<hi rend="grantha">brāhma</hi>ṇaril vaḷattu vāḻvittāṉ v<choice><sic>a</sic><corr>ā</corr></choice>ṇātar=ā<hi rend="grantha">ja-brahmā-rā</hi>yaṉukku Iṟṟai nāḷāl nā
+                    <lb n="4" break="no"/>ṅkaḷ Ivaṟkku viṟṟu-k kuṭutta Iṉ-ṉāyanā=r-kōyil-c cām<choice><orig>a</orig><reg>u</reg></choice>tāya-p paṇi Oṉṟu
+                </p>
                 <p>...</p>
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01">...</rdg>
-                </app> 
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01"></rdg>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem>°kaṉ<unclear reason="eccentric_ductus">mi</unclear>kaḷōm</lem>
+                        <note>The letter <foreign>mi</foreign> looks like medial <foreign>e</foreign>.</note>
+                    </app> 
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Kuppusamy+Vijayavenugopal2006_01 bib:Vijayavenugopal2017_01"></rdg>
+                    </app> 
                 </listApp>	
                 
-                </div>-->
+            </div>
             
             <!--<div type="translation" resp="part:emfr">
                 
