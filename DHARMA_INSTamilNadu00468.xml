@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pirāṉmalai, Maṅkaipākar temple, Gopur, Śaka year 1662</title>
+                <title>Pirāṉmalai, Maṅkaipākar temple, Gopura, Śaka year 1662</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vija">
@@ -71,12 +71,12 @@
                         <lb n="3"/>trailokya-nirv<choice><sic>a</sic><corr>ā</corr></choice>ṇa
                     </l>
                     <l n="b">
-                        <lb n="4" break="no"/>-tr<choice><sic>a</sic><corr>ā</corr></choice>ṇa-sa<unclear>ṃ</unclear>h<unclear>āra</unclear>-kā
+                        <lb n="4" break="no"/>-tr<choice><sic>a</sic><corr>ā</corr></choice>ṇa-sa<unclear>ṁ</unclear>h<unclear>āra</unclear>-kā
                         <lb n="5" break="no"/>raṇaM
                     </l>
                     <l n="c">
-                        śāsanāṃ śā
-                        <lb n="6" break="no"/>śvataM śa<supplied reason="omitted">ṃ</supplied>bho<unclear>ḥ</unclear>
+                        śāsanāṁ śā
+                        <lb n="6" break="no"/>śvataM śa<supplied reason="omitted">ṁ</supplied>bho<unclear>ḥ</unclear>
                     </l>
                     <l n="d">
                         kaṭho
@@ -85,32 +85,34 @@
                 </lg>
                 
                 <p>                    
-                    <lb n="8" break="no"/>cakāttam <num value="1662"><g type="numeral">1000</g> 6 <g type="numeral">100</g>
+                    <lb n="8"/>cakāttam <num value="1662"><g type="numeral">1000</g> 6 <g type="numeral">100</g>
                         <lb n="9"/>6 <g type="numeral">10</g>2</num> mēl cellā
                     <lb n="10"/>niṉṟa cātār<choice><sic>u</sic><corr>a</corr></choice>ṇa
                     <lb n="11"/><g ref="sym:tam-varusam"/> tai <g ref="sym:tam-matam"/> <num value="30">3 <g type="numeral">10</g></num> <g ref="sym:tam-tiyati"/>
                 </p>
+                
                 <!--Resume check here-->
+                
                 <p>
                     ti
-                    <lb n="12" break="no"/>ru-malai-nāṭṭu ti <gap reason="lost" quantity="2" unit="character" precision="low"/>
-                    <lb n="13" break="no"/>koṭuṅ-kuṉṟa
-                    <lb n="14" break="no"/>m <hi rend="grantha">śrī</hi>-paṇṭā<gap reason="lost" quantity="2" unit="character" precision="low"/>
-                    <lb n="15" break="no"/>riyattukku kaṟtaṟ
-                    <lb n="16"/>paratēci muttirai
-                    <lb n="17"/>āraiyaika paṇṭāra <gap reason="lost" quantity="2" unit="character" precision="low"/>
-                    <lb n="18" break="no"/>varkaḷum tāṉattā <gap reason="lost" quantity="2" unit="character" precision="low"/>
-                    <lb n="19"/>mū-varāvayār vayyāci <gap reason="lost" quantity="3" unit="character" precision="low"/>
-                    <lb n="20" break="no"/>ṉakaṇa kuḷam canti <gap reason="lost" quantity="2" unit="character" precision="low"/>
-                    <lb n="21" break="no"/>ṉācaṉam tiru-v-ampala
+                    <lb n="12" break="no"/><unclear>ru</unclear>-malai-nāṭṭu ti
+                    <lb n="13" break="no"/><unclear>ru</unclear>-koṭuṅ-kuṉṟa
+                    <lb n="14" break="no"/><unclear>m</unclear> <hi rend="grantha">śrī</hi>-paṇṭā=ra
+                    <lb n="15" break="no"/><unclear>kā</unclear>riyattukku kaṟtar=ā
+                    <lb n="16"/><unclear>ṉa</unclear> paratēci-muttirai
+                    <lb n="17"/><unclear>matu</unclear>raiyaika paṇṭāra <gap reason="lost" quantity="2" unit="character" precision="low"/>
+                    <lb n="18" break="no"/><gap reason="lost" quantity="1" unit="character" precision="low"/> varkaḷum tāṉat=tā <gap reason="lost" quantity="2" unit="character" precision="low"/>
+                    <lb n="19"/>mū-varā vayiravapaṭ=ṭar ci <gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <lb n="20" break="no"/>ṉakaṇa kuḷam can=ti <gap reason="lost" quantity="2" unit="character" precision="low"/>
+                    <lb n="21" break="no"/><unclear>tiru</unclear>-mañcaṉam tiru-v-ampala
                     <lb n="22" break="no"/>m uṇṭākiya paricē <gap reason="lost" quantity="2" unit="character" precision="low"/>
-                    <lb n="23" break="no"/>ḷum toṇṭai-maṇṭalat <gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <lb n="23" break="no"/><unclear>ṅka</unclear>ḷum toṇṭai-maṇṭalat <gap reason="lost" quantity="3" unit="character" precision="low"/>
                     <lb n="24" break="no"/>ṉūr mūkkappa-mutaliya
                     <lb n="25"/>āṉa paḻaṉi-y-appa-mutaliyār
                     <lb n="26" break="no"/>kaḷ Appayiṉā mutaliyār cuppiṟama
                     <lb n="27" break="no"/>ṇi mutaliyār Uḷ-paṭṭār tanmam
-                    <lb n="28"/>(ma)ṅkai-ṉāyaka-cuvāmi ku
-                    <lb n="29"/>kku pūcai-k kaṭṭaḷaikku
+                    <lb n="28"/><unclear>āka ma</unclear>ṅkai-ṉāyaka-cuvāmik=ku
+                    <lb n="29"/><hi rend="grantha">kku pūcai</hi>-k kaṭ=ṭaḷaik=ku <gap reason="lost" quantity="3" unit="character" precision="low"/>
                     <lb n="30" break="no"/>rātiṉā <gap reason="lost" quantity="4" unit="character" precision="low"/> mēl maṇṭa <gap reason="lost" quantity="3" unit="character" precision="low"/>
                     <lb n="31"/><gap reason="lost" quantity="13" unit="character" precision="low"/> yil putu
                     <lb n="32" break="no"/>yāl <gap reason="lost" quantity="7" unit="character" precision="low"/> la māta
@@ -131,27 +133,30 @@
                     <lb n="47"/>ḷ-p-paṭṭa nañcai kuḷamum ku <gap reason="lost" quantity="3" unit="character" precision="low"/>
                     <lb n="48"/>puravum vayalum vayal <gap reason="lost" quantity="4" unit="character" precision="low"/>
                     <lb n="49"/><gap reason="lost" quantity="2" unit="character" precision="low"/> vum mēl nōkkiya maramum
-                    <lb n="50"/>kīḻ nōkkiya kiṇaṟum kuṭ <gap reason="lost" quantity="3" unit="character" precision="low"/>
-                    <lb n="51"/><gap reason="lost" quantity="5" unit="character" precision="low"/> ṭalum niti-niṭcēpaṅkaḷu <gap reason="lost" quantity="3" unit="character" precision="low"/>
-                    <lb n="52"/>cakala-camutāya-prāptiyum
-                    <lb n="53" break="no"/>rā pūcai-k kaṭṭaḷaikku ta <gap reason="lost" quantity="3" unit="character" precision="low"/>
-                    <lb n="54"/>āka kōvil paṇṭāra <gap reason="lost" quantity="3" unit="character" precision="low"/>
-                    <lb n="55" break="no"/>li putu
-                    <lb n="56" break="no"/>m kōvil paṇam
-                    <lb n="57" break="no"/>ru muṭippāka muta
-                    <lb n="58"/>(l iṭṭa) paṭiyiṉālē Ūr-k
-                    <lb n="59"/><gap reason="lost" quantity="2" unit="character" precision="low"/> kaṭṭaḷaikku cantirātit <gap reason="lost" quantity="4" unit="character" precision="low"/>
-                    <lb n="60"/>varaikkum maṅkai
+                    
+                    <lb n="50"/>kīḻ nōk=kiya kiṇaṟum tiṭ
+                    <lb n="51"/>ṭu tiṭalum niti-niṭcēpaṅkaḷu
+                    <lb n="52"/><unclear>m</unclear> cakala-camutāya-<hi rend="grantha">grā</hi>ṟtiyum<!--ASI: piṟā[t*]tiyum; corr to prāptiyum-->
+                    <lb n="53" break="no"/><unclear>viḷā</unclear>-pūcai-k kaṭ=ṭaḷaikku t
+                    <lb n="54"/><gap reason="lost" quantity="2" unit="character" precision="low"/> kōvil paṇṭāra
+                    <lb n="55" break="no"/><unclear>ttil</unclear> <hi rend="check">putu</hi> <gap reason="lost" quantity="2" unit="character" precision="low"/>
+                    <lb n="56" break="no"/><gap reason="lost" quantity="2" unit="character" precision="low"/> m kōvil paṇṭ
+                    <lb n="57" break="no"/><gap reason="lost" quantity="2" unit="character" precision="low"/>ru muṭippāka muta
+                    <lb n="58"/><unclear>l iṭṭa</unclear> paṭiyiṉālē viḷā pū
+                    <lb n="59"/><unclear>cai</unclear> kaṭ=ṭaḷaik=ku can=tir=ātit 
+                    <lb n="60"/>ta <gap reason="lost" quantity="1" unit="character" precision="low"/> varaik=kum maṅkai
                     <lb n="61" break="no"/>-ṉāyaka-cuvāmiyārukku
-                    <lb n="62"/>(ta)ṉmam-āka Āṇṭu Anu
+                    <lb n="62"/><unclear>ta</unclear>ṉmam-āka Āṇṭu Anu
                     <lb n="63" break="no"/>pavittu-k koḷḷa kaṭava
                     <lb n="64" break="no"/>t’  ākavum
                 </p>
                 <p>
-                    In taṟmatu y-⌈
-                    <lb n="65" break="no"/>orutaṉ Atil <gap reason="lost" quantity="5" unit="character" precision="low"/>
-                    <lb n="66"/>ṉam paṇṇiṉa <gap reason="lost" quantity="7" unit="character" precision="low"/>
-                    <lb n="67"/><gap reason="lost" quantity="8" unit="character" precision="low"/> kaṅ <gap reason="lost" quantity="16" unit="character" precision="low"/> 		
+                    In<supplied reason="omitted">ta</supplied> taṟmatu y-⌈
+                    <lb n="65" break="no"/>orutaṉ Atil <gap reason="lost" quantity="1" unit="character" precision="low"/>
+                    <lb n="66"/><gap reason="lost" quantity="3" unit="character" precision="low"/>ṉam paṇṇiṉa <gap reason="lost" quantity="7" unit="character" precision="low"/>
+                    <lb n="67"/><gap reason="lost" quantity="8" unit="character" precision="low"/> kaṅ <gap reason="lost" quantity="16" unit="character" precision="low"/> 	
+                    
+                    <!--12 more lines in ASI transcript-->
                 </p>
             </div>
             
@@ -181,7 +186,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/227).</p>
-                <p>Edited (lines 1-6 missing) in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 68), with photos.</p>                
+                <p>Edited (first 6 lines and last 12 lines missing) in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 68), with photos.</p>                
                 <p>This edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photos (N. Ramaswamy, 2012) and ASI transcript available on BharatSHRI.</p>
                 
                 <listBibl type="primary">
