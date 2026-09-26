@@ -67,58 +67,82 @@
                 </ab>
                 
                 <ab>
-                    <lb n="B01"/><hi rend="grantha">svasti śrī</hi>
+                    <lb n="B01"/><g ref="sym:tam-pillaiyarCuli"/> <hi rend="grantha">svasti śrī</hi>
                 </ab>		
                 
                 <p>
                     <lb n="1"/><hi rend="grantha">śakā</hi>t=ta<hi rend="grantha">m<supplied reason="omitted">·</supplied></hi> <num value="1663"><g type="numeral">100</g> 6 <g type="numeral">100</g> 3 <g type="numeral">10</g> 3</num>-ṉ
-                    <lb n="2"/>mēl cellā niṉṟa nanta
-                    <lb n="3" break="no"/>ṉa <g ref="sym:tam-varusam"/> Aṟpaci <g ref="sym:tam-matam"/> <num value="15"><g type="numeral">10</g> 5</num><g ref="sym:tam-teti"/>
+                    <lb n="2"/>mēl cellā niṉṟa nan=ta
+                    <lb n="3" break="no"/>ṉa <g ref="sym:tam-varusam"/> Aṟpaci <g ref="sym:tam-matam"/> <num value="15"><g type="numeral">10</g> 5</num> <g ref="sym:tam-teti"/>
                 </p>
                 <p>
                     <lb n="4"/><hi rend="grantha">rāja-śrī</hi>-vi<hi rend="grantha">ja</hi>yaraṅka-mut
                     <lb n="5" break="no"/>tu-cokka-ṉāta-ṉāyakkar
                     <lb n="6"/>Ayyaṉ Avarkaḷ kāriyat
-                    <lb n="7" break="no"/>tuk=ku kaṟtar-āṉa <hi rend="check"><unclear reason="eccentric_ductus">A</unclear>tipan<!--ASI: bacivin--></hi>-āyi
-                    <lb n="8" break="no"/>ṉa nāṟaṇappa-ṉāyakkar ka <gap reason="lost" quantity="1" unit="character" precision="low"/>
+                    <lb n="7" break="no"/>tuk=ku kaṟtar-āṉa <hi rend="check"><unclear reason="eccentric_ductus">A</unclear>tipan-āyi
+                    <lb n="8" break="no"/>ṉa</hi> nāṟaṇappa-ṉāyakkar ka<unclear cert="low">cu</unclear>
                     <lb n="9" break="no"/>mur raṅkā-ceṭṭiyār rāmaṉā
                     <lb n="10" break="no"/>ta-mutaliyār caṅkarayyaṉ
                     <lb n="11"/>y-ivarkaḷ pirāṉmalai nal
                     <lb n="12" break="no"/>la-maṅkai pāka-cuvāmi
                     <lb n="13"/>kōvil <hi rend="grantha">śrī</hi>-paṇṭāra-kariya
                     <lb n="14" break="no"/>ttukku kaṟtar-āna paratēci mu
-                    <lb n="15" break="no"/>ttirai maturai ṉāyaṉa paṇ <gap reason="lost" quantity="3" unit="character" precision="low"/>
-                    <lb n="16" break="no"/>tāmum tāṉat=tār talat=tārukku
+                    <lb n="15" break="no"/>ttirai ma<unclear>tu</unclear>rai ṉāyaṉa paṇṭ
+                    <lb n="16" break="no"/>ā=ramum tāṉat=tār talat=tārukku
                     <lb n="17"/>kōvil kiṟāmat=tukku A
-                    <lb n="18" break="no"/>ra-maṉai pōṟum cilla
+                    <lb n="18" break="no"/>ra-maṉai poṟu<unclear>ppu</unclear> cilla
                     <lb n="19" break="no"/>ṟai tēva y-illai Eṉṟu caṟu
                     <lb n="20" break="no"/>va-māṉiyam-āka kaṭṭaḷai y-iṭ
                     <lb n="21" break="no"/>ṭōm
                 </p>
                 <p>
-                    Anta paṭikku cuvāmi k
-                    <lb n="22" break="no"/>āriyam tāmatiyāmal Anupa
+                    An=ta paṭikku cuvāmi k
+                    <lb n="22" break="no"/>āriyam tāṭcivarāmal Anupa
                     <lb n="23" break="no"/>vit=tu koḷḷavum
                 </p>
                 <p>
                     Inta taṟmat
-                    <lb n="24" break="no"/>tuk=ku Akitam niṉaittavaṉ ke
-                    <lb n="25" break="no"/>ṅkai-karaiyilē kār-ām-pacu
-                    <lb n="26" break="no"/>vai <gap reason="lost" quantity="10" unit="character" precision="low"/>
-                    <lb n="27"/><gap reason="lost" quantity="12" unit="character" precision="low"/> 		
+                    <lb n="24" break="no"/>tuk=ku Akitam niṉaiccavaṉ ke
+                    <lb n="25" break="no"/>ṅkai-karaiyilē kār=ām-pacu
+                    <lb n="26" break="no"/>vai<supplied reason="lost">yu</supplied><unclear>m</unclear> <gap reason="lost" quantity="12" unit="character" precision="low"/>
+                    <lb n="27"/>m vatai cey <gap reason="lost" quantity="10" unit="character" precision="low"/>
+                    <lb n="28"/><hi rend="grantha"><unclear>ṣa</unclear></hi><unclear>t=t</unclear>ilē <gap reason="lost" quantity="8" unit="character" precision="low"/> vum	
                 </p>
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-                </app> 
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                    </app> 
+                    
+                    <app loc="7">
+                        <lem><unclear reason="eccentric_ductus">A</unclear>tipanāyi
+                            <lb n="8" break="no"/>ṉa</lem>
+                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                        <note>ASI transcript reads <foreign><hi rend="grantha">ba</hi>civināya<lb n="8" break="no"/>ṉi</foreign>.</note>
+                    </app>                    
+                    <app loc="18">
+                        <lem>poṟu<unclear>ppu</unclear></lem>
+                        <rdg source="bib:Vijayavenugopal2022_01">pōṟum</rdg>
+                        <note>ASI transcript reads <foreign>poṟuppu</foreign>.</note>
+                    </app> 
+                    <app loc="22">
+                        <lem>tāṭcivarāmal</lem>
+                        <rdg source="bib:Vijayavenugopal2022_01">tāmatiyāmal</rdg>
+                        <note>ASI transcript reads <foreign>tāṭcivarāmal</foreign>.</note>
+                    </app> 
+                    <app loc="24">
+                        <lem>niṉaiccavaṉ</lem>
+                        <rdg source="bib:Vijayavenugopal2022_01">niṉaittavaṉ</rdg>
+                        <note>ASI transcript reads <foreign>niṉaiccavaṉ</foreign>.</note>
+                    </app> 
                 </listApp>
                 
-                </div>-->
+            </div>
             
             <!--<div type="translation" resp="part:emfr">
                 
@@ -138,10 +162,13 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 100), with photos.</p>
                 
-                <p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
+                <p>This edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photo (N. Ramaswamy, 2012) and ASI transcript available on BharatSHRI.</p>
                 
                 <listBibl type="primary">
                     
+                    <bibl n="ASI">
+                        <ptr target="bib:ASI"/>
+                    </bibl>
                     <bibl n="V">
                         <ptr target="bib:Vijayavenugopal2022_01"/>
                         <citedRange unit="item">100</citedRange>
