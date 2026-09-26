@@ -9,7 +9,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title>Pirāṉmalai, Maṅkai Pākar temple, Ukkirakirīcuvarar temple, time of Kōṉēriṉmaikoṇṭāṉ, year <supplied reason="lost">32</supplied></title>
+            <title>Pirāṉmalai, Maṅkai Pākar temple, time of Kōṉēriṉmaikoṇṭāṉ, year <supplied reason="lost">32</supplied></title>
             <respStmt>
                 <resp key="creator">author of digital edition</resp>
                 <persName ref="part:vija">
@@ -36,7 +36,7 @@
                     <idno/>
                 </msIdentifier>
                 <msContents>
-                    <summary/>
+                    <summary>Ukkirakirīcuvarar temple, Murukaṉ shrine, Ardhamaṇḍapa, south wall.</summary>
                 </msContents>
                 <physDesc>
                     <handDesc>
@@ -132,7 +132,7 @@
         
         <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 1), with photos.</p>
         
-        <p>This digital edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photos (N. Ramaswamy).</p>
+        <p>This digital edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photos (EFEO, 2012).</p>
         
         <listBibl type="secondary">
             

@@ -9,7 +9,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pirāṉmalai, Maṅkai Pākar temple, Ukkirakirīcuvarar, time of Kulaśekhara Pāṇḍya, year <supplied reason="lost">3</supplied>6</title>
+                <title>Pirāṉmalai, Maṅkai Pākar temple, time of Kulaśekhara Pāṇḍya, year <supplied reason="lost">3</supplied>6</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vija">
@@ -36,7 +36,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary>Ukkirakirīcuvarar temple.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -128,7 +128,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 2), with photos.</p>
                 
-                <p>This digital edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photos (N. Ramaswamy).</p>
+                <p>This digital edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photos (EFEO, 2012).</p>
                 
                 <listBibl type="primary">
                     

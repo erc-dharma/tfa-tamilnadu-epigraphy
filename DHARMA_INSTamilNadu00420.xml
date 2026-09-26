@@ -5,126 +5,131 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Pirāṉmalai, X temple, time of X, year X</title>
-			    <respStmt>
-			        <resp key="creator">author of digital edition</resp>
-			        <persName ref="part:vija">
-			            <forename>G.</forename>
-			            <surname>Vijayavenugopal</surname>
-			        </persName>
-			        <persName ref="part:emfr">
-			            <forename>Emmanuel</forename>
-			            <surname>Francis</surname>
-			        </persName>
-			    </respStmt>
-			<funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
-			<publicationStmt>
-				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00420.xml</idno>
-				<availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-				<date from="2019" to="2026">2019-2026</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
-				repository</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-
-<body>
-         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
-	<p>
-		
-		<lb n="1"/><hi rend="grantha">śrīmān·</hi> vi<hi rend="grantha">prakṣi</hi>ta <hi rend="grantha">pra</hi>ti<hi rend="grantha">kṣi</hi>ti <hi rend="grantha">pa</hi>ti<hi rend="grantha">pra</hi>ta<hi rend="grantha">s samāpta pra</hi>to<hi rend="grantha">bhuloke bhu</hi>vanaika vī<hi rend="grantha">ra</hi>
-		<lb n="2" break="no"/><gap reason="lost" quantity="1" unit="character" precision="low"/> vpurika<!--check--> <gap reason="lost" quantity="5" unit="character" precision="low"/> <hi rend="grantha">śrī-pāṇḍyā</hi>dhipa<!--check-->tau pra<hi rend="grantha">traya ri</hi>vō<hi rend="grantha">sso</hi>ya<hi rend="grantha">ṁ spa</hi>nādir ākarōt·
-		<lb n="3"/><hi rend="grantha">gopuram</hi> ḷu<!--check--> tan=tu vi<hi rend="grantha">brula śrī-rāja</hi>nā<hi rend="grantha">rā</hi>yaṇa <gap reason="lost" quantity="6" unit="character" precision="low"/>
-		<lb n="4" break="no"/>ṉṉi cel <gap reason="lost" quantity="5" unit="character" precision="low"/> tiru-k-koṭuṅ-kuṉṟa tikaḻvarai cūḻ-k kāmaṉṉu Ūril <gap reason="lost" quantity="1" unit="character" precision="low"/> ruvakai kaṭṭi A <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="5"/>āṉaṭā <gap reason="lost" quantity="5" unit="character" precision="low"/> ṉṉā maṇṇa <gap reason="lost" quantity="5" unit="character" precision="low"/> ttava <gap reason="lost" quantity="9" unit="character" precision="low"/> kōṉ
-		<lb n="6"/>āṉa<gap reason="lost" quantity="6" unit="character" precision="low"/> vvaṇṇa<gap reason="lost" quantity="10" unit="character" precision="low"/>
-		
- 	</p>
-</div>
-	
-<!--<div type="apparatus">
-           
-	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-		</app> 
-	</listApp>
-	
-</div>-->
-      	
-<!--<div type="translation" resp="part:emfr">
-      		
-      		<p n="1">
-      			...
-      		</p>
-      		
-</div>-->
-	
-<!--<div type="commentary">
-      		
-</div>-->
-      	
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/218).</p>
-	
-	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 20), with photos.</p>
-		
-	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="V">
-			<ptr target="bib:Vijayavenugopal2022_01"/>
-			<citedRange unit="item">20</citedRange>
-			<citedRange unit="page">57-58</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1923-1924"/>
-			<citedRange unit="page">61</citedRange>
-			<citedRange unit="appendix">C/1924</citedRange>
-			<citedRange unit="item">218</citedRange>
-		</bibl>
-		
-	</listBibl>
-      		
-        </div>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pirāṉmalai, Maṅkai Pākar temple, no king, no year</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:vija">
+                        <forename>G.</forename>
+                        <surname>Vijayavenugopal</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00420.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
+                repository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">                    
+                    <lb n="1"/>śrīmān<supplied reason="omitted">·</supplied><!--ASI mānya--> viprakṛita pratikṣiti patiprātas samāpta prato bhuloke bhuvanaika v<choice><sic>i</sic><corr>ī</corr></choice>ra
+                    <lb n="2" break="no"/>Iti yaḥ prakhyāta-k<choice><sic>i</sic><corr>ī</corr></choice>rtti<hi rend="check">M</hi> yyau śrī-cāṇḍyādripatau pura-traya-ripos so yaṁ sva-nāmnākarōT
+                    <lb n="3"/>sālaṃ gopuramunta tantu vipula śrī-rājanārāyaṇaḥ <g ref="sym:tam-pillaiyarCuli"/>
+                </p>
+                <p>
+                    <lb n="4"/>cīrmaṉṉu cel<unclear>vi</unclear>ttiru-k-koṭuṅ-kuṉṟar tikaḻ varai cūḻ-k kāmaṉṉu cāralaruvarai kaṭṭi Aḻa
+                    <lb n="5" break="no"/>ku kaṇṭāṉ pār<supplied reason="lost">ma</supplied>ṉṉar maṉṉaṉ viratamuṭittavaṉ pañcavar kōṉ pormaṉṉiya veṟpuva
+                    <lb n="6" break="no"/>ṉ ēkav<choice><sic>i</sic><corr>ī</corr></choice>raṉ puyalvaṇṇaṉ-ēṉ <g ref="sym:tam-pillaiyarCuli"/>
+                    
+                </p>
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+                </app> 
+                </listApp>
+                
+                </div>-->
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                ...
+                </p>
+                
+                </div>-->
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/218).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 20), with photos.</p>
+                
+                <p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="V">
+                        <ptr target="bib:Vijayavenugopal2022_01"/>
+                        <citedRange unit="item">20</citedRange>
+                        <citedRange unit="page">57-58</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1923-1924"/>
+                        <citedRange unit="page">61</citedRange>
+                        <citedRange unit="appendix">C/1924</citedRange>
+                        <citedRange unit="item">218</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>
