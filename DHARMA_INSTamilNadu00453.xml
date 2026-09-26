@@ -5,136 +5,145 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Pirāṉmalai, X temple, time of X, year X</title>
-			    <respStmt>
-			        <resp key="creator">author of digital edition</resp>
-			        <persName ref="part:vija">
-			            <forename>G.</forename>
-			            <surname>Vijayavenugopal</surname>
-			        </persName>
-			        <persName ref="part:emfr">
-			            <forename>Emmanuel</forename>
-			            <surname>Francis</surname>
-			        </persName>
-			    </respStmt>
-			<funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
-			<publicationStmt>
-				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00453.xml</idno>
-				<availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-				<date from="2019" to="2026">2019-2026</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
-				repository</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-
-<body>
-         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
-	<p>
-		<lb n="1"/>kakaṉa-<hi rend="grantha">saṁhāra-kāra</hi>ṇa<hi rend="grantha">m</hi> <gap reason="lost" quantity="14" unit="character" precision="low"/>
-		<lb n="2"/>ca<supplied reason="omitted">kā</supplied>ttam <num value="1424"><g type="numeral">1000</g> 4 <g type="numeral">1000</g> 2 <g type="numeral">10</g> 4</num>-l cellā niṉṟa tuntupi-saṁvat
-		<lb n="3"/><gap reason="lost" quantity="1" unit="character" precision="low"/> kṣattu citra<!--looks like vatu-->-<hi rend="grantha">bhodaśi</hi>yum <hi rend="grantha">śuk<supplied reason="omitted">r</supplied>a</hi>-vā<hi rend="grantha">ra</hi>mum peṟṟa nāḷil
-	</p>
-	<p>
-		<hi rend="grantha">śrī</hi>
-		<lb n="4" break="no"/>-nalla-maṅkai-pākar Ālaiyattu tiru-v-ampalam-uṭaiya <!--HERE!!--> nayiṉār <gap reason="lost" quantity="3" unit="character" precision="low"/>
-		<lb n="5"/>ṉaṉum caṇṭēśvaraṉum aṭṭa bhaliyum tiru-k-koṭuṅ <gap reason="lost" quantity="5" unit="character" precision="low"/>
-		<lb n="6"/>tiyil iṣabha devaraiyum ivar dhamma māka ēṟi aruḷa <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="7"/>vaṉṉi kiri nāyakkar puttiraṉ narasayyaṉ inta tiru <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="8"/>ṣabha devaraiyum ivaru dhammam <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="9"/>sadā ceyvitta yi dhammattukku <gap reason="lost" quantity="7" unit="character" precision="low"/> je <gap reason="lost" quantity="10" unit="character" precision="low"/> yukkum naṭuvil
-		<lb n="10"/>kat taṉattil tuvarāpati nāṭṭu mēl malaip paṟṟil kūkaraṉ vayalil <gap reason="lost" quantity="3" unit="character" precision="low"/>
-		<lb n="11"/>ātalippaṭi tiruc cūlattāpaṉam paṇṇik kuṭutta ru pa itu tē
-		<lb n="12"/>vaṉṉikiri nāyakkar putraṉ narasayyaṉ pali <gap reason="lost" quantity="3" unit="character" precision="low"/> p piratiṭ <gap reason="lost" quantity="5" unit="character" precision="low"/>
-		<lb n="13"/>ta dhammattukku iṉṉila(m) oru māvum ā
-		<lb n="14"/><gap reason="lost" quantity="3" unit="character" precision="low"/> na <gap reason="lost" quantity="1" unit="character" precision="low"/> ālanayōmma –e <gap reason="lost" quantity="1" unit="character" precision="low"/> yoru vira ṟā naṭu <gap reason="lost" quantity="4" unit="character" precision="low"/>
-	</p>
-</div>
-	
-<!--<div type="apparatus">
-           
-	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-		</app> 
-	</listApp>
-	
-</div>-->
-      	
-<!--<div type="translation" resp="part:emfr">
-      		
-      		<p n="1">
-      			...
-      		</p>
-      		
-</div>-->
-	
-<!--<div type="commentary">
-      		
-</div>-->
-      	
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/215).</p>
-	
-	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 53), with photos.</p>
-		
-	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="V">
-			<ptr target="bib:Vijayavenugopal2022_01"/>
-			<citedRange unit="item">53</citedRange>
-			<citedRange unit="page">129</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		
-		<bibl>
-			<ptr target="bib:ARIE1923-1924"/>
-			<citedRange unit="page">61</citedRange>
-			<citedRange unit="appendix">C/1924</citedRange>
-			<citedRange unit="item">215</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-        </div>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pirāṉmalai, Maṅkai Pākar temple, Śaka year 1424</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:vija">
+                        <forename>G.</forename>
+                        <surname>Vijayavenugopal</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00453.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
+                repository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
+		<l n="a" enjamb="yes"><lb n="1"/>EtaT trailokya-nirmmāṇa</l>
+		<l n="b">-trāṇa-saṁhāra-kāraṇaM</l>
+		<l n="c">śāsanaM cāśvataM śa<unclear>M</unclear>bho<unclear>ḥ</unclear></l>
+		<l n="d"><lb n="2"/>kaṭhora-giri-vāsin<choice><sic>ā</sic><corr>a</corr></choice><unclear>ḥ</unclear></l>
+	</lg>
+                <p>
+                   ... ca<supplied reason="omitted">kā</supplied>ttam <num value="1424"><g type="numeral">1000</g> 4 <g type="numeral">1000</g> 2 <g type="numeral">10</g> 4</num>-l cellā niṉṟa tuntupi-saṁvat
+                    <lb n="3"/>... <gap reason="lost" quantity="1" unit="character" precision="low"/> kṣattu citra<!--looks like vatu-->-<hi rend="grantha">bhodaśi</hi>yum <hi rend="grantha">śuk<supplied reason="omitted">r</supplied>a</hi>-vā<hi rend="grantha">ra</hi>mum peṟṟa nāḷil
+                </p>
+                <p>
+                    <hi rend="grantha">śrī</hi>
+                    <lb n="4" break="no"/>... -nalla-maṅkai-pākar Ālaiyattu tiru-v-ampalam-uṭaiya <!--HERE!!--> nayiṉār <gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <lb n="5"/>... ṉaṉum caṇṭēśvaraṉum aṭṭa bhaliyum tiru-k-koṭuṅ <gap reason="lost" quantity="5" unit="character" precision="low"/>
+                    <lb n="6"/>... tiyil iṣabha devaraiyum ivar dhamma māka ēṟi aruḷa <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="7"/>... vaṉṉi kiri nāyakkar puttiraṉ narasayyaṉ inta tiru <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="8"/>... <hi rend="grantha">ṣa</hi>bha devaraiyum ivaru dhammam <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="9"/>... sadā ceyvitta yi dhammattukku <gap reason="lost" quantity="7" unit="character" precision="low"/> je <gap reason="lost" quantity="10" unit="character" precision="low"/> yukkum naṭuvil
+                    <lb n="10"/>... kat taṉattil tuvarāpati nāṭṭu mēl malaip paṟṟil kūkaraṉ vayalil <gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <lb n="11"/>... ātalippaṭi tiruc cūlattāpaṉam paṇṇik kuṭutta ru pa itu tē
+                    <lb n="12"/>... vaṉṉikiri nāyakkar putraṉ narasayyaṉ pali <gap reason="lost" quantity="3" unit="character" precision="low"/> p piratiṭ <gap reason="lost" quantity="5" unit="character" precision="low"/>
+                    <lb n="13"/>ta dhammattukku iṉṉila(m) oru māvum ā
+                    <lb n="14"/>... <gap reason="lost" quantity="3" unit="character" precision="low"/> na <gap reason="lost" quantity="1" unit="character" precision="low"/> ālanayōmma –e <gap reason="lost" quantity="1" unit="character" precision="low"/> yoru vira ṟā naṭu <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                </p>
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+                </app> 
+                </listApp>
+                
+                </div>-->
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                ...
+                </p>
+                
+                </div>-->
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/215).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 53), with photos, first half of each line missing.</p>
+                
+                <p>This edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photos (EFEO, 2012) and ASI estampage and transcript available on BharatSHRI.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="V">
+                        <ptr target="bib:Vijayavenugopal2022_01"/>
+                        <citedRange unit="item">53</citedRange>
+                        <citedRange unit="page">129</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1923-1924"/>
+                        <citedRange unit="page">61</citedRange>
+                        <citedRange unit="appendix">C/1924</citedRange>
+                        <citedRange unit="item">215</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>
