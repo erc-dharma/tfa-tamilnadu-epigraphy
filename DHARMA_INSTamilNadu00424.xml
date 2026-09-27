@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pirāṉmalai, X temple, time of X, year X</title>
+			    <title>Pirāṉmalai, Maṅkai Pākar temple, time of Kōṉēriṉmaikoṇṭāṉ, year X</title>
 			    <respStmt>
 			        <resp key="creator">author of digital edition</resp>
 			        <persName ref="part:vija">
@@ -64,7 +64,7 @@
 		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
 	</ab>
 	<p>
-		tri-bhuvaṉa <gap reason="lost" quantity="9" unit="character" precision="low"/> va<reg>r</reg>tti kōṉ-ēriṉmai-koṇṭāṉ
+		tri-bhuvaṉa <gap reason="lost" quantity="9" unit="character" precision="low"/> va<reg>r</reg>tti kōṉēriṉmai-koṇṭāṉ
 		<lb n="2"/>Uṭaiyār nal <gap reason="lost" quantity="15" unit="character" precision="low"/> kku
 		<lb n="3"/>vaṉa koṇṭu <gap reason="lost" quantity="15" unit="character" precision="low"/> āṉa
 		<lb n="4"/>nāṭṭil talā <gap reason="lost" quantity="15" unit="character" precision="low"/>

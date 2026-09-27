@@ -5,166 +5,166 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-			    <title>Pirāṉmalai, Maṅkai Pākar temple, time of X, year X</title>
-			    <respStmt>
-			        <resp key="creator">author of digital edition</resp>
-			        <persName ref="part:vija">
-			            <forename>G.</forename>
-			            <surname>Vijayavenugopal</surname>
-			        </persName>
-			        <persName ref="part:emfr">
-			            <forename>Emmanuel</forename>
-			            <surname>Francis</surname>
-			        </persName>
-			    </respStmt>
-			<funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
-			<publicationStmt>
-				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00426.xml</idno>
-				<availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-				<date from="2019" to="2026">2019-2026</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
-				repository</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-
-<body>
-         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
-	<ab>		
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-	</ab>
-	<p>
-		kō-māṟapaṉmar-āṉa tri-bhuvaṉacakra-va<reg>r</reg>ttikaḷ Emmaṇṭalamuṅ koṇṭ-aruḷiya śrī-kulacēkara
-		<lb n="2" break="no"/>-tēvaṟku yāṇṭu <num value="16"><g type="numeral">10</g> 6</num>-vatu taim mātam <num value="14"><g type="numeral">10</g> 4</num> ti
-	</p>
-	<p>
-		tiru-malai-nāṭṭu-t tiru-k-koṭuṅ-kuṉṟatt' uṭaiyār tiru-k
-		<lb n="3" break="no"/>-koṭuṅ-kuṉṟam-uṭaiya nāyaṉār-kōyil tēvarkaṉmi śrī-maheśvara-k-kaṇkāṇi cevvār ci-kāriyañ cevvār
-		<lb n="4"/>kōyiṟ-kaṇakkarōm kēraḷa-ciṅka-vaḷanāṭṭ' aruviyūr-āṉa kula-cēkara-paṭṭiṉattu-k kōva
-		<lb n="5" break="no"/>lūr-uṭaiyāṉ uyya-niṉṟāṭuvāṉ mayil ēṟum perumāḷ-āṉa nayapālaṟku-p piṭipāṭu paṇṇi-k ku
-		<lb n="6" break="no"/>ṭutta paric' āvatu
-	</p>
-	<p>
-		Ik-kōyilukku ti(ru)-vītiyil eḻunt-aruḷa Iḷaiya-piḷḷaiyār i
-		<lb n="7" break="no"/>llāmaiyāl piḷḷaiyāraiyum nāccimāraiyum Eḻunt-aruḷuvittu-t tārum Amutu
-		<lb n="8"/>paṭi cāttu-p-paṭi tiru-nāḷ tēvai y-uḷḷiṭṭaṉavum ciri-paṇṭārattilē ce
-		<lb n="9" break="no"/>luttukiṟōm eṉṟu Ivaṟku piṭipāṭu muṉpē kuṭuttu Ivarum Iḷaiya-piḷḷai
-		<lb n="10" break="no"/>yār Aḻakiya perumāḷaiyum nāccimārai Eḻunt-aruḷuvittu-k koṇṭu
-		<lb n="11"/><gap reason="lost" quantity="5" unit="character" precision="low"/> ṭayum paṇṇuvikkaiyil Amutu-paṭiyum muṉpu <gap reason="lost" quantity="2" unit="character" precision="low"/> taḷa
-		<lb n="12"/><gap reason="lost" quantity="5" unit="character" precision="low"/> tum paṭi cī-paṇṭārattukku tiru <gap reason="lost" quantity="6" unit="character" precision="low"/> taravēṇumeṉṟu co<gap reason="lost" quantity="3" unit="character" precision="low"/>
-		<lb n="13"/><gap reason="lost" quantity="3" unit="character" precision="low"/> pakkalil cī-paṇṭārattukku Iru-nūṟu paṇam Oṭukkuvittu-k <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="14"/><gap reason="lost" quantity="5" unit="character" precision="low"/> ṭu In-nāḷ mutal tiru-nāvukk-aracu nāḻiyāl nāḷ Oṉṟukku nā <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="15"/><gap reason="lost" quantity="5" unit="character" precision="low"/> ciyuṅ kaṟi-y-amutu viñcaṉamum tiru-viḷakkum cāttu-p-paṭiyum ta <gap reason="lost" quantity="3" unit="character" precision="low"/>
-		<lb n="16"/><gap reason="lost" quantity="5" unit="character" precision="low"/> tāmamum tiru-vītiyil Eḻunt-aruḷumm iṭattu Āṟān tiru-nāḷu <gap reason="lost" quantity="3" unit="character" precision="low"/>
-		<lb n="17"/><gap reason="lost" quantity="5" unit="character" precision="low"/> ḻicciyum Eḻunt-aruḷuvikkavum Ip-paṭi In-nāḷ mutal can <gap reason="lost" quantity="4" unit="character" precision="low"/>
-		<lb n="18"/><gap reason="lost" quantity="4" unit="character" precision="low"/> tavaṟ celuttuvōm āka Ip-paṭikku Iḷaiya-piḷḷaiyār kō
-		<lb n="19" break="no"/>(yili)lē kalveṭṭi-k koḷvār āka Ip-paṭi cammatittu-p piṭipāṭu
-		<lb n="20"/>(paṇ)ṇi-k kuṭuttōm		
-		kōvalūr-uṭaiyāṉ uyya-niṉṟāṭuvāṉ mayi
-		<lb n="21" break="no"/>l ēṟum perumāḷ-āṉa nayapālaṟku Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-u
-		<lb n="22" break="no"/>ṭaiya nāyaṉār-kōyil tēva-kaṉmi cī-mākēcura-k-kaṇkāṇi cī-kāriyañ
-		<lb n="23"/>ceyvār kōyil-k-kaṇakkarōm
-	</p>
-	<p>		
-		<list>
-			<item>Ip-paṭikku śrī-mākēśvara-k-kaṇ</item>
-			<item><lb n="24" break="no"/>kāṇi kūtta-p-perumāḷ Eḻuttu</item>
-			<item>Ip-paṭikku periya tiru-k-kūṭṭa-piram
-				<lb n="25" break="no"/>ātarāyaṉ Eḻuttu</item>
-			<item>Ip-paṭikku cī-kāriyam tiru-c-ciṟṟ-ampala-p-pallava-tarai
-				<lb n="26" break="no"/>yaṉ Eḻuttu</item>
-			<item>Ip-paṭikku māṭā-pattiyam tiru-malaiy-uṭaiyāṉ Eḻuttu</item>
-			<item><lb n="27"/>Ip-paṇam Iru-nūṟu Oṭukkuvittu koṇṭamaikku kōyiṟ-kaṇakku
-				<lb n="28"/>Āṇṭa piḷḷai Eḻuttu</item>
-		</list> 		
- 	</p>
-</div>
-	
-<!--<div type="apparatus">
-           
-	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-		</app> 
-	</listApp>
-	
-</div>-->
-      	
-<!--<div type="translation" resp="part:emfr">
-      		
-      		<p n="1">
-      			...
-      		</p>
-      		
-</div>-->
-	
-<!--<div type="commentary">
-      		
-</div>-->
-      	
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/152).</p>
-	
-	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 26), with photos.</p>
-		
-	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).
- 	</p>
-	
-	<listBibl type="primary">
-		
-		<!--+ SII 8.440-->
-		
-		<bibl n="V">
-			<ptr target="bib:Vijayavenugopal2022_01"/>
-			<citedRange unit="item">26</citedRange>
-			<citedRange unit="page">70-71</citedRange>
-		</bibl>
-		
-	</listBibl>
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1903-1904"/>
-			<citedRange unit="page">19</citedRange>
-			<citedRange unit="appendix">A/1903</citedRange>
-			<citedRange unit="item">152</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-        </div>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pirāṉmalai, Maṅkai Pākar temple, time of Kulaśekhara, year 16</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:vija">
+                        <forename>G.</forename>
+                        <surname>Vijayavenugopal</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00426.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
+                repository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>		
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                <p>
+                    kō-māṟapaṉmar-āṉa tri-bhuvaṉacakra-va<reg>r</reg>ttikaḷ Emmaṇṭalamuṅ koṇṭ-aruḷiya śrī-kulacēkara
+                    <lb n="2" break="no"/>-tēvaṟku yāṇṭu <num value="16"><g type="numeral">10</g> 6</num>-vatu taim mātam <num value="14"><g type="numeral">10</g> 4</num> ti
+                </p>
+                <p>
+                    tiru-malai-nāṭṭu-t tiru-k-koṭuṅ-kuṉṟatt' uṭaiyār tiru-k
+                    <lb n="3" break="no"/>-koṭuṅ-kuṉṟam-uṭaiya nāyaṉār-kōyil tēvarkaṉmi śrī-maheśvara-k-kaṇkāṇi cevvār ci-kāriyañ cevvār
+                    <lb n="4"/>kōyiṟ-kaṇakkarōm kēraḷa-ciṅka-vaḷanāṭṭ' aruviyūr-āṉa kula-cēkara-paṭṭiṉattu-k kōva
+                    <lb n="5" break="no"/>lūr-uṭaiyāṉ uyya-niṉṟāṭuvāṉ mayil ēṟum perumāḷ-āṉa nayapālaṟku-p piṭipāṭu paṇṇi-k ku
+                    <lb n="6" break="no"/>ṭutta paric' āvatu
+                </p>
+                <p>
+                    Ik-kōyilukku ti(ru)-vītiyil eḻunt-aruḷa Iḷaiya-piḷḷaiyār i
+                    <lb n="7" break="no"/>llāmaiyāl piḷḷaiyāraiyum nāccimāraiyum Eḻunt-aruḷuvittu-t tārum Amutu
+                    <lb n="8"/>paṭi cāttu-p-paṭi tiru-nāḷ tēvai y-uḷḷiṭṭaṉavum ciri-paṇṭārattilē ce
+                    <lb n="9" break="no"/>luttukiṟōm eṉṟu Ivaṟku piṭipāṭu muṉpē kuṭuttu Ivarum Iḷaiya-piḷḷai
+                    <lb n="10" break="no"/>yār Aḻakiya perumāḷaiyum nāccimārai Eḻunt-aruḷuvittu-k koṇṭu
+                    <lb n="11"/><gap reason="lost" quantity="5" unit="character" precision="low"/> ṭayum paṇṇuvikkaiyil Amutu-paṭiyum muṉpu <gap reason="lost" quantity="2" unit="character" precision="low"/> taḷa
+                    <lb n="12"/><gap reason="lost" quantity="5" unit="character" precision="low"/> tum paṭi cī-paṇṭārattukku tiru <gap reason="lost" quantity="6" unit="character" precision="low"/> taravēṇumeṉṟu co<gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <lb n="13"/><gap reason="lost" quantity="3" unit="character" precision="low"/> pakkalil cī-paṇṭārattukku Iru-nūṟu paṇam Oṭukkuvittu-k <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="14"/><gap reason="lost" quantity="5" unit="character" precision="low"/> ṭu In-nāḷ mutal tiru-nāvukk-aracu nāḻiyāl nāḷ Oṉṟukku nā <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="15"/><gap reason="lost" quantity="5" unit="character" precision="low"/> ciyuṅ kaṟi-y-amutu viñcaṉamum tiru-viḷakkum cāttu-p-paṭiyum ta <gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <lb n="16"/><gap reason="lost" quantity="5" unit="character" precision="low"/> tāmamum tiru-vītiyil Eḻunt-aruḷumm iṭattu Āṟān tiru-nāḷu <gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <lb n="17"/><gap reason="lost" quantity="5" unit="character" precision="low"/> ḻicciyum Eḻunt-aruḷuvikkavum Ip-paṭi In-nāḷ mutal can <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="18"/><gap reason="lost" quantity="4" unit="character" precision="low"/> tavaṟ celuttuvōm āka Ip-paṭikku Iḷaiya-piḷḷaiyār kō
+                    <lb n="19" break="no"/>(yili)lē kalveṭṭi-k koḷvār āka Ip-paṭi cammatittu-p piṭipāṭu
+                    <lb n="20"/>(paṇ)ṇi-k kuṭuttōm		
+                    kōvalūr-uṭaiyāṉ uyya-niṉṟāṭuvāṉ mayi
+                    <lb n="21" break="no"/>l ēṟum perumāḷ-āṉa nayapālaṟku Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-u
+                    <lb n="22" break="no"/>ṭaiya nāyaṉār-kōyil tēva-kaṉmi cī-mākēcura-k-kaṇkāṇi cī-kāriyañ
+                    <lb n="23"/>ceyvār kōyil-k-kaṇakkarōm
+                </p>
+                <p>		
+                    <list>
+                        <item>Ip-paṭikku śrī-mākēśvara-k-kaṇ</item>
+                        <item><lb n="24" break="no"/>kāṇi kūtta-p-perumāḷ Eḻuttu</item>
+                        <item>Ip-paṭikku periya tiru-k-kūṭṭa-piram
+                            <lb n="25" break="no"/>ātarāyaṉ Eḻuttu</item>
+                        <item>Ip-paṭikku cī-kāriyam tiru-c-ciṟṟ-ampala-p-pallava-tarai
+                            <lb n="26" break="no"/>yaṉ Eḻuttu</item>
+                        <item>Ip-paṭikku māṭā-pattiyam tiru-malaiy-uṭaiyāṉ Eḻuttu</item>
+                        <item><lb n="27"/>Ip-paṇam Iru-nūṟu Oṭukkuvittu koṇṭamaikku kōyiṟ-kaṇakku
+                            <lb n="28"/>Āṇṭa piḷḷai Eḻuttu</item>
+                    </list> 		
+                </p>
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+                </app> 
+                </listApp>
+                
+                </div>-->
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                ...
+                </p>
+                
+                </div>-->
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/152).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 26), with photos.</p>
+                
+                <p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).
+                </p>
+                
+                <listBibl type="primary">
+                    
+                    <!--+ SII 8.440-->
+                    
+                    <bibl n="V">
+                        <ptr target="bib:Vijayavenugopal2022_01"/>
+                        <citedRange unit="item">26</citedRange>
+                        <citedRange unit="page">70-71</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1903-1904"/>
+                        <citedRange unit="page">19</citedRange>
+                        <citedRange unit="appendix">A/1903</citedRange>
+                        <citedRange unit="item">152</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>
