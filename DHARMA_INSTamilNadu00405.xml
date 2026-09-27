@@ -20,7 +20,7 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
@@ -47,8 +47,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
                 repository</change>
@@ -66,14 +66,14 @@
                 
                 <p>
                     tiri-puvaṉa-c-cakkara-va<reg>r</reg>ttikaḷ cōṇāṭu koṇṭ-aruḷiya cun
-                    <lb n="2" break="no"/>tara-pāṇṭiya-tēvaṟku yāṇṭu 3-vatu tiru-malai-nāṭṭu-t tiru-k-koṭuṅ-ku
-                    <lb n="3" break="no"/>ṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉār <hi rend="grantha">śrī</hi>-kōyili
-                    <lb n="4" break="no"/>l <hi rend="grantha">śrī</hi>-<supplied reason="lost">Uruttira</supplied>-<hi rend="grantha">śrī</hi>-mā<hi rend="grantha">he</hi>curarōm <hi rend="grantha">śrī</hi>-maturaiyil <unclear>tiru-nāvukk-aracu</unclear> tiru-maṭattil
+                    <lb n="2" break="no"/>tara-pāṇṭiya-tēvaṟku yāṇṭu <unclear>3</unclear>-vatu tiru-malai-nāṭṭu-t tiru-k-koṭuṅ-ku
+                    <lb n="3" break="no"/>ṉṟat<unclear>tu</unclear> Uṭai<unclear>yār tiru-k</unclear>-koṭu<unclear>ṅ</unclear>-ku<unclear>ṉṟam-uṭaiya</unclear> nāyaṉār <hi rend="grantha">śrī</hi>-kōyili
+                    <lb n="4" break="no"/>l <hi rend="grantha">śrī-<supplied reason="lost">rud</supplied>ra-śrī</hi>-mā<hi rend="grantha">he</hi>curarōm <hi rend="grantha">śrī</hi>-maturaiyil <unclear>ti</unclear><supplied reason="lost">ru-nāvukk-ara</supplied><unclear cert="low">cu</unclear> tiru-maṭattil
                     <lb n="5"/>Ammai Aṟa-p-peruñ-celviyār I<choice><orig>ṉ-ṉ</orig><reg>n-n</reg></choice>āyaṉāṟku vaicca tiru-ṉuntā-viḷak
-                    <lb n="6" break="no"/>ku<choice><sic>kakku</sic><corr>kku-k</corr></choice> koṇṭu viṭṭa Āṭu <num value="50">5 <g type="numeral">10</g></num>
+                    <lb n="6" break="no"/>ku 1-kku koṇṭu viṭṭa Āṭu <num value="50">5 <g type="numeral">10</g></num>
                 </p>
                 <p>
-                    Iv-āṭu Am-patu cāvā mūvā-p pēr-āṭ-āy
+                    <unclear>Iv</unclear>-āṭu <choice><sic>A</sic><corr>Ai</corr></choice>m-patu cāvā mūvā-p pēr-āṭ-āy
                     <lb n="7"/>It-tiru-ṉuntā-viḷakku Oṉṟum can<hi rend="grantha"><choice><orig>t</orig><reg>d</reg></choice>rā</hi>titta-val celvat’ āka kalveṭṭi-k kuṭuttō
                     <lb n="8" break="no"/>m Ammai Aṟa-p-peruñ-celviyāṟku <hi rend="grantha">śrī</hi>-Uruttira-<hi rend="grantha">śrī</hi>-mā<hi rend="grantha">heśva</hi>rarōm
                 </p>
@@ -83,16 +83,35 @@
                 </p>
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-                </app> 
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01"></rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                    </app> 
+                    
+                    <app loc="4">
+                        <lem><hi rend="grantha">śrī<supplied reason="lost">rud</supplied>ra</hi></lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01"><hi rend="grantha">śrī<unclear>rudra</unclear></hi></rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01"><hi rend="grantha">śrī</hi> <gap reason="lost" quantity="4" unit="character"/></rdg>
+                    </app> 
+                    
+                    <app loc="4">
+                        <lem><unclear>ti</unclear><supplied reason="lost">ru-nāvukk-ara</supplied><unclear cert="low">cu</unclear></lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01"><gap reason="lost" quantity="3" unit="character"/></rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01">tiru-nāvukk-aracu</rdg>
+                    </app> 
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01"></rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                    </app> 
                 </listApp>
                 
-                </div>-->
+            </div>
             
             <!--<div type="translation" resp="part:emfr">
                 
@@ -110,13 +129,18 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/142b).</p>
                 
-                <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 5), with photos.</p>
+                <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.430); edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 5), with photo.</p>
                 
-                <p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
+                <p>This edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis (2024), based on photo (EFEO, 2012).</p>
                 
                 <listBibl type="primary">
                     
-                    <!--+ SII 8.430-->
+                    <bibl n="SII">
+                        <ptr target="bib:SubrahmanyaAiyer1937_01"/>
+                        <citedRange unit="item">430</citedRange>
+                        <citedRange unit="page">225</citedRange>
+                    </bibl>
+                    
                     
                     <bibl n="V">
                         <ptr target="bib:Vijayavenugopal2022_01"/>

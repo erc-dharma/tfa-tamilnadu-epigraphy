@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pirāṉmalai, Maṅkaipākar temple, Gopura, Śaka year 1662</title>
+                <title>Pirāṉmalai, Maṅkaipākar temple, Śaka year 1662</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vija">
@@ -35,12 +35,11 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary>Gopura.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -153,7 +152,7 @@
                 <p>
                     In<supplied reason="omitted">ta</supplied> taṟmatu y-⌈
                     <lb n="65" break="no"/>orutaṉ Atil <gap reason="lost" quantity="1" unit="character" precision="low"/>
-                    <lb n="66"/><gap reason="lost" quantity="3" unit="character" precision="low"/>ṉam paṇṇiṉa <gap reason="lost" quantity="7" unit="character" precision="low"/>
+                    <lb n="66"/><gap reason="lost" quantity="3" unit="character" precision="low"/> ṉam paṇṇiṉa <gap reason="lost" quantity="7" unit="character" precision="low"/>
                     <lb n="67"/><gap reason="lost" quantity="8" unit="character" precision="low"/> kaṅ <gap reason="lost" quantity="16" unit="character" precision="low"/> 	
                     
                     <!--12 more lines in ASI transcript-->
@@ -187,7 +186,7 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/227).</p>
                 <p>Edited (first 6 lines and last 12 lines missing) in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 68), with photos.</p>                
-                <p>This edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photos (N. Ramaswamy, 2012) and ASI transcript available on BharatSHRI.</p>
+                <p>This edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photos (EFEO, 2012) and ASI transcript available on BharatSHRI.</p>
                 
                 <listBibl type="primary">
                     

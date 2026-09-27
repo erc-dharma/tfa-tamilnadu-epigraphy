@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pirāṉmalai, Maṅkai Pākar temple, Śaka year 1170</title>
+                <title>Pirāṉmalai, Maṅkai Pākar temple, no king, Śaka year 1170</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vija">
@@ -20,7 +20,7 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
@@ -47,8 +47,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
                 repository</change>
@@ -68,9 +68,9 @@
                     <lb n="2" break="no"/>mēṟ kaṉṉi-nāyaṟṟil
                 </p>
                 <p>
-                    civa-<hi rend="grantha">pā<choice><orig>t</orig><reg>d</reg></choice>ya</hi>m-āṉa It-ti
-                    <lb n="3" break="no"/>ru-mañcaṉa-c-cuṉai-c ceytu kalliṭṭu-k kaṭṭi
-                    <lb n="4"/>Ēṟa-p-paṭikaḷum veṭṭi kāvaṇa<supplied reason="subaudible">m</supplied> mēl i<hi rend="grantha">ṣa</hi>pa-tēvar
+                    civa-<hi rend="grantha">pādya</hi>m-āṉa It-ti
+                    <lb n="3" break="no"/>ru-mañcaṉa-c-cuṉai-c ceytu ka<choice><orig>ll</orig><reg>l</reg></choice> iṭṭu-k kaṭṭi
+                    <lb n="4"/>Ēṟa-p-paṭikaḷum veṭṭi <choice><sic>tira</sic><corr>kā</corr></choice>vaṇa<supplied reason="subaudible">m</supplied> mēl i<hi rend="grantha">ṣa</hi>pa-tēvar
                     <lb n="5" break="no"/>kaḷaiyum camaittu It-taṉma<supplied reason="subaudible">m</supplied> muṭiya-c cey
                     <lb n="6" break="no"/>tār Aḷakāpuri-y-āṉa ceḻiya-nārāyaṇa
                     <lb n="7" break="no"/>-purattu maṇakk-uṭaiyāṉ poṟ-pati
@@ -79,16 +79,29 @@
                 </p>
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-                </app> 
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                    </app> 
+                    
+                    <app loc="4">
+                        <lem><choice><sic>tira</sic><corr>kā</corr></choice>vaṇa<supplied reason="subaudible">m</supplied> mēl</lem>
+                        <rdg source="bib:ASI">tāvaṇamel</rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01">kāvaṇamel</rdg>
+                    </app> 
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                    </app> 
+                    
                 </listApp>
                 
-                </div>-->
+            </div>
             
             <!--<div type="translation" resp="part:emfr">
                 
@@ -104,10 +117,14 @@
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 16), with photos.</p>
-                <p>This edition by G. Vijayavenugopal. Curated by Emmanuel Francis.</p>
+                <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 16), with photo.</p>
+                <p>This edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photo (EFEO, 2012) and ASI estampage and transcript available on BharatSHRI.</p>
                 
                 <listBibl type="primary">
+                    
+                    <bibl n="ASI">
+                        <ptr target="bib:ASI"/>
+                    </bibl>
                     
                     <bibl n="V">
                         <ptr target="bib:Vijayavenugopal2022_01"/>

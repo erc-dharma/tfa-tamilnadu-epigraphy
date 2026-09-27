@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pirāṉmalai, Piḷḷaiyār temple, time of Muttu Cokkanāta Nāyakkar, Śaka year 1633</title>
+                <title>Pirāṉmalai, Piḷḷaiyār temple, time of Vijayaraṅga Muttu Cokkanātha Nāyaka, Śaka year 1633</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vija">
@@ -40,8 +40,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -63,7 +62,7 @@
                 
                 <ab>
                     <lb n="A01"/><hi rend="grantha">hariḥ</hi>
-                    <lb n="A02"/><hi rend="grantha">Ōm</hi>
+                    <lb n="A02"/><hi rend="grantha">OM</hi>
                 </ab>
                 
                 <ab>
@@ -71,13 +70,13 @@
                 </ab>		
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">śakā</hi>t=ta<hi rend="grantha">m<supplied reason="omitted">·</supplied></hi> <num value="1663"><g type="numeral">100</g> 6 <g type="numeral">100</g> 3 <g type="numeral">10</g> 3</num>-ṉ
+                    <lb n="1"/><hi rend="grantha">śakā</hi>t=ta<hi rend="grantha">M</hi> <num value="1663"><g type="numeral">100</g> 6 <g type="numeral">100</g> 3 <g type="numeral">10</g> 3</num>-ṉ
                     <lb n="2"/>mēl cellā niṉṟa nan=ta
                     <lb n="3" break="no"/>ṉa <g ref="sym:tam-varusam"/> Aṟpaci <g ref="sym:tam-matam"/> <num value="15"><g type="numeral">10</g> 5</num> <g ref="sym:tam-teti"/>
                 </p>
                 <p>
                     <lb n="4"/><hi rend="grantha">rāja-śrī</hi>-vi<hi rend="grantha">ja</hi>yaraṅka-mut
-                    <lb n="5" break="no"/>tu-cokka-ṉāta-ṉāyakkar
+                    <lb n="5" break="no"/>tu-cokkaṉātaṉāyakkar
                     <lb n="6"/>Ayyaṉ Avarkaḷ kāriyat
                     <lb n="7" break="no"/>tuk=ku kaṟtar-āṉa <hi rend="check"><unclear reason="eccentric_ductus">A</unclear>tipan-āyi
                     <lb n="8" break="no"/>ṉa</hi> nāṟaṇappa-ṉāyakkar ka<unclear cert="low">cu</unclear>
@@ -102,7 +101,7 @@
                 </p>
                 <p>
                     Inta taṟmat
-                    <lb n="24" break="no"/>tuk=ku Akitam niṉaiccavaṉ ke
+                    <lb n="24" break="no"/>tuk=ku Akitam niṉai<choice><orig>cc</orig><reg>tt</reg></choice>avaṉ ke
                     <lb n="25" break="no"/>ṅkai-karaiyilē kār=ām-pacu
                     <lb n="26" break="no"/>vai<supplied reason="lost">yu</supplied><unclear>m</unclear> <gap reason="lost" quantity="12" unit="character" precision="low"/>
                     <lb n="27"/>m vatai cey <gap reason="lost" quantity="10" unit="character" precision="low"/>
@@ -122,23 +121,26 @@
                     <app loc="7">
                         <lem><unclear reason="eccentric_ductus">A</unclear>tipanāyi
                             <lb n="8" break="no"/>ṉa</lem>
-                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
-                        <note>ASI transcript reads <foreign><hi rend="grantha">ba</hi>civināya<lb n="8" break="no"/>ṉi</foreign>.</note>
+                        <rdg source="bib:ASI"><hi rend="grantha">ba</hi>civināya
+                            <lb n="8" break="no"/>ṉi</rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01">Atipanāyi
+                            <lb n="8" break="no"/>ṉa</rdg>
+                                                
                     </app>                    
                     <app loc="18">
                         <lem>poṟu<unclear>ppu</unclear></lem>
+                        <rdg source="bib:ASI">poṟuppu</rdg>
                         <rdg source="bib:Vijayavenugopal2022_01">pōṟum</rdg>
-                        <note>ASI transcript reads <foreign>poṟuppu</foreign>.</note>
-                    </app> 
+                    </app>
+                    
                     <app loc="22">
-                        <lem>tāṭcivarāmal</lem>
+                        <lem source="bib:ASI">tāṭcivarāmal</lem>
                         <rdg source="bib:Vijayavenugopal2022_01">tāmatiyāmal</rdg>
-                        <note>ASI transcript reads <foreign>tāṭcivarāmal</foreign>.</note>
                     </app> 
                     <app loc="24">
-                        <lem>niṉaiccavaṉ</lem>
+                        <lem source="bib:ASI">niṉai<choice><orig>cc</orig><reg>tt</reg></choice>avaṉ</lem>
+                        <rdg source="bib:ASI">niṉaiccavaṉ</rdg>
                         <rdg source="bib:Vijayavenugopal2022_01">niṉaittavaṉ</rdg>
-                        <note>ASI transcript reads <foreign>niṉaiccavaṉ</foreign>.</note>
                     </app> 
                 </listApp>
                 
@@ -160,9 +162,9 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/235).</p>
                 
-                <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 100), with photos.</p>
+                <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 100), with photo.</p>
                 
-                <p>This edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photo (EFEO, 2012) and ASI transcript available on BharatSHRI.</p>
+                <p>This edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photo (EFEO, 2012) and ASI estampage and transcript available on BharatSHRI.</p>
                 
                 <listBibl type="primary">
                     
