@@ -124,9 +124,9 @@
                         <rdg source="bib:ASI"><hi rend="grantha">ba</hi>civināya
                             <lb n="8" break="no"/>ṉi</rdg>
                         <rdg source="bib:Vijayavenugopal2022_01">Atipanāyi
-                            <lb n="8" break="no"/>ṉa</rdg>
-                                                
-                    </app>                    
+                            <lb n="8" break="no"/>ṉa</rdg>                                                
+                    </app>                   
+                    
                     <app loc="18">
                         <lem>poṟu<unclear>ppu</unclear></lem>
                         <rdg source="bib:ASI">poṟuppu</rdg>
@@ -136,7 +136,8 @@
                     <app loc="22">
                         <lem source="bib:ASI">tāṭcivarāmal</lem>
                         <rdg source="bib:Vijayavenugopal2022_01">tāmatiyāmal</rdg>
-                    </app> 
+                    </app>
+                    
                     <app loc="24">
                         <lem source="bib:ASI">niṉai<choice><orig>cc</orig><reg>tt</reg></choice>avaṉ</lem>
                         <rdg source="bib:ASI">niṉaiccavaṉ</rdg>

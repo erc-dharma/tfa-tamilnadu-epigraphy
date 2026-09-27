@@ -20,7 +20,7 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
@@ -47,8 +47,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
                 repository</change>
@@ -64,32 +64,67 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 <p>	
-                    kō-māṟa-paṉmar-āṉa tiri-puvaṉa-c-cakkara-va<reg>r</reg>ttikaḷ cōṇāṭu ko(ṇṭ-a)
+                    kō-māṟa-paṉmar-āṉa tiri-puvaṉa-c-cakkara-va<reg>r</reg>ttikaḷ cōṇāṭu ko<supplied reason="lost">ṇṭ-a</supplied>
                     <lb n="2" break="no"/>ruḷiya <hi rend="grantha">śrī</hi>-cuntara-pāṇṭiya-tēvaṟku yāṇṭu 3-vatu
                 </p>
                 <p>
                     tiru-malai-nāṭṭu-t tiru-k-koṭuṅ
-                    <lb n="3" break="no"/>-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉāṟku ka <gap reason="lost" quantity="6" unit="character" precision="low"/> valil paratēci A
+                    <lb n="3" break="no"/>-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉāṟku t <gap reason="lost" quantity="4" unit="character" precision="low"/> valil paratēci A
                     <lb n="4" break="no"/>ṇṭārkaḷil tiru-naṭṭa-p-perumāḷ piḷḷaikaḷil Etir-illā-p perumāḷ <gap reason="lost" quantity="3" unit="character" precision="low"/> ceyam-uṭaiya peru
-                    <lb n="5" break="no"/>māḷ-āṉa tiru-nīṟu pēṇi yaṇivāṉēṉ cantirātitta-vaṟ celvat’ āka tiru-ṉuntā-viḷakku Oṉ
-                    <lb n="6" break="no"/>ṟukku <unclear>cāvā mūvā-p</unclear> pēr-āṭ’ āka-k koṇṭu viṭṭa Āṭu <gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <lb n="5" break="no"/>māḷ-āṉa tiru-n<choice><orig>i</orig><reg>ī</reg></choice>ṟu pēṇi yaṇivāṉēṉ cantirātitta-vaṟ celvat’ āka tiru-ṉuntā-viḷakku Oṉ
+                    <lb n="6" break="no"/><supplied reason="lost">ṟuk</supplied>ku cāvā <unclear>mūvā</unclear>-p pēr-āṭ’ āka-k koṇṭu viṭṭa Āṭu <num value="10">5 <supplied reason="lost"><g type="numeral">10</g></supplied></num>
                 </p>
-                <p>Inta viḷakk’ eriya Iṭṭa pittaḷai viḷakku Oṉ
-                    <lb n="7" break="no"/>ṟināl Iṭai <num value="72">7 <g type="numeral">10</g> 2</num> palamum Iv-āṭu Am-patum koṇṭu kalveṭṭi-k kuṭuttōm tiru-nīṟu pēṇi Aṇi
-                    <lb n="8"/><gap reason="lost" quantity="4" unit="character" precision="low"/>		
+                <p>Inta viḷakk’ eriya <unclear>Iṭṭa</unclear> <supplied reason="lost">pi</supplied>ttaḷai viḷakku Oṉ
+                    <lb n="7" break="no"/>ṟināl Iṭai <num value="72">7 <g type="numeral">10</g> 2</num> palamum Iv-āṭu <choice><sic>A</sic><corr>Ai</corr></choice>m-patum koṇṭu kalveṭṭi-k kuṭuttōm tiru-n<choice><orig>i</orig><reg>ī</reg></choice>ṟu pēṇi Aṇi
+                    <lb n="8" break="no"/><supplied reason="lost">vāṟku</supplied>		
                 </p>
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-                </app> 
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01"></rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                    </app> 
+                    
+                    <app loc="3">                        
+                        <lem>nāyaṉāṟku t</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01">nāya<unclear>ṉā</unclear>ṟku k</rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01">nāyaṉāṟku k</rdg>
+                    </app>
+                    
+                    <app loc="6">
+                        <lem>Āṭu <num value="10">5 <supplied reason="lost"><g type="numeral">10</g></supplied></num></lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01">Āṭu <num value="10">5 <g type="numeral">10</g></num></rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01">Āṭu <gap reason="lost" quantity="4" unit="character"/></rdg>
+                    </app>
+                    
+                    <app loc="6">
+                        <lem>Inta viḷakk’ eriya</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01"><gap reason="lost" quantity="3" unit="character"/> viḷakkeriya</rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01">Inta viḷak keriya</rdg>
+                    </app>
+                    
+                    <app loc="6">
+                        <lem><unclear>Iṭṭa</unclear> <supplied reason="lost">pi</supplied>ttaḷai</lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01">Iṭṭa <unclear>pi</unclear>ttaḷai</rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01">Iṭṭa pittaḷai</rdg>
+                    </app> 
+                    
+                    <app loc="7">
+                        <lem>Aṇi
+                    <lb n="8" break="no"/><supplied reason="lost">vāṟku</supplied></lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01">Aṇi
+                    <lb n="8" break="no"/>vāṟku</rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01">Aṇi
+                    <lb n="8"/><gap reason="lost" quantity="4" unit="character" precision="low"/></rdg>
+                    </app>
                 </listApp>
                 
-                </div>-->
+            </div>
             
             <!--<div type="translation" resp="part:emfr">
                 
@@ -109,7 +144,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1937_01"/></bibl> (SII 8.429); edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 6), with photo.</p>
                 
-                <p>This edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis (2024), based on photo (EFEO, 2012).</p>
+                <p>This edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on previous editions and photo (EFEO, 2012).</p>
                 
                 <listBibl type="primary"> 
                     
@@ -117,8 +152,7 @@
                         <ptr target="bib:SubrahmanyaAiyer1937_01"/>
                         <citedRange unit="item">429</citedRange>
                         <citedRange unit="page">225</citedRange>
-                    </bibl>
-                    
+                    </bibl>                    
                     
                     <bibl n="V">
                         <ptr target="bib:Vijayavenugopal2022_01"/>
