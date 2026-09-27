@@ -5,152 +5,152 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-			    <title>Pirāṉmalai, Maṅkai Pākar temple, time of X, year X</title>
-			    <respStmt>
-			        <resp key="creator">author of digital edition</resp>
-			        <persName ref="part:vija">
-			            <forename>G.</forename>
-			            <surname>Vijayavenugopal</surname>
-			        </persName>
-			        <persName ref="part:emfr">
-			            <forename>Emmanuel</forename>
-			            <surname>Francis</surname>
-			        </persName>
-			    </respStmt>
-			<funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
-			<publicationStmt>
-				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00437.xml</idno>
-				<availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-				<date from="2019" to="2026">2019-2026</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
-				repository</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-
-<body>
-         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
-	<ab>		
-		<lb n="1"/><hi rend="grantha">svasti śrī</hi>
-	</ab>
-	<p>		
-		kō-māṟa-paṉmar-āṉa <hi rend="grantha">tri-bhu</hi>vaṉa-<hi rend="grantha">c-cakra</hi>-va<reg>r</reg>t=tikaḷ Em-maṇṭalamuṅ koṇṭ-aruḷiya <hi rend="grantha">śrī</hi>-kula-cē
-		<lb n="2" break="no"/>kara-tēvaṟku yāṇṭu <num value="38">3 <g type="numeral">10</g> 8</num>-vatu Aippaci mātam Oṉpat-ān tiyati
-	</p>
-	<p>
-		tiru-malai-nāṭ
-		<lb n="3" break="no"/>ṭu-t tiru-k-koṭuṅ-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉār
-		<lb n="4" break="no"/>-kōyiṟ cī-paṇṭārattārōm Uṭaiyār tiru-vālavā-y-uṭaiya nāyaṉār kō
-		<lb n="5" break="no"/>yil tiru-t-toṇṭarkaḷil mutaliyār curapi-t-tiru-mēṉikku-p piṭi-pāṭu paṇ
-		<lb n="6" break="no"/>ṇi-k kuṭutta paric' āvatu
-	</p>
-	<p>
-		Iṉ-ṉāyaṉāṟku pāl-amutukku muṉṉāḷ tiru-c-curapi I⌈
-		<lb n="7" break="no"/>ṭaiyar vacam am<choice><sic>a</sic><corr>ai</corr></choice>ttu vaitta pacu <num value="50">50</num>-kku Iṟṟai nāḷil kāṭṭi Ivarka
-		<lb n="8" break="no"/>ḷ mutal iṭuvitta pacu <num value="30">3 <g type="numeral">10</g></num>-kkum pacu Aṟukku-p pāl-amutu nāḻi-y-āka-p pāl-amutu
-		<lb n="9"/>Aiñ-ñāḻiyum Iṉ-ṉāḷ mutal tiru-maṭai-p-paḷḷiyilē Aḷappittu Amutu
-		<lb n="10"/>ceyt-aruḷa-p paṇṇuvōm ākavum
-	</p>
-	<p>
-		Ip-pāl-amutukku Ip-pacu mu-p-patum cā
-		<lb n="11" break="no"/>kā mūvā-p pacu v-āka-k kaiy-k-koṇṭu iIp-pāl amutu muṭṭāmal
-		<lb n="12"/>Aḷappippōm ākavum
-	</p>
-	<p>
-		Ip-paṭi cammatittu-p piṭi-pāṭu paṇṇi-k kuṭuttōm
-		<lb n="13"/>mutaliyār curapi-t-tiru-mēṉikku
-	</p>
-	<p>
-		Ivai cakāyama pi<gap reason="lost" quantity="3" unit="character" precision="low"/>
-		<lb n="14"/><gap reason="lost" quantity="4" unit="character" precision="low"/> ṉ eḻuttu
-	</p>
-</div>
-	
-<!--<div type="apparatus">
-           
-	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-		</app> 
-	</listApp>
-	
-</div>-->
-      	
-<!--<div type="translation" resp="part:emfr">
-      		
-      		<p n="1">
-      			...
-      		</p>
-      		
-</div>-->
-	
-<!--<div type="commentary">
-      		
-</div>-->
-      	
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/140).</p>
-	
-	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 37), with photos.</p>
-		
-	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
-	
-	<listBibl type="primary">
-		
-		<!--+ SII 8.427-->
-		
-		<bibl n="V">
-			<ptr target="bib:Vijayavenugopal2022_01"/>
-			<citedRange unit="item">37</citedRange>
-			<citedRange unit="page">92</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		<bibl>
-			<ptr target="bib:ARIE1903-1904"/>
-			<citedRange unit="page">18</citedRange>
-			<citedRange unit="appendix">A/1903</citedRange>
-			<citedRange unit="item">140</citedRange>
-		</bibl>
-		
-	</listBibl>
-      		
-        </div>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pirāṉmalai, Maṅkai Pākar temple, time of Kulaśekhara, year 38</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:vija">
+                        <forename>G.</forename>
+                        <surname>Vijayavenugopal</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00437.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
+                repository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>		
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                <p>		
+                    kō-māṟa-paṉmar-āṉa <hi rend="grantha">tri-bhu</hi>vaṉa-<hi rend="grantha">c-cakra</hi>-va<reg>r</reg>t=tikaḷ Em-maṇṭalamuṅ koṇṭ-aruḷiya <hi rend="grantha">śrī</hi>-kula-cē
+                    <lb n="2" break="no"/>kara-tēvaṟku yāṇṭu <num value="38">3 <g type="numeral">10</g> 8</num>-vatu Aippaci mātam Oṉpat-ān tiyati
+                </p>
+                <p>
+                    tiru-malai-nāṭ
+                    <lb n="3" break="no"/>ṭu-t tiru-k-koṭuṅ-kuṉṟattu Uṭaiyār tiru-k-koṭuṅ-kuṉṟam-uṭaiya nāyaṉār
+                    <lb n="4" break="no"/>-kōyiṟ cī-paṇṭārattārōm Uṭaiyār tiru-vālavā-y-uṭaiya nāyaṉār kō
+                    <lb n="5" break="no"/>yil tiru-t-toṇṭarkaḷil mutaliyār curapi-t-tiru-mēṉikku-p piṭi-pāṭu paṇ
+                    <lb n="6" break="no"/>ṇi-k kuṭutta paric' āvatu
+                </p>
+                <p>
+                    Iṉ-ṉāyaṉāṟku pāl-amutukku muṉṉāḷ tiru-c-curapi I⌈
+                    <lb n="7" break="no"/>ṭaiyar vacam am<choice><sic>a</sic><corr>ai</corr></choice>ttu vaitta pacu <num value="50">50</num>-kku Iṟṟai nāḷil kāṭṭi Ivarka
+                    <lb n="8" break="no"/>ḷ mutal iṭuvitta pacu <num value="30">3 <g type="numeral">10</g></num>-kkum pacu Aṟukku-p pāl-amutu nāḻi-y-āka-p pāl-amutu
+                    <lb n="9"/>Aiñ-ñāḻiyum Iṉ-ṉāḷ mutal tiru-maṭai-p-paḷḷiyilē Aḷappittu Amutu
+                    <lb n="10"/>ceyt-aruḷa-p paṇṇuvōm ākavum
+                </p>
+                <p>
+                    Ip-pāl-amutukku Ip-pacu mu-p-patum cā
+                    <lb n="11" break="no"/>kā mūvā-p pacu v-āka-k kaiy-k-koṇṭu iIp-pāl amutu muṭṭāmal
+                    <lb n="12"/>Aḷappippōm ākavum
+                </p>
+                <p>
+                    Ip-paṭi cammatittu-p piṭi-pāṭu paṇṇi-k kuṭuttōm
+                    <lb n="13"/>mutaliyār curapi-t-tiru-mēṉikku
+                </p>
+                <p>
+                    Ivai cakāyama pi<gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <lb n="14"/><gap reason="lost" quantity="4" unit="character" precision="low"/> ṉ eḻuttu
+                </p>
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+                </app> 
+                </listApp>
+                
+                </div>-->
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                ...
+                </p>
+                
+                </div>-->
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1903-1904"/></bibl> (ARIE/1903-1904/A/1903/140).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 37), with photos.</p>
+                
+                <p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
+                
+                <listBibl type="primary">
+                    
+                    <!--+ SII 8.427-->
+                    
+                    <bibl n="V">
+                        <ptr target="bib:Vijayavenugopal2022_01"/>
+                        <citedRange unit="item">37</citedRange>
+                        <citedRange unit="page">92</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1903-1904"/>
+                        <citedRange unit="page">18</citedRange>
+                        <citedRange unit="appendix">A/1903</citedRange>
+                        <citedRange unit="item">140</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>

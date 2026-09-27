@@ -5,131 +5,131 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-			    <title>Pirāṉmalai, Maṅkai Pākar temple, time of X, year X</title>
-			    <respStmt>
-			        <resp key="creator">author of digital edition</resp>
-			        <persName ref="part:vija">
-			            <forename>G.</forename>
-			            <surname>Vijayavenugopal</surname>
-			        </persName>
-			        <persName ref="part:emfr">
-			            <forename>Emmanuel</forename>
-			            <surname>Francis</surname>
-			        </persName>
-			    </respStmt>
-			<funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
-			<publicationStmt>
-				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00461.xml</idno>
-				<availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-				<date from="2019" to="2026">2019-2026</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary/>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
-								nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
-				repository</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-
-<body>
-         
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-			
-	<ab>		
-		<lb n="1"/><hi rend="grantha">śrī</hi>vatti
-	</ab>
-	
-	<p>
-		ciṟimaṉ-makā-maṇṭalēcuraṉ vēṅkaṭa-pati-rāyaṟku-c cellā niṉṟa cakātta(m) <num value="1512"><g type="numeral">100</g> 5 <g type="numeral">100</g>
-		<lb n="2" break="no"/><g type="numeral">10</g> 12</num>-ṉ mēl cellā niṉṟa kara-varuṣam kāttikai <g ref="sym:tam-matam"/> <num value="21">2 <g type="numeral">10</g> 1</num>-l Ātitta-vāramum Aṭṭamiyum Ut
-		<lb n="3" break="no"/>tira-naṭcattiramum cupai-yōka-cuvatiṉammum peṟṟa mukiḻtattu-t tiru-k-koṭuṅ-kuṉṟam-āṉa maṅkai
-		<lb n="4" break="no"/>-pākar karuḷavaruṉālum {read tiruvaruḷiṉālum } maṭṭiyūr meññāṉam peṟṟa paṇṭāram tiru-ṉāvukk-aracu paṇṭāran ti
-		<lb n="5" break="no"/>ru-vuḷam paṟṟiṉa paṭikkut tiru-c-cirāppaḷḷi-c cevvanti-y-appa-nācciyār koṭumaṭai-y-āṉa karumai
-		<lb n="6" break="no"/>yūr periya-ṉāyaki-y-ammaikku koṭumpai-mā-ṉakar Iḷaṅkai-vēḷāṉ kēraḷa-ciṅka-vaḷanāṭṭu vēḷa
-		<lb n="7" break="no"/>-kulār nilai-y-āṉa vīra-pāṇṭiya-nallūr Añcunilai-nāṭṭu maḻiṟai-y-āṉa vikkirama-pāṇṭiya-nallū
-		<lb n="8" break="no"/>rum maṭa-taṉ(ma)-cātaṉa-p-paṭṭaiyaṅ kuṭutta paṭi Iruntatu kuṭi-y-āka (varu)vārukkoru paṇam puttira param(pa) (r)aiyum caru <gap reason="lost" quantity="4" unit="character" precision="low"/>
-	</p>
-</div>
-	
-<!--<div type="apparatus">
-           
-	<listApp>
-		<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-		</app> 
-	</listApp>
-	
-</div>-->
-      	
-<!--<div type="translation" resp="part:emfr">
-      		
-      		<p n="1">
-      			...
-      		</p>
-      		
-</div>-->
-	
-<!--<div type="commentary">
-      		
-</div>-->
-      	
-<div type="bibliography">
-	
-	<p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/199).</p>
-	
-	<p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 61), with photos.</p>
-		
-	<p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
-	
-	<listBibl type="primary">
-		
-		<bibl n="V">
-			<ptr target="bib:Vijayavenugopal2022_01"/>
-			<citedRange unit="item">61</citedRange>
-			<citedRange unit="page">148-150</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-	<listBibl type="secondary">
-		
-		
-		<bibl>
-			<ptr target="bib:ARIE1923-1924"/>
-			<citedRange unit="page">58</citedRange>
-			<citedRange unit="appendix">C/1924</citedRange>
-			<citedRange unit="item">199</citedRange>
-		</bibl>
-		
-	</listBibl>
-	
-        </div>
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pirāṉmalai, Maṅkai Pākar temple, time of Vēṅkaṭapati Rāyar, Śaka year 1512</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:vija">
+                        <forename>G.</forename>
+                        <surname>Vijayavenugopal</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00461.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>,
+                                nor between <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-05-07" status="draft">Creation of the file on the
+                repository</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab>		
+                    <lb n="1"/><hi rend="grantha">śrī</hi>vatti
+                </ab>
+                
+                <p>
+                    ciṟimaṉ-makā-maṇṭalēcuraṉ vēṅkaṭa-pati-rāyaṟku-c cellā niṉṟa cakātta(m) <num value="1512"><g type="numeral">100</g> 5 <g type="numeral">100</g>
+                        <lb n="2" break="no"/><g type="numeral">10</g> 2</num>-ṉ mēl cellā niṉṟa kara-varuṣam kāttikai <g ref="sym:tam-matam"/> <num value="21">2 <g type="numeral">10</g> 1</num>-l Ātitta-vāramum Aṭṭamiyum Ut
+                    <lb n="3" break="no"/>tira-naṭcattiramum cupai-yōka-cuvatiṉammum peṟṟa mukiḻtattu-t tiru-k-koṭuṅ-kuṉṟam-āṉa maṅkai
+                    <lb n="4" break="no"/>-pākar karuḷavaruṉālum {read tiruvaruḷiṉālum } maṭṭiyūr meññāṉam peṟṟa paṇṭāram tiru-ṉāvukk-aracu paṇṭāran ti
+                    <lb n="5" break="no"/>ru-vuḷam paṟṟiṉa paṭikkut tiru-c-cirāppaḷḷi-c cevvanti-y-appa-nācciyār koṭumaṭai-y-āṉa karumai
+                    <lb n="6" break="no"/>yūr periya-ṉāyaki-y-ammaikku koṭumpai-mā-ṉakar Iḷaṅkai-vēḷāṉ kēraḷa-ciṅka-vaḷanāṭṭu vēḷa
+                    <lb n="7" break="no"/>-kulār nilai-y-āṉa vīra-pāṇṭiya-nallūr Añcunilai-nāṭṭu maḻiṟai-y-āṉa vikkirama-pāṇṭiya-nallū
+                    <lb n="8" break="no"/>rum maṭa-taṉ(ma)-cātaṉa-p-paṭṭaiyaṅ kuṭutta paṭi Iruntatu kuṭi-y-āka (varu)vārukkoru paṇam puttira param(pa) (r)aiyum caru <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                </p>
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+                </app> 
+                </listApp>
+                
+                </div>-->
+            
+            <!--<div type="translation" resp="part:emfr">
+                
+                <p n="1">
+                ...
+                </p>
+                
+                </div>-->
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1923-1924"/></bibl> (ARIE/1923-1924/C/1924/199).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 61), with photos.</p>
+                
+                <p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="V">
+                        <ptr target="bib:Vijayavenugopal2022_01"/>
+                        <citedRange unit="item">61</citedRange>
+                        <citedRange unit="page">148-150</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1923-1924"/>
+                        <citedRange unit="page">58</citedRange>
+                        <citedRange unit="appendix">C/1924</citedRange>
+                        <citedRange unit="item">199</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
 </TEI>
