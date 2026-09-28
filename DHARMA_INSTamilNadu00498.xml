@@ -61,11 +61,26 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <p>		
-                    <lb n="1"/>tēva-tāṉam paḷḷi-c-cantam n<choice><orig>i</orig><reg>ī</reg></choice>kki Uḷḷa nilamum Iru-patā
-                    <lb n="2"/>tara-c coṉṉōm Ip-paṭi cantirātitta-varai celvit' āka kalli
-                    <lb n="3"/><supplied reason="lost">n<choice><orig>i</orig><reg>ī</reg></choice></supplied>kki n<choice><orig>i</orig><reg>ī</reg></choice>kki y-uḷḷa nilamum <num value="20">2 <g type="numeral">10</g></num>-ḷuṉ etir-āmm āṇṭu mutal
-                    <lb n="4"/>rukkuṭi-k kāvalūr kiḻavaṉ Arayaṉ maturai-p-perumāḷ
-                    <lb n="5"/><gap reason="lost" quantity="4" unit="character" precision="low"/> rāyiram-uṭaiyāṉ-āṉa kaliṅkattaraiyaṉ eḻuttu	
+                    <lb n="1"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    tēva-tāṉam paḷḷi-c-cantam n<choice><orig>i</orig><reg>ī</reg></choice>kki Uḷḷa nilamum Iru-patā
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    tara-c coṉṉōm Ip-paṭi cantirātitta-varai celvit’ āka kalli
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <supplied reason="lost">n<choice><orig>i</orig><reg>ī</reg></choice></supplied>kki n<choice><orig>i</orig><reg>ī</reg></choice>kki y-uḷḷa nilamum <num value="20">2 <g type="numeral">10</g></num>-ḷuṉ etir-ām āṇṭu mutal
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    rukkuṭi-k kāvalūr kiḻavaṉ Arayaṉ maturai-p-perumāḷ
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="5" unit="character" precision="low"/> rāyiram-uṭaiyāṉ-āṉa kaliṅkattaraiyaṉ eḻuttu
+                    <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
             </div>
             

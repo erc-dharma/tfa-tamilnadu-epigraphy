@@ -63,11 +63,11 @@
                 <p>
                     <lb n="1"/>Āti viṉṉa <gap reason="lost" quantity="3" unit="character" precision="low"/>
                     <lb n="2"/>maturai civa-vaṟata
-                    <lb n="3"/>paṇṭāram c<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">ṣa</hi>r
-                    <lb n="4"/>vāma tēvaraṉāvar
-                    <lb n="5"/>nalla-maṅkai-pāka
-                    <lb n="6"/><gap reason="lost" quantity="10" unit="character" precision="low"/>
-                    <lb n="7"/><gap reason="lost" quantity="10" unit="character" precision="low"/>
+                    <lb n="3" break="no"/>paṇṭāram <unclear cert="low">ci</unclear><hi rend="grantha">ṣa</hi>r
+                    <lb n="4"/>vāma-tēvaraṉāvar
+                    <lb n="5"/>nalla-maṅkai-pāka<unclear cert="low">ṟ</unclear>
+                    <lb n="6"/><unclear cert="low">A</unclear>mutu kāppūm <gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <lb n="7"/>A <gap reason="lost" quantity="10" unit="character" precision="low"/> ṉ
                     <lb n="8"/><gap reason="lost" quantity="10" unit="character" precision="low"/>		
                 </p>
             </div>
@@ -75,6 +75,18 @@
             <div type="apparatus">
                 
                 <listApp>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                    </app> 
+                    <app loc="3">
+                        <lem><unclear cert="low">ci</unclear><hi rend="grantha">ṣa</hi>r</lem>
+                        <rdg source="bib:Vijayavenugopal2022_01">cīr</rdg>
+                    </app> 
+                    <app loc="4">
+                        <lem>tēvaraṉāvar</lem>
+                        <rdg source="bib:Vijayavenugopal2022_01">tēvarāṉāvar</rdg>
+                    </app> 
                     <app loc="0">
                         <lem></lem>
                         <rdg source="bib:Vijayavenugopal2022_01"></rdg>
