@@ -93,10 +93,10 @@
 <div type="apparatus">
            
 	<listApp>
-		<!--<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-		</app> -->
+		<app loc="0">
+			<lem></lem>
+			<rdg source="bib:Vijayavenugopal2022_01"></rdg>
+		</app> 
 	
 		<app loc="6">
 			<lem><hi rend="grantha">Ācandrārkkasthāyi</hi></lem>

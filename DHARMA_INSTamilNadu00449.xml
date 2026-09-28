@@ -80,16 +80,16 @@
                 </p>
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-                </app> 
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                    </app> 
                 </listApp>
                 
-                </div>-->
+            </div>
             
             <!--<div type="translation" resp="part:emfr">
                 

@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pirāṉmalai, Maṅkai Pākar temple, Ukkirākirīcuvarar, king lost, year lost</title>
+                <title>Pirāṉmalai, Maṅkai Pākar temple, king lost, year lost</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vija">
@@ -35,7 +35,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary>Ukkirākirīcuvarar temple.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -65,11 +65,18 @@
                 </ab>
                 
                 <p>
-                    <hi rend="grantha">tribhu</hi>vaṉa-c-cakkara-va<reg>r</reg>tti <gap reason="lost" quantity="5" unit="character" precision="low"/>
-                    <lb n="2"/>kā <gap reason="lost" quantity="2" unit="character" precision="low"/> kuṉṟattu muṭi vaḻaṅkum pe <gap reason="lost" quantity="5" unit="character" precision="low"/>
-                    <lb n="3"/>kōvaḷar pacupati-tēva <gap reason="lost" quantity="8" unit="character" precision="low"/> mu-m muṭi <gap reason="lost" quantity="5" unit="character" precision="low"/>
-                    <lb n="4"/><gap reason="lost" quantity="11" unit="character" precision="low"/> santāṉattu ve <gap reason="lost" quantity="7" unit="character" precision="low"/>
-                    <lb n="5"/><gap reason="lost" quantity="12" unit="character" precision="low"/> po <gap reason="lost" quantity="14" unit="character" precision="low"/> 		
+                    <hi rend="grantha"><unclear>tri</unclear>bhu</hi>vaṉa-c-cakkara-va<reg>r</reg>tti
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    ⌈
+                    <lb n="2" break="no"/>k<supplied reason="lost">o<!--kāl clear--></supplied>ṭu<unclear>ṅ</unclear>-kuṉṟattu muṭi vaḻaṅkum <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/>kōvaḷar pacupati-tēva <gap reason="lost" quantity="6" unit="character" precision="low"/> mum<unclear>mu</unclear><supplied reason="lost">ṭi</supplied>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/>
+                    <gap reason="lost" quantity="8" unit="character" precision="low"/> <hi rend="grantha">sa</hi>ntāṉattu <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg><!--VVG:ve--> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/>
+                    <gap reason="lost" quantity="6" unit="character" precision="low"/> po <gap reason="lost" quantity="6" unit="character" precision="low"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
                 </p>
             </div>
             
@@ -98,9 +105,9 @@
             
             <div type="bibliography">
                 
-                <p>Reported and edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 92), with photos.</p>
+                <p>Reported and edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 92), with photo.</p>
                 
-                <p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
+                <p>This edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photo (EFEO, 2012).</p>
                 
                 <listBibl type="primary">
                     

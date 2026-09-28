@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pirāṉmalai, Maṅkai Pākar temple, Ukkirākirīcuvarar, king lost, year 15</title>
+                <title>Pirāṉmalai, Maṅkai Pākar temple, no king</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vija">
@@ -35,7 +35,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary>Ukkirākirīcuvarar temple.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -61,13 +61,34 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
                 
                 <p>		
-                    <lb n="1"/>ṟṟ' uḷḷiṭṭu vēṇṭum nimantaṅkaḷukku <gap reason="lost" quantity="5" unit="character" precision="low"/>
-                    <lb n="2"/>nam kaṭamaiyum Antarāyamum viṉiyōkamum <gap reason="lost" quantity="6" unit="character" precision="low"/>
-                    <lb n="3"/>p-pēṟppaṭṭaṉavum Uṭ-paṭa patiṉ aiñc-āvatu muta <gap reason="lost" quantity="4" unit="character" precision="low"/>
-                    <lb n="4"/>ya-vaḷa-nāṭṭu-k kāccuva-k-kuṭi nāṉk' ellaikk' uḷ <gap reason="lost" quantity="4" unit="character" precision="low"/>
-                    <lb n="5"/>yam kāriya-v-ārācciyum veṭṭi pāṭṭamum pañcu pīli <gap reason="lost" quantity="4" unit="character" precision="low"/>
-                    <lb n="6"/>ṟuppat' ākavum Iṭṭu variyilār ṇaḻuttiṭṭa Uḷvariyum <gap reason="lost" quantity="5" unit="character" precision="low"/>
-                    <lb n="7"/><gap reason="lost" quantity="25" unit="character" precision="low"/>		
+                    <lb n="1"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <gap reason="lost" quantity="1" unit="character" precision="low"/> ṟṟ’  uḷḷiṭṭu vēṇṭum nimantaṅkaḷukku <gap reason="lost" quantity="1" unit="character" precision="low"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    nam kaṭamaiyum Antarāyamum viṉiyōkamum <unclear cert="low">ca</unclear>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    ppēṟppaṭṭaṉavum Uṭ-paṭa patiṉ aiñc-āvatu muta <gap reason="lost" quantity="1" unit="character" precision="low"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <unclear>ya</unclear>-vaḷa-nāṭṭu-k kāccuva-k-kuṭi nāṉk’ ellaikk’ uḷ<unclear>pa</unclear>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    yam kāriya-v-ārācciyum veṭṭi pāṭṭamum pañcu pīli
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="7"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    ṟuppat’ ākavum Iṭṭu variyilār Eḻuttiṭṭa Uḷvariyum
+                    <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="8"/>
+                    <gap reason="lost" extent="unknown" unit="character"/>		
                 </p>
             </div>
             
@@ -96,9 +117,9 @@
             
             <div type="bibliography">
                 
-                <p>Reported and edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 91), with photos.</p>
+                <p>Reported and edited in <bibl><ptr target="bib:Vijayavenugopal2022_01"/></bibl> (Pirāṉmalai 91), with photo.</p>
                 
-                <p>This edition by G. Vijayavenugopal (2022). Reviewed by Emmanuel Francis (2024), based on photos (N. Ramaswamy).</p>
+                <p>This edition by G. Vijayavenugopal. Reviewed by Emmanuel Francis, based on photo (EFEO, 2012).</p>
                 
                 <listBibl type="primary">
                     

@@ -113,10 +113,10 @@
            
     <listApp>
         
-        <!--<app loc="0">
-            <lem>...</lem>
-            <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-        </app>-->
+        <app loc="0">
+            <lem></lem>
+            <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+        </app>
         
         <app loc="1">
             <lem><hi rend="grantha">raudr<unclear>i</unclear></hi>°</lem>
