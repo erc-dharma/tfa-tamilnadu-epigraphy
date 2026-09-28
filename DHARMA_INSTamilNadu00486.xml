@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Pirāṉmalai, Maṅkai Pākar temple, time of ?, year ?</title>
+                <title>Pirāṉmalai, Maṅkai Pākar temple, no year</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vija">
@@ -82,16 +82,16 @@
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-                </app> 
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                    </app> 
                 </listApp>
                 
-                </div>-->
+            </div>
             
             <!--<div type="translation" resp="part:emfr">
                 

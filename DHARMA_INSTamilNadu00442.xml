@@ -95,11 +95,11 @@
                 
                 <listApp>
                     
-                    <!--<app loc="0">
-                        <lem>...</lem>
-                        <rdg source="bib:SubrahmanyaAiyer1937_01">...</rdg>
-                        <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-                        </app>-->
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01"></rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                        </app>
                     
                     <app loc="1">
                         <lem>svasti</lem>

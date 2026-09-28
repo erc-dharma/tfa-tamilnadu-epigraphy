@@ -263,12 +263,12 @@
                 
                 <listApp>
                     
-                    <!--<app loc="0">
-                        <lem>...</lem>
-                        <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
-                        <rdg source="bib:SubrahmanyaAiyer1937_01">...</rdg>
-                        <rdg source="bib:Subbarayalu+al2002_01">...</rdg>
-                        </app> -->
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01"></rdg>
+                        <rdg source="bib:Subbarayalu+al2002_01"></rdg>
+                        </app> 
                     
                     <app loc="2">
                         <lem>vēḷā°</lem>

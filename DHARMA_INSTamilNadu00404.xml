@@ -115,12 +115,12 @@
             
             <div type="apparatus">
                 
-                <!--<listApp>
+                <listApp>
                     <app loc="0">
-                    <lem>...</lem>
-                    <rdg source="bib:Vijayavenugopal2022_01">...</rdg>
+                        <lem></lem>
+                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
                     </app> 
-                    </listApp>-->
+                </listApp>
                 
                 <listApp>
                     <app loc="9">
