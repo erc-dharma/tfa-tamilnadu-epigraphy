@@ -30,10 +30,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <summary/>
                     </msContents>
@@ -102,25 +99,25 @@
                 
                 <listApp>
                     <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:SubrahmanyaAiyer1937_01"></rdg>
-                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                        <lem/>
+                        <rdg source="bib:SubrahmanyaAiyer1937_01"/>
+                        <rdg source="bib:Vijayavenugopal2022_01"/>
                     </app>
                     <app loc="4">
                         <lem><unclear reason="eccentric_ductus">k</unclear>ōyiṟ</lem>
                         <rdg source="bib:SubrahmanyaAiyer1937_01"><unclear>k</unclear>oyiṟ</rdg>
-                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01"/>
                         <note>The <foreign>k</foreign> looks like a <foreign>kāl</foreign>.</note>
                     </app> 
                     <app loc="11">
                         <lem>°māṟṟu<supplied reason="omitted">k</supplied>ku</lem>
                         <rdg source="bib:SubrahmanyaAiyer1937_01">°māṟṟuk<supplied reason="omitted">ku</supplied></rdg>
-                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01"/>
                     </app>
                     <app loc="15">
                         <lem>A<unclear>riḷi</unclear> ceyal</lem>
                         <rdg source="bib:SubrahmanyaAiyer1937_01">Ariḷi<supplied reason="omitted">c</supplied> ceyal</rdg>
-                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                        <rdg source="bib:Vijayavenugopal2022_01"/>
                     </app>
                     
                 </listApp>

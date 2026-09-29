@@ -30,10 +30,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <summary>Seems to be the continuation of <ref target="DHARMA_INSTamilNadu00031.xml"/> and <ref target="DHARMA_INSTamilNadu00032.xml"/>. The donor's name, Dharmaputtiraṉ, may be another alias for Kāṭavarāyaṉ. This record would therefore summarise the other two endowments, which was originally intended for sacred services and food offerings, to include the expenses of temple worship <supplied reason="explanation"><foreign>arccana-bhoga</foreign></supplied>.</summary>
                     </msContents>

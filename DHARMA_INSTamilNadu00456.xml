@@ -30,10 +30,7 @@
 			</publicationStmt>
 			<sourceDesc>
 				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
+					<msIdentifier><repository>as per external metadata</repository></msIdentifier>
 					<msContents>
 						<summary/>
 					</msContents>
@@ -83,8 +80,8 @@
                 
                 <listApp>
                     <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                        <lem/>
+                        <rdg source="bib:Vijayavenugopal2022_01"/>
                     </app> 
                 </listApp>
                 

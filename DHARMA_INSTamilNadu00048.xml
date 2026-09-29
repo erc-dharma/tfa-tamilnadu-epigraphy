@@ -30,10 +30,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <summary><ptr target="bib:ARIE1939-1943"/>: <quote>Incomplete. Seems to record a gift of land to the temple of Kaiyilāsamuṭaiya-Nāyaṉār <supplied reason="subaudible">at Vaṇṇattūr</supplied>.</quote></summary>
                     </msContents>

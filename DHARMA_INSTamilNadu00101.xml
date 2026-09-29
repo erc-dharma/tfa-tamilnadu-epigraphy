@@ -30,10 +30,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <summary>A fragment recording the change of status of a land.</summary>
                     </msContents>

@@ -30,10 +30,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <summary>On a rock.</summary>
                     </msContents>
@@ -76,8 +73,8 @@
                 
                 <listApp>
                     <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                        <lem/>
+                        <rdg source="bib:Vijayavenugopal2022_01"/>
                     </app> 
                     <app loc="3">
                         <lem><unclear cert="low">ci</unclear><hi rend="grantha">ṣa</hi>r</lem>
@@ -88,8 +85,8 @@
                         <rdg source="bib:Vijayavenugopal2022_01">tēvarāṉāvar</rdg>
                     </app> 
                     <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:Vijayavenugopal2022_01"></rdg>
+                        <lem/>
+                        <rdg source="bib:Vijayavenugopal2022_01"/>
                     </app> 
                 </listApp>
                 

@@ -30,10 +30,7 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/>
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <summary>Endowment of a tank and a land for the <foreign>āṇṭār</foreign>s (devotees) who recite the <foreign>Tiruñāṉam</foreign> in the sacred hall (<foreign>tirukkaikōṭṭi</foreign>) of the temple of the Lord of the Rājendracoḷīśvara in Mummuṭicōḻanallūr. The following texts are mentioned: <foreign>Tiruñāṉam</foreign>, <foreign>Tirumuṟai</foreign> and a text, the title of which begins with <foreign>Tirukka</foreign><gap reason="lost"/>. <bibl><ptr target="bib:RamanathaAyyar1927_01"/></bibl> (p. 24) understands that the endowment applies to the reciters of the <foreign>Tiruñāṉam</foreign>, excluding the <foreign>Tirumuṟai</foreign> and the <foreign>Tirukka</foreign><gap reason="lost"/>.</summary>
                     </msContents>
