@@ -66,14 +66,14 @@
                 </ab>
                 
                 <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">		
-                    <l n="a" enjamb="yes"><lb n="1"/>E<supplied reason="lost">tat· trai</supplied><lb n="2" break="no"/>-lokya-nirmmāṇa</l>
-                    <l n="b">-<unclear>trā</unclear>ṇa<lb n="3" break="no"/>-saṁhāra-kāra<unclear>ṇa</unclear><supplied reason="lost">m·</supplied></l>
-                    <l n="c"><lb n="4"/>śāsanam· cāśvata<supplied reason="lost">m·<!--check--> śam</supplied><lb n="5" break="no"/>bho<supplied reason="omitted">ḥ</supplied></l>
+                    <l n="a" enjamb="yes">E<supplied reason="lost">taT trai</supplied><lb n="2" break="no"/>-lokya-nirmmāṇa</l>
+                    <l n="b">-<unclear>trā</unclear>ṇa<lb n="3" break="no"/>-saṁhāra-kāra<unclear>ṇa</unclear><supplied reason="lost">M</supplied></l>
+                    <l n="c"><lb n="4"/>śāsanaM cāśvata<supplied reason="lost">M śaM</supplied><lb n="5" break="no"/>bho<supplied reason="omitted">ḥ</supplied></l>
                     <l n="d">kaṭhoragiri-vā<supplied reason="lost">sinaḥ</supplied></l>
                 </lg>
                 <p>		
-                    <lb n="6"/>śakāttam <num value="14">1 <g type="numeral">10</g> 4 <gap reason="lost" quantity="2" unit="character" precision="low"/></num>
-                    <lb n="7"/>mēl cellā ni <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="6"/>śakāttam <num value="1610"><g type="numeral">1000</g> 6 <g type="numeral">100</g> <g type="numeral">100</g> <gap reason="lost" quantity="1" unit="character" precision="low"/></num>
+                    <lb n="7"/>mēl cellā <supplied reason="lost">niṉṟa</supplied>
                     <lb n="8"/>cukkila <g ref="sym:tam-varusam"/> cittirai <gap reason="lost" quantity="4" unit="character" precision="low"/>
                     <lb n="9"/><num value="15"><g type="numeral">10</g> 5</num> <g ref="sym:tam-teti"/>
                 </p>
