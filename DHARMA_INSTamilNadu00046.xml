@@ -68,10 +68,10 @@
                     I
                     <lb n="5"/><gap reason="lost" extent="unknown"/> Iṉ
                     <lb n="6" break="no"/>nāyanār-k kōyil tēva<supplied reason="lost">raṭi</supplied>yāril nācci-y-āṉa
-                    <lb n="7"/>poṟ<unclear>kōyil</unclear><note>The name referes to Chidambaram.</note>-<hi rend="check"><unclear>naṅkai ma</unclear></hi>kaḷ pūmāḻvi-y-āṉa
+                    <lb n="7"/>poṟ<unclear>kōyil naṅkai ma</unclear>kaḷ pūmāḻvi-y-āṉa
                     <lb n="8"/>Aṉa <gap reason="lost" quantity="11" unit="character"/> kattukku tiruv<choice><orig>a</orig><reg>ē</reg></choice>mpā
                     <lb n="9" break="no"/><supplied reason="omitted">vai</supplied>-k kaṭai-<unclear>k</unclear>-kāppu <supplied reason="lost">tiru</supplied>veḻucci tiruccā
-                    <lb n="10" break="no"/>kk<choice><orig>a</orig><reg>ai</reg></choice> kāṇi<supplied reason="lost"> y-āka kuṭuttu</supplied> Ivaḷ <supplied reason="lost">c<choice><sic>i</sic><corr>ī</corr></choice>paṇṭārat</supplied>
+                    <lb n="10" break="no"/>kk<choice><orig>a</orig><reg>ai</reg></choice> kāṇi <supplied reason="lost">y-āka</supplied>-k kuṭu<supplied reason="lost">t</supplied><unclear>tu</unclear> Ivaḷ <supplied reason="lost">c<choice><sic>i</sic><corr>ī</corr></choice>pa</supplied>ṇṭā<unclear>rat</unclear>
 
                 </p>
 
@@ -82,13 +82,10 @@
             <div type="apparatus">
                 <listApp>
                 <app loc="1">
-                <lem>t<unclear>i</unclear>r<unclear>i</unclear>puvaṉa-c ca<supplied reason="omitted">k</supplied>kara-va<supplied reason="omitted">t</supplied>ti</lem>
+                <lem>poṟ<unclear>kōyil naṅkai</unclear></lem>
                 <note>Reading after ASI transcript.</note>
                 </app>
-                <app loc="10">
-                     <lem>kāņi<supplied reason="lost">yāka kuṭuttu</supplied> Ivaḷ <supplied reason="lost">c<choice><sic>i</sic><corr>ī</corr></choice>paṇṭārat</supplied></lem>
-                    <note>Reading after ASI transcript</note>
-                 </app>
+         
 
                 </listApp>
                 </div>
