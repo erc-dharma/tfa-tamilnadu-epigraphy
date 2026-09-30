@@ -36,7 +36,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>. The letters <foreign>k=ku</foreign> and <foreign>ṟ</foreign> are identical.</p>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, nor between <foreign>o</foreign> and <foreign>ō</foreign>. On form of the letters <foreign>k=ku</foreign> is identical to <foreign>ṟ</foreign>. Conjunct <foreign>vi=l</foreign>.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -122,22 +122,25 @@
                     <lb n="41"/>tiṭalum cakala-camut<unclear>āya-pi</unclear> 
                     <lb n="42" break="no"/>ṟāt=tiyum Ucci-k=-kālak<unclear>=kaṭ=ṭaḷai</unclear>
                     <lb n="43" break="no"/><unclear reason="eccentric_ductus">k=ku</unclear> kiṟaya-m<choice><orig>u</orig><reg>ū</reg></choice>liyam-āka <unclear>kō</unclear>
-                    <lb n="44" break="no"/>vi<supplied reason="lost">l</supplied> paṇṭāratti<unclear>l</unclear>ē                    
+                    <lb n="44" break="no"/>vi=l paṇṭāratti<unclear>l</unclear>ē                    
                     <lb n="45"/>mutal iṭṭatu <g ref="sym:tam-pon"/> <num value="40">4 <g>10</g></num>
                 </p>
                 
                 <p>                    
                     <lb n="46"/>In-nāṟpatu po
-                    <lb n="47" break="no"/>ṉṉum kōvil pa
+                    <lb n="47" break="no"/>ṉṉu=M kōvi=l pa
                     <lb n="48" break="no"/>ṇṭārat=tilē Oru
-                    <lb n="49"/>mutal-āy mutal iṭ=ṭa <supplied reason="lost">pa</supplied>
-                    <lb n="50" break="no"/>ṭiyiṉālē Ucci-k=-kā<supplied reason="lost">lak</supplied>
-                    <lb n="51"/>kaṭṭaḷaikku cantirātitta-varai
-                    <lb n="52"/>nāyaka-cuvāmikku ka <gap reason="lost" quantity="4" unit="character" precision="low"/>
-                    <lb n="53"/>Anupavit=tu-k= kaṭavat-āka <hi rend="grantha">sa</hi>
-                    <lb n="54" break="no"/>mmatit=tu tāna-cātana <gap reason="lost" quantity="3" unit="character" precision="low"/>
-                    <lb n="55"/>tiruvamuṭaiyā mutaliyā <gap reason="lost" quantity="3" unit="character" precision="low"/>
-                    <lb n="56"/>cappaṭṭa Aṉaivaru <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="49"/>mutal-āy mutal iṭ=ṭa <supplied reason="omitted">pa</supplied>
+                    <lb n="50" break="no"/>ṭiyiṉālē Ucci-k=-kā<supplied reason="omitted">lak</supplied>
+                    <lb n="51"/>kaṭ=ṭaḷaik=ku can=tirātitta-varaik=ku maṅkai
+                    <lb n="52"/>nāyaka-cuvāmik=ku-t= ta<unclear>ṉmam-āka Āṇṭu</unclear>
+                    <lb n="53"/>Anupavit=tu-k= kaṭavat’ <unclear>ākavum
+                        
+                        Ippaṭi ca</unclear>
+                    <lb n="54" break="no"/>mmatit=tu tāna-cātanaṅ <unclear>koṭuttōm</unclear>
+                    
+                    <lb n="55"/>tiruvamuṭaiyā mutaliyā<unclear>ruk=ku muṉ pē</unclear> 
+                    <lb n="56"/>cappaṭ=ṭa Aṉaivaru<unclear>mōm Inta-t taṉma</unclear> 
                     <lb n="57" break="no"/>takku yātām oruvaṉ <gap reason="lost" quantity="3" unit="character" precision="low"/>
                     <lb n="58"/>niṉaittavaṉ keṅkai <gap reason="lost" quantity="4" unit="character" precision="low"/>
                     <lb n="59" break="no"/>-pacuvaiyum pirāmaṇa <gap reason="lost" quantity="3" unit="character" precision="low"/>
