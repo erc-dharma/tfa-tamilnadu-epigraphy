@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiruvātavūr, Tirumaṟaināta temple, time of king Māṟavarmaṉ Tribhuvana Cakravarti, year 21</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:reda">
+                        <forename>Renato</forename>
+                        <surname>Dávalos</surname>
+                    </persName>
+                </respStmt>			
+            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00076.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p>On the base of the north wall of the maṇḍapa in front of the central shrine in the Śiva temple.</p>
+                        </summary> 
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>No distinction between <foreign>e</foreign> and <foreign>ē</foreign>, <foreign>o</foreign> and <foreign>ō</foreign>.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+      </encodingDesc>
+        <revisionDesc>
+            <change who="part:reda" when="2026-03-18">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+    
+    <p>
+        <lb n="1"/><hi rend="grantha">svasti śrī</hi><gap reason="lost" unit="character" quantity="4"/> <hi rend="grantha">sanaM śāśva</hi>taM <hi rend="grantha">para</hi>M kō-māṟa-paṉmar-āṉa tiripuvaṉa-cakkaravattikaḷ cōṇāṭu koṇṭu muṭi koṇṭa cōḻa-purattu vi<hi rend="grantha">jai</hi>yāpi<hi rend="grantha">ṣe</hi>kam paṇṇiyaruḷiya <hi rend="grantha">sunda</hi>ra <hi rend="grantha">pā</hi>ṇṭiya <hi rend="grantha">de</hi>vaṟku yāṇṭu 20 vatu Etirāmāṇṭu teṉpaṟappu-nāṭṭu tiruvātavūr kuḷam <hi rend="grantha"><unclear>su</unclear></hi>ṉakku
+        
+        <lb n="2"/>nīrpāñcu nelviḷaiyum <supplied reason="lost">kaṇṭa</supplied><hi rend="grantha">bhū</hi>miyilē Ivar <supplied reason="lost">tēmāṟṟacati</supplied>rukka mūṉṟum taṭika <g ref="sym:tam-nilam"/> <g ref="sym:tam-ma" type="ideogram">@</g> </p>
+                <p>
+        Innilam oru māvum koṇṭu Amutu-paṭi cāttu-p-paṭi tirumēṟ-pūccu tiruviḷakku Aṅku vanta tiruppēṟkum tirukkai vaḻakkattukkum aṟṟaikku Aḻiya vēṇṭuvaṉa Ellāttukkum maṟṟai nam nimantaṅkaḷukkum <hi rend="grantha">candrā</hi>tittavarai celvatāka kallilum cempilum <gap reason="lost" unit="character" quantity="4"/>
+        
+        <lb n="3" break="no"/>ra<hi rend="grantha">m u</hi>ṭaiyāṉ periya mutaliyāṉa <hi rend="grantha">de</hi>vē<hi rend="grantha">ndra</hi>va<hi rend="grantha">llabhācāyaM lekhya</hi> vayaT <hi rend="grantha">jagatra</hi>ya ni<hi rend="grantha">mmā</hi>Mṇa <hi rend="grantha">trā</hi>ṇa <hi rend="grantha">saṃhāra-kāra</hi>ṇaM <hi rend="grantha">śrīma</hi>tu <hi rend="grantha">vādapūrīśasaM</hi> <hi rend="grantha">śāsa</hi>ṉam <hi rend="grantha">śāśva</hi>taM <hi rend="grantha">vara</hi>M nam tācikaḷil kuḻaiñcāḷ Aracaṉ-āṉa Ālāla cuntara naṅkaikku tāṉimakkuc ceyta-paṭi nammuṭaiya taṇṭīcaṉ ceyta-paṭi ceytāṉ tāṉ ceyta-paṭi yāvaṉa nammuṭaiya tirunīṟṟu-t toṇṭa
+        
+        <lb n="4" break="no"/>ṉ teṉṉakaṅka tēvaṉukkuc colla <unclear>nāyaṉār</unclear> <hi rend="grantha">candra</hi>ce<hi rend="grantha">kha</hi>ram-āṉ <gap reason="lost" unit="character" quantity="3"/> muṉaiyataraiyaṉ <gap reason="lost" unit="character" quantity="7"/> vītiyākkum paṭi ceyvittamaiyālum nam vītiyiṟ kiṭanta <gap reason="lost" unit="character" quantity="3"/> ṭantu nam vīti varampum ceytamaiyālum nam piḷḷai <hi rend="grantha">kṣetrapāla</hi>ṉ paṇṇuvittamaiyālum namakkum palavūrkaḷukkuñ colli tirunīṟṟu-t toṇṭaṉu<supplied reason="lost">kkum</supplied> colli vīra-pāṇṭiya nallūrkkum cēmam
+        
+        <lb n="5"/>ceyvittamaiyālum namakku <gap reason="lost" unit="character" quantity="4"/> y-eṟintu vīṭṭai kaliyāmalum mārkaḻi ātiraiyil namakku nam vātavūraṉ kō <gap reason="lost" unit="character" quantity="4"/> vai vātavūraṉ kēṭpitta nāḷ mutal nammai kēṭpippāṉa <gap reason="lost" unit="character" quantity="2"/> y-irukka atuvum namakku ceyvittamaiyālum Ivaḷ Ippaṭi ceytapaṭiyāl nammuṭaiya <hi rend="grantha">dā<unclear>sar</unclear></hi> namakkuc ceyya kaṭava urimaikaḷil I
+        
+        <lb n="6" break="no"/><gap reason="lost" unit="character" quantity="2"/> ṭākavum kuṭuttōm Ippaṭi kallilum cempilum veṭṭik koḷ <gap reason="lost" unit="character" quantity="2"/> ḷākavum kuṭuttōm nam kōvaṇavarum Ippaṭikku taṅkaḷ cattimukamum <unclear>kuṭukka</unclear> Ippaṭi ciṟappāka kuṭutta Immuṟai Ivaṉukkum Ivaḷ vaṟkattārkkum Ivaḷ va<hi rend="grantha">ṃśa</hi>ttāṟkkum kuṭuttōm Ippaṭikku tiruvāymoḻintaruḷa tirumantiravōlai Eḻuttu <gap reason="lost" unit="character" quantity="2"/> vār āyira nāṟpatteṇṇāyira-paṭṭaṉ Eḻuttu Ippaṭikku <gap reason="lost" unit="character" quantity="5"/>
+    </p>
+    
+</div>
+            
+            <!--<div type="apparatus">
+                <listApp>
+                    <app loc="A1">
+                        <lem>2=Āvatu</lem>
+                        <note>The figure <foreign>2</foreign> and the <foreign>Ā</foreign> of <foreign>Āvatu</foreign> are written as a ligature.</note>
+                    </app>
+                </listApp>
+                
+            </div>-->
+            
+            <div type="translation" resp="part:reda">
+                
+            </div>
+            
+            <div type="commentary">
+                <p>
+                    The record can be assigned to king Māṟavarmaṉ Cuntara Pāṇṭiya I (1237).
+                </p>
+                
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>First reported in <bibl><ptr target="bib:ARIE1962-1963"/></bibl> (ARIE/1962-1963/B/1962-1963/471).</p>
+                <p>This edition by Renato Dávalos, based on <bibl><ptr target="bib:Sridhar2005_01"/></bibl>.</p>
+                
+                
+                <listBibl type="primary">
+                    <bibl n="MA">
+                        <ptr target="bib:Sridhar2005_01"/>
+                        <citedRange unit="page">33–34</citedRange>
+                        <citedRange unit="item">17</citedRange>
+                    </bibl> 
+                </listBibl>
+                <listBibl type="secondary">
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1926-1927"/>
+                        <citedRange unit="page">48</citedRange>
+                        <citedRange unit="item">285</citedRange>
+                        <citedRange unit="appendix">C/1926-1927</citedRange>
+                    </bibl> 
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
