@@ -63,7 +63,7 @@
                     <lb n="2"/>vaṭa-kuḷam ciṟutu tiruntu Uḷpaṭa nilam <hi rend="check">{3 fractions}</hi>
                 </p>
                 <p>
-                    Itil <list><item>Ūr nīṅkiṉa Iṟaiyili nittal-p paṭikku tiru-ceṅkaḻ<choice><sic>aṉi</sic><corr>unīr</corr></choice> Iṭa Aṭ<choice><sic>a</sic><corr>ai</corr></choice>tta <g ref="sym:tam-nilam"/> 5 <gap reason="lost" quantity="3" unit="character"/> m</item> <item>tiru-mañcaṉam Eṭuppānukku Aṭaitta <g ref="sym:tam-nilam"/> m <hi rend="check">{1 fraction}</hi> 1/5 m</item></list>
+                    Itil <list><item>Ūr nīṅkiṉa Iṟaiyili nittal-p paṭikku tiru-ceṅkaḻ<choice><sic>aṉi</sic><corr>unīr</corr></choice> Iṭa Aṭ<choice><sic>a</sic><corr>ai</corr></choice>tta <g ref="sym:tam-nilam"/> 5 <gap reason="lost" quantity="3" unit="character"/> m</item> <item>tiru-mañcaṉam Eṭuppānukku Aṭaitta <g ref="sym:tam-nilam"/> m <hi rend="check">{1 fraction}</hi> <g type="numeral">1/5</g> m</item></list>
                 </p>
                 
                 <p>
@@ -105,8 +105,8 @@
                         <rdg source="bib:Patmavati1979_01 bib:Gillet2024_01">Aṭatta</rdg>
                     </app>
                     <app loc="2">
-                        <lem><hi rend="check">{1 fraction}</hi> 1/5</lem>
-                        <note><ptr target="bib:Gillet2024_01"/>: <quote>There are 2 symbols which may represent fractions: 1/4 and 1/32.</quote> The second symbol is 1/5.</note>
+                        <lem><hi rend="check">{1 fraction}</hi> <g type="numeral">1/5</g></lem>
+                        <note><ptr target="bib:Gillet2024_01"/>: <quote>There are 2 symbols which may represent fractions: <g type="numeral">1/4</g> and <g type="numeral">1/32</g>.</quote> The second symbol is <g type="numeral">1/5</g>.</note>
                     </app>
                     <app loc="2">
                         <lem>Uṭalāka</lem>

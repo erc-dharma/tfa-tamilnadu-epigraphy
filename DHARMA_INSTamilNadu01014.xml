@@ -164,8 +164,8 @@
                 </p>
                 <p>
                     Arumoḻi-tēva-<unclear>va</unclear>
-                    <lb n="29" break="no"/>ḷanāṭṭu puṟaṅ-karampai-nāṭṭu veṅkūr-k-kaḷa-tiru-k-kaḷar <hi rend="grantha">mahā-de</hi>var <hi rend="grantha">de</hi>vatānam nilam 1/2
-                    <lb n="30"/><num value="19.266"><unclear><g type="numeral">10</g></unclear> 9 1/4 1/80 <unclear>1/320</unclear></num>
+                    <lb n="29" break="no"/>ḷanāṭṭu puṟaṅ-karampai-nāṭṭu veṅkūr-k-kaḷa-tiru-k-kaḷar <hi rend="grantha">mahā-de</hi>var <hi rend="grantha">de</hi>vatānam nilam <g type="numeral">1/2</g>
+                    <lb n="30"/><num value="19.266"><unclear><g type="numeral">10</g></unclear> 9 <g type="numeral">1/4</g> <g type="numeral">1/80</g> <unclear><g type="numeral">1/320</g></unclear></num>
                 </p>
                 <p>
                     <supplied reason="omitted">I</supplied><choice><orig>nṉ</orig><reg>n-n</reg></choice>ilam vaḷai<unclear>yi</unclear>ṟ cuṟṟu mik<choice><sic>i</sic><corr>u</corr></choice>ti-k-kuṟaivu Uḷḷ-aṭaṅka <g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
@@ -189,9 +189,9 @@
                         <rdg source="bib:KrishnaSastri1929_01">intirātaṉai</rdg>
                     </app>
                     <app loc="30">
-                        <lem><num value="19.266"><unclear><g type="numeral">10</g></unclear> 9 1/4 1/80 <unclear>1/320</unclear></num> <supplied reason="omitted">I</supplied><choice><orig>nṉ</orig><reg>nn</reg></choice>ilam</lem>
+                        <lem><num value="19.266"><unclear><g type="numeral">10</g></unclear> 9 <g type="numeral">1/4</g> <g type="numeral">1/80</g> <unclear><g type="numeral">1/320</g></unclear></num> <supplied reason="omitted">I</supplied><choice><orig>nṉ</orig><reg>nn</reg></choice>ilam</lem>
                         <rdg source="bib:KrishnaSastri1929_01"><num value="19"><g type="numeral">10</g> 9</num> <hi rend="grantha">kha ma pa</hi> nṉilam</rdg>
-                        <note><ptr target="bib:KrishnaSastri1929_01"/> translates the number as <q>1/2 (<hi rend="italic">vēli</hi>) 19 1/4, 1/160 and . . .</q> and notes: <q>Here is a figure resembling <foreign><hi rend="grantha">pa</hi></foreign>.</q> We see a figure the left part of which is like a <foreign><hi rend="grantha">pa</hi></foreign> and the right part like a <foreign>t</foreign>, that is, 1/320.</note>
+                        <note><ptr target="bib:KrishnaSastri1929_01"/> translates the number as <q><g type="numeral">1/2</g> (<hi rend="italic">vēli</hi>) 19 <g type="numeral">1/4</g>, <g type="numeral">1/160</g> and . . .</q> and notes: <q>Here is a figure resembling <foreign><hi rend="grantha">pa</hi></foreign>.</q> We see a figure the left part of which is like a <foreign><hi rend="grantha">pa</hi></foreign> and the right part like a <foreign>t</foreign>, that is, <g type="numeral">1/320</g>.</note>
                     </app>
                     
                 </listApp>

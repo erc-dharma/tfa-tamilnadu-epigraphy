@@ -83,7 +83,7 @@
                     <lb n="22"/><hi rend="check">Uṅa 6 U E 6 U</hi> te
                     <lb n="23"/>ttiyōtaṉam <hi rend="check">kli</hi>
                     <lb n="24"/><hi rend="check">ma t</hi> tayir <unclear reason="eccentric_ductus">1</unclear><!--EF: looks like ta--> k=ku <hi rend="check">pu </hi> <g ref="sym:tam-ulakku" type="ideogram">@</g>
-                    <lb n="25"/>ney <unclear cert="low">1/2</unclear> k=ku pu <unclear cert="low">1/2</unclear> kaṟi-A
+                    <lb n="25"/>ney <unclear cert="low"><g type="numeral">1/2</g></unclear> k=ku pu <unclear cert="low"><g type="numeral">1/2</g></unclear> kaṟi-A
                     <lb n="26"/>mutu <hi rend="check">ru pu</hi> <g ref="sym:tam-mukkuruni" type="ideogram">@</g> miḷaku
                     <lb n="27"/>ya <gap reason="lost" quantity="3" unit="character"/> cukku <hi rend="check">lai</hi>
                     <lb n="28"/><hi rend="check">U k=ku pu �</hi> yiḷanir <hi rend="check">ru pa</hi>
@@ -93,12 +93,12 @@
                     <lb n="32"/>tiru-p-paṇiyāram <hi rend="check">�</hi>
                     <lb n="33"/><hi rend="check">la ṅa k=ku pu <gap reason="lost" quantity="1" unit="character"/></hi> pāṉakkam
                     <lb n="34"/>vellam <hi rend="check">ṅa</hi> Aṭai
-                    <lb n="35" break="no"/>-k-kāy-Amutu <hi rend="check">pu<!--RD: nel?--> 1/4 <unclear>1/80</unclear> ?</hi> ti
+                    <lb n="35" break="no"/>-k-kāy-Amutu <hi rend="check">pu<!--RD: nel?--> <g type="numeral">1/4</g> <unclear><g type="numeral">1/80</g></unclear> ?</hi> ti
                     <lb n="36"/><gap reason="lost" quantity="9" unit="character"/> Ōla
                     <lb n="37"/>kkam <hi rend="check">Eṅa ṅa</hi> nimant
                     <lb n="38"/>āḷukku <hi rend="check">pu ka</hi> Eri-karum
                     <lb n="39"/>pukku <hi rend="check">pu �</hi> Āka ṉāḷ 1 k=ku
-                    <lb n="40"/>cilavu <hi rend="check">pu 10 � kli kā lai</hi>
+                    <lb n="40"/>cilavu <hi rend="check">pu <g type="numeral">10</g> � kli kā lai</hi>
                     <lb n="41"/><hi rend="check">k=ku Iḷai la ka ṅa pu U</hi> <g ref="ulakku" type="ideogram">@</g>
                     <lb n="42"/><g ref="sym:tam-mukkuruni" type="ideogram">@</g> <hi rend="check">E mā ṅa ru ha kku pu</hi>
                     <lb n="43"/>ka kku <hi rend="check">E</hi> vilai <hi rend="check">ru</hi>
