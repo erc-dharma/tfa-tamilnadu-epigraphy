@@ -28,7 +28,7 @@
                 <msDesc>
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
-                        <summary>Four inscribed stones / pieces, preserved in the Krishnapuram Palace Museum in Kāyaṅkuḷam </summary> 
+                        <summary>Four inscribed stones / pieces, preserved in the Krishnapuram Palace Museum in Kāyaṅkuḷam. About 12th century according to <ptr target="bib:ASI"/> transcript.</summary> 
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -57,6 +57,12 @@
                         <lb n="A1"/><hi rend="grantha">svasti śrī</hi>
                     </ab>
                     
+                    <p>
+                        kōvātticaṅ
+                        <lb n="A2"/><unclear>kō</unclear>tai <gap reason="lost" quantity="3" unit="character"/> kkut <gap reason="lost" quantity="3" unit="character"/> ḻutti
+                        <lb n="A3"/>ṭṭu ce<unclear>llā</unclear> niṉṟa yāṇṭu ...
+                    </p>
+                    
                 </div>
                 
                 <div type="textpart" n="B"><head>Piece II</head>
@@ -70,7 +76,9 @@
                 <div type="textpart" n="C"><head>Piece III</head>
                     
                     <ab>
-                        <lb n="C1"/>
+                        <lb n="C1"/><gap reason="lost" quantity="4" unit="character"/> laimai-viruttiyum
+                        <lb n="C2"/>pāratamum niruttappuṟamum cā
+                        <lb n="C3"/>nti-viruttiyum kaḻi ...
                     </ab>
                     
                 </div>
