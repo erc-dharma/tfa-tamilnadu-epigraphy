@@ -16,7 +16,7 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
@@ -39,8 +39,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2025-10-02" status="draft">Creation of the file</change>
         </revisionDesc>
@@ -55,29 +55,36 @@
                 </ab>
                 
                 <p>
-                    kō-p-para-kēcari-paṉmar-āṉa <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-tēvarkku yāṇṭu 3 Āvatu
-                </p>
+                    kō-p-para-kēcari-pa<hi rend="grantha">nma</hi>r-āṉa <hi rend="grantha">śrī</hi>-rā<hi rend="grantha">jen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>-cōḻa-tēvarku yāṇṭu 3 Āvatu
+                </p>  
                 
                 <p>
-                    <hi rend="grantha">kṣatri</hi>ya-cikāmaṇi-vaḷanāṭṭu <gap reason="lost" quantity="8" unit="character"/> paṭṭiṉak <gap reason="lost" quantity="8" unit="character"/> rōṇa <gap reason="lost" quantity="8" unit="character"/> veḷḷi-t-ti
-                    <lb n="2" break="no"/>ru-mēṉi nākai-y-aḻakaṟku <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">jai</hi>yatt' araiyar kaṉmi rā<hi rend="grantha">ja</hi>rā<hi rend="grantha">ja</hi>-maṇṭalattu kīṭcempiṉāṭṭu mēṉṟōṉṟi-paṭṭiṉat <gap reason="lost" quantity="10" unit="character"/> yvitta <hi rend="grantha">kṣe</hi> <gap reason="lost" quantity="6" unit="character"/> ca <gap reason="lost" quantity="4" unit="character"/> niṟai <unclear>po</unclear>
-                    <lb n="3" break="no"/>ṉ patiṉ nāl kaḻanc' arai
+                    <hi rend="grantha">kṣatri</hi>ya-ci<hi rend="grantha">khā</hi>maṇi-vaḷanāṭṭu <gap reason="lost" quantity="8" unit="character"/> paṭṭiṉa<!--paṭṭiṉak--> <gap reason="lost" quantity="10" unit="character" precision="low"/> <hi rend="check">rōṇa <gap reason="lost" quantity="8" unit="character"/></hi> veḷḷi-t-ti
+                    
+                    <!--paṭṭiṉa-k-kūṟṟattu nāka-paṭṭiṉattu tiru-k-kārōṇam-uṭaiya-->
+                    
+                    <lb n="2" break="no"/>ru-mēṉi nākai-y-aḻakaṟku <hi rend="grantha">śrī</hi>-vi<hi rend="grantha">jai</hi>yatt’ araiyar ka<hi rend="grantha">nmi rājarāja</hi>-maṇṭalattu kīṭcempiṉāṭṭu mēṉṟōṉṟi-paṭṭiṉat <gap reason="lost" quantity="10" unit="character" precision="low"/> <unclear>c</unclear><supplied reason="lost">e</supplied>yvitta <hi rend="check"><hi rend="grantha">kṣe</hi> <gap reason="lost" quantity="6" unit="character"/></hi> ca niṟai <unclear>po</unclear>
+                    <lb n="3" break="no"/>ṉ patiṉ nāl kaḻanc’ arai
                 </p>
                 <p>
-                    Itil vīra-paṭṭattu-k kaṭṭiṉa cāti māṇikkam patiṉ oṉru
-                    naṭuvil makarattu naṭuvu kaṭṭiṉa marakata <gap reason="lost" quantity="14" unit="character"/> ṉa māṇik <gap reason="lost" quantity="13" unit="character"/> <unclear>upāya</unclear>
+                    Itil vīra-paṭṭattu-k kāṭṭiṉa cāti māṇikkam patiṉ oṉru
+                    naṭu<supplied reason="lost">vi</supplied>l makarattu naṭuvu kaṭṭiṉa marataka<!--marakata--> <gap reason="lost" quantity="10" unit="character" precision="low"/> ṉa māṇik <gap reason="lost" quantity="7" unit="character" precision="low"/> <hi rend="check"><unclear>upāya</unclear></hi> <gap reason="lost" quantity="2" unit="character" precision="low"/>
                     <lb n="4" break="no"/>ṭiṉa māṇikkam m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟu 
-                    Itiṉ mēl vāy kaṭṭiṉa paccai makarattiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻvāy kaṭṭiṉa māṇikkam Añcu
-                    Itiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻvāy kaṭṭiṉa caṟpamotti valapakkat<unclear>tu vaṭṭappūvil</unclear> kaṭṭiṉa mara <gap reason="lost" quantity="4" unit="character"/>
+                    Itiṉ mēl vāy-k kaṭṭiṉa paccai 1
+                    makarattiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻvāy ka<supplied reason="lost">ṭṭi</supplied>ṉa māṇikkam Añcu
+                    Itiṉ k<choice><orig>i</orig><reg>ī</reg></choice>ḻvāy kaṭṭiṉa caṟpamotti 1
+                    valapakkat<unclear>tu vaṭṭappūvil</unclear> kaṭṭiṉa mā<!--mara--> <gap reason="lost" quantity="2" unit="character" precision="low"/>
                     <lb n="5"/>Ēḻu
                     Iṭa-p-pakkattu vaṭṭappūvil kaṭṭiṉa māṇikkam Ēḻu
-                    piṉpil paruttakkuṟaḷil kaṭṭiṉa māṇikkam nālu
-                    makāmaṇi-y-āka-k kaṭṭiṉa māṇikkam cāti mākkallu nāṟpa <gap reason="lost" quantity="6" unit="character"/> veṟṟi <gap reason="lost" quantity="5" unit="character"/>
-                    <lb n="6" break="no"/>m-āka niṟai Āṟu mañcāṭi kalluṭpaṭa kācu niṟai patināṟ-k kaḻañcē mukkālē mañcāṭi
+                    piṉpil paruttikkuṟaḷil kaṭṭiṉa m<supplied reason="lost">ā</supplied>ṇikkam nālu
+                    ci<hi rend="grantha">khā</hi>maṇi-y-āka-k kaṭṭiṉa māṇikkam cāti 1
+                    mākkallu nāṟpa <gap reason="lost" quantity="4" unit="character" precision="low"/> veṟṟi <gap reason="lost" quantity="2" unit="character" precision="low"/>
+                    <lb n="6" break="no"/>m-āka niṟai Āṟu mañcāṭi kalluṭpaṭa kā<unclear reason="eccentric_ductus">cu</unclear> niṟai patināṟ-k kaḻañcē mukkālē ma<supplied reason="omitted">ñ</supplied>cāṭi
                 </p>
                 <p>
-                    Ip-paricu kalveṭṭuka v-eṉṟu Ivv-āṇṭu <hi rend="grantha">śrī</hi>-kāriyañ ceykiṉṟa Arumo <gap reason="lost" quantity="6" unit="character"/> nāṭṭu <gap reason="lost" quantity="5" unit="character"/>
-                    <lb n="7" break="no"/>-ka <gap reason="lost" quantity="5" unit="character"/>rattu kaṇṭiyūr-uṭayār cēntaṉ ca <gap reason="lost" quantity="4" unit="character"/> It-tēva-kaṉmikaḷum colla-k kalveṭṭiṉēṉ nākapaṭṭiṉattu Ēṟaṉ caṭaiyāṉ-āṉa tēvar kaṇṭācāriyaṉēṉ <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g>                    
+                    Ip-paricu kalveṭṭuka v-eṉṟu Ivv-āṇṭu <hi rend="grantha">śrī</hi>-kāriyañ ceykiṉṟa Arumo<supplied reason="lost">ḻi</supplied> <gap reason="lost" quantity="2" unit="character" precision="low"/> nāṭṭu <gap reason="lost" quantity="2" unit="character" precision="low"/>
+                    <lb n="7" break="no"/>-k-kū<unclear>ṟṟa</unclear>ttu <!--ka <gap reason="lost" quantity="2" unit="character" precision="low"/>rattu--> <unclear>ka</unclear>ṇṭiyūr-uṭai<unclear>yā</unclear>r cēntaṉ ca <gap reason="lost" quantity="15" unit="character" precision="low"/> It-tē<supplied reason="lost">va-ka<hi rend="grantha">n</hi></supplied><hi rend="grantha">mi</hi>kaḷum colla-k kalveṭṭiṉēṉ nākapaṭṭiṉattu Ēṟaṉ caṭaiyāṉ-āṉa <supplied reason="lost">tē</supplied>
+                    <lb n="8" break="no"/><unclear>var ka</unclear>ṇṭācāriyaṉēṉ <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g>                    
                 </p>
                 
             </div>	
@@ -107,56 +114,56 @@
                         <lem source="bib:Karashima+Subbarayalu2009_01"><hi rend="grantha">kṣatri</hi>yacikāmaṇi°</lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01"><hi rend="grantha">kṣatra</hi>ci<hi rend="grantha">khā</hi>maṇi°</rdg>
                     </app>
-                     
+                    
                     <app loc="1">
                         <lem source="bib:Karashima+Subbarayalu2009_01"><gap reason="lost" quantity="8" unit="character"/> paṭṭiṉak <gap reason="lost" quantity="8" unit="character"/> rōṇa <gap reason="lost" quantity="8" unit="character"/> veḷḷitti</lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01"><gap reason="lost" quantity="6" unit="character"/> veḷḷitti</rdg>
                     </app>
-                     
+                    
                     <app loc="2">
                         <lem source="bib:Karashima+Subbarayalu2009_01">kaṉmi</lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01">ka<hi rend="grantha">nmi</hi></rdg>
                     </app>
-                     
+                    
                     <app loc="2">
                         <lem source="bib:Karashima+Subbarayalu2009_01">kīṭcempiṉāṭṭu</lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01">kīṭccempiṉāṭṭu</rdg>
                     </app>
-                     
+                    
                     <app loc="2">
                         <lem source="bib:Karashima+Subbarayalu2009_01">mēṉṟōṉṟipaṭṭiṉat <gap reason="lost" quantity="10" unit="character"/> yvitta <hi rend="grantha">kṣe</hi> <gap reason="lost" quantity="6" unit="character"/> ca <gap reason="lost" quantity="4" unit="character"/> niṟai <unclear>po</unclear><lb n="3" break="no"/>ṉ</lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01">mēṉṟōṉṟipaṭṭiṉattu <gap reason="lost" quantity="6" unit="character"/> niṟai <gap reason="lost" quantity="6" unit="character"/><lb n="3" break="no"/>ṉ</rdg>
                     </app>
-                     
+                    
                     <app loc="3">
                         <lem source="bib:Karashima+Subbarayalu2009_01">kaṭṭiṉa marakata <gap reason="lost" quantity="14" unit="character"/> ṉa māṇik <gap reason="lost" quantity="13" unit="character"/> <unclear>upāya</unclear>
-                    <lb n="4" break="no"/>ṭiṉa</lem>
+                            <lb n="4" break="no"/>ṭiṉa</lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01">kaṭṭiṉa māṇik <gap reason="lost" quantity="6" unit="character"/>
-                    <lb n="4" break="no"/>ṉa</rdg>
+                            <lb n="4" break="no"/>ṉa</rdg>
                     </app>
-                     
+                    
                     <app loc="4">
                         <lem source="bib:Karashima+Subbarayalu2009_01">paccai</lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01">paccai 1</rdg>
                     </app>
-                     
+                    
                     <app loc="4">
                         <lem source="bib:Karashima+Subbarayalu2009_01">kīḻvāyk <gap reason="lost" quantity="8" unit="character"/> ṉa māṇikkam</lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01">kiḻvāy kaṭṭiṉa māṇikkam</rdg>
                     </app>
-                     
+                    
                     <app loc="4">
                         <lem source="bib:Karashima+Subbarayalu2009_01">caṟpamotti</lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01">ca <gap reason="lost" quantity="6" unit="character"/> potti</rdg>
                     </app>
-                     
+                    
                     <app loc="4">
                         <lem source="bib:Karashima+Subbarayalu2009_01">valapakkat<unclear>tu vaṭṭappūvil</unclear> kaṭṭiṉa mara <gap reason="lost" quantity="4" unit="character"/>
-                    <lb n="5" break="no"/>Ēḻu</lem>
+                            <lb n="5" break="no"/>Ēḻu</lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01">valapakkattu vaṭṭappū <gap reason="lost" quantity="6" unit="character"/>
-                    <lb n="5"/>m Ēḻu</rdg>
+                            <lb n="5"/>m Ēḻu</rdg>
                     </app>
-                     
+                    
                     <app loc="5">
                         <lem source="bib:Karashima+Subbarayalu2009_01">piṉpil </lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01">piṉṉāl</rdg>
@@ -175,10 +182,10 @@
                     <app loc="5">
                         <lem source="bib:Karashima+Subbarayalu2009_01">māṇikkam cāti mākkallu nāṟpa <gap reason="lost" quantity="6" unit="character"/> veṟṟi <gap reason="lost" quantity="5" unit="character"/>
                             
-                    <lb n="6" break="no"/>m-āka</lem>
+                            <lb n="6" break="no"/>m-āka</lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01">māṇikka <gap reason="lost" quantity="6" unit="character"/> catti 1
-                    mākkallu nāṟpa <gap reason="lost" quantity="6" unit="character"/>
-                    <lb n="6" break="no"/>m-āka</rdg>
+                            mākkallu nāṟpa <gap reason="lost" quantity="6" unit="character"/>
+                            <lb n="6" break="no"/>m-āka</rdg>
                     </app>
                     
                     <app loc="6">
@@ -247,8 +254,11 @@
                     Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>, with facsimile.
                     Edited (with many variants different line-split) and translated in <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl> (pp. 276-277).
                 </p>
-                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl>. The extent of lacunae in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> is very approximate. The distinction between initial and medial vowels, and between Grantha and Tamil letters could not be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.</p>
-                <p>ASI estampage and transcript yet to be consulted.</p>
+                <p>This revised edition by Emmanuel Francis, based on ASI estampage available on BharatSHRI.</p>
+                    
+                    
+                    <!--<bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and <bibl><ptr target="bib:Karashima+Subbarayalu2009_01"/></bibl>. The extent of lacunae in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> is very approximate. The distinction between initial and medial vowels, and between Grantha and Tamil letters could not be implemented with full confidence. The present digital edition is thus provisional and should be revised with proper visual documentation.-->
+                
                 
                 <listBibl type="primary">
                     
