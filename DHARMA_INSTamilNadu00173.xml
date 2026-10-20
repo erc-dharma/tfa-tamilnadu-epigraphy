@@ -28,7 +28,7 @@
                 <msDesc>
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
-                        <summary>About 10th century according to <ptr target="bib:ASI"/> transcript. About 12th century according to <ptr target="bib:ASI"/> transcript</summary> 
+                        <summary>About 10th century according to <ptr target="bib:ASI"/> transcript.</summary> 
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -51,39 +51,26 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:vernacular">
                 
-                <div type="textpart" n="A"><head>Piece I</head>
-                    
-                    <ab>
-                        <lb n="A1"/><hi rend="grantha">svasti śrī</hi>
-                    </ab>
-                    
-                </div>
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
                 
-                <div type="textpart" n="B"><head>Piece II</head>
-                    
-                    <ab>
-                        <lb n="B1"/>
-                    </ab>
-                    
-                </div>
+                <p>                    
+                   puriyaṉūr mukkāl vaṭṭat
+                    <lb n="2" break="no"/>tuk kūṭi y-ūrār Avirōtattāṟ cey
+                    <lb n="3" break="no"/>ta kaccam āvatu
+                </p>
                 
-                <div type="textpart" n="C"><head>Piece III</head>
-                    
-                    <ab>
-                        <lb n="C1"/>
-                    </ab>
-                    
-                </div>
-                
-                <div type="textpart" n="DB"><head>Piece II</head>
-                    
-                    <ab>
-                        <lb n="D1"/>
-                    </ab>
-                    
-                </div>
-                
-                
+                <p>
+                    paṭāriyār-uṭaiya nicca
+                    <lb n="4" break="no"/>ṉa vaiyāyuḷḷavai paṭaikkum patuṇ niru
+                    <lb n="5" break="no"/>māliyamum nantā-viḷakkum Oḷukka
+                    <lb n="6" break="no"/>viyum nāḷ paṅkum pāratamun kū
+                    <lb n="7" break="no"/>ttum paliyum taccum ivai Oṉpatum
+                    <lb n="8"/>vilakkapeṟār vilakkuvō<unclear>r</unclear>
+                    <lb n="9"/>mūḻikkaḷatt’ oḻukka viccava
+                    <lb n="10" break="no"/>ttai piḻaiccōr āvōr Aṟamuṅ kūṭ<unclear cert="low">ār</unclear>
+                </p>
             </div>
             
             <div type="apparatus">
@@ -92,18 +79,16 @@
             
             <div type="translation" resp="part:emfr">
                 
-                <div type="textpart" n="A"><head>Piece I</head>
-                    <p n="1">Prosperity! Fortune!</p>
-                </div>
+                <p n="1">Prosperity! Fortune!</p>
                 
-                <div type="textpart" n="B"><head>Piece II</head>
-                </div>
+                <p n="1-3">This is the agreement that the members of village assembly <supplied reason="explanation"><foreign>ūrār</foreign></supplied> made amicably having assembled ...</p>
                 
-                <div type="textpart" n="C"><head>Piece III</head>
-                </div>
+                <p n="2-3">There is a land that 
+                    ...
+                    gave after purchase as a <foreign>bhārata-vṛtti</foreign>.
+                </p>
                 
-                <div type="textpart" n="D"><head>Piece IV</head>
-                </div>
+                <p n="4">...</p>
                 
             </div>
             
@@ -113,7 +98,7 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1970-1971"/></bibl> (ARIE/1970-1971/B/1970-197/65).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1975-1976"/></bibl> (ARIE/1975-1976/B/1975-1976/152).</p>
                 <p>This edition by Emmanuel Francis based on ASI estampage and transcript available on BharatSHRI.</p>                
                 
                 <listBibl type="primary">
@@ -124,10 +109,10 @@
                 
                 <listBibl type="secondary">
                     <bibl n="ARIE">
-                        <ptr target="bib:ARIE1970-1971"/>
-                        <citedRange unit="page">40</citedRange>
-                        <citedRange unit="appendix">B/1970-1971</citedRange>
-                        <citedRange unit="item">65</citedRange>                        
+                        <ptr target="bib:ARIE1975-1976"/>
+                        <citedRange unit="page">60</citedRange>
+                        <citedRange unit="appendix">B/1975-1976</citedRange>
+                        <citedRange unit="item">152</citedRange>                        
                     </bibl> 
                 </listBibl>
                 
