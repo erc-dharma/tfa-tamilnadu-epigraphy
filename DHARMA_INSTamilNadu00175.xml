@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Śrīvillipputtūr, Perumāḷ temple, time of Kōṉēriṉmaikoṇṭāṉ, year 23</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>                    
+                </respStmt>			
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00175.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
+                    <msContents>
+                        <summary></summary> 
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2026-10-21">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                
+                <p>                    
+                    <hi rend="grantha">prasāda</hi>ñ ceyt-aruliṉa tiru-muka-p-paṭi kaḷveṭṭu
+                </p>
+                <p>
+                    cēṉai mutaliyār kōyilukku-<supplied reason="lost">t te</supplied>ṉ-mēṟku <hi rend="grantha">A</hi>n=ta<hi rend="grantha">rāḷa-bhi</hi>t=tiyil veṭṭiṉa kaḷvettu
+                </p>
+                <p>
+                    Ik-kōyil puṟaccāraṇaiyilē maṟaikiyāl Itu paṭi y-eṭuttu-k kalveṭṭiṉa paṭi
+                </p>
+                <p>
+                    <hi rend="grantha">tribhu</hi>vaṉa-<hi rend="grantha">c-cakra</hi>vat=ti kōṉēriṉmaikoṇṭāṉ                    
+                </p>
+                
+                <p>
+                    tiru-malli-nāṭṭu <hi rend="grantha">brahmade</hi>yam <hi rend="grantha">śrī</hi>-villiputtūr <hi rend="grantha">brāhma</hi>ṇar <hi rend="check">perayūr</hi> pāḻpaṭukaiyāl Ivv-ūr <hi rend="grantha">sam<supplied reason="omitted">·</supplied>hari</hi>ttu ve<hi rend="grantha">da</hi>mum <hi rend="grantha">śāstra</hi>mum <hi rend="check">poy</hi> <hi rend="grantha">vyākhyā</hi>tarkkaḷ āy-irukkum catu<hi rend="grantha">rvvedi-bha</hi>ṭṭarkaḷ pēr nūṟṟ’ eṭṭukku paṅku nūṟṟ’ eṭṭum
+                </p>
+                
+                <p>
+                    <list>
+                        <item>ve<hi rend="grantha">da-vṛ</hi>
+                            <lb n="2" break="no"/>t=ti paṅku nālum</item>
+                        <item><hi rend="grantha">śrī-rāmā</hi>yaṇa-<hi rend="grantha">vṛ</hi>t=ti paṅku Oṉṟum</item>
+                        <item><hi rend="grantha">mahābhāra</hi>ta-vṛt=ti paṅku Oṉṟum</item>
+                        <item><hi rend="grantha">jyo</hi>ti<hi rend="grantha">ṣa</hi>-vṛt=ti paṅku O<supplied reason="lost">ṉ</supplied>ṟum</item>
+                        <item><hi rend="grantha">vaidya-vṛ</hi>t=ti paṅku Oṉṟum</item>
+                        <item>paṇ-icai-<hi rend="grantha">vṛ</hi>t=ti paṅku Āṟum</item>
+                    </list>
+                    
+                    Āka-p
+                    paṅku nūṟṟ’ irupatt’ iraṇṭukku I-<hi rend="grantha">śrī</hi>-villiputtūr nāṉk’ ellaikk’ uṭpaṭṭa naṉ-cey puṉ-cey karuñ-ceyum nattamum nattappārum tōṭṭamum tōṭṭa-k-kollaikaḷum kuḷamum kuḷa-p-parippum kiṇaṟukaḷum maṟṟum e<choice><sic>ṟ</sic><corr>p</corr></choice>pērpaṭṭa <hi rend="grantha">samasta-prāpti</hi>kaḷum Iru-pattu m<choice><orig>u</orig><reg>ū</reg></choice>ṉṟ-āvatu nāḷ Eṇpatu varai-y-uḷḷa tēvatāṉam tiruviṭaiyāṭṭam paḷḷiccantam vaṭa-peruṅ-kōyil
+                    <lb n="3"/>Uṭaiyāṉukkum cūṭi-k kuṭutt-aruḷiya nācciyāṟkum periyāḻvāṟkum Ivv-ūr <hi rend="grantha">brāhma</hi>ṇar pakkal vilaiyum āññātiyuṅ koṇṭum <hi rend="grantha">dā</hi>nam peṟṟum uṇṭāṉavai n<choice><orig>i</orig><reg>ī</reg></choice>kki n<choice><orig>i</orig><reg>ī</reg></choice>kki-y-uḷḷa 
+                    cey puṉ-cey karuñ-cey nattamum nattappārum tōṭṭamum tōṭṭa-k-kollaikaḷum kuḷamum kuḷa-p-parippum kiṇaṟukaḷum maṟṟum eppērpaṭṭa <hi rend="grantha">samasta-prāpti</hi>kaḷu<supplied reason="omitted">m</supplied> muṉṉ-uṭaiyārum paḻam perumuḻavu<surplus>i</surplus>m mutalil tavittu or-oru purav’ ākki vaṭa-peruṅ-kōyil-uṭaiyaṉukkum cūṭi-k kuṭutt-āruḷiya nācciyāṟkum periyāḻvāṟkum tiruviṭaiyāṭṭam ākki nam pōl co
+                    <lb n="4" break="no"/>⌉ṉai veṉṟa pāṇṭiya-c-catu<hi rend="grantha">rvvedi</hi>maṅkalam eṉṟu <hi rend="grantha">grāma</hi>m vaikka-p peṟa vēṇum eṉṟum ippaṭi
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                <listApp>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:ASI"></rdg>
+                    </app>
+                    
+                    <app loc="1">
+                        <lem>perayūr</lem>
+                        <rdg source="bib:ASI">periyūr</rdg>
+                    </app>
+                    <app loc="1">
+                        <lem>poy</lem>
+                        <rdg source="bib:ASI">periya</rdg>
+                    </app>
+                </listApp>
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">Prosperity! Fortune!</p>
+                
+                <p n="1"><supplied reason="subaudible">This is</supplied> an inscription according to an order graciously made as a favour.</p>
+                
+                <p n="1"><supplied reason="subaudible">This is</supplied> an inscription engraved on the wall <supplied reason="explanation"><foreign>bhitti</foreign></supplied> of the <foreign>antarāla</foreign> ...
+                </p>
+                
+                <p n="1"><supplied reason="subaudible">This is</supplied> a copy <supplied reason="explanation"><foreign>paṭi</foreign></supplied> engraved ...</p>
+                
+                <p n="1"></p>
+                
+            </div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1926-1927"/></bibl> (ARIE/1926-1927/B/1926/533).</p>
+                <p>This edition by Emmanuel Francis based on ASI estampage and transcript available on BharatSHRI.</p>                
+                
+                <listBibl type="primary">
+                    <bibl n="ASI">
+                        <ptr target="bib:ASI"/>
+                    </bibl> 
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl n="ARIE">
+                        <ptr target="bib:ARIE1926-1927"/>
+                        <citedRange unit="page">10</citedRange>
+                        <citedRange unit="appendix">B/1926</citedRange>
+                        <citedRange unit="item">533</citedRange>                        
+                    </bibl> 
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
