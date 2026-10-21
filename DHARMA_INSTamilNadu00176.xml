@@ -56,13 +56,44 @@
                 </ab>
                 
                 <p>
-                    <hi rend="grantha">tribhu</hi>vaṉa-<hi rend="grantha">c-cakra</hi>vat=ti kōṉē <gap reason="lost"/>                   
+                    <lb n="2"/><hi rend="grantha">tribhu</hi>vaṉa-<hi rend="grantha">c-cakra</hi>vat=ti kōṉē<supplied reason="lost">riṉmaikoṇṭāṉ</supplied> <gap reason="lost"/>
+                    <lb n="3"/><space type="vacat" quantity="4" unit="character"/> <surplus>t</surplus>ttūr <hi rend="grantha">bra<choice><sic>hama</sic><corr>hma</corr></choice></hi> <gap reason="lost"/>
+                    <lb n="4" break="no"/>mum poy <hi rend="grantha">vyākhyā</hi>tarkka<supplied reason="lost">ḷ</supplied> <gap reason="lost"/>
+                    <lb n="5" break="no"/>nālum <hi rend="grantha">śrī</hi>-rāmāyaṇa-<hi rend="grantha">v<supplied reason="lost">ṛ</supplied></hi><supplied reason="lost">t=ti</supplied> <gap reason="lost"/>
+                    <lb n="6" break="no"/><hi rend="grantha">vṛ</hi>t=ti paṅku Oṉṟum <hi rend="grantha">vaidya</hi>-<hi rend="grantha"><unclear>vṛ</unclear></hi><supplied reason="lost">t=ti</supplied> <gap reason="lost"/> <supplied reason="lost">Ira</supplied>
+                    <lb n="7" break="no"/>ṭukku civilliputtūr nā<supplied reason="lost">ṉk’ ellai</supplied> <gap reason="lost"/> 
+                    <lb n="8" break="no"/>n tōṭṭamum <supplied reason="lost">t</supplied><unclear>ō</unclear><supplied reason="lost">ṭṭa-k</supplied>-koll<supplied reason="lost">aikaḷum</supplied> <gap reason="lost"/> <supplied reason="lost">ep</supplied>
+                    <lb n="9" break="no"/>pēṟpaṭṭa <hi rend="grantha">sa<supplied reason="lost">masta-prā</supplied>pti</hi>kaḷum <gap reason="lost"/>
+                    <lb n="10"/><gap reason="lost"/> <unclear>ṭa</unclear>mum pa <gap reason="lost"/>
+                    <lb n="11"/><gap reason="lost"/> <supplied reason="lost">periy</supplied>āḻvā<supplied reason="lost">ṟkum</supplied> <gap reason="lost"/>
+                    <lb n="12"/><gap reason="lost"/> <supplied reason="lost">uṇ</supplied>ṭāṉa<supplied reason="lost">v</supplied>ai <gap reason="lost"/>
+                    <lb n="13" break="no"/><supplied reason="lost">y</supplied> nattamum natta<supplied reason="lost">ppāru</supplied>m tōṭ<supplied reason="lost">ṭamum</supplied>
+                    <gap reason="lost"/> <supplied reason="lost">ep⌈</supplied>
+                    <lb n="14" break="no"/>peṟpaṭṭa <hi rend="grantha">samasta-prāpti</hi>kaḷum muṉ <gap reason="lost"/>
+                    <lb n="15"/>...
                 </p>
                 
             </div>
             
             <div type="apparatus">
                 <listApp>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:ASI"></rdg>
+                    </app>
+                    
+                    <app loc="3">
+                        <lem><surplus>t</surplus>ttūr</lem>
+                        <rdg source="bib:ASI">takkāṟ</rdg>
+                    </app>
+                    <app loc="10">
+                        <lem><unclear>ṭa</unclear>mum</lem>
+                        <rdg source="bib:ASI">ṭamum</rdg>
+                    </app>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:ASI"></rdg>
+                    </app>
                     <app loc="0">
                         <lem></lem>
                         <rdg source="bib:ASI"></rdg>
