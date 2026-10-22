@@ -67,27 +67,33 @@
                 
                 <div type="textpart" n="B"><head>Piece II</head>
                     
-                    <ab>
+                    <p>
                         <lb n="B1"/>
-                    </ab>
+                    </p>
                     
                 </div>
                 
                 <div type="textpart" n="C"><head>Piece III</head>
                     
-                    <ab>
+                    <p>
                         <lb n="C1"/><gap reason="lost" quantity="4" unit="character"/> laimai-viruttiyum
                         <lb n="C2"/>pāratamum niruttappuṟamum cā
-                        <lb n="C3"/>nti-viruttiyum kaḻi ...
-                    </ab>
+                        <lb n="C3"/>nti-viruttiyum kaḻi tuya<unclear>l e</unclear> <gap reason="lost" quantity="1" unit="character"/>
+                        <lb n="C4"/>riya <gap reason="lost" quantity="1" unit="character"/> ve vaicciyār kut <gap reason="lost" quantity="1" unit="character"/>
+                        <lb n="C5"/><gap reason="lost" quantity="1" unit="character"/> vat<unclear>tu</unclear> poti cānti-virutti
+                        <lb n="C6"/>kavatoṉṟi po<unclear>tu</unclear> nāṉāḻi tiru
+                        <lb n="C7"/>vamirtum Oru nantā-viḷakkun
+                        <lb n="C8"/>tivicatti Aññūṟṟu nāḻiyum
+                        <lb n="C9"/>Āṭṭai-k ko <gap reason="lost" quantity="4" unit="character"/> tavitam <gap reason="lost" quantity="1" unit="character"/>
+                    </p>
                     
                 </div>
                 
                 <div type="textpart" n="DB"><head>Piece II</head>
                     
-                    <ab>
+                    <p>
                         <lb n="D1"/>
-                    </ab>
+                    </p>
                     
                 </div>
                 

@@ -28,7 +28,7 @@
                 <msDesc>
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
-                        <summary>Incomplete. Year lost. The end of each line is missing</summary> 
+                        <summary>Incomplete. Year lost. The end of each line is missing.</summary> 
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -104,7 +104,7 @@
             </div>
             
             <div type="bibliography">
-                <p>This digital edition by Emmanuel Francis based on </p>                
+                <p>This digital edition by Emmanuel Francis based on <bibl><ptr target="bib:CentilCelvakkumaraṉ+al_2009_01"/></bibl>.</p>                
                 
                 <listBibl type="primary">
                     <bibl n="TNSDA">
