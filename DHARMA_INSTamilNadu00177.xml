@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pāḷaiyaṅkōṭṭai, Kōpālacāmi temple, time of Rājarāja I Cōḻa, no year</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>                    
+                </respStmt>			
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00177.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
+                    <msContents>
+                        <summary>Incomplete. Year lost. The end of each line is missing</summary> 
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2026-10-22">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">śrī</hi>
+                </ab>
+                
+                <lg n="1" met="āciriyappā">
+                    <l n="1">tiru-makaḷ pōla peru-nila-c-celviyum</l>
+                    <l n="2">taṉakkē Urimai pūṇṭāmai maṉakoḷa</l>
+                    <l n="3">kāntaḷūr-c cālai kalam aṟutt-aruḷi</l>
+                    <l n="4">vēṅkai<supplied reason="lost">nāṭu</supplied>ṅ kaṅka-pāṭiyum</l>
+                    <l n="5">taṭikai-p-pāṭi <gap reason="lost"/></l>
+                </lg>
+                <p>
+                    <lb n="2" break="no"/><unclear>p</unclear> viṇṇa<unclear>kar</unclear> <hi rend="grantha">śrī</hi>-kōyilil <hi rend="grantha">śrī</hi>-<unclear>pā</unclear>ratam <unclear>vā</unclear>cikka vācippārkku pārata-virutti y-ākavuñ
+                    <hi rend="grantha">śrī</hi>-<unclear>rāmā</unclear>yaṇam vācippārkku virutti y-ākavum
+                </p>
+                <p>
+                    Iv Ūtta pūmikku viṟṟu-k k <gap reason="lost"/>
+                    <lb n="3" break="no"/>cciyil tōṟṟippaṭṭu <hi rend="grantha">mahāsabhai</hi>yōm potu nilam-āy-t kiṭanta Ivv-arai māvum Itaṉ vaṭakkil Aiñcāṅ kāl teṉ-kaṇṇāṟṟu mu<unclear>ṉṟā</unclear>ñ ceykkuṟaiyil vāṇṭaṉai<unclear>p</unclear> <gap reason="lost"/>
+                    <lb n="4" break="no"/>ṉ nāracattukkuk kiḻakku muta <gap reason="lost" quantity="2" unit="character"/> ka Eṭṭāñ ceyyilum Irupatāñ ceyyilum <unclear>ciri</unclear>-val<unclear>la</unclear>pa-vāykkālukku kiḻa<unclear>kku</unclear> vaṭakkum āka nilam Arai mā<unclear>ta</unclear> <gap reason="lost"/>
+                    <lb n="5" break="no"/><unclear>yu</unclear> m <hi rend="grantha"><unclear>bha</unclear></hi> matta <gap reason="lost" quantity="4" unit="character"/> <unclear>maca</unclear> cakku <gap reason="lost" quantity="23" unit="character"/>viṭṭa Im-mukkāṇi mēl-āka ceḻiya <gap reason="lost" quantity="16" unit="character"/> -k kiḻaku lālkalkiṭa <gap reason="lost" quantity="3" unit="character"/> teṟku nāracattukku vaṭakkum <gap reason="lost"/>
+                    <lb n="6" break="no"/>ḻiya kaṇṇāṟṟu nāracattukku vaṭakku Irupattāṟku <unclear>ce</unclear>yyil <unclear>ka</unclear>ṇṇāṟu kālukku teṟku <gap reason="lost" quantity="3" unit="character"/> ya <unclear>vanta vaṟṟā</unclear> <gap reason="lost" quantity="3" unit="character"/> y-arai-k-kāṇi muntirikaiyum <gap reason="lost"/>
+                    <lb n="7" break="no"/>muntirikaiyil teṟk’ aṭaiya nilaṉ Arai mā muntirikaiyum Irupattu mūṉṟā<unclear>ñ</unclear> va-I-ttāku kiḻakku <unclear>kiṇaṟṟu</unclear>ṟṟu Arai mā muntirikaiyum ciri <gap reason="lost" quantity="5" unit="character"/> vāykkālukku mēṟku <unclear>nilam</unclear> <gap reason="lost"/>
+                    <lb n="8" break="no"/><unclear>viṭṭa</unclear> Ik-kāṇi y-arai kāṇiyum Ik-kā<unclear>li</unclear> <gap reason="lost" quantity="5" unit="character"/> Icceyyil teṟk’ aṭaiya Araiyē-k kaṇi <gap reason="lost" quantity="4" unit="character"/> varaiyuñ Eṇpat<unclear>t’ oṉṟu</unclear> vāykkā<unclear>lukk’ u</unclear>ḻiccu viṭṭa Ivv-arai-k-kāṇi <gap reason="lost"/>
+                    <lb n="9" break="no"/>kkalukku kiḻakku patiṉ mūṉṟāṅ <gap reason="lost" quantity="3" unit="character"/> lukku Oṉpatār ceyyil <gap reason="lost" quantity="4" unit="character"/> m muntirikaiyum <unclear>pācu</unclear> tēva-vāykkālukku kiḻakku va <gap reason="lost" quantity="4" unit="character"/> <gap reason="lost"/>
+                </p>                    
+                
+            </div>
+            
+            <div type="apparatus">
+                <listApp>
+                    <app loc="1">
+                        <lem>vēṅkai<supplied reason="lost">nāṭu</supplied>ṅ</lem>
+                        <rdg source="bib:CentilCelvakkumaraṉ+al_2009_01">vēṅkai <gap reason="lost" quantity="3" unit="character"/> ṅ</rdg>
+                    </app>
+                    
+                </listApp>
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">Fortune!</p>                
+                
+                <p n="1">...</p>
+                
+            </div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                <p>This digital edition by Emmanuel Francis based on </p>                
+                
+                <listBibl type="primary">
+                    <bibl n="TNSDA">
+                        <ptr target="bib:CentilCelvakkumaraṉ+al_2009_01"/>
+                        <citedRange unit="page">20-21</citedRange>
+                        <citedRange unit="item">16/2025</citedRange>                        
+                    </bibl> 
+                </listBibl>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
+
