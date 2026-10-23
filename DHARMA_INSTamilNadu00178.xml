@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruttaṅkāl / Tiruttangal, Niṉṟa Nārāyaṇap Perumāḷ temple, time of Sundara Pāṇḍya I Cōḻa, year 4+1</title>
+                <title>Tiruttaṅkāl / Tiruttangal, Niṉṟa Nārāyaṇap Perumāḷ temple, time of Sundara Pāṇḍya, year 4+1</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -68,11 +68,38 @@
                     <lb n="6" break="no"/>y-āvatu
                 </p>                    
                 
+                <p>
+                    Iv-ūṟ <hi rend="grantha">de</hi>ve<hi rend="grantha">ndra</hi>-va<hi rend="grantha">llabha</hi>-p-pēr-ēri-k k[i>ī]ḻ marutaṅkāl-āṉa <hi rend="grantha">śrī-de</hi>vi-vāy
+                    <lb n="7" break="no"/>kkālukku-t teṟku
+                    Āṟāṅ kaṇṇāṟṟu tiru-māl-iruñ-cōlai-vatikku-k ki
+                    <lb n="8" break="no"/>ḻakku
+                    muṉṟāṅ pāṭakattiṟ kiḻakk’ aṭaiya nilam a
+                    <lb n="9" break="no"/> rai māvum
+                </p>
+                <p>
+                    itiṟ <unclear>ki</unclear>ṇaṟṟ’ ōpātiyum ivv-ūr vaṭa-ki
+                    <lb n="10" break="no"/>ḻ-piṭākai karuṅ-kōṭṭaikkum vilaikaḷuk
+                    <lb n="11" break="no"/>kuṅ kiḻakkun tiru-p-paḷaiyūr-āṉa <hi rend="grantha">śrī</hi>-kula-cēkara-c
+                    <lb n="12" break="no"/>-catu<hi rend="grantha">rvedi</hi>-maṅkalattu Ellaikku mēṟkum iv-ūṟ
+                    <lb n="13" break="no"/>kuḷakkāḻukku-t teṟkum Eṅkaḷ cempātiyāṟ
+                    <lb n="14" break="no"/>karuñ ce<supplied reason="omitted">y</supplied> nilam aṟu māvum āka Iv-ūr nila<unclear>m</unclear> aḷakku
+                    <lb n="15" break="no"/>ṅ kuṉṟa-k-kāṟpāṟai-k kōlāl nilam aṟu mā v-arai
+                    <lb n="16" break="no"/>yum kai-k-koṇṭu Iv-ūrukku vaṭakku nākaṇaiyāṉ
+                    <lb n="17"/>kiṇaṟṟukku-k kiḻakku
+                </p>
+                <p>
+                    nāṅkaḷ ceyta <hi rend="grantha">maṭha</hi>tti<unclear>l</unclear>ē
+                    <lb n="18" break="no"/>yun tiru-t-taṅkāḷ ūrāṉ tiru-muṉpu <hi rend="grantha">mahābhārata</hi><supplied reason="omitted">m</supplied>
+                    <lb n="19"/><hi rend="grantha">śrī-rāmā</hi>yaṇamum <hi rend="grantha">purā</hi>ṇaṅkaḷuñ can<hi rend="grantha">drāditya</hi>var
+                    <lb n="20"/>vācippat’ āka Iṭṭōm tiru-v-araṅka-tēvaṉ ku
+                    <lb n="21" break="no"/>ṉṟ-eṭuttāṉum eṉ tampi tiru-v-araṅka-tēvaṉ u<supplied reason="omitted">y</supplied>ya-k-koḻvāṉum iv-iruvōmum <g ref="sym:flourish-taperOut" type="punctuation">.</g>
+                    
+                </p>
             </div>
             
             <div type="apparatus">
                 <listApp>
-                    <app loc="5">
+                    <app loc="5, 21">
                         <lem>koḻvāṉum</lem>
                         <note><foreign>ko<supplied reason="omitted">ṇṭā</supplied>ḻvāṉum</foreign> in one of the two ASI transcripts.</note>
                     </app>
@@ -107,7 +134,7 @@
                 <listBibl type="secondary">
                     <bibl n="ARIE">
                         <ptr target="bib:ARIE1922-1923"/>
-                        <citedRange unit="page">10</citedRange>
+                        <citedRange unit="page">37</citedRange>
                         <citedRange unit="appendix">B/1922</citedRange>
                         <citedRange unit="item">546</citedRange>                        
                     </bibl> 
