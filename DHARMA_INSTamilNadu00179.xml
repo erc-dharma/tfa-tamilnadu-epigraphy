@@ -52,7 +52,7 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:vernacular">
                 
                 <ab>
-                    <lb n="1"/><g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g> <hi rend="grantha">svasti śrī <g ref="sym:bullet-double-hollow" type="punctuation">.</g> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g></hi>
+                    <lb n="1"/><g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g> <hi rend="grantha">svasti śrī</hi> <g ref="sym:bullet-double-hollow" type="punctuation">.</g> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                 </ab>
                 
                 <p>
@@ -99,10 +99,13 @@
                             -paṭi <hi rend="grantha">sa</hi>mma<hi rend="grantha">di</hi>ttu U<hi rend="grantha">da</hi>kam paṇṇi-k kuṭutta-k kuṉṟ-eṭuttāṉ vīṟṟ-iruntāṉ Eḻuttu <g ref="sym:ddanda" type="punctuation">.</g> <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                             <lb n="22"/><g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g> <g ref="sym:ddanda" type="punctuation">.</g></item></list>
                 </p>
-                <p xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">
-                    lakṣṃī-saṃgivaṭāgrahāra-tilaka śrī-raṃgadevātmajau kauṇdinyānvaya-dīpakau śiridharaś cojjivakaś cā
-                    <lb n="23" break="no"/>khyayā cakāren nṛ-harer vimānam acalan taT kautukam maṇḍapan tau dagdhāmra-phalāsya bhārata-kathā <gap reason="lost" quantity="4" unit="character"/> tāM bhuvaM
-                </p>
+                <lg n="1" met="śārdūlavikrīḍita" xml:lang="san-Latn" rendition="class:grantha maturity:undetermined">
+                    <l n="a">lakṣṃī-saṃgivaṭāgrahāra-tilaka śrī-raṃgadevātmajau</l>
+                    <l n="b">kauṇdinyānvaya-dīpakau śiridharaś cojjivakaś cā
+                    <lb n="23" break="no"/>khyayā</l>
+                    <l n="c">cakāren nṛ-harer vimānam acalan taT kautukam maṇḍapan</l>
+                    <l n="d">tau dagdhāmra-phalāsya bhārata-kathā <gap reason="lost" quantity="4" unit="character"/> tāM bhuvaM</l>
+                </lg>
                 
             </div>
             
