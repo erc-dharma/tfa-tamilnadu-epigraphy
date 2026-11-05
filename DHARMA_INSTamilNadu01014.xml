@@ -56,7 +56,7 @@
         
         <body>
             
-            <div type="edition">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <ab>
                     <pb n="1r"/>                
