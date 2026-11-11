@@ -16,7 +16,7 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>	
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
@@ -40,8 +40,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2020-01-30" status="draft">Creation of the file on the repository</change>
         </revisionDesc>
@@ -129,10 +129,11 @@
                 
                 <div type="textpart" n="C" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil Portion 1 of 2</head>
                     
-                    <ab>
+                    <ab> 
                         <pb n="1r"/>                
-                        <lb n="1r1=1"/><hi rend="grantha">svasti śrī</hi>
+                        <lb n="1r1=1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:doubleBar" type="punctuation">.</g>
                     </ab>
+                    
                     <p>
                         ...                
                         <lb n="1r2=2"/>
@@ -200,17 +201,126 @@
                     </p>
                 </div>
                 
-                <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil Portion 2 of 2</head>
+                <div type="textpart" n="D" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular"><head>Plates: Tamil Portion 2 of 2 = list of donees</head>
                     
-                    <p> 
-                        
+                    <ab> 
                         <pb n="1r"/>                
-                        <lb n="1r1=1"/>...
-                        
-                        <pb n="32v"/>                
-                        <lb n="32v1=1439"/>...
+                        <lb n="1r1=1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </ab>
+                    
+                    <p>
+                        nittavinōta-vaḷanāṭṭu v<choice><orig>i</orig><reg>ī</reg></choice>racōḻa-vaḷanāṭṭu <hi rend="grantha">tribhu</hi>vaṉa-<hi rend="grantha">mahāde</hi>vi-<hi rend="grantha">c-caturvvedi</hi>maṅkalattu
+                        <lb n="1r2=2" break="no"/>-p paṅku peṟṟār <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>                    
+                    <p>
+                        rā<hi rend="grantha">jendra-siṃha</hi>-vaḷanāṭṭu-t taṉiyūr v<choice><orig>i</orig><reg>ī</reg></choice>ra-nārāyaṇa-<hi rend="grantha">c-caturvvedi</hi>-maṅgalattu <hi rend="grantha">bhā</hi>
+                        <lb n="1r3=3" break="no"/><hi rend="grantha"><choice><sic>ra</sic><corr>r</corr></choice>gga</hi>va-<hi rend="grantha">gotra</hi>ttu <hi rend="grantha">Āśvalā</hi>yaṉa-<hi rend="grantha">sūtra</hi>ttu Iṟaiyāṉaraisūr <hi rend="grantha">ma</hi>tisūtaṉa-ya<hi rend="grantha">jña</hi>-p-piriya-<hi rend="grantha">bha</hi>ṭṭaṉukku-p
+                        pa
+                        <lb n="1r4=4" break="no"/>ṅk' oṉṟu <g ref="sym:doubleBar" type="punctuation">.</g>
                     </p>
                     
+                    
+                    
+                    <p>...</p>
+                    
+                    
+                    
+                    <p>
+                        <pb n="31v"/>
+                        <lb n="31v1=1399" break="no"/>...
+                        
+                        <lb n="31v5=1403" break="no"/>...
+                    </p>
+                    
+                    <p>kaṇakka-p-paṅku</p>                    
+                    <p>...</p>
+                    
+                    <p>
+                        <lb n="31v14=1412" break="no"/>karattaṉ veṅkāṭaṉukku kaṇakka-p-paṅk' oṉṟu <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    
+                    <p>kāviti-paṅku</p>
+                    
+                    <p>ni<hi rend="grantha">tya</hi>vinōta-vaḷanāṭṭu muṭiccōṇā
+                        <lb n="31v15=1413" break="no"/>ṭṭu ...
+                    </p>
+                    
+                    <p><lb n="31v19=1417" break="no"/>...</p>
+                    
+                    <p>uvacca-p-paṅku</p>
+                    <p>...</p>
+                    
+                    <p>
+                        <pb n="32r"/>        
+                        <lb n="32r1=1418" break="no"/>
+                    </p>
+                    
+                    <p><lb n="31r9=1426" break="no"/>...</p>
+                    
+                    <p>nāvica-p-paṅku</p>
+                    <p>...</p>
+                    
+                    <p>               
+                        <pb n="32v"/>                
+                        <lb n="32v1=1439"/>...
+                        <lb n="32v8=1446"/>...
+                    </p>
+                    <p>
+                        mimā<choice><sic>ṅś</sic><corr>ṃs</corr></choice>a
+                        <lb n="32v9=1447"/>bhatta-vritti nilam aiyvēli <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>                     
+                        vedanta-bhatta-virutti nilam aiyvēli <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>
+                        vyākaraṇa-p-patta-virutti-nila<supplied reason="subaudible">m</supplied> nal vē
+                        <lb n="32v10=1448" break="no"/>li <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>
+                        paviḻiya-k-kiṭ<choice><sic>a</sic><corr>ai</corr></choice>-p-puṟattukku nilam iru vēli <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>
+                        taitti<supplied reason="omitted">ri</supplied>yak-kiṭai-p-puṟam nilam iru vēli <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>
+                        vasasaneya-k-kiṭai-p-puṟam iru vēli <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>
+                        santoha(chandoga)-k-kiṭai-p-puṟam nilam iru vēli <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>
+                        A<choice><orig>dh</orig><reg>th</reg></choice>arvva-k-kiṭai-p-puṟam nilam iru <supplied reason="omitted">v</supplied>ē
+                        <lb n="32v11=1449" break="no"/>li <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>
+                        talavu(va)ka[ra]k-kiṭai-p-puṟam nilam iru vēli <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>
+                        rūpavatarak-kiṭai-p-puṟam nilam iru vēli <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>
+                        smriti-mūla
+                        <lb n="32v12=1450" break="no"/><hi rend="grantha">gran<choice><orig>dh</orig><reg>th</reg></choice>a</hi>m oduvippanukku nilam iru vēli <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>                
+                        <lb n="32v13=1451"/><hi rend="grantha">bhāra</hi>tam vācippāṉukku nilam Iru vēli <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>Ambalam me
+                        <lb n="32v14=1452" break="no"/>ḻukit = toṭṭi-niṟaiccu-t taṇṇīr aṭṭuvāṉukku nilam iru vēli <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>viṣa-bhogattukku nilam iru veli <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>kusava
+                        <lb n="32v15=1453" break="no"/>rkku
+                        nilam veli <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>taichchar =kollarkku nilam veli <g ref="sym:doubleBar" type="punctuation">.</g>
+                    </p>
+                    <p>Ivv-ūr śāsanam veṭṭi pū<surplus>rj</surplus>jai
+                        <lb n="32v16=1454" break="no"/>y-aḵa-p peṟra kāṣthakāri kṛṣṇaṉ-Araṅgan-āna tribhuvana-mahadevippērācāriyaṉukku-t tuṇi
+                        <lb n="32v17=1455"/>nilam vēli <g ref="sym:doubleBar" type="punctuation">.</g></p>
+                    <p>Ivv-ūr śāsanam veṭṭi pujjaiy = aḵa-p peṟṟa kāṣthakāri Ārāvamadu-puruṣo
+                        <lb n="32v18=1456" break="no"/>ttamaṉ-āṉa rājendrasiṃhap-pērācāriyaṉukku-t tuṇi nilam vēli <g ref="sym:doubleBar" type="punctuation">.</g> <g ref="sym:doubleBar" type="punctuation">.</g></p>
                 </div>
                 
                 
@@ -240,7 +350,7 @@
             <div type="bibliography">                
                 
                 <p>Edited and translated in <bibl><ptr target="bib:Krishnan1984_01"/></bibl>, with visual documentation.</p>
-                <p>This edition by Emmanuel Francis.</p>
+                <p>This edition by Emmanuel Francis based on <bibl><ptr target="bib:Krishnan1984_01"/></bibl> and visual documentation therein.</p>
                 
                 <listBibl type="primary">
                     
