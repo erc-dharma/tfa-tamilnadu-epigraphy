@@ -28,7 +28,7 @@
                 <msDesc>
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
-                        <summary>Label on a Buddhist bronze. Central Museum, Nagpur, acc. No.: C. 112. <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>: <q>Tamil inscription in 11th century characters on the lower rim of <foreign>padmāsana</foreign> behind.</q></summary>
+                        <summary>Label on a Buddhist bronze. Central Museum, Nagpur, acc. No.: C. 112. <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>: <quote>Tamil inscription in 11th century characters on the lower rim of <foreign>padmāsana</foreign> behind.</quote></summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -69,7 +69,7 @@
             
             <div type="translation" source="bib:Ramachandran1954_01">
                 
-                <p n="1">The God <supplied reason="explanation">Lord Buddha</supplied> of the Cōḻa <foreign>perumpaḷḷi</foreign>.</p>			                
+                <p n="1">The God <supplied reason="explanation">Lord Buddha</supplied> of the Cōḻa perumpaḷḷi.</p>			                
             </div>
             <div type="translation" resp="part:emfr">
                 
