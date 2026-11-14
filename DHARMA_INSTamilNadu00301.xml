@@ -5,114 +5,114 @@
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Nākappaṭṭiṉam, bronze label</title>
-			    <respStmt>
-			        <resp key="creator">author of digital edition</resp>
-			        <persName ref="part:emfr">
-			            <forename>Emmanuel</forename>
-			            <surname>Francis</surname>
-			        </persName>
-			    </respStmt>	
-			<funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
-			<publicationStmt>
-				<authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
-				<pubPlace>Paris</pubPlace>
-				<idno type="filename">DHARMA_INSTamilNadu00301.xml</idno>
-				<availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-				<date from="2019" to="2026">2019-2026</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier><repository>as per external metadata</repository></msIdentifier>
-					<msContents>
-						<summary>Label on a Buddhist bronze.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p/>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-04-29">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nākappaṭṭiṉam, bronze label</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>	
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00301.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
+                    <msContents>
+                        <summary>Label on a Buddhist bronze.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-04-29">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
         
-<body>
-          
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-	
-	<p>
-		<lb n="1"/>putta-Uttama-nāyakar
-	</p>
-	
-</div>
-          
-<div type="apparatus">
-	<listApp>
-		
-		<app loc="1">
-			<lem>putta-Uttama-nāyakar</lem>
-			<rdg source="bib:Ramachandran1954_01">putta Uttama nāyakar</rdg>
-		</app>
-		
-	</listApp>
-</div>
-  
-<div type="translation" source="bib:Ramachandran1992_01">
-  	
-  	<p n="1">The Lord who was the greatest of the Buddhas.</p>			
-				
-</div>
-<div type="translation" resp="part:emfr">
- 	
- 	<p n="1">The foremost Lord Buddha.</p>
- 	
- </div>
-      	
-<div type="commentary">
-        
-    <p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl> (p. 92) comments thus: <quote>Here Śākyamuni Buddha’s relative importance to other previous Buddhas such as Dīpaṅkara, etc., is implied.</quote></p>
-</div>
-      	
-<div type="bibliography">
-              
-	<p>Edited in <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>, with a facsimile (p. 92 and pl. XXIV, no. 1). See also <bibl><ptr target="bib:Ramachandran1965_01"/></bibl>, <bibl><ptr target="bib:Ramachandran1992_01"/></bibl>, <bibl><ptr target="bib:Ramachandran2005_01"/></bibl> (p. 108 and pl. III, no. [1]).</p>
-	<p>Edited and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Ramachandran1954_01"/></bibl> and the facsimile therein.</p>
-	
-    <listBibl type="primary">
-        
-        <bibl n="R1954">
-            <ptr target="bib:Ramachandran1954_01"/>
-            <citedRange unit="page">92</citedRange>
-        </bibl>
-        
-        <bibl n="R1965">
-            <ptr target="bib:Ramachandran1965_01"/>
-        </bibl>
-        
-        <bibl n="R1992">
-            <ptr target="bib:Ramachandran1992_01"/>
-        </bibl>
-        
-        <bibl n="R2005">
-            <ptr target="bib:Ramachandran2005_01"/>
-        </bibl>
-        
-    </listBibl>	
-	
-	<!--<listBibl type="secondary"/>-->
-	
-</div>
-      </body>
-  </text>
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <p>
+                    <lb n="1"/>putta-Uttama-nāyakar
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                <listApp>
+                    
+                    <app loc="1">
+                        <lem>putta-Uttama-nāyakar</lem>
+                        <rdg source="bib:Ramachandran1954_01">putta Uttama nāyakar</rdg>
+                    </app>
+                    
+                </listApp>
+            </div>
+            
+            <div type="translation" source="bib:Ramachandran1992_01">
+                
+                <p n="1">The Lord who was the greatest of the Buddhas.</p>			
+                
+            </div>
+            <div type="translation" resp="part:emfr">
+                
+                <p n="1">The foremost Lord Buddha.</p>
+                
+            </div>
+            
+            <div type="commentary">
+                
+                <p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl> (p. 92) comments thus: <quote>Here Śākyamuni Buddha’s relative importance to other previous Buddhas such as Dīpaṅkara, etc., is implied.</quote></p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Edited in <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>, with a facsimile (p. 92 and pl. XXIV, no. 1). See also <bibl><ptr target="bib:Ramachandran1965_01"/></bibl>, <bibl><ptr target="bib:Ramachandran1992_01"/></bibl>, <bibl><ptr target="bib:Ramachandran2005_01"/></bibl> (p. 108 and pl. III, no. [1]).</p>
+                <p>Edited and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Ramachandran1954_01"/></bibl> and the facsimile therein.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="R1954">
+                        <ptr target="bib:Ramachandran1954_01"/>
+                        <citedRange unit="page">92</citedRange>
+                    </bibl>
+                    
+                    <bibl n="R1965">
+                        <ptr target="bib:Ramachandran1965_01"/>
+                    </bibl>
+                    
+                    <bibl n="R1992">
+                        <ptr target="bib:Ramachandran1992_01"/>
+                    </bibl>
+                    
+                    <bibl n="R2005">
+                        <ptr target="bib:Ramachandran2005_01"/>
+                    </bibl>
+                    
+                </listBibl>	
+                
+                <!--<listBibl type="secondary"/>-->
+                
+            </div>
+        </body>
+    </text>
 </TEI>
