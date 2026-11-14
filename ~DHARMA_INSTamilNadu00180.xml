@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>New York, Asia Society Museum, bronze label</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>                
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00339.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
+                    <msContents>
+                        <summary>Label on a Buddhist bronze, possibly from Nākappaṭṭiṉam. Asia Society Museum, New York, acc. no. 1979.15.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2026-11-14">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <p>
+                    <lb n="1"/>I<hi rend="grantha">rājen<choice><orig>t</orig><reg>d</reg></choice>ra</hi>cōḻa-p-perumpaḷḷi Akkacālai-p-perum-paḷḷi Āḻvār kōyilukku tiru-v-u<hi rend="grantha">tsa</hi>vam Eḻun=taruḷa Āḻvār
+                </p>
+                <p>
+                    Ivv-āḻvārai Eḻun=taruḷuvit=tār ciṟutavūr nālāṅkuṇākara-Uṭaiyār
+                </p>
+                
+                <p>
+                    <lb n="2"/><g ref="sym:flourish-taperIn" type="symbol">*</g> <hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    pati<choice><orig>n</orig><reg>ṉ</reg></choice>-eṇ-vi<hi rend="grantha">ṣai</hi>yattukkum Akkacālaikaḷ nāyakar <g ref="sym:flourish-taperOut" type="symbol">*</g>
+                </p>
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                <listApp>
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:..."></rdg>
+                </app>
+                
+                </listApp>
+                </div>-->
+            
+            <div type="translation" source="bib:Karashima+Subbarayalu2002_01">
+                
+                <p n="1"></p>
+                <p n="1"></p>
+                <p n="2"></p>
+                <p n="2"></p>
+                
+            </div>
+            
+            <div type="translation" resp="part:emfr">                
+                
+                <p n="1"><supplied reason="subaudible">This is</supplied> the lord, so that he graciously rises <supplied reason="subaudible">at</supplied> the glorious festival <supplied reason="subaudible">time</supplied>, <supplied reason="subaudible">donated</supplied> to the temple of the lord of the <foreign>perumpaḷḷi</foreign><note>That is, a Buddhist shrine.</note> of the <foreign>akkacālai</foreign><note>Litteraly, metal works; designates the community of the metalsmiths.</note> in the <foreign>perumpaḷḷi</foreign> of Rājendra Cōḻa.</p>
+                <p n="1">Nālāṅ Kuṇākara Uṭaiyār had this lord graciously risen.<note>That is, he commissioned the bronze.</note></p>
+                <p n="2">Prosperity! Fortune!</p>
+                <p n="2">The lord of the <foreign>akkacālai</foreign> <supplied reason="subaudible">is</supplied> for<note>That is, this image has been donated for the merit/benefit of the merchant guild.</note> the <supplied reason="subaudible">merchant guild of</supplied> Patiṉ-eṇ Viṣaiyam.</p>                
+                
+            </div>
+            
+            <div type="commentary">
+                <p></p>
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Edited in <bibl><ptr target="bib:Cupparayalu1993_01"/></bibl> and <bibl><ptr target="bib:Karashima+Subbarayalu2002_01"/></bibl>, with a delineation.</p>
+                <p>Edited <!--and translated -->here by Emmanuel Francis, based on <bibl><ptr target="bib:Cupparayalu1993_01"/></bibl> and <bibl><ptr target="bib:Karashima+Subbarayalu2002_01"/></bibl> and visual documentation therein.</p>
+                
+                <listBibl type="primary">
+                    
+                    <!--E. Cupparāyalu, “Nākapaṭṭinam cūṭāmaṇi vihāraṭtaic cērnta oru putiya puttar paṭimam,” Āvaṇam 3 (1993): 45.-->
+                    <!--Check Schalk ed-->
+                    <bibl n="C">
+                        <ptr target="bib:Cupparayalu1993_01"/>
+                    </bibl>
+                    
+                    <bibl n="K+S">
+                        <ptr target="bib:Karashima+Subbarayalu2002_01"/>
+                    </bibl>
+                    
+                </listBibl>	
+                
+                <!--<listBibl type="secondary"/>-->
+                
+            </div>
+        </body>
+    </text>
+</TEI>
