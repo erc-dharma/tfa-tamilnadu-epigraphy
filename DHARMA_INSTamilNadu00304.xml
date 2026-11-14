@@ -28,7 +28,7 @@
                 <msDesc>
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
-                        <summary>Label on a Buddhist bronze.</summary>
+                        <summary>Label on a Buddhist bronze. Central Museum, Nagpur, acc. No.: C. 112. <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>: <q>Tamil inscription in 11th century characters on the lower rim of <foreign>padmāsana</foreign> behind.</q></summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -69,8 +69,7 @@
             
             <div type="translation" source="bib:Ramachandran1954_01">
                 
-                <p n="1">The God <supplied reason="explanation">Lord Buddha</supplied> of the Cōḻa <foreign>perumpaḷḷi</foreign>.</p>			
-                
+                <p n="1">The God <supplied reason="explanation">Lord Buddha</supplied> of the Cōḻa <foreign>perumpaḷḷi</foreign>.</p>			                
             </div>
             <div type="translation" resp="part:emfr">
                 
@@ -79,8 +78,7 @@
             </div>
             
             <div type="commentary">
-                <p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl> comments thus: <quote>Evidently the purpose of this inscription is to announce that
-                    the votive image of the Buddha belonged to the Buddhist monastery built by the Śailendras and endowed by Rājendra Cōḻa.</quote></p>
+                <p><bibl><ptr target="bib:Ramachandran1954_01"/></bibl> comments thus: <quote>Evidently the purpose of this inscription is to announce that the votive image of the Buddha belonged to the Buddhist monastery built by the Śailendras and endowed by Rājendra Cōḻa.</quote></p>
             </div>
             
             <div type="bibliography">
@@ -90,19 +88,15 @@
                 
                 <listBibl type="primary">
                     
-                    <bibl n="R1"><!--complex ref-->
+                    <bibl n="R1">
                         <ptr target="bib:Ramachandran1954_01"/>
-                        <citedRange>TBC</citedRange>
-                        <citedRange unit="plate">TBC</citedRange><!--check plate number-->
+                        <citedRange unit="mixed">page 92, no. 78; plate XXIV, no. 4</citedRange>
                     </bibl>
                     
-                    
-                    <bibl n="R2"><!--complex ref-->
+                    <bibl n="R2">
                         <ptr target="bib:Ramachandran2005_01"/>
-                        <citedRange unit="page">106</citedRange>
-                        <citedRange unit="plate">III, no. 4</citedRange>
+                        <citedRange unit="mixed">page 108, no. 78; plate III, no. 4</citedRange>
                     </bibl>
-                    
                 </listBibl>	
                 
                 <!--<listBibl type="secondary"/>-->
