@@ -28,7 +28,7 @@
                 <msDesc>
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
-                        <summary>Label on a Buddhist bronze, possibly from Nākappaṭṭiṉam. Asia Society Museum, New York, acc. no. 1979.15.</summary>
+                        <summary>Dedication of a Buddhist bronze, possibly from Nākappaṭṭiṉam. Asia Society Museum, New York, acc. no. 1979.15. The inscription is engraved on the lotus pedestal (<bibl><ptr target="bib:Karashima+Subbarayalu2002_01"/></bibl>, p. 58).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -80,16 +80,16 @@
             
             <div type="translation" source="bib:Karashima+Subbarayalu2002_01">
                 
-                <p n="1"></p>
-                <p n="1"></p>
-                <p n="2"></p>
-                <p n="2"></p>
+                <p n="1"><supplied reason="subaudible">This is</supplied> the <foreign>āḻvār</foreign> for a festival procession of the temple of Akkacālai-perumpaḷḷi in Rājendracōḻa-perumpaḷḷi.</p>
+                <p n="1">This <foreign>āḻvār</foreign> was set up by Nālaṅ-kuṇākara-uṭaiyār of Ciṟutavūr.</p>
+                <p n="2">Let it be auspicious!</p>
+                <p n="2"><supplied reason="subaudible">This <foreign>āḻvār</foreign> called</supplied> Akkacālaikaḷ-nāyakar is for all the Patineṇ-viṣaiyam.</p>
                 
             </div>
             
             <div type="translation" resp="part:emfr">                
                 
-                <p n="1"><supplied reason="subaudible">This is</supplied> the lord, so that he graciously rises <supplied reason="subaudible">at</supplied> the glorious festival <supplied reason="subaudible">time</supplied>, <supplied reason="subaudible">donated</supplied> to the temple of the lord of the <foreign>perumpaḷḷi</foreign><note>That is, a Buddhist shrine.</note> of the <foreign>akkacālai</foreign><note>Litteraly, metal works; designates the community of the metalsmiths.</note> in the <foreign>perumpaḷḷi</foreign> of Rājendra Cōḻa.</p>
+                <p n="1"><supplied reason="subaudible">This is</supplied> the lord, so that he graciously rises<note>That is, as a procession image.</note> <supplied reason="subaudible">at</supplied> the glorious festival <supplied reason="subaudible">time</supplied>, <supplied reason="subaudible">donated</supplied> to the temple of the lord of the <foreign>perumpaḷḷi</foreign><note>That is, a Buddhist shrine.</note> of the <foreign>akkacālai</foreign><note>Litteraly, metal works; designates the community of the metalsmiths.</note> in the <foreign>perumpaḷḷi</foreign> of Rājendra Cōḻa.</p>
                 <p n="1">Nālāṅ Kuṇākara Uṭaiyār had this lord graciously risen.<note>That is, he commissioned the bronze.</note></p>
                 <p n="2">Prosperity! Fortune!</p>
                 <p n="2">The lord of the <foreign>akkacālai</foreign> <supplied reason="subaudible">is</supplied> for<note>That is, this image has been donated for the merit/benefit of the merchant guild.</note> the <supplied reason="subaudible">merchant guild of</supplied> Patiṉ-eṇ Viṣaiyam.</p>                
