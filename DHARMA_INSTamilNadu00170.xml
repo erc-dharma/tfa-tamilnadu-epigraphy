@@ -51,7 +51,7 @@
             <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>buddhā<choice><sic><unclear reason="eccentric_ductus">dh</unclear></sic><corr>d</corr></choice>ityasya dha<unclear>r</unclear>mma<supplied reason="lost">ḥ</supplied> <unclear><g ref="sym:doubleBar" type="punctuation">.</g></unclear>
+                    <lb n="1"/>buddhā<choice><sic><unclear reason="eccentric_ductus">dh</unclear></sic><corr>d</corr></choice>ityasya dha<unclear>r</unclear>maM <unclear><g ref="sym:doubleBar" type="punctuation">.</g></unclear>
                 </p>
             </div>	
             
@@ -65,7 +65,7 @@
                     </app>
                     
                     <app loc="1">
-                        <lem>dha<unclear>r</unclear>mma<supplied reason="lost">ḥ</supplied> <unclear><g ref="sym:doubleBar" type="punctuation">.</g></unclear></lem>
+                        <lem>dha<unclear>r</unclear>maM <unclear><g ref="sym:doubleBar" type="punctuation">.</g></unclear></lem>
                         <rdg source="bib:Cox2025_01">dharmma<supplied reason="lost">ḥ</supplied></rdg>
                     </app>
                     
