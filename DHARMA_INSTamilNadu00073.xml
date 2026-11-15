@@ -20,7 +20,7 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>			
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
@@ -33,7 +33,7 @@
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
                         <summary>
-                           <p>A certain Nāyakattār Āṇṭāṇ Kōtai, alias Kulōttuṅka-rāyaṇ consecrated the image of Tiruvātavūr-Nāyaṉār (Māṇikkavācakar) at the temple of Pōlakam and donated lands for food offerings and the maintenance of sacred lamps.</p>
+                            <p>Kulōttuṅka-rāyaṉ, <hi rend="italic">alias</hi> Nāyakattār Āṇṭāṉ Kōtai, consecrated the image of Tiruvātavūr-Nāyaṉār (Māṇikkavācakar) at the temple of Pōlakam and donated lands for food offerings and the maintenance of sacred lamps.</p>
                             <p>On the four sides of the pedestal of a bronze statue from Pōlakam and kept in Pondicherry Government Museum since 2020 at the latest.</p>
                         </summary> 
                     </msContents>
@@ -46,8 +46,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:reda" when="2026-04-13">Creation of the file</change>
         </revisionDesc>
@@ -57,27 +57,30 @@
         <body>
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
                 <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <lb n="1"/><g ref="sym:tam-pillaiyarCuli" type="symbol">@</g> <hi rend="grantha"><unclear>svasti śrī</unclear></hi>
                 </ab>
                 
                 <p>
-                    tirupuvaṉa-c-cakkara-vattikaḷ <hi rend="grantha">śrī</hi>-cuntara-pāṇṭiya-tēvaṟkku yāṇṭu <g type="numeral">10</g> Āvatu kēyya-māṇikka-vaḷaṉāṭṭu vaṭakāl
+                    tirupuvaṉa-c-cakkara-vattikaḷ <hi rend="grantha">śrī</hi>-cuntara-pāṇṭiya-tēvaṟkku yāṇṭu <g type="numeral">10</g>-Āvatu</p>
+                <p>                    
+                    kēyya-māṇikka-vaḷaṉāṭṭu vaṭakāl
                     <lb n="2"/>parivaṭṭa nakaram pukalōkattu Uṭaiyār pañcavaṉ mā<hi rend="grantha">de</hi>vi<hi rend="grantha">śvara</hi>m-uṭaiyār kōyilukku tiru-vātavū<supplied reason="omitted">r</supplied>-nāyaṉārai Ēṟi-Aruḷa paṇṇiṉa ṉākai-y-āṉa ⌈
-                    <lb n="3" break="no"/>cōḻa-ku<supplied reason="omitted">lava</supplied>lli-paṭ=ṭiṉattu tiru-p-paḷḷi-p-pāṟ<choice><sic>t</sic><corr>ṟ</corr></choice>u ṉāyakattāril Āṇṭāṉ kōtayāṉa kulōttuṅka-rāyaṉ-ēṉ Iṉ-ṉāyaṉāṟkku Amutu-paṭikkum t<choice><sic>a</sic><corr>i</corr></choice>ruviḷakku
-                    <lb n="4" break="no"/>m nāyanā<del>ṉā</del><add place="overstrike">ṟ</add><choice><sic>t</sic><corr>k</corr></choice>ku koṇṭa<surplus>ṭa</surplus><add place="below">kantaṉ uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice></add> nilamum nattamum Āvatu
+                    <lb n="3" break="no"/>cōḻa-ku<supplied reason="omitted">lava</supplied>lli-paṭ=ṭiṉattu tiru-p-paḷḷi-p-pāṟ<choice><sic>t</sic><corr>ṟ</corr></choice>u ṉāyakattāril Āṇṭāṉ kōt<hi rend="check">a</hi>-y-āṉa kulōttuṅka-rāyaṉ-ēṉ Iṉ-ṉāyaṉāṟkku Amutu-paṭikkum t<choice><sic>a</sic><corr>i</corr></choice>ruviḷakku
+                    <lb n="4" break="no"/>m nāyanā<del>ṉā</del><add place="overstrike">ṟ</add><choice><sic>t</sic><corr>k</corr></choice>ku koṇṭa<surplus>ṭa</surplus> <add place="below">kantaṉ uṭaiyā<choice><orig>n</orig><reg>ṉ</reg></choice></add> nilamum nattamum Āvatu
                 </p>
                 
                 <p>
                     I<hi rend="grantha">vū</hi>r piṭākai cankuṇaveḷi paṇappāṟṟukku vaṭakku taṭi <hi rend="check">mūṉṟu</hi> viṭṭuma
                     <lb n="5" break="no"/>ṟkku Amutu-paṭikkum tiruvi<!--incomplete?-->
                     <lb n="6"/>Ōṭai Eṉṟu pēr kūvappaṭṭa nila<supplied reason="subaudible">m</supplied> mā mu<supplied reason="omitted">m</supplied>māvaraiyum kaṇapati vāykkālukku mēṟkku puṟaṅkarampaṉāṭṭu vēḷāṉ maṉaikku valivala-nāṭu vēḷāṉ maṉai Iru
-                    <lb n="7" break="no"/>ppu<hi rend="check">kku</hi>m <g type="numeral">1/10</g> <g ref="sym:tam-nilam"/> m
+                    <lb n="7" break="no"/>ppu<hi rend="check">kku</hi>m <g type="numeral">1/10</g> <g ref="sym:tam-nilam"/>-m
                 </p>
                 
                 <p>
                     I-nila<supplied reason="subaudible">m</supplied> mā mu<supplied reason="omitted">m</supplied>māvaraiyum Iṉ-nāyanāṟku Amutu-paṭikkum tiru-viḷakkum <hi rend="grantha">can<choice><orig>t</orig><reg>d</reg></choice>rādi<unclear>tya</unclear></hi>varai cella-k kaṭavat’ āka-k koṇṭu Iṭṭēṉ Āṇṭāṉ kō
-                    <lb n="8" break="no"/>taiyāṉa kulōttuṅka-rāyaṉ-ēṉ
+                    <lb n="8" break="no"/>tai-y-āṉa kulōttuṅka-rāyaṉ-ēṉ
                 </p>
                 
                 <p>                    
@@ -86,9 +89,7 @@
                         <item>Ik-kōyil tēvakammi piram<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvara</hi>-paṭṭaṉ Eḻuttu</item>
                         <item><lb n="9"/>Ik-kōyil kaṇakkaṉ paṉaṅk-uṭaiyāṉ v<choice><orig>i</orig><reg>ī</reg></choice>tiviṭaṅka-p perumāṉ Eḻu<supplied reason="omitted">ttu</supplied></item>
                     </list>
-                    
                 </p>
-                
                 
             </div>
             
@@ -139,8 +140,17 @@
                 
             </div>
             
-            <div type="translation" resp="part:reda">
+            <div type="translation" resp="part:reda part:emfr">
                 
+                <p n="1">Prosperity! Fortune!</p>
+                <p n="1">10th year of the glorious king Sundara Pāṇḍya, emperor of the three worlds.</p>
+                <p n="1-4">There is a land and a residential area <supplied reason="explanation"><foreign>nattam</foreign></supplied> ...</p>
+                <p n="4-7">...</p>
+                <p n="7-8">This land of ...,
+                I, Kulōttuṅka-rāyaṉ, <hi rend="italic">alias</hi> Āṇṭāṉ Kōtai,
+                I have given <supplied reason="explanation"><foreign>iṭṭēṉ</foreign></supplied> it,
+                so that <supplied reason="subaudible">this donation</supplied> is due to go as long as the moon and the sun for food-offerings and for a lamp for this lord.</p>
+                <p n="8-9">...</p>                
             </div>
             
             <div type="commentary">
