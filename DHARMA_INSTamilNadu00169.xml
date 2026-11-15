@@ -52,7 +52,7 @@
                 
                 <p>
                     <lb n="1"/>vaṇṇakkanācciyā
-                    <lb n="2" break="no"/>ṇaṉ <hi rend="grantha">dha<unclear>r</unclear>mmaM</hi>
+                    <lb n="2" break="no"/>ṇaṉ <hi rend="grantha">dha<reg>r</reg>mmaM</hi>
                 </p>
             </div>	
             
@@ -69,7 +69,7 @@
                     </app>
                     
                     <app loc="2">
-                        <lem><hi rend="grantha">dha<unclear>r</unclear>mmaM</hi></lem>
+                        <lem><hi rend="grantha">dha<reg>r</reg>mmaM</hi></lem>
                         <rdg source="bib:Cox2025_01"><hi rend="grantha">dh</hi>ammam</rdg>
                     </app>
                     
