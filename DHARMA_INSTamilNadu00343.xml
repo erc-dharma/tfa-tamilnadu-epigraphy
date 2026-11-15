@@ -16,7 +16,7 @@
                         <surname>Francis</surname>
                     </persName>
                 </respStmt>
-            <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
@@ -39,8 +39,8 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-         <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
-      </encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
         <revisionDesc>
             <change who="part:emfr" when="2024-04-29">Creation of the file</change>
         </revisionDesc>
@@ -84,22 +84,25 @@
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>, with a facsimile.</p>
-                <p>Edited and translated here by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Ramachandran1954_01"/></bibl> and the facsimile therein.</p>
+                <p>Edited in <bibl><ptr target="bib:Ramachandran1954_01"/></bibl>, with a facsimile (p. 42-43, no. 28 and pl. XXVI, no. 43). See also <bibl><ptr target="bib:Ramachandran1965_01"/></bibl>, <bibl><ptr target="bib:Ramachandran1992_01"/></bibl>, <bibl><ptr target="bib:Ramachandran2005_01"/></bibl> (p. 53-54, no. 28 and pl. V, no. 43).</p>
+                <p>Edited and translated here by Emmanuel Francis, based on <bibl><ptr target="bib:Ramachandran1954_01"/></bibl> and the facsimile therein.</p>
                 
                 <listBibl type="primary">
                     
-                    <bibl n="R1"><!--complex ref-->
+                    <bibl n="R1954">
                         <ptr target="bib:Ramachandran1954_01"/>
-                        <citedRange>TBC</citedRange>
-                        <citedRange unit="plate">TBC</citedRange><!--check plate number-->
                     </bibl>
                     
+                    <bibl n="R1965">
+                        <ptr target="bib:Ramachandran1965_01"/>
+                    </bibl>
                     
-                    <bibl n="R2"><!--complex ref-->
+                    <bibl n="R1992">
+                        <ptr target="bib:Ramachandran1992_01"/>
+                    </bibl>
+                    
+                    <bibl n="R2005">
                         <ptr target="bib:Ramachandran2005_01"/>
-                        <citedRange unit="page">53-54</citedRange>
-                        <citedRange unit="plate">V, no. 43</citedRange>
                     </bibl>
                     
                 </listBibl>	
