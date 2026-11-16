@@ -52,7 +52,7 @@
             <div type="edition" xml:lang="san-Latn" rendition="class:tamil maturity:vernacular">               
                                 
                 <p>
-                    <lb n="1"/>dha<reg>r</reg>mmasenan
+                    <lb n="1"/>dha<reg>r</reg>mmasenaN
                 </p>
                 
             </div>
@@ -60,9 +60,9 @@
             <div type="apparatus">
                 <listApp>
                     
-                    <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:Ramachandran1954_01"/>
+                    <app loc="1">
+                        <lem>°senaN</lem>
+                        <note>The final <foreign>n</foreign> is not exactly identical with the preceding letter. It appears to be a slightly miniaturized <foreign>halanta</foreign> <foreign>n</foreign>. Alternatively, read °<foreign>senan<supplied reason="omitted">·</supplied></foreign>.</note>
                     </app>
                     
                 </listApp>
