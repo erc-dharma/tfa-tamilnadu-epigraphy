@@ -32,7 +32,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>Upper-case letters throughout. Superscript <foreign>o</foreign> above equal sign. Letter cluster <foreign>ij</foreign> represented by <foreign>y</foreign> topped by two dots. Abbreviated words followed by colon. Letter <foreign>u</foreign> topped by comma.</p>
+                            <p>Upper-case letters throughout. Superscript <foreign>o</foreign> above equal sign. Letter cluster <foreign>ij</foreign> represented by <foreign>y</foreign> topped by two dots; in its second occurrence (line 5), it looks like a <foreign>v</foreign>. Abbreviated words followed by colon. Letter <foreign>u</foreign> topped by comma.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -56,7 +56,7 @@
                     <lb n="3"/>VAN DEN <expan><abbr>WELED</abbr><ex>ELE</ex></expan>
                     GROOT
                     <lb n="4"/><expan><abbr>AGTB</abbr><ex>ARE</ex></expan> HEER GOUVERNEUR
-                    <lb n="5"/>RE<choice><orig>Y</orig><reg>IJ</reg></choice>NIER VAN VLISSINGEN
+                    <lb n="5"/>RE<choice><orig><unclear reason="eccentric_ductus">Y</unclear></orig><reg>IJ</reg></choice>NIER VAN VLISSINGEN
                     <lb n="6"/>IS DEESE PAGOOD HERBOUWT,
                 </p>
                 
