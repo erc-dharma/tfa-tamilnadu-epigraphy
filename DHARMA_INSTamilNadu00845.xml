@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nākappaṭṭiṉam, Malaiyīśvaraṉ temple, 1777 CE</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00845.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
+                    <msContents>
+                        <summary>Slab built into the outer wall.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>Upper-case letters throughout. Superscript <foreign>o</foreign> above equal sign. Letter cluster <foreign>ij</foreign> represented by <foreign>y</foreign> topped by two dots. Abbreviated words followed by colon. Letter <foreign>u</foreign> topped by comma.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2026-11-16" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="nld-Latn" rendition="class:latin maturity:undetermined">
+                
+                <p>
+                    <lb n="1"/>IN <expan><abbr>A</abbr><ex>NN</ex><abbr><hi rend="superscript">O</hi></abbr></expan> 1777, EN ONDER DE                
+                    <lb n="2"/>LOFFEL<choice><orig>Y</orig><reg>IJ</reg></choice>KE REGERING
+                    <lb n="3"/>VAN DEN <expan><abbr>WELED</abbr><ex>ELE</ex></expan>
+                    GROOT
+                    <lb n="4"/><expan><abbr>AGTB</abbr><ex>ARE</ex></expan> HEER GOUVERNEUR
+                    <lb n="5"/>RE<choice><orig>Y</orig><reg>IJ</reg></choice>NIER VAN VLISSINGEN
+                    <lb n="6"/>IS DEESE PAGOOD HERBOUWT,
+                </p>
+                
+            </div>	
+            
+            <div type="apparatus">
+                
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                <p n="1-6">
+                    In the year 1777 and under the praiseworthy government of the noble <supplied reason="explanation"><foreign>weledele</foreign></supplied>, great and honourable <supplied reason="explanation"><foreign>agtbare</foreign></supplied> lord Reijnier van Vlissingen, this pagoda has been rebuilt.
+                </p>       
+            </div>	
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1963-1964/B/1963-1964/291).</p>
+                <p>This edition by Emmanuel Francis, based on ASI estampage available on BharatSHRI.</p>
+                
+                <!--<listBibl type="primary">
+                    
+                    </listBibl>-->           
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1963-1964"/>
+                        <citedRange unit="page">83</citedRange>
+                        <citedRange unit="appendix">B/1963-1964</citedRange>
+                        <citedRange unit="item">291</citedRange>
+                    </bibl>	
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>

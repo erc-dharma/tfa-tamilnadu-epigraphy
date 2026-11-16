@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nākappaṭṭiṉam, Kāyārōkaṇam temple, time of Rājendra Cōḻa, year 7</title>
+                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of Rājendra Cōḻa, year 7</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -273,9 +273,7 @@
             </div>
             
             <div type="translation" resp="part:emfr">
-                
-                <div type="textpart" n="A">
-                    
+                               
                     <p n="1">
                         Prosperity! Fortune!
                     </p>
@@ -318,14 +316,7 @@
                     </p>
                     <p n="31-34">
                         ...
-                    </p>
-                    
-                </div>
-                
-                <div type="textpart" n="B">
-                    <p n="1-6">so that there be two <foreign>nāḻi</foreign>s at the time of therice food-offering <supplied reason="lost">for Ardhanā</supplied>ri <gap reason="ellipsis"/></p>
-                </div>
-                
+                    </p>               
                 
             </div>	
             
