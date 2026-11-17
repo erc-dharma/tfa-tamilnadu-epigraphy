@@ -56,7 +56,7 @@
                     <lb n="3" break="no"/>GELING•IN•S<choice><orig>Y</orig><reg>IJ</reg></choice>N LEVEN                    
                     <lb n="4"/>OPPERSTIERMAN•VAN
                     <lb n="5"/>AMSTERDAM•OUT•26
-                    <lb n="6"/>JAREN•OVERLEDEN
+                    <lb n="6"/>IAREN•OVERLEDEN
                     <lb n="7"/>DEN•3<hi rend="superscript"><gap reason="illegible" quantity="1" unit="character"/></hi> APRIL 1667
                 </p>
                 
@@ -66,7 +66,8 @@
                 <listApp>
                     <app loc="7">
                         <lem>3<hi rend="superscript"><gap reason="illegible" quantity="1" unit="character"/></hi></lem>
-                        <rdg source="Mārkciyakānti+al2007_01">3<hi rend="superscript">M</hi></rdg>
+                        <rdg source="bib:Cotton1946_01">3<hi rend="superscript">en</hi></rdg>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">3<hi rend="superscript">M</hi></rdg>
                     </app>
                 </listApp>
             </div>
@@ -87,11 +88,16 @@
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>, with an estampage.</p>
-                <p>This edition by Emmanuel Francis, based <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and visual documentation therein.</p>
+                <p>Edited in <bibl><ptr target="bib:Cotton1946_01"/></bibl>, <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>, with an estampage.</p>
+                <p>This edition by Emmanuel Francis, based on <bibl><ptr target="bib:Cotton1946_01"/></bibl>, <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and visual documentation therein.</p>
                 
                 <listBibl type="primary">
                     
+                    <bibl n="C">
+                        <ptr target="bib:Cotton1946_01"/>
+                        <citedRange unit="page">225</citedRange>
+                        <citedRange unit="item">2441</citedRange>
+                    </bibl>
                     <bibl n="NK">
                         <ptr target="bib:Mārkciyakānti+al2007_01"/>
                         <citedRange unit="page">267</citedRange>

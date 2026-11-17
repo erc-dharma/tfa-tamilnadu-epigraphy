@@ -53,14 +53,14 @@
                 <p>
                     <lb n="1"/>HIER LEYT <expan><abbr>BEGRAV</abbr><ex>EN</ex></expan> DEN
                     <lb n="2"/>EERSAMEN RE<choice><orig>Y</orig><reg>IJ</reg></choice>NIER <expan><abbr>VA</abbr><ex>N</ex></expan>
-                    <lb n="3"/>BUYTEN DYCK VAN DORT                   
-                    <lb n="4"/>IN S<choice><orig>Y</orig><reg>IJ</reg></choice>N LEVEN <expan><abbr>COOPM</abbr><ex>?</ex></expan>
-                    <lb n="5"/>EN GUARNISOEN BOEH
-                    <lb n="6"/>HOUDER DER STADT
+                    <lb n="3"/>BUYTENDYCK VAN DORT                   
+                    <lb n="4"/>IN S<choice><orig>Y</orig><reg>IJ</reg></choice>N LEVEN <expan><abbr>COOPM</abbr><ex>AN</ex></expan>
+                    <lb n="5"/>EN GUARNISOEN BOEK
+                    <lb n="6" break="no"/>HOUDER DER STADT
                     <lb n="7"/>NAGAPATNAM IN DEN
                     <lb n="8"/>HEERE ONTSLAPEN DEN
-                    <lb n="9"/>II= MEY A= 1684 OUD <hi rend="check">IN</hi>
-                    <lb n="10"/>S<choice><orig>Y</orig><reg>IJ</reg></choice>N DE OMTRENT 64
+                    <lb n="9"/><hi rend="check">II=</hi> MEY <hi rend="check">A=</hi> 1684 OUDT
+                    <lb n="10" break="no"/>S<choice><orig>Y</orig><reg>IJ</reg></choice>NDE OMTRENT 64
                     <lb n="11"/>IAREN
                 </p>
                 
@@ -68,21 +68,33 @@
             
             <div type="apparatus">
                 <listApp>
-                    <app loc="0">
-                        <lem></lem>
-                        <rdg source="Mārkciyakānti+al2007_01"></rdg>
+                    <app loc="5">
+                        <lem source="bib:Cotton1946_01">BOEK<lb n="6" break="no"/>HOUDER</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">BOEH<lb n="6" break="no"/>HOUDER</rdg>
+                    </app>
+                    <app loc="9">
+                        <lem source="bib:Mārkciyakānti+al2007_01"><hi rend="check">II=</hi></lem>
+                        <rdg source="bib:Cotton1946_01">V<hi rend="superscript">N</hi></rdg>
+                    </app>
+                    <app loc="9">
+                        <lem source="bib:Mārkciyakānti+al2007_01"><hi rend="check">A=</hi></lem>
+                        <rdg source="bib:Cotton1946_01">A<hi rend="superscript">O</hi></rdg>
+                    </app>
+                    <app loc="9">
+                        <lem source="bib:Cotton1946_01">OUDT</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">OUCT</rdg>
                     </app>
                 </listApp>
             </div>
             
             <div type="translation" resp="part:emfr">
                 <p n="1-7">
-                    Here lies buried the honourable Reijnier van Buyten Dick van Dort,
+                    Here lies buried the honourable Reijnier van Buyten Dick van Dort,<note><bibl><ptr target="bib:Cotton1946_01"/></bibl>Dort is an abbreviation for Dordrecht.</note>
                     who was in his life 
-                    ...
-                    and accountant <supplied reason="explanation"><foreign>boehhouder</foreign><note>That is, <foreign>boekhouder</foreign>.</note></supplied> of the garnison in the city of Nagapatnam,
-                    who died here
-                    on 2 May of the year 1684, approximately 64 years old.                   
+                    merchant 
+                    and accountant <supplied reason="explanation"><foreign>boekhouder</foreign></supplied> of the garnison in the city of Nagapatnam,
+                    who passed away<note>Literally, felt asleep.</note> in the Lord
+                    on 2 May of the year 1684, approximately aged 64 years.                   
                 </p>       
             </div>	
             
@@ -92,11 +104,16 @@
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
-                <p>This edition by Emmanuel Francis, based <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and visual documentation on <ref target="https://sharedcemeteries.net/en/cemetery-information-india/the-old-dutch-cemetery-in-nagapattinam">Nagapattinam - Old Cemetery, by Rene Ten Dam, 2 May 2021</ref> (consulted 17/11/2026).</p>
+                <p>Edited in <bibl><ptr target="bib:Cotton1946_01"/></bibl>, <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
+                <p>This edition by Emmanuel Francis, based on <bibl><ptr target="bib:Cotton1946_01"/></bibl>, <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and visual documentation available on <ref target="https://sharedcemeteries.net/en/cemetery-information-india/the-old-dutch-cemetery-in-nagapattinam">Nagapattinam - Old Cemetery, by Rene Ten Dam, 2 May 2021</ref> (consulted 17/11/2026).</p>
                 
                 <listBibl type="primary">
                     
+                    <bibl n="C">
+                        <ptr target="bib:Cotton1946_01"/>
+                        <citedRange unit="page">225</citedRange>
+                        <citedRange unit="item">2444</citedRange>
+                    </bibl>
                     <bibl n="NK">
                         <ptr target="bib:Mārkciyakānti+al2007_01"/>
                         <citedRange unit="page">265</citedRange>
