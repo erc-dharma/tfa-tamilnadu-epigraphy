@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of Rājādhirāja, year 5</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00830.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2026-11-17" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <ab>
+                    <lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
+                </ab>
+                
+                <lg n="1" met="āciriyappa">
+                    <l n="1"><supplied reason="lost">kaṭaḻ cūḻnta</supplied> pār-mātarum ...</l>
+                </lg> 
+                
+                <p>
+                    ... -āṉa <hi rend="grantha">tribhu</hi><supplied reason="omitted">va</supplied>na-c-cakkaravarttikaḷ <supplied reason="lost">yā</supplied>ṇṭu 5-<hi rend="check">vatu</hi>
+                </p>
+                <p>
+                    <lb n="2" break="no"/><gap reason="lost" quantity="2" unit="character"/> <hi rend="grantha">pakṣa</hi>ttu ... tiru-k-kārōṇa-paṭṭaṉum<!--pace TNSDA--> pirān=taka-tēva-tēvarkaḷ<!--pace TNSDA-->
+                    <lb n="3" />tiru-k-kārōṇam-uṭaiyāṉ cantirātitt<choice><orig>i</orig><reg>ī</reg></choice><hi rend="grantha">śvara</hi>m-uṭaiyāṉ ... Aḻaka-viṭaṅka-paṭṭaṉ<supplied reason="lost">um</supplied> yāṉ
+                    <lb n="4" /><unclear></unclear>Ātipurāṇa-paṭṭaṉum ... Ik-kācu eṇpatt’ aiñcum Upaiya<unclear>m</unclear> <gap reason="lost" quantity="2" unit="character"/> vōm <!--<g ref="sym:pillaiyarCuli" type="punctuation">.</g>-->
+                </p>
+                
+            </div>	
+            
+            <div type="apparatus">
+                <listApp>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
+                    </app>                    
+                </listApp>
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <!--<p n="1">
+                    Prosperity! Fortune!
+                    </p>-->
+                
+            </div>	
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1956-1957/B/1956-1957/153).</p>
+                <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
+                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and ASI estampage available on BharatSHRI.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="NK">
+                        <ptr target="bib:Mārkciyakānti+al2007_01"/>
+                        <citedRange unit="page">202-203</citedRange>
+                        <citedRange unit="item">19/1998</citedRange>
+                    </bibl>
+                    
+                </listBibl>           
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1956-1957"/>
+                        <citedRange unit="page">57</citedRange>
+                        <citedRange unit="appendix">B/1956-1957</citedRange>
+                        <citedRange unit="item">153</citedRange>
+                    </bibl>	
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
