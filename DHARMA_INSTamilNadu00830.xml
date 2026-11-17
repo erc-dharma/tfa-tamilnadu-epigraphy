@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of Rājādhirāja, year 5</title>
+                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of Rājādhirāja II Cōḻa, year 5</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -55,11 +55,20 @@
                 </ab>
                 
                 <lg n="1" met="āciriyappa">
-                    <l n="1"><supplied reason="lost">kaṭaḻ cūḻnta</supplied> pār-mātarum ...</l>
+                    <l n="1"><supplied reason="lost">kaṭaḻ cūḻnta</supplied> pār-mātarum pū-mātarum kalai-mātarum</l>
+                    <l n="2">Aṭalcū<add place="above">ḻ</add>nta <hi rend="grantha">ja</hi>ya-mātaruñ c<choice><orig>i</orig><reg>ī</reg></choice>r-mātarum amarntu vāḻa</l>
+                    <l n="3">nāṟkaṭal cūḻ puvi y-ēḻum pāṟkaṭal pōl pukaḻ parappa</l>
+                    <l n="4">Āt<unclear>i</unclear>yukam āmeṉṉa-<supplied reason="lost">c cōtimuṭi puṉaintaruḷi</supplied></l>
+                    <l n="5"><supplied reason="lost">Aṟuca</supplied>mayamum Aim-pūtamum neṟiyil niṉṟum pārippa-t</l>
+                    <l n="6"><unclear>t</unclear>e<supplied reason="lost">ṉṉava</supplied>ruñ<!--pace TNSDA--> cēralaruñ ciṅkaḷaru<supplied reason="subaudible">m</supplied> mutalāya</l>
+                    <l n="7">maṉṉavarkaḷ tiṟai kuṇantu vant' i<unclear>ṟaiñc'</unclear></l>
+                    <l n="8">i<!--pace TNSDA--> <gap reason="lost"/> ḻi Oru ceṅkōl Ēḻu pārum iṉit' aḻippa-<choice><sic>ce</sic><corr>c</corr></choice></l>
+                    <l n="9">c<choice><sic>a</sic><corr>e</corr></choice>m-poṉ v<choice><orig>i</orig><reg>ī</reg></choice>ra-<hi rend="grantha">siṃhasa</hi>nattu</l>
+                    <l n="10">Ulak-uṭai mukkō-<supplied reason="lost">k-kiḻāṉaṭi</supplied>kaḷō<supplied reason="lost">ṭu</supplied>m</l>
+                    <l n="11">vīṟṟ-irunt-aruḷ<supplied reason="lost">i</supplied>ya</l>
                 </lg> 
-                
                 <p>
-                    ... -āṉa <hi rend="grantha">tribhu</hi><supplied reason="omitted">va</supplied>na-c-cakkaravarttikaḷ <supplied reason="lost">yā</supplied>ṇṭu 5-<hi rend="check">vatu</hi>
+                    kō-v<supplied reason="lost">i</supplied>rāca-kēcari-paṟmar-āṉa <hi rend="grantha">tribhu</hi><supplied reason="omitted">va</supplied><choice><orig>n</orig><reg>ṉ</reg></choice>a-c-cakkaravarttikaḷ <supplied reason="lost">yā</supplied>ṇṭu 5-<hi rend="check">vatu</hi>
                 </p>
                 <p>
                     <lb n="2" break="no"/><gap reason="lost" quantity="2" unit="character"/> <hi rend="grantha">pakṣa</hi>ttu ... tiru-k-kārōṇa-paṭṭaṉum<!--pace TNSDA--> pirān=taka-tēva-tēvarkaḷ<!--pace TNSDA-->
