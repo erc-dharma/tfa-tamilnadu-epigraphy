@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of Rājārāja, year 10</title>
+                <respStmt>
+                    <resp key="creator">author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+                <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
+            <publicationStmt>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
+                <pubPlace>Paris</pubPlace>
+                <idno type="filename">DHARMA_INSTamilNadu00831.xml</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
+                    <msContents>
+                        <summary>Rājarāja II Cōḻa (r. 1146-1173). Meykkīrtti: <foreign>pūmaruviya tirumātum</foreign>.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Encoded in TEI/EpiDoc according to the <ref target="https://hal.science/halshs-02888186">DHARMA Encoding Guide for Documentary Editions, version 2</ref></p>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2026-11-18" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <ab>
+                    <lb n="1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
+                </ab>
+                
+                <lg n="1" met="āciriyappa">
+                    <l n="1"><supplied reason="lost">pū maruviya tiru-mātum puvi-mātum ceya-mātum</supplied></l>
+                    <l n="2"><supplied reason="lost">nā</supplied> maruviya kalai-mātum pukaḻ-mātum nayantu pulka</l>
+                    <l n="3">Arumaṟai vitineṟi y-aṉaittun taḻaippa</l>
+                    <l n="4">varumuṟai Urimai maṇimuṭi cūṭi-t</l>
+                    <l n="5">tiṅkaḷ <supplied reason="lost">v</supplied>e<supplied reason="lost">ṇkuṭai-t ticaikkaḷiṟu Eṭṭu</supplied>n</l>
+                    <l n="6">taṅku <supplied reason="omitted">ta</supplied>ṉikkūṭan tāṉeṉa vi<unclear>ḷa</unclear>ṅka-<supplied reason="omitted">k</supplied></l>
+                    <l n="7"><supplied reason="undefined">karuṅka</supplied>li-p paṭ<unclear>imi</unclear>yai-c ceṅkōl tuṟappa-p</l>
+                    <l n="8">poru <gap reason="lost" quantity="2" unit="character"/> ti <gap reason="lost" quantity="1" unit="character"/> āḻi pu<unclear reason="eccentric_ductus">v</unclear>ivaḷart tuṭaṉvara</l>
+                    <l n="9">villavar iraṭṭar mīṉavar ciṅkaḷar</l>
+                    <l n="10">pallavar t<unclear>e</unclear>li<unclear>ṅ</unclear>kar pārttivar paṇiya</l>
+                    <l n="11">eṇṇaruṅ kaṟpam<!--cup: kaṟpil--> maṇṇakam puṇarntu</l>
+                    <l n="12">cem-poṉ vīra-<hi rend="grantha">s<supplied reason="lost">i</supplied>ṃhasa</hi>nattu-p</l>
+                    <l n="13">puvana-muḷut-uṭaiyāḷ-ō<supplied reason="lost">ṭum</supplied>
+                        <supplied reason="lost">vīṟṟ-irunt-aruḷiya</supplied></l>
+                </lg>  
+                
+                <p>
+                    <supplied reason="lost">kō-p-para-kēcari-vaṉmar-ā</supplied><choice><orig>n</orig><reg>ṉ</reg></choice>a tiri-<hi rend="grantha">bhu</hi><supplied reason="omitted">va</supplied>na-c-cakkara-varttikaḷ
+                    <hi rend="grantha">śrī-rāja-rāja-de</hi>varkku yāṇ<unclear>ṭu</unclear> patt-āvatu <space type="unclassified"/>
+                </p>
+                
+                <p>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> ma-nāyaṟṟu ...
+                    <lb n="3" /><gap reason="lost" extent="unknown" unit="character"/> l cēṉapatikaḷ ...
+                    <lb n="4" /><gap reason="lost" extent="unknown" unit="character"/> n Ōtātu ...
+                    <lb n="5" /><gap reason="lost" extent="unknown" unit="character"/> ṭa poli Ūṭṭāka kai-k-koṇṭa  ...                    
+                </p>
+                
+            </div>	
+            
+            <div type="apparatus">
+                <listApp>
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
+                    </app>                    
+                </listApp>
+            </div>
+            
+            <div type="translation" resp="part:emfr">
+                
+                <!--<p n="1">
+                    Prosperity! Fortune!
+                    </p>-->
+                
+            </div>	
+            
+            <div type="commentary">
+                <p>The line 1 is not written until the end of support. A space is left blank.</p>
+                </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1956-1957/B/1956-1957/154).</p>
+                <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
+                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and ASI estampage available on BharatSHRI.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="NK">
+                        <ptr target="bib:Mārkciyakānti+al2007_01"/>
+                        <citedRange unit="page">204-206</citedRange>
+                        <citedRange unit="item">20/1998</citedRange>
+                    </bibl>
+                    
+                </listBibl>           
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1956-1957"/>
+                        <citedRange unit="page">57</citedRange>
+                        <citedRange unit="appendix">B/1956-1957</citedRange>
+                        <citedRange unit="item">154</citedRange>
+                    </bibl>	
+                    
+                </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
