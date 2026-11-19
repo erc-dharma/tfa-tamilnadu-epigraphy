@@ -32,7 +32,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>Upper-case letters throughout. No space between words. Superscript <foreign>o</foreign> above equal sign. Letter cluster <foreign>ij</foreign> represented by <foreign>y</foreign> topped by two dots; in its second occurrence (line 5), it looks like a <foreign>v</foreign>. Abbreviated words followed by colon. Letter <foreign>u</foreign> topped by comma.</p>
+                            <p>Upper-case letters throughout. No space between words. Superscript <foreign>o</foreign> above equal sign. Letter <foreign>y</foreign> topped by two dots representing modern <foreign>ij</foreign>; in its second occurrence (line 5), it looks like a <foreign>v</foreign>. Abbreviated words followed by colon. Letter <foreign>u</foreign> topped by comma.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -52,11 +52,11 @@
                 
                 <p>
                     <lb n="1"/>IN <expan><abbr>A</abbr><ex>NN</ex><abbr><hi rend="superscript">O</hi></abbr></expan> 1777, EN ONDER DE                
-                    <lb n="2"/>LOFFEL<choice><orig>Y</orig><reg>IJ</reg></choice>KE REGERING
+                    <lb n="2"/>LOFFELYKE REGERING
                     <lb n="3"/>VAN DEN <expan><abbr>WELED</abbr><ex>ELE</ex></expan>
                     GROOT
-                    <lb n="4"/><expan><abbr>AGTB</abbr><ex>ARE</ex></expan> HEER GOUVERNEUR
-                    <lb n="5"/>RE<choice><orig><unclear reason="eccentric_ductus">Y</unclear></orig><reg>IJ</reg></choice>NIER VAN VLISSINGEN
+                    <lb n="4" break="no"/><expan><abbr>AGTB</abbr><ex>ARE</ex></expan> HEER GOUVERNEUR
+                    <lb n="5"/>REYNIER VAN VLISSINGEN
                     <lb n="6"/>IS DEESE PAGOOD HERBOUWT,
                 </p>
                 
@@ -68,7 +68,7 @@
             
             <div type="translation" resp="part:emfr">
                 <p n="1-6">
-                    In the year 1777 and under the praiseworthy government of the noble <supplied reason="explanation"><foreign>weledele</foreign></supplied>, great and honourable <supplied reason="explanation"><foreign>agtbare</foreign></supplied> lord Reijnier van Vlissingen, this pagoda has been rebuilt.
+                    In the year 1777 and under the praiseworthy government of the noble <supplied reason="explanation"><foreign>weledele</foreign></supplied> and right honourable <supplied reason="explanation"><foreign>groot-agtbare</foreign></supplied> lord Reijnier van Vlissingen, this pagoda has been rebuilt.
                 </p>       
             </div>	
             

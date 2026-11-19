@@ -32,7 +32,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>Upper-case letters throughout. Words separated by middle dot/bullet. Letter cluster <foreign>ij</foreign> represented by <foreign>y</foreign> topped by two dots. Letter <foreign>u</foreign> topped by tilde. Superscript letter above equal sign.</p>
+                            <p>Upper-case letters throughout. Words separated by middle dot/bullet. Letter <foreign>y</foreign> topped by two dots representing modern <foreign>ij</foreign>. Letter <foreign>u</foreign> topped by tilde. Superscript letter above equal sign.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -53,11 +53,11 @@
                 <p>
                     <lb n="1"/>HIER•LEYT•BEGRAVEN
                     <lb n="2"/>CORNELIS•CLAESEN•ION
-                    <lb n="3" break="no"/>GELING•IN•S<choice><orig>Y</orig><reg>IJ</reg></choice>N LEVEN                    
+                    <lb n="3" break="no"/>GELING•IN•SYN LEVEN                    
                     <lb n="4"/>OPPERSTIERMAN•VAN
                     <lb n="5"/>AMSTERDAM•OUT•26
                     <lb n="6"/>IAREN•OVERLEDEN
-                    <lb n="7"/>DEN•3<hi rend="superscript"><gap reason="illegible" quantity="1" unit="character"/></hi> APRIL 1667
+                    <lb n="7"/>DEN•3<hi rend="grantha"><hi rend="superscript"><gap reason="illegible" quantity="1" unit="character"/></hi></hi> APRIL 1667
                 </p>
                 
             </div>	
@@ -88,7 +88,7 @@
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:Cotton1946_01"/></bibl>, <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>, with an estampage.</p>
+                <p>Edited in <bibl><ptr target="bib:Cotton1946_01"/></bibl> and in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>, with an estampage.</p>
                 <p>This edition by Emmanuel Francis, based on <bibl><ptr target="bib:Cotton1946_01"/></bibl>, <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and visual documentation therein.</p>
                 
                 <listBibl type="primary">

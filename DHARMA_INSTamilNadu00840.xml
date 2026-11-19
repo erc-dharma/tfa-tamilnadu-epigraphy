@@ -76,11 +76,14 @@
                     <milestone n="B" unit="zone" type="pagelike" break="no"/>
                     <lb n="4" break="no"/>-paṭṭi<choice><orig>n</orig><reg>ṉ</reg></choice>a<supplied reason="lost">ttu</supplied> tiru-k-kārōṇam Uṭaiya <hi rend="grantha">mahā</hi><!--TNSDA: mahāde--> <gap reason="lost" extent="unknown" unit="character"/> ṟum Ilaṅkaṭam
                     <lb n="5" />pūr-uṭaiya-c caṉa-kuṉṟattum Iḷaṅkaṭam <gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">mahāde</hi>va
-                    <lb n="6" />ṟku tañcāvūr vaḷava<hi rend="grantha">śīkhā</hi>maṇi-p-pe <gap reason="lost" extent="unknown" unit="character"/> kācu <num value="20">2 <g type="numeral">10</g></num>
-                    <milestone n="C" unit="zone" type="pagelike" break="no"/>
+                    <lb n="6" break="no"/>ṟku tañcāvūr vaḷava-<hi rend="grantha">śīkhā</hi>maṇi-p-pe <gap reason="lost" extent="unknown" unit="character"/> kācu <num value="20">2 <g type="numeral">10</g></num>
+                    <milestone n="C" unit="zone" type="pagelike"/>
                     <lb n="7"/>Ik-kācu Iru-pattu ... vāypūviṟ Iru-tūṇi kuṟuṇiyu ... In-nellu mup=patiṉ kalamum pūvaḻi patiṉ aiṅ-kalam nellu-c cayaṅ<!--TNSDA:[kaṭāra]ṅ-->-koṇṭa-cōḻaṉ-āṉa <gap reason="lost" quantity="3" unit="character"/>
                     <lb n="8"/>lāl ... ney tirukkārōṇam-uṭaiyār tirumuṟṟattē ko<supplied reason="omitted">ṇ</supplied>ṭu va<choice><orig>ṉ</orig><reg>n</reg></choice>t' aḷakka kaṭavōm āka Ipparicu Icai<choice><orig>ñc</orig><reg>nt</reg></choice>u kaiyyeḻutt' ōlai y-iṭṭu-k kuṭu <gap reason="lost" quantity="3" unit="character"/>
-                    <lb n="9"/>... col ... <unclear>rōm</unclear> tirukkārōṇam-uṭ<choice><orig>a</orig><reg>ai</reg></choice>yār ka<hi rend="grantha">nmi</hi><!--TNSDA--> <hi rend="grantha">śrī-caṇḍeśva</hi>rar iṭai Ivarkaḷ col kalveṭṭi<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ Iv-ūr taccaṉ nēṟaṉ caṭ<choice><orig>a</orig><reg>ai</reg></choice>ya<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ
+                    <lb n="9"/>... col ... <unclear>rōm</unclear>
+                </p>
+                <p>
+                    tirukkārōṇam-uṭ<choice><orig>a</orig><reg>ai</reg></choice>yār ka<hi rend="grantha">nmi</hi><!--TNSDA--> <hi rend="grantha">śrī-caṇḍeśva</hi>rar iṭai Ivarkaḷ col kalveṭṭi<choice><orig>n</orig><reg>ṉ</reg></choice>ēṉ Iv-ūr taccaṉ nēṟaṉ caṭ<choice><orig>a</orig><reg>ai</reg></choice>ya<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ
                 </p>
                 
             </div>	
