@@ -32,7 +32,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p/>
+                            <p><bibl><ptr target="bib:ARIE1963-1964"/></bibl>: <quote>In characters of about the 15th century.</quote></p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -53,10 +53,34 @@
                 <ab>
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>                
-                <p><hi rend="grantha">rājarāja</hi>-p-perumpaḷḷi Āṉa <hi rend="grantha">śrī-m<supplied reason="lost">ā</supplied>h<supplied reason="lost">e</supplied>śva</hi>ra-p-perum-paḷḷiyil <hi rend="grantha">śrī-kā</hi>riyavarum
-                    <lb n="2"/>kaṇakkar paṇṭarikaḷukku ciṟu-muṟi Ik-kōyil <supplied reason="lost">tiru</supplied>-maṭai-viḷākam <surplus>7</surplus> <num value="17"><g type="numeral">10</g> 7</num>-vatu Aṟpaci-mā<hi rend="grantha"><supplied reason="lost">ta-mu</supplied></hi>
-                    <lb n="3" break="no"/><unclear>ta</unclear>l Ik-kōyil tiru-p-paṇikku Uṭal-āka Eppē<supplied reason="lost">rp</supplied>paṭṭa Upātikaḷum Uṭpaṭa mutal aṭaṅka <hi rend="grantha">yitai</hi>
-                    <lb n="4" break="no"/>Iṟ<supplied reason="lost">ai</supplied>yili-y-āka viṭṭatu Ip-paṭik=ku Ivv-ōlai …
+                <p><hi rend="grantha">rājarāja</hi>-p-perum-paḷḷi Āṉa <hi rend="grantha">śrī-m<supplied reason="lost">ā</supplied>h<supplied reason="lost">e</supplied>śva</hi>ra-p-perum-paḷḷiyil <hi rend="grantha">śrī-kā</hi>riyavarum
+                    <lb n="2"/>kaṇakkar paṇṭarikaḷukku ciṟu-muṟi
+                </p>
+                <p>
+                    Ik-kōyil <supplied reason="lost">tiru</supplied>-maṭai-viḷākam <surplus>7</surplus> <num value="17"><g type="numeral">10</g> 7</num>-vatu Aṟpaci-mā<hi rend="check"><supplied reason="lost">ta-mu</supplied></hi>
+                    <lb n="3" break="no"/><unclear>ta</unclear>l Ik-kōyil tiru-p-paṇikku Uṭal-āka Eppē<supplied reason="lost">rp</supplied>paṭṭa Upātikaḷum Uṭpaṭa mutal aṭaṅka <hi rend="check">yitai</hi>
+                    <lb n="4"/>Iṟ<supplied reason="lost">ai</supplied>yili-y-āka v-iṭṭatu
+                </p>
+                <p>
+                    Ip-paṭik=ku Ivv-ōlai<supplied reason="lost">yē</supplied>-<unclear>p</unclear> piṭipāt-āka koṇṭu nāṉk’ ellai <gap reason="lost" quantity="2" unit="character"/>
+                    <lb n="5" break="no"/>kaḷum vēṇṭum kuṭikaḷum Ēṟṟi Immutal <supplied reason="lost">ko<!--kompu clear--></supplied>ṇṭu tiruppaṇi ceyvikkavum
+                </p>
+                <p>
+                    Ippa<supplied reason="lost">ṭi</supplied>
+                    <lb n="6" break="no"/>ku <hi rend="grantha">candrāditya</hi>varaiyum Iṟaiyili-y-āka kal<supplied reason="lost">li</supplied>lum cempilum veṭṭi koḷḷa <gap reason="lost" quantity="2" unit="character"/>
+                    <lb n="7"/><gap reason="lost" quantity="1" unit="character"/> ppatu
+                </p>
+                <p>
+                    <list><item>Ip=paṭikku nayapālaṉ Eḻuttu</item>
+                        <item>Ip=paṭikku <gap reason="lost" quantity="2" unit="character"/> pālaṉ Eḻuttu</item>
+                        <item>Ip=paṭikku teṉt<unclear>i</unclear>cai-<supplied reason="lost">nā</supplied>
+                            <lb n="8" break="no"/><supplied reason="lost">ṭ</supplied>ṭu vēḷāṉ Eḻuttu</item>
+                        <item>Ip=paṭikku tamiḻataraiyaṉ E<supplied reason="lost">ḻu</supplied>ttu</item>
+                        <item>Ip=paṭikku kulacēkara-nayapālaṉ Eḻut<supplied reason="lost">tu</supplied></item>
+                        <item><lb n="9"/><unclear>I</unclear>p=paṭikku narakai-nāṭṭu vēḷāṉ Eḻuttu</item>
+                        <item>Ip=pa<supplied reason="lost">ṭik</supplied>ku parā<choice><sic>ka</sic><corr><hi rend="grantha">kra</hi></corr></choice><hi rend="grantha">ma</hi>-pāṇṭiya-taṉa-pālaṉ Eḻuttu</item>
+                        <item>I
+                            <lb n="10" break="no"/>p=paṭikku paṇiya nalakaṇakka-paṭṭiṉam-uṭai<supplied reason="lost">yā</supplied><unclear>ṉ</unclear> Eḻuttu <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g></item></list>
                 </p>
                 
             </div>	
@@ -66,21 +90,44 @@
                     <app loc="0">
                         <lem></lem>
                         <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
-                    </app>                    
+                    </app>    
+                    <app loc="5">
+                        <lem>Immutal <supplied reason="lost">ko<!--kompu clear--></supplied>ṇṭu tiruppaṇi</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">Immutalilē Itiruppaṇi</rdg>
+                    </app>   
+                    <app loc="7">
+                        <lem><gap reason="lost" quantity="2" unit="character"/> pālaṉ</lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01">tanapālaṉ</rdg>
+                    </app>   
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
+                    </app>   
                 </listApp>     
             </div>
             
             <div type="translation" resp="part:emfr">
                 
-                <!--<p n="1">
+                <p n="1">
                     Prosperity! Fortune!
-                    </p>-->
-                
+                </p>
+                <p n="1-2">
+                    Ciṟumuṟi to the managers, accountants and treasurers in the glorious Māheśvara-p-perum-paḷḷi alias the Rājarāja-p-perum-paḷḷi.
+                </p>
+                <p n="2-4">
+                    <supplied reason="subaudible">In</supplied> the temple premises <supplied reason="explanation"><foreign>tiru-maṭai-viḷākam</foreign></supplied> in this temple, from the month of Aṟpaci in the 17th <supplied reason="subaudible">year</supplied>, 
+                    including whatever dues
+                    ...
+                    is given tax-free as means for the glorious services in this temple.
+                </p>
+                <p n="4-5"></p>
+                <p n="5-7"></p>
+                <p n="7-10"></p>
             </div>	
             
             <div type="commentary">
                 <p>Year 8 in ARIE.</p>
-                </div>
+            </div>
             
             <div type="bibliography">
                 
