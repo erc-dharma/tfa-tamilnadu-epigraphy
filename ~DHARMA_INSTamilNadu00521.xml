@@ -14,7 +14,7 @@
                 -->
                 <title>Kōvintapputtūr / Govindapputtūr, Gaṅgājaṭādhara temple, time of Parakesarivarman, year 14</title>
                 <respStmt>
-                    <resp>author of digital edition</resp>
+                    <resp key="creator">author of digital edition</resp>
                     <persName ref="part:vagi">
                         <forename>Valérie</forename>
                         <surname>Gillet</surname>
@@ -30,8 +30,8 @@
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris, CEIAS</pubPlace>
                 <idno type="filename">DHARMA_INSTamilNadu00521.xml</idno>
-            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
-<date from="2019" to="2026">2019-2026</date></publicationStmt>
+                <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+                <date from="2019" to="2026">2019-2026</date></publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
