@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of Rājendra Cōḻa, year <unclear>4</unclear></title>
+                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of Rājadhirāja, year <unclear>4</unclear></title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSTamilNadu00834.xml</idno>
+                <idno type="filename">DHARMA_INSTamilNadu00836.xml</idno>
                 <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
                 <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
@@ -62,42 +62,39 @@
                     <l n="5"><lb n="6"/>...</l>
                 </lg>
                                 
-                <p>
-                    <lb n="3" />
-                    <lb n="4" />
-                    <lb n="5" />
-                    <lb n="6" />
-                    <lb n="7" />
-                    <lb n="8" />
-                    <lb n="9" />
-                    <lb n="10" />
-                    <lb n="11" />
-                    <lb n="12" />
-                    <lb n="13" />
-                    <lb n="14" />
-                    <lb n="15" />
-                    <lb n="16" />
-                    <lb n="17" />
-                    <lb n="18" />
-                    <lb n="20" />
-                    <lb n="21" />
+                <p>                    
+                    <lb n="7"/>
+                    <lb n="8"/>
+                    <lb n="9"/>
+                    <lb n="10"/>
+                    <lb n="11"/>
+                    <lb n="12"/>
+                    <lb n="13"/>
+                    <lb n="14"/>
+                    <lb n="15"/>
+                    <lb n="16"/>
+                    <lb n="17"/>
+                    <lb n="18"/>
+                    <lb n="19"/>
+                    <lb n="20"/>
+                    <lb n="21"/>
                     <lb n="22"/>
-                    <lb n="23" />
-                    <lb n="24" />
-                    <lb n="25" />
-                    <lb n="26" />
-                    <lb n="27" />
-                    <lb n="28" />
-                    <lb n="29" />
-                    <lb n="30" />
-                    <lb n="31" />
-                    <lb n="32" />
-                    <lb n="33" />
-                    <lb n="34" />
-                    <lb n="35" />
-                    <lb n="36" />
-                    <lb n="37" />
-                    <lb n="28" />             
+                    <lb n="23"/>
+                    <lb n="24"/>
+                    <lb n="25"/>
+                    <lb n="26"/>
+                    <lb n="27"/>
+                    <lb n="28"/>
+                    <lb n="29"/>
+                    <lb n="30"/>
+                    <lb n="31"/>
+                    <lb n="32"/>
+                    <lb n="33"/>
+                    <lb n="34"/>
+                    <lb n="35"/>
+                    <lb n="36"/>
+                    <lb n="37"/>
+                    <lb n="38"/>             
                 </p>
                 
             </div>	
