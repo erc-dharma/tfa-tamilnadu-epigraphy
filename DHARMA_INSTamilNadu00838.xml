@@ -28,7 +28,7 @@
                 <msDesc>
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
-                        <summary>Rājēndra I (r. 1012-1044).</summary>
+                        <summary>Year 3 of Rājēndra I (r. 1012-1044) according to <bibl><ptr target="bib:ARIE1956-1957"/></bibl>, but no king and no year in the edition by <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>. </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -51,12 +51,22 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                
                 <p>
-                    <lb n="1"/><gap reason="lost" quantity="3" unit="character"/> ṉākapaṭṭiṉattu Ūrōm ṉāṅkaḷē Ivvūr viyāpāri māyilaṭṭi cēntaṉ-āṉa kēraḷāntakaṉ <gap reason="lost" quantity="3" unit="character"/> ṟku vēṇṭu <gap reason="lost" quantity="9" unit="character"/> 
-                    <lb n="2"/><gap reason="lost" quantity="3" unit="character"/> yatu kuṭutta nilattukku ... 
-                    <lb n="3"/>
-                    <lb n="4"/>
-                    <lb n="5"/>
-                    <lb n="6"/>
+                    <lb n="1"/><gap reason="lost" quantity="3" unit="character" precision="low"/> ṉākapaṭṭiṉattu Ūrōm ṉāṅkaḷē Ivvūr viyāpāri māyilaṭṭi cēntaṉ-āṉa kēraḷāntakaṉ <gap reason="lost" quantity="3" unit="character" precision="low"/> ṟku vēṇṭu <gap reason="lost" quantity="9" unit="character"/> 
+                    <lb n="2"/><gap reason="lost" quantity="3" unit="character" precision="low"/> yatu kuṭutta nilattukku 
+                    <list><item>kīḻ-pāṟk' ellai yampa-vaḻikku mēṟkum</item>
+                    <item>teṉ-pāṟk' ellai yi <gap reason="lost" quantity="10" unit="character" precision="low"/></item> 
+                    <item><gap reason="lost" quantity="10" unit="character" precision="low"/> <lb n="3"/><unclear>ṅ</unclear>kaṉilattukku kiḻakkum</item>
+                    <item>vaṭa-pāṟk' ellaiy tiru-k-kārōṇa<choice><orig>mm</orig><reg>m</reg></choice>-uṭaiya <hi rend="grantha">mahāde</hi>var nilattukku teṟku<supplied reason="lost">m</supplied></item></list>
+                    <gap reason="lost" quantity="3" unit="character" precision="low"/> Akam <gap reason="lost" quantity="3" unit="character" precision="low"/> lamāṉa <gap reason="lost" quantity="6" unit="character" precision="low"/>
+                    <lb n="4"/>nila<supplied reason="subaudible">m</supplied> <g type="numeral">1/4</g>
+                </p>
+                <p>
+                    Ik-kāṟ ceyyum cantirātttavaṟ Iṟai-Iliyāka-c ceytu kuṭuttōm nākapaṭṭiṉattu Ūrōm
+                </p>
+                <p>
+                    <gap reason="lost" quantity="3" unit="character" precision="low"/> Ivvūrōm <hi rend="grantha">śrī</hi>-kāriyam <gap reason="lost" quantity="9" unit="character" precision="low"/>                
+                    <lb n="5" break="no"/>ṅkalam-uṭaiyāṉākaṉ kumaraṉum patipāta-mūlapaṭṭ-uṭai-p pañcācāriya-tēvakaṉmikaḷum ce <gap reason="lost" quantity="9" unit="character" precision="low"/>
+                    <lb n="6"/>peruntacca<choice><orig>n</orig><reg>ṉ</reg></choice>-ēṉ <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                 </p>
                 
             </div>	

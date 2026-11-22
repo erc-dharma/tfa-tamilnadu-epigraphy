@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of ?, year 2</title>
+                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of Parakesarivarman, year 2</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -55,12 +55,15 @@
                 </ab>
                 
                 <p>
-                    <unclear>kōpparakē</unclear> <gap reason="lost"/> ṇṭ-āva<unclear>tu</unclear> <hi rend="grantha"><unclear>kṣatri</unclear></hi><unclear>ya</unclear>-<hi rend="grantha"><unclear>śikhā</unclear></hi>māṇi-vaḷanāṭṭu <gap reason="lost"/> ṭiṉattu-t tiru-kārō <gap reason="lost"/>
-                    <lb n="2"/><gap reason="lost"/> <hi rend="grantha">ṣe</hi>ka <gap reason="lost"/> 
-                    <lb n="3"/>
-                    <lb n="4"/>
-                    <lb n="5"/>
-                    <lb n="6"/>
+                    <unclear>kō-p-parakē</unclear> <gap reason="lost"/> ṇṭ-āva<unclear>tu</unclear>
+                </p>
+                <p>                    
+                    <hi rend="grantha"><unclear>kṣatri</unclear></hi><unclear>ya</unclear>-<hi rend="grantha"><unclear>śikhā</unclear></hi>māṇi-vaḷanāṭṭu <gap reason="lost"/> ṭiṉattu-t tiru-kārō <gap reason="lost"/>
+                    <lb n="2"/><gap reason="lost"/> <hi rend="grantha">ṣe</hi>ka <gap reason="lost"/> cāṭṭukkiṭ cey <gap reason="lost"/> ṉṟōṉṟim <gap reason="lost"/> <hi rend="grantha">vyā</hi>pāri pakavaṉ patiṉāmaṉ Uṭai
+                    <lb n="3"/>mi<hi rend="grantha">di</hi>ṉ maṉē Oru <gap reason="lost"/> y-āṉa paṭṭāraka tiṇṭa <gap reason="lost"/> kūttaṉ mūvāyira <gap reason="lost"/>
+                    <lb n="4"/><gap reason="lost"/> ṉum Iva<choice><orig>n</orig><reg>ṉ</reg></choice> <gap reason="lost"/> Ik-kācu muppatukku <gap reason="lost"/>
+                    <lb n="5"/><gap reason="lost"/> ya <gap reason="lost"/> Ivvē <gap reason="lost"/> <supplied reason="lost">ca</supplied><hi rend="grantha">ndrā</hi>tittavaṟ viḷakk' eri <gap reason="lost"/>
+                    <lb n="6"/><gap reason="lost"/> ṉṟi Aṉnā <gap reason="lost"/> patipāta-mūlapaṭṭ-uṭai-p pañcācāriyaṉ <gap reason="lost"/>
                 </p>
                 
             </div>	
@@ -90,7 +93,7 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1956-1957/B/1956-1957/163).</p>
                 <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
-                <p>This digtial edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
                 
                 <listBibl type="primary">
                     

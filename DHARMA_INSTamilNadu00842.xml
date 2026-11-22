@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of Vīrarājēndra, year 4</title>
+                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of Vī<supplied reason="lost">rarājēndra</supplied>, year 4</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -55,27 +55,45 @@
                 </ab>
                 
                 <p>
-                    tirupuvaṉac cakkaravattikaḷ śrī-vī <gap reason="lost" quantity="9" unit="character"/> āṇṭu nāl-āvatu
-                </p>
+                    tirupuvaṉa-c-cakkaravattikaḷ <hi rend="grantha">śrī</hi>-vī <gap reason="lost" quantity="9" unit="character" precision="low"/> āṇṭu nāl-āvatu
                 
+                    kaṉṉi-nāyaṟṟu <hi rend="grantha">pūrva-pakṣa</hi>t<supplied reason="lost">tu</supplied> <gap reason="lost"/> <supplied reason="lost">ki</supplied>
+                    <lb n="2" break="no"/>ḻamaiyum peṟṟa <gap reason="lost"/>
+                </p>
                 <p>
-                    kaṉṉi-nāyaṟṟu <hi rend="grantha">pūrvapakṣa</hi>t <gap reason="lost" quantity="3" unit="character"/>
-                    <lb n="2"/>ḻamaiyum peṟṟa <gap reason="lost" quantity="6" unit="character"/> cōḻa-kulavalli-paṭṭiṉattu Uṭaiyār
-                    <lb n="3"/>
-                    <lb n="4"/>
-                    <lb n="5"/>
-                    <lb n="6"/>
-                    <lb n="7"/>
-                    <lb n="8"/>
-                    <lb n="9"/>
-                    <lb n="10"/>
-                    <lb n="11"/>
-                    <lb n="12"/>
-                    <lb n="13"/>
-                    <lb n="14"/>
-                    <lb n="15"/>
-                    <lb n="16"/>
-                    <lb n="17"/>
+                    <gap reason="lost"/>
+                    cōḻa-kulavalli-paṭṭiṉattu Uṭaiyār tiru-k-kārōṇa
+                    <lb n="3" break="no"/>m-uṭaiyār kōyil Āti-caṇṭē<hi rend="grantha">śva</hi>ra-tēva-kaṉmikaḷ tiru-maṭai-viḷākattu Irukkum Āḻattūr-uṭaiyāṉ
+                    <lb n="4"/>maṇ-koṇṭāṉ tēvāṇṭāṉ-ēṉ Iraṇa-kraya-pirāmāṇa-I <gap reason="lost"/> nāṭṭu Aḷanāṭṭu nelvāyall-āṉa kulōttuṅka-cōḻa-na
+                    <lb n="5" break="no"/>llūril E<choice><orig>n</orig><reg>ṉ</reg></choice>ṉutāṉ<unclear>mai</unclear>yil kā <gap reason="lost"/> kkap pe ti<hi rend="grantha">saM</hi> In-nilam nāṟpatt' eṭṭum <hi rend="grantha">pu</hi>ṟu <gap reason="lost"/>
+                    <lb n="6"/><gap reason="lost"/> kāṇi Arai-k kāṇi-k kīḻ mukkālē Iraṇṭu <gap reason="lost"/> ūrkku Iru-pat
+                    <lb n="7"/><gap reason="lost"/> t' aiñc-āvatu Āṉi-mā<hi rend="grantha">sa</hi>ttu <gap reason="lost"/> kaṇkāṇi-p paṭi kal
+                    <lb n="8"/><gap reason="lost"/> mattiruppati paṟipārattu <gap reason="lost"/> kku ṟerupat <gap reason="lost"/> mu-k-kaḻañcum pal
+                    <lb n="9"/>ka <gap reason="lost"/> vaitta poṉ nāṟpatiṉ kaḻañcu <gap reason="lost"/> tt' aiṅ-kaḻañcum
+                    <lb n="10"/>āṉattār tiru-v-āparaṇam paṇṇi-c cātta poṉ <num value="510">5 <g type="numeral">100</g> <g type="numeral">10</g></num>
+                </p>
+                <p>
+                    Ip-poṉ Ai<choice><orig>ñ</orig><reg>n</reg></choice>-nūṟṟu Oru-pat <gap reason="lost"/>
+                    <lb n="11"/>kāṇiyil Iru-poṉṉukku Iru <gap reason="lost"/> <num value="4479"><supplied reason="lost">4</supplied> <g type="numeral">1000</g> 4 <g type="numeral">100</g> 7 <g type="numeral">10</g> 9</num>
+                </p>
+                <p>
+                    Ik-kācu nālu nūṟ' āyiratt' eḻupatt' oṉpati
+                    <lb n="12" break="no"/>ṉ kaḻañcukkum pattu māṟipoṉ kaḻañcu <gap reason="lost"/> t' oṉpatiṉ <choice><orig>āI</orig><reg>āyi</reg></choice>rattu nā-nūṟṟukkum I <gap reason="lost"/>
+                    <lb n="13"/>tiṉ <choice><orig>āI</orig><reg>āyi</reg></choice>rattu nā-nūṟṟukkum viṟṟa nilamum <gap reason="lost"/> ṇṭu mākkāṇiyum vilai-y-āy Ira <gap reason="lost"/>
+                    <lb n="14"/><gap reason="lost"/> kuṭuttu Iraṇa-k-kiraya-piramāṇa-Icelav-ōlai Āvat' ākavum
+                </p>
+                <p>
+                    Itu v-allatu vēṟu
+                    <gap reason="lost"/>
+                    <lb n="15"/>maṇ-koṇṭāṉ tēvāṇṭāṉ-ēṉ
+                </p>
+                <p>
+                    I <gap reason="lost"/> tittu Iraṇa-k-kiraya-p-piramāṇa-Icaivu-tīṭṭu <gap reason="lost"/>
+                    <lb n="16"/><gap reason="lost"/> koṇṭu Ikkāṇi <gap reason="lost"/> maṇ-koṇṭāṉ tēvāṇṭā<surplus>ṉ</surplus>ṉ-ēṉ
+                </p>
+                <p>
+                    I<choice><orig>ṉ</orig><reg>n</reg></choice>-nila <gap reason="lost"/>
+                    <lb n="17"/>nattamum kuḷaṅkaḷum <gap reason="lost"/> kaḷar I <gap reason="lost"/>
                 </p>
                 
             </div>	
