@@ -56,24 +56,31 @@
                         <lb n="A1"/><supplied reason="lost"><hi rend="grantha">svasti śrī</hi></supplied>
                     </ab>
                     
-                    <lg n="1" met="āciriyappa">
+                    <lg n="1" met="āciriyappā">
                         <l n="1"><supplied reason="lost">tinkaḷ ēr tarutaṉ</supplied> toṅkal veṇ-kuṭai-k-kīḻ</l>
                         <l n="2">nila-makaḷ nilava malar-makaḷ puṇarntu</l>
-                        <l n="3">...</l>
+                        <l n="3">ceṅ-ko<unclear>l</unclear> <choice><sic><unclear>ā</unclear></sic><corr>ō</corr></choice>cci-k karuṅ-kali kaṭintu</l>
+                        <l n="4">taṉtai<supplied reason="lost">yar</supplied> <gap reason="lost"/> taṉṟiru</l>
+                        <l n="5">main=tareṉṟi nirai maṇi <supplied reason="lost"/></l>
+                        <l n="6"><gap reason="lost"/></l>
+                        <l n="7">vāṉakam Iruvaṟk' aruḷi-k kā<choice><orig>n</orig><reg>ṉ</reg></choice>akam</l>
+                        <l n="8">Oruvaṉuk kaḷittup</l>
+                        <l n="9">vēlaikeḻu kāntaḷūr <gap reason="lost"/></l>
+                        <l n="10"><gap reason="lost"/> <lb n="A2"/><unclear>kucciyar</unclear> kāvala<choice><orig>n</orig><reg>ṉ</reg></choice>aiyum poṉ<choice><orig>n</orig><reg>ṉ</reg></choice>aṇi</l>
+                        <l n="11">...
+                            <lb n="A3"/>...
+                            <lb n="A4"/>...</l>
                     </lg>
-                    
-                    <p>                    
-                        <lb n="A2"/>
-                        <lb n="A3"/>
-                        <lb n="A4"/>
-                    </p>
                     
                 </div>
                 
                 <div type="textpart" n="B">
                     <p>
-                        <lb n="B1"/>
-                        <lb n="B2"/>
+                        <lb n="B1"/>...
+                        <!--Attivāraṇak kaliṟṟāl Utaippit taruḷi
+                        Antamil perumpukaḻ cuntara pāṇṭiyaṉ
+                        koṟṟaveṇ kuṭaiyum kaṟṟaiveṇ kavariyum-->
+                        <lb n="B2"/>...
                     </p>
                 </div>
                 
@@ -104,7 +111,7 @@
                 
                 <p>Not reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl>.</p>
                 <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
-                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
                 
                 <listBibl type="primary">
                     

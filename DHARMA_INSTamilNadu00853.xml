@@ -54,7 +54,7 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
-                <lg n="1" met="āciriyappa">
+                <lg n="1" met="āciriyappā">
                     <l n="1">tiru-makaḷ maru<lb n="2" break="no"/>viya ceṅkōl vēntaṉ</l>
                     <l n="2">muṉ<unclear>ṉōṉ</unclear> <lb n="3"/>cēṉai piṉṉatu vāka</l>
                     <l n="3">muṉ<choice><orig>n</orig><reg>ṉ</reg></choice> etir ceṉṟu <lb n="4"/>Iraṭṭapāṭi</l>
@@ -71,7 +71,7 @@
                     <l n="13"><gap reason="lost"/> yum</l>
                     <l n="14"><supplied reason="lost">pe</supplied><lb n="11" break="no"/>ṇṭir paṇṭāramum oṭṭaka nirai</l>
                     <l n="15"><gap reason="lost"/> ṭaṅka</l>
-                    <l n="15"><lb n="12"/>koṇṭu vi<hi rend="grantha">ja</hi>yāpi<hi rend="grantha">ṣe</hi>kam paṇṇi</l>
+                    <l n="16"><lb n="12"/>koṇṭu vi<hi rend="grantha">ja</hi>yāpi<hi rend="grantha">ṣe</hi>kam paṇṇi</l>
                     <l n="17">vī<supplied reason="lost">ra<hi rend="grantha">siṃhā-sa</hi>ṉa</supplied>ttu vī<supplied reason="lost">ṟṟ-iru</supplied><lb n="13" break="no"/>nt-aruḷiya</l>
                 </lg>
                 
@@ -109,7 +109,7 @@
                 
                 <p>Not reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl>.</p>
                 <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
-                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
                 
                 <listBibl type="primary">
                     

@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of Rājendra, year 13</title>
+                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of Rājendra, year ?</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -20,7 +20,7 @@
             <publicationStmt>
                 <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris</pubPlace>
-                <idno type="filename">DHARMA_INSTamilNadu00850.xml</idno>
+                <idno type="filename">DHARMA_INSTamilNadu00851.xml</idno>
                 <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
                 <date from="2019" to="2026">2019-2026</date>
             </publicationStmt>
@@ -51,32 +51,52 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <div type="textpart" n="A">
-                    <p>
-                        <lb n="A1"/><gap reason="lost"/> muraṇuṟattākki ...
-                    </p>
+                    <lg n="1" met="āciriyappā">
+                        <l n="1"><lb n="A1"/><gap reason="lost"/> muraṇuṟat tākki</l>
+                        <l n="2">tikkaṇaik kīrtti takkaṇa-lāṭamum</l>
+                        <l n="3">kōvinta cantaṉ māviḻin tōṭat</l>
+                        <l n="4">taṅkāta cāral vaṅkāḷa-tēcamum</l>
+                        <l n="5">toṭukaḻaṟ caṅku voṭṭa mayipālaṉai</l>
+                        <l n="6">veñcamar <unclear>kaḷattu A</unclear><lb n="A2" break="no"/>ñcuvitt-aruḷi</l>
+                        <l n="7"><unclear>Āṅkav</unclear>aṉaiyum peṇṭir paṇṭāramum</l>
+                        <l n="8">nittila neṭuṅkaṭal Uttira-lāṭamum</l>
+                        <l n="9">... <lb n="A2"/>... <lb n="A3"/>...</l>
+                        
+                    </lg>
                 </div>
                 
                 <div type="textpart" n="B">
                     <p>
-                        <lb n="B1"/> ...
-                    </p>
-                </div>
-                
-                <div type="textpart" n="C">
-                    <p>
-                        <lb n="C1"/><gap reason="lost"/>...
-                    </p>
+                        <lb n="B1"/>ṭṭary=u nilattukku vaṭakku mēl-pāṟk' ellai koṭṭaḷi var <gap reason="lost" quantity="2" unit="character"/> kiḻakkum vatā-pāṟk' ellai ...
+                        <lb n="B2"/>...
+                        <lb n="B3"/>... Ip-peru
+                        
+                        <lb n="B4" break="no"/>ru nāṉk' ellaiyuḷḷ akappaṭṭa nilam ...
+                        <lb n="B5"/>nilattukku ...
+                        <lb n="B6"/>t=tiyaṉ ku <gap reason="lost"/> tiraḷaya<hi rend="grantha">nda</hi>-mūt=ti nilam vāravit=ta mēṟk' aṭai ...                   </p>
                 </div>
                 
             </div>	
             
             <div type="apparatus">
-                <!--<listApp>
-                    <app loc="0">
-                    <lem></lem>
-                    <rdg source="bib:Mārkciyakānti+al2007_01"></rdg>
-                    </app>                    
-                    </listApp>-->
+                <div type="textpart" n="A">
+                    <listApp>
+                        <app loc="A1">
+                            <lem>veñcamar</lem>
+                            <rdg source="bib:Mārkciyakānti+al2007_01">veñcamā</rdg>
+                        </app>                    
+                    </listApp>
+                </div>
+                <div type="textpart" n="B">
+                    <listApp>
+                        <app loc="B3">
+                            <lem>Ip-peru
+                        <lb n="B4" break="no"/>ru</lem>
+                            <rdg source="bib:Mārkciyakānti+al2007_01">Ip-peru <gap reason="lost"/>
+                        <lb n="C1" break="no"/>ru</rdg>
+                        </app>                    
+                    </listApp>
+                </div>
             </div>
             
             <div type="translation" resp="part:emfr">
@@ -87,15 +107,15 @@
                 
             </div>	
             
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p>Year 13 according to <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
+            </div>
             
             <div type="bibliography">
                 
                 <p>Not reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl>.</p>
                 <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
-                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
                 
                 <listBibl type="primary">
                     

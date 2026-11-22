@@ -50,39 +50,61 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
-                <ab>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
-                </ab>
+                <div type="textpart" n="A">
+                    <ab>
+                        <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                    </ab>
+                    
+                    <lg n="1" met="āciriyappā">
+                        <l n="A1"><supplied reason="lost">ti</supplied>ru ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>i Iru-nila-maṭa<unclear>n=taiyu</unclear><lb n="A2" break="no"/><unclear>m</unclear></l>
+                        <l n="2">pōr-ceya-p-pāv<choice><sic>a</sic><corr>ai</corr></choice>yum cīrttaṉi-c-celvi<unclear>yun</unclear></l>
+                        <l n="3"><unclear>ta</unclear><lb n="A3" break="no"/>ṉ perun tēviyar āki Iṉpuṟa</l>
+                        <l n="4">neṭutiyal <unclear>Ūḻi</unclear><lb n="A4" break="no"/>yuḷ Iṭai-tuṟai-nāṭu</l>
+                        <l n="5">t<choice><sic>o</sic><corr>u</corr></choice>ṭarvaṉa vēli paṭarvaṉa vāciyu<lb n="A5" break="no"/>ñ</l>
+                        <l n="6">cuḷḷi-c cūḻ-matil koḷḷi-p-pākkai<surplus>yu</surplus>yun</l>
+                        <l n="7">...</l>
+                    </lg>
+                    
+                    <p>                    
+                        <lb n="A5"/>
+                        <lb n="A6"/>
+                        <lb n="A7"/>
+                        <lb n="A8"/>
+                        <lb n="A9"/>
+                        <lb n="A10"/>
+                        <lb n="A11"/>
+                        <lb n="A12"/>
+                        <lb n="A13"/>
+                        <lb n="A14"/>
+                        <lb n="A15"/>
+                        <lb n="A16"/>
+                        <lb n="A17"/>
+                        <lb n="A18"/>
+                        <lb n="A19"/>koṇṭa kō-p-parakēcari-pa<hi rend="grantha">nma</hi>r-āṉa <gap reason="lost"/>
+                        <lb n="A20"/>vaṟku <gap reason="lost"/> Āvatu
+                    </p>
+                    <p>                    
+                        <lb n="A21"/><gap reason="lost"/> nāṭṭu kuṟumpūr-nāṭṭu
+                        <lb n="A22"/><gap reason="lost"/> catu<hi rend="grantha">rvve</hi>ti-maṅkala <gap reason="lost"/>
+                        <lb n="A23"/><gap reason="lost"/> potu vum       
+                    </p>
+                </div>
                 
-                <lg n="1" met="āciriyappa">
-                    <l n="1"><supplied reason="lost">ti</supplied>ru ma<choice><orig>nn</orig><reg>ṉṉ</reg></choice>i Iru-nila-maṭa<unclear>n=taiyu</unclear><lb n="2" break="no"/><unclear>m</unclear></l>
-                    <l n="2">...</l>
-                </lg>
-                
-                <p>
-                    <lb n="2"/>
-                    <lb n="3"/>
-                    <lb n="4"/>
-                    <lb n="5"/>
-                    <lb n="6"/>
-                    <lb n="7"/>
-                    <lb n="8"/>
-                    <lb n="9"/>
-                    <lb n="10"/>
-                    <lb n="11"/>
-                    <lb n="12"/>
-                    <lb n="13"/>
-                    <lb n="14"/>
-                    <lb n="15"/>
-                    <lb n="16"/>
-                    <lb n="17"/>
-                    <lb n="18"/>
-                    <lb n="19"/>
-                    <lb n="20"/>
-                    <lb n="21"/>
-                    <lb n="22"/>
-                    <lb n="23"/>        
-                </p>
+                <div type="textpart" n="B">
+                    <p>
+                        <lb n="B1"/>-y-ili Āka viṟ <gap reason="lost" quantity="2" unit="character"/>
+                        <lb n="B2" break="no"/>taṟku <gap reason="lost" quantity="6" unit="character"/>
+                        <lb n="B3" break="no"/>m-uṭaiya ma<hi rend="grantha">hā</hi>tē
+                        <lb n="B4" break="no"/>vaṟku cantirāti
+                        <lb n="B5" break="no"/>ttaval Iṟai-y-i
+                        <lb n="B6" break="no"/>li-y-āka viṟṟu-k ku
+                        <lb n="B7" break="no"/>ṭutta puḷicey
+                        <lb n="B8" break="no"/>ykku kīḻ-pāṟ
+                        <lb n="B9" break="no"/>k' ellai periya-ku
+                        <lb n="B10" break="no"/>ḷattukku mēṟku
+                        <lb n="B11"/>teṉ-paṟ<supplied reason="lost">k' ellai</supplied>
+                    </p>
+                </div>
                 
             </div>	
             
@@ -111,7 +133,7 @@
                 
                 <p>Not reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl>.</p>
                 <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
-                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
                 
                 <listBibl type="primary">
                     
