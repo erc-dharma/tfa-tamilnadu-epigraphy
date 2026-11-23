@@ -50,6 +50,7 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
+                <milestone n="A" unit="zone" type="pagelike"/><label>Wall</label>
                 <ab>
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                 </ab>
@@ -73,7 +74,7 @@
                     <lb n="14"/>
                     <lb n="15"/>
                     <lb n="16"/>
-                    <lb n="17"/>
+                    <lb n="17"/>Āṅkavar cēṉaiyuḷ kaṇṭap ...
                     <lb n="18"/>
                     <lb n="19"/>
                     <lb n="20"/>
@@ -82,19 +83,24 @@
                     <lb n="23"/>
                     <lb n="24"/>
                     <lb n="25"/>
-                    <lb n="26"/>
+                    <lb n="26"/>... kuṭain=tu ...
                     <lb n="27"/>
-                    <lb n="28"/>
+                    <lb n="28"/>... varaṉ-ākiya vikkirama-pāṇṭiya ...
                     <lb n="29"/>
                     <lb n="30"/>
                     <lb n="31"/>
-                    <lb n="32"/>
-                    <lb n="33"/>
-                    <lb n="34"/>
+                    <lb n="32"/>... perum-pukaḻ kō-v-irā<supplied reason="lost">ja</supplied> ...
+                    <lb n="33" break="no"/>ṭaiyār <hi rend="grantha">rājādhi</hi>rā<hi rend="grantha">ja-de</hi>va ...
+                    <lb n="34"/>kṣatriya-cikāmaṇi-<unclear>vaḷa</unclear>nāṭṭu ...
                     <lb n="35"/>
                     <lb n="36"/>
                     <lb n="37"/>
                     <lb n="38"/>             
+                    <lb n="39"/>
+                    <milestone n="B" unit="zone" type="pagelike"/><label>Base</label>
+                    <lb n="40"/>* * cūṭamaṇi-makuṭam ...
+                    <lb n="41"/><gap reason="lost" quantity="2" unit="character" precision="low"/> ṭittu ... kaṭak kaḷiṟṟil Utai * ttaruḷi Anta ...
+                    <lb n="42"/><gap reason="lost" quantity="2" unit="character" precision="low"/> nilaṅkayar kōma<choice><orig>n</orig><reg>ṉ</reg></choice> vikkirama ...
                 </p>
                 
             </div>	
@@ -123,7 +129,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1956-1957/B/1956-1957/159).</p>
-                <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>
+                <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> (38 lines).</p>
                 <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and ASI estampage available on BharatSHRI.</p>
                 
                 <listBibl type="primary">
