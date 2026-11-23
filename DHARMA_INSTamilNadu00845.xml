@@ -15,6 +15,10 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
                 </respStmt>
                 <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
@@ -28,11 +32,13 @@
                 <msDesc>
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
-                        <summary>Slab built into the outer wall.</summary>
+                        <summary>
+                            <p>Commemoration of reconstruction of a pagoda under the government of Reijnier van Vlissingen engraved, on a slab built into the outer wall.</p>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>Upper-case letters throughout. No space between words. Superscript <foreign>o</foreign> above equal sign. Letter <foreign>y</foreign> topped by two dots representing modern <foreign>ij</foreign>; in its second occurrence (line 5), it looks like a <foreign>v</foreign>. Abbreviated words followed by colon. Letter <foreign>u</foreign> topped by comma.</p>
+                            <p>Upper-case letters throughout. No space between words. Superscript <foreign>o</foreign> above equal sign. Letter <foreign>y</foreign> topped by two dots representing modern <foreign>ij</foreign>; in its second occurrence (line 5), it looks like a <foreign>v</foreign>. Abbreviated words followed by colon, except for Latin <foreign>Anno</foreign>. In diphtongs, letter <foreign>u</foreign> topped by comma.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -52,7 +58,7 @@
                 
                 <p>
                     <lb n="1"/>IN <expan><abbr>A</abbr><ex>NN</ex><abbr><hi rend="superscript">O</hi></abbr></expan> 1777, EN ONDER DE                
-                    <lb n="2"/>LOFFELYKE REGERING
+                    <lb n="2"/>LOFFELYKE REGEERING
                     <lb n="3"/>VAN DEN <expan><abbr>WELED</abbr><ex>ELE</ex></expan>
                     GROOT
                     <lb n="4" break="no"/><expan><abbr>AGTB</abbr><ex>ARE</ex></expan> HEER GOUVERNEUR
@@ -63,7 +69,12 @@
             </div>	
             
             <div type="apparatus">
-                
+                <listApp>
+                    <app loc="6">
+                        <lem>HERBOUWT,</lem>
+                        <note>The comma is seemingly used here as full stop, unless the inscription was continued on another slab, presumably lost now.</note>
+                    </app>
+                </listApp>
             </div>
             
             <div type="translation" resp="part:emfr">
@@ -79,7 +90,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1963-1964/B/1963-1964/291).</p>
-                <p>This edition by Emmanuel Francis, based on ASI estampage available on BharatSHRI.</p>
+                <p>This edition by Emmanuel Francis and Arlo Griffiths, based on the ASI estampage available on BharatSHRI.</p>
                 
                 <!--<listBibl type="primary">
                     

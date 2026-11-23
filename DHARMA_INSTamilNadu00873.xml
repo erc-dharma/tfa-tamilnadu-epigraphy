@@ -15,6 +15,10 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
+                    <persName ref="part:argr">
+                        <forename>Arlo</forename>
+                        <surname>Griffiths</surname>
+                    </persName>
                 </respStmt>
                 <funder>European Research Council (ERC), grant agreement no 809994</funder></titleStmt>
             <publicationStmt>
@@ -28,11 +32,11 @@
                 <msDesc>
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
-                        <summary>Slab built into the wall of a former nineteenth-century British salt factory. See <ref target="https://sharedcemeteries.net/en/cemetery-information-india/the-old-dutch-cemetery-in-nagapattinam">Nagapattinam - Old Cemetery, by Rene Ten Dam, 2 May 2021</ref> (consulted 17/11/2026).</summary>
+                        <summary>Commemoration of Cornelis Claesen engraved on a slab built into the wall of a former nineteenth-century British salt factory. See <ref target="https://sharedcemeteries.net/en/cemetery-information-india/the-old-dutch-cemetery-in-nagapattinam">Nagapattinam - Old Cemetery, by Rene Ten Dam, 2 May 2021</ref> (consulted 17/11/2026).</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p>Upper-case letters throughout. Words separated by middle dot/bullet. Letter <foreign>y</foreign> topped by two dots representing modern <foreign>ij</foreign>. Letter <foreign>u</foreign> topped by tilde. Superscript letter above equal sign.</p>
+                            <p>Upper-case letters throughout. Words separated by median dot/bullet. Letter <foreign>y</foreign> topped by two dots representing modern <foreign>ij</foreign>. Letter <foreign>i</foreign> representing modern <foreign>j</foreign>. In diphtongs, letter <foreign>u</foreign> topped by tilde. Superscript letter above equal sign.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -57,7 +61,7 @@
                     <lb n="4"/>OPPERSTIERMAN•VAN
                     <lb n="5"/>AMSTERDAM•OUT•26
                     <lb n="6"/>IAREN•OVERLEDEN
-                    <lb n="7"/>DEN•3<hi rend="check"><hi rend="superscript"><gap reason="illegible" quantity="1" unit="character"/></hi></hi> APRIL 1667
+                    <lb n="7"/>DEN•3<hi rend="superscript"><unclear cert="low">N</unclear></hi> APRIL 1667
                 </p>
                 
             </div>	
@@ -65,9 +69,10 @@
             <div type="apparatus">
                 <listApp>
                     <app loc="7">
-                        <lem>3<hi rend="superscript"><gap reason="illegible" quantity="1" unit="character"/></hi></lem>
+                        <lem>3<hi rend="superscript"><unclear cert="low">N</unclear></hi></lem>
                         <rdg source="bib:Cotton1946_01">3<hi rend="superscript">en</hi></rdg>
                         <rdg source="bib:Mārkciyakānti+al2007_01">3<hi rend="superscript">M</hi></rdg>
+                        <note>That is, <foreign>derden</foreign>.</note>
                     </app>
                 </listApp>
             </div>
@@ -75,7 +80,8 @@
             <div type="translation" resp="part:emfr">
                 <p n="1-7">
                     Here lies buried Cornelis Claesen,
-                    young in his life,
+                    <supplied reason="subaudible">still a</supplied> youth,
+                    in his life
                     chief navigator from Amsterdam,
                     who died 26 years old,
                     on 3rd April 1667.
@@ -89,7 +95,7 @@
             <div type="bibliography">
                 
                 <p>Edited in <bibl><ptr target="bib:Cotton1946_01"/></bibl> and in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>, with an estampage.</p>
-                <p>This edition by Emmanuel Francis, based on <bibl><ptr target="bib:Cotton1946_01"/></bibl>, <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and visual documentation therein.</p>
+                <p>This edition by Emmanuel Francis and Arlo Griffiths, based on <bibl><ptr target="bib:Cotton1946_01"/></bibl>, <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and visual documentation therein.</p>
                 
                 <listBibl type="primary">
                     
