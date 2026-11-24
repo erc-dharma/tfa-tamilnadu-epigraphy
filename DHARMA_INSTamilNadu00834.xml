@@ -50,6 +50,7 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
+                <milestone n="A" unit="zone" type="pagelike"/><label>Wall</label>
                 <ab>
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                 </ab>
@@ -77,10 +78,16 @@
                     <lb n="17"/>
                     <lb n="18"/>
                     <lb n="19"/>
-                    <lb n="20"/>
-                    <lb n="21"/> ...  <hi rend="grantha">śrī</hi>-rā<hi rend="grantha"><unclear>jentra</unclear></hi>-cō
-                    <lb n="22" break="no"/>ḻa-<hi rend="grantha">de</hi>vaṟku yāṇṭu...
-                    <lb n="23"/>
+                    <lb n="20"/>... taṇ
+                    <lb n="21" break="no"/><unclear>ṭ</unclear>āṟ koṇṭa 
+                </p>
+                <p>
+                    kō-parakēcaripa<hi rend="grantha">n<supplied reason="lost">ma</supplied></hi>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a  <hi rend="grantha">śrī</hi>-rā<hi rend="grantha"><unclear>jentra</unclear></hi>-cō
+                    <lb n="22" break="no"/>ḻa-<hi rend="grantha">de</hi>vaṟku yāṇṭu <gap reason="illegible" quantity="1" unit="character"/> <gap reason="illegible" quantity="3" unit="character"/>
+                </p>
+                <p>
+                    <gap reason="illegible" quantity="5" unit="character"/> āma
+                    <lb n="23" break="no"/>ṇi-vaḷanāṭṭu maruka-<supplied reason="lost">n</supplied>āṭṭu
                     <lb n="24"/>
                     <lb n="25"/>
                     <lb n="26"/>
@@ -91,7 +98,10 @@
                     <lb n="31"/>
                     <lb n="32"/>
                     <lb n="33"/>
-                    <lb n="34"/>                    
+                    <lb n="34"/>     
+                    
+                    <milestone n="B" unit="zone" type="pagelike"/><label>Base</label>
+                    <lb n="35"/>
                 </p>
                 
             </div>	
@@ -120,18 +130,18 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1956-1957/B/1956-1957/157).</p>
-                <!--<p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>-->
+                <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> (34 lines; covering only the portion inscribed on the wall).</p>
                 <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and ASI estampage available on BharatSHRI.</p>
                 
-                <!--<listBibl type="primary">
+                <listBibl type="primary">
                     
                     <bibl n="NK">
                     <ptr target="bib:Mārkciyakānti+al2007_01"/>
-                    <citedRange unit="page"></citedRange>
-                    <citedRange unit="item"></citedRange>
+                    <citedRange unit="page">212-213</citedRange>
+                    <citedRange unit="item">24/1998</citedRange>
                     </bibl>
                     
-                    </listBibl>          --> 
+                    </listBibl>           
                 
                 <listBibl type="secondary">
                     

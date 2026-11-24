@@ -54,7 +54,7 @@
                 <ab>
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi> <g ref="sym:flourish-taperOut" type="punctuation">.</g>
                 </ab>
-                                
+                
                 <lg n="1" met="āciriyappā">
                     <l n="1">tinkaḷ ēr <lb n="2"/>tarutaṉ toṅkal veṇ-kuṭai<lb n="3" break="no"/>-k-k<choice><orig>i</orig><reg>ī</reg></choice>ḻ</l>
                     <l n="2">nila-makaḷ nilava malar<lb n="3" break="no"/>-makaḷ puṇarn=tu</l>
@@ -62,7 +62,7 @@
                     <l n="4">maṉṉu<choice><sic>v</sic><corr>p</corr></choice>a<lb n="5" break="no"/>l Ūḻiyuḷ teṉṉavar muvaru<unclear>ḷ</unclear></l>
                     <l n="5"><lb n="6"/>...</l>
                 </lg>
-                                
+                
                 <p>                    
                     <lb n="7"/>
                     <lb n="8"/>
@@ -73,34 +73,40 @@
                     <lb n="13"/>
                     <lb n="14"/>
                     <lb n="15"/>
-                    <lb n="16"/>
-                    <lb n="17"/>Āṅkavar cēṉaiyuḷ kaṇṭap ...
-                    <lb n="18"/>
-                    <lb n="19"/>
-                    <lb n="20"/>
-                    <lb n="21"/>
-                    <lb n="22"/>
-                    <lb n="23"/>
-                    <lb n="24"/>
-                    <lb n="25"/>
-                    <lb n="26"/>... kuṭain=tu ...
-                    <lb n="27"/>
-                    <lb n="28"/>... varaṉ-ākiya vikkirama-pāṇṭiya ...
-                    <lb n="29"/>
-                    <lb n="30"/>
-                    <lb n="31"/>
-                    <lb n="32"/>... perum-pukaḻ kō-v-irā<supplied reason="lost"><hi rend="grantha">ja</hi></supplied> ...
+                    <lb n="16"/>laṉum añcutaṟ kautaṉ
+                    ṟāṅkarum paṭaiyāl <lb n="17"/>Āṅkavar cēṉaiyuḷ
+                    kaṇṭa-p paiyaṉum kaṅk<supplied reason="lost">ā</supplied><lb n="18" break="no"/>taraṉum                    
+                    vaṇṭamar kaḷiṟṟoṭu maṭiyat tiṇṭ<choice><sic>a</sic><corr>i</corr></choice>ṟ<choice><sic>i</sic><corr>a</corr></choice><supplied reason="lost">l</supplied>
+                    <supplied reason="lost">vi</supplied><lb n="19" break="no"/><supplied reason="lost">ru</supplied>tar <gap reason="lost" quantity="6" unit="character" precision="low"/> caiyāti<supplied reason="omitted">t</supplied>taṉum
+                    tarumuraṭ <gap reason="lost" quantity="4" unit="character" precision="low"/> <lb n="20"/> <gap reason="lost" quantity="5" unit="character" precision="low"/> mutaliṉar
+                    camara <hi rend="grantha">bhi</hi>ruvot= tuṭai<lb n="21" break="no"/>ya nimircuṭar
+                    poṉṉōṭ' ayṅkarip puravi<choice><orig>yy</orig><reg>y</reg></choice>o<lb n="22" break="no"/>ṭu<supplied reason="lost">m</supplied> <gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <gap reason="lost" quantity="1" unit="character" precision="low"/>ṉṉāṭ<choice><sic>a</sic><corr>ai</corr></choice>yiṟ <hi rend="grantha">ja</hi>yaṅ koṇṭu tuṉṉār		
+                    <lb n="23"/>ko<unclear>ḷ</unclear><supplied reason="lost">ḷippākkai</supplied> Uḷḷeri<!--TNSDA: Uḷḷari--> maṭuppitt'
+                    ōrutaṉi<lb n="24" break="no"/>t= t<supplied reason="lost">aṇṭāl po</supplied><unclear>ru</unclear>kaṭall uṭut=ta Ilaṅkayark
+                    <gap reason="lost" quantity="4" unit="character" precision="low"/> <lb n="25"/> <gap reason="lost" quantity="7" unit="character" precision="low"/>
+                    <unclear>mu</unclear>ṉṟaṉakk' uṭain=tu teṉṟamiḻ maṇ<lb n="27" break="no"/><gap reason="lost" quantity="3" unit="character" precision="low"/>
+                    <gap reason="lost" quantity="5" unit="character" precision="low"/> ḻan=tu Ēḻkaṭ<choice><sic>aill</sic><corr>al</corr></choice> <choice><orig>i</orig><reg>ī</reg></choice>ḻam
+                    puk<lb n="28" break="no"/><gap reason="lost" quantity="5" unit="character" precision="low"/> varaṉ-ākiya vikkirama-
+                    pāṇṭiyaṉ <lb n="29"/><supplied reason="lost">pa</supplied> <gap reason="lost" quantity="4" unit="character" precision="low"/> ṭaya taṭi <gap reason="lost" quantity="6" unit="character" precision="low"/>
+                    <supplied reason="lost">vi</supplied>llavar mī<lb n="30" break="no"/><gap reason="lost" quantity="4" unit="character" precision="low"/> cciṉa-c caḷukki<supplied reason="lost">yar</supplied>
+                    <gap reason="lost" quantity="8" unit="character" precision="low"/> <lb n="31"/><gap reason="lost" quantity="1" unit="character" precision="low"/> <unclear>cu</unclear> v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟiruntu
+                    tarātalam parit=ta<!--TNSDA: paricu--> <gap reason="lost" quantity="6" unit="character" precision="low"/> 
+                    <gap reason="illegible" quantity="4" unit="character" precision="low"/> <lb n="32"/><gap reason="lost" quantity="3" unit="character" precision="low"/> perum-pukaḻ
+                </p>
+                <p>
+                    kō-v-irā<supplied reason="lost"><hi rend="grantha">ja</hi></supplied> ...
                     <lb n="33" break="no"/>ṭaiyār <hi rend="grantha">rājādhi</hi>rā<hi rend="grantha">ja-de</hi>va ...
-                    <lb n="34"/>kṣatriya-cikāmaṇi-<unclear>vaḷa</unclear>nāṭṭu ...
+                    <lb n="34"/><hi rend="grantha">kṣatri</hi>ya-cikāmaṇi-<unclear>vaḷa</unclear>nāṭṭu ...
                     <lb n="35"/>
                     <lb n="36"/>
                     <lb n="37"/>
                     <lb n="38"/>             
                     <lb n="39"/>
                     <milestone n="B" unit="zone" type="pagelike"/><label>Base</label>
-                    <lb n="40"/>* * cūṭamaṇi-makuṭam ...
-                    <lb n="41"/><gap reason="lost" quantity="2" unit="character" precision="low"/> ṭittu ... kaṭak kaḷiṟṟil Utai * ttaruḷi Anta ...
-                    <lb n="42"/><gap reason="lost" quantity="2" unit="character" precision="low"/> nilaṅkayar kōma<choice><orig>n</orig><reg>ṉ</reg></choice> vikkirama ...
+                    <lb n="40"/><hi rend="grantha">ṉa ṇa</hi> cūṭāmaṇi-makuṭa mattaṭi ...
+                    <lb n="41"/><gap reason="lost" quantity="2" unit="character" precision="low"/> ṭittu taḷavatapāraṇakaṭak kaḷiṟṟil Utai <hi rend="grantha">sa</hi>ttaruḷi Anta ...
+                    <lb n="42"/><gap reason="lost" quantity="2" unit="character" precision="low"/> nilaṅkayar kōma<choice><orig>n</orig><reg>ṉ</reg></choice> vikkirama-cōḻa pin makuṭa ... nak kuṭain=ta toṟ ... 
                 </p>
                 
             </div>	
@@ -129,18 +135,18 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1956-1957/B/1956-1957/159).</p>
-                <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> (38 lines).</p>
+                <p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> (38 lines; covering only the portion inscribed on the wall).</p>
                 <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and ASI estampage available on BharatSHRI.</p>
                 
                 <listBibl type="primary">
                     
                     <bibl n="NK">
-                    <ptr target="bib:Mārkciyakānti+al2007_01"/>
-                    <citedRange unit="page">217-218</citedRange>
-                    <citedRange unit="item">27/1998</citedRange>
+                        <ptr target="bib:Mārkciyakānti+al2007_01"/>
+                        <citedRange unit="page">217-218</citedRange>
+                        <citedRange unit="item">27/1998</citedRange>
                     </bibl>
                     
-                    </listBibl>           
+                </listBibl>           
                 
                 <listBibl type="secondary">
                     
