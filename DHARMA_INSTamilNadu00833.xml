@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of ?, year ?</title>
+                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of <supplied reason="lost">Vīrarājēndra</supplied>, year ?</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -53,29 +53,33 @@
                 <ab>
                     <lb n="01"/><hi rend="grantha">svasti śrī</hi>
                 </ab>
-                                
+                
                 <lg n="1" met="āciriyappā">
                     <l n="1"><lb n="1"/><supplied reason="lost">tiru</supplied>vaḷar t<supplied reason="lost">i</supplied>raḷ puyatt' <supplied reason="lost">i</supplied>ru-n<supplied reason="lost">i</supplied>la valayan</l>
                     <l n="2"><lb n="2"/><unclear>taṉ</unclear>maṇi-p <unclear>pū</unclear>ṇeṉat tāṅki-p paṉmaṇi-k</l>
                     <l n="3">ko<lb n="3" break="no"/>ṟṟaveṇ kuṭainiḻaṟ kuvalayatt' uyirkaḷai-p</l>
                     <l n="4">...</l>
                 </lg>
-                                
+                
                 <p>
-                    <lb n="3"/>
                     <lb n="4"/>
-                    <lb n="5"/>
-                    <lb n="6"/>
-                    <lb n="7"/>
-                    <lb n="8"/>
+                    <lb n="5"/>... muṟaimaiyil ...
+                    <lb n="6"/>...
+                    tuṅkapa-t ti<supplied reason="lost">raipu</supplied><lb n="7" break="no"/>ka-t taratti yāṅkavar
+                    vēṅkainaṉāṭṭiṭai m<choice><orig>i</orig><reg>ī</reg></choice>ṭṭumavar viṭṭa                    
+                    tāṅkarum peruvalit taṇ<supplied reason="lost">ṭukeṭa</supplied><lb n="8" break="no"/>t tākki
+                    mātaṇṭa nāyakaṉ cāmuṇṭa rācaṉai-c
+                    ceṟṟavaṉ ciratti<unclear>ṉai</unclear>
+                    
+                    
                     <lb n="9"/>
                     <lb n="10"/>
                     <lb n="11"/>
                     <lb n="12"/>
                     <lb n="13"/>
-                    <lb n="14"/>
-                    <lb n="15"/>
-                    <lb n="16"/>
+                    <lb n="14"/>... muttuvaṉ paṭṭālaka<choice><orig>n</orig><reg>ṉ</reg></choice> vitiviṭaṅka<choice><orig>n</orig><reg>ṉ</reg></choice>um <unclear>ā</unclear>
+                    <lb n="15"/>... muttuvaṉ cātta<choice><orig>n</orig><reg>ṉ</reg></choice> paṭṭ<supplied reason="lost">ā</supplied>laka
+                    <lb n="16"/>muttuvaṉ tatta<choice><orig>n</orig><reg>ṉ</reg></choice>
                     <lb n="17"/>nilaiyum
                 </p>
                 
@@ -104,7 +108,7 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1956-1957/B/1956-1957/152).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1956-1957/B/1956-1957/156).</p>
                 <!--<p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>-->
                 <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and ASI estampage available on BharatSHRI.</p>
                 
