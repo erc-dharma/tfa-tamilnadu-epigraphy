@@ -51,9 +51,15 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>Ivarkaḷ Iṭa-k kaṭavā<supplied reason="lost">rka</supplied>ḷ ākavum Ippaṭiyāl ...
-                    <lb n="2"/>
-                    <lb n="3"/>
+                    <lb n="1"/><space/> Avarkaḷ Iṭa-k kaṭavā<supplied reason="lost">rka</supplied>ḷ ākavum
+                </p>
+                <p>
+                    Ippaṭiyāl vanta kācu <gap reason="lost" quantity="5" unit="character" precision="low"/> Innāyaṉār<!--pace TNSDA--> pañcā Amurtam Āṭiyaru<supplied reason="lost">ḷa</supplied> <gap reason="lost" quantity="3" unit="character" precision="low"/> ṉattu
+                    <lb n="2" break="no"/>kkum Aṟi<hi rend="grantha">ja</hi>yana-p paṉṉum paṭṭarkaḷ pēr<!--pace TNSDA-->patiṉmarkku <hi rend="grantha">j<choice><orig>i</orig><reg>ī</reg></choice></hi><unclear>va</unclear><choice><orig><unclear>n</unclear></orig><reg>ṉ</reg></choice><unclear>a</unclear>ttukku Uṭal ākavum</p>
+                <p>Ippaṭi ceyyum iṭattu Ū<unclear>ra</unclear>var taṉi
+                    <lb n="3" break="no"/>ttu kaṇkāṇittal Aṭai koḷḷutal<!--pace TNSDA--> ceyya-k<!--pace TNSDA--> kaṭavarkaḷ allātārkaḷ ākavum
+                </p>
+                <p>
                     <lb n="4"/>
                     <lb n="5"/>
                     <lb n="6"/>
