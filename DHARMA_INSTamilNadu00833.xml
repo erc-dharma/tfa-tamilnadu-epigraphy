@@ -50,40 +50,42 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
-                <ab>
-                    <lb n="01"/><hi rend="grantha">svasti śrī</hi>
-                </ab>
+                <div type="textpart" n="A">
+                    <ab>
+                        <lb n="A01"/><hi rend="grantha">svasti śrī</hi>
+                    </ab>
+                    
+                    <lg n="1" met="āciriyappā">
+                        <l n="1"><lb n="A1"/><supplied reason="lost">tiru</supplied>vaḷar t<supplied reason="lost">i</supplied>raḷ puyatt' <supplied reason="lost">i</supplied>ru-n<supplied reason="lost">i</supplied>la valayan</l>
+                        <l n="2"><lb n="A2"/><unclear>taṉ</unclear>maṇi-p <unclear>pū</unclear>ṇeṉat tāṅki-p paṉmaṇi-k</l>
+                        <l n="3">ko<lb n="A3" break="no"/><supplied reason="lost">ṟṟa</supplied>veṇ kuṭainiḻaṟ kuvalayatt' uyirkaḷai-p</l>
+                        <l n="4">peṟṟa tāyiṉum pēṇ<supplied reason="lost">i</supplied> <lb n="A4"/>maṟṟuḷa</l>
+                        <l n="5">Aṟaikaḻal araicar taṉ Aṭiniḻal otuṅka</l>
+                        <l n="6">v-uṟaipilatt' uṭ<supplied reason="lost">ai</supplied>ka<supplied reason="lost">li</supplied> y-o<lb n="A5" break="no"/>tuṅka muṟaimaiyil</l>
+                        <l n="7">viraimalar-t teriyal vikkalaṉ ṟaṉṉoṭu</l>
+                        <l n="8"><unclear>va</unclear>ri<lb n="A6" break="no"/>cilai-t taṭakkai mācā man=tarai-k</l>
+                        <l n="9">kaṅka-pāṭi-k kaḷattiṭai niṉṟun</l>
+                        <l n="10">tuṅkapa-t ti<supplied reason="lost">raipu</supplied><lb n="A7" break="no"/>ka-t taratti yāṅkavar</l>
+                        <l n="11">vēṅkainaṉāṭṭiṭai m<choice><orig>i</orig><reg>ī</reg></choice>ṭṭumavar viṭṭa</l>
+                        <l n="12">tāṅkarum peruvalit taṇ<supplied reason="lost">ṭukeṭa</supplied><lb n="A8" break="no"/>t tākki</l>
+                        <l n="13">mātaṇṭa nāyakaṉ cāmuṇṭa rācaṉai-c</l>
+                        <l n="14">ceṟṟavaṉ ciratti<unclear>ṉai</unclear></l>
+                    </lg>
+                </div>
                 
-                <lg n="1" met="āciriyappā">
-                    <l n="1"><lb n="1"/><supplied reason="lost">tiru</supplied>vaḷar t<supplied reason="lost">i</supplied>raḷ puyatt' <supplied reason="lost">i</supplied>ru-n<supplied reason="lost">i</supplied>la valayan</l>
-                    <l n="2"><lb n="2"/><unclear>taṉ</unclear>maṇi-p <unclear>pū</unclear>ṇeṉat tāṅki-p paṉmaṇi-k</l>
-                    <l n="3">ko<lb n="3" break="no"/><supplied reason="lost">ṟṟa</supplied>veṇ kuṭainiḻaṟ kuvalayatt' uyirkaḷai-p</l>
-                    <l n="4">peṟṟa tāyiṉum pēṇ<supplied reason="lost">i</supplied> <lb n="4"/>maṟṟuḷa</l>
-                    <l n="5">Aṟaikaḻal araicar taṉ Aṭiniḻal otuṅka</l>
-                    <l n="6">v-uṟaipilatt' uṭ<supplied reason="lost">ai</supplied>ka<supplied reason="lost">li</supplied> y-o<lb n="5" break="no"/>tuṅka muṟaimaiyil</l>
-                    <l n="7">viraimalar-t teriyal vikkalaṉ ṟaṉṉoṭu</l>
-                    <l n="8"><unclear>va</unclear>ri<lb n="6" break="no"/>cilai-t taṭakkai mācā man=tarai-k</l>
-                    <l n="9">kaṅka-pāṭi-k kaḷattiṭai niṉṟun</l>
-                    <l n="10">tuṅkapa-t ti<supplied reason="lost">raipu</supplied><lb n="7" break="no"/>ka-t taratti yāṅkavar</l>
-                    <l n="11">vēṅkainaṉāṭṭiṭai m<choice><orig>i</orig><reg>ī</reg></choice>ṭṭumavar viṭṭa</l>
-                    <l n="12">tāṅkarum peruvalit taṇ<supplied reason="lost">ṭukeṭa</supplied><lb n="8" break="no"/>t tākki</l>
-                    <l n="13">mātaṇṭa nāyakaṉ cāmuṇṭa rācaṉai-c</l>
-                    <l n="14">ceṟṟavaṉ ciratti<unclear>ṉai</unclear>
-                    </l>
-                </lg>
-                
-                <p>
-                    <lb n="9"/>
-                    <lb n="10"/>
-                    <lb n="11"/>
-                    <lb n="12"/>
-                    <lb n="13"/>
-                    <lb n="14"/>... muttuvaṉ paṭṭālaka<choice><orig>n</orig><reg>ṉ</reg></choice> vitiviṭaṅka<choice><orig>n</orig><reg>ṉ</reg></choice>um <unclear>ā</unclear>
-                    <lb n="15"/>... muttuvaṉ cātta<choice><orig>n</orig><reg>ṉ</reg></choice> paṭṭ<supplied reason="lost">ā</supplied>laka
-                    <lb n="16"/>muttuvaṉ tatta<choice><orig>n</orig><reg>ṉ</reg></choice>
-                    <lb n="17"/>nilaiyum
-                </p>
-                
+                <div type="textpart" n="B">
+                    <p>
+                        <lb n="B1"/><gap reason="lost"/> mu <gap reason="lost"/> vaṇa<choice><orig>n</orig><reg>ṉ</reg></choice> kamutu <gap reason="lost"/> ttina <gap reason="illegible"/>
+                        <lb n="B2"/><gap reason="lost"/> mutuvaṉ A <gap reason="lost"/> tal
+                        <lb n="B3"/><gap reason="lost"/> mutuvaṉ <gap reason="lost"/> vaṉ <gap reason="illegible"/>
+                        <lb n="B4"/><gap reason="lost"/> num <gap reason="lost"/> 
+                        <lb n="B5"/><gap reason="lost"/> m-uṭaiyar <gap reason="lost"/> kamutuvaṉ pa<unclear>ṭṭ</unclear>ālaka <gap reason="lost"/>
+                        <lb n="B6"/><gap reason="lost"/> ṉ paṭṭālaka<choice><orig>n</orig><reg>ṉ</reg></choice> <gap reason="lost"/> kanum kamutuvaṉ paṭṭālaka<choice><orig>n</orig><reg>ṉ</reg></choice> viti-viṭaṅka<choice><orig>n</orig><reg>ṉ</reg></choice>um <unclear>ā</unclear>
+                        <lb n="B7"/><gap reason="lost"/> ālaka<choice><orig>n</orig><reg>ṉ</reg></choice> tēva<choice><orig>n</orig><reg>ṉ</reg></choice>um <gap reason="lost"/> m<choice><orig>u</orig><reg>ū</reg></choice>vāyirava<choice><orig>n</orig><reg>ṉ</reg></choice>um kamutuvaṉ cātta<choice><orig>n</orig><reg>ṉ</reg></choice> paṭṭ<supplied reason="lost">ā</supplied>laka<supplied reason="lost">n</supplied>
+                        <lb n="B8"/>mutuvaṉ tatta<choice><orig>n</orig><reg>ṉ</reg></choice> tta<choice><orig>n</orig><reg>ṉ</reg></choice>um <gap reason="lost"/>
+                        <lb n="B9"/><gap reason="lost" quantity="1" unit="character" precision="low"/> nilaiyum
+                    </p>
+                </div>
             </div>	
             
             <div type="apparatus">
@@ -110,18 +112,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1956-1957"/></bibl> (ARIE/1956-1957/B/1956-1957/156).</p>
-                <!--<p>Edited in <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl>.</p>-->
-                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:Mārkciyakānti+al2007_01"/></bibl> and ASI estampage available on BharatSHRI.</p>
-                
-                <!--<listBibl type="primary">
-                    
-                    <bibl n="NK">
-                    <ptr target="bib:Mārkciyakānti+al2007_01"/>
-                    <citedRange unit="page"></citedRange>
-                    <citedRange unit="item"></citedRange>
-                    </bibl>
-                    
-                    </listBibl>          --> 
+                <p>This revised edition by Emmanuel Francis, based on the ASI estampage available on BharatSHRI.</p>
                 
                 <listBibl type="secondary">
                     
