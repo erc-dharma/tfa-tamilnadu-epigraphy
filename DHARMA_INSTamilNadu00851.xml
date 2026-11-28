@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of Rājendra, year ?</title>
+                <title>Nākappaṭṭiṉam, Kāyārōkaṇam / Kārōṇasvāmin temple, time of Rājendra Cōḻa, year 13</title>
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -28,7 +28,7 @@
                 <msDesc>
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
-                        <summary>Rājendra I Cōḻa (1012-1044).</summary>
+                        <summary>Rājendra I Cōḻa (1012-1044). Meykkīrtti: <foreign>tiru maṉṉi vaḷara</foreign>.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -60,20 +60,42 @@
                         <l n="6">veñcamar <unclear>kaḷattu A</unclear><lb n="A2" break="no"/>ñcuvitt-aruḷi</l>
                         <l n="7"><unclear>Āṅkav</unclear>aṉaiyum peṇṭir paṇṭāramum</l>
                         <l n="8">nittila neṭuṅkaṭal Uttira-lāṭamum</l>
-                        <l n="9">... <lb n="A2"/>... <lb n="A3"/>...</l>
-                        
+                        <l n="9">veṟimalar tīrtt<hi rend="grantha">dha</hi> ceṟipu<unclear>nar</unclear> kaṅk<choice><orig>a</orig><reg>ai</reg></choice>yum</l>
+                        <l n="10">mā-p-poru taṇṭāṟ koṇṭa</l>
                     </lg>
+                    <p>
+                        kō-p-parakēcaripa<hi rend="grantha">nma</hi><unclear>r-āṉa</unclear>
+                        <lb n="A3"/><hi rend="grantha"><unclear>śrī</unclear></hi>-<unclear>rā</unclear><hi rend="grantha"><unclear>je</unclear></hi><unclear>ntira-cōḻa-tē</unclear>varku yaṇṭu <num value="13"><g type="numeral">10</g> 3</num>-Āvatu
+                    </p>
+                    <p><hi rend="grantha">kṣatri</hi>ya-<hi rend="grantha">śikhā</hi>māṇi-vaḷanāṭṭu paṭṭiṉa-k-kūṟṟattu cōḻa-kula-valli-paṭiṉattu tirukkārōṇam-uṭaiyār Aḻaka-viṭaṅka-<hi rend="grantha">de</hi>var
+                    </p>
+                    
+                    
                 </div>
                 
                 <div type="textpart" n="B">
                     <p>
-                        <lb n="B1"/>ṭṭary=u nilattukku vaṭakku mēl-pāṟk' ellai koṭṭaḷi var <gap reason="lost" quantity="2" unit="character"/> kiḻakkum vatā-pāṟk' ellai ...
-                        <lb n="B2"/>...
-                        <lb n="B3"/>... Ip-peru
+                        <lb n="B1"/>ṭṭar=u nilattukku vaṭakku mēl-pāṟk' ellai koṭṭaḷi var <gap reason="lost" quantity="2" unit="character"/> kiḻakkum vatā-pāṟk' ellai pālaciriyaṉ <unclear>Aṉa</unclear>ntaṉum <gap reason="lost"/>
+                        <lb n="B2"/><gap reason="lost"/> lak-aḷanta paṭi nilan <gap reason="lost"/> m Ivarkē cantirātittavaṟ Iṟaiyiliyāka viṟṟu-k kuṭutta viḷākattu ceykku kīl-pāṟk' ellai calā <gap reason="lost"/>
+                        <lb n="B3"/>kkum vaṭakku mēḷ-paṟk' e<supplied reason="lost">llai</supplied> <gap reason="lost"/> yaṉ kāṭa <gap reason="lost"/> nilattukku kiḻakkum vaṭa-pāṟk' ellai kaḷañcey vākkāl niṉṟum Ip-pe
                         
-                        <lb n="B4" break="no"/>ru nāṉk' ellaiyuḷḷ akappaṭṭa nilam ...
-                        <lb n="B5"/>nilattukku ...
-                        <lb n="B6"/>t=tiyaṉ ku <gap reason="lost"/> tiraḷaya<hi rend="grantha">nda</hi>-mūt=ti nilam vāravit=ta mēṟk' aṭai ...                   </p>
+                        <lb n="B4" break="no"/>ru nāṉk' ellaiyuḷḷ akappaṭṭa nilam ke � �<!--fractions--> taram kūṟu 1
+                    </p>
+                    <p>
+                        Ittēvarkku viṟṟu-k kuṭutta nilam Oṉṟē Āṟu mā v-araiyu<supplied reason="subaudible">m</supplied> muntirikaiyum Iṟ<choice><orig>a</orig><reg>ai</reg></choice>yiliyāka viṟṟu-k kuṭuttu Ittēvar koṇṭa kācu Iru-nūṟum
+                        <lb n="B5"/>nilattukku vilai-p-poruḷ ākavum
+                        Iṟaiyiḻikkavum āka koṇṭu viḷākattu ceykuḷa <gap reason="lost"/> vākkāliṉ niṉṟum pāratāyaṉ kātaṉ koṟṟaṉ nilattum tēvar nilam pāyvittu vākkālāṟē pāyap peṟuvat' ākavum
+                    </p>
+                    <p>
+                        viḷaka ceyyum <gap reason="lost"/>
+                        <lb n="B6"/>t=tiyaṉ ku <gap reason="lost"/> tiraḷaya<hi rend="grantha">nda</hi>-mūt=ti nilam vāravit=ta mēṟk' aṭai ceṟuvākkālāṟē vāravum peṟuvat' ākavum
+                    </p>
+                    <p>
+                        Ippati-k kalveṭṭuvittu-k koṭut=tōm Ivūr <hi rend="grantha">sabhai</hi>yōm
+                    </p>
+                    <p>
+                        It=ta<hi rend="grantha">ma</hi>m ceytār allatu <gap reason="lost"/>
+                    </p>
                 </div>
                 
             </div>	
@@ -91,9 +113,9 @@
                     <listApp>
                         <app loc="B3">
                             <lem>Ip-peru
-                        <lb n="B4" break="no"/>ru</lem>
+                                <lb n="B4" break="no"/>ru</lem>
                             <rdg source="bib:Mārkciyakānti+al2007_01">Ip-peru <gap reason="lost"/>
-                        <lb n="C1" break="no"/>ru</rdg>
+                                <lb n="C1" break="no"/>ru</rdg>
                         </app>                    
                     </listApp>
                 </div>
