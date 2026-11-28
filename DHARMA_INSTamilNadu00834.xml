@@ -28,7 +28,7 @@
                 <msDesc>
                     <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents>
-                        <summary>Rājendra I Cōḻa (1012-1044). Meykkīrtti: <foreign>tirumaṉṉi vaḷara</foreign>. Year <unclear>4</unclear> according to </summary>
+                        <summary>Rājendra I Cōḻa (1012-1044). Meykkīrtti: <foreign>tirumaṉṉi vaḷara</foreign>. Year <unclear>4</unclear> according to <bibl><ptr target="bib:ARIE1956-1957"/></bibl>.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -57,10 +57,7 @@
                 
                 <lg n="1" met="āciriyappā">
                     <l n="1"><lb n="2"/><supplied reason="lost">ti</supplied>ru maṉṉi Iru-nila-maṭa<lb n="3" break="no"/>n=taiyum</l>
-                    <l n="2">...</l>
-                </lg>
-                
-                <p>
+                    <l n="2">...
                     <lb n="3"/>
                     <lb n="4"/>
                     <lb n="5"/>
@@ -79,8 +76,8 @@
                     <lb n="18"/>
                     <lb n="19"/>
                     <lb n="20"/>... taṇ
-                    <lb n="21" break="no"/><unclear>ṭ</unclear>āṟ koṇṭa 
-                </p>
+                    <lb n="21" break="no"/><unclear>ṭ</unclear>āṟ koṇṭa</l>
+                </lg>
                 <p>
                     kō-parakēcaripa<hi rend="grantha">n<supplied reason="lost">ma</supplied></hi>r-ā<choice><orig>n</orig><reg>ṉ</reg></choice>a  <hi rend="grantha">śrī</hi>-rā<hi rend="grantha"><unclear>jentra</unclear></hi>-cō
                     <lb n="22" break="no"/>ḻa-<hi rend="grantha">de</hi>vaṟku yāṇṭu <gap reason="illegible" quantity="1" unit="character"/> <gap reason="lost" quantity="3" unit="character" precision="low"/>
@@ -116,27 +113,28 @@
                     <lb n="40"/><gap reason="lost" quantity="1" unit="character" precision="low"/> cakkalapa <gap reason="lost" quantity="3" unit="character" precision="low"/>
                     <lb n="41"/>lavil Iru <gap reason="lost" quantity="3" unit="character" precision="low"/>
                     
-                    <lb n="42"/><gap reason="illegible"/>
+                    <lb n="42"/><gap reason="illegible" quantity="9" unit="character" precision="low"/>
                     <lb n="43"/><hi rend="grantha">kṣatri</hi>ya-<hi rend="grantha">śikhā</hi>ma
                     <lb n="44" break="no"/>ṇi-vaḷanāṭṭu maruka
-                    <lb n="45" break="no"/>-nā<supplied reason="lost">ṭ</supplied>ṭu <hi rend="grantha">putaṉur <hi rend="grantha">sa</hi></hi> 
-                    <lb n="46"/>tu nāṅkaḷ <gap reason="lost" quantity="1" unit="character" precision="low"/>
-                    <lb n="47"/><gap reason="lost" quantity="3" unit="character" precision="low"/> ānam-uṭ<choice><orig>a</orig><reg>ai</reg></choice>yār
-                    <lb n="48"/>... tu ...
-                    <lb n="49"/>... yam I <gap reason="lost" quantity="1" unit="character" precision="low"/>
-                    <lb n="50"/>... ke ceykiḷ
-                    <lb n="51"/>ḷi puṟa ... yā <gap reason="lost" quantity="1" unit="character" precision="low"/>
+                    <lb n="45" break="no"/>-nā<supplied reason="lost">ṭ</supplied>ṭu <hi rend="check">putaṉ<choice><orig>u</orig><reg>ū</reg></choice>r <hi rend="grantha">sa</hi></hi> 
+                    <lb n="46"/><gap reason="lost" quantity="3" unit="character" precision="low"/> tu nāṅkaḷ <gap reason="lost" quantity="1" unit="character" precision="low"/>
+                    <lb n="47"/><gap reason="lost" quantity="3" unit="character" precision="low"/> <unclear>ra</unclear>ṇam-uṭ<choice><orig>a</orig><reg>ai</reg></choice>yār
+                    <lb n="48"/><gap reason="lost" quantity="3" unit="character" precision="low"/> <unclear>rat</unclear>tu <unclear>koṇ</unclear>
+                    <lb n="49"/><gap reason="lost" quantity="3" unit="character" precision="low"/> vu ya m I <gap reason="lost" quantity="1" unit="character" precision="low"/>
+                    <lb n="50"/><gap reason="lost" quantity="2" unit="character" precision="low"/> ke ceykiḷ <gap reason="lost" quantity="1" unit="character" precision="low"/>
+                    <lb n="51"/>kaḷi puṟa <gap reason="illegible" quantity="2" unit="character" precision="low"/> kaṭṭa yā <gap reason="lost" quantity="1" unit="character" precision="low"/>
                     <lb n="52"/><unclear cert="low">vi</unclear>ḷakku Uṅkaḷ E <gap reason="lost" quantity="1" unit="character" precision="low"/>
                     <lb n="53"/><unclear>ṟu</unclear> Eṅkaḷai col <gap reason="lost" quantity="1" unit="character" precision="low"/>
                     
                     <lb n="54"/>nāṅkaḷ <gap reason="lost" quantity="4" unit="character" precision="low"/>
-                    <lb n="55"/>...
-                    <lb n="56"/><gap reason="lost" quantity="1" unit="character" precision="low"/> ṇtār ...Oṭuk<supplied reason="lost">ki</supplied>
-                    <lb n="57"/>...
-                    <lb n="58"/>ta ...
-                    <lb n="59"/>kaḷi ...
-                    <lb n="60"/><gap reason="lost" quantity="1" unit="character" precision="low"/> n=tam ...
-                    <lb n="61"/>...
+                    <lb n="55"/><gap reason="lost" quantity="3" unit="character" precision="low"/> vu ya m te <gap reason="lost" quantity="1" unit="character" precision="low"/>
+                    <lb n="56"/><gap reason="lost" quantity="1" unit="character" precision="low"/> ṇtār <gap reason="lost" quantity="2" unit="character" precision="low"/> Oṭuk<supplied reason="lost">ki</supplied>
+                    <lb n="57"/><gap reason="illegible" quantity="9" unit="character" precision="low"/>
+                    <lb n="58"/><gap reason="illegible" quantity="5" unit="character" precision="low"/> kaṇ <gap reason="illegible" quantity="1" unit="character" precision="low"/>
+                    <lb n="59"/>taṉ naṟu <gap reason="illegible" quantity="1" unit="character" precision="low"/> kāka
+                    <lb n="59"/>kaḷi <gap reason="illegible" quantity="7" unit="character" precision="low"/>
+                    <lb n="60"/><gap reason="lost" quantity="1" unit="character" precision="low"/> n=tam <gap reason="illegible" quantity="5" unit="character" precision="low"/>
+                    <lb n="61"/><gap reason="illegible" quantity="9" unit="character" precision="low"/>
                 </p>
                 
             </div>	
